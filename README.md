@@ -14,9 +14,6 @@
 - Untact Teck Show
   - 일시: 8.13 ~ 8.15
   - [Link](http://seoulvrar.com/)
-- 2020년 하반기 SW개발 신입 LINER 공개채용 온라인 채용박람회
-  - 일시: 8. 26 ~ 8. 28  
-  - [Link](https://recruit.linepluscorp.com/lineplus/career/detail/20004421?classId=&entTypeCd=&tag=&page=)
 - 8월 온라인 우아한테크세미나
   - 일시: 08. 26
   - 신청: 08. 25까지 [Link](https://forms.gle/ie8aUe3pAE6h9zu19)
@@ -28,7 +25,7 @@
   - 신청 접수 종료: 8.26
   - [Link](https://brandi.goorm.io/apply/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b)
 - [방구석 LIVE] 당근마켓 서버 개발/SRE 채용 오픈세션
-  - 신청 접수 종료: 8.26
+  - 일시: 8.26 18:30 ~ 21:00
   - [Link](https://festa.io/events/1146?fbclid=IwAR1Acc02XDAt2Rnbd_7FYhpZkf3ImGMbtQlCMbj9EZbbKIyVn3Ie6A21QI4)
 - 2020년 하반기 SW개발 신입 LINER 공개채용 온라인 채용박람회
   - 일시: 8. 26. ~ 8. 28. AM 11
