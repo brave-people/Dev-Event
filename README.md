@@ -14,6 +14,13 @@
 - Untact Teck Show
   - 일시: 8.13 ~ 8.15
   - [Link](http://seoulvrar.com/)
+- 2020년 하반기 SW개발 신입 LINER 공개채용 온라인 채용박람회
+  - 일시: 8. 26 ~ 8. 28  
+  - [Link](https://recruit.linepluscorp.com/lineplus/career/detail/20004421?classId=&entTypeCd=&tag=&page=)
+- 8월 온라인 우아한테크세미나
+  - 일시: 08. 26
+  - 신청: 08. 25까지 [Link](https://forms.gle/ie8aUe3pAE6h9zu19)
+  - 신청하지 않더라도 우아한Tech 유튜브 채널에서 중계
 - AWS Builders Online Series
   - 일시: 8.27 
   - [Link](https://aws.amazon.com/ko/events/builders-online-series/?sc_icampaign=field_apac_field_webinar_aws-kr-builders-series_20200827_7010z000001LlkX&sc_ichannel=ha&sc_icontent=awssm-5417&sc_iplace=1up&trk=ha_ed_1up_builder_series20q3_kr~ha_awssm-5417&trkCampaign=builders-online-series)
