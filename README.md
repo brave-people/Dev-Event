@@ -1,8 +1,14 @@
-# Dev Event
 
+<div align=center>
+
+<h1> 🎉 Dev Event </h1>
+
+
+[![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](hhttps://github.com/brave-people/Dev-Event/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
 
+</div>
 
 개발자 컨퍼런스 및 대회 일정을 알려드립니다.
 
@@ -59,7 +65,7 @@
 ## 8월 채용
 - 신한 두드림 잡매칭 데이
   - 일시: 8. 23 (서류 접수 마감)
-  - [Link](http://www.dodreammatchmakers.com/)
+  - 신청: [Link](http://www.dodreammatchmakers.com/)
 
 
  
