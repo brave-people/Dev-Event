@@ -10,10 +10,10 @@
 
 </div>
 
-개발자 컨퍼런스 및 대회 일정을 알려드립니다.
+개발자 컨퍼런스 및 해커톤 일정을 알려드립니다.
 
 
-## 20년 8월
+## 20년 08월
 - [KAIST] 2020년 K-MOOC 클라우드 기반 소프트웨어 엔지니어링 온라인 특강
   - 일시: 8.18 14:00 ~ 15:30
   - 신청: [Link](https://onoffmix.com/event/221233)
@@ -48,25 +48,32 @@
   - 첫 번째 대회: 09. 10. (목) 19:30 - 22:30
   - 두 번째 대회: 10. 08. (목) 19:30 - 22:30	
   - 세 번째 대회: 11. 05. (목) 19:30 - 22:30	
-- Microsoft와 JA Kor﻿ea가 함께하는 Data Science·AI 교육 프로그램
+- Microsoft와 JA Korea가 함께하는 Data Science·AI 교육 프로그램
   - 일시: 6. 11 ~ 10. 30
   - 신청: [Link](https://www.jakorea.org/front/community/user/noticeview.do?seq=1195&board_subtype=&navDepth1=1&navDepth2=1&cPage=&searchText=)
 
 
-## 20년 9월
+## 20년 09월
 
 - [GCL 무료 온라인 교육] 실습과 함께하는 AWS 서버 인프라 구축
   - 주관: 한국글로벌널리지
   - 일시: 9.17 (목) 13:00 ~ 17:00
   - 신청: [Link](https://onoffmix.com/event/222910)
+- 파이콘 한국 2020
+  - 일시: 9.26 (토) ~ 9.27 (일)
+  - 신청: [Link](https://www.pycon.kr/2020/)
 
+
+## 20년 10월
+- 2020 데이터야 놀자 
+  - 일시: 10.17 (토)
+  - 신청: [Link](https://datayanolja.github.io/)
 
 
 ## 8월 채용
 - 신한 두드림 잡매칭 데이
   - 일시: 8. 23 (서류 접수 마감)
   - 신청: [Link](http://www.dodreammatchmakers.com/)
-
 
  
  ## 개발자 모임 / 커뮤니티 / 동아리
