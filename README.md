@@ -18,29 +18,40 @@
 
 ## 20년 9월 행사
 
-- Microsoft와 JA Korea가 함께하는 Data Science·AI 교육 프로그램
+- __Microsoft와 JA Korea가 함께하는 Data Science·AI 교육 프로그램__
   - 일시: 6. 11 ~ 10. 30
   - 신청: [Link](https://www.jakorea.org/front/community/user/noticeview.do?seq=1195&board_subtype=&navDepth1=1&navDepth2=1&cPage=&searchText=)
-- 프로그래머스 월간 코드 챌린지 시즌1
-  - 신청: [Link](https://programmers.co.kr/competitions/417/monthly-code-challenge-s1)
+- __프로그래머스 월간 코드 챌린지 시즌1__
   - 등록: 08. 27 14:00 ~ 11. 05. 18:00
+  - 신청: [Link](https://programmers.co.kr/competitions/417/monthly-code-challenge-s1)
   - 첫 번째 대회: 09. 10. (목) 19:30 - 22:30
   - 두 번째 대회: 10. 08. (목) 19:30 - 22:30	
-  - 세 번째 대회: 11. 05. (목) 19:30 - 22:30	
-- 2020 제주 블록체인 해커톤
+  - 세 번째 대회: 11. 05. (목) 19:30 - 22:30
+- __빅데이터 / 클라우드 개발분야 연수생 모집__
+  - 주관: 고용노동부
+  - 등로: 9. 03
+  - 신청: [Link](http://infocom.ssu.ac.kr/rb/?c=2/51&p=5&uid=5885)
+- __REAL 2020 삼성 SDS 온라인 컨퍼런스__
+  - 일시: 9. 09 ~ 9. 10 14:00 ~ 16:00
+  - 참가: [Link](http://real.samsungsds.com/)
+- __2020 제주 블록체인 해커톤__
   - 일시: 8. 31 ~ 9. 13
   - 신청: [Link](http://jjbw.io/)
-- [GCL 무료 온라인 교육] 실습과 함께하는 AWS 서버 인프라 구축
+- __실습과 함께하는 AWS 서버 인프라 구축__
   - 주관: 한국글로벌널리지
+  - 무료 온라인 교육
   - 일시: 9.17 (목) 13:00 ~ 17:00
   - 신청: [Link](https://onoffmix.com/event/222910)
-- 파이콘 한국 2020
+- __AI EXPO KOREA 2020 국제인공지능대전__
+  - 일시: 9.23 ~ 9.25
+  - 신청: [Link](http://www.aiexpo.co.kr/)
+- __2020 파이콘 한국__
   - 일시: 9.26 (토) ~ 9.27 (일)
   - 신청: [Link](https://www.pycon.kr/2020/)
 
 
 ## 20년 10월
-- 2020 데이터야 놀자 
+- __2020 데이터야 놀자__
   - 일시: 10.17 (토)
   - 신청: [Link](https://datayanolja.github.io/)
 
@@ -48,25 +59,27 @@
 
  
  ## 개발자 모임 / 커뮤니티 / 동아리
- - 스프린트 서울
+ - __스프린트 서울__
    - 홈페이지: [www.sprintseoul.org](https://www.sprintseoul.org/)
    - 수다방: [gitter.im/sprintseoul/community](https://gitter.im/sprintseoul/community)
- - 모두의 연구소
+ - __모두의 연구소__
    - 홈페이지: [pay.modulabs.co.kr](http://pay.modulabs.co.kr/)
- - DDD IT 연합 동아리
+ - __DDD IT 연합 동아리__
    - 최근 모임: 20. 02. 15.
- - 스프링 캠프
+ - __스프링 캠프__
    - 최근 모임: 2019 스프링 캠프(19. 04. 27.)
    - 홈페이지: [springcamp.io/2019](https://www.springcamp.io/2019/)
- - 우아한 테크의 밤
+ - __CCCR 아카데미__
+   - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
+ - __우아한 테크의 밤__
    - 최근 모임: 19. 12. 18
- - IT인프라 엔지니어 그룹 밋업
+ - __IT인프라 엔지니어 그룹 밋업__
    - 최근 모임: 19. 12. 19.
    - 홈페이지: [FaceBook. IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
- - GDG DevFest Seoul
+ - __GDG DevFest Seoul__
    - 최근 모임: 19. 10. 20.
    - 홈페이지: [FaceBook. GDG DevFest Korea](https://www.facebook.com/devfest.seoul.2019/)
- - OSS 개발자 포럼 2020
+ - __OSS 개발자 포럼 2020__
    - 홈페이지: [FaceBook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
- - Google Developers Experts
+ - __Google Developers Experts__
    - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
