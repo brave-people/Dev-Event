@@ -20,6 +20,7 @@
 
 - [2020년 08월](./2020/20_08.md)
 
+<br />
 
 ## 20년 9월 행사
 
@@ -39,6 +40,10 @@
 - __REAL 2020 삼성 SDS 온라인 컨퍼런스__
   - 일시: 9. 09 ~ 9. 10 14:00 ~ 16:00
   - 참가: [Link](http://real.samsungsds.com/)
+- __Google Cloud RUN! 서버리스 애플리케이션 개발 챌린지__
+  - 주관: GS Neotek(with Google Cloud)
+  - 일시: 09. 10 13:00 - 17:00
+  - 신청: [Link](https://events.withgoogle.com/google-cloud-boot-camp-with-gs-neotek/)
 - __NH디지털Challenge+ 3기 온라인 데모데이__
   - 등록: 08. 11 ~ 09. 07
   - 일시: 09. 11 14:00 ~ 16:00
@@ -51,6 +56,10 @@
   - 무료 온라인 교육
   - 일시: 9.17 (목) 13:00 ~ 17:00
   - 신청: [Link](https://onoffmix.com/event/222910)
+- __2020 ETRI 자율성장 인공지능 경진대회__
+  - 대회1: 08. 03 ~ 09. 21
+  - 대회2: 08. 03 ~ 10. 13
+  - 신청: [Link](https://fashion-how.org/ETRI/index.html)
 - __AI EXPO KOREA 2020 국제인공지능대전__
   - 일시: 9.23 ~ 9.25
   - 신청: [Link](http://www.aiexpo.co.kr/)
