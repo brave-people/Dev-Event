@@ -7,6 +7,7 @@
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
+![Last commit](https://img.shields.io/github/last-commit/brave-people/Dev-Event?style=flat-square)
 
 </div>
 
@@ -35,8 +36,12 @@
   - 세 번째 대회: 11. 05. (목) 19:30 - 22:30
 - __빅데이터 / 클라우드 개발분야 연수생 모집__
   - 주관: 고용노동부
-  - 등로: 9. 03
+  - 등록: 9. 03
   - 신청: [Link](http://infocom.ssu.ac.kr/rb/?c=2/51&p=5&uid=5885)
+- __K-사이버 시큐리티챌린지 2020__
+  - 주최: 과학기술정보통신부
+  - 일시: 09. 07 ~ 10. 23
+  - 참여: [Link](https://www.k-csc2020.com/)
 - __REAL 2020 삼성 SDS 온라인 컨퍼런스__
   - 일시: 9. 09 ~ 9. 10 14:00 ~ 16:00
   - 참가: [Link](http://real.samsungsds.com/)
