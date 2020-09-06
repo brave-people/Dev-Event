@@ -1,7 +1,7 @@
 
 <div align=center>
 
-<h1> 🎉 Dev Event </h1>
+![img](./static/title.PNG)
 
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
