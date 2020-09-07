@@ -5,16 +5,18 @@
 
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
-
 [![HitCount](http://hits.dwyl.com/brave-people/Dev-Event.svg)](http://hits.dwyl.com/brave-people/Dev-Event)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
 ![Last commit](https://img.shields.io/github/last-commit/brave-people/Dev-Event?style=flat-square)
 
 </div>
 
 개발자 컨퍼런스 및 해커톤 일정을 알려드립니다.
+
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
+
 
 <br />
 
