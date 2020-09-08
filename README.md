@@ -47,6 +47,9 @@
 - __REAL 2020 삼성 SDS 온라인 컨퍼런스__
   - 일시: 9. 09 ~ 9. 10 14:00 ~ 16:00
   - 참가: [Link](http://real.samsungsds.com/)
+- __AI CHAMPIONSHIP 2020__
+  - 등록: 09. 09 - 09. 29 
+  - 신청: [Link](https://www.k-startup.go.kr/main.do)
 - __Google Cloud RUN! 서버리스 애플리케이션 개발 챌린지__
   - 주관: GS Neotek(with Google Cloud)
   - 일시: 09. 10 13:00 - 17:00
@@ -85,6 +88,11 @@
   - 일시: 10.17 (토)
   - 신청: [Link](https://datayanolja.github.io/)
 
+
+## 20년 11월
+- __COMEUP 2020__
+  - 일시: 11.19 ~ 11.21
+  - 홈페이지: [Link](https://www.kcomeup.com/)
 
 ---------------
  
