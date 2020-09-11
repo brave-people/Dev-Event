@@ -16,7 +16,25 @@
 
 개발자 컨퍼런스 및 해커톤 일정을 알려드립니다.
 
+</div>
 
+<br />
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> 저장소에 기여해주신 분들입니다. PR 환영합니다!
 
 <br />
 
@@ -167,17 +185,3 @@
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
