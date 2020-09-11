@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "LandWhale2",
+      "name": "HyeokJin Kim",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/43875634?v=4",
+      "profile": "https://landwhale2.github.io/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Dev-Event",
+  "projectOwner": "brave-people",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
