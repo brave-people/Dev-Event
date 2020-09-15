@@ -21,6 +21,8 @@
 <br />
 
 
+## Contributors ✨
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -64,6 +66,10 @@
   - 분류: `교육`, `클라우드`
   - 등록: 9. 03
   - 신청: [Link](http://infocom.ssu.ac.kr/rb/?c=2/51&p=5&uid=5885)
+- __[KISA] 제8회 핀테크 해커톤 및 아이디어, 논문 공모전__ 
+  - 분류: `해커톤`, `핀테크`
+  - 일정: 8/06 ~ 9/20 (각 행사별 일정 링크 참조)
+  - 신청: [Link](https://www.onoffmix.com/event/220950)
 - __K-사이버 시큐리티챌린지 2020__
   - 주최: 과학기술정보통신부
   - 분류: `대회`, `보안`, `인공지능`
@@ -95,7 +101,7 @@
   - 일시: 09. 11 09:30 ~ 17:00
   - 신청: [Link](https://www.on-jobfair.com/)
 - __2020 제주 블록체인 해커톤__
-  - 분류: `대회`, `블록체인`
+  - 분류: `해커톤`, `블록체인`
   - 일시: 8. 31 ~ 9. 13
   - 신청: [Link](http://jjbw.io/)
 - __실습과 함께하는 AWS 서버 인프라 구축__
@@ -108,6 +114,9 @@
   - 주관: 부산광역시, KISA
   - 일시: 9.18 (금) 14:00 ~ 17:00
   - 등록: [Link](https://www.onoffmix.com/event/223339)
+- __2020년 경기도 온라인 블록체인 해커톤__ 
+  - 분류: `해커톤`, `블록체인`
+  - 일시: 9.08 ~ 09. 21
 - __2020 ETRI 자율성장 인공지능 경진대회__
   - 분류: `대회`, `인공지능`
   - 대회1: 08. 03 ~ 09. 21
@@ -182,7 +191,4 @@
    - 홈페이지: [Facebook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
  - __Google Developers Experts__
    - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
