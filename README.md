@@ -152,7 +152,14 @@
   - 분류: `온라인`, `코딩 대회`, `초중고?`
   - 주최: 과학기술정보통신부, 교육부 
   - 주관: 한국과학창의재단, gooorm 
+  - 일시: 10. 12 ~ 10. 25
   - 참가: [Link](https://codingparty.goorm.io/coming-soon)
+- __꿈꾸는아이 경진대회 시즌1__
+  - 분류: `경진대회`, `인공지능`
+  - 접수: ~ 10.09 
+  - 신청: [Link](https://dreamai.kr/fair)
+- __제 2회 발전빅데이터 AI 경진대회__
+  - 신청: [Link](https://ewp.co.kr/kor/subpage/contents.asp?cn=V6V25JGP&ln=TBXZM2LI&sb=J0UTZYGS&tb=6DP9QZA&state=view&idx=26204)
 - __2020 삼성 오픈소스 컨퍼런스__
   - 분류: `컨퍼런스`, `오픈소스`
   - 일시: 10.14 (토)
