@@ -136,6 +136,10 @@
   - 분류: `대회`, `인공지능`
   - 일시: 9.23 ~ 9.25
   - 신청: [Link](http://www.aiexpo.co.kr/)
+- __현업 데이터 분석가와 함께하는 라이브 코딩 SHOW__
+  - 일시: 9.26 13:00 ~ 17:00
+  - 분류: `교육`, `무료`, `데이터 사이언스`
+  - 신청: [Link](https://abit.ly/livecodingshow)
 - __2020 파이콘 한국__
   - 분류: `컨퍼런스`
   - 일시: 09.26 (토) ~ 09.27 (일)
@@ -214,6 +218,12 @@
  - __한이음__ 
    - 설명: 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 현업 실무 기술이반영된 프로젝트를 수행
    - 홈페이지: [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
+ - __넥스터즈__ 
+   - 개발자와 디자이너 연합 동아리 
+   - 홈페이지: [Link](http://teamnexters.com/)
+ - __yapp__
+   - 대학생 연합 동아리로서 현재 17기 활동중
+   - 홈페이지: [Link](http://yapp.co.kr/)
  - __양재동 코드랩__
    - 홈페이지: [www.codelabs.kr](https://www.codelabs.kr/)
    - 유튜브: [Link](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg?view_as=subscriber)
@@ -224,6 +234,8 @@
    - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
  - __우아한 테크의 밤__
    - 최근 모임: 19. 12. 18
+ - __DevOps Korea__ 
+   - 홈페이지: [Facebook DevOps](https://www.facebook.com/groups/TeAnE/)
  - __IT인프라 엔지니어 그룹 밋업__
    - 최근 모임: 19. 12. 19.
    - 홈페이지: [Facebook. IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
@@ -234,4 +246,9 @@
    - 홈페이지: [Facebook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
  - __Google Developers Experts__
    - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
-
+- __오픈 인프라 2020__
+  - 링크: [Link](http://oidc.co.kr/)
+  
+<br />
+  
+더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
