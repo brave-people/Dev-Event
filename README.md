@@ -170,6 +170,10 @@
   - 분류: `경진대회`, `인공지능`
   - 접수: 09.09 ~ 10.06 
   - 신청: [Link](https://ewp.co.kr/kor/subpage/contents.asp?cn=V6V25JGP&ln=TBXZM2LI&sb=J0UTZYGS&tb=6DP9QZA&state=view&idx=26204)
+- __제2회 금융 빅데이터 플랫폼 데이터 활용 교육__
+  - 분류: `교육`, `빅데이터`
+  - 주최: BC 카드
+  - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSemH6_eptbuGd0tGyFGEEOb042jmOV7O_rMoKxwuER6CLKAUA/viewform)
 - __JUNCTION x SEOUL__ 
   - 분류: `온라인`, `해커톤`
   - 접수: 09. 01 ~ 09. 26
@@ -179,6 +183,11 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 일시: 10.14 (토)
   - 신청: [Link](https://www.soscon.net/)
+- __AI Plus__
+  - 분류: `컨퍼런스`, `인공지능`
+  - 주최: 이스트소프트
+  - 일시: 10. 14
+  - 신청: [Link](https://festa.io/events/1204)
 - __2020 데이터야 놀자__
   - 분류: `컨퍼런스`, `데이터`
   - 일시: 10.17 (토)
