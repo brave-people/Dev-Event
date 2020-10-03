@@ -170,3 +170,13 @@
 <br />
   
 더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
+
+<br />
+
+<div align=center>
+
+![why not change the world](./static/bottom.png)
+
+<><
+
+</div>
