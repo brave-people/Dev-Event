@@ -62,6 +62,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 등록: 10. 08. (목) 19:00
   - 신청: [Link](https://www.onoffmix.com/event/224714) 
+- __AWSKRUG 데이터사이언스 온라인 모임__
+  - 분류: `모임`, `데이터 사이언스`
+  - 일시: 10. 08 (목) 19:00
+  - 신청: [Link](https://www.meetup.com/ko-KR/awskrug/events/273681692/?fbclid=IwAR3erbNXq9OHOJGUmkN8iDfu9fI8e0_5m0lWxok1fRnkZJybb8kmHjPDVGc)
 - __꿈꾸는아이 경진대회 시즌1__
   - 분류: `경진대회`, `인공지능`
   - 접수: ~ 10.09 
@@ -73,6 +77,7 @@
 - __제2회 금융 빅데이터 플랫폼 데이터 활용 교육__
   - 분류: `교육`, `빅데이터`
   - 주최: BC 카드
+  - 기간: 10. 08 (목) 시간 선택
   - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSemH6_eptbuGd0tGyFGEEOb042jmOV7O_rMoKxwuER6CLKAUA/viewform)
 - __JUNCTION x SEOUL__ 
   - 분류: `온라인`, `해커톤`
@@ -125,48 +130,65 @@
 
 ---------------
  
- ## 개발자 모임 / 커뮤니티 / 동아리
- - __스프린트 서울__
-   - 홈페이지: [www.sprintseoul.org](https://www.sprintseoul.org/)
-   - 수다방: [gitter.im/sprintseoul/community](https://gitter.im/sprintseoul/community)
- - __모두의 연구소__
-   - 홈페이지: [pay.modulabs.co.kr](http://pay.modulabs.co.kr/)
- - __DDD IT 연합 동아리__
-   - 최근 모임: 20. 02. 15.
- - __한이음__ 
-   - 설명: 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 현업 실무 기술이반영된 프로젝트를 수행
-   - 홈페이지: [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
- - __넥스터즈__ 
-   - 개발자와 디자이너 연합 동아리 
-   - 홈페이지: [Link](http://teamnexters.com/)
- - __yapp__
-   - 대학생 연합 동아리로서 현재 17기 활동중
-   - 홈페이지: [Link](http://yapp.co.kr/)
- - __양재동 코드랩__
-   - 홈페이지: [www.codelabs.kr](https://www.codelabs.kr/)
-   - 유튜브: [Link](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg?view_as=subscriber)
- - __스프링 캠프__
-   - 최근 모임: 2019 스프링 캠프(19. 04. 27.)
-   - 홈페이지: [springcamp.io/2019](https://www.springcamp.io/2019/)
- - __CCCR 아카데미__
-   - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
- - __우아한 테크의 밤__
-   - 최근 모임: 19. 12. 18
- - __DevOps Korea__ 
-   - 홈페이지: [Facebook DevOps](https://www.facebook.com/groups/TeAnE/)
- - __IT인프라 엔지니어 그룹 밋업__
-   - 최근 모임: 19. 12. 19.
-   - 홈페이지: [Facebook. IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
- - __GDG DevFest Seoul__
-   - 최근 모임: 19. 10. 20.
-   - 홈페이지: [Facebook. GDG DevFest Korea](https://www.facebook.com/devfest.seoul.2019/)
- - __OSS 개발자 포럼 2020__
-   - 홈페이지: [Facebook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
- - __Google Developers Experts__
-   - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
+
+<br />
+
+## 개발 교육
+
+- __양재동 코드랩__
+  - 홈페이지: [www.codelabs.kr](https://www.codelabs.kr/)
+  - 유튜브: [Link](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg?view_as=subscriber)
+- __스프링 캠프__
+  - 최근 모임: 2019 스프링 캠프(19. 04. 27.)
+  - 홈페이지: [springcamp.io/2019](https://www.springcamp.io/2019/)
+- __CCCR 아카데미__
+  - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
+- __모두의 연구소__
+  - 홈페이지: [pay.modulabs.co.kr](http://pay.modulabs.co.kr/)
+
+<br />
+
+## 개발자 모임
+
+- __스프린트 서울__
+  - 홈페이지: [www.sprintseoul.org](https://www.sprintseoul.org/)
+  - 수다방: [gitter.im/sprintseoul/community](https://gitter.im/sprintseoul/community)
+- __우아한 테크의 밤__
+  - 최근 모임: 19. 12. 18
+- __DevOps Korea__ 
+  - 홈페이지: [Facebook DevOps](https://www.facebook.com/groups/TeAnE/)
+- __IT인프라 엔지니어 그룹 밋업__
+  - 최근 모임: 19. 12. 19.
+  - 홈페이지: [Facebook. IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
+- __GDG DevFest Seoul__
+  - 최근 모임: 19. 10. 20.
+  - 홈페이지: [Facebook. GDG DevFest Korea](https://www.facebook.com/devfest.seoul.2019/)
+- __OSS 개발자 포럼 2020__
+  - 홈페이지: [Facebook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
+- __Google Developers Experts__
+  - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
 - __오픈 인프라 2020__
-  - 링크: [Link](http://oidc.co.kr/)
-  
+- 링크: [Link](http://oidc.co.kr/)
+
+<br />
+
+## 개발자 동아리
+
+- __DDD IT 연합 동아리__
+  - 최근 모임: 20. 02. 15.
+- __한이음__ 
+  - 설명: 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 현업 실무 기술이반영된 프로젝트를 수행
+  - 홈페이지: [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
+- __넥스터즈__ 
+  - 개발자와 디자이너 연합 동아리 
+  - 홈페이지: [Link](http://teamnexters.com/)
+- __yapp__
+  - 대학생 연합 동아리로서 현재 17기 활동중
+  - 홈페이지: [Link](http://yapp.co.kr/)
+- __매쉬업__
+  - 링크: [Link](https://www.facebook.com/mashupgroup/)
+
+
 <br />
   
 더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
@@ -176,6 +198,8 @@
 <div align=center>
 
 ![why not change the world](./static/bottom.png)
+
+용감한 친구들 with 남송리 3번지 
 
 <><
 
