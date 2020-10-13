@@ -213,7 +213,12 @@
   - 분류: `컨퍼런스`
   - 일시: TBA 
   - 홈페이지: [Link](https://deview.kr/2020/schedule)
-
+- __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
+  - 분류: `교육`
+  - 일시: 과정별 상의
+  - 신청: [Link](https://ssac.seoul.kr/main/index.jsp)
+  
+  
 ---------------
  
  ## 개발자 모임 / 커뮤니티 / 동아리
