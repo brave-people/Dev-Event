@@ -121,6 +121,9 @@
   - 주관: 한국과학창의재단, gooorm 
   - 일시: 10. 12 ~ 10. 25
   - 참가: [Link](https://codingparty.goorm.io/coming-soon)
+- __2020 공유저작물 및 오픈소스 SW 라이선스 콘퍼런스__
+  - 일시: 10. 28(수) 14:00 ~ 17:30
+  - 참가: [Link](https://event-us.kr/copyright/event/23789)
 
 <br />
 
@@ -149,6 +152,11 @@
   - 분류: `해커톤`
   - 접수: 12. 06 
   - 신청: [Link](http://paas-ta.co.kr/info.jsp)
+- __Universe 2020__ 
+  - 주최: Github
+  - 분류: `온라인`, `컨퍼런스`
+  - 일시: 12. 08 ~ 10
+  - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
 
   
 ---------------
