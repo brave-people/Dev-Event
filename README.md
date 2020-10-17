@@ -122,6 +122,7 @@
   - 일시: 10. 12 ~ 10. 25
   - 참가: [Link](https://codingparty.goorm.io/coming-soon)
 - __2020 공유저작물 및 오픈소스 SW 라이선스 콘퍼런스__
+  - 분류: `온라인`, `오픈소스`
   - 일시: 10. 28(수) 14:00 ~ 17:30
   - 참가: [Link](https://event-us.kr/copyright/event/23789)
 
@@ -129,6 +130,10 @@
 
 ## 20년 11월
 
+- __KCD(Korea Community Day) 2020__
+  - 분류: `컨퍼런스`
+  - 일시: 11. 07(토) 13:00
+  - 신청: [Link](https://kcd2020.festa.io/)
 - __COMEUP 2020__
   - 분류: `컨퍼런스`, `스타트업`
   - 일시: 11.19 ~ 11.21
@@ -140,7 +145,7 @@
   - 홈페이지: [Link](https://deview.kr/2020/schedule)
 - __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`
-  - 일시: 과정별 상의
+  - 일시: 과정별 상이
   - 신청: [Link](https://ssac.seoul.kr/main/index.jsp)
   
 
@@ -199,7 +204,7 @@
 - __Google Developers Experts__
   - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
 - __오픈 인프라 2020__
-- 링크: [Link](http://oidc.co.kr/)
+	- 링크: [Link](http://oidc.co.kr/)
 
 <br />
 
