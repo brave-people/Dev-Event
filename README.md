@@ -142,6 +142,10 @@
   - 분류: `컨퍼런스`, `인공지능`
   - 일시: 11. 02 ~ 11. 03
   - 신청: [Link](https://research.samsung.com/saif)
+- __[2020 OTHON] 오픈소스기반 창업모델 발굴 해커톤__
+  - 분류: `해커톤`, `오픈소스`
+  - 등록 마감: 11. 05
+  - 신청: [Link](https://www.oss.kr/notice/show/4cb8e674-c41c-4b95-8a07-843d0ac4a2e2)
 - __KCD(Korea Community Day) 2020__
   - 분류: `컨퍼런스`
   - 일시: 11. 07(토) 13:00
