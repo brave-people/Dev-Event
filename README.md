@@ -142,6 +142,10 @@
   - 분류: `컨퍼런스`, `인공지능`
   - 일시: 11. 02 ~ 11. 03
   - 신청: [Link](https://research.samsung.com/saif)
+- __SK ICT Tech Summit 2020__
+  - 신청: [Link](https://skicttechsummit.com/index.do)
+  - 분류: `컨퍼런스`
+  - 일시: 11. 04 ~ 11. 05 
 - __2020 SW교육페스티벌 랜선클래스 수업 참가자 모집__
   - 분류: `교육`
   - 일시: 11. 04(수) 11:00 ~ 11. 23(월) 15:50
@@ -154,20 +158,32 @@
   - 분류: `컨퍼런스`
   - 일시: 11. 07(토) 13:00
   - 신청: [Link](https://kcd2020.festa.io/)
+- __SAMSUMG SDS Techtonic 2020__
+  - 분류: `컨퍼런스`
+  - 일시: 11. 12(목)
+  - 신청: [Link](https://techtonic.samsungsds.com/)
 - __COMEUP 2020__
   - 분류: `컨퍼런스`, `스타트업`
   - 일시: 11.19 ~ 11.21
   - 홈페이지: [Link](https://www.kcomeup.com/)
+- __LINE DEVELOPER DAY 2020__
+  - 분류: `컨퍼런스`
+  - 일시: 11.25 ~ 11.27
+  - 등록: [Link](https://linedevday.linecorp.com/2020/en?fbclid=IwAR2UVX1waJaFMpXqL5XOjenkZfsRIqVEcuISq2U6KIDON6Fncbzd5xTXLoY)
 - __DEVIEW 2020__
   - 분류: `컨퍼런스`
   - 주최: 네이버
   - 일시: TBA 
   - 홈페이지: [Link](https://deview.kr/2020/schedule)
+- __if kakao 2020__
+  - 분류: `컨퍼런스`
+  - 일시: TBA
+  - 신청: [Link](https://if.kakao.com/)
 - __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`
   - 일시: 과정별 상이
   - 신청: [Link](https://ssac.seoul.kr/main/index.jsp)
-  
+
 
 <br />
 
