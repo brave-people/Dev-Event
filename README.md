@@ -83,6 +83,11 @@
   - 주최: 카이스트
   - 접수마감: 11. 08(일)
   - 신청: [Link](https://madcamp.io/notice/26)
+- __GCP를 이용한 통합 로그분석 시스템 설계 방법__
+  - 분류: `무료 교육`, `온라인`, `클라우드`
+  - 주최: 메가존
+  - 일시: 11. 11(수) 15:00 ~ 16:00
+  - 신청: [Link](https://www.allshowtv.com/detail.html?idx=396)
 - __SAMSUMG SDS Techtonic 2020__
   - 분류: `컨퍼런스`
   - 일시: 11. 12(목)
