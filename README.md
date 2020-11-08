@@ -92,6 +92,11 @@
   - 분류: `컨퍼런스`
   - 일시: 11. 12(목)
   - 신청: [Link](https://techtonic.samsungsds.com/)
+- __DIGITAL SPECTRUM 2020__
+  - 분류: `컨퍼런스`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 11. 16 ~ 11. 29
+  - 사전 신청: [Link](https://www.dspectrum.com/register?utm_source=register_da&utm_medium=blind_feed&utm_campaign=)
 - __COMEUP 2020__
   - 분류: `컨퍼런스`, `스타트업`
   - 일시: 11.19 ~ 11.21
