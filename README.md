@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -29,6 +29,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
+    <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
   </tr>
 </table>
 
