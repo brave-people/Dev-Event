@@ -212,6 +212,10 @@
   - 홈페이지: [Link](http://yapp.co.kr/)
 - __매쉬업__
   - 링크: [Link](https://www.facebook.com/mashupgroup/)
+- __AUSG__
+  - AWS 대학생 그룹. 클라우드와 프로그래밍에 관심이 있는 다양한 대학생이 모여 프로젝트를 진행.
+  - 2020년 9월에 선발된 4기 멤버들이 주축으로 활동 진행 중
+  - 링크: [Link](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/)
 
 
 <br />
@@ -220,12 +224,6 @@
 
 <br />
 
-<div align=center>
-
-![why not change the world](./static/bottom.png)
-
-용감한 친구들 with 남송리 3번지 
-
-<><
-
-</div>
+|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>| 
+|:--:| 
+| *용감한 친구들 with 남송리 3번지* |
