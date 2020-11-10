@@ -14,6 +14,8 @@
 
 </div>
 
+<div align=center>
+
 개발자 컨퍼런스 및 해커톤 일정을 알려드립니다.
 
 </div>
@@ -39,7 +41,7 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-> 저장소에 기여해주신 분들입니다. PR 환영합니다!
+> 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
 
 <br />
 
@@ -101,6 +103,11 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 11. 12(목)
   - 신청: [Link](https://register.gotowebinar.com/register/1177583960567515917)
+- __클라우드 기초 및 아마존 인턴십 설명회__
+  - 분류: `온라인`, `설명회`,  `클라우드`, 
+  - 주체: AWS
+  - 일시: 11. 20(금) 13:30 ~ 16:00
+  - 신청: [Link](https://pages.awscloud.com/traincert-APAC-event-OE-KR-Univ-Nov-webinar-2020-reg-event.html)
 - __DIGITAL SPECTRUM 2020__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존클라우드
@@ -152,6 +159,12 @@
   - 주최: 리얼리눅스 
   - 일시: 12. 02
   - 신청: [Link](https://festa.io/events/1291)
+- __대한민국 소프트웨어 대전2020__ 
+  - 분류: `컨퍼런스`, `오프라인`, `다양한 `
+  - 주최: 소프트웨이브 조직위원회 
+  - 일시: 12. 02 ~ 12. 04
+  - 신청: [Link](http://www.k-softwave.com/main.asp)
+
 - __Agile Korea Conference 2020__
   - 분류: `온라인`, `컨퍼런스`, `에자일`
   - 주최: 에자일코리아
@@ -167,11 +180,6 @@
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
-- __대한민국 소프트웨어 대전2020__ 
-  - 분류: `컨퍼런스`, `오프라인`, `다양한 `
-  - 주최: 소프트웨이브 조직위원회 
-  - 일시: 12. 02 ~ 12. 04
-  - 신청: [Link](http://www.k-softwave.com/main.asp)
 
 <br />
 
