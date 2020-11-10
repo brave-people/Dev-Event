@@ -117,6 +117,10 @@
   - 분류: `교육`, `온라인`, `무료`, `인공지능`
   - 일시: 11.21 ~ 11.22
   - 홈페이지: [Link](https://festa.io/events/1276)
+- __JetBrains Productivity Day - South Korea -__
+  - 분류: `컨퍼런스`
+  - 일시: 11.24
+  - 홈페이지: [Link](https://pages.jetbrains.com/online-productivity-day-2020)
 - __LINE DEVELOPER DAY 2020__
   - 분류: `컨퍼런스`
   - 주최: 라인
