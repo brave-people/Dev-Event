@@ -52,6 +52,7 @@
 
 
 ## 20년 11월
+
 - __제4회 삼성 AI 포럼__ 
   - 분류: `컨퍼런스`, `인공지능`
   - 일시: 11. 02 ~ 11. 03
@@ -116,16 +117,18 @@
   - 홈페이지: [Link](https://festa.io/events/1276)
 - __LINE DEVELOPER DAY 2020__
   - 분류: `컨퍼런스`
+  - 주최: 라인
   - 일시: 11.25 ~ 11.27
   - 등록: [Link](https://linedevday.linecorp.com/2020/en?fbclid=IwAR2UVX1waJaFMpXqL5XOjenkZfsRIqVEcuISq2U6KIDON6Fncbzd5xTXLoY)
 - __DEVIEW 2020__
   - 분류: `컨퍼런스`
   - 주최: 네이버
-  - 일시: TBA 
-  - 홈페이지: [Link](https://deview.kr/2020/schedule)
+  - 일시: 11. 25 ~ 11. 27
+  - 홈페이지: [Link](https://deview.kr/2020
 - __if kakao 2020__
   - 분류: `컨퍼런스`
-  - 일시: TBA
+  - 주최: 카카오
+  - 일시: 11. 18. ~ 11. 20.
   - 신청: [Link](https://if.kakao.com/)
 - __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`
@@ -142,17 +145,33 @@
   - 주최: 리얼리눅스 
   - 일시: 12. 02
   - 신청: [Link](https://festa.io/events/1291)
+- __Agile Korea Conference 2020__
+  - 분류: `온라인`, `컨퍼런스`, `에자일`
+  - 주최: 에자일코리아
+  - 일시: 12. 04 13:00 ~ 18:00
+  - 신청: [Link](https://festa.io/events/1253)
+  - 상세설명: [Link](https://www.notion.so/Agile-Korea-Conference-2020-b503ed32e0ee492696f966d617da10ea)
 - __파스-타 기반 서비스 개발 및 아이디어 공모전__
   - 분류: `해커톤`
   - 접수: 12. 06 
   - 신청: [Link](http://paas-ta.co.kr/info.jsp)
 - __Universe 2020__ 
-  - 주최: Github
   - 분류: `온라인`, `컨퍼런스`
+  - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
 
-  
+
+<br />
+
+## 21년 01월
+
+- __.NET Conf 2021 x Seoul__
+  - 분류: `온라인`, `컨퍼런스`, `.NET`
+  - 주최: 닷넷데브
+  - 일시: 01. 15(금) 10:00
+  - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+
 ---------------
  
 
