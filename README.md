@@ -161,7 +161,11 @@
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
-
+- __대한민국 소프트웨어 대전2020__ 
+  - 분류: `컨퍼런스`, `오프라인`, `다양한 `
+  - 주최: 소프트웨이브 조직위원회 
+  - 일시: 12. 02 ~ 12. 04
+  - 신청: [Link](http://www.k-softwave.com/main.asp)
 
 <br />
 
