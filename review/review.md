@@ -1,0 +1,23 @@
+# 행사 후기
+
+- 2020 당근마켓 개발자 채용 오픈 세션 후기
+    - [https://covenant.tistory.com/202](https://covenant.tistory.com/202)
+- IBM Developer Day 후기
+    - [https://devowen.com/207?category=726839](https://devowen.com/207?category=726839)
+- 2019 AWS DEV DAY SEOUL 후기
+    - [https://devowen.com/212?category=726839](https://devowen.com/212?category=726839)
+- 2020 엔젤핵 온라인 해커톤 후기!
+    - [https://devowen.com/302](https://devowen.com/302)
+- 2020 Naver HackDay 후기
+    - [https://daewoony.tistory.com/21](https://daewoony.tistory.com/21)
+    - [https://velog.io/@ehdrms2034/2020-네이버-핵데이-참가-후기-2020-Naver-Hackday](https://velog.io/@ehdrms2034/2020-%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%95%B5%EB%8D%B0%EC%9D%B4-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-2020-Naver-Hackday)
+- Udacity 데이터 사이언스 장학과정 수료기
+    - [https://medium.com/@violetboralee/udacity-데이터사이언스-장학과정-수료기-1-910c7d5aab9a](https://medium.com/@violetboralee/udacity-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-%EC%9E%A5%ED%95%99%EA%B3%BC%EC%A0%95-%EC%88%98%EB%A3%8C%EA%B8%B0-1-910c7d5aab9a)
+- FOUNDERS 블록체인 해커톤을 마치며
+    - [https://velog.io/@jacob0122/FOUNDERS-블록체인-해커톤을-마치며](https://velog.io/@jacob0122/FOUNDERS-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EB%A7%88%EC%B9%98%EB%A9%B0)
+- 2020 오픈소스 컨트리뷰톤 첫 merge 도전하기!!!
+    - [https://velog.io/@jacob0122/오픈소스-컨트리뷰톤-첫-merge-도전하기](https://velog.io/@jacob0122/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%86%A4-%EC%B2%AB-merge-%EB%8F%84%EC%A0%84%ED%95%98%EA%B8%B0)
+- 2019 컨트리뷰톤 후기
+    - [https://heowc.dev/2019/11/04/2019-contributon-feat-armeria/](https://heowc.dev/2019/11/04/2019-contributon-feat-armeria/)
+- 2017 넥스터즈 유니톤 해커톤 (예약플랫폼 후기)
+    - [https://medium.com/@hongkevin/프로젝트-1-예약플랫폼-오픈북-114fad0c4e08](https://medium.com/@hongkevin/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-%EC%98%88%EC%95%BD%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%98%A4%ED%94%88%EB%B6%81-114fad0c4e08)
