@@ -63,7 +63,6 @@
 
 <br />
 
-
 ## 20년 11월
 
 - __제4회 삼성 AI 포럼__ 
@@ -111,20 +110,30 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 11. 12(목)
   - 신청: [Link](https://register.gotowebinar.com/register/1177583960567515917)
-- __클라우드 기초 및 아마존 인턴십 설명회__
-  - 분류: `온라인`, `설명회`,  `클라우드`, 
-  - 주체: AWS
-  - 일시: 11. 20(금) 13:30 ~ 16:00
-  - 신청: [Link](https://pages.awscloud.com/traincert-APAC-event-OE-KR-Univ-Nov-webinar-2020-reg-event.html)
 - __DIGITAL SPECTRUM 2020__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 11. 16 ~ 11. 29
   - 사전 신청: [Link](https://www.dspectrum.com/register?utm_source=register_da&utm_medium=blind_feed&utm_campaign=)
+- __[MEGAZONE 웨비나] 언택트 시대! 생산성을 확보하는 업무 환경 구축 전략__ 
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존
+  - 일시: 2020년 11월 17일 (화) 오후 02:00 - 오후 04:00
+  - 신청: [Link](https://gc.hosting.kr/november_gaming-media_academy/?utm_source=community&amp;utm_medium=festa&amp;utm_campaign=Nov-GM-Academy)
+- __if kakao 2020__
+  - 분류: `컨퍼런스`
+  - 주최: 카카오
+  - 일시: 11. 18. ~ 11. 20.
+  - 신청: [Link](https://if.kakao.com/)
 - __COMEUP 2020__
   - 분류: `컨퍼런스`, `스타트업`
   - 일시: 11.19 ~ 11.21
   - 홈페이지: [Link](https://www.kcomeup.com/)
+- __네이버 클라우드 플랫폼에서 Terraform 과 Vault 활용하기__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 네이버클라우드플랫폼
+  - 일시: 11월 20일 (금) 오전 11:00 - 오후 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/2599674708498451470)
 - __(Open UP) 빅데이터 과정 교육__
   - 분류: `교육`, `온라인`, `무료`, `빅데이터`
   - 일시: 11.21 ~ 11.22
@@ -133,10 +142,6 @@
   - 분류: `교육`, `온라인`, `무료`, `인공지능`
   - 일시: 11.21 ~ 11.22
   - 홈페이지: [Link](https://festa.io/events/1276)
-- __JetBrains Productivity Day - South Korea -__
-  - 분류: `컨퍼런스`
-  - 일시: 11.24
-  - 홈페이지: [Link](https://pages.jetbrains.com/online-productivity-day-2020)
 - __LINE DEVELOPER DAY 2020__
   - 분류: `컨퍼런스`
   - 주최: 라인
@@ -146,12 +151,12 @@
   - 분류: `컨퍼런스`
   - 주최: 네이버
   - 일시: 11. 25 ~ 11. 27
-  - 홈페이지: [Link](https://deview.kr/2020)
-- __if kakao 2020__
-  - 분류: `컨퍼런스`
-  - 주최: 카카오
-  - 일시: 11. 18. ~ 11. 20.
-  - 신청: [Link](https://if.kakao.com/)
+  - 홈페이지: [Link](https://deview.kr/2020
+- __우분투한국커뮤니티 11월 온라인 세미나__ 
+  - 분류: `세미나`, `온라인`, `우분투`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 11. 28 14:00 ~ 17:00
+  - 등록: [Link](https://festa.io/events/1297)
 - __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`
   - 일시: 과정별 상이
