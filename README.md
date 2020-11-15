@@ -22,6 +22,16 @@
 
 <br />
 
+## 감사합니다.
+
+<p align="center"> 
+<img src="./static/visitor.png" alt="visitor" width="" />
+<center> 3일간 978뷰! 방문해주신 분들 감사합니다! 🙏🙏 </center>
+</p>
+
+
+
+<br />
 
 ## Contributors ✨
 
