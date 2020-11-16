@@ -157,6 +157,16 @@
   - 분류: `교육`, `온라인`, `무료`, `인공지능`
   - 일시: 11.21 ~ 11.22
   - 홈페이지: [Link](https://festa.io/events/1276)
+- __GitHub in DevOps Meetup__ 
+  - 분류: `웨비나`, `온라인`, `Github`
+  - 주최: Github Korea
+  - 일시: 11. 24. (화) 16:00 - 18:00
+  - 신청: [Link](https://festa.io/events/1256)
+- __제3회 KB국민은행 소프트웨어 경진대회__
+  - 분류: `해커톤`
+  - 주최: KB국민은행
+  - 일시: 11. 25
+  - 홈페이지: [Link](http://www.kbsccoding.com/board/contest.php)
 - __LINE DEVELOPER DAY 2020__
   - 분류: `컨퍼런스`
   - 주최: 라인
