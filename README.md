@@ -149,6 +149,11 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 11월 20일 (금) 오전 11:00 - 오후 12:00
   - 신청: [Link](https://register.gotowebinar.com/register/2599674708498451470)
+- __Baseline Tutorial LIVE! with kaggle Grandmaster__
+  - 분류: `온라인`, `케글`
+  - 주회: ANAIN 어나인
+  - 일시: 11.21 (토) 13:00 - 14:00
+  - 신청: [Link](https://festa.io/events/1304) 
 - __(Open UP) 빅데이터 과정 교육__
   - 분류: `교육`, `온라인`, `무료`, `빅데이터`
   - 일시: 11.21 ~ 11.22
@@ -157,6 +162,11 @@
   - 분류: `교육`, `온라인`, `무료`, `인공지능`
   - 일시: 11.21 ~ 11.22
   - 홈페이지: [Link](https://festa.io/events/1276)
+- __R을 활용한 공공 데이터 패키지 만들기 해커톤__ 
+  - 분류: `R`, `해커톤`
+  - 주최: 과학기술정보통신부
+  - 접수마감: 11. 24
+  - 신청: [Link](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc)
 - __GitHub in DevOps Meetup__ 
   - 분류: `웨비나`, `온라인`, `Github`
   - 주최: Github Korea
