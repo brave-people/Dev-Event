@@ -228,6 +228,11 @@
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
+- __NHN FORWARD__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: NHN
+  - 일시: 12. 14 ~ 15
+  - 신청: [Link](https://forward.nhn.com/home)
 - __NAVER Cloud AI SUMMIT__ 
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
