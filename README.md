@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -44,6 +44,7 @@
     <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
     <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
   </tr>
 </table>
 
