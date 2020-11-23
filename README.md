@@ -238,6 +238,11 @@
 
 ## 21년 01월
 
+- __2021년도 42 SEOUL__
+  - 분류: `교육`
+  - 주최: 42 SEOUL
+  - 일시: 01. 07 시작
+  - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
 - __.NET Conf 2021 x Seoul__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 닷넷데브
