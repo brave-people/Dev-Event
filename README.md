@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -24,7 +24,7 @@
 
 ## 감사합니다.
 
-<p align="center"> 
+<p align="center">
 <img src="./static/visitor.png" alt="visitor" width="" />
 <center> 3일간 978뷰! 방문해주신 분들 감사합니다! 🙏🙏 </center>
 </p>
@@ -44,6 +44,7 @@
     <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
     <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -75,14 +76,14 @@
 
 ## 20년 11월
 
-- __제4회 삼성 AI 포럼__ 
+- __제4회 삼성 AI 포럼__
   - 분류: `컨퍼런스`, `인공지능`
   - 일시: 11. 02 ~ 11. 03
   - 신청: [Link](https://research.samsung.com/saif)
 - __SK ICT Tech Summit 2020__
   - 신청: [Link](https://skicttechsummit.com/index.do)
   - 분류: `컨퍼런스`
-  - 일시: 11. 04 ~ 11. 05 
+  - 일시: 11. 04 ~ 11. 05
 - __제 10회 개발보안 컨퍼런스__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 행정안전부
@@ -101,7 +102,7 @@
   - 분류: `컨퍼런스`
   - 일시: 11. 07(토) 13:00
   - 신청: [Link](https://kcd2020.festa.io/)
-- __2020 몰입캠프__ 
+- __2020 몰입캠프__
   - 분류: `교육`
   - 주최: 카이스트
   - 접수마감: 11. 08(일)
@@ -120,7 +121,7 @@
   - 분류: `컨퍼런스`
   - 일시: 11. 12(목)
   - 신청: [Link](https://techtonic.samsungsds.com/)
-- __네이버클라우드플랫폼 Secure Zone 소개__ 
+- __네이버클라우드플랫폼 Secure Zone 소개__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 네이버클라우드플랫폼
   - 일시: 11. 12(목)
@@ -130,7 +131,7 @@
   - 주최: 메가존클라우드
   - 일시: 11. 16 ~ 11. 29
   - 사전 신청: [Link](https://www.dspectrum.com/register?utm_source=register_da&utm_medium=blind_feed&utm_campaign=)
-- __[MEGAZONE 웨비나] 언택트 시대! 생산성을 확보하는 업무 환경 구축 전략__ 
+- __[MEGAZONE 웨비나] 언택트 시대! 생산성을 확보하는 업무 환경 구축 전략__
   - 분류: `온라인`, `클라우드`
   - 주최: 메가존
   - 일시: 2020년 11월 17일 (화) 오후 02:00 - 오후 04:00
@@ -153,7 +154,7 @@
   - 분류: `온라인`, `케글`
   - 주회: ANAIN 어나인
   - 일시: 11.21 (토) 13:00 - 14:00
-  - 신청: [Link](https://festa.io/events/1304) 
+  - 신청: [Link](https://festa.io/events/1304)
 - __(Open UP) 빅데이터 과정 교육__
   - 분류: `교육`, `온라인`, `무료`, `빅데이터`
   - 일시: 11.21 ~ 11.22
@@ -162,12 +163,12 @@
   - 분류: `교육`, `온라인`, `무료`, `인공지능`
   - 일시: 11.21 ~ 11.22
   - 홈페이지: [Link](https://festa.io/events/1276)
-- __R을 활용한 공공 데이터 패키지 만들기 해커톤__ 
+- __R을 활용한 공공 데이터 패키지 만들기 해커톤__
   - 분류: `R`, `해커톤`
   - 주최: 과학기술정보통신부
   - 접수마감: 11. 24
   - 신청: [Link](https://www.oss.kr/notice/show/1c9b27f0-6551-4141-95cc-7731578990fc)
-- __GitHub in DevOps Meetup__ 
+- __GitHub in DevOps Meetup__
   - 분류: `웨비나`, `온라인`, `Github`
   - 주최: Github Korea
   - 일시: 11. 24. (화) 16:00 - 18:00
@@ -187,7 +188,7 @@
   - 주최: 네이버
   - 일시: 11. 25 ~ 11. 27
   - 홈페이지: [Link](https://deview.kr/2020
-- __우분투한국커뮤니티 11월 온라인 세미나__ 
+- __우분투한국커뮤니티 11월 온라인 세미나__
   - 분류: `세미나`, `온라인`, `우분투`
   - 주최: 우분투한국커뮤니티
   - 일시: 11. 28 14:00 ~ 17:00
@@ -202,14 +203,14 @@
 
 ## 20년 12월
 
-- __리얼리눅스12월 무료세미나(Live 온라인): GitHub 오픈소스 포트폴리오__ 
+- __리얼리눅스12월 무료세미나(Live 온라인): GitHub 오픈소스 포트폴리오__
   - 분류: `웨비나`, `온라인`, `오픈소스`
-  - 주최: 리얼리눅스 
+  - 주최: 리얼리눅스
   - 일시: 12. 02
   - 신청: [Link](https://festa.io/events/1291)
-- __대한민국 소프트웨어 대전2020__ 
+- __대한민국 소프트웨어 대전2020__
   - 분류: `컨퍼런스`, `오프라인`, `다양한 `
-  - 주최: 소프트웨이브 조직위원회 
+  - 주최: 소프트웨이브 조직위원회
   - 일시: 12. 02 ~ 12. 04
   - 신청: [Link](http://www.k-softwave.com/main.asp)
 
@@ -221,19 +222,30 @@
   - 상세설명: [Link](https://www.notion.so/Agile-Korea-Conference-2020-b503ed32e0ee492696f966d617da10ea)
 - __파스-타 기반 서비스 개발 및 아이디어 공모전__
   - 분류: `해커톤`
-  - 접수: 12. 06 
+  - 접수: 12. 06
   - 신청: [Link](http://paas-ta.co.kr/info.jsp)
-- __Universe 2020__ 
+- __Universe 2020__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
-- __NAVER Cloud AI SUMMIT__ 
+- __NHN FORWARD__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: NHN
+  - 일시: 12. 14 ~ 15
+  - 신청: [Link](https://forward.nhn.com/home)
+- __NAVER Cloud AI SUMMIT__
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
   - 일시: 12. 17(목) 10:00 ~ 16:00
   - 신청: [Link](https://www.ncloud-online.com/aisummit/)
-  
+- __CODE STATES AI 부트캠프__
+  - 분류: `교육`, `온라인`, `무료`, `인공지능`, `빅데이터`
+  - 주최: CODE STATES
+  - 일시: 2020. 12. 28 ~ 2021. 07. 19
+  - 접수: 12. 14
+  - 신청: [Link](https://www.codestates.com/course/ai)  
+
 <br />
 
 ## 21년 01월
@@ -250,7 +262,7 @@
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
 
 ---------------
- 
+
 
 <br />
 
@@ -276,7 +288,7 @@
   - 수다방: [gitter.im/sprintseoul/community](https://gitter.im/sprintseoul/community)
 - __우아한 테크의 밤__
   - 최근 모임: 19. 12. 18
-- __DevOps Korea__ 
+- __DevOps Korea__
   - 홈페이지: [Facebook DevOps](https://www.facebook.com/groups/TeAnE/)
 - __IT인프라 엔지니어 그룹 밋업__
   - 최근 모임: 19. 12. 19.
@@ -297,11 +309,11 @@
 
 - __DDD IT 연합 동아리__
   - 최근 모임: 20. 02. 15.
-- __한이음__ 
+- __한이음__
   - 설명: 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 현업 실무 기술이반영된 프로젝트를 수행
   - 홈페이지: [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
-- __넥스터즈__ 
-  - 개발자와 디자이너 연합 동아리 
+- __넥스터즈__
+  - 개발자와 디자이너 연합 동아리
   - 홈페이지: [Link](http://teamnexters.com/)
 - __yapp__
   - 대학생 연합 동아리로서 현재 17기 활동중
@@ -317,11 +329,11 @@
 
 
 <br />
-  
+
 더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
 
 <br />
 
-|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>| 
-|:--:| 
+|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>|
+|:--:|
 | *용감한 친구들 with 남송리 3번지* |
