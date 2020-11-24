@@ -22,17 +22,6 @@
 
 <br />
 
-## 감사합니다.
-
-<p align="center">
-<img src="./static/visitor.png" alt="visitor" width="" />
-<center> 3일간 978뷰! 방문해주신 분들 감사합니다! 🙏🙏 </center>
-</p>
-
-
-
-<br />
-
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -194,7 +183,17 @@
   - 주최: 우분투한국커뮤니티
   - 일시: 11. 28 14:00 ~ 17:00
   - 등록: [Link](https://festa.io/events/1297)
-- __꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
+- __부스트캠프 AI Tech 온라인 설명회__
+  - 분류: `교육`, `설명회`, `인공지능`
+  - 주최: 부스트캠프(커넥츠재단)
+  - 일시: 11. 30 19:00 ~ 20:00
+  - 등록: [Link](https://form.office.naver.com/form/responseView.cmd?formkey=ODIyYjAzMTEtZTNiZS00YjhlLTgzNjMtMjc0Y2ZjNWI5ZDZi&sourceId=urlshare)
+- __레츠스위프트 2020 @Home : 테크토크__
+  - 분류: `세미나`, `온라인`, `유료`, `스위프트`
+  - 주최: Let'Swift
+  - 일시: 11. 30 ~ 12. 04
+  - [Link](https://festa.io/events/1315)
+- __[모집 완료] 꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`
   - 일시: 과정별 상이
   - 신청: [Link](https://ssac.seoul.kr/main/index.jsp)
@@ -210,10 +209,15 @@
   - 일시: 12. 02
   - 신청: [Link](https://festa.io/events/1291)
 - __대한민국 소프트웨어 대전2020__
-  - 분류: `컨퍼런스`, `오프라인`, `다양한 `
+  - 분류: `컨퍼런스`, `오프라인`, `다양한`
   - 주최: 소프트웨이브 조직위원회
   - 일시: 12. 02 ~ 12. 04
   - 신청: [Link](http://www.k-softwave.com/main.asp)
+- __오픈소스 현실을 알려줄게!__
+  - 분류: `웨비나`, `온라인`, `오픈소스`
+  - 주최: OSS 개발자모임
+  - 일시: 12. 05 14:00 ~ 16:00
+  - 신청: [Link](https://festa.io/events/1316)
 
 - __Agile Korea Conference 2020__
   - 분류: `온라인`, `컨퍼런스`, `에자일`
