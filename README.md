@@ -193,11 +193,10 @@
   - 주최: Let'Swift
   - 일시: 11. 30 ~ 12. 04
   - [Link](https://festa.io/events/1315)
-- __[모집 완료] 꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
-  - 분류: `교육`
+- __[2기 모집] 꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
+  - 분류: `교육`, `인공지능`, `데이터`
   - 일시: 과정별 상이
-  - 신청: [Link](https://ssac.seoul.kr/main/index.jsp)
-
+  - 신청: [Link](https://ssac.seoul.kr/course/course_list.jsp?s_style=gallery&ch=course)
 
 <br />
 
