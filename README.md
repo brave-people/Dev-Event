@@ -233,6 +233,11 @@
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
+- __Reveal 2020 - 쿠팡 개발자 컨퍼런스__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: 쿠팡
+  - 일시: 12. 11
+  - 신청: [Link](https://event.coupangcorp.com/)
 - __NHN FORWARD__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: NHN
