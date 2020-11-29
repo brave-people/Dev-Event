@@ -193,6 +193,11 @@
   - 주최: Let'Swift
   - 일시: 11. 30 ~ 12. 04
   - [Link](https://festa.io/events/1315)
+- __AWS re:Invent__
+  - 분류: `세미나`, `온라인`, `무료`
+  - 주최: AWS
+  - 일시: 11. 30 ~ 12. 18
+  - [Link](https://reinvent.awsevents.com/)
 - __[2기 모집] 꿈꾸는 개발자 데뷔코스 싹(SSAC), 교육생 모집__
   - 분류: `교육`, `인공지능`, `데이터`
   - 일시: 과정별 상이
@@ -269,6 +274,12 @@
   - 주최: 42 SEOUL
   - 일시: 01. 07 시작
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
+- __AWS re:Invent__
+  - 분류: `세미나`, `온라인`, `무료`
+  - 주최: AWS
+  - 일시: 01. 12 ~ 01. 14
+  - [Link](https://reinvent.awsevents.com/)
+
 - __.NET Conf 2021 x Seoul__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 닷넷데브
@@ -276,7 +287,6 @@
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
 
 ---------------
-
 
 <br />
 
