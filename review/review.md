@@ -23,3 +23,5 @@
     - [https://medium.com/@hongkevin/프로젝트-1-예약플랫폼-오픈북-114fad0c4e08](https://medium.com/@hongkevin/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1-%EC%98%88%EC%95%BD%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%98%A4%ED%94%88%EB%B6%81-114fad0c4e08)
 - **GitHub Universe 2019 참석기**
     - [https://blog.outsider.ne.kr/1469](https://blog.outsider.ne.kr/1469)
+- **K-사이버 시큐리티 챌린지 2019 - 수상팀 인터뷰**
+    - [https://blog.naver.com/kshieldjr/221775539266](https://blog.naver.com/kshieldjr/221775539266)
