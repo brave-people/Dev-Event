@@ -112,6 +112,11 @@
   - 주최: Github
   - 일시: 12. 08 ~ 10
   - 신청: [Link](https://githubuniverse.com/?utm_source=github.com&utm_medium=referral&utm_campaign=universe_banner_dashboard_phase1)
+- __AWS에서 완성한 교육 기업의 혁신__
+  - 분류: `온라인`, `웨비나`, `클라우드`
+  - 주최: 베스핀글로벌
+  - 일시: 12. 10 15:00 ~ 16:30
+  - 신청: [Link](https://register.gotowebinar.com/register/3393829967270541327)
 - __Reveal 2020 - 쿠팡 개발자 컨퍼런스__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 쿠팡
