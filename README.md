@@ -112,7 +112,16 @@
   - 주최: FixFree
   - 일시: 12. 09 15:00 ~ 17:00
   - 신청: [Link](https://onoffmix.com/event/229669)
-
+- __Pinpoint Cloud로 시작하는 어플리케이션 성능 관리__
+  - 분류: `온라인`, `교육`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 10 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/6750954526572625676)
+- __[양재동 라이브] 도커의 기초 1편__
+  - 분류: `온라인`, `교육`, `무료`, `도커`
+  - 주최: 양재동코드랩
+  - 일시: 12. 10 20:00 ~ 22:00 
+  - 신청: [Link](https://www.codelabs.kr/codelabs/130?utm_source=%EC%96%91%EC%9E%AC%EB%8F%99%20%EC%BD%94%EB%93%9C%EB%9E%A9&utm_campaign=e84a6e492e-EMAIL_CAMPAIGN_2020_12_04_02_00&utm_medium=email&utm_term=0_a40a5e7cdd-e84a6e492e-371354088)
 - __Universe 2020__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Github
@@ -138,6 +147,11 @@
   - 주최: 리얼리눅스
   - 일시: 12. 16 20:00 ~ 21:00
   - 신청: [Link](https://festa.io/events/1319)
+- __[양재동 라이브] 도커의 기초 2편__
+  - 분류: `온라인`, `교육`, `무료`, `도커`
+  - 주최: 양재동코드랩
+  - 일시: 12. 17 20:00 ~ 22:00 
+  - 신청: [Link](https://www.codelabs.kr/codelabs/130?utm_source=%EC%96%91%EC%9E%AC%EB%8F%99%20%EC%BD%94%EB%93%9C%EB%9E%A9&utm_campaign=e84a6e492e-EMAIL_CAMPAIGN_2020_12_04_02_00&utm_medium=email&utm_term=0_a40a5e7cdd-e84a6e492e-371354088)
 - __NAVER Cloud AI SUMMIT__
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
