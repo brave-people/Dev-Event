@@ -132,11 +132,22 @@
   - 주최: 베스핀글로벌
   - 일시: 12. 10 15:00 ~ 16:30
   - 신청: [Link](https://register.gotowebinar.com/register/3393829967270541327)
+- __스타트업-ICT개발자 매칭데이__ 
+  - 분류: `온라인`, `스타트업`, `채용`
+  - 주최: 과학기술정보통신부
+  - 일시: 12.10 ~ 12.15
+  - 신청: [Link](http://ictcoc.kr/04_com_n/com02_view.asp?idx=337)
 - __Reveal 2020 - 쿠팡 개발자 컨퍼런스__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 쿠팡
   - 일시: 12. 11
   - 신청: [Link](https://event.coupangcorp.com/)
+- __CODE STATES AI 부트캠프__
+  - 분류: `교육`, `온라인`, `무료`, `인공지능`, `빅데이터`
+  - 주최: CODE STATES
+  - 일시: 2020. 12. 28 ~ 2021. 07. 19
+  - 접수: 12. 14
+  - 신청: [Link](https://www.codestates.com/course/ai)
 - __NHN FORWARD__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: NHN
@@ -162,12 +173,11 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 12. 17(목) 10:00 ~ 16:00
   - 신청: [Link](https://www.ncloud-online.com/aisummit/)
-- __CODE STATES AI 부트캠프__
-  - 분류: `교육`, `온라인`, `무료`, `인공지능`, `빅데이터`
-  - 주최: CODE STATES
-  - 일시: 2020. 12. 28 ~ 2021. 07. 19
-  - 접수: 12. 14
-  - 신청: [Link](https://www.codestates.com/course/ai)  
+- __2020 ICT콤플렉스 앱개발 챌린지__
+  - 분류: `온라인`, `해커톤`, `앱`
+  - 주최: 과학기술정보통신부
+  - 일시: 12. 18(금) 10:00 ~ 12:00
+  - 신청: [Link](https://forms.gle/EYBs9jj8Uj3UdWdN9)
 
 <br />
 
