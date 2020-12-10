@@ -158,6 +158,11 @@
   - 주최: 과학기술정보통신부
   - 일시: 12. 14 10 ~ 16:30
   - 신청: [Link](http://datagrand.kr/)
+- __Azure 싹쓰리 웨비나에 초대합니다!__ 
+  - 분류: `온라인`, `컨퍼런스`, `클라우드`
+  - 주최: 한컴MDS
+  - 일시: 12. 14 10:00 ~ 11:10
+  - 신청: [Link](https://marketing.hancommds.com/campaign/campaign.html?CampaignCode=CP20086)
 - __NHN FORWARD__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: NHN
@@ -188,6 +193,11 @@
   - 주최: 과학기술정보통신부
   - 일시: 12. 18(금) 10:00 ~ 12:00
   - 신청: [Link](https://forms.gle/EYBs9jj8Uj3UdWdN9)
+- __AWS 클라우드세미나__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: KG에듀원 아이티뱅크
+  - 일시: 12. 22(금) 15:00 ~ 18:00
+  - 신청: [Link](https://onoffmix.com/event/229862)
 
 <br />
 
