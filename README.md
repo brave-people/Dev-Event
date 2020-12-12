@@ -147,11 +147,37 @@
   - 주최: 베스핀글로벌
   - 일시: 12. 10 15:00 ~ 16:30
   - 신청: [Link](https://register.gotowebinar.com/register/3393829967270541327)
+- __스타트업-ICT개발자 매칭데이__ 
+  - 분류: `온라인`, `스타트업`, `채용`
+  - 주최: 과학기술정보통신부
+  - 일시: 12.10 ~ 12.15
+  - 신청: [Link](http://ictcoc.kr/04_com_n/com02_view.asp?idx=337)
+- __AI의 이해 및 AI시대를 위한 소프트웨어 개발자로 성장하기__
+  - 분류: `온라인`, `개발자`
+  - 주최: 분당융합기술교육원
+  - 일시: 12.15 (화) 14:00 ~ 15:00
+  - 신청: [Link](https://www.onoffmix.com/event/229743)
 - __Reveal 2020 - 쿠팡 개발자 컨퍼런스__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 쿠팡
   - 일시: 12. 11
   - 신청: [Link](https://event.coupangcorp.com/)
+- __CODE STATES AI 부트캠프__
+  - 분류: `교육`, `온라인`, `무료`, `인공지능`, `빅데이터`
+  - 주최: CODE STATES
+  - 일시: 2020. 12. 28 ~ 2021. 07. 19
+  - 접수: 12. 14
+  - 신청: [Link](https://www.codestates.com/course/ai)
+- __2020 데이터 그랜드 컨퍼런스__
+  - 분류: `온라인`, `컨퍼런스`, `데이터` 
+  - 주최: 과학기술정보통신부
+  - 일시: 12. 14 10 ~ 16:30
+  - 신청: [Link](http://datagrand.kr/)
+- __Azure 싹쓰리 웨비나에 초대합니다!__ 
+  - 분류: `온라인`, `컨퍼런스`, `클라우드`
+  - 주최: 한컴MDS
+  - 일시: 12. 14 10:00 ~ 11:10
+  - 신청: [Link](https://marketing.hancommds.com/campaign/campaign.html?CampaignCode=CP20086)
 - __NHN FORWARD__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: NHN
@@ -177,12 +203,16 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 12. 17(목) 10:00 ~ 16:00
   - 신청: [Link](https://www.ncloud-online.com/aisummit/)
-- __CODE STATES AI 부트캠프__
-  - 분류: `교육`, `온라인`, `무료`, `인공지능`, `빅데이터`
-  - 주최: CODE STATES
-  - 일시: 2020. 12. 28 ~ 2021. 07. 19
-  - 접수: 12. 14
-  - 신청: [Link](https://www.codestates.com/course/ai)  
+- __2020 ICT콤플렉스 앱개발 챌린지__
+  - 분류: `온라인`, `해커톤`, `앱`
+  - 주최: 과학기술정보통신부
+  - 일시: 12. 18(금) 10:00 ~ 12:00
+  - 신청: [Link](https://forms.gle/EYBs9jj8Uj3UdWdN9)
+- __AWS 클라우드세미나__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: KG에듀원 아이티뱅크
+  - 일시: 12. 22(금) 15:00 ~ 18:00
+  - 신청: [Link](https://onoffmix.com/event/229862)
 
 <br />
 
