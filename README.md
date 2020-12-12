@@ -28,7 +28,7 @@
 
 ![img](./static/dev-event-web.png)
 
-[Dev event 바로가기](https://brave-people.github.io/Dev-Event-Client/)
+👉 [Dev Event Web 바로가기](https://brave-people.github.io/Dev-Event-Client/)
 
 "용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
 프로젝트를 더욱 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
