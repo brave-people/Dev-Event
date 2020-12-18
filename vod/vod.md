@@ -34,4 +34,7 @@
   - 주최: 네이버클라우드플랫폼
   - 일시: 12. 17(목) 10:00 ~ 16:00
   - 다시보기: [Link](https://www.ncloud-online.com/aisummit/#program)
-
+- __혼공 머신러닝+딥러닝 온라인 무료 스터디__
+  - 분류: `온라인`, `무료`, `스터디`, `머신러닝`
+  - 일시: 12. 22 매주 화, 금 22:00
+  - 강의: [Youtube Link](https://www.youtube.com/c/HaesunPark_ML/videos)
