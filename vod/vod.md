@@ -29,6 +29,13 @@
   - 다시보기 
     - [Youtube Link](https://youtu.be/IihludO2sw0)
     - [2020 빅콘테스트 수상자 발표회 및 시상식](https://youtu.be/32Y5Vtngc-Y)
+- __NHN FORWARD__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: NHN
+  - 일시: 12. 14 ~ 15
+  - 다시보기: 
+  	- [ForLink NHN Link](https://forward.nhn.com/home)
+    - [Youtube Link](https://www.youtube.com/c/TOASTcloud/videos) 
 - __NAVER Cloud AI SUMMIT__
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
