@@ -266,7 +266,7 @@
   - 신청: [Link](https://www.notion.so/21-1-4-7-30-Expectation-Meeting-dced1b98e34c45018d69207f94191464)
 - __데이터 분석/ 클라우드 / 쿠버네티스에 필요한 리눅스 내공 쌓기__
   - 분류: `교육`, `리눅스`
-  - 주최: 42 SEOUL
+  - 주최: 리얼리눅스
   - 일시: 01. 06 20:00 ~ 21:00 
   - 신청: [Link](https://event-us.kr/hcmY8AAlnJac/event/27555)
 - __2021년도 42 SEOUL__
@@ -276,9 +276,9 @@
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
 - __KT DS 자바&파이썬 웹애플리케이션 전문가 양성과정__
   - 분류: `교육`
-  - 주최: `KT DS`
+  - 주최: KT DS
   - 일시: 01. 11 
-  - 신청: [Link](http://www.jobkorea.co.kr/Recruit/GI_Read/33437131?OEM_Code=C1\)
+  - 신청: [Link](http://www.jobkorea.co.kr/Recruit/GI_Read/33437131?OEM_Code=C1)
 - __AWS re:Invent__
   - 분류: `세미나`, `온라인`, `무료`
   - 주최: AWS

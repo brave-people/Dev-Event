@@ -6,7 +6,7 @@
   - [https://deview.kr/2013/detail.nhn?topicSeq=59](https://deview.kr/2013/detail.nhn?topicSeq=59)
 - __Samsung Security Tech Forum 2020: Livestream__
   - [https://youtu.be/XDRFY5s1SE8](https://youtu.be/XDRFY5s1SE8)
-- __if kakao 2020
+- __if kakao 2020__
   - [https://if.kakao.com/session](https://if.kakao.com/session)
   
   
