@@ -147,6 +147,11 @@
   - 주최: 베스핀글로벌
   - 일시: 12. 10 15:00 ~ 16:30
   - 신청: [Link](https://register.gotowebinar.com/register/3393829967270541327)
+- __정부혁신제안 끝장개발자대회__
+  - 분류: `온라인`, `해커톤`
+  - 주최: 행정안전부
+  - 접수: 12. 11
+  - 신청: [Link](http://www.civichack.or.kr/)
 - __[2020 플레이데이터 채용설명회] Play X Hiring__
   - 분류: `온라인`, `채용설명회`
   - 주최: 플레이데이터
@@ -218,16 +223,37 @@
   - 주최: KG에듀원 아이티뱅크
   - 일시: 12. 22(금) 15:00 ~ 18:00
   - 신청: [Link](https://onoffmix.com/event/229862)
+- __[한화생명 드림플러스] IT PLUS: 2020 IT 이슈 총정리 & 2021 관전 포인트!__
+  - 분류: `온라인`, `무료`, `IT 트랜드`
+  - 주최: 한화생명 드림플러스
+  - 일시: 12. 28(월) 15:00 ~ 16:30
+  - 신청: [Link](https://event-us.kr/dreamplusgangnam/event/27290)
+- __클라우드 보안 A-Z까지: 클라우드 환경에서 발생하는 위협 탐지/대응 방안__
+  - 분류: `온라인`, `웨비나`, `클라우드`
+  - 주최: 네이버클라우드 플랫폼
+  - 일시: 12. 31(목) 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/11676003958661726830)
+
 
 <br />
 
 ## 21년 01월
 
+- __데이터 분석/ 클라우드 / 쿠버네티스에 필요한 리눅스 내공 쌓기__
+  - 분류: `교육`, `리눅스`
+  - 주최: 42 SEOUL
+  - 일시: 01. 06 20:00 ~ 21:00 
+  - 신청: [Link](https://event-us.kr/hcmY8AAlnJac/event/27555)
 - __2021년도 42 SEOUL__
   - 분류: `교육`
   - 주최: 42 SEOUL
   - 일시: 01. 07 시작
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
+- __KT DS 자바&파이썬 웹애플리케이션 전문가 양성과정__
+  - 분류: `교육`
+  - 주최: `KT DS`
+  - 일시: 01. 11 
+  - 신청: [Link](http://www.jobkorea.co.kr/Recruit/GI_Read/33437131?OEM_Code=C1\)
 - __AWS re:Invent__
   - 분류: `세미나`, `온라인`, `무료`
   - 주최: AWS
@@ -239,6 +265,16 @@
   - 주최: 닷넷데브
   - 일시: 01. 15(금) 10:00
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+
+<br />
+
+## 21년 03월
+
+- __AI EXPO KOREA 2021__
+  - 분류: `온라인`, `컨퍼런스`, `.NET`
+  - 주최: 서울에쎄
+  - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+  - 신청: [Link](https://event-us.kr/zvKlsXnNkKW6/event/26657)
 
 ---------------
 
