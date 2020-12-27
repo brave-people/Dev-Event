@@ -11,7 +11,19 @@
   
   
 -------
-  
+
+## 20년 11월
+- __DEVIEW 2020__
+  - 분류: `컨퍼런스`
+  - 주최: 네이버
+  - 일시: 11. 25 ~ 11. 27
+  - 다시보기: [Link](https://d2.naver.com/news/5751902?fbclid=IwAR0g-4tqdRXMuESizfE-ALCwwol6neXzY1h0lR0hstyPTS_OyECQU8XWxrM)
+- __LINE DEVELOPER DAY 2020__
+  - 분류: `컨퍼런스`
+  - 주최: 라인
+  - 일시: 11.25 ~ 11.27
+  - 다시보기: [Link](https://linedevday.linecorp.com/2020/en/sessions?mode=all&day=Day1)
+
 ## 20년 12월  
 
 - __리얼리눅스: GitHub 오픈소스 포트폴리오__
@@ -34,8 +46,8 @@
   - 주최: NHN
   - 일시: 12. 14 ~ 15
   - 다시보기: 
-  	- [ForLink NHN Link](https://forward.nhn.com/home)
-    - [Youtube Link](https://www.youtube.com/c/TOASTcloud/videos) 
+  	- [FORWARD NHN Link](https://forward.nhn.com/home)
+    - [Youtube Link](https://www.youtube.com/c/TOASTcloud/videos)
 - __NAVER Cloud AI SUMMIT__
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
@@ -45,3 +57,7 @@
   - 분류: `온라인`, `무료`, `스터디`, `머신러닝`
   - 일시: 12. 22 매주 화, 금 22:00
   - 강의: [Youtube Link](https://www.youtube.com/c/HaesunPark_ML/videos)
+- __GopherCon 2020__
+  - 분류: `온라인`, `Go`, `English`
+  - 일시: 12. 23
+  - 강의: [Youtube Link](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB&fbclid=IwAR0vmbIpWeMBePZ2B1LO23MpjSOPyQAI1hOd1PwS8KZCOqV1sS2EAIyT-u4)
