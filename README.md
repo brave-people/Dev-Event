@@ -279,6 +279,27 @@
   - 주최: KT DS
   - 일시: 01. 11 
   - 신청: [Link](http://www.jobkorea.co.kr/Recruit/GI_Read/33437131?OEM_Code=C1)
+- __CODING MASTERS__
+  - 분류: `채용`
+  - 주최: 멀티캠퍼스
+  - 일시: 01. 04 ~ 01. 11 
+  - 신청: [Link](https://el.multicampus.com/de_common/b2c/event/2020/12/1224_1/1224_1.html)
+- __2020 DACON CUP__
+  - 분류: `해커톤`, `데이터`
+  - 주최: DACON 
+  - 일시: 12. 18 ~ 01. 22 
+  - 신청: [Link](https://dacon.io/competitions/official/235683/overview/l)
+- __태양광 발전량 예측 AI 경진대회__
+  - 분류: `해커톤`, `데이터`
+  - 주최: DACON 
+  - 일시: 12. 09 ~ 01. 26
+  - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
+
+- __Photon 게임서버 엔진 Webinar 토크콘서트__
+  - 분류: `웨비나`, `온라인`, `클라우드`
+  - 주최: AWS
+  - 일시: 01. 12 ~ 01. 14
+  - [Link](https://onoffmix.com/event/229560)
 - __AWS re:Invent__
   - 분류: `세미나`, `온라인`, `무료`
   - 주최: AWS
