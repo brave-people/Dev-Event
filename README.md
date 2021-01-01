@@ -274,6 +274,11 @@
   - 주최: 42 SEOUL
   - 일시: 01. 07 시작
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
+- __MZ 인공지능 해커톤 대회__
+  - 분류: `온라인`, `해커톤`, `인공지능`
+  - 주최: 한국정보화진흥원
+  - 일시: 12. 21 ~ 01. 08
+  - 신청: [Link](https://www.mzhackathon.co.kr/mz/)
 - __KT DS 자바&파이썬 웹애플리케이션 전문가 양성과정__
   - 분류: `교육`
   - 주최: KT DS
@@ -297,7 +302,7 @@
 
 - __Photon 게임서버 엔진 Webinar 토크콘서트__
   - 분류: `웨비나`, `온라인`, `클라우드`
-  - 주최: AWS
+  - 주최: 엔클라우드24
   - 일시: 01. 12 ~ 01. 14
   - [Link](https://onoffmix.com/event/229560)
 - __AWS re:Invent__
@@ -305,17 +310,16 @@
   - 주최: AWS
   - 일시: 01. 12 ~ 01. 14
   - [Link](https://reinvent.awsevents.com/)
-  
 - __.NET Conf 2021 x Seoul__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 닷넷데브
   - 일시: 01. 15(금) 10:00
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
-- __MZ 인공지능 해커톤 대회__
-  - 분류: `온라인`, `해커톤`, `인공지능`
-  - 주최: 한국정보화진흥원
-  - 일시: 12. 21 ~ 01. 08
-  - 신청: [Link](https://www.mzhackathon.co.kr/mz/)
+- __AWS Builders Online Series__
+  - 분류: `온라인`, `컨퍼런스`, `클라우드`
+  - 주최: 닷넷데브
+  - 일시: 01. 21(목)
+  - 신청: [Link](https://aws.amazon.com/ko/events/builders-online-series/)
 
 <br />
 
