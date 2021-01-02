@@ -9,7 +9,18 @@
 - __if kakao 2020__
   - [https://if.kakao.com/session](https://if.kakao.com/session)
   
-  
+-------
+
+## 20년 08월
+
+- __AWS Builders Online Series__
+  - 분류: `컨퍼런스`
+  - 주최: AWS
+  - 일시: 08.27 
+  - 다시보기: [AWS Builders Online Series](https://kr-resources.awscloud.com/aws-builders-online-series)
+  - 다시보기: [AWS Builders Online Series](https://pages.awscloud.com/builders-online-series-handout-kr.html)
+  - 다시보기: [AWS Summit Online Korea](https://kr-resources.awscloud.com/aws-summit-online-korea)
+
 -------
 
 ## 20년 11월
@@ -23,6 +34,8 @@
   - 주최: 라인
   - 일시: 11.25 ~ 11.27
   - 다시보기: [Link](https://linedevday.linecorp.com/2020/en/sessions?mode=all&day=Day1)
+
+-------
 
 ## 20년 12월  
 
