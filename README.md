@@ -94,6 +94,11 @@
   - 주최: 42 SEOUL
   - 일시: 01. 07 시작
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
+- __[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기__ 
+  - 분류: `온라인`, `해커톤`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 07 11:00 ~ 12:00
+  - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
 - __MZ 인공지능 해커톤 대회__
   - 분류: `온라인`, `해커톤`, `인공지능`
   - 주최: 한국정보화진흥원
@@ -109,6 +114,16 @@
   - 주최: 멀티캠퍼스
   - 일시: 01. 04 ~ 01. 11 
   - 신청: [Link](https://el.multicampus.com/de_common/b2c/event/2020/12/1224_1/1224_1.html)
+- __Hyperledger Meetup Korea #28 - HTS, DeFi 스왑 및 유동성 프로토콜__
+  - 분류: `온라인`, `네트워크`
+  - 주최: Hyperledger Korea User Group
+  - 일시: 01. 13 19:00 ~ 21:00
+  - 신청: [Link](https://www.meetup.com/ko-KR/Hyperledger-Korea/events/275518736)
+- __GraphQL Korea 1월 온라인 밋업__
+  - 분류: `온라인`, `GraphQL`
+  - 주최: GraphQL Korea
+  - 일시: 01. 16 14:00 ~ 15:00
+  - 신청: [Link](https://festa.io/events/1367)
 - __2020 DACON CUP__
   - 분류: `해커톤`, `데이터`
   - 주최: DACON 
