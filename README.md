@@ -114,6 +114,11 @@
   - 주최: 멀티캠퍼스
   - 일시: 01. 04 ~ 01. 11 
   - 신청: [Link](https://el.multicampus.com/de_common/b2c/event/2020/12/1224_1/1224_1.html)
+- __개방형 클라우드 플랫폼 파스-타(PaaS-TA) 전문가 1차 교육__
+  - 분류: `교육`, `온라인`, `클라우드`
+  - 주최: Paas-TA
+  - 일시: 01. 04 ~ 01. 11 
+  - 신청: [Link](https://paas-ta.kr/notice/view/207?query=&query_type=all&query_type1=all&start=1)
 - __Hyperledger Meetup Korea #28 - HTS, DeFi 스왑 및 유동성 프로토콜__
   - 분류: `온라인`, `네트워크`
   - 주최: Hyperledger Korea User Group
