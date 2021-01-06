@@ -152,7 +152,7 @@
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
 - __AWS Builders Online Series__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
-  - 주최: 닷넷데브
+  - 주최: AWS
   - 일시: 01. 21(목)
   - 신청: [Link](https://aws.amazon.com/ko/events/builders-online-series/)
 
