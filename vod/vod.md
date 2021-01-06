@@ -61,6 +61,11 @@
   - 다시보기: 
   	- [FORWARD NHN Link](https://forward.nhn.com/home)
     - [Youtube Link](https://www.youtube.com/c/TOASTcloud/videos)
+- __표준프레임워크 오픈커뮤니티 10주년 기념 세미나__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: 표준프레임워크 오픈커뮤니티
+  - 일시: 12. 16(수) 19:00 ~ 21:00
+  - 다시보기: [Link](https://youtu.be/60-zuiJKtUM)
 - __NAVER Cloud AI SUMMIT__
   - 분류: `온라인`, `컨퍼런스`, `인공지능`
   - 주최: 네이버클라우드플랫폼
