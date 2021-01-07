@@ -119,6 +119,11 @@
   - 주최: Paas-TA
   - 일시: 01. 04 ~ 01. 11 
   - 신청: [Link](https://paas-ta.kr/notice/view/207?query=&query_type=all&query_type1=all&start=1)
+- __SBA-4차산업 기초SW역량 아카데미__
+  - 분류: `교육`, `인공지능`, `무료`
+  - 주최: elice
+  - 접수: 01. 07 ~ 01. 13
+  - 신청: [Link](https://festa.io/events/1369)
 - __Hyperledger Meetup Korea #28 - HTS, DeFi 스왑 및 유동성 프로토콜__
   - 분류: `온라인`, `네트워크`
   - 주최: Hyperledger Korea User Group
