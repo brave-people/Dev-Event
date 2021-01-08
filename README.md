@@ -155,6 +155,11 @@
   - 주최: AWS
   - 일시: 01. 12 ~ 01. 14
   - [Link](https://reinvent.awsevents.com/)
+- __클라우드 보안 A-Z까지: 다양한 리소스 보호 상품 살펴보기__
+  - 분류: `세미나`, `온라인`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 14
+  - [Link](https://register.gotowebinar.com/register/6677054151586882832)
 - __.NET Conf 2021 x Seoul__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 닷넷데브
