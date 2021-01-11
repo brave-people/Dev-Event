@@ -165,6 +165,11 @@
   - 주최: 닷넷데브
   - 일시: 01. 15(금) 10:00
   - 신청: [Link](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+- __Microsoft Azure Virtual Training Day: 서버 인프라 마이그레이션__
+  - 분류: `온라인`, `클라우드`,
+  - 주최: Microsoft Azure
+  - 일시: 01. 20 14:00 - 17:00
+  - 신청: [Link](https://mktoevents.com/Microsoft+Event/228198/157-GQE-382)
 - __AWS Builders Online Series__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: AWS
