@@ -139,11 +139,6 @@
   - 주최: DACON 
   - 일시: 12. 18 ~ 01. 22 
   - 신청: [Link](https://dacon.io/competitions/official/235683/overview/l)
-- __태양광 발전량 예측 AI 경진대회__
-  - 분류: `해커톤`, `데이터`
-  - 주최: DACON 
-  - 일시: 12. 09 ~ 01. 26
-  - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
 
 - __Photon 게임서버 엔진 Webinar 토크콘서트__
   - 분류: `웨비나`, `온라인`, `클라우드`
@@ -170,11 +165,22 @@
   - 주최: Microsoft Azure
   - 일시: 01. 20 14:00 - 17:00
   - 신청: [Link](https://mktoevents.com/Microsoft+Event/228198/157-GQE-382)
+- __애자일 코리아 1월 밋업 "가트너 2021 전략적 기술 트랜드 세미나"__
+  - 분류: `온라인`, `유료`, `에자일`,
+  - 주최: 애자일 코리아
+  - 일시: 01. 20 21:00 - 23:00
+  - 신청: [Link](https://festa.io/events/1372)
+    
 - __AWS Builders Online Series__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 01. 21(목)
   - 신청: [Link](https://aws.amazon.com/ko/events/builders-online-series/)
+- __태양광 발전량 예측 AI 경진대회__
+  - 분류: `해커톤`, `데이터`
+  - 주최: DACON 
+  - 일시: 12. 09 ~ 01. 26
+  - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
 
 <br />
 
