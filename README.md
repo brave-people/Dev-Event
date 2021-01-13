@@ -134,11 +134,7 @@
   - 주최: GraphQL Korea
   - 일시: 01. 16 14:00 ~ 15:00
   - 신청: [Link](https://festa.io/events/1367)
-- __2020 DACON CUP__
-  - 분류: `해커톤`, `데이터`
-  - 주최: DACON 
-  - 일시: 12. 18 ~ 01. 22 
-  - 신청: [Link](https://dacon.io/competitions/official/235683/overview/l)
+
 
 - __Photon 게임서버 엔진 Webinar 토크콘서트__
   - 분류: `웨비나`, `온라인`, `클라우드`
@@ -176,11 +172,32 @@
   - 주최: AWS
   - 일시: 01. 21(목)
   - 신청: [Link](https://aws.amazon.com/ko/events/builders-online-series/)
+- __2020 DACON CUP__
+  - 분류: `해커톤`, `데이터`
+  - 주최: DACON 
+  - 일시: 12. 18 ~ 01. 22 
+  - 신청: [Link](https://dacon.io/competitions/official/235683/overview/l)
+- __MZ 인공지능 해커톤 대회__
+  - 분류: `온라인`, `해커톤`, `인공지능`
+  - 주최: NIA(한국지능정보사회진흥원)
+  - 신청: 01. 11(월) ~ 01. 24(일)
+  - 신청: [Link](https://mzhackathonmedical.co.kr/mzmedical/)
 - __태양광 발전량 예측 AI 경진대회__
   - 분류: `해커톤`, `데이터`
   - 주최: DACON 
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
+- __성공사례를 통한 오라클 클라우드 기반 DB 마이그레이션과 DR 서비스 활용방안__
+  - 분류: `온라인`, `컨퍼런스`, `클라우드`
+  - 주최: 오라클, 메가존클라우드
+  - 일시: 01. 29(금) 15:00 ~ 16:00
+  - 신청: [Link](https://www.allshowtv.com/detail.html?idx=486)
+
+<br />
+
+## 21년 02월
+
+
 
 <br />
 
