@@ -187,11 +187,21 @@
   - 주최: DACON 
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
+- __DATA 누구에게나 처음은 있었다.__
+  - 분류: `웨비나`, `Data`
+  - 주최: 원티드
+  - 일시: 01. 28(금) 19:30 ~ 21:05
+  - 신청: [Link](https://www.wanted.co.kr/events/careertalk08)
 - __성공사례를 통한 오라클 클라우드 기반 DB 마이그레이션과 DR 서비스 활용방안__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: 오라클, 메가존클라우드
   - 일시: 01. 29(금) 15:00 ~ 16:00
   - 신청: [Link](https://www.allshowtv.com/detail.html?idx=486)
+- __성장하는 iOS개발자 되기__
+  - 분류: `웨비나`, `ios`
+  - 주최: 원티드
+  - 일시: 01. 29(금) 19:30 ~ 21:05
+  - 신청: [Link](https://www.wanted.co.kr/events/livetalk16)
 
 <br />
 
