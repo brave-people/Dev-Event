@@ -94,11 +94,16 @@
   - 주최: 42 SEOUL
   - 일시: 01. 07 시작
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
-- __[웨비나] EFK로 쿠버네티스 로그 수집 및 분석하기__ 
+- __EFK로 쿠버네티스 로그 수집 및 분석하기__ 
   - 분류: `온라인`, `해커톤`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 07 11:00 ~ 12:00
   - 신청: [Link](https://innovationacademy.kr/notice?board=4&label=10&post=104)
+- __한국인공지능연구소 오픈랩 8기 모집__ 
+  - 분류: `인공지능`
+  - 주최: 한국인공지능연구소
+  - 일시: 01. 08(금) 22:00
+  - 신청: [Link](https://www.ai-lab.kr/news/5fed54f001ade691cad53921?fbclid=IwAR3yfaPHMsdY_VmRhYNc-k0f_hwkIUDJbZi02kf79zRPPn39TX2bRR81_v0)
 - __MZ 인공지능 해커톤 대회__
   - 분류: `온라인`, `해커톤`, `인공지능`
   - 주최: 한국정보화진흥원
@@ -119,6 +124,11 @@
   - 주최: Paas-TA
   - 일시: 01. 04 ~ 01. 11 
   - 신청: [Link](https://paas-ta.kr/notice/view/207?query=&query_type=all&query_type1=all&start=1)
+- __27th SOPT APPJAM Demo Day__
+  - 분류: `해커톤`, `온라인`
+  - 주최: SOPT
+  - 일시: 01. 04 ~ 01. 11 
+  - 신청: [Link](https://event-us.kr/onsopt/event/27939)
 - __SBA-4차산업 기초SW역량 아카데미__
   - 분류: `교육`, `인공지능`, `무료`
   - 주최: elice
@@ -164,7 +174,7 @@
   - 주최: 애자일 코리아
   - 일시: 01. 20 21:00 - 23:00
   - 신청: [Link](https://festa.io/events/1372)
- - __S/W 기업이 SaaS 비즈니스 모델을 고민해야 하는 이유__
+- __S/W 기업이 SaaS 비즈니스 모델을 고민해야 하는 이유__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 21(목) 11:00 ~ 12:00
@@ -189,7 +199,7 @@
   - 주최: DACON 
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
-  
+
 - __DATA 누구에게나 처음은 있었다.__
   - 분류: `웨비나`, `Data`
   - 주최: 원티드
