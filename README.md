@@ -189,6 +189,7 @@
   - 주최: DACON 
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
+  
 - __DATA 누구에게나 처음은 있었다.__
   - 분류: `웨비나`, `Data`
   - 주최: 원티드
