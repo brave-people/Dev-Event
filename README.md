@@ -200,6 +200,11 @@
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
 
+- __DevGround 2021 - 개발자, 나의 성장을 도왔던 것들__
+  - 분류: `웨비나`
+  - 주최: 한빛미디어
+  - 일시: 01. 27(수) ~ 01. 29(금)
+  - 신청: [Link](https://devground.hanbit.co.kr/)
 - __DATA 누구에게나 처음은 있었다.__
   - 분류: `웨비나`, `Data`
   - 주최: 원티드
@@ -220,6 +225,11 @@
 
 ## 21년 02월
 
+- __SW 마에스트로 12기 모집__
+  - 분류: `교육`
+  - 주최: 원티드
+  - 서류: 01. 18(월) ~ 02. 18(목) 17:00
+  - 신청: [Link](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
 
 
 <br />
