@@ -189,11 +189,21 @@
   - 주최: DACON 
   - 일시: 12. 18 ~ 01. 22 
   - 신청: [Link](https://dacon.io/competitions/official/235683/overview/l)
+- __제 13회 BOAZ 빅데이터 컨퍼런스__
+  - 분류: `컨퍼런스`, `빅데이터`
+  - 주최: BOAZ
+  - 일시: 01. 23(토) 13:00 ~ 17:00 
+  - 신청: [Link](https://www.onoffmix.com/event/231649?fbclid=IwAR1MFZmRWpLsSITOuxaW7OEo3cOGLPmOMWIKAy5933yAW5VXGVF8AzLkP_M)
 - __MZ 인공지능 해커톤 대회__
   - 분류: `온라인`, `해커톤`, `인공지능`
   - 주최: NIA(한국지능정보사회진흥원)
   - 신청: 01. 11(월) ~ 01. 24(일)
   - 신청: [Link](https://mzhackathonmedical.co.kr/mzmedical/)
+- __DDD 동아리 모집__
+  - 분류: `동아리`
+  - 주최: DDD
+  - 신청: 01. 12(화) ~ 01. 25(월)
+  - 공고: [Link](https://www.notion.so/5-15692a933b21428d8593a62e4361c367
 - __태양광 발전량 예측 AI 경진대회__
   - 분류: `해커톤`, `데이터`
   - 주최: DACON 
