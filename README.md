@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -44,17 +44,19 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
-    <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
-    <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
+    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
+    <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
+    <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
+    <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars1.githubusercontent.com/u/57378834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Limm-jk" title="Code">💻</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 > 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
