@@ -219,7 +219,7 @@
   - 신청: [Link](https://www.wanted.co.kr/events/careertalk08)
 - __Sleep AI Challenge__
   - 분류: `대회`, `인공지능`
-  - 주최: MAIC (아시아혁신컨퍼런스)
+  - 주최: MAIC
   - 일시: 01. 25(월) ~ 01. 28(목)
   - 신청: [Link](https://maic.or.kr/competitions/3/infomation/)
 - __DevGround 2021 - 개발자, 나의 성장을 도왔던 것들__
