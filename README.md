@@ -212,16 +212,21 @@
   - 일시: 12. 09 ~ 01. 26
   - 신청: [Link](https://dacon.io/competitions/official/235680/overview/)
 
-- __DevGround 2021 - 개발자, 나의 성장을 도왔던 것들__
-  - 분류: `웨비나`
-  - 주최: 한빛미디어
-  - 일시: 01. 27(수) ~ 01. 29(금)
-  - 신청: [Link](https://devground.hanbit.co.kr/)
 - __DATA 누구에게나 처음은 있었다.__
   - 분류: `웨비나`, `Data`
   - 주최: 원티드
   - 일시: 01. 28(금) 19:30 ~ 21:05
   - 신청: [Link](https://www.wanted.co.kr/events/careertalk08)
+- __Sleep AI Challenge__
+  - 분류: `대회`, `인공지능`
+  - 주최: MAIC (아시아혁신컨퍼런스)
+  - 일시: 01. 25(월) ~ 01. 28(목)
+  - 신청: [Link](https://maic.or.kr/competitions/3/infomation/)
+- __DevGround 2021 - 개발자, 나의 성장을 도왔던 것들__
+  - 분류: `웨비나`
+  - 주최: 한빛미디어
+  - 일시: 01. 27(수) ~ 01. 29(금)
+  - 신청: [Link](https://devground.hanbit.co.kr/)
 - __성공사례를 통한 오라클 클라우드 기반 DB 마이그레이션과 DR 서비스 활용방안__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: 오라클, 메가존클라우드
