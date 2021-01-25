@@ -31,7 +31,7 @@
 👉 [Dev Event Web 바로가기](https://brave-people.github.io/Dev-Event-Client/)
 
 "용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
-프로젝트를 더욱 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
+프로젝트를 더욱 발전시켜준 [@leedoopal](https://github.com/leedoopal) 감사합니다!
 
 </div>
 
@@ -222,11 +222,26 @@
   - 주최: MAIC
   - 일시: 01. 25(월) ~ 01. 28(목)
   - 신청: [Link](https://maic.or.kr/competitions/3/infomation/)
+- __클라우드 보안 A-Z까지: 보안 감사 및 안전한 아키텍처 구성하기__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 28(목) 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/3224508475533066000)
+- __스타트업이 알아야 할 AWS의 모든 것!__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존 클라우드
+  - 일시: 01. 28(목) 14:00 ~ 17:00
+  - 신청: [Link](https://www.megazone.com/smb-apply-210121/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101)
 - __DevGround 2021 - 개발자, 나의 성장을 도왔던 것들__
   - 분류: `웨비나`
   - 주최: 한빛미디어
   - 일시: 01. 27(수) ~ 01. 29(금)
   - 신청: [Link](https://devground.hanbit.co.kr/)
+- __K-Shield 주니어 보안사고 분석대응과정 6기 설명회__
+  - 분류: `교육`
+  - 주최: 과학기술정보통신부, KISA
+  - 서류: 01. 29(금) 14:00 ~ 16:00
+  - 신청: [Link](http://www.kshieldjr.org/hr/home?custom=&year=2021&lastLoginTime=&isCmpt=false)
 - __성공사례를 통한 오라클 클라우드 기반 DB 마이그레이션과 DR 서비스 활용방안__
   - 분류: `온라인`, `컨퍼런스`, `클라우드`
   - 주최: 오라클, 메가존클라우드
@@ -242,21 +257,32 @@
 
 ## 21년 02월
 
-- __하루만에 끝내는 [원데이 A/B 테스트 클래스] 참가기업 모집__
-  - 분류: `교육`, `테스트`
-  - 주최: HACKLE
-  - 일시: 01. 26(화) 14:00 ~ 16:00
-  - 신청: [Link](https://festa.io/events/1377)
 - __세계 톱클래스 게임 앱이 실시하는 품질 관리 노하우__
   - 분류: `교육`, `앱`
   - 주최: FROSK
   - 신청: 01. 26(화) ~ 02. 01(월)
   - 신청: [Link](https://onoffmix.com/event/231094)
-- __[선착순 500명] 기초부터 시작하는 데이터 시각화 전문가 과정__
+- __AWSKRUG 데이터사이언스 소모임__
+  - 분류: `모임`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 신청: 02. 04(목) 19:00
+  - 신청: [Link](https://www.meetup.com/ko-KR/awskrug/events/275959628/?fbclid=IwAR3qiNgrYEkj6NjC813SvL9089rg-C08WTifda03E27P3Tj0yS7VR9BmRd0)
+- __기초부터 시작하는 데이터 시각화 전문가 과정__
   - 분류: `교육`, `데이터`
   - 주최: 로켓펀치, 탈잉
   - 접수: 01. 20(수) ~ 02. 10(수) [선착순 500명]
   - 신청: [Link](https://www.rocketpunch.com/bigdataclass2021?utm_source=rocketpunch&utm_medium=edm&utm_campaign=bigdataclass2021)
+
+- __K-Shield 주니어 보안사고 분석대응과정 6기 모집__
+  - 분류: `교육`
+  - 주최: 과학기술정보통신부, KISA
+  - 서류: 01. 18(월) ~ 02. 15(월) 18:00
+  - 신청: [Link](http://www.kshieldjr.org/hr/home?custom=&year=2021&lastLoginTime=&isCmpt=false)
+- __하루만에 끝내는 [원데이 A/B 테스트 클래스] 참가기업 모집__
+  - 분류: `교육`, `테스트`
+  - 주최: HACKLE
+  - 일시: 02. 16(화) 14:00 ~ 16:00
+  - 신청: [Link](https://festa.io/events/1377)
 - __SW 마에스트로 12기 모집__
   - 분류: `교육`
   - 주최: SW마에스트로
