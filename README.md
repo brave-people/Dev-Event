@@ -288,7 +288,11 @@
   - 주최: SW마에스트로
   - 서류: 01. 18(월) ~ 02. 18(목) 17:00
   - 신청: [Link](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
-
+- __구글 클라우드 기초 교육 - GCP Fundamentals__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드, 구글클라우드
+  - 서류: 02. 25(목) 10:30 ~ 17:00
+  - 신청: [Link](https://gc.hosting.kr/february_gcp_webinar_2021/)
 
 <br />
 
