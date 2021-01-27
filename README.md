@@ -293,6 +293,11 @@
   - 주최: 메가존클라우드, 구글클라우드
   - 서류: 02. 25(목) 10:30 ~ 17:00
   - 신청: [Link](https://gc.hosting.kr/february_gcp_webinar_2021/)
+- __All-in-one GAME Webinar__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 
+  - 서류: 02. 25(목) 10:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/5855025174790246671)
 
 <br />
 
