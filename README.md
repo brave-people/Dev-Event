@@ -267,6 +267,11 @@
   - 주최: AWSKRUG
   - 신청: 02. 04(목) 19:00
   - 신청: [Link](https://www.meetup.com/ko-KR/awskrug/events/275959628/?fbclid=IwAR3qiNgrYEkj6NjC813SvL9089rg-C08WTifda03E27P3Tj0yS7VR9BmRd0)
+- __루니버스 파트너스데이__
+  - 분류: `웨비나`, `블록체인`
+  - 주최: 루니버스
+  - 신청: 02. 04(목) 14:00 / 02. 05(금) 14:00
+  - 신청: [Link](https://luniverse.io/?lang=ko&utm_source=festa&utm_medium=banner&utm_campaign=2021partnersday)
 - __기초부터 시작하는 데이터 시각화 전문가 과정__
   - 분류: `교육`, `데이터`
   - 주최: 로켓펀치, 탈잉
