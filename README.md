@@ -278,6 +278,11 @@
   - 접수: 01. 20(수) ~ 02. 10(수) [선착순 500명]
   - 신청: [Link](https://www.rocketpunch.com/bigdataclass2021?utm_source=rocketpunch&utm_medium=edm&utm_campaign=bigdataclass2021)
 
+- __IT사이드프로젝트 팀매칭을 위한 기획자, 디자이너, 개발자 및 온라인 네트워킹__
+  - 분류: `네트워킹`
+  - 주최: HACKLE
+  - 일시: 02. 11(목) 21:00 ~ 23:30
+  - 신청: [Link](https://festa.io/events/1391)
 - __K-Shield 주니어 보안사고 분석대응과정 6기 모집__
   - 분류: `교육`
   - 주최: 과학기술정보통신부, KISA
