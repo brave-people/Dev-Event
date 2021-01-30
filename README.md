@@ -334,7 +334,7 @@
 - __CCCR 아카데미__
   - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
 - __모두의 연구소__
-  - 홈페이지: [pay.modulabs.co.kr](http://pay.modulabs.co.kr/)
+  - 홈페이지: [modulabs.co.kr](https://modulabs.co.kr/)
 
 <br />
 
