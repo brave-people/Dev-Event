@@ -124,7 +124,7 @@
   - 신청: [Link](https://festa.io/events/1377)
 - __제3회 스포카콘: Always Evolving!__
   - 분류: `웨비나`
-  - 주최: HACKLE
+  - 주최: Spoqa
   - 일시: 02. 17(수) 18:00 ~ 02. 18(목) 22:00
   - 신청: [Link](https://festa.io/events/1397)
 - __SW 마에스트로 12기 모집__
