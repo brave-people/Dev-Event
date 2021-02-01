@@ -267,6 +267,11 @@
   - 주최: AWSKRUG
   - 신청: 02. 04(목) 19:00
   - 신청: [Link](https://www.meetup.com/ko-KR/awskrug/events/275959628/?fbclid=IwAR3qiNgrYEkj6NjC813SvL9089rg-C08WTifda03E27P3Tj0yS7VR9BmRd0)
+- __클라우드 상에서 효율적인 CI/CD 사용 방법__
+  - 분류: `웨비나`, `클라우드`, `데브옵스`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 02. 04(목) 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/782167695371096592)
 - __루니버스 파트너스데이__
   - 분류: `웨비나`, `블록체인`
   - 주최: 루니버스
@@ -293,6 +298,11 @@
   - 주최: HACKLE
   - 일시: 02. 16(화) 14:00 ~ 16:00
   - 신청: [Link](https://festa.io/events/1377)
+- __제3회 스포카콘: Always Evolving!__
+  - 분류: `웨비나`
+  - 주최: HACKLE
+  - 일시: 02. 17(수) 18:00 ~ 02. 18(목) 22:00
+  - 신청: [Link](https://festa.io/events/1397)
 - __SW 마에스트로 12기 모집__
   - 분류: `교육`
   - 주최: SW마에스트로
@@ -308,6 +318,11 @@
   - 주최: 네이버 클라우드 
   - 일시: 02. 25(목) 10:00 ~ 12:00
   - 신청: [Link](https://register.gotowebinar.com/register/5855025174790246671)
+- __리얼리눅스 무료세미나: 라즈베리파이로 코딩하기__
+  - 분류: `무료교육`, `리눅스`
+  - 주최: 리얼리눅스 
+  - 일시: 02. 25(목) 20:00 ~ 21:00
+  - 신청: [Link](https://festa.io/events/1394)
 
 <br />
 
