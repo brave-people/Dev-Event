@@ -101,6 +101,16 @@
   - 주최: 루니버스
   - 신청: 02. 04(목) 14:00 / 02. 05(금) 14:00
   - 신청: [Link](https://luniverse.io/?lang=ko&utm_source=festa&utm_medium=banner&utm_campaign=2021partnersday)
+- __현업 개발자와 함께 리액트 모각코 해요__
+  - 분류: `모각코`
+  - 주최: 카우치코딩
+  - 접수: 02. 06(토) 10:00 ~ 13:00
+  - 신청: [Link](https://festa.io/events/1399)
+- __당근마켓 프론트엔드 개발자 채용 오픈 세션__
+  - 분류: `채용`
+  - 주최: 당근마켓
+  - 접수: 02. 08(수) 19:30 ~ 21:30
+  - 신청: [Link](https://www.youtube.com/watch?v=f_CaircqyuQ&list=PLrHrLnaO-kCe5FhqrbcZ47rUow8JmV8Rv&index=5)
 - __기초부터 시작하는 데이터 시각화 전문가 과정__
   - 분류: `교육`, `데이터`
   - 주최: 로켓펀치, 탈잉
