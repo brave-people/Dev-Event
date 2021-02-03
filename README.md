@@ -117,6 +117,11 @@
   - 접수: 01. 20(수) ~ 02. 10(수) [선착순 500명]
   - 신청: [Link](https://www.rocketpunch.com/bigdataclass2021?utm_source=rocketpunch&utm_medium=edm&utm_campaign=bigdataclass2021)
 
+- __농업 영상 AI 데이터 활용 아이디어 해커톤 대회__
+  - 분류: `아이디어톤`, `AI`
+  - 주최: 경상대학교 스마트팜연구소
+  - 접수: 02. 10(수) 13:00
+  - 신청: [Link](http://k-farmdata.com/hackathon/)
 - __IT사이드프로젝트 팀매칭을 위한 기획자, 디자이너, 개발자 및 온라인 네트워킹__
   - 분류: `네트워킹`
   - 주최: HACKLE
@@ -142,6 +147,11 @@
   - 주최: SW마에스트로
   - 서류: 01. 18(월) ~ 02. 18(목) 17:00
   - 신청: [Link](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
+- __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 베스핀글로벌
+  - 일시: 02. 24(수) 15:00 ~ 16:00
+  - 신청: [Link](https://register.gotowebinar.com/register/592694354538216973)
 - __구글 클라우드 기초 교육 - GCP Fundamentals__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드, 구글클라우드
@@ -157,6 +167,11 @@
   - 주최: 리얼리눅스 
   - 일시: 02. 25(목) 20:00 ~ 21:00
   - 신청: [Link](https://festa.io/events/1394)
+- __TensorFlow Everywhere Korea__
+  - 분류: `모임`, `텐서플로우`
+  - 주최: TensorFlow User Group
+  - 일시: 02. 27(목) 20:00 ~ 22:00
+  - 신청: [Link](https://festa.io/events/1395)
 
 <br />
 
