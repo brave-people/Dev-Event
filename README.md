@@ -110,7 +110,7 @@
   - 분류: `채용`
   - 주최: 당근마켓
   - 접수: 02. 08(수) 19:30 ~ 21:30
-  - 신청: [Link](https://www.youtube.com/watch?v=f_CaircqyuQ&list=PLrHrLnaO-kCe5FhqrbcZ47rUow8JmV8Rv&index=5)
+  - 신청: [Link](https://festa.io/events/1398)
 - __기초부터 시작하는 데이터 시각화 전문가 과정__
   - 분류: `교육`, `데이터`
   - 주최: 로켓펀치, 탈잉
