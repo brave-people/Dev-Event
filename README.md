@@ -147,6 +147,11 @@
   - 주최: SW마에스트로
   - 서류: 01. 18(월) ~ 02. 18(목) 17:00
   - 신청: [Link](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
+- __가장 보통의 코딩__
+  - 분류: `개발 모임`
+  - 주최: 가장보통의코딩
+  - 일시: 02. 20(토) 10:00 ~ 12:00
+  - 신청: [Link](https://festa.io/events/1401)
 - __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
   - 분류: `웨비나`, `클라우드`
   - 주최: 베스핀글로벌
@@ -223,6 +228,8 @@
   - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
 - __오픈 인프라 2020__
 	- 링크: [Link](http://oidc.co.kr/)
+- __CNCG Seoul 2020__ 
+  - 링크: [Link](https://cncg-kr.net/)
 
 <br />
 
