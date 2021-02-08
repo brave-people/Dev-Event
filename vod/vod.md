@@ -79,3 +79,8 @@
   - 분류: `온라인`, `Go`, `English`
   - 일시: 12. 23
   - 강의: [Youtube Link](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB&fbclid=IwAR0vmbIpWeMBePZ2B1LO23MpjSOPyQAI1hOd1PwS8KZCOqV1sS2EAIyT-u4)
+- __파스-타 기반 서비스 개발 및 아이디어 공모전 수상자__
+  - 분류: `해커톤`
+  - 접수: 12. 06
+  - 신청: [Link](https://www.youtube.com/c/PaaSTA/videos)
+

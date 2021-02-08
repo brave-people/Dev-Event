@@ -122,6 +122,11 @@
   - 주최: 경상대학교 스마트팜연구소
   - 접수: 02. 10(수) 13:00
   - 신청: [Link](http://k-farmdata.com/hackathon/)
+- __영상 공개 데이터 기반 인공지능 아이디어 해커톤__
+  - 분류: `아이디어톤`, `AI`
+  - 주최: 줌인터넷
+  - 참여: 01. 28 ~ 02. 10(수) 13:00
+  - 신청: [Link](http://hackerthon.zum.com/)
 - __IT사이드프로젝트 팀매칭을 위한 기획자, 디자이너, 개발자 및 온라인 네트워킹__
   - 분류: `네트워킹`
   - 주최: HACKLE
@@ -187,6 +192,12 @@
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
 
+- __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
+  - 분류: `온라인`, `컨퍼런스`, `Github`
+  - 주최: Github
+  - 일시: 02. 23 13:00 ~ 03. 09 13:00
+
+
 ---------------
 
 <br />
@@ -229,6 +240,8 @@
 	- 링크: [Link](http://oidc.co.kr/)
 - __CNCG Seoul 2020__ 
   - 링크: [Link](https://cncg-kr.net/)
+- __TeamH4C__
+  - 링크: [Link](https://www.facebook.com/teamh4c/)
 
 <br />
 
@@ -261,6 +274,6 @@
 
 <br />
 
-|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>|
+|<p align="center"> <img src="./static/bottom2.png" alt="text" width="1000" /></p>|
 |:--:|
-| *용감한 친구들 with 남송리 3번지* |
+| 용감한 친구들 with 남송리 3번지 |
