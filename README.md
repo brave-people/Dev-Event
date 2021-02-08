@@ -274,6 +274,6 @@
 
 <br />
 
-|<p align="center"> <img src="./static/bottom2.png" alt="text" width="1000" /></p>|
+|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>|
 |:--:|
 | 용감한 친구들 with 남송리 3번지 |
