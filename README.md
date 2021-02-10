@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -51,6 +51,9 @@
     <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
     <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
     <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars1.githubusercontent.com/u/57378834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Limm-jk" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
   </tr>
 </table>
 
