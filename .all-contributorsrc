@@ -69,6 +69,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sgd122",
+      "name": "Seong Gi Dong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12554583?v=4",
+      "profile": "https://dnd.ac",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
