@@ -162,6 +162,11 @@
   - 주최: 가장보통의코딩
   - 일시: 02. 20(토) 10:00 ~ 12:00
   - 신청: [Link](https://festa.io/events/1401)
+- __우아한 테크세미나 - 우아한 스프링 부트__
+  - 분류: `개발 모임`
+  - 주최: 우아한형제들
+  - 일시: 02. 20(토) 14:00 ~ 16:00
+  - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSfRbdTF0_M-ZOibmgUh0x_eEdlYxh2OpWBc5RapkOnXxQBMHw/viewform)
 - __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
   - 분류: `웨비나`, `클라우드`
   - 주최: 베스핀글로벌
