@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -51,6 +51,10 @@
     <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
     <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
     <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars1.githubusercontent.com/u/57378834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Limm-jk" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.naver.com/zzang9ha"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -162,6 +166,11 @@
   - 주최: 가장보통의코딩
   - 일시: 02. 20(토) 10:00 ~ 12:00
   - 신청: [Link](https://festa.io/events/1401)
+- __우아한 테크세미나 - 우아한 스프링 부트__
+  - 분류: `개발 모임`
+  - 주최: 우아한형제들
+  - 일시: 02. 20(토) 14:00 ~ 16:00
+  - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSfRbdTF0_M-ZOibmgUh0x_eEdlYxh2OpWBc5RapkOnXxQBMHw/viewform)
 - __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
   - 분류: `웨비나`, `클라우드`
   - 주최: 베스핀글로벌
@@ -275,6 +284,10 @@
   - AWS 대학생 그룹. 클라우드와 프로그래밍에 관심이 있는 다양한 대학생이 모여 프로젝트를 진행.
   - 2020년 9월에 선발된 4기 멤버들이 주축으로 활동 진행 중
   - 링크: [Link](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/)
+- __D&D 사이드프로젝트 동아리__
+  - 설명: D&D는 서울에서 활발히 활동하고 있는 현직자들이 서울에 편중되어 있는 기술공유와 세미나를 더 많은 사람들에게 나누기위해 기획된 비영리단체입니다.
+  - 개발자와 디자이너가 함께 프로젝트를 진행해요
+  - 홈페이지: [Link](https://dnd.ac/)
 
 
 <br />
