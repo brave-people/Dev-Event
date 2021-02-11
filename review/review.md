@@ -8,6 +8,7 @@
     - [https://devowen.com/212?category=726839](https://devowen.com/212?category=726839)
 - **2020 엔젤핵 온라인 해커톤 후기!**
     - [https://devowen.com/302](https://devowen.com/302)
+    - [https://seongsilyoo.medium.com/2020%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-200108633f49](https://seongsilyoo.medium.com/2020%EB%85%84%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0-200108633f49)
 - **2020 Naver HackDay 후기**
     - [https://daewoony.tistory.com/21](https://daewoony.tistory.com/21)
     - [https://velog.io/@ehdrms2034/2020-네이버-핵데이-참가-후기-2020-Naver-Hackday](https://velog.io/@ehdrms2034/2020-%EB%84%A4%EC%9D%B4%EB%B2%84-%ED%95%B5%EB%8D%B0%EC%9D%B4-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-2020-Naver-Hackday)
