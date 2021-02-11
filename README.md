@@ -192,15 +192,19 @@
 
 ## 21년 03월
 
-- __[AI EXPO KOREA 2021](https://event-us.kr/zvKlsXnNkKW6/event/26657)__
-  - 분류: `온라인`, `컨퍼런스`, `.NET`
-  - 주최: 서울에쎄
-  - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+- __[OKKYCON 2021 : 협업의 기술](https://festa.io/events/1412)__
+  - 분류: `온라인`, `컨퍼런스`, `okky`
+  - 주최: Github
+  - 일시: 03. 06(토) 13:00 ~ 17:00
 
 - __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
   - 분류: `온라인`, `컨퍼런스`, `Github`
   - 주최: Github
   - 일시: 02. 23 13:00 ~ 03. 09 13:00
+- __[AI EXPO KOREA 2021](https://event-us.kr/zvKlsXnNkKW6/event/26657)__
+  - 분류: `온라인`, `컨퍼런스`, `.NET`
+  - 주최: 서울에쎄
+  - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
 
 
 ---------------
