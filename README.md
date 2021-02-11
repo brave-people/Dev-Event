@@ -79,7 +79,7 @@
 ## Dev Event만의 특별함
 
 - 지난 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
-- 지난 행사 후기글: (./review/review.md)
+- 지난 행사 후기글: [바로가기](./review/review.md)
 
 <br />
 
