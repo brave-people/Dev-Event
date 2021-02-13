@@ -121,16 +121,21 @@
   - 접수: 01. 20(수) ~ 02. 10(수) [선착순 500명]
   - 신청: [Link](https://www.rocketpunch.com/bigdataclass2021?utm_source=rocketpunch&utm_medium=edm&utm_campaign=bigdataclass2021)
 
-- __농업 영상 AI 데이터 활용 아이디어 해커톤 대회__
-  - 분류: `아이디어톤`, `AI`
-  - 주최: 경상대학교 스마트팜연구소
-  - 접수: 02. 10(수) 13:00
-  - 신청: [Link](http://k-farmdata.com/hackathon/)
 - __영상 공개 데이터 기반 인공지능 아이디어 해커톤__
   - 분류: `아이디어톤`, `AI`
   - 주최: 줌인터넷
   - 참여: 01. 28 ~ 02. 10(수) 13:00
   - 신청: [Link](http://hackerthon.zum.com/)
+- __농업 영상 AI 데이터 활용 아이디어 해커톤 대회__
+  - 분류: `아이디어톤`, `AI`
+  - 주최: 경상대학교 스마트팜연구소
+  - 접수: 02. 10(수) 13:00
+  - 신청: [Link](http://k-farmdata.com/hackathon/)
+- __모션 키포인트 검출 AI 경진대회__
+  - 분류: `AI`
+  - 주최: DACON
+  - 대회 시작: 02. 10
+  - 신청: [Link](https://dacon.io/competitions/official/235701/overview/)
 - __IT사이드프로젝트 팀매칭을 위한 기획자, 디자이너, 개발자 및 온라인 네트워킹__
   - 분류: `네트워킹`
   - 주최: HACKLE
