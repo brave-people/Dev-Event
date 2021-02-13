@@ -156,6 +156,11 @@
   - 주최: Spoqa
   - 일시: 02. 17(수) 18:00 ~ 02. 18(목) 22:00
   - 신청: [Link](https://festa.io/events/1397)
+- __배민 선물하기팀 이것저것 물어보세요__
+  - 분류: `Talk`
+  - 주최: 우아한형제들
+  - 일시: 02. 17(수) 20:00 ~ 21:00
+  - 신청: [Link](https://festa.io/events/1397)
 - __SW 마에스트로 12기 모집__
   - 분류: `교육`
   - 주최: SW마에스트로
@@ -264,6 +269,8 @@
   - 링크: [Link](https://angelhackseoul.kr/)
 - __Google HashCode__
   - 링크: [Link](https://codingcompetitions.withgoogle.com/hashcode/)
+- __Codeengn__
+  - 링크: [Link](https://codeengn.com/conference/)
 
 <br />
 
