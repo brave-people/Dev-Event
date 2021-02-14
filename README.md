@@ -26,7 +26,7 @@
 ## 📣 Dev Event News
 
 <div align=center>
-  <img src="./static/dev-event-subscribe.png">
+  <img src="./static/dev-event-subscribe-v2.png">
 
   Dev Event를 메일로 보내드립니다! [메일 구독하거라기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
 </div>
@@ -41,7 +41,7 @@
 
 
 <details>
-  <summary>Dev Event Web(Beta) 공개 </summary>
+  <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
 
   ## 🎈 Dev Event Web(Beta) 공개~
 
