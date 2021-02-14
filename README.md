@@ -6,7 +6,6 @@
 
 ![img](./static/title.PNG)
 
-
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
@@ -21,19 +20,41 @@
 </div>
 
 <br />
+<br />
+<br />
 
-## 🎈 Dev Event Web(Beta) 공개~
+## 📣 Dev Event News
 
 <div align=center>
+  <img src="./static/dev-event-subscribe.png">
 
-![img](./static/dev-event-web.png)
-
-👉 [Dev Event Web 바로가기](https://brave-people.github.io/Dev-Event-Client/)
-
-"용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
-프로젝트를 더욱 발전시켜준 [@leedoopal](https://github.com/leedoopal) 감사합니다!
-
+  Dev Event를 메일로 보내드립니다! [메일 구독하거라기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
 </div>
+
+<br />
+<br />
+<div align=center>
+  <img src="./static/karrot.png">
+
+ ['02월 08일 당근마켓 프론트 개발자 채용 세션' 마크업 보러가기!!](https://covenant.tistory.com/225) 
+</div>
+
+
+<details>
+  <summary>Dev Event Web(Beta) 공개 </summary>
+
+  ## 🎈 Dev Event Web(Beta) 공개~
+
+  <div align=center>
+  <img src="https://github.com/brave-people/Dev-Event/blob/master/static/dev-event-web.png?raw=true">
+
+  👉 [Dev Event Web 바로가기](https://brave-people.github.io/Dev-Event-Client/)
+
+  "용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
+  프로젝트를 더욱 발전시켜준 [@leedoopal](https://github.com/leedoopal) 감사합니다!
+
+  </div>
+</details>
 
 <br />
 
@@ -186,6 +207,11 @@
   - 주최: 우아한형제들
   - 일시: 02. 20(토) 14:00 ~ 16:00
   - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSfRbdTF0_M-ZOibmgUh0x_eEdlYxh2OpWBc5RapkOnXxQBMHw/viewform)
+- __2021 Microsoft Azure 온라인 해커톤__
+  - 분류: `해커톤`
+  - 주최: Microsoft
+  - 접수: 02. 21
+  - 신청: [Link](https://discover-ai-with-microsoft.agorize.com/en/challenges/msazurevirtualhack-2021?t=yMvcu7wEVjPgLsBRnDpZEw&utm_source=gaerae&utm_medium=network&utm_campaign=kr_cont_dev&lang=ko&fbclid=IwAR3QhA8RPfi3kaUQtO8tFUc0W4Ti1p5Jf1kegOHOx81cMLrnweieCfluN2g)
 - __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
   - 분류: `웨비나`, `클라우드`
   - 주최: 베스핀글로벌
