@@ -186,7 +186,7 @@
   - 분류: `Talk`
   - 주최: 우아한형제들
   - 일시: 02. 17(수) 20:00 ~ 21:00
-  - 신청: [Link](https://festa.io/events/1397)
+  - 신청: [Link](https://www.joinclubhouse.com/event/PGeezgg2)
 - __AWSKRUG 구로디지털 #gudi 소모임__
   - 분류: `Talk`, `클라우드`
   - 주최: AWS한국사용자모임 구로디지털
@@ -242,6 +242,10 @@
 
 ## 21년 03월
 
+- __[SK 인포섹 디지털 핵심 실무인재 양성사업 교육생 모집](https://skinfosec.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=47621)__
+  - 분류: `교육`, `보안`
+  - 주최: SK 인포섹
+  - 모집: 03. 01
 - __[OKKYCON 2021 : 협업의 기술](https://festa.io/events/1412)__
   - 분류: `온라인`, `컨퍼런스`, `okky`
   - 주최: Github
@@ -255,6 +259,9 @@
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+
+
+
 
 
 ---------------
