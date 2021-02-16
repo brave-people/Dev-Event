@@ -227,6 +227,16 @@
   - 주최: 네이버 클라우드 
   - 일시: 02. 25(목) 10:00 ~ 12:00
   - 신청: [Link](https://register.gotowebinar.com/register/5855025174790246671)
+- __Best of GitHub Universe Live - KR__
+  - 분류: `웨비나`
+  - 주최: GitHub 총판 단군소프트
+  - 일시: 02. 25(목) 13:00 ~ 15:00
+  - 신청: [Link](https://resources.github.com/webcasts/kr-Universe-Live/)
+- __MongoDB University Webinar__
+  - 분류: `웨비나`, `교육`
+  - 주최: MongoDB university korea
+  - 일시: 02. 25(목) 14:00 ~ 15:00
+  - 신청: [Link](https://mongodbkoreauniveristycertific.splashthat.com/)
 - __리얼리눅스 무료세미나: 라즈베리파이로 코딩하기__
   - 분류: `무료교육`, `리눅스`
   - 주최: 리얼리눅스 
