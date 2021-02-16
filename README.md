@@ -198,6 +198,11 @@
   - 주최: SW마에스트로
   - 서류: 01. 18(월) ~ 02. 18(목) 17:00
   - 신청: [Link](https://www.swmaestro.org/sw/main/contents.do?menuNo=200033)
+- __개발자 도구와 Terraform을 활용한 클라우드 인프라 생성 자동화__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 02. 18(토) 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/3986410660524303632)
 - __가장 보통의 코딩__
   - 분류: `개발 모임`
   - 주최: 가장보통의코딩
@@ -213,16 +218,36 @@
   - 주최: Microsoft
   - 접수: 02. 21
   - 신청: [Link](https://discover-ai-with-microsoft.agorize.com/en/challenges/msazurevirtualhack-2021?t=yMvcu7wEVjPgLsBRnDpZEw&utm_source=gaerae&utm_medium=network&utm_campaign=kr_cont_dev&lang=ko&fbclid=IwAR3QhA8RPfi3kaUQtO8tFUc0W4Ti1p5Jf1kegOHOx81cMLrnweieCfluN2g)
+- __AWS INNOVATE 온라인 컨퍼런스 - AI 및 기계 학습 특집__
+  - 분류: `웨비나`, `AI`
+  - 주최: AWS
+  - 일시: 02. 24(수) 09:00 ~ 16:30
+  - 신청: [Link](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/)
+- __스타트업을 위한 클라우드 101 시즌 2__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 02. 24(수) 14:00 ~ 16:40
+  - 신청: [Link](https://www.megazone.com/smb-apply-210224_25/)
 - __AWS사용자를 위한 보안 및 컴플라이언스 준수 방안__
   - 분류: `웨비나`, `클라우드`
   - 주최: 베스핀글로벌
   - 일시: 02. 24(수) 15:00 ~ 16:00
   - 신청: [Link](https://register.gotowebinar.com/register/592694354538216973)
+- __채팅으로 세일즈하기, 야나두에게 물어봐!__
+  - 분류: `웨비나`, `세일즈`
+  - 주최: 채널톡
+  - 일시: 02. 24(수) 19:30 ~ 21:00
+  - 신청: [Link](https://festa.io/events/1423)
 - __구글 클라우드 기초 교육 - GCP Fundamentals__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드, 구글클라우드
   - 일시: 02. 25(목) 10:30 ~ 17:00
   - 신청: [Link](https://gc.hosting.kr/february_gcp_webinar_2021/)
+- __스타트업을 위한 클라우드 101 시즌 2__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 02. 25(수) 14:00 ~ 15:20
+  - 신청: [Link](https://www.megazone.com/smb-apply-210224_25/)
 - __All-in-one GAME Webinar__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 
