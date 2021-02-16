@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -76,6 +76,7 @@
   <tr>
     <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
     <td align="center"><a href="https://blog.naver.com/zzang9ha"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zel0rd"><img src="https://avatars.githubusercontent.com/u/28799597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>younggil</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zel0rd" title="Code">💻</a></td>
   </tr>
 </table>
 
