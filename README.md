@@ -286,6 +286,10 @@
   - 분류: `온라인`, `컨퍼런스`, `okky`
   - 주최: Github
   - 일시: 03. 06(토) 13:00 ~ 17:00
+- __[리얼리눅스 무료세미나: ARM아키텍쳐 알아야 하는 이유](https://festa.io/events/1428)__
+  - 분류: `온라인`, `리눅스`
+  - 주최: 리얼리눅스
+  - 일시: 03. 11(목) 20:00 ~ 21:00
 
 - __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
   - 분류: `온라인`, `컨퍼런스`, `Github`
