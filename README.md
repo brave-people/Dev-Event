@@ -382,7 +382,19 @@
   - 설명: D&D는 서울에서 활발히 활동하고 있는 현직자들이 서울에 편중되어 있는 기술공유와 세미나를 더 많은 사람들에게 나누기위해 기획된 비영리단체입니다.
   - 개발자와 디자이너가 함께 프로젝트를 진행해요
   - 홈페이지: [Link](https://dnd.ac/)
-
+- __SOPT__
+  - 대학생 연합 IT벤처 창업 동아리
+  - 홈페이지: [Link](http://sopt.org/wp/)
+  - Facebook 링크: [Link](https://www.facebook.com/clubsopt)
+- __멋쟁이사자처럼__
+  - 대학생 연합 동아리
+  - 홈페이지: [Link](https://likelion.net/)
+  - Facebook 링크: [Link](https://www.facebook.com/likelion.net/)
+- __Google Developer Student Clubs Korea__ 
+  - Google Developers 에서 후원하는 대학생 개발자 동아리
+  - DSC 홈페이지: [Link](https://developers.google.com/community/dsc)
+  - DSC Korea 홈페이지: [Link](https://sites.google.com/view/dsckr/home)
+  - DSC Korea Facebook 링크: [Link](https://www.facebook.com/dsckorea)
 
 <br />
 
