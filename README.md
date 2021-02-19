@@ -246,13 +246,13 @@
 - __스타트업을 위한 클라우드 101 시즌 2__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
-  - 일시: 02. 25(수) 14:00 ~ 15:20
+  - 일시: 02. 25(수) 14:00 ~ 15:20
   - 신청: [Link](https://www.megazone.com/smb-apply-210224_25/)
-- __All-in-one GAME Webinar__
+- __API Gateway를 활용한 API 개발과 비즈니스 로직 실행__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 
-  - 일시: 02. 25(목) 10:00 ~ 12:00
-  - 신청: [Link](https://register.gotowebinar.com/register/5855025174790246671)
+  - 일시: 02. 25(목) 11:00 ~ 12:00
+  - 신청: [Link](https://register.gotowebinar.com/register/5791577855890682640)
 - __Best of GitHub Universe Live - KR__
   - 분류: `웨비나`
   - 주최: GitHub 총판 단군소프트
