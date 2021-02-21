@@ -402,7 +402,10 @@
 더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
 
 <br />
-
-|<p align="center"> <img src="./static/bottom.png" alt="text" width="1000" /></p>|
-|:--:|
-| 용감한 친구들 with 남송리 3번지 |
+<hr />
+<div align=center>
+  <img src="https://github.com/brave-people/Dev-Event/blob/master/static/bottom.png?raw=true" width="80%">
+  <hr />
+    <h3> 용감한 친구들 with 남송리 삼번지 </h3>
+  <hr />
+</div>
