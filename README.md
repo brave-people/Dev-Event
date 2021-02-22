@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
-    <td align="center"><a href="https://blog.naver.com/zzang9ha"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/JuHyun419"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/zel0rd"><img src="https://avatars.githubusercontent.com/u/28799597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>younggil</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zel0rd" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/haeseok/"><img src="https://avatars.githubusercontent.com/u/20268101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haeseok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=haeseoklee" title="Code">💻</a></td>
   </tr>
@@ -288,6 +288,11 @@
   - 분류: `교육`, `보안`
   - 주최: SK 인포섹
   - 모집: 03. 01
+- __(우아한형제들)개발자 오픈 채용 설명회__
+  - 분류: `온라인`, `채용`
+  - 주최: TensorFlow User Group
+  - 일시: 03. 04(목) 19:00 ~ 22:00
+  - 신청: [Link](https://docs.google.com/forms/d/e/1FAIpQLSfixlKBty_Aqa-e91dQLywkQS7McxVA9rT0ZuIG5r9d9wyQVw/viewform?fbzx=-113222784564010817)
 - __[OKKYCON 2021 : 협업의 기술](https://festa.io/events/1412)__
   - 분류: `온라인`, `컨퍼런스`, `okky`
   - 주최: Github
@@ -305,7 +310,6 @@
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
-
 
 
 
