@@ -288,7 +288,7 @@
   - 분류: `교육`, `보안`
   - 주최: SK 인포섹
   - 모집: 03. 01
-- __[(우아한형제들)개발자 오픈 채용 설명회](https://docs.google.com/forms/d/e/1FAIpQLSfixlKBty_Aqa-e91dQLywkQS7McxVA9rT0ZuIG5r9d9wyQVw/viewform?fbzx=-113222784564010817)
+- __[(우아한형제들)개발자 오픈 채용 설명회](https://docs.google.com/forms/d/e/1FAIpQLSfixlKBty_Aqa-e91dQLywkQS7McxVA9rT0ZuIG5r9d9wyQVw/viewform?fbzx=-113222784564010817)__
   - 분류: `온라인`, `채용`
   - 주최: TensorFlow User Group
   - 일시: 03. 04(목) 19:00 ~ 22:00
