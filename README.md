@@ -239,6 +239,11 @@
   - 주최: 채널톡
   - 일시: 02. 24(수) 19:30 ~ 21:00
   - 신청: [Link](https://festa.io/events/1423)
+- __이력서를 부탁해__
+  - 분류: `웨비나`, `세일즈`
+  - 주최: 원티드
+  - 일시: 02. 25(목) 
+  - 신청: [Link](https://www.wanted.co.kr/events/resume_contents)
 - __구글 클라우드 기초 교육 - GCP Fundamentals__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드, 구글클라우드
