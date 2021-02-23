@@ -269,6 +269,11 @@
   - 주최: MongoDB university korea
   - 일시: 02. 25(목) 14:00 ~ 15:00
   - 신청: [Link](https://mongodbkoreauniveristycertific.splashthat.com/)
+- __Golang 1.16 Release Party - Virtual__
+  - 분류: `웨비나`, `go`
+  - 주최: GDG Golang Korea
+  - 일시: 02. 25(목) 20:00 ~ 22:00
+  - 신청: [Link](https://festa.io/events/1439)
 - __리얼리눅스 무료세미나: 라즈베리파이로 코딩하기__
   - 분류: `무료교육`, `리눅스`
   - 주최: 리얼리눅스 
@@ -288,6 +293,10 @@
   - 분류: `교육`, `보안`
   - 주최: SK 인포섹
   - 모집: 03. 01
+- __[개발자 오픈 채용 설명회](https://docs.google.com/forms/d/e/1FAIpQLSfixlKBty_Aqa-e91dQLywkQS7McxVA9rT0ZuIG5r9d9wyQVw/viewform?fbzx=-113222784564010817)__
+  - 분류: `온라인`, `채용`
+  - 주최: 우아한형제들
+  - 일시: 03. 04(목) 19:00 ~ 22:00
 - __[OKKYCON 2021 : 협업의 기술](https://festa.io/events/1412)__
   - 분류: `온라인`, `컨퍼런스`, `okky`
   - 주최: Github
@@ -296,6 +305,10 @@
   - 분류: `온라인`, `리눅스`
   - 주최: 리얼리눅스
   - 일시: 03. 11(목) 20:00 ~ 21:00
+- __[멋쟁이 사자처럼 9기 리쿠르팅](https://apply.likelion.org/)__
+  - 분류: `개발자`
+  - 주최: 멋쟁이사자처럼
+  - 일시: 02. 22 ~ 03. 12
 
 - __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
   - 분류: `온라인`, `컨퍼런스`, `Github`
