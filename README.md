@@ -285,6 +285,11 @@
   - 주최: 리얼리눅스 
   - 일시: 02. 25(목) 20:00 ~ 21:00
   - 신청: [Link](https://festa.io/events/1394)
+- __현업 개발자에게 질문시간!__
+  - 분류: `개발자`, `진로`
+  - 주최: 코드프레소
+  - 일시: 02. 19(금) ~ 02. 26(금)
+  - 신청: [Link](https://event-us.kr/codepresso/event/28315?fbclid=IwAR3tGw394NXhROM4NdXtOk8sM9yzADVtkmIKWy3Pzvj7t3sBnhDSOi5ldx8)
 - __TensorFlow Everywhere Korea__
   - 분류: `모임`, `텐서플로우`
   - 주최: TensorFlow User Group
@@ -316,15 +321,22 @@
   - 주최: 멋쟁이사자처럼
   - 일시: 02. 22 ~ 03. 12
 
+- __[STARTUP CODING FESTIVAL](https://www.wanted.co.kr/events/scofe2021)__
+  - 분류: `온라인`, `알고리즘`
+  - 주최: wanted
+  - 신청: 03. 17(수)
 - __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
   - 분류: `온라인`, `컨퍼런스`, `Github`
   - 주최: Github
-  - 일시: 02. 23 13:00 ~ 03. 09 13:00
+  - 일시: 02. 23(화) 13:00 ~ 03. 09(화) 13:00
 - __[AI EXPO KOREA 2021](https://event-us.kr/zvKlsXnNkKW6/event/26657)__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
-
+- __[성장하는 프론트엔드 개발자 되기](https://www.wanted.co.kr/events/livetalk20)__
+  - 분류: `온라인`, `유료`, `프론트엔드`
+  - 주최: watnted
+  - 일시: 03. 25(목)
 
 
 
