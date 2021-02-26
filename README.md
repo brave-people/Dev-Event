@@ -288,7 +288,7 @@
 - __현업 개발자에게 질문시간!__
   - 분류: `개발자`, `진로`
   - 주최: 코드프레소
-  - 일시: 02. 19(금) ~ 02. 26(금)
+  - 일시: 02. 19(금) ~ 02. 26(금)
   - 신청: [Link](https://event-us.kr/codepresso/event/28315?fbclid=IwAR3tGw394NXhROM4NdXtOk8sM9yzADVtkmIKWy3Pzvj7t3sBnhDSOi5ldx8)
 - __TensorFlow Everywhere Korea__
   - 분류: `모임`, `텐서플로우`
@@ -338,8 +338,14 @@
   - 주최: watnted
   - 일시: 03. 25(목)
 
+<br />
 
+## 21년 04월
 
+- __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
+  - 분류: `해커톤`
+  - 주최: manTech
+  - 신청: 04. 19(월) ~ 05. 13(목)
 
 ---------------
 
