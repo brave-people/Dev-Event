@@ -337,6 +337,10 @@
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
+  - 분류: `온라인`, `Flutter`
+  - 주최: Flutter Korea
+  - 일시: 03. 27(토) 15:00
 
 <br />
 
@@ -344,7 +348,7 @@
 
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
-  - 주최: manTech
+  - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
 
 ---------------
