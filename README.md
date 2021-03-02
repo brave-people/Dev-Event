@@ -32,13 +32,15 @@
 </div>
 
 <br />
+
+<!-- 
 <br />
 <div align=center>
   <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/master/Article/Note/%EB%B0%B0%EB%AF%BC_%EC%84%A0%EB%AC%BC%ED%95%98%EA%B8%B0_%EC%98%A4%ED%94%BC%EC%8A%A4%EC%95%84%EC%9B%8C/img/cover.png?raw=true" width="80%">
 
  [[우아한형제들] 배민 선물하기 오피스아워 마크업 보러가기!!](https://covenant.tistory.com/226) 
 </div>
-
+-->
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
