@@ -119,10 +119,18 @@
   - 분류: `온라인`, `채용`
   - 주최: 우아한형제들
   - 일시: 03. 04(목) 19:00 ~ 22:00
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/276456654/?recEventId=276456654&recNumber=1&mu_notif_category=suggested_events)__
+  - 분류: `온라인`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 모집: 03. 04(목) 19:00
 - __[OKKYCON 2021 : 협업의 기술](https://festa.io/events/1412)__
   - 분류: `온라인`, `컨퍼런스`, `okky`
   - 주최: Github
   - 일시: 03. 06(토) 13:00 ~ 17:00
+- __[취업&이직을 위한 개발 포트폴리오 만들기 과정](https://www.notion.so/02810cafc1b84e55945ac6d691936bad)__
+  - 분류: `온라인`, `포트폴리오`, `무료`
+  - 주최: 카우치코딩
+  - 일시: 03. 06(토) 14:00 ~ 15:00
 - __[리얼리눅스 무료세미나: ARM아키텍쳐 알아야 하는 이유](https://festa.io/events/1428)__
   - 분류: `온라인`, `리눅스`
   - 주최: 리얼리눅스
@@ -132,6 +140,10 @@
   - 주최: 멋쟁이사자처럼
   - 일시: 02. 22 ~ 03. 12
 
+- __[AWSKRUG 자격증 취득 모임](https://www.meetup.com/ko-KR/awskrug/events/276358190/)__
+  - 분류: `온라인`, `알고리즘`
+  - 주최: wanted
+  - 신청: 03. 17(수)
 - __[STARTUP CODING FESTIVAL](https://www.wanted.co.kr/events/scofe2021)__
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
