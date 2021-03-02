@@ -141,9 +141,9 @@
   - 일시: 02. 22 ~ 03. 12
 
 - __[AWSKRUG 자격증 취득 모임](https://www.meetup.com/ko-KR/awskrug/events/276358190/)__
-  - 분류: `온라인`, `알고리즘`
+  - 분류: `온라인`, `클라우드`
   - 주최: wanted
-  - 신청: 03. 17(수)
+  - 신청: 03. 15(월)
 - __[STARTUP CODING FESTIVAL](https://www.wanted.co.kr/events/scofe2021)__
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
