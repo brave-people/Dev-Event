@@ -119,6 +119,10 @@
   - 분류: `온라인`, `채용`
   - 주최: 우아한형제들
   - 일시: 03. 04(목) 19:00 ~ 22:00
+  - __[ iOS 개발자 클럽하우스 네트워킹](https://docs.google.com/forms/d/e/1FAIpQLSfixlKBty_Aqa-e91dQLywkQS7McxVA9rT0ZuIG5r9d9wyQVw/viewform?fbzx=-113222784564010817)__
+    - 분류: `온라인`, `iOS`,  `무료`
+    - 주최: 우아한형제들
+    - 일시: 03. 04(목) 20:00
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/276456654/?recEventId=276456654&recNumber=1&mu_notif_category=suggested_events)__
   - 분류: `온라인`, `데이터사이언스`
   - 주최: AWSKRUG
