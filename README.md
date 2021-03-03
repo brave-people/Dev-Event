@@ -156,6 +156,10 @@
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
   - 신청: 03. 17(수)
+- __[안전한 SW 개발계약을 위한 모든 것](https://event-us.kr/veatlawfirm/event/29272)__
+  - 분류: `온라인`, `SW 계약`
+  - 주최: 법무법인비트
+  - 신청: 03. 17(수) 17:00
 - __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
   - 분류: `온라인`, `컨퍼런스`, `Github`
   - 주최: Github
