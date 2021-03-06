@@ -156,10 +156,18 @@
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
   - 신청: 03. 17(수)
-- __[An enterprise software event](https://infocus.github.com/?utm_source=github.com&utm_medium=referral&utm_campaign=infocus_banner_dashboard)__
-  - 분류: `온라인`, `컨퍼런스`, `Github`
-  - 주최: Github
-  - 일시: 02. 23(화) 13:00 ~ 03. 09(화) 13:00
+- __[안전한 SW 개발계약을 위한 모든 것](https://event-us.kr/veatlawfirm/event/29272)__
+  - 분류: `온라인`, `SW 계약`
+  - 주최: 법무법인비트
+  - 신청: 03. 17(수) 17:00
+- __[안전한 SW 개발계약을 위한 모든 것](https://event-us.kr/veatlawfirm/event/29272)__
+  - 분류: `온라인`, `SW 계약`
+  - 주최: 법무법인비트
+  - 신청: 03. 17(수) 17:00
+- __[Capture The Flag](https://securitylab.github.com/ctf)__
+  - 분류: `온라인`, `보안`, `Github`
+  - 주최: GitHub Security Lab
+  - 일시: 03. 17(수) ~ 03. 21(일)
 - __[AI EXPO KOREA 2021](https://event-us.kr/zvKlsXnNkKW6/event/26657)__
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
@@ -168,6 +176,10 @@
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __[NVIDIA JETSON DEVELOPER MEETUP](https://festa.io/events/1458)__
+  - 분류: `온라인`
+  - 주최: NVIDIA
+  - 일시: 03. 25(목) 16:00 ~ 18:00
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
