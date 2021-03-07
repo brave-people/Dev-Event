@@ -33,14 +33,14 @@
 
 <br />
 
-<!-- 
+
 <br />
 <div align=center>
-  <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/master/Article/Note/%EB%B0%B0%EB%AF%BC_%EC%84%A0%EB%AC%BC%ED%95%98%EA%B8%B0_%EC%98%A4%ED%94%BC%EC%8A%A4%EC%95%84%EC%9B%8C/img/cover.png?raw=true" width="80%">
+  <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/010bd8ada9dfc8457cbd3ce90a07a8654a540937/Article/Note/%EC%9A%B0%ED%98%95_OO%ED%8C%80%EC%9D%84_%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/img/cover.png?raw=true" width="80%">
 
- [[우아한형제들] 배민 선물하기 오피스아워 마크업 보러가기!!](https://covenant.tistory.com/226) 
+ [[21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기](https://covenant.tistory.com/226) 
 </div>
--->
+
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
