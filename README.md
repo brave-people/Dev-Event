@@ -176,6 +176,10 @@
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __[Regular Techtalk March - Virtual](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-regular-techtalk-march-virtual/#/)__
+  - 분류: `온라인`, `Go`
+  - 주최: Golang Korea
+  - 일시: 03. 25(목) 20:00 - 22:00
 - __[NVIDIA JETSON DEVELOPER MEETUP](https://festa.io/events/1458)__
   - 분류: `온라인`
   - 주최: NVIDIA
