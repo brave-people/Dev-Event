@@ -152,6 +152,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: wanted
   - 신청: 03. 15(월)
+- __[우아한 ATDD](https://docs.google.com/forms/d/e/1FAIpQLSfxTaez84JSLgfiTeUs6yddX_LHEaV0zQ1zz7yoDgNikDnZpA/viewform)__
+  - 분류: `온라인`, `웨비나`
+  - 주최: 우아한형제들
+  - 신청: 03. 16(화)
 - __[STARTUP CODING FESTIVAL](https://www.wanted.co.kr/events/scofe2021)__
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
