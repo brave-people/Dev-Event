@@ -184,6 +184,10 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
+- __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 카카오
+  - 신청: ~ 3월 31일 (수) 까지
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
