@@ -143,6 +143,10 @@
   - 분류: `온라인`, `리눅스`
   - 주최: 리얼리눅스
   - 일시: 03. 11(목) 20:00 ~ 21:00
+- __[엘리스 튜터 모집](https://docs.google.com/forms/d/1vJi3ypag_hWZWb2i1rJwUla-gbjNyVo3-kRw3uRTBjA/viewform?edit_requested=true)__
+  - 분류: `온라인`, `튜터`
+  - 주최: 엘리스
+  - 일시: 03. 16(목)
 - __[멋쟁이 사자처럼 9기 리쿠르팅](https://apply.likelion.org/)__
   - 분류: `개발자`
   - 주최: 멋쟁이사자처럼
@@ -180,6 +184,10 @@
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __["스타트업을 위한 클라우드 101" 웨비나 시즌3](https://www.megazone.com/smb-apply-210325/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-3)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 03. 25(목) 14:00 ~ 16:00
 - __[Regular Techtalk March - Virtual](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-regular-techtalk-march-virtual/#/)__
   - 분류: `온라인`, `Go`
   - 주최: Golang Korea
@@ -201,10 +209,21 @@
 
 ## 21년 04월
 
+- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
+  - 분류: `교육`
+  - 주최: 삼성 SDS
+  - 신청: 04월 중
+- __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
+  - 분류: `오픈소스`
+  - 주최: Google
+  - 신청: 03. 30(화) ~ 04. 14(수)
+
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
+
+
 
 ---------------
 
