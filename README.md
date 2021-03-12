@@ -188,6 +188,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 03. 25(목) 14:00 ~ 16:00
+- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
+  - 분류: `채용설명회`
+  - 주최: 채널톡
+  - 일시: 03. 25(목) 19:00 ~ 20:30
 - __[Regular Techtalk March - Virtual](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-regular-techtalk-march-virtual/#/)__
   - 분류: `온라인`, `Go`
   - 주최: Golang Korea
@@ -213,17 +217,19 @@
   - 분류: `교육`
   - 주최: 삼성 SDS
   - 신청: 04월 중
+- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
+  - 분류: `스프링`
+  - 주최: KSUG
+  - 신청: 04월 중 공개
+
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
   - 신청: 03. 30(화) ~ 04. 14(수)
-
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
-
-
 
 ---------------
 
@@ -318,6 +324,8 @@
   - DSC 홈페이지: [Link](https://developers.google.com/community/dsc)
   - DSC Korea 홈페이지: [Link](https://sites.google.com/view/dsckr/home)
   - DSC Korea Facebook 링크: [Link](https://www.facebook.com/dsckorea)
+- __디프만__
+  - 홈페이지: [Link](https://www.depromeet.com/)
 
 <br />
 
