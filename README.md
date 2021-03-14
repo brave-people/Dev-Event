@@ -32,15 +32,15 @@
 </div>
 
 <br />
-
-
 <br />
+
+<!-- 
 <div align=center>
   <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/010bd8ada9dfc8457cbd3ce90a07a8654a540937/Article/Note/%EC%9A%B0%ED%98%95_OO%ED%8C%80%EC%9D%84_%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/img/cover.png?raw=true" width="80%">
 
- [[21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기](https://covenant.tistory.com/228) 
-</div>
-
+<a href="https://covenant.tistory.com/228"> [21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기 </a>
+</div> 
+-->
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
