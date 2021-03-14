@@ -143,10 +143,6 @@
   - 분류: `온라인`, `리눅스`
   - 주최: 리얼리눅스
   - 일시: 03. 11(목) 20:00 ~ 21:00
-- __[엘리스 튜터 모집](https://docs.google.com/forms/d/1vJi3ypag_hWZWb2i1rJwUla-gbjNyVo3-kRw3uRTBjA/viewform?edit_requested=true)__
-  - 분류: `온라인`, `튜터`
-  - 주최: 엘리스
-  - 일시: 03. 16(목)
 - __[멋쟁이 사자처럼 9기 리쿠르팅](https://apply.likelion.org/)__
   - 분류: `개발자`
   - 주최: 멋쟁이사자처럼
@@ -156,6 +152,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: wanted
   - 신청: 03. 15(월)
+- __[엘리스 튜터 모집](https://docs.google.com/forms/d/1vJi3ypag_hWZWb2i1rJwUla-gbjNyVo3-kRw3uRTBjA/viewform?edit_requested=true)__
+  - 분류: `온라인`, `튜터`
+  - 주최: 엘리스
+  - 일시: 03. 16(목)
 - __[우아한 ATDD](https://docs.google.com/forms/d/e/1FAIpQLSfxTaez84JSLgfiTeUs6yddX_LHEaV0zQ1zz7yoDgNikDnZpA/viewform)__
   - 분류: `온라인`, `웨비나`
   - 주최: 우아한형제들
@@ -200,14 +200,14 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
-- __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 카카오
-  - 신청: ~ 3월 31일 (수) 까지
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
+- __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 카카오
+  - 신청: ~ 3월 31일 (수) 까지
 
 <br />
 
