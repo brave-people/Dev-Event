@@ -204,6 +204,10 @@
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
+- __[개발자와 사용자 모두를 위한 접근성](https://festa.io/events/1468)__
+  - 분류: `온라인`, `접근성`
+  - 주최: Let's Swift
+  - 일시: 3월 30일 (화) 19:30 ~ 21:00
 - __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `온라인`, `클라우드`
   - 주최: 카카오
