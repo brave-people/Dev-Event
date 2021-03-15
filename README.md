@@ -32,15 +32,15 @@
 </div>
 
 <br />
-
-
 <br />
+
+<!-- 
 <div align=center>
   <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/010bd8ada9dfc8457cbd3ce90a07a8654a540937/Article/Note/%EC%9A%B0%ED%98%95_OO%ED%8C%80%EC%9D%84_%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/img/cover.png?raw=true" width="80%">
 
- [[21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기](https://covenant.tistory.com/228) 
-</div>
-
+<a href="https://covenant.tistory.com/228"> [21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기 </a>
+</div> 
+-->
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
@@ -152,6 +152,14 @@
   - 분류: `온라인`, `클라우드`
   - 주최: wanted
   - 신청: 03. 15(월)
+- __[엘리스 튜터 모집](https://docs.google.com/forms/d/1vJi3ypag_hWZWb2i1rJwUla-gbjNyVo3-kRw3uRTBjA/viewform?edit_requested=true)__
+  - 분류: `온라인`, `튜터`
+  - 주최: 엘리스
+  - 일시: 03. 16(목)
+- __[우아한 ATDD](https://docs.google.com/forms/d/e/1FAIpQLSfxTaez84JSLgfiTeUs6yddX_LHEaV0zQ1zz7yoDgNikDnZpA/viewform)__
+  - 분류: `온라인`, `웨비나`
+  - 주최: 우아한형제들
+  - 신청: 03. 16(화)
 - __[STARTUP CODING FESTIVAL](https://www.wanted.co.kr/events/scofe2021)__
   - 분류: `온라인`, `알고리즘`
   - 주최: wanted
@@ -176,6 +184,18 @@
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __["스타트업을 위한 클라우드 101" 웨비나 시즌3](https://www.megazone.com/smb-apply-210325/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-3)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 03. 25(목) 14:00 ~ 16:00
+- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
+  - 분류: `채용설명회`
+  - 주최: 채널톡
+  - 일시: 03. 25(목) 19:00 ~ 20:30
+- __[Regular Techtalk March - Virtual](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-regular-techtalk-march-virtual/#/)__
+  - 분류: `온라인`, `Go`
+  - 주최: Golang Korea
+  - 일시: 03. 25(목) 20:00 - 22:00
 - __[NVIDIA JETSON DEVELOPER MEETUP](https://festa.io/events/1458)__
   - 분류: `온라인`
   - 주최: NVIDIA
@@ -184,11 +204,28 @@
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
+- __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 카카오
+  - 신청: ~ 3월 31일 (수) 까지
 
 <br />
 
 ## 21년 04월
 
+- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
+  - 분류: `교육`
+  - 주최: 삼성 SDS
+  - 신청: 04월 중
+- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
+  - 분류: `스프링`
+  - 주최: KSUG
+  - 신청: 04월 중 공개
+
+- __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
+  - 분류: `오픈소스`
+  - 주최: Google
+  - 신청: 03. 30(화) ~ 04. 14(수)
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
@@ -198,100 +235,68 @@
 
 <br />
 
-## 개발 교육
-
-- __양재동 코드랩__
-  - 홈페이지: [www.codelabs.kr](https://www.codelabs.kr/)
-  - 유튜브: [Link](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg?view_as=subscriber)
-- __스프링 캠프__
-  - 최근 모임: 2019 스프링 캠프(19. 04. 27.)
-  - 홈페이지: [springcamp.io/2019](https://www.springcamp.io/2019/)
-- __CCCR 아카데미__
-  - 홈페이지: [cccr-edu](https://www.cccr-edu.or.kr/main/index.jsp)
-- __모두의 연구소__
-  - 홈페이지: [modulabs.co.kr](https://modulabs.co.kr/)
-
-<br />
-
-## 개발자 모임
-
-- __스프린트 서울__
-  - 홈페이지: [www.sprintseoul.org](https://www.sprintseoul.org/)
-  - 수다방: [gitter.im/sprintseoul/community](https://gitter.im/sprintseoul/community)
-- __우아한 테크의 밤__
-  - 최근 모임: 19. 12. 18
-- __DevOps Korea__
-  - 홈페이지: [Facebook DevOps](https://www.facebook.com/groups/TeAnE/)
-- __IT인프라 엔지니어 그룹 밋업__
-  - 최근 모임: 19. 12. 19.
-  - 홈페이지: [Facebook. IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
-- __GDG DevFest Seoul__
-  - 최근 모임: 19. 10. 20.
-  - 홈페이지: [Facebook. GDG DevFest Korea](https://www.facebook.com/devfest.seoul.2019/)
-- __OSS 개발자 포럼 2020__
-  - 홈페이지: [Facebook. OSS Dev Forum](https://www.facebook.com/groups/ossdevforum)
-- __Google Developers Experts__
-  - 홈페이지: [developers.google.com](https://developers.google.com/community/experts)
-- __오픈 인프라 2020__
-	- 링크: [Link](http://oidc.co.kr/)
-- __CNCG Seoul 2020__ 
-  - 링크: [Link](https://cncg-kr.net/)
-- __TeamH4C__
-  - 링크: [Link](https://www.facebook.com/teamh4c/)
-- __Angel Hack Seoul__
-  - 링크: [Link](https://angelhackseoul.kr/)
-- __Google HashCode__
-  - 링크: [Link](https://codingcompetitions.withgoogle.com/hashcode/)
-- __Codeengn__
-  - 링크: [Link](https://codeengn.com/conference/)
-- __CTF Time__
-  - 링크: [Link][http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU]
-
-<br />
-
 ## 개발자 동아리
 
-- __DDD IT 연합 동아리__
-  - 최근 모임: 20. 02. 15.
-- __한이음__
-  - 설명: 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 현업 실무 기술이반영된 프로젝트를 수행
-  - 홈페이지: [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
-- __넥스터즈__
-  - 개발자와 디자이너 연합 동아리
-  - 홈페이지: [Link](http://teamnexters.com/)
-- __yapp__
-  - 대학생 연합 동아리로서 현재 17기 활동중
-  - 홈페이지: [Link](http://yapp.co.kr/)
-- __매쉬업__
-  - 10기 모집: 2020. 11. 10 ~ 11. 15
-  - 홈페이지: [Link](https://mash-up.it/)
-  - Facebook 링크: [Link](https://www.facebook.com/mashupgroup/)
-- __AUSG__
-  - AWS 대학생 그룹. 클라우드와 프로그래밍에 관심이 있는 다양한 대학생이 모여 프로젝트를 진행.
-  - 2020년 9월에 선발된 4기 멤버들이 주축으로 활동 진행 중
-  - 링크: [Link](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/)
-- __D&D 사이드프로젝트 동아리__
-  - 설명: D&D는 서울에서 활발히 활동하고 있는 현직자들이 서울에 편중되어 있는 기술공유와 세미나를 더 많은 사람들에게 나누기위해 기획된 비영리단체입니다.
-  - 개발자와 디자이너가 함께 프로젝트를 진행해요
-  - 홈페이지: [Link](https://dnd.ac/)
-- __SOPT__
-  - 대학생 연합 IT벤처 창업 동아리
-  - 홈페이지: [Link](http://sopt.org/wp/)
-  - Facebook 링크: [Link](https://www.facebook.com/clubsopt)
-- __멋쟁이사자처럼__
-  - 대학생 연합 동아리
-  - 홈페이지: [Link](https://likelion.net/)
-  - Facebook 링크: [Link](https://www.facebook.com/likelion.net/)
-- __Google Developer Student Clubs Korea__ 
-  - Google Developers 에서 후원하는 대학생 개발자 동아리
-  - DSC 홈페이지: [Link](https://developers.google.com/community/dsc)
-  - DSC Korea 홈페이지: [Link](https://sites.google.com/view/dsckr/home)
-  - DSC Korea Facebook 링크: [Link](https://www.facebook.com/dsckorea)
+| 이름 | 활동 | 링크 | 
+|------------|---------|-----------|
+| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트 | [facebook](https://www.facebook.com/dddstudy/)  | 
+| 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
+| 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
+| YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
+| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://mash-up.it/), [facebook](https://www.facebook.com/mashupgroup/) |
+| AUSG | AWS 대학생 그룹 | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
+| D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체 | [dnd.ac](https://dnd.ac/) |
+| SOPT | 대학생 연합 IT벤처 창업 동아리 | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
+| 멋쟁이사자처럼 | 대학생 연합 동아리 | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
+| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리 | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
+| 디프만 | 디자이너와 프로그래머의 만남 | [depromeet.com](https://www.depromeet.com/) |
 
 <br />
 
 더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
 
+<br />
+
+## 개발 교육
+
+| 이름 | 링크 | 
+|------------|-----------|
+| 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) | 
+| 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) | 
+| CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) | 
+
+<br />
+
+## 개발자 모임
+
+| 이름 | 링크 | 
+|------------|-----------|
+| 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) | 
+| DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) | 
+| IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
+| GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
+| OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
+| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
+| 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
+| CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
+
+<br />
+
+## 기타
+
+> 정규적으로 열리는 개발자 행사입니다.
+
+| 이름 | 링크 | 
+|------------|-----------|
+| TeamH4C | [facebook](https://www.facebook.com/teamh4c/) | 
+| Angel Hack Seoul | [angelhackseoul.kr](https://angelhackseoul.kr/) | 
+| Google HashCode | [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/hashcode/) | 
+| Codeengn | [codeengn.com](https://codeengn.com/conference/) | 
+| CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
+| 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) | 
+| DACON | [dacon.io/](https://dacon.io/) | 
+
+<br />
 <br />
 <hr />
 <div align=center>
