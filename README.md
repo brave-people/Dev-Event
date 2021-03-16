@@ -200,18 +200,22 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
+- __[채용연계 Vision AI 경진대회](https://megaproduct.lotte.net/competitionSummary/6)__
+  - 분류: `해커톤`, `인공지능`
+  - 주최: 롯데
+  - 일시: 03. 15 ~ 03. 26(목) 18:00
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
-- __[개발자와 사용자 모두를 위한 접근성](https://festa.io/events/1468)__
-  - 분류: `온라인`, `접근성`
-  - 주최: Let's Swift
-  - 일시: 3월 30일 (화) 19:30 ~ 21:00
+- __[생산성 극대화 및 협업을 위한 GCP 솔루션](https://careers.kakao.com/jobs/P-11947)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 신청: 03. 30(화) 14:00 - 16:00
 - __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `온라인`, `클라우드`
   - 주최: 카카오
-  - 신청: ~ 3월 31일 (수) 까지
+  - 신청: ~ 03. 31(수) 까지
 
 <br />
 
@@ -230,10 +234,22 @@
   - 분류: `오픈소스`
   - 주최: Google
   - 신청: 03. 30(화) ~ 04. 14(수)
+- __[Wanted Live Talk #23. 오늘의 개발자 | 김양귀](https://www.wanted.co.kr/events/livetalk23)__
+  - 분류: `Talk`, `커리어`
+  - 주최: wanted
+  - 신청: 04. 15(목) 12:00 ~ 13:00
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
+- __[Wanted Live Talk #23. 오늘의 개발자 | 강병진](https://www.wanted.co.kr/events/livetalk23)__
+  - 분류: `Talk`, `커리어`
+  - 주최: wanted
+  - 신청: 04. 22(목) 12:00 ~ 13:00
+- __[Wanted Live Talk #23. 오늘의 개발자 | 류성두](https://www.wanted.co.kr/events/livetalk23)__
+  - 분류: `Talk`, `ios`
+  - 주최: wanted
+  - 신청: 04. 29(목) 12:00 ~ 13:00
 
 ---------------
 
@@ -298,7 +314,7 @@
 | Codeengn | [codeengn.com](https://codeengn.com/conference/) | 
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
 | 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) | 
-| DACON | [dacon.io/](https://dacon.io/) | 
+| DACON | [dacon.io/](https://dacon.io) | 
 
 <br />
 <br />
