@@ -204,6 +204,10 @@
   - 분류: `해커톤`, `인공지능`
   - 주최: 롯데
   - 일시: 03. 15 ~ 03. 26(목) 18:00
+- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
+  - 분류: `온라인`, `백엔드`, `채용설명회`
+  - 주최: 채널톡
+  - 일시: 03. 25(토) 19:00 ~ 20:30
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
