@@ -225,15 +225,11 @@
 
 ## 21년 04월
 
-- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
-  - 분류: `교육`
-  - 주최: 삼성 SDS
-  - 신청: 04월 중
-- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
-  - 분류: `스프링`
-  - 주최: KSUG
-  - 신청: 04월 중 공개
 
+- __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
+  - 분류: `온라인`, `Flutter`
+  - 주최: Flutter Korea
+  - 일시: 03. 27(토) 15:00
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
@@ -254,6 +250,15 @@
   - 분류: `Talk`, `ios`
   - 주최: wanted
   - 신청: 04. 29(목) 12:00 ~ 13:00
+- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
+  - 분류: `교육`
+  - 주최: 삼성 SDS
+  - 신청: 04월 중
+- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
+  - 분류: `스프링`
+  - 주최: KSUG
+  - 신청: 04월 중 공개
+
 
 ---------------
 
