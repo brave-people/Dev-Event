@@ -225,11 +225,10 @@
 
 ## 21년 04월
 
-
-- __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
+- __[Flutter Engage Extended Korea](https://festa.io/events/1475)__
   - 분류: `온라인`, `Flutter`
-  - 주최: Flutter Korea
-  - 일시: 03. 27(토) 15:00
+  - 주최: GDG Seoul
+  - 일시: 04. 01(목) 20:00 - 22:00
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
