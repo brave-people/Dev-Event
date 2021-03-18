@@ -180,10 +180,18 @@
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+- __[애자일 코리아 3월 밋업 ‘에피소드 토크’](https://festa.io/events/1477)__
+  - 분류: `온라인`, `유료`,
+  - 주최: 에자일코리아
+  - 일시: 03. 25(목) 21:00 - 23:00
 - __[성장하는 프론트엔드 개발자 되기](https://www.wanted.co.kr/events/livetalk20)__
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __[핀테크 고객을 위한 AWS Builders 온라인 세미나](https://pages.awscloud.com/aws-builders-korea-fintech-webinar-2021-reg.html)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 03. 25(목) 13:30 - 14:15
 - __["스타트업을 위한 클라우드 101" 웨비나 시즌3](https://www.megazone.com/smb-apply-210325/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-3)__
   - 분류: `온라인`, `클라우드`
   - 주최: 메가존클라우드
@@ -225,10 +233,15 @@
 
 ## 21년 04월
 
+- __[AWSKRUG Security 온라인 밋업](https://festa.io/events/1475)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG - AWS한국사용자모임
+  - 일시: 04. 01(목) 19:00 - 21:00
 - __[Flutter Engage Extended Korea](https://festa.io/events/1475)__
   - 분류: `온라인`, `Flutter`
   - 주최: GDG Seoul
-  - 일시: 04. 01(목) 20:00 - 22:00
+  - 일시: 04. 01(목) 20:00 - 22:00
+
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
