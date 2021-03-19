@@ -208,14 +208,19 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
+
+- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
+  - 분류: `온라인`, `백엔드`, `채용설명회`
+  - 주최: 채널톡
+  - 일시: 03. 25(목) 19:00 ~ 20:30
+- __[서버리스 한국 사용자 모임 3월 밋업](https://event-us.kr/bsBxCcQJioWM/event/30104)__
+  - 분류: `온라인`, `서버리스`
+  - 주최: Serverless Korea
+  - 일시: 03. 25(목) 20:00 - 22:00
 - __[채용연계 Vision AI 경진대회](https://megaproduct.lotte.net/competitionSummary/6)__
   - 분류: `해커톤`, `인공지능`
   - 주최: 롯데
   - 일시: 03. 15 ~ 03. 26(목) 18:00
-- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
-  - 분류: `온라인`, `백엔드`, `채용설명회`
-  - 주최: 채널톡
-  - 일시: 03. 25(토) 19:00 ~ 20:30
 - __[Flutter Engage Extended Korea](https://festa.io/events/1433)__
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
@@ -236,7 +241,7 @@
 - __[AWSKRUG Security 온라인 밋업](https://festa.io/events/1475)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG - AWS한국사용자모임
-  - 일시: 04. 01(목) 19:00 - 21:00
+  - 일시: 04. 01(목) 19:00 - 21:00
 - __[Flutter Engage Extended Korea](https://festa.io/events/1475)__
   - 분류: `온라인`, `Flutter`
   - 주최: GDG Seoul
@@ -314,6 +319,7 @@
 |------------|-----------|
 | 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) | 
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) | 
+| Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) | 
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
@@ -335,7 +341,7 @@
 | Codeengn | [codeengn.com](https://codeengn.com/conference/) | 
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
 | 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) | 
-| DACON | [dacon.io/](https://dacon.io) | 
+| DACON | [dacon.io](https://dacon.io) | 
 
 <br />
 <br />
