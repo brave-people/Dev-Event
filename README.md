@@ -234,6 +234,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 신청: 03. 30(화) 14:00 - 16:00
+- __[Machine Learning Study Jam](https://forms.gle/vYaZ37p26PypHomZ9?fbclid=IwAR1gtfgII8t_54VZIbjs2Oo4jOIqQ18HxY_AzhK0UNqa5jtH04iHyJxH9w4)__
+  - 분류: `인공지능`, `스터디`
+  - 주최: GDG Golang Korea
+  - 신청: 03. 14(일) ~ 03. 31(수)
 - __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `온라인`, `클라우드`
   - 주최: 카카오
@@ -325,10 +329,11 @@
 | 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) | 
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) | 
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) | 
+| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
+| GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
-| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
 | CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
 
