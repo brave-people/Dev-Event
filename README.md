@@ -226,6 +226,10 @@
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
+- __[빅데이터 전략 마에스트로과정](https://event.hankyung.com/seminar/iitp2021/)__
+  - 분류: `온라인`, `Flutter`
+  - 주최: 과학기술정보통신부
+  - 일시: 03. 28(일)
 - __[생산성 극대화 및 협업을 위한 GCP 솔루션](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
