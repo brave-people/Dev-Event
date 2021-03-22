@@ -28,7 +28,7 @@
 <div align=center>
   <img src="./static/dev-event-subscribe-v2.png">
 
-  Dev Event를 메일로 보내드립니다! [메일 구독하거라기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
+  Dev Event를 메일로 보내드립니다! [메일 구독하러가기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
 </div>
 
 <br />
