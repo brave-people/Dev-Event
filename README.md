@@ -240,6 +240,14 @@
   - 분류: `인공지능`, `스터디`
   - 주최: GDG Golang Korea
   - 신청: 03. 14(일) ~ 03. 31(수)
+- __[Microsoft 스타트업 프로그램으로 알아보는 Azure 클라우드 도입의 모든 것!](https://forms.office.com/Pages/ResponsePage.aspx?id=VS_0l9vxBEix6wjbCD79T3_AalS_s5NHnaplpRghFGVUOVEzMDBWOVVYNUFLSkJFMEdFNFE0Uko3RC4u)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존클라우드
+  - 신청: 03. 31(수) 14:00 ~ 15:00
+- __[개발자커뮤니티 '가치함께' 1기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdRL2zisUl3pDnblhL8jhNbWHVAxPIKWuUDFFfzz7NkieqVUA/viewform?fbclid=IwAR1p0pXSW-jRErVaQghLgiyZQ8IXtRqpAZ6ju1jzc7Jxoj4T3JoQH0l4UqU)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 신청: 03. 31(수) 14:00 ~ 15:00
 - __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `온라인`, `클라우드`
   - 주최: 카카오
