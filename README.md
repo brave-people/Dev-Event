@@ -83,6 +83,7 @@
     <td align="center"><a href="https://www.linkedin.com/in/haeseok/"><img src="https://avatars.githubusercontent.com/u/20268101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haeseok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=haeseoklee" title="Code">💻</a></td>
     <td align="center"><a href="http://instagram.com/choiysapple/"><img src="https://avatars.githubusercontent.com/u/43776784?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daegun Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ChoiysApple" title="Code">💻</a></td>
     <td align="center"><a href="https://ehdwn1991.github.io/"><img src="https://avatars.githubusercontent.com/u/16898745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codex</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ehdwn1991" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@dps0340"><img src="https://avatars.githubusercontent.com/u/32592965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jiho lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DPS0340" title="Code">💻</a></td>
   </tr>
 </table>
 

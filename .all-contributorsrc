@@ -123,7 +123,16 @@
       "contributions": [
         "code"
       ]
-    }
+     },
+     {
+      "login": "DPS0340",
+      "name": "jiho lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32592965?v=4",
+      "profile": "https://velog.io/@dps0340",
+      "contributions": [
+        "code"
+      ]
+     }
   ],
   "contributorsPerLine": 7,
   "projectName": "Dev-Event",
