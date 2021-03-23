@@ -266,6 +266,10 @@
   - 주최: GDG Seoul
   - 일시: 04. 01(목) 20:00 - 22:00
 
+- __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
+  - 분류: `온라인`, `교육`, `네트워크`
+  - 주최: 리얼리눅스
+  - 일시: 04. 07(목) 20:00 - 21:00
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
@@ -274,6 +278,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 신청: 04. 15(목) 12:00 ~ 13:00
+- __[Plus 2021 정보보안 컨퍼런스](http://www.securityplus.or.kr/plus2021?fbclid=IwAR2ug8MAdXoXKpR-VeOTBo7mbhRoG45WxVL5STbmMruKwW2I8TsHpYmTlSs)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: 시큐리티플러스
+  - 신청: 04. 16(금) 09:30 ~ 17:00
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
