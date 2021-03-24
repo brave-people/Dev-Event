@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -28,19 +28,20 @@
 <div align=center>
   <img src="./static/dev-event-subscribe-v2.png">
 
-  Dev Event를 메일로 보내드립니다! [메일 구독하거라기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
+  Dev Event를 메일로 보내드립니다! [메일 구독하러가기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
 </div>
 
 <br />
 <br />
 
-<!-- 
-<div align=center>
-  <img src="https://github.com/KoEonYack/Tistory-Coveant/blob/010bd8ada9dfc8457cbd3ce90a07a8654a540937/Article/Note/%EC%9A%B0%ED%98%95_OO%ED%8C%80%EC%9D%84_%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/img/cover.png?raw=true" width="80%">
+## 카카오 커리어 부스트 캠프 설명회 후기
 
-<a href="https://covenant.tistory.com/228"> [21. 03. 04] 우아한형제들 OO팀을 소개합니다. 행사 노트 보러가기 </a>
+<div align=center>
+  <img src="./static/kakao_boostcamp.png?raw=true" width="80%">
+
+<a href="https://covenant.tistory.com/229"> 카카오 커리어 부스트 캠프 설명회 후기  </a>
 </div> 
--->
+
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
@@ -81,6 +82,8 @@
     <td align="center"><a href="https://github.com/zel0rd"><img src="https://avatars.githubusercontent.com/u/28799597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>younggil</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zel0rd" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/haeseok/"><img src="https://avatars.githubusercontent.com/u/20268101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haeseok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=haeseoklee" title="Code">💻</a></td>
     <td align="center"><a href="http://instagram.com/choiysapple/"><img src="https://avatars.githubusercontent.com/u/43776784?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daegun Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ChoiysApple" title="Code">💻</a></td>
+    <td align="center"><a href="https://ehdwn1991.github.io/"><img src="https://avatars.githubusercontent.com/u/16898745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codex</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ehdwn1991" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@dps0340"><img src="https://avatars.githubusercontent.com/u/32592965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jiho lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DPS0340" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -180,10 +183,18 @@
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+- __[애자일 코리아 3월 밋업 ‘에피소드 토크’](https://festa.io/events/1477)__
+  - 분류: `온라인`, `유료`,
+  - 주최: 에자일코리아
+  - 일시: 03. 25(목) 21:00 - 23:00
 - __[성장하는 프론트엔드 개발자 되기](https://www.wanted.co.kr/events/livetalk20)__
   - 분류: `온라인`, `유료`, `프론트엔드`
   - 주최: watnted
   - 일시: 03. 25(목)
+- __[핀테크 고객을 위한 AWS Builders 온라인 세미나](https://pages.awscloud.com/aws-builders-korea-fintech-webinar-2021-reg.html)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 03. 25(목) 13:30 - 14:15
 - __["스타트업을 위한 클라우드 101" 웨비나 시즌3](https://www.megazone.com/smb-apply-210325/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-3)__
   - 분류: `온라인`, `클라우드`
   - 주최: 메가존클라우드
@@ -200,6 +211,15 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
+
+- __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
+  - 분류: `온라인`, `백엔드`, `채용설명회`
+  - 주최: 채널톡
+  - 일시: 03. 25(목) 19:00 ~ 20:30
+- __[서버리스 한국 사용자 모임 3월 밋업](https://event-us.kr/bsBxCcQJioWM/event/30104)__
+  - 분류: `온라인`, `서버리스`
+  - 주최: Serverless Korea
+  - 일시: 03. 25(목) 20:00 - 22:00
 - __[채용연계 Vision AI 경진대회](https://megaproduct.lotte.net/competitionSummary/6)__
   - 분류: `해커톤`, `인공지능`
   - 주최: 롯데
@@ -212,10 +232,26 @@
   - 분류: `온라인`, `Flutter`
   - 주최: Flutter Korea
   - 일시: 03. 27(토) 15:00
-- __[생산성 극대화 및 협업을 위한 GCP 솔루션](https://careers.kakao.com/jobs/P-11947)__
+- __[빅데이터 전략 마에스트로과정](https://event.hankyung.com/seminar/iitp2021/)__
+  - 분류: `교육`, `빅데이터`
+  - 주최: 과학기술정보통신부
+  - 일시: 03. 28(일)
+- __[생산성 극대화 및 협업을 위한 GCP 솔루션](https://festa.io/events/1474)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 신청: 03. 30(화) 14:00 - 16:00
+- __[Machine Learning Study Jam](https://forms.gle/vYaZ37p26PypHomZ9?fbclid=IwAR1gtfgII8t_54VZIbjs2Oo4jOIqQ18HxY_AzhK0UNqa5jtH04iHyJxH9w4)__
+  - 분류: `인공지능`, `스터디`
+  - 주최: GDG Golang Korea
+  - 신청: 03. 14(일) ~ 03. 31(수)
+- __[Microsoft 스타트업 프로그램으로 알아보는 Azure 클라우드 도입의 모든 것!](https://forms.office.com/Pages/ResponsePage.aspx?id=VS_0l9vxBEix6wjbCD79T3_AalS_s5NHnaplpRghFGVUOVEzMDBWOVVYNUFLSkJFMEdFNFE0Uko3RC4u)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존클라우드
+  - 신청: 03. 31(수) 14:00 ~ 15:00
+- __[개발자커뮤니티 '가치함께' 1기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdRL2zisUl3pDnblhL8jhNbWHVAxPIKWuUDFFfzz7NkieqVUA/viewform?fbclid=IwAR1p0pXSW-jRErVaQghLgiyZQ8IXtRqpAZ6ju1jzc7Jxoj4T3JoQH0l4UqU)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 신청: 03. 31(수) 14:00 ~ 15:00
 - __[Kakao Career Boost Program for Cloud](https://careers.kakao.com/jobs/P-11947)__
   - 분류: `온라인`, `클라우드`
   - 주최: 카카오
@@ -225,15 +261,19 @@
 
 ## 21년 04월
 
-- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
-  - 분류: `교육`
-  - 주최: 삼성 SDS
-  - 신청: 04월 중
-- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
-  - 분류: `스프링`
-  - 주최: KSUG
-  - 신청: 04월 중 공개
+- __[AWSKRUG Security 온라인 밋업](https://festa.io/events/1475)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG - AWS한국사용자모임
+  - 일시: 04. 01(목) 19:00 - 21:00
+- __[Flutter Engage Extended Korea](https://festa.io/events/1475)__
+  - 분류: `온라인`, `Flutter`
+  - 주최: GDG Seoul
+  - 일시: 04. 01(목) 20:00 - 22:00
 
+- __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
+  - 분류: `온라인`, `교육`, `네트워크`
+  - 주최: 리얼리눅스
+  - 일시: 04. 07(목) 20:00 - 21:00
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
@@ -242,6 +282,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 신청: 04. 15(목) 12:00 ~ 13:00
+- __[Plus 2021 정보보안 컨퍼런스](http://www.securityplus.or.kr/plus2021?fbclid=IwAR2ug8MAdXoXKpR-VeOTBo7mbhRoG45WxVL5STbmMruKwW2I8TsHpYmTlSs)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: 시큐리티플러스
+  - 신청: 04. 16(금) 09:30 ~ 17:00
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
@@ -254,6 +298,15 @@
   - 분류: `Talk`, `ios`
   - 주최: wanted
   - 신청: 04. 29(목) 12:00 ~ 13:00
+- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
+  - 분류: `교육`
+  - 주최: 삼성 SDS
+  - 신청: 04월 중
+- __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
+  - 분류: `스프링`
+  - 주최: KSUG
+  - 신청: 04월 중 공개
+
 
 ---------------
 
@@ -297,10 +350,12 @@
 |------------|-----------|
 | 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) | 
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) | 
+| Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) | 
+| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
+| GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
-| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
 | CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
 
@@ -318,7 +373,7 @@
 | Codeengn | [codeengn.com](https://codeengn.com/conference/) | 
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
 | 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) | 
-| DACON | [dacon.io/](https://dacon.io) | 
+| DACON | [dacon.io](https://dacon.io) | 
 
 <br />
 <br />
