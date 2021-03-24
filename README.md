@@ -183,6 +183,10 @@
   - 분류: `온라인`, `컨퍼런스`, `.NET`
   - 주최: 서울에쎄
   - 일시: 03. 24(수) 10:00 ~ 03. 26(금) 17:00
+- __[SQL for beginners](https://www.meetup.com/ko-KR/Le-Wagon-Seoul/events/276373817/)__
+  - 분류: `온라인`, `SQL`
+  - 주최: La Wegon Seoul - Coding Bootcamp
+  - 일시: 03. 24(수) 19:00 ~ 21:00
 - __[애자일 코리아 3월 밋업 ‘에피소드 토크’](https://festa.io/events/1477)__
   - 분류: `온라인`, `유료`,
   - 주최: 에자일코리아
@@ -270,6 +274,10 @@
   - 분류: `온라인`, `교육`, `네트워크`
   - 주최: 리얼리눅스
   - 일시: 04. 07(목) 20:00 - 21:00
+- __[Monthly Data Science Meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/fwprmryccgbkb/)__
+  - 분류: `오프라인`, `데이터사이언스`
+  - 주최: Data Scientist Meetup in Seoul
+  - 일시: 04. 07(목) 19:15 - 20:45
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
@@ -281,7 +289,7 @@
 - __[Plus 2021 정보보안 컨퍼런스](http://www.securityplus.or.kr/plus2021?fbclid=IwAR2ug8MAdXoXKpR-VeOTBo7mbhRoG45WxVL5STbmMruKwW2I8TsHpYmTlSs)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 시큐리티플러스
-  - 신청: 04. 16(금) 09:30 ~ 17:00
+  - 신청: 04. 16(금) 09:30 ~ 17:00
 - __[제3회 오픈인프라 개발 경진대회](http://oidc.co.kr/home)__
   - 분류: `해커톤`
   - 주최: 맨텍
@@ -349,6 +357,7 @@
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) | 
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
 | GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
+| Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
