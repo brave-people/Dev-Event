@@ -211,7 +211,10 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 03. 25(목) 16:00 ~ 18:00
-
+- __[2021 제1차 정보접근성 오픈 아카데미](https://wah.or.kr:444/board/boardView.asp?page=1&brd_sn=2&brd_idx=1088&fbclid=IwAR3_N5Xkt0fA8Ga7GKkmoZw8F0NtiL8jWfDys3hV6IIM-bQ_CwoWaM15lzU)__
+  - 분류: `온라인`, `모바일`
+  - 주최: 웹 접근성 연구소
+  - 일시: 03. 26(금) 20:00 ~ 22:00
 - __[채널톡 백엔드팀 온라인 채용 설명회](https://event-us.kr/j3vzS6NzNZGc/event/29562)__
   - 분류: `온라인`, `백엔드`, `채용설명회`
   - 주최: 채널톡
