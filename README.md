@@ -273,6 +273,14 @@
   - 주최: GDG Seoul
   - 일시: 04. 01(목) 20:00 - 22:00
 
+- __[Cyber Security Conference 2021](https://securityconference.samsungsds.com/securityconference2021/)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: 삼성SDS
+  - 일시: 04. 06(화) 14:00 - 16:30
+- __[안전한 CI/CD와 멀티클라우드 구축하기(네이버 클라우드 플랫폼 X 하시코프)](https://register.gotowebinar.com/register/1979372032443149069)__
+  - 분류: `온라인`, `교육`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 04. 07(목) 11:00 - 12:00
 - __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
   - 분류: `온라인`, `교육`, `네트워크`
   - 주최: 리얼리눅스
