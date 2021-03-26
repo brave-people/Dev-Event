@@ -309,6 +309,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 신청: 04. 22(목) 12:00 ~ 13:00
+- __[요즘 데이터팀은 어떻게 일할까?](https://www.wanted.co.kr/events/wantedcon18)__
+  - 분류: `Talk`, `데이터`, `유료`
+  - 주최: wanted
+  - 신청: 04. 23(금) 15:00
 - __[Wanted Live Talk #23. 오늘의 개발자 | 류성두](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `Talk`, `ios`
   - 주최: wanted
@@ -322,6 +326,14 @@
   - 주최: KSUG
   - 신청: 04월 중 공개
 
+<br />
+
+## 21년 05월
+
+- __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
+  - 분류: `알고리즘`
+  - 주최: 프로그래머스
+  - 신청: 03. 25(목) ~ 05. 13(목)
 
 ---------------
 
