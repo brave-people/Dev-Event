@@ -273,6 +273,10 @@
   - 주최: GDG Seoul
   - 일시: 04. 01(목) 20:00 - 22:00
 
+- __[개발자, 기획자를 위한 블록체인의 기초개념 & 실습 맛보기](https://www.notion.so/DApp-59ba1dc923774b23a4f6b98c5fdb8852)__
+  - 분류: `온라인`, `블록체인`
+  - 주최: 카우치코딩
+  - 일시: 04. 03(토) 14:00 ~ 15:00, 04. 04(일) 14:00 ~ 15:00
 - __[Cyber Security Conference 2021](https://securityconference.samsungsds.com/securityconference2021/)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성SDS
@@ -289,6 +293,10 @@
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: Data Scientist Meetup in Seoul
   - 일시: 04. 07(목) 19:15 - 20:45
+- __[모여서 같이 알고리즘 스터디해요](https://couchcoding.kr/)__
+  - 분류: `스터디`, `유료`, `알고리즘`
+  - 주최: 카우치코딩
+  - 일시: 04. 10(토) 12:00 - 24:00
 - __[Google Summer of Code](https://summerofcode.withgoogle.com/)__
   - 분류: `오픈소스`
   - 주최: Google
