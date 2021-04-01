@@ -134,15 +134,19 @@
 - __[안전한 CI/CD와 멀티클라우드 구축하기(네이버 클라우드 플랫폼 X 하시코프)](https://register.gotowebinar.com/register/1979372032443149069)__
   - 분류: `온라인`, `교육`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
-  - 일시: 04. 07(목) 11:00 - 12:00
+  - 일시: 04. 07(수) 11:00 - 12:00
 - __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
   - 분류: `온라인`, `교육`, `네트워크`
   - 주최: 리얼리눅스
-  - 일시: 04. 07(목) 20:00 - 21:00
+  - 일시: 04. 07(수) 20:00 - 21:00
 - __[Monthly Data Science Meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/fwprmryccgbkb/)__
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: Data Scientist Meetup in Seoul
-  - 일시: 04. 07(목) 19:15 - 20:45
+  - 일시: 04. 07(수) 19:15 - 20:45
+- __[만화경 앱 개발기](https://docs.google.com/forms/d/e/1FAIpQLSfifhQyqIF4LVJTLOVnGeUMTMyLduCr_8_OnRm4rPcqNFxBzA/viewform)__
+  - 분류: `온라인`, `앱`
+  - 주최: 우아한형제들
+  - 일시: 04. 07(수) 19:00
 - __[모여서 같이 알고리즘 스터디해요](https://couchcoding.kr/)__
   - 분류: `스터디`, `유료`, `알고리즘`
   - 주최: 카우치코딩
