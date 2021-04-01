@@ -209,10 +209,6 @@
 
 ## 21년 06월
 
-- __[WWDC21](https://developer.apple.com/wwdc21/)__
-  - 분류: `컨퍼런스`
-  - 주최: Apple
-  - 일시: 06. 7(월) ~ 06. 11(금)
 - __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
   - 분류: `IT`
   - 주최: 산업통상자원부
