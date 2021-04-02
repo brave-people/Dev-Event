@@ -135,7 +135,7 @@
   - 분류: `온라인`, `교육`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 04. 07(수) 11:00 - 12:00
-- __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
+- __[리얼리눅스  무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
   - 분류: `온라인`, `교육`, `네트워크`
   - 주최: 리얼리눅스
   - 일시: 04. 07(수) 20:00 - 21:00
@@ -147,6 +147,14 @@
   - 분류: `온라인`, `앱`
   - 주최: 우아한형제들
   - 일시: 04. 07(수) 19:00
+- __[ML with GCP](https://gdg.community.dev/events/details/google-gdg-seoul-presents-ml-with-gcp/)__
+  - 분류: `온라인`, `앱`
+  - 주최: GDG Seoul
+  - 일시: 04. 07(수) 20:30 ~ 22:30
+- __[2021 AI Security Day](https://event-us.kr/concert/event/30308)__
+  - 분류: `온라인`, `AI`, `보안`
+  - 주최: 한국침해사고대응협의회
+  - 일시: 04. 08(목) 09:00 ~ 17:00
 - __[모여서 같이 알고리즘 스터디해요](https://couchcoding.kr/)__
   - 분류: `스터디`, `유료`, `알고리즘`
   - 주최: 카우치코딩
@@ -191,6 +199,10 @@
   - 분류: `Talk`, `ios`
   - 주최: wanted
   - 신청: 04. 29(목) 12:00 ~ 13:00
+- __[AWS "스타트업을 위한 클라우드 101" 웨비나](https://www.megazone.com/smb-apply-210429/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-4)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 신청: 04. 29(목) 14:00 ~ 16:00
 - __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
   - 분류: `교육`
   - 주최: 삼성 SDS
