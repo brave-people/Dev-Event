@@ -34,14 +34,13 @@
 <br />
 <br />
 
-## 카카오 커리어 부스트 캠프 설명회 후기
+<!-- ## 카카오 커리어 부스트 캠프 설명회 후기
 
 <div align=center>
   <img src="./static/kakao_boostcamp.png?raw=true" width="80%">
 
 <a href="https://covenant.tistory.com/229"> 카카오 커리어 부스트 캠프 설명회 후기  </a>
-</div> 
-
+</div>  -->
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
