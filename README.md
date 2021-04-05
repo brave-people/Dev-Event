@@ -178,6 +178,10 @@
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/277355762/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 신청: 04. 20(화) 21:30
 - __[월드 IT쇼](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
