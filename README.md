@@ -146,6 +146,10 @@
   - 분류: `온라인`, `앱`
   - 주최: 우아한형제들
   - 일시: 04. 07(수) 19:00
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/277248595/)__
+  - 분류: `온라인`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 일시: 04. 08(목) 19:00
 - __[ML with GCP](https://gdg.community.dev/events/details/google-gdg-seoul-presents-ml-with-gcp/)__
   - 분류: `온라인`, `앱`
   - 주최: GDG Seoul
@@ -222,6 +226,11 @@
 <br />
 
 ## 21년 05월
+
+- __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 신청: 05. 11(화) ~ 05. 12(수)
 
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
