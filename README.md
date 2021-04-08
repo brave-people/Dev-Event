@@ -231,11 +231,14 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 신청: 05. 11(화) ~ 05. 12(수)
-
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
   - 주최: 프로그래머스
   - 신청: 03. 25(목) ~ 05. 13(목)
+- __[Google I/O '21](https://events.google.com/io/?lng=ko)__
+  - 분류: `온라인`, `한글자막`, `컨퍼런스`
+  - 주최: Google
+  - 일시: 05. 18(화) ~ 05. 20(수)
 
 <br />
 
