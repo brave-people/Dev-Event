@@ -170,6 +170,10 @@
   - 분류: `오픈소스`
   - 주최: Google
   - 신청: 03. 30(화) ~ 04. 14(수)
+- __[RE: 모여서 각자 글쓰기](https://gdg.community.dev/events/details/google-gdg-seoul-presents-re-moyeoseo-gagja-geulsseugi/)__
+  - 분류: `커뮤니티`
+  - 주최: GDG SEOUL
+  - 신청: 04. 14(수) 20:00 ~ 22:00
 - __[Wanted Live Talk #23. 오늘의 개발자 | 김양귀](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `Talk`, `커리어`
   - 주최: wanted
@@ -227,6 +231,10 @@
 
 ## 21년 05월
 
+- __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
+  - 분류: `클라우드`
+  - 주최: 메가존
+  - 신청: 05. 04(화) 14:00 ~ 15:00
 - __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
   - 분류: `클라우드`
   - 주최: AWS
