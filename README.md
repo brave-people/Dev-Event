@@ -34,14 +34,13 @@
 <br />
 <br />
 
-## 카카오 커리어 부스트 캠프 설명회 후기
+<!-- ## 카카오 커리어 부스트 캠프 설명회 후기
 
 <div align=center>
   <img src="./static/kakao_boostcamp.png?raw=true" width="80%">
 
 <a href="https://covenant.tistory.com/229"> 카카오 커리어 부스트 캠프 설명회 후기  </a>
-</div> 
-
+</div>  -->
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
@@ -134,15 +133,35 @@
 - __[안전한 CI/CD와 멀티클라우드 구축하기(네이버 클라우드 플랫폼 X 하시코프)](https://register.gotowebinar.com/register/1979372032443149069)__
   - 분류: `온라인`, `교육`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
-  - 일시: 04. 07(목) 11:00 - 12:00
-- __[리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
+  - 일시: 04. 07(수) 11:00 - 12:00
+- __[리얼리눅스  무료세미나: 도커/쿠버네티스/클라우드 네트워크 이해가 안되는 이유?!](https://festa.io/events/1494)__
   - 분류: `온라인`, `교육`, `네트워크`
   - 주최: 리얼리눅스
-  - 일시: 04. 07(목) 20:00 - 21:00
+  - 일시: 04. 07(수) 20:00 - 21:00
 - __[Monthly Data Science Meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/fwprmryccgbkb/)__
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: Data Scientist Meetup in Seoul
-  - 일시: 04. 07(목) 19:15 - 20:45
+  - 일시: 04. 07(수) 19:15 - 20:45
+- __[만화경 앱 개발기](https://docs.google.com/forms/d/e/1FAIpQLSfifhQyqIF4LVJTLOVnGeUMTMyLduCr_8_OnRm4rPcqNFxBzA/viewform)__
+  - 분류: `온라인`, `앱`
+  - 주최: 우아한형제들
+  - 일시: 04. 07(수) 19:00
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/277248595/)__
+  - 분류: `온라인`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 일시: 04. 08(목) 19:00
+- __[ML with GCP](https://gdg.community.dev/events/details/google-gdg-seoul-presents-ml-with-gcp/)__
+  - 분류: `온라인`, `앱`
+  - 주최: GDG Seoul
+  - 일시: 04. 07(수) 20:30 ~ 22:30
+- __[2021 AI Security Day](https://event-us.kr/concert/event/30308)__
+  - 분류: `온라인`, `AI`, `보안`
+  - 주최: 한국침해사고대응협의회
+  - 일시: 04. 08(목) 09:00 ~ 17:00
+- __[CLOVA Dubbing과 함께 쉽고 재미있는 음성더빙 만들기](https://register.gotowebinar.com/register/3460536240544853776)__
+  - 분류: `온라인`, `AI`
+  - 주최: 네이버클라우드플랫폼
+  - 일시: 04. 08(목) 11:00 ~ 12:00
 - __[모여서 같이 알고리즘 스터디해요](https://couchcoding.kr/)__
   - 분류: `스터디`, `유료`, `알고리즘`
   - 주최: 카우치코딩
@@ -167,6 +186,10 @@
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/277355762/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 신청: 04. 20(화) 21:30
 - __[월드 IT쇼](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
@@ -187,6 +210,10 @@
   - 분류: `Talk`, `ios`
   - 주최: wanted
   - 신청: 04. 29(목) 12:00 ~ 13:00
+- __[AWS "스타트업을 위한 클라우드 101" 웨비나](https://www.megazone.com/smb-apply-210429/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-4)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 신청: 04. 29(목) 14:00 ~ 16:00
 - __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
   - 분류: `교육`
   - 주최: 삼성 SDS
@@ -200,6 +227,11 @@
 
 ## 21년 05월
 
+- __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 신청: 05. 11(화) ~ 05. 12(수)
+
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
   - 주최: 프로그래머스
@@ -212,7 +244,12 @@
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
   - 주최: Apple
-  - 일시: 06. 7(월) ~ 06. 11(금)
+  - 일시: 06. 07(월) ~ 06. 11(금)
+  
+- __[2021 NDC](https://ndc.nexon.com/main)__
+  - 분류: `컨퍼런스`
+  - 주최: 넥슨
+  - 일시: 06. 09(수) ~ 06. 11(금)
 - __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
   - 분류: `IT`
   - 주최: 산업통상자원부
