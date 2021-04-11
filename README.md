@@ -234,11 +234,19 @@
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
   - 주최: 메가존
-  - 신청: 05. 04(화) 14:00 ~ 15:00
+  - 일시: 05. 04(화) 14:00 ~ 15:00
+- __[제5회 정부혁신제안 끝장개발대회 참가자 모집](https://www.gwanghwamoon1st.go.kr/cmmnty/minus2)__
+  - 분류: `해커톤`
+  - 주최: 행정안전부
+  - 신청: 03. 27(토) ~ 05. 09(일)
+- __[제5회 정부혁신제안 끝장개발대회(피어나다 부문)](https://www.gwanghwamoon1st.go.kr/cmmnty/minus2)__
+  - 분류: `해커톤`
+  - 주최: 행정안전부
+  - 신청: 03. 27(토) ~ 05. 09(일)
 - __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
   - 분류: `클라우드`
   - 주최: AWS
-  - 신청: 05. 11(화) ~ 05. 12(수)
+  - 일시: 05. 11(화) ~ 05. 12(수)
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
   - 주최: 프로그래머스
