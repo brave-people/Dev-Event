@@ -34,13 +34,17 @@
 <br />
 <br />
 
-<!-- ## 카카오 커리어 부스트 캠프 설명회 후기
+## DEV EVENT 1000+스타
 
 <div align=center>
-  <img src="./static/kakao_boostcamp.png?raw=true" width="80%">
+  <img src="https://github.com/KoEonYack/koeonyack/raw/master/img/1000dev-event.png?raw=true" width="80%">
 
-<a href="https://covenant.tistory.com/229"> 카카오 커리어 부스트 캠프 설명회 후기  </a>
-</div>  -->
+<a href="https://covenant.tistory.com/232"> DEV EVENT 1000스타 후기  </a>
+
+1000+스타 감사합니다. <br />
+방문해주신 분, PR로 도움 주신 분들 모두 감사합니다 :)
+
+</div> 
 
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
