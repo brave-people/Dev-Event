@@ -37,7 +37,7 @@
 ## DEV EVENT 1000+스타
 
 <div align=center>
-  <img src="https://github.com/KoEonYack/koeonyack/raw/master/img/1000dev-event.png?raw=true" width="80%">
+  <img src="./static/1000dev-event.png?raw=true" width="80%">
 
 <a href="https://covenant.tistory.com/232"> DEV EVENT 1000스타 후기  </a>
 
@@ -218,6 +218,10 @@
   - 분류: `Talk`, `ios`
   - 주최: wanted
   - 신청: 04. 29(목) 12:00 ~ 13:00
+- __[올인원 게임 웨비나 : 게임 데이터 분석 특집](https://register.gotowebinar.com/register/6991636525549116941)__
+  - 분류: `클라우드`, `데이터`
+  - 주최: 네이버클라우드플랫폼
+  - 신청: 04. 29(목) 10:00 ~ 11:00
 - __[AWS "스타트업을 위한 클라우드 101" 웨비나](https://www.megazone.com/smb-apply-210429/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-4)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
@@ -247,6 +251,7 @@
   - 분류: `해커톤`
   - 주최: 행정안전부
   - 신청: 03. 27(토) ~ 05. 09(일)
+  
 - __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
   - 분류: `클라우드`
   - 주최: AWS
