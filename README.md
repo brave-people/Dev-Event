@@ -177,15 +177,15 @@
 - __[RE: 모여서 각자 글쓰기](https://gdg.community.dev/events/details/google-gdg-seoul-presents-re-moyeoseo-gagja-geulsseugi/)__
   - 분류: `커뮤니티`
   - 주최: GDG SEOUL
-  - 신청: 04. 14(수) 20:00 ~ 22:00
+  - 일시: 04. 14(수) 20:00 ~ 22:00
 - __[Wanted Live Talk #23. 오늘의 개발자 | 김양귀](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `Talk`, `커리어`
   - 주최: wanted
-  - 신청: 04. 15(목) 12:00 ~ 13:00
+  - 일시: 04. 15(목) 12:00 ~ 13:00
 - __[Plus 2021 정보보안 컨퍼런스](http://www.securityplus.or.kr/plus2021?fbclid=IwAR2ug8MAdXoXKpR-VeOTBo7mbhRoG45WxVL5STbmMruKwW2I8TsHpYmTlSs)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 시큐리티플러스
-  - 신청: 04. 16(금) 09:30 ~ 17:00
+  - 일시: 04. 16(금) 09:30 ~ 17:00
 - __[CLOVA AI RUSH 2021](https://campaign.naver.com/clova_airush/)__
   - 분류: `대회`, `인공지능`
   - 주최: 네이버
@@ -197,35 +197,39 @@
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/277355762/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
-  - 신청: 04. 20(화) 21:30
+  - 일시: 04. 20(화) 21:30
 - __[월드 IT쇼](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
-  - 신청: 04. 21(수)
+  - 일시: 04. 21(수)
 - __[데이터 시대 개인정보 보호기술 아이디어 공모전](http://www.privacy-contest.com/)__
   - 분류: `공모전`, `보안`
   - 주최: 개인정보보호위원회, 한국인터넷진흥원
-  - 신청: 03. 29(월) ~ 04. 22(목)
+  - 일시: 03. 29(월) ~ 04. 22(목)
 - __[Wanted Live Talk #23. 오늘의 개발자 | 강병진](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `Talk`, `커리어`
   - 주최: wanted
-  - 신청: 04. 22(목) 12:00 ~ 13:00
+  - 일시: 04. 22(목) 12:00 ~ 13:00
 - __[요즘 데이터팀은 어떻게 일할까?](https://www.wanted.co.kr/events/wantedcon18)__
-  - 분류: `Talk`, `데이터`, `유료`
+  - 분류: `웨비나`, `데이터`, `유료`
   - 주최: wanted
-  - 신청: 04. 23(금) 15:00
+  - 일시: 04. 23(금) 15:00
 - __[Wanted Live Talk #23. 오늘의 개발자 | 류성두](https://www.wanted.co.kr/events/livetalk23)__
   - 분류: `Talk`, `ios`
   - 주최: wanted
-  - 신청: 04. 29(목) 12:00 ~ 13:00
+  - 일시: 04. 29(목) 12:00 ~ 13:00
 - __[올인원 게임 웨비나 : 게임 데이터 분석 특집](https://register.gotowebinar.com/register/6991636525549116941)__
   - 분류: `클라우드`, `데이터`
   - 주최: 네이버클라우드플랫폼
-  - 신청: 04. 29(목) 10:00 ~ 11:00
+  - 일시: 04. 29(목) 10:00 ~ 11:00
+- __[Wanted Con. 서비스를 성공시키는 방법](https://www.wanted.co.kr/events/wantedcon19)__
+  - 분류: `웨비나`, `유로`
+  - 주최: 원티드
+  - 일시: 04. 29(목) 15:00
 - __[AWS "스타트업을 위한 클라우드 101" 웨비나](https://www.megazone.com/smb-apply-210429/?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-4)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
-  - 신청: 04. 29(목) 14:00 ~ 16:00
+  - 일시: 04. 29(목) 14:00 ~ 16:00
 - __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
   - 분류: `교육`
   - 주최: 삼성 SDS
@@ -233,7 +237,7 @@
 - __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
   - 분류: `스프링`
   - 주최: KSUG
-  - 신청: 04월 중 공개
+  - 일시: 04월 중 공개
 
 <br />
 
