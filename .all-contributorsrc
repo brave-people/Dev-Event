@@ -123,8 +123,8 @@
       "contributions": [
         "code"
       ]
-     },
-     {
+    },
+    {
       "login": "DPS0340",
       "name": "jiho lee",
       "avatar_url": "https://avatars.githubusercontent.com/u/32592965?v=4",
@@ -132,7 +132,16 @@
       "contributions": [
         "code"
       ]
-     }
+    },
+    {
+      "login": "MaetDol",
+      "name": "MaetDol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20384262?v=4",
+      "profile": "https://github.com/MaetDol",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "projectName": "Dev-Event",
