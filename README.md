@@ -185,6 +185,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 일시: 04. 15(목) 12:00 ~ 13:00
+- __[KBS에서 직접 들려주는 MongoDB Atlas 도입 스토리](https://mongodbatlasstoryofkbs-korea.splashthat.com/)__
+  - 분류: `웨비나`, `MongoDB`
+  - 주최: mongoDB
+  - 일시: 04. 15(목) 14:00
 - __[Plus 2021 정보보안 컨퍼런스](http://www.securityplus.or.kr/plus2021?fbclid=IwAR2ug8MAdXoXKpR-VeOTBo7mbhRoG45WxVL5STbmMruKwW2I8TsHpYmTlSs)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 시큐리티플러스
@@ -213,10 +217,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 일시: 04. 22(목) 12:00 ~ 13:00
-- __[요즘 데이터팀은 어떻게 일할까?](https://www.wanted.co.kr/events/wantedcon18)__
-  - 분류: `웨비나`, `데이터`, `유료`
-  - 주최: wanted
-  - 일시: 04. 23(금) 15:00
+- __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
+  - 분류: `웨비나`, `DevOps`
+  - 주최: Github
+  - 일시: 04. 28(수) 10:00 ~ 10:30
 - __[Toss 개발자 컨퍼런스 | SLASH21](https://toss.im/slash-21)__
   - 분류: `컨퍼런스`, `개발`, `무료`
   - 주최: Toss
