@@ -205,10 +205,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 04. 20(화) 21:30
-- __[월드 IT쇼](http://www.worlditshow.co.kr/kor/)__
-  - 분류: `오프라인`, `IT`
-  - 주최: 과학기술정보통신부
-  - 일시: 04. 21(수) ~ 04. 23(금)
+- __[힙서비콘 시즌3](https://www.wanted.co.kr/events/hipservice3)__
+  - 분류: `서비스`, `UX`, `유로`
+  - 주최: 원티드
+  - 일시: 04. 22(화) 21:30 ~ 23:30
 - __[데이터 시대 개인정보 보호기술 아이디어 공모전](http://www.privacy-contest.com/)__
   - 분류: `공모전`, `보안`
   - 주최: 개인정보보호위원회, 한국인터넷진흥원
@@ -217,6 +217,14 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 일시: 04. 22(목) 12:00 ~ 13:00
+- __[캐치카페 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CareerCon)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 캐치
+  - 일시: 04. 19(월) 15:00 ~ 04. 23(금) 20:30
+- __[월드 IT쇼](http://www.worlditshow.co.kr/kor/)__
+  - 분류: `오프라인`, `IT`
+  - 주최: 과학기술정보통신부
+  - 일시: 04. 21(수) ~ 04. 23(금)
 - __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
@@ -241,6 +249,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 04. 29(목) 14:00 ~ 16:00
+- __[캐치카페 커리어콘 | 개발자와 성장](https://www.catch.co.kr/CatchCafe/ProgramView/CareerCon)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 캐치
+  - 일시: 04. 26(월) 12:00 ~ 04. 30(금) 16:30
 - __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
   - 분류: `교육`
   - 주최: 삼성 SDS
@@ -254,6 +266,10 @@
 
 ## 21년 05월
 
+- __[리얼리눅스 도커/k8s 무료세미나: "컨테이너를 모르면 생겨나는 문제들"](https://festa.io/events/1530)__
+  - 분류: `교육`, `도커`
+  - 주최: 리얼리눅스
+  - 일시: 05. 03(화) 20:00 ~ 21:00
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
   - 주최: 메가존
