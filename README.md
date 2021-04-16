@@ -229,6 +229,10 @@
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
   - 일시: 04. 21(수) ~ 04. 23(금)
+- __[Free Onboarding Course](https://www.wanted.co.kr/events/pre_onboarding_course)__
+  - 분류: `온라인`, `커리어`, `데이터`
+  - 주최: 원티드
+  - 지원: 04. 07(수) 19:00 ~ 04. 26(월) 19:00
 - __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
