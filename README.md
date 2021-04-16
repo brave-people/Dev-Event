@@ -201,6 +201,10 @@
   - 분류: `해커톤`
   - 주최: 맨텍
   - 신청: 04. 19(월) ~ 05. 13(목)
+- __[[라인개발실록 LIVE] '1억 명이 쓰는 iOS 앱은 어떻게 만들어질까?](https://www.facebook.com/line.developers/posts/757879404913172)__
+  - 분류: `온라인`, `iOS`
+  - 주최: LINE
+  - 일시: 04. 20(화) 18:00
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/277355762/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
