@@ -225,6 +225,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 캐치
   - 일시: 04. 19(월) 15:00 ~ 04. 23(금) 20:30
+- __[T.T.T-IT 스타트업 팀빌딩/사이드 프로젝트를 위한 정기 온라인화상(줌) 네트워킹 . 기획자. 개발자.디자이너.마케터 모임](https://event-us.kr/V1S0do34EVOl/event/28588?fbclid=IwAR2LbR_v-Skrx-W_1mVecVb51EskR-8Kq8s4Q-DTMOMibDvKSjJ7GfjMi9E)__
+  - 분류: `온라인`, `팀빌딩`, `무료`
+  - 주최: T.T.T
+  - 일시: 04. 23일(금) 22:00 ~ 23:00
 - __[월드 IT쇼](http://www.worlditshow.co.kr/kor/)__
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
