@@ -213,6 +213,10 @@
   - 분류: `서비스`, `UX`, `유로`
   - 주최: 원티드
   - 일시: 04. 22(화) 21:30 ~ 23:30
+- __[T.T.T-IT 스타트업 팀빌딩/사이드 프로젝트를 위한 정기 온라인화상(줌) 네트워킹 . 기획자. 개발자.디자이너.마케터 모임](https://event-us.kr/V1S0do34EVOl/event/28588?fbclid=IwAR2LbR_v-Skrx-W_1mVecVb51EskR-8Kq8s4Q-DTMOMibDvKSjJ7GfjMi9E)__
+  - 분류: `온라인`, `팀빌딩`, `무료`
+  - 주최: T.T.T
+  - 일시: 04. 23일(금) 22:00 ~ 23:00
 - __[데이터 시대 개인정보 보호기술 아이디어 공모전](http://www.privacy-contest.com/)__
   - 분류: `공모전`, `보안`
   - 주최: 개인정보보호위원회, 한국인터넷진흥원
@@ -229,6 +233,10 @@
   - 분류: `오프라인`, `IT`
   - 주최: 과학기술정보통신부
   - 일시: 04. 21(수) ~ 04. 23(금)
+- __[Free Onboarding Course](https://www.wanted.co.kr/events/pre_onboarding_course)__
+  - 분류: `온라인`, `커리어`, `데이터`
+  - 주최: 원티드
+  - 지원: 04. 07(수) 19:00 ~ 04. 26(월) 19:00
 - __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
@@ -286,7 +294,6 @@
   - 분류: `해커톤`
   - 주최: 행정안전부
   - 신청: 03. 27(토) ~ 05. 09(일)
-  
 - __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
   - 분류: `클라우드`
   - 주최: AWS
@@ -299,6 +306,10 @@
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
   - 일시: 05. 18(화) ~ 05. 20(수)
+- __[DOCKERCON2021](https://www.docker.com/dockercon-live/2021)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: Docker
+  - 일시: 05.27(목)
 
 <br />
 
