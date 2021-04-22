@@ -221,6 +221,10 @@
   - 분류: `Talk`, `커리어`
   - 주최: wanted
   - 일시: 04. 22(목) 12:00 ~ 13:00
+- __[Thub Tech 세미나 - Agile 조직문화와 Postmortem](https://festa.io/events/1537)__
+  - 분류: `Talk`, `커리어`
+  - 주최: SK 개발자 커뮤니티
+  - 일시: 04. 22(목) 15:00 ~ 17:00
 - __[캐치카페 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CareerCon)__
   - 분류: `온라인`, `커리어`
   - 주최: 캐치
@@ -237,10 +241,18 @@
   - 분류: `온라인`, `커리어`, `데이터`
   - 주최: 원티드
   - 지원: 04. 07(수) 19:00 ~ 04. 26(월) 19:00
+- __[“신입 개발자로 취업하기” 일일 특강 - 엘리스 AI 트랙 2기 모집 설명회](https://festa.io/events/1541)__
+  - 분류: `교육`
+  - 주최: 엘리스
+  - 일시: 04. 26(화) 19:00 ~ 20:00
 - __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
   - 일시: 04. 28(수) 10:00 ~ 10:30
+- __[커리어 대환장 파티](https://programmers.co.kr/learn/courses/11874)__
+  - 분류: `웨비나`, `백엔드`
+  - 주최: 프로그래머스
+  - 일시: 04. 28(수) 20:30 ~ 22:30
 - __[Toss 개발자 컨퍼런스 | SLASH21](https://toss.im/slash-21)__
   - 분류: `컨퍼런스`, `개발`, `무료`
   - 주최: Toss
@@ -282,6 +294,7 @@
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
   - 일시: 05. 03(화) 20:00 ~ 21:00
+
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
   - 주최: 메가존
@@ -329,6 +342,16 @@
   - 주최: 산업통상자원부
   - 신청: 06. 23(수) ~ 06. 25(금)
 
+<br />
+
+## 21년 07월
+
+- __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
+  - 분류: `오픈소스`
+  - 주최: 행전안전부
+  - 일시: 03. 31(수) ~ 07. 31(토)
+
+<br />
 
 ---------------
 
@@ -381,6 +404,7 @@
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
 | CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
+| SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
 
 <br />
 
