@@ -240,11 +240,11 @@
 - __[Free Onboarding Course](https://www.wanted.co.kr/events/pre_onboarding_course)__
   - 분류: `온라인`, `커리어`, `데이터`
   - 주최: 원티드
-  - 지원: 04. 07(수) 19:00 ~ 04. 26(월) 19:00
+  - 지원: 04. 07(수) 19:00 ~ 04. 26(월) 19:00
 - __[“신입 개발자로 취업하기” 일일 특강 - 엘리스 AI 트랙 2기 모집 설명회](https://festa.io/events/1541)__
   - 분류: `교육`
   - 주최: 엘리스
-  - 일시: 04. 26(화) 19:00 ~ 20:00
+  - 일시: 04. 26(월) 19:00 ~ 20:00
 - __[DevOps 및 InnerSource의 기술](https://resources.github.com/webcasts/kr-infocus-devops/?utm_source=announcement&utm_medium=email&utm_campaign=korea-infocus-devops-invite)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
@@ -253,6 +253,10 @@
   - 분류: `웨비나`, `백엔드`
   - 주최: 프로그래머스
   - 일시: 04. 28(수) 20:30 ~ 22:30
+- __[Google Cloud Database Week](https://cloudonair.withgoogle.com/events/korea-databases-q2-2021)__
+  - 분류: `클라우드`
+  - 주최: mongoDB
+  - 일시: 04. 27(화) ~ 04. 29(목)
 - __[Toss 개발자 컨퍼런스 | SLASH21](https://toss.im/slash-21)__
   - 분류: `컨퍼런스`, `개발`, `무료`
   - 주최: Toss
