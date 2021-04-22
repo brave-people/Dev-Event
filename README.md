@@ -294,7 +294,10 @@
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
   - 일시: 05. 03(화) 20:00 ~ 21:00
-
+- __[머스트해브 스터디 : Go 언어가 온당](https://festa.io/events/1543)__
+  - 분류: `교육`, `GO lang`, `스터디`, `온라인`
+  - 주최: 골든래빗
+  - 일시: 05월 03일 (월) 22:00 ~ 06월 16일 (수) 22:00
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
   - 주최: 메가존
