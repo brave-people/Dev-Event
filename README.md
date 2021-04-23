@@ -281,6 +281,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 캐치
   - 일시: 04. 26(월) 12:00 ~ 04. 30(금) 16:30
+- __[2021 호남정보보호연구회 모집](https://docs.google.com/forms/d/1cMaMCTBBZVyymhos38PeKbY4nwz8EAoKBFotBoHBHbs/viewform?fbclid=IwAR0O4wDDuzVjugg2wcilk-17KYHx4emes5ypfE_F2JmZ6lz8p4nEY-Z8MkA&edit_requested=true)__
+  - 분류: `연구`
+  - 주최: 호남정보보호
+  - 모집: 04. 01(월) 12:00 ~ 04. 28(수)
 - __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
   - 분류: `교육`
   - 주최: 삼성 SDS
@@ -330,6 +334,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
   - 일시: 05.27(목)
+- __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)
+  - 분류: `온라인`, `스터디`
+  - 주최: 카우치코딩
+  - 일시: 05.02(일) ~ 05.29(토)
 
 <br />
 
