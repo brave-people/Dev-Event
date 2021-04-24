@@ -333,11 +333,11 @@
 - __[DOCKERCON2021](https://www.docker.com/dockercon-live/2021)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
-  - 일시: 05.27(목)
-- __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)
+  - 일시: 05. 27(목)
+- __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)__
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
-  - 일시: 05.02(일) ~ 05.29(토)
+  - 일시: 05. 02(일) ~ 05. 29(토)
 
 <br />
 
