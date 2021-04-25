@@ -34,18 +34,21 @@
 <br />
 <br />
 
-## DEV EVENT 1000+스타
+<details>
+  <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
 
-<div align=center>
-  <img src="./static/1000dev-event.png?raw=true" width="80%">
+  ## DEV EVENT 1000+스타
 
-<a href="https://covenant.tistory.com/232"> DEV EVENT 1000스타 후기  </a>
+  <div align=center>
+    <img src="./static/1000dev-event.png?raw=true" width="80%">
 
-1000+스타 감사합니다. <br />
-방문해주신 분, PR로 도움 주신 분들 모두 감사합니다 :)
+  <a href="https://covenant.tistory.com/232"> DEV EVENT 1000스타 후기  </a>
+
+  1000+스타 감사합니다. <br />
+  방문해주신 분, PR로 도움 주신 분들 모두 감사합니다 :)
 
 </div> 
-
+</details>
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
 
@@ -302,10 +305,11 @@
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
   - 일시: 05. 03(화) 20:00 ~ 21:00
-- __[머스트해브 스터디 : Go 언어가 온당](https://festa.io/events/1543)__
-  - 분류: `교육`, `GO lang`, `스터디`, `온라인`
-  - 주최: 골든래빗
-  - 일시: 05월 03일 (월) 22:00 ~ 06월 16일 (수) 22:00
+- __[우아한 테크캠프](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)__
+  - 분류: `교육`
+  - 주최: 우아한형제들
+  - 모집: 04. 28(수) ~ 05. 06(목)
+
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
   - 주최: 메가존
@@ -352,6 +356,10 @@
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 09(수) ~ 06. 11(금)
+- __[머스트해브 스터디 : Go 언어가 온당](https://festa.io/events/1543)__
+  - 분류: `교육`, `GO lang`, `스터디`, `온라인`
+  - 주최: 골든래빗
+  - 일시: 05. 03(월) 22:00 ~ 06. 16(수) 22:00
 - __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
   - 분류: `IT`
   - 주최: 산업통상자원부
