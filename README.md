@@ -288,10 +288,6 @@
   - 분류: `연구`
   - 주최: 호남정보보호
   - 모집: 04. 01(월) 12:00 ~ 04. 28(수)
-- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
-  - 분류: `교육`
-  - 주최: 삼성 SDS
-  - 신청: 04월 중
 - __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
   - 분류: `스프링`
   - 주최: KSUG
@@ -309,6 +305,10 @@
   - 분류: `교육`
   - 주최: 우아한형제들
   - 일시: 05. 03(월) 19:00 ~ 21:00
+- __[SSAFY 6기](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=43)__
+  - 분류: `교육`
+  - 주최: 삼성 SDS
+  - 신청: 05. 03(월) ~ 05. 14(금)
 - __[우아한 테크캠프](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)__
   - 분류: `교육`
   - 주최: 우아한형제들
@@ -334,6 +334,10 @@
   - 분류: `알고리즘`
   - 주최: 프로그래머스
   - 신청: 03. 25(목) ~ 05. 13(목)
+- __[AWSKRUG 구로디지털 #gudi 소모임 - 44회차](https://www.meetup.com/ko-KR/awskrug/events/277788173/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 05. 18(화)
 - __[Google I/O '21](https://events.google.com/io/?lng=ko)__
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
