@@ -304,7 +304,11 @@
 - __[리얼리눅스 도커/k8s 무료세미나: "컨테이너를 모르면 생겨나는 문제들"](https://festa.io/events/1530)__
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
-  - 일시: 05. 03(화) 20:00 ~ 21:00
+  - 일시: 05. 03(월) 20:00 ~ 21:00
+- __[5월 우아한테크세미나 | 만다오 만들었다오](https://docs.google.com/forms/d/e/1FAIpQLSc_P1RHcrI50wuNI3-Hb2nFIHBWXP1rprw7TGr-nxlUj5R1ew/viewform)__
+  - 분류: `교육`
+  - 주최: 우아한형제들
+  - 일시: 05. 03(월) 19:00 ~ 21:00
 - __[우아한 테크캠프](https://woowabros.github.io/devrel/2021/04/20/woowa-techcamp_4th.html)__
   - 분류: `교육`
   - 주최: 우아한형제들
