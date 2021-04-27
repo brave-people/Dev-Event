@@ -357,7 +357,7 @@
 
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
-  - 주최: Apple
+  - 주최: 한국정보기술연구원
   - 일시: 05. 06(목) 10:00 ~ 06. 04(금) 16:00
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
