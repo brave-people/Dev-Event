@@ -291,7 +291,7 @@
 - __[2021 KSUG Webinar](http://www.ksug.org/seminar/2021/)__
   - 분류: `스프링`
   - 주최: KSUG
-  - 일시: 04월 중 공개
+  - 일시: 04. 30(금) 19:00
 
 <br />
 
