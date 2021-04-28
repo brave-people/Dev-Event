@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -93,6 +93,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MaetDol"><img src="https://avatars.githubusercontent.com/u/20384262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MaetDol</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MaetDol" title="Code">💻</a></td>
+    <td align="center"><a href="https://butter-shower.tistory.com/"><img src="https://avatars.githubusercontent.com/u/32065860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiyeon Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jiyeoon" title="Code">💻</a></td>
   </tr>
 </table>
 
