@@ -313,7 +313,7 @@
   - 분류: `교육`
   - 주최: 우아한형제들
   - 모집: 04. 28(수) ~ 05. 06(목)
-- __[2021 NAVER Search Colloquium Global Re:Search](http://naversearchconf.naver.com/)__
+- __[[2021 NAVER Search Colloquium] Global Re:Search](http://naversearchconf.naver.com/)__
   - 분류: `컨퍼런스`, `검색`, `온라인`
   - 주최: 네이버
   - 일시: 05. 07(금) 10:00 ~ 18:00
