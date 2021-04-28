@@ -313,6 +313,10 @@
   - 분류: `교육`
   - 주최: 우아한형제들
   - 모집: 04. 28(수) ~ 05. 06(목)
+- __[[2021 NAVER Search Colloquium] Global Re:Search](http://naversearchconf.naver.com/)__
+  - 분류: `컨퍼런스`, `검색`, `온라인`
+  - 주최: 네이버
+  - 일시: 05. 07(금) 10:00 ~ 18:00
 
 - __[[Google BigData Showcase] 구글 클라우드 플랫폼을 활용한 마케팅 데이터 분석](https://gc.hosting.kr/gbs-s12/?utm_source=community&utm_medium=festa&utm_campaign=gbs-s12)__
   - 분류: `클라우드`
