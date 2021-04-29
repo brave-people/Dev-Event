@@ -323,6 +323,10 @@
   - 분류: `클라우드`
   - 주최: 메가존
   - 일시: 05. 04(화) 14:00 ~ 15:00
+- __[KubeCon + CloudNativeCon Europe 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)__
+  - 분류: `컨퍼런스`, `온라인`, `클라우드`
+  - 주최: CNCF
+  - 일시: 05. 04(화) ~ 05. 07(금)
 - __[제5회 정부혁신제안 끝장개발대회 참가자 모집](https://www.gwanghwamoon1st.go.kr/cmmnty/minus2)__
   - 분류: `해커톤`
   - 주최: 행정안전부
