@@ -347,6 +347,10 @@
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
   - 일시: 05. 18(화) ~ 05. 20(수)
+- __[배리어프리 앱 개발 공모전](https://www.thinkcontest.com/Contest/ContestDetail.html?id=28984)__
+  - 분류: `앱`, `공모전`
+  - 주최: 사단법인 그린라이트 / 과학기술정보통신부
+  - 일시: 04. 19(월) ~ 05. 21(금)
 - __[DOCKERCON2021](https://www.docker.com/dockercon-live/2021)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
