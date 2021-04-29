@@ -343,6 +343,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 05. 18(화)
+- __[MongoDB x Naver Cloud 2021 Online Conference](https://mongodbxnavercloud.com/)__
+  - 분류: `온라인`, `클라우드`, `DB`
+  - 주최: mongoDB, 네이버 클라우드
+  - 일시: 05. 18(화) 14:00 ~ 17:00
 - __[Google I/O '21](https://events.google.com/io/?lng=ko)__
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
