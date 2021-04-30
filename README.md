@@ -324,6 +324,10 @@
   - 분류: `클라우드`
   - 주최: 메가존
   - 일시: 05. 04(화) 14:00 ~ 15:00
+- __[[웨비나] Kubernetes Service 첫 걸음, WordPress 시작해보기!](https://register.gotowebinar.com/register/287005934308161039)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 네이버클라우드플랫폼
+  - 일시: 05. 06(목)
 - __[KubeCon + CloudNativeCon Europe 2021](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)__
   - 분류: `컨퍼런스`, `온라인`, `클라우드`
   - 주최: CNCF
@@ -340,10 +344,18 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 05. 11(화) ~ 05. 12(수)
+- __[제20회 세계 보안 엑스포](https://www.seconexpo.com/20th/kor/main.asp)__
+  - 분류: `보안`
+  - 주최: SECON
+  - 일시: 05. 12(수) ~ 05. 14(금)
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
   - 주최: 프로그래머스
   - 신청: 03. 25(목) ~ 05. 13(목)
+- __[스타트업(StartUp)을 만나다](https://festa.io/events/1557)__
+  - 분류: `온라인`, `개발`
+  - 주최: OSS개발자 모임
+  - 일시: 05. 15(토) 13:00 ~ 17:00
 - __[AWSKRUG 구로디지털 #gudi 소모임 - 44회차](https://www.meetup.com/ko-KR/awskrug/events/277788173/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
