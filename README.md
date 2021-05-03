@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](./static/title-v2.jpg)
+![img](./static/title-v2-1.jpg)
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -206,6 +206,10 @@
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
   - 일시: 05. 02(일) ~ 05. 29(토)
+- __[제1회 청소년 로블록스 첫 개발콘](https://event-us.kr/wgfactory/event/31462)__
+  - 분류: `온라인`, `해커톤`
+  - 주최: 러브탱
+  - 일시: 05. 29(토) 10:30 ~ 18:00
 
 <br />
 
@@ -232,6 +236,10 @@
   - 분류: `IT`
   - 주최: 산업통상자원부
   - 신청: 06. 23(수) ~ 06. 25(금)
+- __[메타버스 버추얼 환경구축을 위한 WebXR구현](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=50&lecIdx=17&proIdx=83&selYear=&selApplyStatus=)__
+  - 분류: `교육`, `GO lang`, `스터디`, `온라인`
+  - 주최: 골든래빗
+  - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
 
 <br />
 
