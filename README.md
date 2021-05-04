@@ -312,6 +312,14 @@
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
 | CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
 | SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
+| FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
+| 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
+| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
+| Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
+| Django Girls Seoul | [djangogirls.org](https://djangogirls.org/seoul/) |
+| OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
+| GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
+| KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
 
 <br />
 
