@@ -129,6 +129,10 @@
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
   - 일시: 05. 03(월) 20:00 ~ 21:00
+- __[해킹존 버그바운팅](https://hackingzone.net/)__
+  - 분류: `보안`
+  - 주최: 해킹존
+  - 일시: 05. 03(월) ~ 
 - __[5월 우아한테크세미나 | 만다오 만들었다오](https://docs.google.com/forms/d/e/1FAIpQLSc_P1RHcrI50wuNI3-Hb2nFIHBWXP1rprw7TGr-nxlUj5R1ew/viewform)__
   - 분류: `교육`
   - 주최: 우아한형제들
@@ -166,6 +170,10 @@
   - 분류: `해커톤`
   - 주최: 행정안전부
   - 신청: 03. 27(토) ~ 05. 09(일)
+- __[IBM Think 2021](https://www.ibm.com/events/think/ko)__
+  - 분류: `온라인`, `Tech`
+  - 주최: IBM
+  - 신청: 05. 12(수)
 - __[AWS Summit online korea](https://aws.amazon.com/ko/events/summits/online/korea/)__
   - 분류: `클라우드`
   - 주최: AWS
