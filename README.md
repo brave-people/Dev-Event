@@ -170,6 +170,10 @@
   - 분류: `해커톤`
   - 주최: 행정안전부
   - 신청: 03. 27(토) ~ 05. 09(일)
+- __[AWS Personalize로 추천시스템 구축하기](https://www.notion.so/AWS-Personalize-69ce315b2ed4406ba48d218651bdbd48)__
+  - 분류: `온라인`, `추천`
+  - 주최: 카우치코딩
+  - 신청: 05. 09(일) 20:00 ~ 21:00
 - __[IBM Think 2021](https://www.ibm.com/events/think/ko)__
   - 분류: `온라인`, `Tech`
   - 주최: IBM
@@ -178,10 +182,26 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 05. 11(화) ~ 05. 12(수)
-- __[제20회 세계 보안 엑스포](https://www.seconexpo.com/20th/kor/main.asp)__
-  - 분류: `보안`
-  - 주최: SECON
-  - 일시: 05. 12(수) ~ 05. 14(금)
+- __[IBM Think 2021](https://www.ibm.com/events/think/ko)__
+  - 분류: `온라인`, `Tech`
+  - 주최: IBM
+  - 신청: 05. 12(수)
+- __[스프링 부트로 메세지 보내는 법 & 동작 원리 이해하기](https://www.notion.so/6ab0accd40ed4c81b0a3e2a4f409faf9)__
+  - 분류: `온라인`, `RabbitMQ`
+  - 주최: 카우치코딩
+  - 신청: 05. 12(수) 20:00 ~ 21:00
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/277564334)__
+  - 분류: `온라인`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 신청: 05. 13(목) 19:00
+- __[블록체인의 특징과 동작방식](https://www.notion.so/0513-81b60df177184d55a2c613a80ae49022)__
+  - 분류: `온라인`, `블록체인`
+  - 주최: 카우치코딩
+  - 일시: 05. 13(목) 20:00 ~ 21:00
+- __[AWS Personalize로 추천시스템 구축하기](https://www.notion.so/AWS-Personalize-69ce315b2ed4406ba48d218651bdbd48)__
+  - 분류: `온라인`, `추천`
+  - 주최: 카우치코딩
+  - 신청: 05. 09(일) 20:00 ~ 21:00
 - __[프로그래머스 월간 코드 챌린지 시즌2](https://programmers.co.kr/competitions/1078/monthly-code-challenge-s2)__
   - 분류: `알고리즘`
   - 주최: 프로그래머스
@@ -210,6 +230,10 @@
   - 분류: `온라인`, `에자일`
   - 주최: 에자일 코리아 밋업
   - 일시: 05. 26(수) 21:00 ~ 23:00
+- __[AWS의 모든 것! 클라우드 101 웨비나 시즌5에 초대합니다.](https://www.megazone.com/application_form_smb-apply-210526_27/)__
+  - 분류: `온라인`, `에자일`
+  - 주최: 메가존클라우드
+  - 일시: 05. 26(수) 14:00 ~ 05. 27(목) 16:00
 - __[DOCKERCON2021](https://www.docker.com/dockercon-live/2021)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
