@@ -252,6 +252,11 @@
 
 ## 21년 06월
 
+- __[우아한테크러닝 4기 : 나만의 노션 만들기 (feat.시니어봇)](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
+  - 분류: `교육`, `온라인`
+  - 주최: 우아한 형제들
+  - 일시: 06. 01(화) ~ 06. 24(목) 화, 목 저녁 7시 ~ 10시(총 8회)
+
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
   - 주최: 한국정보기술연구원
