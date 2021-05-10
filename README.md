@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -96,6 +96,7 @@
     <td align="center"><a href="https://butter-shower.tistory.com/"><img src="https://avatars.githubusercontent.com/u/32065860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiyeon Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jiyeoon" title="Code">💻</a></td>
     <td align="center"><a href="https://blog.frec.kr"><img src="https://avatars.githubusercontent.com/u/10742964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Myung-Hyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=freckie" title="Code">💻</a></td>
     <td align="center"><a href="http://medium.com/@paikend"><img src="https://avatars.githubusercontent.com/u/26214518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjun Paik</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=paikend" title="Code">💻</a></td>
+    <td align="center"><a href="https://haranglog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/60910665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=saseungmin" title="Code">💻</a></td>
   </tr>
 </table>
 
