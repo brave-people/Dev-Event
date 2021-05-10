@@ -260,6 +260,7 @@
 - __[우아한테크러닝 4기 : 나만의 노션 만들기 (feat.시니어봇)](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
   - 분류: `교육`, `온라인`
   - 주최: 우아한 형제들
+  - 모집: 05. 10(월) ~ 05. 23(일)
   - 일시: 06. 01(화) ~ 06. 24(목) 화, 목 저녁 7시 ~ 10시(총 8회)
 
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
