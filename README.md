@@ -126,7 +126,10 @@
 <br />
 
 ## 21년 05월
-
+- __[우아한 테크 러닝](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
+  - 분류: `교육`
+  - 주최: 우아한형제들
+  - 모집: 05. 10(월) ~ 05. 23(일)
 - __[리얼리눅스 도커/k8s 무료세미나: "컨테이너를 모르면 생겨나는 문제들"](https://festa.io/events/1530)__
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
