@@ -192,6 +192,10 @@
   - 분류: `온라인`, `RabbitMQ`
   - 주최: 카우치코딩
   - 신청: 05. 12(수) 20:00 ~ 21:00
+- __[T hub Tech 세미나 - Advanced Git](https://festa.io/events/1569)__
+  - 분류: `온라인`, `Git`, `GitHub`, `형상관리`
+  - 주최: T Hub
+  - 신청: 05. 13(목) 15:00 ~ 17:00
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/277564334)__
   - 분류: `온라인`, `데이터사이언스`
   - 주최: AWSKRUG
