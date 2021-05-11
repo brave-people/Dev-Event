@@ -232,11 +232,19 @@
   - 분류: `앱`, `공모전`
   - 주최: 사단법인 그린라이트 / 과학기술정보통신부
   - 일시: 04. 19(월) ~ 05. 21(금)
+- __[DEV CARNIVAL](https://www.wanted.co.kr/events/2021_dev_carnival?referer_id=476498)__
+  - 분류: `온라인`, `채용`, `챌린지`
+  - 주최: 원티드
+  - 접수: 05. 10(월) ~ 05. 21(금)
 - __[우아한테크러닝 4기 : 나만의 노션 만들기 (feat.시니어봇)](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
   - 분류: `교육`, `온라인`
   - 주최: 우아한 형제들
   - 모집: 05. 10(월) ~ 05. 23(일)
   - 일시: 06. 01(화) ~ 06. 24(목) 화, 목 저녁 7시 ~ 10시(총 8회)
+- __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 05. 26(수) 18:00
 - __[애자일 코리아 5월 밋업 ‘애코컨 그 다음 이야기 Ep.1’](https://festa.io/events/1566)__
   - 분류: `온라인`, `에자일`
   - 주최: 에자일 코리아 밋업
