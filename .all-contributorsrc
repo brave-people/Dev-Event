@@ -141,6 +141,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "jiyeoon",
+      "name": "Jiyeon Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32065860?v=4",
+      "profile": "https://butter-shower.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "freckie",
+      "name": "Myung-Hyun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10742964?v=4",
+      "profile": "https://blog.frec.kr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "paikend",
+      "name": "Gyeongjun Paik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26214518?v=4",
+      "profile": "http://medium.com/@paikend",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "saseungmin",
+      "name": "SeungMin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60910665?v=4",
+      "profile": "https://haranglog.tistory.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
