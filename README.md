@@ -245,6 +245,10 @@
   - 분류: `온라인`, `인프라`
   - 주최: 글로벌널리지
   - 일시: 05. 25(화) 13:00 ~ 17:00
+- __[Naver AI NOW](https://naver-ai-now.kr/)__
+  - 분류: `온라인`, `AI`
+  - 주최: 네이버
+  - 일시: 05. 25(화) 14:00 ~ 17:30
 - __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
