@@ -126,10 +126,7 @@
 <br />
 
 ## 21년 05월
-- __[우아한 테크 러닝](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
-  - 분류: `교육`
-  - 주최: 우아한형제들
-  - 모집: 05. 10(월) ~ 05. 23(일)
+
 - __[리얼리눅스 도커/k8s 무료세미나: "컨테이너를 모르면 생겨나는 문제들"](https://festa.io/events/1530)__
   - 분류: `교육`, `도커`
   - 주최: 리얼리눅스
@@ -244,6 +241,10 @@
   - 주최: 우아한 형제들
   - 모집: 05. 10(월) ~ 05. 23(일)
   - 일시: 06. 01(화) ~ 06. 24(목) 화, 목 저녁 7시 ~ 10시(총 8회)
+- __[실습으로 배우는 쿠버네티스 핵심](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `인프라`
+  - 주최: 글로벌널리지
+  - 일시: 05. 25(화) 13:00 ~ 17:00
 - __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
@@ -356,6 +357,7 @@
 | 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) | 
 | 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) | 
 | CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) | 
+| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) | 
 
 <br />
 
