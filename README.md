@@ -287,6 +287,10 @@
   - 주최: 한국정보기술연구원
   - 일시: 05. 06(목) 10:00 ~ 06. 04(금) 16:00
 
+- __[Github Graduation](https://github.com/education/GitHubGraduation-2021)__
+  - 분류: `컨퍼런스`
+  - 주최: Github
+  - 일시: 06. 05(토)
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
   - 주최: Apple
