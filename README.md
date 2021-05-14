@@ -184,10 +184,6 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 05. 11(화) ~ 05. 12(수)
-- __[IBM Think 2021](https://www.ibm.com/events/think/ko)__
-  - 분류: `온라인`, `Tech`
-  - 주최: IBM
-  - 신청: 05. 12(수)
 - __[스프링 부트로 메세지 보내는 법 & 동작 원리 이해하기](https://www.notion.so/6ab0accd40ed4c81b0a3e2a4f409faf9)__
   - 분류: `온라인`, `RabbitMQ`
   - 주최: 카우치코딩
@@ -282,11 +278,14 @@
 
 ## 21년 06월
 
+- __[F8 Refresh](https://developers.facebook.com/f8/)__
+  - 분류: `컨퍼런스`
+  - 주최: Facebook
+  - 일시: 06. 02(수)
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
   - 주최: 한국정보기술연구원
   - 일시: 05. 06(목) 10:00 ~ 06. 04(금) 16:00
-
 - __[Github Graduation](https://github.com/education/GitHubGraduation-2021)__
   - 분류: `컨퍼런스`
   - 주최: Github
