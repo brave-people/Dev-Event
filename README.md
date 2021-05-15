@@ -245,6 +245,10 @@
   - 분류: `온라인`, `AI`
   - 주최: 네이버
   - 일시: 05. 25(화) 14:00 ~ 17:30
+- __[Teachable NLP 챌린지](https://knock-ai.circle.so/c/random/teachable-nlp-5-5-18)__
+  - 분류: `온라인`, `AI`
+  - 주최: 네이버
+  - 일시: 05. 25(화) 14:00 ~ 17:30
 - __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
@@ -282,6 +286,7 @@
   - 분류: `컨퍼런스`
   - 주최: Facebook
   - 일시: 06. 02(수)
+
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
   - 주최: 한국정보기술연구원
@@ -310,6 +315,10 @@
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
+- __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
+  - 분류: `보안`
+  - 주최: 직퀘스트
+  - 신청: 05. 16(일) ~ 06. 30(일)
 
 <br />
 
@@ -392,6 +401,8 @@
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
+| devocean | [devocean.sk.com](https://devocean.sk.com/)
+
 
 <br />
 
