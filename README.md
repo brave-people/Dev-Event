@@ -247,8 +247,8 @@
   - 일시: 05. 25(화) 14:00 ~ 17:30
 - __[Teachable NLP 챌린지](https://knock-ai.circle.so/c/random/teachable-nlp-5-5-18)__
   - 분류: `온라인`, `AI`
-  - 주최: 네이버
-  - 일시: 05. 25(화) 14:00 ~ 17:30
+  - 주최: Knock AI 
+  - 일시: 05. 05(수) ~ 05. 23(화) 11:45
 - __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
@@ -269,6 +269,10 @@
   - 분류: `온라인`, `보안`, `취업`
   - 주최: KISA
   - 일시: 05. 27(목) 10:00 ~ 17:00
+- __[NVIDIA AI Developer Meetup](https://festa.io/events/1586)__
+  - 분류: `온라인`
+  - 주최: NVIDIA
+  - 일시: 05. 27(목) 16:00 ~ 18:00
 - __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)__
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
