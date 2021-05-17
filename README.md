@@ -220,6 +220,10 @@
   - 분류: `온라인`, `클라우드`, `DB`
   - 주최: mongoDB, 네이버 클라우드
   - 일시: 05. 18(화) 14:00 ~ 17:00
+- __[Google I/O 2021 Seoul Viewing Party](https://gdg.community.dev/events/details/google-gdg-seoul-presents-google-io-2021-seoul-viewing-party/)__
+  - 분류: `온라인`
+  - 주최: GDG
+  - 일시: 05. 19(수) 01:00 ~ 04:00
 - __[Google I/O '21](https://events.google.com/io/?lng=ko)__
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
@@ -273,6 +277,10 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 05. 27(목) 16:00 ~ 18:00
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278231170/)__
+  - 분류: `온라인`, `Docker`
+  - 주최: AWSKRUG
+  - 일시: 05. 27(목) 19:00 ~ 21:00
 - __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)__
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
