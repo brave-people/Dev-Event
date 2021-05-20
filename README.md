@@ -273,6 +273,10 @@
   - 분류: `온라인`, `에자일`
   - 주최: 에자일 코리아 밋업
   - 일시: 05. 26(수) 21:00 ~ 23:00
+- __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `Serverless`
+  - 주최: AWSKRUG
+  - 일시: 05. 26(수) 18:00 ~ 20:00
 - __[AWS의 모든 것! 클라우드 101 웨비나 시즌5에 초대합니다.](https://www.megazone.com/application_form_smb-apply-210526_27/)__
   - 분류: `온라인`, `에자일`
   - 주최: 메가존클라우드
