@@ -285,6 +285,18 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
   - 일시: 05. 27(목)
+- __[알테어 데이터 스쿨 캠프](https://onoffmix.com/event/237819)__
+  - 분류: `온라인`, `무료 강의`, `데이터`
+  - 주최: 알테어
+  - 일시: 05. 24(월) 17:00 ~ 05. 28(금) 19:00
+- __[네이버클라우드플랫폼 Cloud DB for MySQL](https://register.gotowebinar.com/register/6401346115905404175)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 네이버클라우드플랫폼
+  - 일시: 05. 27(목) 19:00 ~ 21:00
+- __[컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278231170)__
+  - 분류: `온라인`, `도커`
+  - 주최: AWSKRUG
+  - 일시: 05. 27(목) 19:00 ~ 21:00
 - __[2021 정보보호 취업박람회](https://jobfair.kisia.or.kr/job/)__
   - 분류: `온라인`, `보안`, `취업`
   - 주최: KISA
@@ -359,6 +371,11 @@
 <br />
 
 ## 21년 07월
+
+- __[MONGODB LIVE](https://www.mongodb.com/live)__
+  - 분류: `컨퍼런스`, `mongoDB`, `영어`
+  - 주최: mongoDB
+  - 일시: 07. 13 ~ 07. 14(토)
 
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
