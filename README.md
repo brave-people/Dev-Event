@@ -367,6 +367,10 @@
   - 분류: `보안`
   - 주최: 직퀘스트
   - 신청: 05. 16(일) ~ 06. 30(일)
+- __[제1회 MLOps KR community event](https://festa.io/events/1593)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: MLOps KR Community
+  - 일시: 06. 05(토) 13:00 ~ 17:30
 
 <br />
 
