@@ -344,6 +344,10 @@
   - 분류: `컨퍼런스`
   - 주최: Github
   - 일시: 06. 05(토)
+- __[제1회 MLOps KR community event](https://festa.io/events/1593)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: MLOps KR Community
+  - 일시: 06. 05(토) 13:00 ~ 17:30
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
   - 주최: Apple
@@ -356,22 +360,23 @@
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 05. 03(월) 22:00 ~ 06. 16(수) 22:00
-- __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
-  - 분류: `IT`
-  - 주최: 산업통상자원부
-  - 신청: 06. 23(수) ~ 06. 25(금)
 - __[메타버스 버추얼 환경구축을 위한 WebXR구현](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=50&lecIdx=17&proIdx=83&selYear=&selApplyStatus=)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
+- __[인공지능 그랜드 챌린지 5차 대회](https://www.ai-challenge.kr/#none)__
+  - 분류: `인공지능`
+  - 주최: 과학기술정보통신부
+  - 신청: 06. 16(수) ~ 06. 18(금)
+- __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
+  - 분류: `IT`
+  - 주최: 산업통상자원부
+  - 신청: 06. 23(수) ~ 06. 25(금)
 - __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
   - 분류: `보안`
   - 주최: 직퀘스트
   - 신청: 05. 16(일) ~ 06. 30(일)
-- __[제1회 MLOps KR community event](https://festa.io/events/1593)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: MLOps KR Community
-  - 일시: 06. 05(토) 13:00 ~ 17:30
+
 
 <br />
 
