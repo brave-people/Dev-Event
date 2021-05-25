@@ -1,10 +1,10 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](./static/title-v2-1.jpg)
+![img](./static/title-v3-lg.png)
 
 [![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -97,6 +97,7 @@
     <td align="center"><a href="https://blog.frec.kr"><img src="https://avatars.githubusercontent.com/u/10742964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Myung-Hyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=freckie" title="Code">💻</a></td>
     <td align="center"><a href="http://medium.com/@paikend"><img src="https://avatars.githubusercontent.com/u/26214518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjun Paik</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=paikend" title="Code">💻</a></td>
     <td align="center"><a href="https://haranglog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/60910665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=saseungmin" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mjh0528"><img src="https://avatars.githubusercontent.com/u/54383015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mjh0528" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -184,10 +185,6 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 05. 11(화) ~ 05. 12(수)
-- __[IBM Think 2021](https://www.ibm.com/events/think/ko)__
-  - 분류: `온라인`, `Tech`
-  - 주최: IBM
-  - 신청: 05. 12(수)
 - __[스프링 부트로 메세지 보내는 법 & 동작 원리 이해하기](https://www.notion.so/6ab0accd40ed4c81b0a3e2a4f409faf9)__
   - 분류: `온라인`, `RabbitMQ`
   - 주최: 카우치코딩
@@ -224,6 +221,10 @@
   - 분류: `온라인`, `클라우드`, `DB`
   - 주최: mongoDB, 네이버 클라우드
   - 일시: 05. 18(화) 14:00 ~ 17:00
+- __[Google I/O 2021 Seoul Viewing Party](https://gdg.community.dev/events/details/google-gdg-seoul-presents-google-io-2021-seoul-viewing-party/)__
+  - 분류: `온라인`
+  - 주최: GDG
+  - 일시: 05. 19(수) 01:00 ~ 04:00
 - __[Google I/O '21](https://events.google.com/io/?lng=ko)__
   - 분류: `온라인`, `한글자막`, `컨퍼런스`
   - 주최: Google
@@ -232,15 +233,51 @@
   - 분류: `앱`, `공모전`
   - 주최: 사단법인 그린라이트 / 과학기술정보통신부
   - 일시: 04. 19(월) ~ 05. 21(금)
+- __[DEV CARNIVAL](https://www.wanted.co.kr/events/2021_dev_carnival?referer_id=476498)__
+  - 분류: `온라인`, `채용`, `챌린지`
+  - 주최: 원티드
+  - 접수: 05. 10(월) ~ 05. 21(금)
 - __[우아한테크러닝 4기 : 나만의 노션 만들기 (feat.시니어봇)](https://docs.google.com/forms/d/e/1FAIpQLSdoiH9Lkaj1o5-S3A98SxEatSbbTcp7vzHKTgFXcpi-DJw3RA/viewform)__
   - 분류: `교육`, `온라인`
   - 주최: 우아한 형제들
   - 모집: 05. 10(월) ~ 05. 23(일)
   - 일시: 06. 01(화) ~ 06. 24(목) 화, 목 저녁 7시 ~ 10시(총 8회)
+- __[부스트캠프 AI Tech 2기](https://boostcamp.connect.or.kr/guide_ai.html)__
+  - 분류: `교육`, `AI`
+  - 주최: 네이버
+  - 모집: 05. 12(수) 오전 10시 ~ 06. 13(일) 24시
+- __[부스트캠프 웹·모바일 6기](https://boostcamp.connect.or.kr/guide_wm.html)__
+  - 분류: `교육`, `웹 풀스택`, `IOS`, `Android`
+  - 주최: 네이버
+  - 모집: 05. 13(목) ~ 06. 21(월) 오전 11시
+- __[실습으로 배우는 쿠버네티스 핵심](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `인프라`
+  - 주최: 글로벌널리지
+  - 일시: 05. 25(화) 13:00 ~ 17:00
+- __[Naver AI NOW](https://naver-ai-now.kr/)__
+  - 분류: `온라인`, `AI`
+  - 주최: 네이버
+  - 일시: 05. 25(화) 14:00 ~ 17:30
+- __[Teachable NLP 챌린지](https://knock-ai.circle.so/c/random/teachable-nlp-5-5-18)__
+  - 분류: `온라인`, `AI`
+  - 주최: Knock AI 
+  - 일시: 05. 05(수) ~ 05. 23(화) 11:45
+- __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 05. 26(수) 18:00
+- __[제1회 IT 인프라 토크쇼](https://festa.io/events/1588)__
+  - 분류: `온라인`, `인프라`, `유료`
+  - 주최: IT 인프라 커뮤니티 그룹
+  - 일시: 05. 26(수) 18:00
 - __[애자일 코리아 5월 밋업 ‘애코컨 그 다음 이야기 Ep.1’](https://festa.io/events/1566)__
   - 분류: `온라인`, `에자일`
   - 주최: 에자일 코리아 밋업
   - 일시: 05. 26(수) 21:00 ~ 23:00
+- __[AWS CDK로 시작하는 Serverless Service 개발](https://www.meetup.com/ko-KR/awskrug/events/278112453/)__
+  - 분류: `온라인`, `Serverless`
+  - 주최: AWSKRUG
+  - 일시: 05. 26(수) 18:00 ~ 20:00
 - __[AWS의 모든 것! 클라우드 101 웨비나 시즌5에 초대합니다.](https://www.megazone.com/application_form_smb-apply-210526_27/)__
   - 분류: `온라인`, `에자일`
   - 주최: 메가존클라우드
@@ -249,10 +286,30 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Docker
   - 일시: 05. 27(목)
+- __[알테어 데이터 스쿨 캠프](https://onoffmix.com/event/237819)__
+  - 분류: `온라인`, `무료 강의`, `데이터`
+  - 주최: 알테어
+  - 일시: 05. 24(월) 17:00 ~ 05. 28(금) 19:00
+- __[네이버클라우드플랫폼 Cloud DB for MySQL](https://register.gotowebinar.com/register/6401346115905404175)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 네이버클라우드플랫폼
+  - 일시: 05. 27(목) 19:00 ~ 21:00
+- __[컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278231170)__
+  - 분류: `온라인`, `도커`
+  - 주최: AWSKRUG
+  - 일시: 05. 27(목) 19:00 ~ 21:00
 - __[2021 정보보호 취업박람회](https://jobfair.kisia.or.kr/job/)__
   - 분류: `온라인`, `보안`, `취업`
   - 주최: KISA
   - 일시: 05. 27(목) 10:00 ~ 17:00
+- __[NVIDIA AI Developer Meetup](https://festa.io/events/1586)__
+  - 분류: `온라인`
+  - 주최: NVIDIA
+  - 일시: 05. 27(목) 16:00 ~ 18:00
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278231170/)__
+  - 분류: `온라인`, `Docker`
+  - 주최: AWSKRUG
+  - 일시: 05. 27(목) 19:00 ~ 21:00
 - __[5월 한달 코딩 챌린지](https://www.notion.so/5-622dfeeb360e40ff8142a5f1cacdba30)__
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
@@ -266,11 +323,31 @@
 
 ## 21년 06월
 
+- __[F8 Refresh](https://developers.facebook.com/f8/)__
+  - 분류: `컨퍼런스`
+  - 주최: Facebook
+  - 일시: 06. 02(수)
+
+- __[리얼리눅스 무료세미나: 면접/이직/취업을 위한"리눅스 레벨업 전략"](https://festa.io/events/1589)__
+  - 분류: `무료`, `리눅스`
+  - 주최: 리얼리눅스
+  - 일시: 06. 03(목) 20:00 ~ 22:00
+- __[데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/278249190)__
+  - 분류: `무료`, `리눅스`
+  - 주최: AWSKRUG
+  - 일시: 06. 03(목) 19:30 ~ 21:00
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
   - 주최: 한국정보기술연구원
   - 일시: 05. 06(목) 10:00 ~ 06. 04(금) 16:00
-
+- __[Github Graduation](https://github.com/education/GitHubGraduation-2021)__
+  - 분류: `컨퍼런스`
+  - 주최: Github
+  - 일시: 06. 05(토)
+- __[제1회 MLOps KR community event](https://festa.io/events/1593)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: MLOps KR Community
+  - 일시: 06. 05(토) 13:00 ~ 17:30
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
   - 주최: Apple
@@ -283,18 +360,32 @@
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 05. 03(월) 22:00 ~ 06. 16(수) 22:00
-- __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
-  - 분류: `IT`
-  - 주최: 산업통상자원부
-  - 신청: 06. 23(수) ~ 06. 25(금)
 - __[메타버스 버추얼 환경구축을 위한 WebXR구현](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=50&lecIdx=17&proIdx=83&selYear=&selApplyStatus=)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
+- __[인공지능 그랜드 챌린지 5차 대회](https://www.ai-challenge.kr/#none)__
+  - 분류: `인공지능`
+  - 주최: 과학기술정보통신부
+  - 신청: 06. 16(수) ~ 06. 18(금)
+- __[제 10회 스마트테크 코리아](https://onoffmix.com/rsvp/attend/233633?group%5B%5D=307886)__
+  - 분류: `IT`
+  - 주최: 산업통상자원부
+  - 신청: 06. 23(수) ~ 06. 25(금)
+- __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
+  - 분류: `보안`
+  - 주최: 직퀘스트
+  - 신청: 05. 16(일) ~ 06. 30(일)
+
 
 <br />
 
 ## 21년 07월
+
+- __[MONGODB LIVE](https://www.mongodb.com/live)__
+  - 분류: `컨퍼런스`, `mongoDB`, `영어`
+  - 주최: mongoDB
+  - 일시: 07. 13 ~ 07. 14(토)
 
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
@@ -345,6 +436,7 @@
 | 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) | 
 | 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) | 
 | CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) | 
+| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) | 
 
 <br />
 
@@ -372,6 +464,8 @@
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
+| devocean | [devocean.sk.com](https://devocean.sk.com/)
+
 
 <br />
 
