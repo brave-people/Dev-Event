@@ -306,6 +306,10 @@
   - 분류: `온라인`
   - 주최: NVIDIA
   - 일시: 05. 27(목) 16:00 ~ 18:00
+- __[GDG Golang Korea 5월 밋업](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-gdg-golang-korea-5weol-miseob-1/)__
+  - 분류: `온라인`, `밋업`
+  - 주최: GDG Golang Korea
+  - 일시: 05. 27(목) 20:00 ~ 22:00
 - __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278231170/)__
   - 분류: `온라인`, `Docker`
   - 주최: AWSKRUG
@@ -314,14 +318,14 @@
   - 분류: `온라인`, `스터디`
   - 주최: 카우치코딩
   - 일시: 05. 02(일) ~ 05. 29(토)
-- __[GDG Golang Korea 5월 밋업](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-gdg-golang-korea-5weol-miseob-1/)__
-  - 분류: `온라인`, `밋업`
-  - 주최: GDG Golang Korea
-  - 일시: 05. 27(목) 20:00 ~ 22:00
 - __[제1회 청소년 로블록스 첫 개발콘](https://event-us.kr/wgfactory/event/31462)__
   - 분류: `온라인`, `해커톤`
   - 주최: 러브탱
   - 일시: 05. 29(토) 10:30 ~ 18:00
+- __[18년차 UI 개발자에게 실전 반응형 웹 배우기](https://festa.io/events/1601)__
+  - 분류: `온라인`, `UI`
+  - 주최: 카우치코딩
+  - 일시: 05. 30(일) 20:00 ~ 21:00
 
 <br />
 
