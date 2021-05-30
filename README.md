@@ -221,7 +221,7 @@
 
 ## 21년 07월
 
-- __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://www.mongodb.com/live)__
+- __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
   - 일시: 05. 24(월) ~ 07. 09(토)
