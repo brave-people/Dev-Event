@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -98,6 +98,7 @@
     <td align="center"><a href="http://medium.com/@paikend"><img src="https://avatars.githubusercontent.com/u/26214518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjun Paik</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=paikend" title="Code">💻</a></td>
     <td align="center"><a href="https://haranglog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/60910665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=saseungmin" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mjh0528"><img src="https://avatars.githubusercontent.com/u/54383015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mjh0528" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Winning-Bean"><img src="https://avatars.githubusercontent.com/u/53260922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungBeen Wee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Winning-Bean" title="Code">💻</a></td>
   </tr>
 </table>
 
