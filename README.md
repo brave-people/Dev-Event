@@ -223,7 +223,10 @@
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
   - 일시: 05. 24(월) ~ 07. 09(토)
-
+- __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
+  - 분류: `컨퍼런스`, `그래픽스`, ``
+  - 주최: HPG
+  - 일시: 07. 06(화) ~ 07. 09(토)
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
