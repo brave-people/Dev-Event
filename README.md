@@ -138,6 +138,10 @@
   - 주최: Facebook
   - 일시: 06. 02(수)
 
+- __[DevAx::connect - Amazon DevOps Guru소개](https://www.meetup.com/ko-KR/awskrug/events/278464766/)__
+  - 분류: `모임`, `기계학습`
+  - 주최: AWSKRUG
+  - 일시: 06. 02(수)
 - __[리얼리눅스 무료세미나: 면접/이직/취업을 위한"리눅스 레벨업 전략"](https://festa.io/events/1589)__
   - 분류: `무료`, `리눅스`
   - 주최: 리얼리눅스
