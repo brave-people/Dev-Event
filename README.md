@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -102,6 +102,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/rlaekwjd324"><img src="https://avatars.githubusercontent.com/u/54465767?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rlaekwjd324</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rlaekwjd324" title="Code">💻</a></td>
+    <td align="center"><a href="https://snowapril.github.io"><img src="https://avatars.githubusercontent.com/u/24654975?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Snowapril</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Snowapril" title="Code">💻</a></td>
   </tr>
 </table>
 
