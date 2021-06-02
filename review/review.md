@@ -26,3 +26,5 @@
     - [https://blog.outsider.ne.kr/1469](https://blog.outsider.ne.kr/1469)
 - **K-사이버 시큐리티 챌린지 2019 - 수상팀 인터뷰**
     - [https://blog.naver.com/kshieldjr/221775539266](https://blog.naver.com/kshieldjr/221775539266)
+- **Junction X Seoul 2021 해커톤 후기**
+    - [https://velog.io/@roeniss](https://velog.io/@roeniss/Junction-X-Seoul-2021-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0)

@@ -146,6 +146,10 @@
   - 분류: `무료`, `리눅스`
   - 주최: 리얼리눅스
   - 일시: 06. 03(목) 20:00 ~ 22:00
+- __[Photon 인더스트리즈&스페이스허브로 개발하는 메타버스와 가상전시&컨퍼런스](http://www.xbaas.com/customer/bbs_view.php?idx=702&code=notice)__
+  - 분류: `메타버스`
+  - 주최: NCloud24
+  - 일시: 06. 03(목) 15:00 ~ 16:40
 - __[데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/278249190)__
   - 분류: `무료`, `리눅스`
   - 주최: AWSKRUG
@@ -166,6 +170,14 @@
   - 분류: `교육`,`IOS`, `Android`,`Server`,`Web`
   - 주최: 컴공선배
   - 신청: 05. 24(월) ~ 06. 07(월)
+- __[제 1회 OP.GG 배 정보통신 써-비스 제작 경진대회](https://www.opgg.team/event/hackathon-2021)__
+  - 분류: `대회`
+  - 주최: OP.GG
+  - 신청: 06. 01(화) ~ 06. 10(목)
+- __[삼성SDS 대학생 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLScJMglIBMo23GcWbbKxzwwHAFDfXBB8lnLUTORFK7-IwG4Saw/viewform)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성SDS
+  - 신청: 06. 02(수) ~ 06. 11(금)
 - __[WWDC21](https://developer.apple.com/wwdc21/)__
   - 분류: `컨퍼런스`
   - 주최: Apple
@@ -188,7 +200,7 @@
   - 일시: 05. 03(월) 22:00 ~ 06. 16(수) 22:00
 - __[메타버스 버추얼 환경구축을 위한 WebXR구현](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=50&lecIdx=17&proIdx=83&selYear=&selApplyStatus=)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
-  - 주최: 골든래빗
+  - 주최: XR Campus
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
 - __[인공지능 그랜드 챌린지 5차 대회](https://www.ai-challenge.kr/#none)__
   - 분류: `인공지능`
