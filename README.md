@@ -154,6 +154,10 @@
   - 분류: `무료`, `리눅스`
   - 주최: AWSKRUG
   - 일시: 06. 03(목) 19:30 ~ 21:00
+- __[Build Watch Party: with 이재석 MVP](https://forms.office.com/pages/responsepage.aspx?id=utbJ25zjpEKwL22I8G8-CtigFjNRyOZIncR5Rq4UYRJUNTlVQTg4WEJJQ0c2TEVBOTFEUThCMVhMQS4u)__
+  - 분류: `세미나`, `인공지능`
+  - 주최: Microsoft MVP Community
+  - 일시: 06. 04(금) 20:00 ~ 21:00
 - __[BoB 10기 모집](https://www.kitribob.kr/)__
   - 분류: `컨퍼런스`
   - 주최: 한국정보기술연구원
@@ -170,6 +174,10 @@
   - 분류: `교육`,`IOS`, `Android`,`Server`,`Web`
   - 주최: 컴공선배
   - 신청: 05. 24(월) ~ 06. 07(월)
+- __[DevAx::connect - Application Security Enforcement](https://www.meetup.com/ko-KR/awskrug/events/278590942/)__
+  - 분류: `AWS`
+  - 주최: AWSKRUG
+  - 신청: 06. 09(수) 18:00 ~ 20:00
 - __[제 1회 OP.GG 배 정보통신 써-비스 제작 경진대회](https://www.opgg.team/event/hackathon-2021)__
   - 분류: `대회`
   - 주최: OP.GG
@@ -210,10 +218,14 @@
   - 분류: `교육`, `웹 풀스택`, `IOS`, `Android`
   - 주최: 네이버
   - 모집: 05. 13(목) ~ 06. 21(월) 오전 11시
+- __[메가존클라우드 One-Click Game Webinar](https://www.megazone.com/event-promotion-20210622-mzc-oneclickgamewebinar/?utm_source=festa&amp;utm_medium=post&amp;utm_campaign=0622webinar)__
+  - 분류: `클라우드`
+  - 주최: 메가존클라우드
+  - 모집: 06. 22(화) 14:00 ~ 16:35
 - __[성장하는 서버 개발자 되기](https://www.wanted.co.kr/events/livetalk28)__
   - 분류: `커리어`, `벡엔드`
   - 주최: 원티드
-  - 신청: 06. 25(금) 19:00 ~ 20:30
+  - 일시: 06. 25(금) 19:00 ~ 20:30
 - __[관광데이터 활용 공모전](https://www.2021tourapi.com/)__
   - 분류: `공모전`
   - 주최: 한국관광공사
