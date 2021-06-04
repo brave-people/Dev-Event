@@ -174,6 +174,10 @@
   - 분류: `교육`,`IOS`, `Android`,`Server`,`Web`
   - 주최: 컴공선배
   - 신청: 05. 24(월) ~ 06. 07(월)
+- __[Build Watch Party with Mixed Reality](https://festa.io/events/1612)__
+  - 분류: `Reality`
+  - 주최: Microsoft MVP Community
+  - 신청: 06. 08(화)
 - __[DevAx::connect - Application Security Enforcement](https://www.meetup.com/ko-KR/awskrug/events/278590942/)__
   - 분류: `AWS`
   - 주최: AWSKRUG
@@ -214,6 +218,10 @@
   - 분류: `인공지능`
   - 주최: 과학기술정보통신부
   - 신청: 06. 16(수) ~ 06. 18(금)
+- __[2021 광주스마트미디어X캠프](https://festa.io/events/1613)__
+  - 분류: `아이디어톤`
+  - 주최: 광주정보문화산업진흥원
+  - 모집: 06. 01(화) ~ 06. 21(월)
 - __[부스트캠프 웹·모바일 6기](https://boostcamp.connect.or.kr/guide_wm.html)__
   - 분류: `교육`, `웹 풀스택`, `IOS`, `Android`
   - 주최: 네이버
@@ -222,6 +230,10 @@
   - 분류: `클라우드`
   - 주최: 메가존클라우드
   - 모집: 06. 22(화) 14:00 ~ 16:35
+- __[Live Talk #29. 성장하는 안드로이드 개발자 되기](https://www.wanted.co.kr/events/livetalk29)__
+  - 분류: `웨비나`, `안드로이드`
+  - 주최: 원티드
+  - 일시: 06. 24(목) 19:30 ~ 21:10
 - __[성장하는 서버 개발자 되기](https://www.wanted.co.kr/events/livetalk28)__
   - 분류: `커리어`, `벡엔드`
   - 주최: 원티드
@@ -242,7 +254,6 @@
   - 분류: `보안`
   - 주최: 직퀘스트
   - 신청: 05. 16(일) ~ 06. 30(일)
-
 
 <br />
 
