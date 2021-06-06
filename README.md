@@ -178,6 +178,10 @@
   - 분류: `Reality`
   - 주최: Microsoft MVP Community
   - 신청: 06. 08(화)
+- __Enterprise Modernization을 위한 Offering__
+  - 분류: `웨비나`
+  - 주최: SK C&C
+  - 일시: 06. 09(수) 14:00 ~ 15:00
 - __[DevAx::connect - Application Security Enforcement](https://www.meetup.com/ko-KR/awskrug/events/278590942/)__
   - 분류: `AWS`
   - 주최: AWSKRUG
@@ -206,6 +210,10 @@
   - 분류: `채용설명회`
   - 주최: 111퍼센트
   - 일시: 06. 15(화) 19:30 ~ 20:30
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/278638827/)__
+  - 분류: `커뮤니티`
+  - 주최: AWSKRUG
+  - 일시: 06. 15(화) 19:00 ~ 22:00
 - __[머스트해브 스터디 : Go 언어가 온당](https://festa.io/events/1543)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
@@ -263,8 +271,9 @@
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
   - 일시: 05. 24(월) ~ 07. 09(토)
+
 - __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
-  - 분류: `컨퍼런스`, `그래픽스`, ``
+  - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
   - 일시: 07. 06(화) ~ 07. 09(토)
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
