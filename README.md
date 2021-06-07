@@ -222,6 +222,10 @@
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: XR Campus
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
+- __[Quarkus World Tour 2021 Korea](https://festa.io/events/1615)__
+  - 분류: `Java`
+  - 주최: JBUG Korea
+  - 신청: 06. 17(목) 21:30 ~ 22:30
 - __[인공지능 그랜드 챌린지 5차 대회](https://www.ai-challenge.kr/#none)__
   - 분류: `인공지능`
   - 주최: 과학기술정보통신부
