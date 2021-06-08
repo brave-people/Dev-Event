@@ -214,18 +214,26 @@
   - 분류: `커뮤니티`
   - 주최: AWSKRUG
   - 일시: 06. 15(화) 19:00 ~ 22:00
+- __[CloudXper ProOps 런칭 웨비나](https://lgcnsblog.tistory.com/2578)__
+  - 분류: `웨비나`
+  - 주최: LG CNS
+  - 일시: 06. 16(수) 14:00
 - __[머스트해브 스터디 : Go 언어가 온당](https://festa.io/events/1543)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: 골든래빗
   - 일시: 05. 03(월) 22:00 ~ 06. 16(수) 22:00
+- __[Quarkus World Tour 2021 Korea](https://festa.io/events/1615)__
+  - 분류: `웨비나`
+  - 주최: JBUG Korea
+  - 신청: 06. 17(목) 21:30 ~ 22:30
+- __[AWS 마이그레이션 세미나](https://festa.io/events/1616)__
+  - 분류: `웨비나`
+  - 주최: 솔트웨어
+  - 신청: 06. 17(목) 14:00 ~ 15:00
 - __[메타버스 버추얼 환경구축을 위한 WebXR구현](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=50&lecIdx=17&proIdx=83&selYear=&selApplyStatus=)__
   - 분류: `교육`, `GO lang`, `스터디`, `온라인`
   - 주최: XR Campus
   - 일시: 06. 16(수) 09:00 ~ 06. 18(수) 18:00
-- __[Quarkus World Tour 2021 Korea](https://festa.io/events/1615)__
-  - 분류: `Java`
-  - 주최: JBUG Korea
-  - 신청: 06. 17(목) 21:30 ~ 22:30
 - __[인공지능 그랜드 챌린지 5차 대회](https://www.ai-challenge.kr/#none)__
   - 분류: `인공지능`
   - 주최: 과학기술정보통신부
@@ -262,6 +270,10 @@
   - 분류: `모임`
   - 주최: 카우치코딩
   - 신청: 05. 31(월) ~ 06. 25(금)
+- __[TOBIG'S 16기 모집](https://www.notion.so/16-6d90c15463de402590b2d03b3c9dae26)__
+  - 분류: `교육`, `데이터`
+  - 주최: 투빅스
+  - 모집: 06. 07(월) ~ 06. 26(금)
 - __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
   - 분류: `보안`
   - 주최: 직퀘스트
