@@ -239,7 +239,7 @@
   - 주최: 과학기술정보통신부
   - 신청: 06. 16(수) ~ 06. 18(금)
 - __[엘리스 AI 과정튜터모집](https://forms.gle/PtaTfFFrmJAN4P2n8)__
-  - 분류: `웨비나`
+  - 분류: `교육`, `튜터`
   - 주최: 앨리스
   - 신청: 06. 08(화) 12:00 ~ 06. 19(토) 12:00
 - __[2021 광주스마트미디어X캠프](https://festa.io/events/1613)__
@@ -282,6 +282,10 @@
   - 분류: `교육`, `데이터`
   - 주최: 투빅스
   - 모집: 06. 07(월) ~ 06. 26(금)
+- __[I/O extended Double S - Day 1](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-double-s-day-1/)__
+  - 분류: `컨퍼런스`
+  - 주최: GDG Seoul
+  - 모집: 06. 29(토) 20:00 ~ 22:00
 - __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
   - 분류: `보안`
   - 주최: 직퀘스트
