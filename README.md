@@ -238,6 +238,10 @@
   - 분류: `인공지능`
   - 주최: 과학기술정보통신부
   - 신청: 06. 16(수) ~ 06. 18(금)
+- __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://festa.io/events/1626)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 06. 17(목) 11:00 ~ 12:00
 - __[엘리스 AI 과정튜터모집](https://forms.gle/PtaTfFFrmJAN4P2n8)__
   - 분류: `교육`, `튜터`
   - 주최: 앨리스
@@ -262,6 +266,10 @@
   - 분류: `웨비나`, `안드로이드`
   - 주최: 원티드
   - 일시: 06. 24(목) 19:30 ~ 21:10
+- __[NVIDIA AI DEVELOPER MEETUP (상반기 결산 밋업)](https://www.megazone.com/application_form_startup_webinar-apply-210624/)__
+  - 분류: `웨비나`
+  - 주최: NVIDIA
+  - 일시: 06. 24(목) 14:00 ~ 16:00
 - __[성장하는 서버 개발자 되기](https://www.wanted.co.kr/events/livetalk28)__
   - 분류: `커리어`, `벡엔드`
   - 주최: 원티드
@@ -282,6 +290,10 @@
   - 분류: `교육`, `데이터`
   - 주최: 투빅스
   - 모집: 06. 07(월) ~ 06. 26(금)
+- __[인공지능 프로젝트를 시작하기 전에 알아두어야 할 사항들](https://gc.hosting.kr/gcs_season7/)__
+  - 분류: `컨퍼런스`
+  - 주최: 메가존
+  - 모집: 06. 29(토) 15:00 ~ 16:00
 - __[I/O extended Double S - Day 1](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-double-s-day-1/)__
   - 분류: `컨퍼런스`
   - 주최: GDG Seoul
@@ -304,6 +316,10 @@
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
   - 일시: 07. 06(화) ~ 07. 09(토)
+- __[바로 실행할 수 있는 다양한 QA 이야기](https://www.wanted.co.kr/events/wantedcon23)__
+  - 분류: `컨퍼런스`, `QA`, `유료`
+  - 주최: 원티드
+  - 일시: 07. 09(토) 15:00
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
