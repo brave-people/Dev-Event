@@ -310,11 +310,11 @@
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
-  - 일시: 05. 24(월) ~ 07. 09(토)
+  - 일시: 05. 24(월) ~ 07. 09(금)
 - __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
-  - 일시: 07. 06(화) ~ 07. 09(토)
+  - 일시: 07. 06(화) ~ 07. 09(금)
 - __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
   - 분류: `컨퍼런스`, `웹`, `무료`
   - 주최: 원티드
@@ -326,7 +326,7 @@
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
-  - 일시: 07. 13(화) ~ 07. 14(토)
+  - 일시: 07. 13(화) ~ 07. 14(수)
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
   - 주최: 행전안전부
