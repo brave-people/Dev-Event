@@ -246,6 +246,10 @@
   - 분류: `교육`, `튜터`
   - 주최: 앨리스
   - 신청: 06. 08(화) 12:00 ~ 06. 19(토) 12:00
+- __[10년차 풀스택 개발자에게 배우는 취업 포트폴리오 준비 전략](https://couchcoding.kr/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 카우치코딩
+  - 신청: 06. 19(토) 11:00 ~ 12:00
 - __[2021 광주스마트미디어X캠프](https://festa.io/events/1613)__
   - 분류: `아이디어톤`
   - 주최: 광주정보문화산업진흥원
@@ -307,11 +311,15 @@
 
 ## 21년 07월
 
+- __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
+  - 분류: `멘토링`
+  - 주최: 스마일게이트
+  - 일시: 06. 10(목) ~ 07. 05(월)
+
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
   - 일시: 05. 24(월) ~ 07. 09(토)
-
 - __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
