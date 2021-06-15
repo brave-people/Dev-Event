@@ -28,7 +28,7 @@
 <div align=center>
   <img src="./static/dev-event-subscribe-v2.png">
 
-  Dev Event를 메일로 보내드립니다! [메일 구독하러가기!!](https://github.com/brave-people/Dev-Event-Subscribe) 
+  Dev Event를 메일로 보내드립니다! [메일 구독하러가기!!](https://github.com/brave-people/Dev-Event-Subscribe)
 </div>
 
 <br />
@@ -47,7 +47,7 @@
   1000+스타 감사합니다. <br />
   방문해주신 분, PR로 도움 주신 분들 모두 감사합니다 :)
 
-</div> 
+</div>
 </details>
 <details>
   <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
@@ -319,19 +319,23 @@
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
-  - 일시: 05. 24(월) ~ 07. 09(토)
+  - 일시: 05. 24(월) ~ 07. 09(금)
 - __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
-  - 일시: 07. 06(화) ~ 07. 09(토)
+  - 일시: 07. 06(화) ~ 07. 09(금)
+- __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
+  - 분류: `컨퍼런스`, `웹`, `무료`
+  - 주최: 원티드
+  - 일시: 07. 08(목) 19:00 ~ 21:00
 - __[바로 실행할 수 있는 다양한 QA 이야기](https://www.wanted.co.kr/events/wantedcon23)__
   - 분류: `컨퍼런스`, `QA`, `유료`
   - 주최: 원티드
-  - 일시: 07. 09(토) 15:00
+  - 일시: 07. 09(금) 15:00
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
-  - 일시: 07. 13(화) ~ 07. 14(토)
+  - 일시: 07. 13(화) ~ 07. 14(수)
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
   - 주최: 행전안전부
@@ -362,9 +366,9 @@
 
 ## 개발자 동아리
 
-| 이름 | 활동 | 링크 | 
+| 이름 | 활동 | 링크 |
 |------------|---------|-----------|
-| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트 | [facebook](https://www.facebook.com/dddstudy/)  | 
+| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트 | [facebook](https://www.facebook.com/dddstudy/)  |
 | 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
 | YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
@@ -385,30 +389,30 @@
 
 ## 개발 교육
 
-| 이름 | 링크 | 
+| 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) | 
-| 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) | 
-| CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) | 
-| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) | 
+| 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) |
+| CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) |
+| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) |
 
 <br />
 
 ## 개발자 모임
 
-| 이름 | 링크 | 
+| 이름 | 링크 |
 |------------|-----------|
-| 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) | 
-| DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) | 
-| Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) | 
-| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) | 
+| 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) |
+| DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
+| Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
+| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
 | GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
 | Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
-| IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) | 
-| GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) | 
-| OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) | 
-| 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) | 
-| CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) | 
+| IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
+| GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
+| OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) |
+| 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) |
+| CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) |
 | SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
 | FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
@@ -427,15 +431,15 @@
 
 > 정규적으로 열리는 개발자 행사입니다.
 
-| 이름 | 링크 | 
+| 이름 | 링크 |
 |------------|-----------|
-| TeamH4C | [facebook](https://www.facebook.com/teamh4c/) | 
-| Angel Hack Seoul | [angelhackseoul.kr](https://angelhackseoul.kr/) | 
-| Google HashCode | [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/hashcode/) | 
-| Codeengn | [codeengn.com](https://codeengn.com/conference/) | 
+| TeamH4C | [facebook](https://www.facebook.com/teamh4c/) |
+| Angel Hack Seoul | [angelhackseoul.kr](https://angelhackseoul.kr/) |
+| Google HashCode | [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/hashcode/) |
+| Codeengn | [codeengn.com](https://codeengn.com/conference/) |
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
-| 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) | 
-| DACON | [dacon.io](https://dacon.io) | 
+| 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) |
+| DACON | [dacon.io](https://dacon.io) |
 
 <br />
 <br />
