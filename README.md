@@ -311,15 +311,18 @@
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
   - 일시: 05. 24(월) ~ 07. 09(토)
-
 - __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
   - 일시: 07. 06(화) ~ 07. 09(토)
+- __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
+  - 분류: `컨퍼런스`, `웹`, `무료`
+  - 주최: 원티드
+  - 일시: 07. 08(목) 15:00
 - __[바로 실행할 수 있는 다양한 QA 이야기](https://www.wanted.co.kr/events/wantedcon23)__
   - 분류: `컨퍼런스`, `QA`, `유료`
   - 주최: 원티드
-  - 일시: 07. 09(토) 15:00
+  - 일시: 07. 09(금) 19:00 ~ 21:00
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
