@@ -294,6 +294,10 @@
   - 분류: `교육`, `데이터`
   - 주최: 투빅스
   - 모집: 06. 07(월) ~ 06. 26(금)
+- __[캐치 개발자 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag?from=commu0615)__
+  - 분류: `컨퍼런스`
+  - 주최: 캐치
+  - 모집: 06. 23(수) ~ 06. 29(화)
 - __[인공지능 프로젝트를 시작하기 전에 알아두어야 할 사항들](https://gc.hosting.kr/gcs_season7/)__
   - 분류: `컨퍼런스`
   - 주최: 메가존
@@ -301,11 +305,11 @@
 - __[I/O extended Double S - Day 1](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-double-s-day-1/)__
   - 분류: `컨퍼런스`
   - 주최: GDG Seoul
-  - 모집: 06. 29(토) 20:00 ~ 22:00
+  - 일시: 06. 29(화) 20:00 ~ 22:00
 - __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
   - 분류: `보안`
   - 주최: 직퀘스트
-  - 신청: 05. 16(일) ~ 06. 30(일)
+  - 신청: 05. 16(일) ~ 06. 30(수)
 
 <br />
 
@@ -316,6 +320,10 @@
   - 주최: 스마일게이트
   - 일시: 06. 10(목) ~ 07. 05(월)
 
+- __[Career Talk #18. 누구에게나 처음은 있었다 : Web Developer](https://www.wanted.co.kr/events/careertalk18)__
+  - 분류: `웨비나`, `웹`
+  - 주최: wanted
+  - 일시: 07. 08
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
