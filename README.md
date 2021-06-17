@@ -254,6 +254,10 @@
   - 분류: `아이디어톤`
   - 주최: 광주정보문화산업진흥원
   - 모집: 06. 01(화) ~ 06. 21(월)
+- __[현직 개발자에게 묻는다! 삼성SDS 랜선 멘토링](https://www.samsungsds.com/kr/story/mentoring-0610.html?moreCnt=1&backTypeId=story&category=all)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 삼성SDS
+  - 신청: 06. 10(월) ~ 06. 21(월)
 - __[부스트캠프 웹·모바일 6기](https://boostcamp.connect.or.kr/guide_wm.html)__
   - 분류: `교육`, `웹 풀스택`, `IOS`, `Android`
   - 주최: 네이버
@@ -266,6 +270,10 @@
   - 분류: `웨비나`, `애자일`, `유료`
   - 주최: 에자일 코리아
   - 모집: 06. 23(수) 21:00 ~ 23:00
+- __[RDBMS에서 MongoDB로의 Replacement 전략과 사례](https://bylineplus.com/archives/webinar/14206)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: Byline Plus+
+  - 일시: 06. 24(목) 14:00 ~ 15:00
 - __[Live Talk #29. 성장하는 안드로이드 개발자 되기](https://www.wanted.co.kr/events/livetalk29)__
   - 분류: `웨비나`, `안드로이드`
   - 주최: 원티드
@@ -293,7 +301,7 @@
 - __[TOBIG'S 16기 모집](https://www.notion.so/16-6d90c15463de402590b2d03b3c9dae26)__
   - 분류: `교육`, `데이터`
   - 주최: 투빅스
-  - 모집: 06. 07(월) ~ 06. 26(금)
+  - 모집: 06. 07(월) ~ 06. 26(토)
 - __[캐치 개발자 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag?from=commu0615)__
   - 분류: `컨퍼런스`
   - 주최: 캐치
