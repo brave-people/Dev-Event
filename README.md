@@ -270,18 +270,22 @@
   - 분류: `웨비나`, `애자일`, `유료`
   - 주최: 에자일 코리아
   - 모집: 06. 23(수) 21:00 ~ 23:00
+- __[Follow-me! 클라우드 인프라 구축 기본편](https://register.gotowebinar.com/register/1173559752649905934)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 모집: 06. 24(목) 11:00 ~ 12:00
 - __[RDBMS에서 MongoDB로의 Replacement 전략과 사례](https://bylineplus.com/archives/webinar/14206)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: Byline Plus+
   - 일시: 06. 24(목) 14:00 ~ 15:00
-- __[Live Talk #29. 성장하는 안드로이드 개발자 되기](https://www.wanted.co.kr/events/livetalk29)__
-  - 분류: `웨비나`, `안드로이드`
-  - 주최: 원티드
-  - 일시: 06. 24(목) 19:30 ~ 21:10
 - __[NVIDIA AI DEVELOPER MEETUP (상반기 결산 밋업)](https://www.megazone.com/application_form_startup_webinar-apply-210624/)__
   - 분류: `웨비나`
   - 주최: NVIDIA
   - 일시: 06. 24(목) 14:00 ~ 16:00
+- __[Live Talk #29. 성장하는 안드로이드 개발자 되기](https://www.wanted.co.kr/events/livetalk29)__
+  - 분류: `웨비나`, `안드로이드`
+  - 주최: 원티드
+  - 일시: 06. 24(목) 19:30 ~ 21:10
 - __[성장하는 서버 개발자 되기](https://www.wanted.co.kr/events/livetalk28)__
   - 분류: `커리어`, `벡엔드`
   - 주최: 원티드
@@ -323,6 +327,10 @@
 
 ## 21년 07월
 
+- __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://register.gotowebinar.com/register/7001124212597203467)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 07. 01(목) 11:00 ~ 12:00
 - __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
   - 분류: `멘토링`
   - 주최: 스마일게이트
