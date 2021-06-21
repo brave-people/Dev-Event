@@ -331,15 +331,31 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 01(목) 11:00 ~ 12:00
+
+- __[프라이빗 클라우드에서의 오브젝트 스토리지 활용 방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=74&sc_category=)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 디지털투데이
+  - 일시: 07. 01(목) 14:00 ~ 15:00
+- __[경남 고성 작은 바닷마을에서 진행하는 일주일 살기 안내합니다.](https://festa.io/events/1643)__
+  - 분류: `커뮤니티`
+  - 주최:  바다공룡
+  - 일시: 06. 28(월) 14:00 ~ 07. 04(일) 18:00
 - __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
   - 분류: `멘토링`
   - 주최: 스마일게이트
   - 일시: 06. 10(목) ~ 07. 05(월)
-
 - __[Career Talk #18. 누구에게나 처음은 있었다 : Web Developer](https://www.wanted.co.kr/events/careertalk18)__
   - 분류: `웨비나`, `웹`
   - 주최: wanted
   - 일시: 07. 08
+- __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
+  - 분류: `컨퍼런스`, `웹`, `무료`
+  - 주최: 원티드
+  - 일시: 07. 08(목) 19:00 ~ 21:00
+- __[데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/278972199/)__
+  - 분류: `커뮤니티`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 일시: 07. 08(목) 19:00 ~ 21:00
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
@@ -348,18 +364,22 @@
   - 분류: `컨퍼런스`, `그래픽스`
   - 주최: HPG
   - 일시: 07. 06(화) ~ 07. 09(금)
-- __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
-  - 분류: `컨퍼런스`, `웹`, `무료`
-  - 주최: 원티드
-  - 일시: 07. 08(목) 19:00 ~ 21:00
 - __[바로 실행할 수 있는 다양한 QA 이야기](https://www.wanted.co.kr/events/wantedcon23)__
   - 분류: `컨퍼런스`, `QA`, `유료`
   - 주최: 원티드
   - 일시: 07. 09(금) 15:00
+- __[GDG 썸머 해커톤 w/디프만](https://festa.io/events/1644)__
+  - 분류: `컨퍼런스`, `해커톤`
+  - 주최: GDG Campus Korea
+  - 일시: 07. 03(토) 14:00 ~ 07. 11(일) 23:30
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
   - 일시: 07. 13(화) ~ 07. 14(수)
+- __[리얼리티 캡처와 언리얼 엔진을 활용한 포토그래매트리 3D 스캔 기술](https://www.xrcampus.kr/lecture/viewAll.do?menu_idx=8&amp;proIdx=103&amp;selDate=2021-07-27&amp;fbclid=IwAR1IuaLFwT6Vv76VC0G-sFo-_zo_sc4aaB_oFSlglAQSQa95d-HM-wL5Uuk)__
+  - 분류: `컨퍼런스`, `언리얼`
+  - 주최: XR Campus
+  - 일시: 07. 27(화) 09:00 ~ 07. 29(목) 18:00
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
   - 주최: 행전안전부
