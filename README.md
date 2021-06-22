@@ -266,6 +266,10 @@
   - 분류: `클라우드`
   - 주최: 메가존클라우드
   - 모집: 06. 22(화) 14:00 ~ 16:35
+- __[AWS로 게임 기반 다지기](https://pages.awscloud.com/game-master-online)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 모집: 06. 22(화) 13:00 ~ 17:00
 - __[애자일 코리아 6월 밋업 ‘애코컨 그 다음 이야기 Ep.2’](https://festa.io/events/1617)__
   - 분류: `웨비나`, `애자일`, `유료`
   - 주최: 에자일 코리아
@@ -372,6 +376,10 @@
   - 분류: `컨퍼런스`, `해커톤`
   - 주최: GDG Campus Korea
   - 일시: 07. 03(토) 14:00 ~ 07. 11(일) 23:30
+- __[Samsung Collegiate Programming Cup 2021](https://research.samsung.com/scpc)__
+  - 분류: `컨퍼런스`, `알고리즘`
+  - 주최: 삼성
+  - 일시: 06. 15(화) ~ 07. 13(화)
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
@@ -387,6 +395,15 @@
 
 <br />
 
+## 21년 08월
+
+- __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 모집: 08. 24(화) 13:00 ~ 17:00
+
+<br />
+
 ## 21년 09월
 
 - __[Upbit Developer Conference 2021](https://udc.upbit.com/)__
@@ -395,6 +412,16 @@
   - 일시: 09. 01(수) ~ 09. 02(목)
 
 <br />
+
+## 21년 10월
+
+- __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 모집: 10. 26(화) 13:00 ~ 17:00
+
+<br />
+
 
 ## 21년 12월
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
