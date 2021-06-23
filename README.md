@@ -336,6 +336,10 @@
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 01(목) 11:00 ~ 12:00
 
+- __[Hyperledger Meetup Korea #29](https://www.meetup.com/ko-KR/Hyperledger-Korea/events/278997952/)__
+  - 분류: `웨비나`, `ESG`, `Ansible`
+  - 주최: Hyperledger Korea User Group
+  - 일시: 07. 01(목) 19:00 ~ 20:00
 - __[프라이빗 클라우드에서의 오브젝트 스토리지 활용 방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=74&sc_category=)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 디지털투데이
@@ -348,6 +352,10 @@
   - 분류: `멘토링`
   - 주최: 스마일게이트
   - 일시: 06. 10(목) ~ 07. 05(월)
+- __[쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기](https://docs.google.com/forms/d/e/1FAIpQLScAsjFKjx3WMX0Qapjaxi1FyADOaimnOTLpgp0kQhop62KTWA/viewform)__
+  - 분류: `웨비나`, `테스트`
+  - 주최: HACKLE
+  - 일시: 07. 07(수) 19:00 ~ 20:00
 - __[Career Talk #18. 누구에게나 처음은 있었다 : Web Developer](https://www.wanted.co.kr/events/careertalk18)__
   - 분류: `웨비나`, `웹`
   - 주최: wanted
@@ -380,6 +388,10 @@
   - 분류: `컨퍼런스`, `알고리즘`
   - 주최: 삼성
   - 일시: 06. 15(화) ~ 07. 13(화)
+- __[제니퍼 7월 정기교육](https://jennifersoft.com/ko/edu/%EC%A0%9C%EB%8B%88%ED%8D%BC-7%EC%9B%94-%EC%A0%95%EA%B8%B0%EA%B5%90%EC%9C%A1/)__
+  - 분류: `웨비나`, `모니터링`
+  - 주최: 제니퍼소프트
+  - 일시: 07. 14(수) 14:00 ~ 17:30
 - __[MONGODB LIVE](https://www.mongodb.com/live)__
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
@@ -396,6 +408,11 @@
 <br />
 
 ## 21년 08월
+
+- __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
+  - 분류: `대회`, `자연러` 
+  - 주최: DACON
+  - 모집: 06. 21(월) ~ 08. 16(월) 17:59
 
 - __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
