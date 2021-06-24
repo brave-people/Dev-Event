@@ -348,6 +348,10 @@
   - 분류: `커뮤니티`
   - 주최:  바다공룡
   - 일시: 06. 28(월) 14:00 ~ 07. 04(일) 18:00
+- __[스틸리언, 보안 멘토링 프로그램(SSL) 2기](https://www.stealien.com/company/notice?tpf=board/view&board_code=1&code=457)__
+  - 분류: `멘토링`, `보안`
+  - 주최: 스틸리언
+  - 신청: 06. 21(월) ~ 07. 04(일)
 - __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
   - 분류: `멘토링`
   - 주최: 스마일게이트
@@ -380,6 +384,10 @@
   - 분류: `컨퍼런스`, `QA`, `유료`
   - 주최: 원티드
   - 일시: 07. 09(금) 15:00
+- __[[코딩이랑 무관합니다만X스한모]게임이랑 무관합니다만,](https://festa.io/events/1649)__
+  - 분류: `웨비나`, `게임`
+  - 주최: 코딩이란 무관합니다만,
+  - 일시: 07. 10(토) 14:00 ~ 16:00
 - __[GDG 썸머 해커톤 w/디프만](https://festa.io/events/1644)__
   - 분류: `컨퍼런스`, `해커톤`
   - 주최: GDG Campus Korea
