@@ -310,6 +310,10 @@
   - 분류: `교육`, `데이터`
   - 주최: 투빅스
   - 모집: 06. 07(월) ~ 06. 26(토)
+- __[바벨TOP : 6월](https://docs.google.com/forms/d/e/1FAIpQLSfW3euFksk9yKO_VjLC6bq-y-rg7_fjwnHIGttjRGbWEyi_Ng/viewform)__
+  - 분류: `모임`, `NLP`
+  - 주최: 바벨피쉬
+  - 모집: 06. 26(토) 15:00 ~ 18:00
 - __[캐치 개발자 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag?from=commu0615)__
   - 분류: `컨퍼런스`
   - 주최: 캐치
@@ -331,11 +335,15 @@
 
 ## 21년 07월
 
+- __[클라우드 네이티브 보안과 SASE](https://bylineplus.com/archives/webinar/13754)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 바이라인네트워크
+  - 일시: 06. 29(화) ~ 07. 01(목) 14:00 ~ 17:00
+
 - __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://register.gotowebinar.com/register/7001124212597203467)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 01(목) 11:00 ~ 12:00
-
 - __[Hyperledger Meetup Korea #29](https://www.meetup.com/ko-KR/Hyperledger-Korea/events/278997952/)__
   - 분류: `웨비나`, `ESG`, `Ansible`
   - 주최: Hyperledger Korea User Group
@@ -352,6 +360,10 @@
   - 분류: `멘토링`, `보안`
   - 주최: 스틸리언
   - 신청: 06. 21(월) ~ 07. 04(일)
+- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
+  - 분류: `교육`, `무료`
+  - 주최: 양재동코드랩
+  - 일시: 07. 03(토) 10:00 ~ 17:00
 - __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
   - 분류: `멘토링`
   - 주최: 스마일게이트
@@ -388,6 +400,10 @@
   - 분류: `웨비나`, `게임`
   - 주최: 코딩이란 무관합니다만,
   - 일시: 07. 10(토) 14:00 ~ 16:00
+- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
+  - 분류: `교육`, `무료`
+  - 주최: 양재동코드랩
+  - 일시: 07. 10(토) 10:00 ~ 17:00
 - __[GDG 썸머 해커톤 w/디프만](https://festa.io/events/1644)__
   - 분류: `컨퍼런스`, `해커톤`
   - 주최: GDG Campus Korea
@@ -404,10 +420,18 @@
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
   - 일시: 07. 13(화) ~ 07. 14(수)
+- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
+  - 분류: `교육`, `무료`
+  - 주최: 양재동코드랩
+  - 일시: 07. 24(토) 10:00 ~ 17:00
 - __[리얼리티 캡처와 언리얼 엔진을 활용한 포토그래매트리 3D 스캔 기술](https://www.xrcampus.kr/lecture/viewAll.do?menu_idx=8&amp;proIdx=103&amp;selDate=2021-07-27&amp;fbclid=IwAR1IuaLFwT6Vv76VC0G-sFo-_zo_sc4aaB_oFSlglAQSQa95d-HM-wL5Uuk)__
   - 분류: `컨퍼런스`, `언리얼`
   - 주최: XR Campus
   - 일시: 07. 27(화) 09:00 ~ 07. 29(목) 18:00
+- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
+  - 분류: `교육`, `무료`
+  - 주최: 양재동코드랩
+  - 일시: 07. 30(토) 10:00 ~ 17:00
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
   - 주최: 행전안전부
