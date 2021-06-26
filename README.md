@@ -321,7 +321,7 @@
 - __[인공지능 프로젝트를 시작하기 전에 알아두어야 할 사항들](https://gc.hosting.kr/gcs_season7/)__
   - 분류: `컨퍼런스`
   - 주최: 메가존
-  - 모집: 06. 29(토) 15:00 ~ 16:00
+  - 모집: 06. 29(화) 15:00 ~ 16:00
 - __[I/O extended Double S - Day 1](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-double-s-day-1/)__
   - 분류: `컨퍼런스`
   - 주최: GDG Seoul
