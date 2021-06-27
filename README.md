@@ -40,7 +40,7 @@
   ## 🎈 Dev Event Android(Beta) 공개
 
   <div align=center>
-  <img src="https://github.com/brave-people/Dev-Event-Android/blob/master/banner.png?raw=true">
+  <img src="https://github.com/brave-people/Dev-Event-Android/blob/master/images/banner.png?raw=true">
     
   👉 [Dev Event Android 바로가기](https://github.com/brave-people/Dev-Event-Android)
 
