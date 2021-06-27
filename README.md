@@ -35,6 +35,21 @@
 <br />
 
 <details>
+  <summary>[21. 06. 27] Dev Event Android(Beta) 공개 </summary>
+
+  ## 🎈 Dev Event Android(Beta) 공개
+
+  <div align=center>
+  <img src="https://github.com/brave-people/Dev-Event-Android/blob/master/banner.png?raw=true">
+    
+  👉 [Dev Event Android 바로가기](https://github.com/brave-people/Dev-Event-Android)
+
+  "용감한 친구들"의 프로젝트 Dev event의 Android 버전이 공개되었습니다! <br />
+  아직 베타 단계이므로, 더욱 개선된 정식 버전을 향한 여러분들의 의견과 많은 관심 부탁드립니다! 🥰
+
+  </div>
+</details>
+<details>
   <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
 
   ## DEV EVENT 1000+스타
