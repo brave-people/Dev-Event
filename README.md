@@ -37,7 +37,7 @@
 ## 🎈 Dev Event Android(Beta) 공개
 
 <div align=center>
-<img src="./static/android-1v.png?raw=true">
+<img src="./static/android-2v.png?raw=true">
 
 👉 [Dev Event Android 바로가기](https://github.com/brave-people/Dev-Event-Android)
 
@@ -367,6 +367,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 디지털투데이
   - 일시: 07. 01(목) 14:00 ~ 15:00
+- __[useR! 2021 Korea 웹사이트 Hands-on](https://festa.io/events/1653)__
+  - 분류: `R언어`
+  - 주최: 데이터 사이언스 Meetup
+  - 일시: 07. 02(금) 19:00 ~ 20:30
 - __[경남 고성 작은 바닷마을에서 진행하는 일주일 살기 안내합니다.](https://festa.io/events/1643)__
   - 분류: `커뮤니티`
   - 주최:  바다공룡
@@ -383,6 +387,10 @@
   - 분류: `멘토링`
   - 주최: 스마일게이트
   - 일시: 06. 10(목) ~ 07. 05(월)
+- __[개발자를 위한 AWS A to Z 온라인 세미나](https://register.gotowebinar.com/register/78672671823989519)__
+  - 분류: `웨비나`, `AWS`
+  - 주최: AWS
+  - 일시: 07. 07(수) 14:00 ~ 16:00
 - __[쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기](https://docs.google.com/forms/d/e/1FAIpQLScAsjFKjx3WMX0Qapjaxi1FyADOaimnOTLpgp0kQhop62KTWA/viewform)__
   - 분류: `웨비나`, `테스트`
   - 주최: HACKLE
