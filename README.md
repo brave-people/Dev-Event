@@ -146,36 +146,6 @@
 
 <br />
 
-## 21년 06월
-
-- __[캐치 개발자 커리어콘](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag?from=commu0615)__
-  - 분류: `컨퍼런스`
-  - 주최: 캐치
-  - 모집: 06. 23(수) ~ 06. 29(화)
-
-- __[인공지능 프로젝트를 시작하기 전에 알아두어야 할 사항들](https://gc.hosting.kr/gcs_season7/)__
-  - 분류: `컨퍼런스`
-  - 주최: 메가존
-  - 모집: 06. 29(화) 15:00 ~ 16:00
-- __[I/O extended Double S - Day 1](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-double-s-day-1/)__
-  - 분류: `컨퍼런스`
-  - 주최: GDG Seoul
-  - 일시: 06. 29(화) 20:00 ~ 22:00
-- __[직퀘스트 버그바운티 공모전](https://blog.naver.com/zigquest/222346170171)__
-  - 분류: `보안`
-  - 주최: 직퀘스트
-  - 신청: 05. 16(일) ~ 06. 30(수)
-- __[DevAx::connect - AWS Amplify로 Full-stack application 개발 해볼까요?](https://www.meetup.com/ko-KR/Developers-IO-Korea/events/278821676/)__
-  - 분류: `웨비나`, `AWS`
-  - 주최: AWSKRUG
-  - 신청: 06. 30(수) 18:00 ~ 20:00
-- __[DevelopersIO Korea Online](https://www.meetup.com/ko-KR/Developers-IO-Korea/events/278821676/)__
-  - 분류: `AWS`
-  - 주최: DevelopersIO Korea 
-  - 신청: 06. 30(수) 19:00 ~ 21:00
-
-<br />
-
 ## 21년 07월
 
 - __[클라우드 네이티브 보안과 SASE](https://bylineplus.com/archives/webinar/13754)__
@@ -223,6 +193,10 @@
   - 분류: `웨비나`, `테스트`
   - 주최: HACKLE
   - 일시: 07. 07(수) 19:00 ~ 20:00
+- __[[Talk&Talk] Fireside chat with MongoDB!](https://register.gotowebinar.com/register/4991024542737798156)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 07. 08(목) 11:00 ~ 12:00
 - __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
   - 분류: `컨퍼런스`, `웹`, `무료`
   - 주최: 원티드
@@ -255,6 +229,10 @@
   - 분류: `컨퍼런스`, `해커톤`
   - 주최: GDG Campus Korea
   - 일시: 07. 03(토) 14:00 ~ 07. 11(일) 23:30
+- __[자율운영데이터웨어하우스 데모웨비나](https://go.oracle.com/LP=112858)__
+  - 분류: `웨비나`, `데이터베이스`
+  - 주최: 오라클
+  - 일시: 07. 13(수) 16:00 ~ 17:35
 - __[Samsung Collegiate Programming Cup 2021](https://research.samsung.com/scpc)__
   - 분류: `컨퍼런스`, `알고리즘`
   - 주최: 삼성
