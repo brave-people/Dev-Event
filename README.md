@@ -237,6 +237,10 @@
   - 분류: `컨퍼런스`, `알고리즘`
   - 주최: 삼성
   - 일시: 06. 15(화) ~ 07. 13(화)
+- __[가짜연구소 3기 러너(스터디원 및 크루) 모집](https://docs.google.com/forms/d/e/1FAIpQLSdh9SLgltYczvkD-7zs7f-5629D2HuwoLe7-x8IIB6tAWMh7g/viewform)__
+  - 분류: `스터디`, `인공지능`
+  - 주최: 가짜연구소
+  - 모집: 07. 01(목) ~ 07. 13(화)
 - __[제니퍼 7월 정기교육](https://jennifersoft.com/ko/edu/%EC%A0%9C%EB%8B%88%ED%8D%BC-7%EC%9B%94-%EC%A0%95%EA%B8%B0%EA%B5%90%EC%9C%A1/)__
   - 분류: `웨비나`, `모니터링`
   - 주최: 제니퍼소프트
