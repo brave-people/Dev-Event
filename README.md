@@ -34,14 +34,14 @@
 <br />
 <br />
 
-## 🎈 Dev Event Android 공개
+## 🎈 Dev Event Android
 
 <div align=center>
 <img src="./static/android-2v.png?raw=true">
 
 👉 [Dev Event Android 바로가기](https://github.com/brave-people/Dev-Event-Android)
 
-"용감한 친구들"의 프로젝트 Dev event의 Android 버전이 공개되었습니다! <br />
+"용감한 친구들"의 프로젝트 Dev event의 Android 버전이 출시되었습니다! <br />
 앞으로 더 개선될 앱을 향한 여러분들의 의견과 많은 관심 부탁드립니다! 🥰
 
 </div>
