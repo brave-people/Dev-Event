@@ -275,7 +275,7 @@
 ## 21년 08월
 
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
-  - 분류: `대회`, `자연러` 
+  - 분류: `대회`, `자연어` 
   - 주최: DACON
   - 모집: 06. 21(월) ~ 08. 16(월) 17:59
 
