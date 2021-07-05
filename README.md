@@ -253,6 +253,10 @@
   - 분류: `대회`
   - 주최: 과학기술정보통신부
   - 신청: 06. 23(수) ~ 07. 23(금)
+- __[GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들](https://www.meetup.com/ko-KR/github-virtual-meetup-in-korea/events/279136111/)__
+  - 분류: `교육`, `무료`
+  - 주최: meetup
+  - 일시: 07. 20(화) 19:00 ~ 20:00
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
@@ -264,7 +268,7 @@
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
-  - 일시: 07. 30(토) 10:00 ~ 17:00
+  - 일시: 07. 31(토) 10:00 ~ 17:00
 - __[2021 전자정부 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1820)__
   - 분류: `오픈소스`
   - 주최: 행전안전부
