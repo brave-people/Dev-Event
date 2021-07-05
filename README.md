@@ -193,6 +193,10 @@
   - 분류: `웨비나`, `테스트`
   - 주최: HACKLE
   - 일시: 07. 07(수) 19:00 ~ 20:00
+- __[이뮤터블 클라우드를 위한 작은 첫발](https://register.gotowebinar.com/register/2578966511402957836?source=NAVER+Cloud+Platform)__
+  - 분류: `웨비나`, `이뮤터블 클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 07. 08(목) 10:00 ~ 11:30
 - __[[Talk&Talk] Fireside chat with MongoDB!](https://register.gotowebinar.com/register/4991024542737798156)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: 네이버 클라우드 플랫폼
@@ -205,6 +209,10 @@
   - 분류: `커뮤니티`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 07. 08(목) 19:00 ~ 21:00
+- __[[useR! 2021 Korea] R 컨퍼런스 포스터 제작](https://programmers.co.kr/learn/courses/12177)__
+  - 분류: `컨퍼런스`, `R언어`
+  - 주최: 데이터 사이언스
+  - 일시: 07. 09(금) 19:00 ~ 21:00
 - __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
   - 분류: `교육`, `클라우드`, `벡엔드`
   - 주최: 프로그래머스
@@ -249,6 +257,10 @@
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
   - 일시: 07. 13(화) ~ 07. 14(수)
+- __[2021 ICT이노베이션스퀘어 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfLii46xKZZrsAlRN4l0Vx9osrk0_jL2Mm6HwE8eN3r4GUCPg/viewform)__
+  - 분류: `세미나`, `데이터분석`
+  - 주최: ICT이노베이션스퀘어
+  - 일시: 07. 15(목) 19:30 ~ 
 - __[2021 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `대회`
   - 주최: 과학기술정보통신부
