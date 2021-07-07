@@ -257,6 +257,11 @@
   - 분류: `컨퍼런스`, `mongoDB`, `영어`
   - 주최: mongoDB
   - 일시: 07. 13(화) ~ 07. 14(수)
+  - 일시: 07. 20(화) 19:00 ~ 20:00
+- __[Deep Dive into Cloud DB for MongoDB](https://register.gotowebinar.com/register/5564332995204398348)__
+  - 분류: `온라인`, `애자일`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 07. 15(목) 11:00 ~ 12:00
 - __[2021 ICT이노베이션스퀘어 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfLii46xKZZrsAlRN4l0Vx9osrk0_jL2Mm6HwE8eN3r4GUCPg/viewform)__
   - 분류: `세미나`, `데이터분석`
   - 주최: ICT이노베이션스퀘어
@@ -269,6 +274,10 @@
   - 분류: `교육`, `무료`
   - 주최: meetup
   - 일시: 07. 20(화) 19:00 ~ 20:00
+- __[애자일 코리아 7월 밋업 ‘Open Practice Library’](https://festa.io/events/1669)__
+  - 분류: `온라인`, `애자일`
+  - 주최: 애자일 코리아
+  - 일시: 07. 21(수) 21:00 ~ 23:00
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
@@ -277,6 +286,10 @@
   - 분류: `오픈소스`
   - 주최: 과학기술정보통신부
   - 신청: 07. 05(월) ~ 07. 26(월)
+- __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
+  - 분류: `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 신청: 07. 26(월)
 - __[리얼리티 캡처와 언리얼 엔진을 활용한 포토그래매트리 3D 스캔 기술](https://www.xrcampus.kr/lecture/viewAll.do?menu_idx=8&amp;proIdx=103&amp;selDate=2021-07-27&amp;fbclid=IwAR1IuaLFwT6Vv76VC0G-sFo-_zo_sc4aaB_oFSlglAQSQa95d-HM-wL5Uuk)__
   - 분류: `컨퍼런스`, `언리얼`
   - 주최: XR Campus
