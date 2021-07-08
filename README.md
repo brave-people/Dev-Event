@@ -249,6 +249,10 @@
   - 분류: `스터디`, `인공지능`
   - 주최: 가짜연구소
   - 모집: 07. 01(목) ~ 07. 13(화)
+- __[MONGODB LIVE](https://www.mongodb.com/live?utm_campaign=live2021_korea_regi&utm_source=naver_cloud&utm_medium=webinar)__
+  - 분류: `웨비나`, `mongodb` 
+  - 주최: mogodb
+  - 모집: 07. 13(화) ~ 07. 14(수)
 - __[제니퍼 7월 정기교육](https://jennifersoft.com/ko/edu/%EC%A0%9C%EB%8B%88%ED%8D%BC-7%EC%9B%94-%EC%A0%95%EA%B8%B0%EA%B5%90%EC%9C%A1/)__
   - 분류: `웨비나`, `모니터링`
   - 주최: 제니퍼소프트
@@ -294,6 +298,14 @@
   - 분류: `컨퍼런스`, `언리얼`
   - 주최: XR Campus
   - 일시: 07. 27(화) 09:00 ~ 07. 29(목) 18:00
+- __[2021 삼성 주니어 SW 창작대회 멘토 지원](https://docs.google.com/forms/d/e/1FAIpQLSd0E6Mz28gic8SeSwb-QJuSodRfL3zjGEUXXW5grVJrBJ_EyA/viewform)__
+  - 분류: `멘토`
+  - 주최: 삼성
+  - 일시: 07. 08(목) ~ 07. 27(화)
+- __[On-Device 머신러닝을 위한 모델 최적화](https://edu2.kosta.or.kr/lectures/courseInfo/737)__
+  - 분류: `교육`, `머신러닝`
+  - 주최: KOSTA
+  - 신청: 07. 26(월) ~ 07. 28(수)
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
