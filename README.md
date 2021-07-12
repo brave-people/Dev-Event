@@ -266,6 +266,14 @@
   - 분류: `온라인`, `애자일`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 15(목) 11:00 ~ 12:00
+- __[7월 Tech 세미나 - 다양한 클라우드 네트워크 연동 방법](https://devocean.sk.com/events/view.do?id=80)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: DEVOCEAN
+  - 일시: 07. 15(목) 15:00 ~ 17:00
+- __[개발자에게 좋은 이직/퇴사를 위한 꿀팁](https://okky.kr/article/993222)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: OKKY
+  - 일시: 07. 15(목) 19:30 ~ 20:30
 - __[2021 ICT이노베이션스퀘어 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfLii46xKZZrsAlRN4l0Vx9osrk0_jL2Mm6HwE8eN3r4GUCPg/viewform)__
   - 분류: `세미나`, `데이터분석`
   - 주최: ICT이노베이션스퀘어
