@@ -350,6 +350,10 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
+- __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
+  - 분류: `컨퍼런스`, `프론트엔드`
+  - 주최: FEConf
+  - 일시: 10. 30(토)
 
 <br />
 
@@ -442,6 +446,7 @@
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
 | 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) |
 | DACON | [dacon.io](https://dacon.io) |
+| FEConf | [feconf.kr](https://feconf.kr/)|
 
 <br />
 <br />
