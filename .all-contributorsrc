@@ -222,6 +222,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "PARKINHYO",
+      "name": "INHYO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47745785?v=4",
+      "profile": "http://ihp001.tistory.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
