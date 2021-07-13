@@ -283,18 +283,30 @@
   - 분류: `온라인`, `채용`
   - 주최: 당근마켓
   - 일시: 07. 15(목) 19:30 ~ 21:00
-- __[2021 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
-  - 분류: `대회`
-  - 주최: 과학기술정보통신부
-  - 신청: 06. 23(수) ~ 07. 23(금)
+- __[Animal Dataton Korea](https://github.com/AnimalDatathonKorea/adk2021)__
+  - 분류: `AI`, `해커톤` 
+  - 주최: 농축산식품부
+  - 접수: 05. 26(수) ~ 07. 16(금)
+- __[비전공자를 위한 이해할 수 있는 IT 지식](https://docs.google.com/forms/d/1ZbOGQNeoGxOlScITR7VHA_wn9_6RIWWdIg-oFSUFiPE/viewform?edit_requested=true/adk2021)__
+  - 분류: `네트워크`, `멘토링`
+  - 주최: 성동구 청년 일다방
+  - 일시: 07. 20(화) 14:00 ~ 16:00
 - __[GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들](https://www.meetup.com/ko-KR/github-virtual-meetup-in-korea/events/279136111/)__
   - 분류: `교육`, `무료`
   - 주최: meetup
   - 일시: 07. 20(화) 19:00 ~ 20:00
+- __[코오롱 네트워크 관리자는 어떻게 일할까?](https://docs.google.com/forms/d/1ZbOGQNeoGxOlScITR7VHA_wn9_6RIWWdIg-oFSUFiPE/viewform?edit_requested=true/adk2021)__
+  - 분류: `네트워크`, `멘토링`
+  - 주최: 성동구 청년 일다방
+  - 일시: 07. 21(수) 14:00 ~ 16:00
 - __[애자일 코리아 7월 밋업 ‘Open Practice Library’](https://festa.io/events/1669)__
   - 분류: `온라인`, `애자일`
   - 주최: 애자일 코리아
   - 일시: 07. 21(수) 21:00 ~ 23:00
+- __[2021 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
+  - 분류: `대회`
+  - 주최: 과학기술정보통신부
+  - 신청: 06. 23(수) ~ 07. 23(금)
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
