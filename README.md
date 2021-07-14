@@ -287,10 +287,22 @@
   - 분류: `AI`, `해커톤` 
   - 주최: 농축산식품부
   - 접수: 05. 26(수) ~ 07. 16(금)
+- __[2021 오픈소스 컨트리뷰션 아카데미](https://festa.io/events/1682)__
+  - 분류: `웨비나`, `오픈소스` 
+  - 주최: Open Up
+  - 접수: 07. 17(토) 13:30 ~ 16:30
 - __[비전공자를 위한 이해할 수 있는 IT 지식](https://docs.google.com/forms/d/1ZbOGQNeoGxOlScITR7VHA_wn9_6RIWWdIg-oFSUFiPE/viewform?edit_requested=true/adk2021)__
   - 분류: `네트워크`, `멘토링`
   - 주최: 성동구 청년 일다방
   - 일시: 07. 20(화) 14:00 ~ 16:00
+- __[Watcha와 함께 하는 슬기로운 DevSecOps 생활](https://www.datadoghq.com/ko/event/watchawebinar/)__
+  - 분류: `웨비나`
+  - 주최: DATADOG
+  - 일시: 07. 20(화) 16:00
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/279274095/)__
+  - 분류: `웨비나`, `컨테이너`
+  - 주최: AWSKRUG
+  - 일시: 07. 20(화) 19:00 ~ 20:30
 - __[GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들](https://www.meetup.com/ko-KR/github-virtual-meetup-in-korea/events/279136111/)__
   - 분류: `교육`, `무료`
   - 주최: meetup
@@ -303,6 +315,10 @@
   - 분류: `온라인`, `애자일`
   - 주최: 애자일 코리아
   - 일시: 07. 21(수) 21:00 ~ 23:00
+- __[[AWS X Megazone] DevOps Immersion Day](https://register.gotowebinar.com/register/2910054751628433679)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존
+  - 일시: 07. 22(목) 14:00 ~ 17:30
 - __[2021 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `대회`
   - 주최: 과학기술정보통신부
@@ -349,6 +365,10 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 08. 24(화) 13:00 ~ 17:00
+- __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
+  - 분류: `대회`, `AI` 
+  - 주최: KB 국민은행
+  - 예선: ~ 08. 29(일)
 
 <br />
 
