@@ -319,6 +319,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존
   - 일시: 07. 22(목) 14:00 ~ 17:30
+- __[개발자와 기업을 잇는 커뮤니케이션 전략, Developer Relations](https://docs.google.com/forms/d/e/1FAIpQLSdBED8tYobPYvn_gpokkUkC24DxNXJBNKOsTyMXc7piQiqm-A/viewform)__
+  - 분류: `웨비나`
+  - 주최: ICT이노베이션스퀘어
+  - 일시: 07. 22(목) 19:00
 - __[2021 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `대회`
   - 주최: 과학기술정보통신부
@@ -343,6 +347,10 @@
   - 분류: `교육`, `머신러닝`
   - 주최: KOSTA
   - 신청: 07. 26(월) ~ 07. 28(수)
+- __[SSAC 영상 처리를 위한 인공지능 SW 개발자 양성 과정](https://playdata.io/ssac_ai_14th)__
+  - 분류: `교육`, `머신러닝`
+  - 주최: SSAC
+  - 신청:  ~ 07. 30(금)
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
@@ -361,6 +369,10 @@
   - 주최: DACON
   - 모집: 06. 21(월) ~ 08. 16(월) 17:59
 
+- __[마이데이터 비즈니스 아이디어 공모전](https://docs.google.com/forms/d/e/1FAIpQLSfTPsINdKNqZ-tsQpZ9Ne-vr4z0DksK2MXIuc_yFICvH6HyJw/viewform)__
+  - 분류: `아이디어톤` 
+  - 주최: 과학기술정보통신부
+  - 모집: 07. 14(수) ~ 08. 17(화) 17:00
 - __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
