@@ -315,6 +315,10 @@
   - 분류: `온라인`, `애자일`
   - 주최: 애자일 코리아
   - 일시: 07. 21(수) 21:00 ~ 23:00
+- __[Follow-me! 클라우드 인프라 구축 기본편](https://festa.io/events/1689)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 07. 22(목) 11:00 ~ 12:00
 - __[[AWS X Megazone] DevOps Immersion Day](https://register.gotowebinar.com/register/2910054751628433679)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존
@@ -359,11 +363,20 @@
   - 분류: `오픈소스`
   - 주최: 행전안전부
   - 일시: 03. 31(수) ~ 07. 31(토)
+- __[2021 빗썸 테크 아카데미 모집](https://m.saramin.co.kr/job-search/view?rec_idx=40669190&is_apply_statics_auto_focus=)__
+  - 분류: `교육`
+  - 주최: 빗썸
+  - 일시: 07. 19(월) ~ 07. 31(토)
+
 
 <br />
 
 ## 21년 08월
 
+- __[소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software/award)__
+  - 분류: `해커톤`, `보안` 
+  - 주최: 행정안전부
+  - 모집: 07. 12(월) ~ 08. 04(수)
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
