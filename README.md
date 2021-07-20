@@ -335,10 +335,18 @@
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
   - 일시: 07. 24(토) 10:00 ~ 17:00
+- __[2nd Kaggle Days Meetup in Seoul](https://event-us.kr/pseudolab/event/341485)__
+  - 분류: `케글`
+  - 주최: 가짜연구소
+  - 일시: 07. 24(토) 20:00 ~ 21:00
 - __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
   - 분류: `오픈소스`
   - 주최: 과학기술정보통신부
   - 신청: 07. 05(월) ~ 07. 26(월)
+- __[SW개발 방법론](https://event-us.kr/SWTECH/event/34086)__
+  - 분류: `웨비나`
+  - 주최: 과학기술정보통신부
+  - 신청: 07. 27(화) 14:00 ~ 16:30
 - __[리얼리티 캡처와 언리얼 엔진을 활용한 포토그래매트리 3D 스캔 기술](https://www.xrcampus.kr/lecture/viewAll.do?menu_idx=8&amp;proIdx=103&amp;selDate=2021-07-27&amp;fbclid=IwAR1IuaLFwT6Vv76VC0G-sFo-_zo_sc4aaB_oFSlglAQSQa95d-HM-wL5Uuk)__
   - 분류: `컨퍼런스`, `언리얼`
   - 주최: XR Campus
@@ -367,11 +375,19 @@
   - 분류: `교육`
   - 주최: 빗썸
   - 일시: 07. 19(월) ~ 07. 31(토)
-
+- __[DDD 6기 모집](https://www.notion.so/6-15692a933b21428d8593a62e4361c367)__
+  - 분류: `동아리`
+  - 주최: DDD
+  - 모집: 07. 19(월) ~ 07. 31(토)
 
 <br />
 
 ## 21년 08월
+
+- __[게기스 제1회 온라인 게임잼 대환장 파티!](https://www.onoffmix.com/event/240428)__
+  - 분류: `웨비나`, `게임`
+  - 주최: 써니라이더
+  - 일시: 07. 30(금) 21:00 ~ 08. 01(일) 23:45
 
 - __[소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software/award)__
   - 분류: `해커톤`, `보안` 
@@ -381,7 +397,6 @@
   - 분류: `대회`, `자연어` 
   - 주최: DACON
   - 모집: 06. 21(월) ~ 08. 16(월) 17:59
-
 - __[마이데이터 비즈니스 아이디어 공모전](https://docs.google.com/forms/d/e/1FAIpQLSfTPsINdKNqZ-tsQpZ9Ne-vr4z0DksK2MXIuc_yFICvH6HyJw/viewform)__
   - 분류: `아이디어톤` 
   - 주최: 과학기술정보통신부
@@ -412,6 +427,7 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
+
 - __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
