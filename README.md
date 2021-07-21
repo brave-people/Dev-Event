@@ -136,7 +136,7 @@
 > 좋은 행사 놓쳐서 후회하면 무엇하리.. 자주 확인하여 참석합시다 :)
 
 - 2020년: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
-- 2021년: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), , [06월](./2021/21_06.md)
+- 2021년: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md)
 
 <br />
 
@@ -149,172 +149,10 @@
 
 ## 21년 07월
 
-- __[클라우드 네이티브 보안과 SASE](https://bylineplus.com/archives/webinar/13754)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 바이라인네트워크
-  - 일시: 06. 29(화) ~ 07. 01(목) 14:00 ~ 17:00
-
-- __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://register.gotowebinar.com/register/7001124212597203467)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 07. 01(목) 11:00 ~ 12:00
-- __[Hyperledger Meetup Korea #29](https://www.meetup.com/ko-KR/Hyperledger-Korea/events/278997952/)__
-  - 분류: `웨비나`, `ESG`, `Ansible`
-  - 주최: Hyperledger Korea User Group
-  - 일시: 07. 01(목) 19:00 ~ 20:00
-- __[프라이빗 클라우드에서의 오브젝트 스토리지 활용 방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=74&sc_category=)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 디지털투데이
-  - 일시: 07. 01(목) 14:00 ~ 15:00
-- __[useR! 2021 Korea 웹사이트 Hands-on](https://festa.io/events/1653)__
-  - 분류: `R언어`
-  - 주최: 데이터 사이언스 Meetup
-  - 일시: 07. 02(금) 19:00 ~ 20:30
-- __[경남 고성 작은 바닷마을에서 진행하는 일주일 살기 안내합니다.](https://festa.io/events/1643)__
-  - 분류: `커뮤니티`
-  - 주최:  바다공룡
-  - 일시: 06. 28(월) 14:00 ~ 07. 04(일) 18:00
-- __[스틸리언, 보안 멘토링 프로그램(SSL) 2기](https://www.stealien.com/company/notice?tpf=board/view&board_code=1&code=457)__
-  - 분류: `멘토링`, `보안`
-  - 주최: 스틸리언
-  - 신청: 06. 21(월) ~ 07. 04(일)
-- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
-  - 분류: `교육`, `무료`
-  - 주최: 양재동코드랩
-  - 일시: 07. 03(토) 10:00 ~ 17:00
-- __[Smilegate Membership AI 1기 모집](https://sgmai.oopy.io/?fbclid=IwAR1Yf-_x9Xnv760sf5d-6OJ-xAoK8q864SwkQhBwgwOBjvzNjrL304STTt8)__
-  - 분류: `멘토링`
-  - 주최: 스마일게이트
-  - 일시: 06. 10(목) ~ 07. 05(월)
-- __[개발자를 위한 AWS A to Z 온라인 세미나](https://register.gotowebinar.com/register/78672671823989519)__
-  - 분류: `웨비나`, `AWS`
-  - 주최: AWS
-  - 일시: 07. 07(수) 14:00 ~ 16:00
-- __[쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기](https://docs.google.com/forms/d/e/1FAIpQLScAsjFKjx3WMX0Qapjaxi1FyADOaimnOTLpgp0kQhop62KTWA/viewform)__
-  - 분류: `웨비나`, `테스트`
-  - 주최: HACKLE
-  - 일시: 07. 07(수) 19:00 ~ 20:00
-- __[이뮤터블 클라우드를 위한 작은 첫발](https://register.gotowebinar.com/register/2578966511402957836?source=NAVER+Cloud+Platform)__
-  - 분류: `웨비나`, `이뮤터블 클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 07. 08(목) 10:00 ~ 11:30
-- __[[Talk&Talk] Fireside chat with MongoDB!](https://register.gotowebinar.com/register/4991024542737798156)__
-  - 분류: `웨비나`, `mongoDB`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 07. 08(목) 11:00 ~ 12:00
-- __[Career Talk #18. 누구에게나 처음은 있었다 : 웹 개발자](https://www.wanted.co.kr/events/careertalk18)__
-  - 분류: `컨퍼런스`, `웹`, `무료`
-  - 주최: 원티드
-  - 일시: 07. 08(목) 19:00 ~ 21:00
-- __[데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/278972199/)__
-  - 분류: `커뮤니티`, `데이터사이언스`
-  - 주최: AWSKRUG
-  - 일시: 07. 08(목) 19:00 ~ 21:00
-- __[[useR! 2021 Korea] R 컨퍼런스 포스터 제작](https://programmers.co.kr/learn/courses/12177)__
-  - 분류: `컨퍼런스`, `R언어`
-  - 주최: 데이터 사이언스
-  - 일시: 07. 09(금) 19:00 ~ 21:00
-- __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://programmers.co.kr/learn/courses/12177)__
-  - 분류: `교육`, `클라우드`, `벡엔드`
-  - 주최: 프로그래머스
-  - 일시: 05. 24(월) ~ 07. 09(금)
-- __[HPG Online Webinar](https://www.highperformancegraphics.org/2021)__
-  - 분류: `컨퍼런스`, `그래픽스`
-  - 주최: HPG
-  - 일시: 07. 06(화) ~ 07. 09(금)
-- __[바로 실행할 수 있는 다양한 QA 이야기](https://www.wanted.co.kr/events/wantedcon23)__
-  - 분류: `컨퍼런스`, `QA`, `유료`
-  - 주최: 원티드
-  - 일시: 07. 09(금) 15:00
-- __[[코딩이랑 무관합니다만X스한모]게임이랑 무관합니다만,](https://festa.io/events/1649)__
-  - 분류: `웨비나`, `게임`
-  - 주최: 코딩이란 무관합니다만,
-  - 일시: 07. 10(토) 14:00 ~ 16:00
-- __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
-  - 분류: `교육`, `무료`
-  - 주최: 양재동코드랩
-  - 일시: 07. 10(토) 10:00 ~ 17:00
-- __[GDG 썸머 해커톤 w/디프만](https://festa.io/events/1644)__
-  - 분류: `컨퍼런스`, `해커톤`
-  - 주최: GDG Campus Korea
-  - 일시: 07. 03(토) 14:00 ~ 07. 11(일) 23:30
-- __[자율운영데이터웨어하우스 데모웨비나](https://go.oracle.com/LP=112858)__
-  - 분류: `웨비나`, `데이터베이스`
-  - 주최: 오라클
-  - 일시: 07. 13(수) 16:00 ~ 17:35
-- __[Samsung Collegiate Programming Cup 2021](https://research.samsung.com/scpc)__
-  - 분류: `컨퍼런스`, `알고리즘`
-  - 주최: 삼성
-  - 일시: 06. 15(화) ~ 07. 13(화)
-- __[가짜연구소 3기 러너(스터디원 및 크루) 모집](https://docs.google.com/forms/d/e/1FAIpQLSdh9SLgltYczvkD-7zs7f-5629D2HuwoLe7-x8IIB6tAWMh7g/viewform)__
-  - 분류: `스터디`, `인공지능`
-  - 주최: 가짜연구소
-  - 모집: 07. 01(목) ~ 07. 13(화)
-- __[MONGODB LIVE](https://www.mongodb.com/live?utm_campaign=live2021_korea_regi&utm_source=naver_cloud&utm_medium=webinar)__
-  - 분류: `웨비나`, `mongodb` 
-  - 주최: mogodb
-  - 모집: 07. 13(화) ~ 07. 14(수)
-- __[제니퍼 7월 정기교육](https://jennifersoft.com/ko/edu/%EC%A0%9C%EB%8B%88%ED%8D%BC-7%EC%9B%94-%EC%A0%95%EA%B8%B0%EA%B5%90%EC%9C%A1/)__
-  - 분류: `웨비나`, `모니터링`
-  - 주최: 제니퍼소프트
-  - 일시: 07. 14(수) 14:00 ~ 17:30
-- __[MONGODB LIVE](https://www.mongodb.com/live)__
-  - 분류: `컨퍼런스`, `mongoDB`, `영어`
-  - 주최: mongoDB
-  - 일시: 07. 13(화) ~ 07. 14(수)
-  - 일시: 07. 20(화) 19:00 ~ 20:00
-- __[Deep Dive into Cloud DB for MongoDB](https://register.gotowebinar.com/register/5564332995204398348)__
-  - 분류: `온라인`, `애자일`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 07. 15(목) 11:00 ~ 12:00
-- __[7월 Tech 세미나 - 다양한 클라우드 네트워크 연동 방법](https://devocean.sk.com/events/view.do?id=80)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: DEVOCEAN
-  - 일시: 07. 15(목) 15:00 ~ 17:00
-- __[개발자에게 좋은 이직/퇴사를 위한 꿀팁](https://okky.kr/article/993222)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: OKKY
-  - 일시: 07. 15(목) 19:30 ~ 20:30
-- __[2021 ICT이노베이션스퀘어 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfLii46xKZZrsAlRN4l0Vx9osrk0_jL2Mm6HwE8eN3r4GUCPg/viewform)__
-  - 분류: `세미나`, `데이터분석`
-  - 주최: ICT이노베이션스퀘어
-  - 일시: 07. 15(목) 19:30 ~ 
-- __[당근마켓 iOS 개발 인턴 채용 세션](https://festa.io/events/1675)__
-  - 분류: `온라인`, `채용`
-  - 주최: 당근마켓
-  - 일시: 07. 15(목) 19:30 ~ 21:00
-- __[Animal Dataton Korea](https://github.com/AnimalDatathonKorea/adk2021)__
-  - 분류: `AI`, `해커톤` 
-  - 주최: 농축산식품부
-  - 접수: 05. 26(수) ~ 07. 16(금)
-- __[2021 오픈소스 컨트리뷰션 아카데미](https://festa.io/events/1682)__
-  - 분류: `웨비나`, `오픈소스` 
-  - 주최: Open Up
-  - 접수: 07. 17(토) 13:30 ~ 16:30
-- __[비전공자를 위한 이해할 수 있는 IT 지식](https://docs.google.com/forms/d/1ZbOGQNeoGxOlScITR7VHA_wn9_6RIWWdIg-oFSUFiPE/viewform?edit_requested=true/adk2021)__
-  - 분류: `네트워크`, `멘토링`
-  - 주최: 성동구 청년 일다방
-  - 일시: 07. 20(화) 14:00 ~ 16:00
-- __[Watcha와 함께 하는 슬기로운 DevSecOps 생활](https://www.datadoghq.com/ko/event/watchawebinar/)__
-  - 분류: `웨비나`
-  - 주최: DATADOG
-  - 일시: 07. 20(화) 16:00
-- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/279274095/)__
-  - 분류: `웨비나`, `컨테이너`
-  - 주최: AWSKRUG
-  - 일시: 07. 20(화) 19:00 ~ 20:30
-- __[GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들](https://www.meetup.com/ko-KR/github-virtual-meetup-in-korea/events/279136111/)__
-  - 분류: `교육`, `무료`
-  - 주최: meetup
-  - 일시: 07. 20(화) 19:00 ~ 20:00
-- __[코오롱 네트워크 관리자는 어떻게 일할까?](https://docs.google.com/forms/d/1ZbOGQNeoGxOlScITR7VHA_wn9_6RIWWdIg-oFSUFiPE/viewform?edit_requested=true/adk2021)__
-  - 분류: `네트워크`, `멘토링`
-  - 주최: 성동구 청년 일다방
-  - 일시: 07. 21(수) 14:00 ~ 16:00
-- __[애자일 코리아 7월 밋업 ‘Open Practice Library’](https://festa.io/events/1669)__
-  - 분류: `온라인`, `애자일`
-  - 주최: 애자일 코리아
-  - 일시: 07. 21(수) 21:00 ~ 23:00
+- __[2021 경기도 스마트시티 아이디어 해커톤(Hackathon) 공개 모집](https://onoffmix.com/event/240797)__
+  - 분류: `해커톤`
+  - 주최: 경기도
+  - 신청: 06. 28(월) ~ 07. 22(목)
 - __[Follow-me! 클라우드 인프라 구축 기본편](https://festa.io/events/1689)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -363,6 +201,10 @@
   - 분류: `교육`, `머신러닝`
   - 주최: SSAC
   - 신청:  ~ 07. 30(금)
+- __[주차수요 예측 AI 경진대회](https://www.dacon.io/competitions/official/235745/overview/description)__
+  - 분류: `경진대회`
+  - 주최: 한국토지주택공사
+  - 일시: 06. 10(목) ~ 07. 30(금)
 - __[NodeJS(Adonis) 4주 완성](https://www.codelabs.kr/codelabs/135)__
   - 분류: `교육`, `무료`
   - 주최: 양재동코드랩
@@ -384,15 +226,30 @@
 
 ## 21년 08월
 
+- __[오아시스 해커톤](https://oasis-hackathon.kr/)__
+  - 분류: `해커톤`
+  - 주최: 오아이스 해커톤
+  - 신청: 07. 05(월) ~ 08. 01(일)
+- __[영재교육원 웹서비스 정보보안 경진대회](https://www.jungle.co.kr/contest/203016)__
+  - 분류: `경진대회`
+  - 주최: KOSPO
+  - 신청: 07. 05(월) ~ 08. 01(일)
 - __[게기스 제1회 온라인 게임잼 대환장 파티!](https://www.onoffmix.com/event/240428)__
   - 분류: `웨비나`, `게임`
   - 주최: 써니라이더
   - 일시: 07. 30(금) 21:00 ~ 08. 01(일) 23:45
-
+- __[카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)__
+  - 분류: `경진대회`
+  - 주최: LG
+  - 일시: 06. 28(월) ~ 08. 02(월)
 - __[소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software/award)__
   - 분류: `해커톤`, `보안` 
   - 주최: 행정안전부
   - 모집: 07. 12(월) ~ 08. 04(수)
+- __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
+  - 분류: `무료`, `교육` 
+  - 주최: 제주코딩베이스캠프
+  - 일시: 08. 09(월) ~ 08. 13(금)
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
@@ -418,6 +275,11 @@
   - 분류: `블록체인`
   - 주최: 업비트
   - 일시: 09. 01(수) ~ 09. 02(목)
+
+- __[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/open/235622/overview/description)__
+  - 분류: `해커톤`
+  - 주최: DACON
+  - 일시: 07. 14(수) ~ 09. 04(토)
 
 <br />
 
