@@ -197,6 +197,10 @@
   - 분류: `교육`, `머신러닝`
   - 주최: KOSTA
   - 신청: 07. 26(월) ~ 07. 28(수)
+- __[LINE DEV Meet Up](https://feedback.line.me/enquete/public/12720-98SSwdOG)__
+  - 분류: `컨퍼런스`
+  - 주최: LINE
+  - 일시: 07. 29(목) 16:00 ~ 18:30
 - __[SSAC 영상 처리를 위한 인공지능 SW 개발자 양성 과정](https://playdata.io/ssac_ai_14th)__
   - 분류: `교육`, `머신러닝`
   - 주최: SSAC
