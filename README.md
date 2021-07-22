@@ -153,10 +153,15 @@
   - 분류: `해커톤`
   - 주최: 경기도
   - 신청: 06. 28(월) ~ 07. 22(목)
+
 - __[Follow-me! 클라우드 인프라 구축 기본편](https://festa.io/events/1689)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 22(목) 11:00 ~ 12:00
+- __[MongoDB Atlas 웨비나 시리즈(Part.1)](https://atlaswebinarseriespart1korea.splashthat.com/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: mongoDB
+  - 일시: 07. 22(목) 14:00 ~ 15:00
 - __[[AWS X Megazone] DevOps Immersion Day](https://register.gotowebinar.com/register/2910054751628433679)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존
@@ -234,6 +239,7 @@
   - 분류: `해커톤`
   - 주최: 오아이스 해커톤
   - 신청: 07. 05(월) ~ 08. 01(일)
+
 - __[영재교육원 웹서비스 정보보안 경진대회](https://www.jungle.co.kr/contest/203016)__
   - 분류: `경진대회`
   - 주최: KOSPO
@@ -250,6 +256,10 @@
   - 분류: `해커톤`, `보안` 
   - 주최: 행정안전부
   - 모집: 07. 12(월) ~ 08. 04(수)
+- __[제22회 대한민국반도체설계대전](https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2368)__
+  - 분류: `대회`
+  - 주최: 한국반도체산업협회
+  - 모집: 08. 03(화) ~ 08. 06(금)
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
@@ -262,10 +272,18 @@
   - 분류: `아이디어톤` 
   - 주최: 과학기술정보통신부
   - 모집: 07. 14(수) ~ 08. 17(화) 17:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/279588385/)__
+  - 분류: `모임`, `추천시스템` 
+  - 주최: AWSKRUG
+  - 모집: 08. 17(화) 20:00 ~ 22:00
 - __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 08. 24(화) 13:00 ~ 17:00
+- __[Metaverse 시대를 리딩하는 핵심 혁신기술](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=109&selYear=&selApplyStatus=)__
+  - 분류: `워크숍`, `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 08. 25(수) ~ 08. 27(금)
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
@@ -284,6 +302,10 @@
   - 분류: `해커톤`
   - 주최: DACON
   - 일시: 07. 14(수) ~ 09. 04(토)
+- __[Fashion-How 시즌 2 ETRI 자율성장 인공지능 경진대회](https://fashion-how.org/ETRI/)__
+  - 분류: `경진대회`
+  - 주최: ETRI
+  - 일시: 07. 06(화) ~ 09. 15(수)
 
 <br />
 
