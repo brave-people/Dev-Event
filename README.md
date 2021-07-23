@@ -230,6 +230,10 @@
   - 분류: `동아리`
   - 주최: DDD
   - 모집: 07. 19(월) ~ 07. 31(토)
+- __[제 14회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/241420?fbclid=IwAR0vaH8UHs0gCDu05f_sybiEhd9vV87zoB3cBZnjD03MtMoli4k5vFpI-ao)__
+  - 분류: `컨퍼런스`
+  - 주최: BOAZ
+  - 모집: 07. 31(토) 12:00 ~ 17:00
 
 <br />
 
@@ -272,6 +276,10 @@
   - 분류: `아이디어톤` 
   - 주최: 과학기술정보통신부
   - 모집: 07. 14(수) ~ 08. 17(화) 17:00
+- __[Security Tech Forum 2021](https://sstf.site/)__
+  - 분류: `웨비나`, `보안` 
+  - 주최: 삼성
+  - 모집: 08. 17(화) 10:00 ~ 14:30
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/279588385/)__
   - 분류: `모임`, `추천시스템` 
   - 주최: AWSKRUG
