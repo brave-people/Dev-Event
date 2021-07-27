@@ -244,6 +244,10 @@
   - 주최: 오아이스 해커톤
   - 신청: 07. 05(월) ~ 08. 01(일)
 
+- __[이더리움 해커톤](https://docs.google.com/forms/d/169xeMCC-bFUyIxXkWe2rbrmjR6eOFvM-13jQJSlpK7o/viewform?edit_requested=true)__
+  - 분류: `해커톤`
+  - 주최: Tokamak Network
+  - 신청: 08. 01(일)
 - __[영재교육원 웹서비스 정보보안 경진대회](https://www.jungle.co.kr/contest/203016)__
   - 분류: `경진대회`
   - 주최: KOSPO
@@ -260,10 +264,18 @@
   - 분류: `해커톤`, `보안` 
   - 주최: 행정안전부
   - 모집: 07. 12(월) ~ 08. 04(수)
+- __[리얼리눅스 무료세미나: 리눅스를 효과적으로 공부하는 방법](https://festa.io/events/1703)__
+  - 분류: `세미나`, `리눅스`
+  - 주최: 리얼리눅스
+  - 모집: 08. 04(수) 20:00 ~ 21:00
 - __[제22회 대한민국반도체설계대전](https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2368)__
   - 분류: `대회`
   - 주최: 한국반도체산업협회
   - 모집: 08. 03(화) ~ 08. 06(금)
+- __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
+  - 분류: `컨퍼런스`, `R`
+  - 주최: Seoul R User Group
+  - 일시: 08. 06(금) 19:30 ~ 20:30
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
@@ -280,10 +292,18 @@
   - 분류: `웨비나`, `보안` 
   - 주최: 삼성
   - 모집: 08. 17(화) 10:00 ~ 14:30
+- __[마이데이터 비즈니스 아이디어 기획 공모전](https://www.kdata.or.kr/board/notice_01_view.html?dbnum=2432)__
+  - 분류: `아이디어`, `마이데이터` 
+  - 주최: 과학기술정보통신부
+  - 모집: 07. 14(수) ~ 08. 17(화) 17:00
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/279588385/)__
   - 분류: `모임`, `추천시스템` 
   - 주최: AWSKRUG
   - 모집: 08. 17(화) 20:00 ~ 22:00
+- __[제2회 예술데이터가 바꾸는 세상 챌린지](https://www.arko.or.kr/board/view/4053?cid=1803181)__
+  - 분류: `대회`, `데이터`
+  - 주최: 과학기술정보통신부
+  - 모집: 07. 26(월) ~ 08. 22(일)
 - __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
@@ -292,6 +312,10 @@
   - 분류: `워크숍`, `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 08. 25(수) ~ 08. 27(금)
+- __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 충북대
+  - 일시: 07. 28(수) ~ 08. 26(목)
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
@@ -314,6 +338,10 @@
   - 분류: `경진대회`
   - 주최: ETRI
   - 일시: 07. 06(화) ~ 09. 15(수)
+- __[DroidKnights 2021](https://festa.io/events/1677)__
+  - 분류: `컨퍼런스`, `안드로이드`
+  - 주최: DroidKnights Community
+  - 일시: 09. 25(토) 13:00 ~ 16:00
 
 <br />
 
