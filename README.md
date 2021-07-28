@@ -260,6 +260,10 @@
   - 분류: `경진대회`
   - 주최: LG
   - 일시: 06. 28(월) ~ 08. 02(월)
+- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/ko-KR/awskrug/events/279634885)__
+  - 분류: `웨비나`
+  - 주최: AWSKRUG
+  - 모집: 08. 03(화) 19:00 ~ 20:00
 - __[소프트웨어 개발보안 시큐어코딩 해커톤](https://securecoding.software/award)__
   - 분류: `해커톤`, `보안` 
   - 주최: 행정안전부
@@ -268,6 +272,10 @@
   - 분류: `세미나`, `리눅스`
   - 주최: 리얼리눅스
   - 모집: 08. 04(수) 20:00 ~ 21:00
+- __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://festa.io/events/1712)__
+  - 분류: `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 모집: 08. 05(목) 11:00 ~ 12:00
 - __[제22회 대한민국반도체설계대전](https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2368)__
   - 분류: `대회`
   - 주최: 한국반도체산업협회
