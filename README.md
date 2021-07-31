@@ -277,7 +277,7 @@
   - 주최: 네이버 클라우드 플랫폼
   - 모집: 08. 05(목) 11:00 ~ 12:00
 - __[모바일 애플리케이션 개발을 위한 AWS Amplify Flutter](https://www.meetup.com/ko-KR/awskrug/events/279798860/)__
-  - 분류: `클라우드`
+  - 분류: `모임`
   - 주최: AWSKRUG
   - 모집: 08. 05(목) 18:00 ~ 20:00
 - __[제22회 대한민국반도체설계대전](https://www.ksia.or.kr/bbs/board.php?bo_table=notice&wr_id=2368)__
@@ -292,6 +292,10 @@
   - 분류: `교육`, `AI`
   - 주최: 엘리스
   - 일시: 07. 12(월) ~ 08. 09(월)
+- __[AI 2021 여름학교](https://aiis.snu.ac.kr/aisummerschool2021/)__
+  - 분류: `세미나`, `AI`
+  - 주최: 서울대학교
+  - 일시: 08. 09(월) ~ 08. 11(수)
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
