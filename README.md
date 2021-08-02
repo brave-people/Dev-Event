@@ -296,6 +296,10 @@
   - 분류: `세미나`, `AI`
   - 주최: 서울대학교
   - 일시: 08. 09(월) ~ 08. 11(수)
+- __[TOSS NEXT DEVELOPER CHALLENGE](https://toss.im/career/next-developer-2021)__
+  - 분류: `채용`
+  - 주최: 비바리퍼블리카
+  - 접수: 08. 02(월) ~ 08. 11(수)
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
@@ -328,14 +332,18 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 08. 24(화) 13:00 ~ 17:00
-- __[Metaverse 시대를 리딩하는 핵심 혁신기술](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=109&selYear=&selApplyStatus=)__
-  - 분류: `워크숍`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 25(수) ~ 08. 27(금)
 - __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 충북대
   - 일시: 07. 28(수) ~ 08. 26(목)
+- __[Metaverse 시대를 리딩하는 핵심 혁신기술](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=109&selYear=&selApplyStatus=)__
+  - 분류: `워크숍`, `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 08. 25(수) ~ 08. 27(금)
+- __[Prisma Korea Meetup](https://festa.io/events/1716)__
+  - 분류: `웨비나`
+  - 주최: Prisma Korea
+  - 일시: 08. 28(토) 14:00 ~ 16:00
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
