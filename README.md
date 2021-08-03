@@ -272,6 +272,10 @@
   - 분류: `세미나`, `리눅스`
   - 주최: 리얼리눅스
   - 모집: 08. 04(수) 20:00 ~ 21:00
+- __[두굿 해커톤](https://event-us.kr/VQSsCeuiDpW2/event/33708)__
+  - 분류: `해커톤`
+  - 주최: DO GOOD HACKERS
+  - 모집: 07. 05(월) ~ 08.05(목) 00:00
 - __[데이터 분석을 위한 TensorFlow Server & Data Forest 소개](https://festa.io/events/1712)__
   - 분류: `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -308,10 +312,6 @@
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
   - 일시: 08. 09(월) ~ 08. 13(금)
-- __[HackaLearn 2021](https://github.com/devrel-kr/HackaLearn)__
-  - 분류: `대회`, `멘토링` 
-  - 주최: HackaLearn Korea
-  - 모집: 08. 02(월) ~ 08. 16(월) 00:00
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
@@ -360,10 +360,6 @@
   - 분류: `해커톤`
   - 주최: 부산광역시
   - 일시: 07. 19(월) ~ 08. 31(화) 17:00
-- __[라이징캠프 2기](https://risingcamp.com)__
-  - 분류: `교육,IOS`, `Android`, `Server`, `Web`
-  - 주최: 컴공선배
-  - 신청: 06. 08(화) ~ 08.17(화)
 
 <br />
 
