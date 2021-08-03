@@ -300,6 +300,10 @@
   - 분류: `채용`
   - 주최: 비바리퍼블리카
   - 접수: 08. 02(월) ~ 08. 11(수)
+- __[YAPP 19th 모집](https://fire-sombrero-70b.notion.site/YAPP-19th-Recruit-Page-df999183b15946199178d17ac0529cfa)__
+  - 분류: `동아리`
+  - 주최: YAPP
+  - 모집: 08. 02(월) ~ 08. 11(수) 18:00
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
