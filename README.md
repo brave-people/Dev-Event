@@ -308,6 +308,10 @@
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
   - 일시: 08. 09(월) ~ 08. 13(금)
+- __[HackaLearn 2021](https://github.com/devrel-kr/HackaLearn)__
+  - 분류: `대회`, `멘토링` 
+  - 주최: HackaLearn Korea
+  - 모집: 08. 02(월) ~ 08. 16(월) 00:00
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
