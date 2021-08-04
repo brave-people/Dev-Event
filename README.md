@@ -304,6 +304,10 @@
   - 분류: `채용`
   - 주최: 비바리퍼블리카
   - 접수: 08. 02(월) ~ 08. 11(수)
+- __[AWS Media 꿀팁 및 메타버스 패널토크](https://festa.io/events/1718)__
+  - 분류: `클라우드`
+  - 주최: AWS
+  - 일시: 08. 11(수) 14:00 ~ 16:00
 - __[YAPP 19th 모집](https://fire-sombrero-70b.notion.site/YAPP-19th-Recruit-Page-df999183b15946199178d17ac0529cfa)__
   - 분류: `동아리`
   - 주최: YAPP
@@ -344,10 +348,18 @@
   - 분류: `대회`, `데이터`
   - 주최: 과학기술정보통신부
   - 모집: 07. 26(월) ~ 08. 22(일)
+- __[군장병 공개SW 온라인 해커톤 일정 안내](https://osam.kr/community/notice?m=v&wdnId=19)__
+  - 분류: `대회`, `해커톤`
+  - 주최: 국방오픈소스아카데이
+  - 모집: 08. 07(토) ~ 08. 22(일)
 - __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 08. 24(화) 13:00 ~ 17:00
+- __[GCP 입문을 위한 Google Cloud Platform Fundamentals](https://festa.io/events/1718)__
+  - 분류: `클라우드`
+  - 주최: 메가존
+  - 일시: 08. 24(화) 09:30 ~ 17:30
 - __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 충북대
@@ -364,6 +376,10 @@
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
   - 예선: ~ 08. 29(일)
+- __[2021년 7차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/241622)__
+  - 분류: `교육`
+  - 주최: 한국지능정보사회진흥원
+  - 기간: 08. 23() ~  08. 29(일)
 - __[제 6 회 부산 ICT융합 해카톤 대회](https://onoffmix.com/event/241330)__
   - 분류: `해커톤`
   - 주최: 부산광역시
@@ -390,16 +406,24 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
   - 일시: 09. 25(토) 13:00 ~ 16:00
+- __[우부콘 아시아 2021](https://2021.ubucon.asia/ko/)__
+  - 분류: `컨퍼런스`, `우분투`
+  - 주최: Ubucon
+  - 일시: 09. 25(토) ~ 09. 26(일)
 
 <br />
 
 ## 21년 10월
 
+- __[파이콘 2021](https://2021.pycon.kr/)__
+  - 분류: `컨퍼런스`, `파이썬`
+  - 주최: 파이콘
+  - 모집: 10. 02(토) ~ 10. 03(일)
+
 - __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
-
 - __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
