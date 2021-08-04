@@ -379,7 +379,7 @@
 - __[2021년 7차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/241622)__
   - 분류: `교육`
   - 주최: 한국지능정보사회진흥원
-  - 기간: 08. 23() ~  08. 29(일)
+  - 기간: 08. 23(월) ~  08. 29(일)
 - __[제 6 회 부산 ICT융합 해카톤 대회](https://onoffmix.com/event/241330)__
   - 분류: `해커톤`
   - 주최: 부산광역시
@@ -394,6 +394,10 @@
   - 주최: 업비트
   - 일시: 09. 01(수) ~ 09. 02(목)
 
+- __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
+  - 분류: `블록체인`
+  - 주최: Google
+  - 일시: 09. 03(금)
 - __[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/open/235622/overview/description)__
   - 분류: `해커톤`
   - 주최: DACON
