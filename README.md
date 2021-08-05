@@ -344,6 +344,10 @@
   - 분류: `모임`, `추천시스템` 
   - 주최: AWSKRUG
   - 모집: 08. 17(화) 20:00 ~ 22:00
+- __[쿠버네티스가 가능하게 해준 GitOps](https://devocean.sk.com/events/view.do?id=83)__
+  - 분류: `웨비나`, `GitOps` 
+  - 주최: SKT
+  - 모집: 08. 19(목) 15:00 ~ 17:00
 - __[제2회 예술데이터가 바꾸는 세상 챌린지](https://www.arko.or.kr/board/view/4053?cid=1803181)__
   - 분류: `대회`, `데이터`
   - 주최: 과학기술정보통신부
@@ -389,13 +393,17 @@
 
 ## 21년 09월
 
+- __[인공지능 중급 기계학습/딥러닝 개발 과정](https://ict.eksa.or.kr/portal/apply_ict/main.user)__
+  - 분류: `교육`, `무료`, `인공지능`
+  - 주최: 한국IT비즈니스진흥협회
+  - 접수: 07. 28(수) ~ 09. 02(목)
 - __[Upbit Developer Conference 2021](https://udc.upbit.com/)__
   - 분류: `블록체인`
   - 주최: 업비트
   - 일시: 09. 01(수) ~ 09. 02(목)
 
 - __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
-  - 분류: `블록체인`
+  - 분류: `웨비나`, `게임`
   - 주최: Google
   - 일시: 09. 03(금)
 - __[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/open/235622/overview/description)__
