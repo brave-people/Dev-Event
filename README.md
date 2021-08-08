@@ -316,10 +316,14 @@
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
   - 일시: 08. 09(월) ~ 08. 13(금)
-- __[HackaLearn 2021](https://github.com/devrel-kr/HackaLearn)__
-  - 분류: `대회`, `멘토링` 
-  - 주최: HackaLearn Korea
-  - 모집: 08. 02(월) ~ 08. 16(월) 00:00
+- __[HackaLearn 2021](https://rkttu.notion.site/NET-Conf-Mini-21-08-132632725a324285a5769cedfc59f756)__
+  - 분류: `무료`, `교육` 
+  - 주최: 제주코딩베이스캠프
+  - 일시: 08. 09(월) ~ 08. 13(금)
+- __[.NET Conf Mini 21.08](http://www.jejucodingcamp.com/)__
+  - 분류: `웨비나`, `닷넷` 
+  - 주최: .net dev
+  - 일시: 08. 15(일) 14:00
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
@@ -515,7 +519,7 @@
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
 | devocean | [devocean.sk.com](https://devocean.sk.com/)
-
+| 닷넷데브 | [forum.dotnetdev.kr](https://forum.dotnetdev.kr/) |
 
 <br />
 
