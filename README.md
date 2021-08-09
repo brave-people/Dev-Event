@@ -316,11 +316,11 @@
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
   - 일시: 08. 09(월) ~ 08. 13(금)
-- __[HackaLearn 2021](https://rkttu.notion.site/NET-Conf-Mini-21-08-132632725a324285a5769cedfc59f756)__
-  - 분류: `무료`, `교육` 
-  - 주최: 제주코딩베이스캠프
-  - 일시: 08. 09(월) ~ 08. 13(금)
-- __[.NET Conf Mini 21.08](http://www.jejucodingcamp.com/)__
+- __[HackaLearn 2021](https://github.com/devrel-kr/HackaLearn)__
+  - 분류: `대회`, `멘토링` 
+  - 주최: HackaLearn Korea
+  - 모집: 08. 02(월) ~ 08. 16(월) 00:00
+- __[.NET Conf Mini 21.08](https://rkttu.notion.site/NET-Conf-Mini-21-08-132632725a324285a5769cedfc59f756)__
   - 분류: `웨비나`, `닷넷` 
   - 주최: .net dev
   - 일시: 08. 15(일) 14:00
