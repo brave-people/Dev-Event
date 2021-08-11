@@ -312,6 +312,10 @@
   - 분류: `동아리`
   - 주최: YAPP
   - 모집: 08. 02(월) ~ 08. 11(수) 18:00
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/279585197/)__
+  - 분류: `모임`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 모집: 08. 12(목) 19:00 ~ 21:00
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
@@ -379,11 +383,19 @@
 - __[애자일 코리아 8월 밋업 '카카오는 애자일한가요? #2'](https://festa.io/events/1730)__
   - 분류: `웨비나`, `애자일`
   - 주최: 애자일 코리아 밋업
+  - 일시: 08. 25(수) 14:00 ~ 17:00
+- __[게임 데이터 저장부터 분석까지, 게임사들의 슬기로운 데이터 활용법!](https://www.megazone.com/apply-20210825webinar/?utm_source=festa&amp;utm_medium=post&amp;utm_campaign=0825webinar)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
   - 일시: 08. 25(수) 21:00 ~ 23:00
 - __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 충북대
   - 일시: 07. 28(수) ~ 08. 26(목)
+- __[스타트업을 위한 클라우드 101 웨비나에 초대합니다!](https://www.megazone.com/application_form_smb_salesforce-apply-210826_27?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-8)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 07. 26(목) 14:00 ~ 08. 27(금) 17:00
 - __[Metaverse 시대를 리딩하는 핵심 혁신기술](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=109&selYear=&selApplyStatus=)__
   - 분류: `워크숍`, `메타버스`
   - 주최: 과학기술정보통신부
