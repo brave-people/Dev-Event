@@ -239,11 +239,15 @@
 
 ## 21년 08월
 
+- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
+  - 분류: `교육`, `무료`, `Flutter`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 08(일) 10:00 ~ 17:00
+  
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/ko-KR/awskrug/events/279585197/)__
   - 분류: `모임`, `데이터사이언스`
   - 주최: AWSKRUG
   - 모집: 08. 12(목) 19:00 ~ 21:00
-
 - __[제주코딩 베이스 캠프](http://www.jejucodingcamp.com/)__
   - 분류: `무료`, `교육` 
   - 주최: 제주코딩베이스캠프
@@ -256,6 +260,14 @@
   - 분류: `웨비나`, `닷넷` 
   - 주최: .net dev
   - 일시: 08. 15(일) 14:00
+- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
+  - 분류: `교육`, `무료`, `React Native`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 14(토) 10:00 ~ 17:00
+- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
+  - 분류: `교육`, `무료`, `Flutter`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 15(일) 10:00 ~ 17:00
 - __[자연어 기반 기후기술분류 AI 경진대회](https://www.dacon.io/competitions/official/235744/overview/description)__
   - 분류: `대회`, `자연어` 
   - 주최: DACON
@@ -280,6 +292,10 @@
   - 분류: `모임`, `추천시스템` 
   - 주최: AWSKRUG
   - 모집: 08. 17(화) 20:00 ~ 22:00
+- __[Deep Dive into Cloud DB for MongoDB](https://festa.io/events/1740)__
+  - 분류: `웨비나`, `클라우드` 
+  - 주최: 네이버 클라우드 플랫폼
+  - 모집: 08. 19(목) 11:00 ~ 12:00
 - __[쿠버네티스가 가능하게 해준 GitOps](https://devocean.sk.com/events/view.do?id=83)__
   - 분류: `웨비나`, `GitOps` 
   - 주최: SKT
@@ -288,6 +304,14 @@
   - 분류: `동아리`
   - 주최: 디프만
   - 모집: 08. 20(금) 23:59
+- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
+  - 분류: `교육`, `무료`, `React Native`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 21(토) 10:00 ~ 17:00
+- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
+  - 분류: `교육`, `무료`, `Flutter`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 22(일) 10:00 ~ 17:00
 - __[제2회 예술데이터가 바꾸는 세상 챌린지](https://www.arko.or.kr/board/view/4053?cid=1803181)__
   - 분류: `대회`, `데이터`
   - 주최: 과학기술정보통신부
@@ -336,10 +360,22 @@
   - 분류: `워크숍`, `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 08. 25(수) ~ 08. 27(금)
+- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
+  - 분류: `교육`, `무료`, `React Native`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 21(토) 10:00 ~ 17:00
+- __[DND Open Seminar, Django, Android 기초 쌓기](https://festa.io/events/1729)__
+  - 분류: `웨비나`
+  - 주최: DNS
+  - 일시: 08. 28(토) 13:00 ~ 15:00
 - __[Prisma Korea Meetup](https://festa.io/events/1716)__
   - 분류: `웨비나`
   - 주최: Prisma Korea
   - 일시: 08. 28(토) 14:00 ~ 16:00
+- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
+  - 분류: `교육`, `무료`, `Flutter`
+  - 주최: 양재동 코드랩
+  - 모집: 08. 22(일) 10:00 ~ 17:00
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
@@ -374,6 +410,10 @@
   - 분류: `웨비나`, `게임`
   - 주최: Google
   - 일시: 09. 03(금)
+- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
+  - 분류: `교육`, `무료`, `React Native`
+  - 주최: 양재동 코드랩
+  - 모집: 09. 04(토) 10:00 ~ 17:00
 - __[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/open/235622/overview/description)__
   - 분류: `해커톤`
   - 주최: DACON
