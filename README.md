@@ -312,6 +312,14 @@
   - 분류: `모임`
   - 주최: PCD Seoul
   - 모집: 08. 21(토) 12:00 ~ 21:00
+- __[취준생을 위한 현직자 IT 직무 특강](https://academy.elice.io/courses/14222/info)__
+  - 분류: `웨비나`, `진로`
+  - 주최: 엘리스
+  - 일시: 08. 21(토) 13:00 ~ 16:00
+- __[개발자만을 위한 꿀잼 네트워킹파티](https://okky.kr/article/1023978)__
+  - 분류: `네트워크`
+  - 주최: Growith
+  - 일시: 08. 21(토) 20:00 ~ 21:30
 - __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
   - 분류: `교육`, `무료`, `Flutter`
   - 주최: 양재동 코드랩
@@ -380,6 +388,10 @@
   - 분류: `교육`, `무료`, `Flutter`
   - 주최: 양재동 코드랩
   - 모집: 08. 22(일) 10:00 ~ 17:00
+- __[2021Langcon](https://festa.io/events/1747)__
+  - 분류: `웨비나`, `자연어`
+  - 주최: Open Up
+  - 모집: 08. 28(토) 11:30 ~ 18:00
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
@@ -405,11 +417,15 @@
   - 분류: `교육`, `무료`, `인공지능`
   - 주최: 한국IT비즈니스진흥협회
   - 접수: 07. 28(수) ~ 09. 02(목)
+
 - __[Upbit Developer Conference 2021](https://udc.upbit.com/)__
   - 분류: `블록체인`
   - 주최: 업비트
   - 일시: 09. 01(수) ~ 09. 02(목)
-
+- __[[AWC 2021 in Busan] 온라인 웨비나](https://onoffmix.com/event/241519)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 부산광역시
+  - 일시: 09. 01(수) ~ 09. 02(목)
 - __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
   - 분류: `웨비나`, `게임`
   - 주최: Google
@@ -422,6 +438,14 @@
   - 분류: `해커톤`
   - 주최: DACON
   - 일시: 07. 14(수) ~ 09. 04(토)
+- __[SW설계 역량 선진화](https://www.kosta.or.kr/sub8/sub_board-event_view?id=43&page_no=1&viewStyle=&search_type=&search_title=)__
+  - 분류: `웨비나`
+  - 주최: 한국소프트웨어기술진흥회
+  - 신청: 08. 13(금) ~ 09. 07(화)
+- __[DNSSEC: DNS 데이터 위-변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/36063)__
+  - 분류: `웨비나`
+  - 주최: KISA
+  - 신청: 08. 17(화) ~ 09. 10(금)
 - __[Fashion-How 시즌 2 ETRI 자율성장 인공지능 경진대회](https://fashion-how.org/ETRI/)__
   - 분류: `경진대회`
   - 주최: ETRI
@@ -444,6 +468,10 @@
   - 주최: 파이콘
   - 모집: 10. 02(토) ~ 10. 03(일)
 
+- __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
+  - 분류: `대회`, `AI`
+  - 주최: 국가정보원
+  - 모집: 08.02(월) ~ 10. 22(화)
 - __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
