@@ -270,7 +270,7 @@
   - 분류: `해커톤`
   - 주최: 부산광역시
   - 일시: 07. 19(월) ~ 08. 31(화) 17:00
-- __[Oracle Tech Talk 시즌 2](hhttps://www.allshowtv.com/detail.html?idx=736)__
+- __[Oracle Tech Talk 시즌 2](https://www.allshowtv.com/detail.html?idx=736)__
   - 분류: `웨비나`
   - 주최: 메가존
   - 일시: 08. 31(화) 10:30 ~ 11:30
