@@ -153,7 +153,7 @@
   - 분류: `웨비나`, `클라우드` 
   - 주최: 네이버 클라우드 플랫폼
   - 모집: 08. 19(목) 11:00 ~ 12:00
-  
+
 - __[쿠버네티스가 가능하게 해준 GitOps](https://devocean.sk.com/events/view.do?id=83)__
   - 분류: `웨비나`, `GitOps` 
   - 주최: SKT
@@ -270,7 +270,7 @@
   - 분류: `해커톤`
   - 주최: 부산광역시
   - 일시: 07. 19(월) ~ 08. 31(화) 17:00
-- __[[Oracle Tech Talk 시즌 2] 2021년 주목해야 할 디지털 트랜스포메이션 프로젝트](hhttps://www.allshowtv.com/detail.html?idx=736)__
+- __[Oracle Tech Talk 시즌 2](hhttps://www.allshowtv.com/detail.html?idx=736)__
   - 분류: `웨비나`
   - 주최: 메가존
   - 일시: 08. 31(화) 10:30 ~ 11:30
