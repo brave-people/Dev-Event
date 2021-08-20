@@ -149,23 +149,11 @@
 
 ## 21년 08월
 
-- __[Deep Dive into Cloud DB for MongoDB](https://festa.io/events/1740)__
-  - 분류: `웨비나`, `클라우드` 
-  - 주최: 네이버 클라우드 플랫폼
-  - 모집: 08. 19(목) 11:00 ~ 12:00
-
-- __[쿠버네티스가 가능하게 해준 GitOps](https://devocean.sk.com/events/view.do?id=83)__
-  - 분류: `웨비나`, `GitOps` 
-  - 주최: SKT
-  - 모집: 08. 19(목) 15:00 ~ 17:00
-- __[OKKY Zoom live 취업/이직 준비 어떻게 해야 하나](https://okky.kr/article/1025811)__
-  - 분류: `웨비나`, `커리어` 
-  - 주최: OKKY
-  - 모집: 08. 19(목) 19:00 ~ 21:00
 - __[디프만 10th](https://www.depromeet.com/)__
   - 분류: `동아리`
   - 주최: 디프만
   - 모집: 08. 20(금) 23:59
+  
 - __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
   - 분류: `교육`, `무료`, `React Native`
   - 주최: 양재동 코드랩
@@ -250,10 +238,18 @@
   - 분류: `교육`, `무료`, `Flutter`
   - 주최: 양재동 코드랩
   - 모집: 08. 22(일) 10:00 ~ 17:00
+- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기](https://festa.io/events/1751)__
+  - 분류: `웨비나`, `인프라`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 08. 26(목) 11:00 ~ 12:00
 - __[당근 SRE 밋업 1회](https://festa.io/events/1737)__
   - 분류: `웨비나`, `SRE`
   - 주최: 당근마켓
   - 일시: 08. 26(목) 19:30 ~ 22:00
+- __[게임사라면 꼭 들어야할 AWS 게임 부문 원격 세미나](https://www.megazone.com/apply-20210827webinar/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존 클라우드
+  - 일시: 08. 27(금) 14:00 ~ 18:30
 - __[2021Langcon](https://festa.io/events/1747)__
   - 분류: `웨비나`, `자연어`
   - 주최: Open Up
@@ -292,6 +288,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: 부산광역시
   - 일시: 09. 01(수) ~ 09. 02(목)
+- __[ICT개발자 취업 매칭데이](http://ictcoc.kr/04_com_n/com02_view.asp?idx=463)__
+  - 분류: `취업`
+  - 주최: 과학기술정보통신부
+  - 모집: 08. 19(목) ~ 09. 03(금)
 - __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
   - 분류: `웨비나`, `게임`
   - 주최: Google
