@@ -210,6 +210,10 @@
   - 분류: `웨비나`
   - 주최: LG CNS
   - 일시: 08. 26(목)
+- __[Golang 1.17 Release Party](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-117-release-party/)__
+  - 분류: `웨비나`, `Go`
+  - 주최: Golang korea
+  - 일시: 08. 26(목) 20:00
 - __[NVIDIA AI DEVELOPER MEETUP - RECSYS](https://festa.io/events/1738)__
   - 분류: `웨비나`
   - 주최: NVIDIA
@@ -316,6 +320,10 @@
   - 분류: `웨비나`
   - 주최: 한국소프트웨어기술진흥회
   - 신청: 08. 13(금) ~ 09. 07(화)
+- __[삼성SDS 온라인 컨퍼런스 REAL 2021](https://real.samsungsds.com)__
+  - 분류: `웨비나`
+  - 주최: 삼성SDS
+  - 신청: 09. 08(수) ~ 09. 09(목)
 - __[DNSSEC: DNS 데이터 위-변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/36063)__
   - 분류: `웨비나`
   - 주최: KISA
