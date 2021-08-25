@@ -250,10 +250,18 @@
   - 분류: `웨비나`, `SRE`
   - 주최: 당근마켓
   - 일시: 08. 26(목) 19:30 ~ 22:00
+- __[IT-PLUS : NFT, 새로운 변화를 읽다](https://event-us.kr/dreamplusgangnam/event/35827)__
+  - 분류: `웨비나`, `NFT`
+  - 주최: 드림플러스
+  - 일시: 08. 26(목) 15:00 ~ 16:30
 - __[게임사라면 꼭 들어야할 AWS 게임 부문 원격 세미나](https://www.megazone.com/apply-20210827webinar/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 일시: 08. 27(금) 14:00 ~ 18:30
+- __[MWU KOREA AWARD 2021](http://www.unitysquare.co.kr/madewith/mwu)__
+  - 분류: `대회`
+  - 주최: 유니티
+  - 일시: 07. 01(목) ~ 08. 27(금)
 - __[2021Langcon](https://festa.io/events/1747)__
   - 분류: `웨비나`, `자연어`
   - 주최: Open Up
@@ -278,6 +286,10 @@
   - 분류: `대회`, `메타버스`
   - 주최: 과학기술정보통신부
   - 접수: 08. 31(화) 10:30 ~ 11:30
+- __[제2회 AI Security Day](https://event-us.kr/aisec/event/34135)__
+  - 분류: `웨비나`, `AI`, `보안`
+  - 주최: 과학기술정보통신부
+  - 일시: 08. 31(화) 10:00 ~ 15:30
 
 <br />
 
@@ -304,6 +316,10 @@
   - 분류: `취업`
   - 주최: 과학기술정보통신부
   - 모집: 08. 19(목) ~ 09. 03(금)
+- __[2021 사이버보안 컨퍼런스](https://event-us.kr/cybersecurity2021/event/36125)__
+  - 분류: `웨비나`, `보안`
+  - 주최: 한국정보보호학회
+  - 접수: 09. 01(수) ~ 09. 03(금)
 - __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
   - 분류: `웨비나`, `게임`
   - 주최: Google
@@ -324,6 +340,10 @@
   - 분류: `웨비나`
   - 주최: 삼성SDS
   - 신청: 09. 08(수) ~ 09. 09(목)
+- __[JetBrains x 프로그래머스 월간 코드 챌린지 시즌3](https://programmers.co.kr/competitions/1581?utm_source=mailchimp&utm_medium=email&utm_campaign=competition1581_news&utm_content=1581_img01)__
+  - 분류: `대회`, `알고리즘`
+  - 주최: 프로그래머스
+  - 신청: 09. 09(목) 19:30 ~ 22:30
 - __[DNSSEC: DNS 데이터 위-변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/36063)__
   - 분류: `웨비나`
   - 주최: KISA
@@ -332,6 +352,10 @@
   - 분류: `경진대회`
   - 주최: ETRI
   - 일시: 07. 06(화) ~ 09. 15(수)
+- __[AI for Everyone, ai.x 2021](https://www.skt.ai/kr/ai_x/index.do)__
+  - 분류: `웨비나`, `AI`
+  - 주최: SKT
+  - 일시: 09. 15(수) ~ 09. 16(목)
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
@@ -340,6 +364,10 @@
   - 분류: `컨퍼런스`, `우분투`
   - 주최: Ubucon
   - 일시: 09. 25(토) ~ 09. 26(일)
+- __[AI Test-Bed Korea 산업지능화 경진대회](https://dacon.io/competitions/official/235803/overview/description/)__
+  - 분류: `대회`, `AI`
+  - 주최: 광주광역시
+  - 일시: 08. 31(화) ~ 09. 29(일)
 
 <br />
 
