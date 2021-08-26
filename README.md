@@ -149,63 +149,11 @@
 
 ## 21년 08월
 
-- __[디프만 10th](https://www.depromeet.com/)__
-  - 분류: `동아리`
-  - 주최: 디프만
-  - 모집: 08. 20(금) 23:59
-  
-- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
-  - 분류: `교육`, `무료`, `React Native`
-  - 주최: 양재동 코드랩
-  - 모집: 08. 21(토) 10:00 ~ 17:00
-- __[[PCD Seoul 2021] 프로세싱 커뮤니티 데이 메타-서울 모임](https://festa.io/events/1745)__
-  - 분류: `모임`
-  - 주최: PCD Seoul
-  - 모집: 08. 21(토) 12:00 ~ 21:00
-- __[취준생을 위한 현직자 IT 직무 특강](https://academy.elice.io/courses/14222/info)__
-  - 분류: `웨비나`, `진로`
-  - 주최: 엘리스
-  - 일시: 08. 21(토) 13:00 ~ 16:00
-- __[개발자만을 위한 꿀잼 네트워킹파티](https://okky.kr/article/1023978)__
-  - 분류: `네트워크`
-  - 주최: Growith
-  - 일시: 08. 21(토) 20:00 ~ 21:30
-- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
-  - 분류: `교육`, `무료`, `Flutter`
-  - 주최: 양재동 코드랩
-  - 모집: 08. 22(일) 10:00 ~ 17:00
-- __[제2회 예술데이터가 바꾸는 세상 챌린지](https://www.arko.or.kr/board/view/4053?cid=1803181)__
-  - 분류: `대회`, `데이터`
-  - 주최: 과학기술정보통신부
-  - 모집: 07. 26(월) ~ 08. 22(일)
-- __[군장병 공개SW 온라인 해커톤 일정 안내](https://osam.kr/community/notice?m=v&wdnId=19)__
-  - 분류: `대회`, `해커톤`
-  - 주최: 국방오픈소스아카데이
-  - 모집: 08. 07(토) ~ 08. 22(일)
-- __[제2회 예술데이터가 바꾸는 세상 챌린지](https://www.arko.or.kr/board/view/4053?bid=&page=&cid=1803181)__
-  - 분류: `대회`, `아이디어톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 07. 26(월) ~ 08. 22(일)
-- __[AWS로 게임 런칭 준비하기](https://pages.awscloud.com/game-master-online)__
-  - 분류: `클라우드`
-  - 주최: AWS
-  - 모집: 08. 24(화) 13:00 ~ 17:00
-- __[GCP 입문을 위한 Google Cloud Platform Fundamentals](https://festa.io/events/1718)__
-  - 분류: `클라우드`
-  - 주최: 메가존
-  - 일시: 08. 24(화) 09:30 ~ 17:30
-- __[애자일 코리아 8월 밋업 '카카오는 애자일한가요? #2'](https://festa.io/events/1730)__
-  - 분류: `웨비나`, `애자일`
-  - 주최: 애자일 코리아 밋업
-  - 일시: 08. 25(수) 14:00 ~ 17:00
-- __[게임 데이터 저장부터 분석까지, 게임사들의 슬기로운 데이터 활용법!](https://www.megazone.com/apply-20210825webinar/?utm_source=festa&amp;utm_medium=post&amp;utm_campaign=0825webinar)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 08. 25(수) 21:00 ~ 23:00
 - __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 충북대
   - 일시: 07. 28(수) ~ 08. 26(목)
+  
 - __[뉴 노멀 시대에 필요한 Application Modernization](https://dacon.io/competitions/official/235753/overview/description)__
   - 분류: `웨비나`
   - 주최: LG CNS
@@ -290,6 +238,10 @@
   - 분류: `웨비나`, `AI`, `보안`
   - 주최: 과학기술정보통신부
   - 일시: 08. 31(화) 10:00 ~ 15:30
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/280000666/)__
+  - 분류: `모임`, `컨테이너`
+  - 주최: AWSKRUG
+  - 일시: 08. 31(화) 19:00 ~ 22:00
 
 <br />
 
@@ -300,6 +252,10 @@
   - 주최: SK CNC
   - 접수: 09. 01(수) 14:00 ~ 16:20
 
+- __[GitHub 보안기능 데모：Code scanning과 CodeQL](https://resources.github.com/webcasts/kr-DevSecOps-GitHub-Talk/)__
+  - 분류: `웨비나`, `CodeQL`
+  - 주최: GitHub Korea
+  - 접수: 09. 01(수) 13:00 ~ 14:00
 - __[인공지능 중급 기계학습/딥러닝 개발 과정](https://ict.eksa.or.kr/portal/apply_ict/main.user)__
   - 분류: `교육`, `무료`, `인공지능`
   - 주최: 한국IT비즈니스진흥협회
@@ -312,6 +268,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: 부산광역시
   - 일시: 09. 01(수) ~ 09. 02(목)
+- __[Follow-me! 클라우드 인프라 구축 기본편](https://festa.io/events/1762)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 09. 02(목) 11:00 ~ 12:00
 - __[ICT개발자 취업 매칭데이](http://ictcoc.kr/04_com_n/com02_view.asp?idx=463)__
   - 분류: `취업`
   - 주최: 과학기술정보통신부
@@ -340,6 +300,10 @@
   - 분류: `웨비나`
   - 주최: 삼성SDS
   - 신청: 09. 08(수) ~ 09. 09(목)
+- __[MongoDB Atlas 웨비나](https://mongodbatlaspart2korea.splashthat.com/)__
+  - 분류: `웨비나`
+  - 주최: MongoDB
+  - 신청: 09. 09(목) 14:00 ~ 15:00
 - __[JetBrains x 프로그래머스 월간 코드 챌린지 시즌3](https://programmers.co.kr/competitions/1581?utm_source=mailchimp&utm_medium=email&utm_campaign=competition1581_news&utm_content=1581_img01)__
   - 분류: `대회`, `알고리즘`
   - 주최: 프로그래머스
@@ -352,6 +316,10 @@
   - 분류: `경진대회`
   - 주최: ETRI
   - 일시: 07. 06(화) ~ 09. 15(수)
+- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://www.megazone.com/apply-20210915webinar/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 09. 15(수) 13:30 ~ 15:30
 - __[AI for Everyone, ai.x 2021](https://www.skt.ai/kr/ai_x/index.do)__
   - 분류: `웨비나`, `AI`
   - 주최: SKT
