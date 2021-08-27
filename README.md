@@ -149,43 +149,11 @@
 
 ## 21년 08월
 
-- __[2021 빅데이터 통신 플랫폼 경진대회](https://dacon.io/competitions/official/235753/overview/description)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 충북대
-  - 일시: 07. 28(수) ~ 08. 26(목)
-  
-- __[뉴 노멀 시대에 필요한 Application Modernization](https://dacon.io/competitions/official/235753/overview/description)__
-  - 분류: `웨비나`
-  - 주최: LG CNS
-  - 일시: 08. 26(목)
-- __[Golang 1.17 Release Party](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-golang-117-release-party/)__
-  - 분류: `웨비나`, `Go`
-  - 주최: Golang korea
-  - 일시: 08. 26(목) 20:00
-- __[NVIDIA AI DEVELOPER MEETUP - RECSYS](https://festa.io/events/1738)__
-  - 분류: `웨비나`
-  - 주최: NVIDIA
-  - 일시: 08. 27(금) 10:00 ~ 12:00
-- __[스타트업을 위한 클라우드 101 웨비나에 초대합니다!](https://www.megazone.com/application_form_smb_salesforce-apply-210826_27?utm_source=festa&amp;utm_medium=webinar&amp;utm_campaign=21-aws-startup-101-8)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 07. 26(목) 14:00 ~ 08. 27(금) 17:00
-- __[Metaverse 시대를 리딩하는 핵심 혁신기술](https://www.xrcampus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=109&selYear=&selApplyStatus=)__
-  - 분류: `워크숍`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 25(수) ~ 08. 27(금)
-- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
-  - 분류: `교육`, `무료`, `React Native`
-  - 주최: 양재동 코드랩
-  - 모집: 08. 21(토) 10:00 ~ 17:00
-- __[DND Open Seminar, Django, Android 기초 쌓기](https://festa.io/events/1729)__
-  - 분류: `웨비나`
-  - 주최: DNS
-  - 일시: 08. 28(토) 13:00 ~ 15:00
 - __[Prisma Korea Meetup](https://festa.io/events/1716)__
   - 분류: `웨비나`
   - 주최: Prisma Korea
   - 일시: 08. 28(토) 14:00 ~ 16:00
+  
 - __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
   - 분류: `교육`, `무료`, `Flutter`
   - 주최: 양재동 코드랩
@@ -210,10 +178,18 @@
   - 분류: `대회`
   - 주최: 유니티
   - 일시: 07. 01(목) ~ 08. 27(금)
+- __[DND Open Seminar, Django, Android 기초 쌓기](https://festa.io/events/1729)__
+  - 분류: `웨비나`
+  - 주최: DNS
+  - 일시: 08. 28(토) 13:00 ~ 15:00
 - __[2021Langcon](https://festa.io/events/1747)__
   - 분류: `웨비나`, `자연어`
   - 주최: Open Up
   - 모집: 08. 28(토) 11:30 ~ 18:00
+- __[아마존과 함께 하는 AWS Cloud4Career](https://cs.kookmin.ac.kr/news/notice/1853?sc=326)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존 클라우드
+  - 일시: 08. 27(금) ~ 08. 28(토)
 - __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
   - 분류: `대회`, `AI` 
   - 주최: KB 국민은행
@@ -304,6 +280,10 @@
   - 분류: `웨비나`
   - 주최: MongoDB
   - 신청: 09. 09(목) 14:00 ~ 15:00
+- __[Kubernetes Community Days Korea](https://community.cncf.io/events/details/cncf-kcd-korea-presents-kubernetes-community-days-korea/)__
+  - 분류: `웨비나`, `쿠버네티스`
+  - 주최: CLOUD NATIVE COMMUNITY GROUPS
+  - 신청: 09. 09(목) 10:00 ~ 20:00
 - __[JetBrains x 프로그래머스 월간 코드 챌린지 시즌3](https://programmers.co.kr/competitions/1581?utm_source=mailchimp&utm_medium=email&utm_campaign=competition1581_news&utm_content=1581_img01)__
   - 분류: `대회`, `알고리즘`
   - 주최: 프로그래머스
@@ -324,6 +304,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: SKT
   - 일시: 09. 15(수) ~ 09. 16(목)
+- __[2021년도 인공지능 그랜드 챌린지 본대회](https://www.ai-challenge.kr/sub03/view/id/736)__
+  - 분류: `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 23(월) ~ 09. 16(목)
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
