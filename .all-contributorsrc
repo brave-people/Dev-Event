@@ -231,6 +231,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "greatSumini",
+      "name": "Choi Sumin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48555121?v=4",
+      "profile": "https://sumini.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
