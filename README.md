@@ -387,6 +387,7 @@
 | Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리 | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
 | 디프만 | 디자이너와 프로그래머의 만남 | [depromeet.com](https://www.depromeet.com/) |
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임 | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
+| CEOS | 신촌 연합 IT 창업 동아리 | [공식 홈페이지](https://www.ceos.or.kr/) |
 
 <br />
 
