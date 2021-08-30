@@ -217,8 +217,8 @@
   - 일시: 08. 31(화) 10:00 ~ 15:30
 - __[AI콜로키움](https://forms.gle/rxb7y4hLdRdEPkZ4A)__
   - 분류: `웨비나`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 08. 31(화) 19:00 ~ 22:00
+  - 분류: `웨비나`, `AI`
+  - 주최: 대구광역시
 - __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/280000666/)__
   - 분류: `모임`, `컨테이너`
   - 주최: AWSKRUG
