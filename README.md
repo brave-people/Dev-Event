@@ -215,6 +215,10 @@
   - 분류: `웨비나`, `AI`, `보안`
   - 주최: 과학기술정보통신부
   - 일시: 08. 31(화) 10:00 ~ 15:30
+- __[AI콜로키움](https://forms.gle/rxb7y4hLdRdEPkZ4A)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 08. 31(화) 19:00 ~ 22:00
 - __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/280000666/)__
   - 분류: `모임`, `컨테이너`
   - 주최: AWSKRUG
@@ -335,10 +339,18 @@
   - 분류: `대회`
   - 주최: DACON
   - 일시: 08. 18(수) ~ 10. 08(수)
+- __[Red Hat Forum 버추얼 이벤트](https://events.redhat.com/profile/form/index.cfm?PKformID=0x436488abcd&amp;sc_cid=7013a000002pfo0AAA)__
+  - 분류: `웨비나`
+  - 주최: 레드햇
+  - 일시: 10. 13(수) 10:00 ~ 18:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
   - 모집: 08.02(월) ~ 10. 22(화)
+- __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
+  - 분류: `메타버스`, `오프라인`
+  - 주최: KEA
+  - 모집: 10. 26(화) ~ 10. 29(금)
 - __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
   - 분류: `클라우드`
   - 주최: AWS
