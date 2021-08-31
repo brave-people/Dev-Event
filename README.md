@@ -233,6 +233,10 @@
   - 주최: SK CNC
   - 접수: 09. 01(수) 14:00 ~ 16:20
 
+- __[DEV LIFE: 개발자 언니들의 커리어 이야기](https://www.wanted.co.kr/events/git_devlife?fbclid=IwAR0xrKko7kvFo0QclmAon3GGnIR0mcJRPlG3yhk_EKBhJymHFPqfXFDSCzA)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 걸스인텍 코리아
+  - 접수: 09. 01(수) 19:00 ~ 20:30
 - __[GitHub 보안기능 데모：Code scanning과 CodeQL](https://resources.github.com/webcasts/kr-DevSecOps-GitHub-Talk/)__
   - 분류: `웨비나`, `CodeQL`
   - 주최: GitHub Korea
@@ -325,6 +329,10 @@
   - 분류: `대회`, `AI`
   - 주최: 광주광역시
   - 일시: 08. 31(화) ~ 09. 29(일)
+- __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
+  - 분류: `대회`, `AI`
+  - 주최: AWS
+  - 일시: 09. 30(목) 09:00 ~ 17:00
 
 <br />
 
