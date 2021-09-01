@@ -148,84 +148,6 @@
 
 <br />
 
-## 21년 08월
-
-- __[Prisma Korea Meetup](https://festa.io/events/1716)__
-  - 분류: `웨비나`
-  - 주최: Prisma Korea
-  - 일시: 08. 28(토) 14:00 ~ 16:00
-  
-- __[Flutter 입문 4주 완성](https://www.codelabs.kr/codelabs/138)__
-  - 분류: `교육`, `무료`, `Flutter`
-  - 주최: 양재동 코드랩
-  - 모집: 08. 22(일) 10:00 ~ 17:00
-- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기](https://festa.io/events/1751)__
-  - 분류: `웨비나`, `인프라`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 08. 26(목) 11:00 ~ 12:00
-- __[당근 SRE 밋업 1회](https://festa.io/events/1737)__
-  - 분류: `웨비나`, `SRE`
-  - 주최: 당근마켓
-  - 일시: 08. 26(목) 19:30 ~ 22:00
-- __[IT-PLUS : NFT, 새로운 변화를 읽다](https://event-us.kr/dreamplusgangnam/event/35827)__
-  - 분류: `웨비나`, `NFT`
-  - 주최: 드림플러스
-  - 일시: 08. 26(목) 15:00 ~ 16:30
-- __[게임사라면 꼭 들어야할 AWS 게임 부문 원격 세미나](https://www.megazone.com/apply-20210827webinar/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존 클라우드
-  - 일시: 08. 27(금) 14:00 ~ 18:30
-- __[MWU KOREA AWARD 2021](http://www.unitysquare.co.kr/madewith/mwu)__
-  - 분류: `대회`
-  - 주최: 유니티
-  - 일시: 07. 01(목) ~ 08. 27(금)
-- __[DND Open Seminar, Django, Android 기초 쌓기](https://festa.io/events/1729)__
-  - 분류: `웨비나`
-  - 주최: DNS
-  - 일시: 08. 28(토) 13:00 ~ 15:00
-- __[2021Langcon](https://festa.io/events/1747)__
-  - 분류: `웨비나`, `자연어`
-  - 주최: Open Up
-  - 모집: 08. 28(토) 11:30 ~ 18:00
-- __[아마존과 함께 하는 AWS Cloud4Career](https://cs.kookmin.ac.kr/news/notice/1853?sc=326)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존 클라우드
-  - 일시: 08. 27(금) ~ 08. 28(토)
-- __[Future Finance A.I. Challenge](http://kbdatory.com/notice/view)__
-  - 분류: `대회`, `AI` 
-  - 주최: KB 국민은행
-  - 예선: ~ 08. 29(일)
-- __[2021년 7차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/241622)__
-  - 분류: `교육`
-  - 주최: 한국지능정보사회진흥원
-  - 기간: 08. 23(월) ~  08. 29(일)
-- __[제 6 회 부산 ICT융합 해카톤 대회](https://onoffmix.com/event/241330)__
-  - 분류: `해커톤`
-  - 주최: 부산광역시
-  - 일시: 07. 19(월) ~ 08. 31(화) 17:00
-- __[Oracle Tech Talk 시즌 2](https://www.allshowtv.com/detail.html?idx=736)__
-  - 분류: `웨비나`
-  - 주최: 메가존
-  - 일시: 08. 31(화) 10:30 ~ 11:30
-- __[2021 메타버스 개발자 경진대회](https://www.metaversedev.kr/info)__
-  - 분류: `대회`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 31(화) 10:30 ~ 11:30
-- __[제2회 AI Security Day](https://event-us.kr/aisec/event/34135)__
-  - 분류: `웨비나`, `AI`, `보안`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 31(화) 10:00 ~ 15:30
-- __[AI콜로키움](https://forms.gle/rxb7y4hLdRdEPkZ4A)__
-  - 분류: `웨비나`, `클라우드`
-  - 분류: `웨비나`, `AI`
-  - 주최: 대구광역시
-- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/ko-KR/awskrug/events/280000666/)__
-  - 분류: `모임`, `컨테이너`
-  - 주최: AWSKRUG
-  - 일시: 08. 31(화) 19:00 ~ 22:00
-
-<br />
-
 ## 21년 09월
 
 - __[Cloud 기반 AI/Data 플랫폼의 미래](https://www.skdna2021.com/)__
@@ -301,6 +223,14 @@
   - 분류: `웨비나`
   - 주최: KISA
   - 신청: 08. 17(화) ~ 09. 10(금)
+- __[캐치#개발자 커리어 콘 3회차 오픈!](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag/1?from=commu0826)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 09. 06(월) ~ 09. 10(금)
+- __[클라우드 매니지드 서비스 활용 시, 혜택 제대로 알아보기!](https://www.ksug.kr/event/event_regist.php)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 캐치
+  - 일시: 09. 10(금) 14:00 ~ 15:00
 - __[Fashion-How 시즌 2 ETRI 자율성장 인공지능 경진대회](https://fashion-how.org/ETRI/)__
   - 분류: `경진대회`
   - 주최: ETRI
@@ -317,6 +247,10 @@
   - 분류: `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 08. 23(월) ~ 09. 16(목)
+- __[2021 사이버보안 AI 빅데이터 활용 경진대회](https://aibigdatasec.kr/main)__
+  - 분류: `대회`, `보안`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 06(월) ~ 09. 24(금)
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
@@ -333,6 +267,14 @@
   - 분류: `대회`, `AI`
   - 주최: AWS
   - 일시: 09. 30(목) 09:00 ~ 17:00
+- __[2021 SW개발보안 모범사례 공모전](https://www.kisa.or.kr/notice/notice_View.jsp?mode=view&p_No=4&b_No=4&d_No=2825)__
+  - 분류: `대회`, `보안`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 01(수) ~ 09. 30(목)
+- __[2021 개인정보 가명 익명처리 기술 경진대회](https://pidicon.kr/apply)__
+  - 분류: `대회`, `보안`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 01(수) ~ 09. 30(목)
 
 <br />
 
