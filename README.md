@@ -150,23 +150,11 @@
 
 ## 21년 09월
 
-- __[Cloud 기반 AI/Data 플랫폼의 미래](https://www.skdna2021.com/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: SK CNC
-  - 접수: 09. 01(수) 14:00 ~ 16:20
-
-- __[DEV LIFE: 개발자 언니들의 커리어 이야기](https://www.wanted.co.kr/events/git_devlife?fbclid=IwAR0xrKko7kvFo0QclmAon3GGnIR0mcJRPlG3yhk_EKBhJymHFPqfXFDSCzA)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 걸스인텍 코리아
-  - 접수: 09. 01(수) 19:00 ~ 20:30
-- __[GitHub 보안기능 데모：Code scanning과 CodeQL](https://resources.github.com/webcasts/kr-DevSecOps-GitHub-Talk/)__
-  - 분류: `웨비나`, `CodeQL`
-  - 주최: GitHub Korea
-  - 접수: 09. 01(수) 13:00 ~ 14:00
 - __[인공지능 중급 기계학습/딥러닝 개발 과정](https://ict.eksa.or.kr/portal/apply_ict/main.user)__
   - 분류: `교육`, `무료`, `인공지능`
   - 주최: 한국IT비즈니스진흥협회
   - 접수: 07. 28(수) ~ 09. 02(목)
+  
 - __[Upbit Developer Conference 2021](https://udc.upbit.com/)__
   - 분류: `블록체인`
   - 주최: 업비트
@@ -199,6 +187,10 @@
   - 분류: `해커톤`
   - 주최: DACON
   - 일시: 07. 14(수) ~ 09. 04(토)
+- __[iOS 앱 개발자 데뷔 과정](https://ssac.seoul.kr/course/course_view.jsp?id=30589)__
+  - 분류: `교육`
+  - 주최: SSAC
+  - 신청: 09. 05(일)
 - __[SW설계 역량 선진화](https://www.kosta.or.kr/sub8/sub_board-event_view?id=43&page_no=1&viewStyle=&search_type=&search_title=)__
   - 분류: `웨비나`
   - 주최: 한국소프트웨어기술진흥회
@@ -207,6 +199,10 @@
   - 분류: `웨비나`
   - 주최: 삼성SDS
   - 신청: 09. 08(수) ~ 09. 09(목)
+- __[대량 접속 제어 솔루션 넷퍼넬 NetFUNNEL](https://register.gotowebinar.com/register/6047905906779407885)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 신청: 09. 09(목) 11:00 ~ 12:00
 - __[MongoDB Atlas 웨비나](https://mongodbatlaspart2korea.splashthat.com/)__
   - 분류: `웨비나`
   - 주최: MongoDB
@@ -235,7 +231,11 @@
   - 분류: `경진대회`
   - 주최: ETRI
   - 일시: 07. 06(화) ~ 09. 15(수)
-- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://www.megazone.com/apply-20210915webinar/)__
+- __[GitHub 2021 Secure Coding](https://www.megazone.com/apply-20210915webinar/)__
+  - 분류: `웨비나`, `보안`
+  - 주최: Github Korea
+  - 일시: 09. 15(수) 16:00 ~ 17:30
+- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://us06web.zoom.us/webinar/register/WN_t6E1pzmfQhuWKGIJvT92YA)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 09. 15(수) 13:30 ~ 15:30
