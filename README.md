@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -120,6 +120,7 @@
     <td align="center"><a href="https://github.com/GHooN99"><img src="https://avatars.githubusercontent.com/u/53388557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KyungHoon Jung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GHooN99" title="Code">💻</a></td>
     <td align="center"><a href="http://ihp001.tistory.com"><img src="https://avatars.githubusercontent.com/u/47745785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>INHYO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PARKINHYO" title="Code">💻</a></td>
     <td align="center"><a href="https://sumini.dev"><img src="https://avatars.githubusercontent.com/u/48555121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=greatSumini" title="Code">💻</a></td>
+    <td align="center"><a href="https://url.kr/xwdbtv"><img src="https://avatars.githubusercontent.com/u/67373938?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimxwan0319</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimxwan0319" title="Code">💻</a></td>
   </tr>
 </table>
 
