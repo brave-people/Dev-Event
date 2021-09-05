@@ -219,11 +219,11 @@
   - 분류: `경진대회`
   - 주최: ETRI
   - 일시: 07. 06(화) ~ 09. 15(수)
-- __[GitHub 2021 Secure Coding](https://www.megazone.com/apply-20210915webinar/)__
+- __[GitHub 2021 Secure Coding](https://us06web.zoom.us/webinar/register/WN_t6E1pzmfQhuWKGIJvT92YA)__
   - 분류: `웨비나`, `보안`
   - 주최: Github Korea
   - 일시: 09. 15(수) 16:00 ~ 17:30
-- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://us06web.zoom.us/webinar/register/WN_t6E1pzmfQhuWKGIJvT92YA)__
+- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://www.megazone.com/apply-20210915webinar/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 09. 15(수) 13:30 ~ 15:30
