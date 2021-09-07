@@ -151,35 +151,11 @@
 
 ## 21년 09월
 
-- __[ICT개발자 취업 매칭데이](http://ictcoc.kr/04_com_n/com02_view.asp?idx=463)__
-  - 분류: `취업`
-  - 주최: 과학기술정보통신부
-  - 모집: 08. 19(목) ~ 09. 03(금)
-  
-- __[2021 사이버보안 컨퍼런스](https://event-us.kr/cybersecurity2021/event/36125)__
-  - 분류: `웨비나`, `보안`
-  - 주최: 한국정보보호학회
-  - 접수: 09. 01(수) ~ 09. 03(금)
-- __[한국 개발자를 위한 Google for Games](https://developersonair.withgoogle.com/events/gfg_korea)__
-  - 분류: `웨비나`, `게임`
-  - 주최: Google
-  - 일시: 09. 03(금)
-- __[React Native 입문 한달 완성](https://www.codelabs.kr/codelabs/137)__
-  - 분류: `교육`, `무료`, `React Native`
-  - 주최: 양재동 코드랩
-  - 모집: 09. 04(토) 10:00 ~ 17:00
-- __[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/open/235622/overview/description)__
-  - 분류: `해커톤`
-  - 주최: DACON
-  - 일시: 07. 14(수) ~ 09. 04(토)
-- __[iOS 앱 개발자 데뷔 과정](https://ssac.seoul.kr/course/course_view.jsp?id=30589)__
-  - 분류: `교육`
-  - 주최: SSAC
-  - 신청: 09. 05(일)
 - __[SW설계 역량 선진화](https://www.kosta.or.kr/sub8/sub_board-event_view?id=43&page_no=1&viewStyle=&search_type=&search_title=)__
   - 분류: `웨비나`
   - 주최: 한국소프트웨어기술진흥회
   - 신청: 08. 13(금) ~ 09. 07(화)
+
 - __[삼성SDS 온라인 컨퍼런스 REAL 2021](https://real.samsungsds.com)__
   - 분류: `웨비나`
   - 주최: 삼성SDS
@@ -252,6 +228,10 @@
   - 분류: `컨퍼런스`, `우분투`
   - 주최: Ubucon
   - 일시: 09. 25(토) ~ 09. 26(일)
+- __[2021 스마트클라우드쇼](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC/)__
+  - 분류: `컨퍼런스`, `클라우드`
+  - 주최: 조선비즈
+  - 일시: 09. 28(화) ~ 09. 29(수)
 - __[AI Test-Bed Korea 산업지능화 경진대회](https://dacon.io/competitions/official/235803/overview/description/)__
   - 분류: `대회`, `AI`
   - 주최: 광주광역시
@@ -286,6 +266,10 @@
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
+- __[데이터야놀자 2021](https://datayanolja.kr/)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: 데이터야놀자
+  - 일시: 10. 16(토) 13:00 ~ 17:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
