@@ -188,6 +188,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 캐치
   - 일시: 09. 10(금) 14:00 ~ 15:00
+- __[SW개발인재 공동채용 패스티벌](https://sw-job.incruit.com/)__
+  - 분류: `채용`
+  - 주최: 중소벤처기업부
+  - 일시: 09. 13(월) 13:00 ~ 18:00
 - __[데이터 기반으로 프로덕트를 만든다는 것](https://event-us.kr/ab180/event/36415)__
   - 분류: `웨비나`, `데이터`
   - 주최: AB180
@@ -228,6 +232,10 @@
   - 분류: `컨퍼런스`, `우분투`
   - 주최: Ubucon
   - 일시: 09. 25(토) ~ 09. 26(일)
+- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 09. 29(수) 19:00 ~ 20:30
 - __[2021 스마트클라우드쇼](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 조선비즈
@@ -258,6 +266,10 @@
   - 주최: 파이콘
   - 모집: 10. 02(토) ~ 10. 03(일)
 
+- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 10. 06(수) 19:00 ~ 20:30
 - __[주식 종가 예측 Pre Competiton](https://dacon.io/competitions/official/235800/overview/description)__
   - 분류: `대회`
   - 주최: DACON
@@ -266,10 +278,18 @@
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
+- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 10. 06(수) 19:00 ~ 20:30
 - __[데이터야놀자 2021](https://datayanolja.kr/)__
   - 분류: `웨비나`, `데이터`
   - 주최: 데이터야놀자
   - 일시: 10. 16(토) 13:00 ~ 17:00
+- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 10. 13(수) 19:00 ~ 20:30
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
