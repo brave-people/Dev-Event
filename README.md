@@ -151,15 +151,11 @@
 
 ## 21년 09월
 
-- __[SW설계 역량 선진화](https://www.kosta.or.kr/sub8/sub_board-event_view?id=43&page_no=1&viewStyle=&search_type=&search_title=)__
-  - 분류: `웨비나`
-  - 주최: 한국소프트웨어기술진흥회
-  - 신청: 08. 13(금) ~ 09. 07(화)
-
 - __[삼성SDS 온라인 컨퍼런스 REAL 2021](https://real.samsungsds.com)__
   - 분류: `웨비나`
   - 주최: 삼성SDS
   - 신청: 09. 08(수) ~ 09. 09(목)
+  
 - __[대량 접속 제어 솔루션 넷퍼넬 NetFUNNEL](https://register.gotowebinar.com/register/6047905906779407885)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -224,6 +220,10 @@
   - 분류: `대회`, `보안`
   - 주최: 과학기술정보통신부
   - 접수: 09. 06(월) ~ 09. 24(금)
+- __[쉐어드아이티LIVE #71 랭코드 All-in-One 협업툴](https://app.livestorm.co/sharedit-1/live-71-microsoft-azure)__
+  - 분류: `웨비나`, `협업`
+  - 주최: 랭코드
+  - 일시: 09. 24(금) 14:00 ~ 15:00
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
