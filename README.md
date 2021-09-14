@@ -151,47 +151,11 @@
 
 ## 21년 09월
 
-- __[삼성SDS 온라인 컨퍼런스 REAL 2021](https://real.samsungsds.com)__
-  - 분류: `웨비나`
-  - 주최: 삼성SDS
-  - 신청: 09. 08(수) ~ 09. 09(목)
-  
-- __[대량 접속 제어 솔루션 넷퍼넬 NetFUNNEL](https://register.gotowebinar.com/register/6047905906779407885)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 신청: 09. 09(목) 11:00 ~ 12:00
-- __[MongoDB Atlas 웨비나](https://mongodbatlaspart2korea.splashthat.com/)__
-  - 분류: `웨비나`
-  - 주최: MongoDB
-  - 신청: 09. 09(목) 14:00 ~ 15:00
-- __[Kubernetes Community Days Korea](https://community.cncf.io/events/details/cncf-kcd-korea-presents-kubernetes-community-days-korea/)__
-  - 분류: `웨비나`, `쿠버네티스`
-  - 주최: CLOUD NATIVE COMMUNITY GROUPS
-  - 신청: 09. 09(목) 10:00 ~ 20:00
-- __[JetBrains x 프로그래머스 월간 코드 챌린지 시즌3](https://programmers.co.kr/competitions/1581?utm_source=mailchimp&utm_medium=email&utm_campaign=competition1581_news&utm_content=1581_img01)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 프로그래머스
-  - 신청: 09. 09(목) 19:30 ~ 22:30
-- __[DNSSEC: DNS 데이터 위-변조 방지](https://event-us.kr/Ut2KSHw11cCG/event/36063)__
-  - 분류: `웨비나`
-  - 주최: KISA
-  - 신청: 08. 17(화) ~ 09. 10(금)
-- __[캐치#개발자 커리어 콘 3회차 오픈!](https://www.catch.co.kr/CatchCafe/ProgramView/CatchTag/1?from=commu0826)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 09. 06(월) ~ 09. 10(금)
-- __[클라우드 매니지드 서비스 활용 시, 혜택 제대로 알아보기!](https://www.ksug.kr/event/event_regist.php)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 캐치
-  - 일시: 09. 10(금) 14:00 ~ 15:00
-- __[SW개발인재 공동채용 패스티벌](https://sw-job.incruit.com/)__
-  - 분류: `채용`
-  - 주최: 중소벤처기업부
-  - 일시: 09. 13(월) 13:00 ~ 18:00
 - __[데이터 기반으로 프로덕트를 만든다는 것](https://event-us.kr/ab180/event/36415)__
   - 분류: `웨비나`, `데이터`
   - 주최: AB180
   - 일시: 09. 14(화) 19:00 ~ 21:00
+  
 - __[Fashion-How 시즌 2 ETRI 자율성장 인공지능 경진대회](https://fashion-how.org/ETRI/)__
   - 분류: `경진대회`
   - 주최: ETRI
@@ -220,6 +184,10 @@
   - 분류: `해커톤`
   - 주최: 오픈데이터포럼
   - 접수: 08. 31(화) ~ 09. 17(금)
+- __[DevFest 2021 Global Networking Event](https://gdg.community.dev/events/details/google-gdg-global-presents-devfest-2021-global-networking-event/?code=vip)__
+  - 분류: `모임`
+  - 주최: Google Developer Groups
+  - 접수: 09. 23(목) 11:00
 - __[2021 사이버보안 AI 빅데이터 활용 경진대회](https://aibigdatasec.kr/main)__
   - 분류: `대회`, `보안`
   - 주최: 과학기술정보통신부
@@ -236,6 +204,10 @@
   - 분류: `컨퍼런스`, `우분투`
   - 주최: Ubucon
   - 일시: 09. 25(토) ~ 09. 26(일)
+- __[엘리스 SW 엔지니어(프론트엔드) 트랙 모집](https://elicetrack.oopy.io/?utm_source=okky&utm_medium=comm_posting&utm_campaign=KDT3)__
+  - 분류: `교육`, `프론트엔드`, `무료`
+  - 주최: elice
+  - 접수: 09. 06(월) ~ 09. 26(일)
 - __[(발표자 모집) 삼성 소프트웨어 개발자 컨퍼런스 2021](https://www.soscon.net/ssdc2021)__
   - 분류: `컨퍼런스`
   - 주최: 삼성
@@ -277,11 +249,15 @@
 
 ## 21년 10월
 
+- __[Azure Red Hat OpenShift (ARO) 워크샵](https://regi.co.kr/2021/redhat_demo/?ref=devmento)__
+  - 분류: `클라우드`
+  - 주최: 레드햇
+  - 일시: 09. 14(화) ~ 10. 01(금)
+
 - __[파이콘 2021](https://2021.pycon.kr/)__
   - 분류: `컨퍼런스`, `파이썬`
   - 주최: 파이콘
   - 모집: 10. 02(토) ~ 10. 03(일)
-
 - __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
@@ -334,6 +310,10 @@
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
   - 일시: 10. 30(토)
+- __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
+  - 분류: `대회`, `데이터`
+  - 주최: 행정안전부
+  - 일시: 10. 22(금) ~ 10. 30(토)
 
 <br />
 
