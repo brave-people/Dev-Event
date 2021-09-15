@@ -253,7 +253,10 @@
   - 분류: `클라우드`
   - 주최: 레드햇
   - 일시: 09. 14(화) ~ 10. 01(금)
-
+- __[월간 코드리뷰](https://taling.me/Event/monthly-codereview/ver_01?fbclid=IwAR2HvAtWbxigowXWFaIUOet_BB1im-Cq8A5IFxNceNRI3BfSDntzQOUMdas)__
+  - 분류: `웨비나`, `커리어 성장`, `오픈소스`
+  - 주최: 파이콘
+  - 모집: 10. 02(토) ~ 10. 03(일)
 - __[파이콘 2021](https://2021.pycon.kr/)__
   - 분류: `컨퍼런스`, `파이썬`
   - 주최: 파이콘
