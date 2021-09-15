@@ -184,6 +184,10 @@
   - 분류: `해커톤`
   - 주최: 오픈데이터포럼
   - 접수: 08. 31(화) ~ 09. 17(금)
+- __[우아한형제들 채용설명회](https://s.baemin.com/3osbowk)__
+  - 분류: `채용`
+  - 주최: 우아한형제들
+  - 일시: 09. 17(금) 18:00
 - __[DevFest 2021 Global Networking Event](https://gdg.community.dev/events/details/google-gdg-global-presents-devfest-2021-global-networking-event/?code=vip)__
   - 분류: `모임`
   - 주최: Google Developer Groups
@@ -212,6 +216,10 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성
   - 일시: 09. 09(목) ~ 09. 27(월)
+- __[인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/hangeul)__
+  - 분류: `경진대회`, `인공지능`
+  - 주최: 과학기술정보통신부
+  - 일시: 09. 15(수) ~ 09. 27(월)
 - __[스타트업을 위한 클라우드 101 웨비나에 초대합니다!](https://www.megazone.com/application_form_startup_webinar-apply-210927_28/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
@@ -228,6 +236,10 @@
   - 분류: `대회`, `AI`
   - 주최: 광주광역시
   - 일시: 08. 31(화) ~ 09. 29(일)
+- __[우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0)__
+  - 분류: `교육`, `유료`
+  - 주최: 우아한형제들
+  - 접수: 09. 15(수) ~ 09. 29(일)
 - __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
   - 분류: `대회`, `AI`
   - 주최: AWS
@@ -253,7 +265,8 @@
   - 분류: `클라우드`
   - 주최: 레드햇
   - 일시: 09. 14(화) ~ 10. 01(금)
-- __[월간 코드리뷰](https://taling.me/Event/monthly-codereview/ver_01?fbclid=IwAR2HvAtWbxigowXWFaIUOet_BB1im-Cq8A5IFxNceNRI3BfSDntzQOUMdas)__
+
+- __[월간 코드리뷰](https://taling.me/Event/monthly-codereview/ver_01)__
   - 분류: `웨비나`, `커리어 성장`, `오픈소스`
   - 주최: 파이콘
   - 모집: 10. 02(토) ~ 10. 03(일)
@@ -273,6 +286,14 @@
   - 분류: `대회`
   - 주최: DACON
   - 일시: 08. 18(수) ~ 10. 08(수)
+- __[주식 종가 예측 Pre Competiton](http://aihub-competition.or.kr/aidea)__
+  - 분류: `대회`
+  - 주최: 과학기술정보통신부
+  - 일시: 09. 15(수) ~ 10. 08(수)
+- __[(선착순) 모두가 행복한 GIT똥찬 개발](http://koreaitbusan.com/community/seminar_view.asp?idxnum=159)__
+  - 분류: `교육`, `Git`
+  - 주최: 코리아IT아카데미
+  - 일시: 10. 09(토) 11:00 ~ 12:00
 - __[Red Hat Forum 버추얼 이벤트](https://events.redhat.com/profile/form/index.cfm?PKformID=0x436488abcd&amp;sc_cid=7013a000002pfo0AAA)__
   - 분류: `웨비나`
   - 주최: 레드햇
@@ -297,6 +318,10 @@
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
   - 일시: 10. 13(수) 19:00 ~ 20:30
+- __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
+  - 분류: `컨퍼런스`
+  - 주최: ARM
+  - 일시: 10. 19(화) ~ 10. 21(수)
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
