@@ -151,39 +151,11 @@
 
 ## 21년 09월
 
-- __[데이터 기반으로 프로덕트를 만든다는 것](https://event-us.kr/ab180/event/36415)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: AB180
-  - 일시: 09. 14(화) 19:00 ~ 21:00
-  
-- __[Fashion-How 시즌 2 ETRI 자율성장 인공지능 경진대회](https://fashion-how.org/ETRI/)__
-  - 분류: `경진대회`
-  - 주최: ETRI
-  - 일시: 07. 06(화) ~ 09. 15(수)
-- __[GitHub 2021 Secure Coding](https://us06web.zoom.us/webinar/register/WN_t6E1pzmfQhuWKGIJvT92YA)__
-  - 분류: `웨비나`, `보안`
-  - 주최: Github Korea
-  - 일시: 09. 15(수) 16:00 ~ 17:30
-- __[소프트웨어를 통한 제조 기업 생산성 높이기 | 메가존클라우드 X AWS](https://www.megazone.com/apply-20210915webinar/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 09. 15(수) 13:30 ~ 15:30
-- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기! #1편](https://register.gotowebinar.com/register/8414749821102132237)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 09. 16(목) 11:00 ~ 12:00
-- __[AI for Everyone, ai.x 2021](https://www.skt.ai/kr/ai_x/index.do)__
-  - 분류: `웨비나`, `AI`
-  - 주최: SKT
-  - 일시: 09. 15(수) ~ 09. 16(목)
-- __[2021년도 인공지능 그랜드 챌린지 본대회](https://www.ai-challenge.kr/sub03/view/id/736)__
-  - 분류: `대회`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 23(월) ~ 09. 16(목)
 - __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
   - 분류: `해커톤`
   - 주최: 오픈데이터포럼
   - 접수: 08. 31(화) ~ 09. 17(금)
+  
 - __[우아한형제들 채용설명회](https://s.baemin.com/3osbowk)__
   - 분류: `채용`
   - 주최: 우아한형제들
@@ -200,6 +172,10 @@
   - 분류: `웨비나`, `협업`
   - 주최: 랭코드
   - 일시: 09. 24(금) 14:00 ~ 15:00
+- __[쏘카 개발자에게 물어봐](https://www.clubhouse.com/event/myyJrAlG)__
+  - 분류: `TALK`, `데이터`
+  - 주최: 멋쟁이사자처럼
+  - 일시: 09. 24(금) 18:00
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
@@ -224,6 +200,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 09. 27(월) ~ 09. 28(화)
+- __[AWS VOD/OTT Webinar: 맨땅에 헤딩으로 VOD/OTT 서비스 따라잡기](https://register.gotowebinar.com/register/5674428195723051536)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 09. 29(수) 14:00 ~ 16:00
 - __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
