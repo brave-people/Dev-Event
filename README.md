@@ -215,11 +215,15 @@
 - __[AI Test-Bed Korea 산업지능화 경진대회](https://dacon.io/competitions/official/235803/overview/description/)__
   - 분류: `대회`, `AI`
   - 주최: 광주광역시
-  - 일시: 08. 31(화) ~ 09. 29(일)
+  - 일시: 08. 31(화) ~ 09. 29(수)
 - __[우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0)__
   - 분류: `교육`, `유료`
   - 주최: 우아한형제들
-  - 접수: 09. 15(수) ~ 09. 29(일)
+  - 접수: 09. 15(수) ~ 09. 29(수)
+- __[우아한테크세미나 - 어디 가서 코프링 매우 알은 체하기!](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
+  - 분류: `세미나`, `무료`
+  - 주최: 우아한형제들
+  - 접수: 09. 29(수) 19:00 ~ 21:00
 - __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
   - 분류: `대회`, `AI`
   - 주최: AWS
