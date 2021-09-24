@@ -152,23 +152,11 @@
 
 ## 21년 09월
 
-- __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
-  - 분류: `해커톤`
-  - 주최: 오픈데이터포럼
-  - 접수: 08. 31(화) ~ 09. 17(금)
-  
-- __[우아한형제들 채용설명회](https://s.baemin.com/3osbowk)__
-  - 분류: `채용`
-  - 주최: 우아한형제들
-  - 일시: 09. 17(금) 18:00
-- __[DevFest 2021 Global Networking Event](https://gdg.community.dev/events/details/google-gdg-global-presents-devfest-2021-global-networking-event/?code=vip)__
-  - 분류: `모임`
-  - 주최: Google Developer Groups
-  - 접수: 09. 23(목) 11:00
 - __[2021 사이버보안 AI 빅데이터 활용 경진대회](https://aibigdatasec.kr/main)__
   - 분류: `대회`, `보안`
   - 주최: 과학기술정보통신부
   - 접수: 09. 06(월) ~ 09. 24(금)
+
 - __[쉐어드아이티LIVE #71 랭코드 All-in-One 협업툴](https://app.livestorm.co/sharedit-1/live-71-microsoft-azure)__
   - 분류: `웨비나`, `협업`
   - 주최: 랭코드
@@ -201,6 +189,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 09. 27(월) ~ 09. 28(화)
+- __[스마트클라우드쇼 2021](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC//)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 조선비즈
+  - 일시: 09. 28(화) ~ 09. 29(수)
 - __[AWS VOD/OTT Webinar: 맨땅에 헤딩으로 VOD/OTT 서비스 따라잡기](https://register.gotowebinar.com/register/5674428195723051536)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
@@ -221,6 +213,14 @@
   - 분류: `교육`, `유료`
   - 주최: 우아한형제들
   - 접수: 09. 15(수) ~ 09. 29(수)
+- __[컨테이너 인프라의 표준 Kubernetes Fundamentals](https://gc.hosting.kr/kubernetes_gke_september/)__
+  - 분류: `교육`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 09. 29(수) 14:00 ~ 15:00
+- __[AWS 맨땅에 헤딩으로 VOD/OTT 서비스 따라잡기](https://register.gotowebinar.com/register/5674428195723051536)__
+  - 분류: `교육`, `클라우드`
+  - 주최: AWS
+  - 일시: 09. 29(수) 14:00 ~ 16:00
 - __[우아한테크세미나 - 어디 가서 코프링 매우 알은 체하기!](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
   - 분류: `세미나`, `무료`
   - 주최: 우아한형제들
@@ -263,6 +263,10 @@
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
   - 일시: 10. 06(수) 19:00 ~ 20:30
+- __[쿠팡 출신 개발자의 장애 리스크 없이 배포하는 방법](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
+  - 분류: `웨비나`
+  - 주최: 핵클
+  - 일시: 10. 06(수) 19:00
 - __[AI PLUS 2021](https://www.aiplus2021.com/)__
   - 분류: `웨비나`, `AI`
   - 주최: 이스트소프트
@@ -306,7 +310,11 @@
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
-  - 모집: 08.02(월) ~ 10. 22(화)
+  - 모집: 08. 02(월) ~ 10. 22(화)
+- __[AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)__
+  - 분류: `대회`, `AI`
+  - 주최: LG
+  - 일시: 09. 27(월) ~ 10. 25(월)
 - __[Next.js Conf](https://nextjs.org/conf)__
   - 분류: `Next.js`, `컨퍼런스`, `온라인`
   - 주최: Vercel
