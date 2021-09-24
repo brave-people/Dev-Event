@@ -212,7 +212,11 @@
 - __[우아한테크세미나 - 어디 가서 코프링 매우 알은 체하기!](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
   - 분류: `세미나`, `무료`
   - 주최: 우아한형제들
-  - 접수: 09. 29(수) 19:00 ~ 21:00
+  - 일시: 09. 29(수) 19:00 ~ 21:00
+- __[모여서 각자 글쓰기](https://gdg.community.dev/events/details/google-gdg-seoul-presents-re-re-moyeoseo-gagja-geulsseugi/)__
+  - 분류: `모임`, `온라인`
+  - 주최: GDG Seoul
+  - 일시: 09. 29(수) 20:00 ~ 22:00
 - __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
   - 분류: `대회`, `AI`
   - 주최: AWS
@@ -229,6 +233,10 @@
   - 분류: `모임`
   - 주최: 남해준
   - 접수: 09. 10(금) ~ 09. 30(목)
+- __[[당근마켓] 모바일 앱 개발자 공개채용 설명회](https://festa.io/events/1825)__
+  - 분류: `공개채용`
+  - 주최: 당근마켓
+  - 일시: 09. 30(목) 19:30 ~ 22:00
 
 <br />
 
