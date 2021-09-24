@@ -152,23 +152,11 @@
 
 ## 21년 09월
 
-- __[2021 사이버보안 AI 빅데이터 활용 경진대회](https://aibigdatasec.kr/main)__
-  - 분류: `대회`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 09. 06(월) ~ 09. 24(금)
-
-- __[쉐어드아이티LIVE #71 랭코드 All-in-One 협업툴](https://app.livestorm.co/sharedit-1/live-71-microsoft-azure)__
-  - 분류: `웨비나`, `협업`
-  - 주최: 랭코드
-  - 일시: 09. 24(금) 14:00 ~ 15:00
-- __[쏘카 개발자에게 물어봐](https://www.clubhouse.com/event/myyJrAlG)__
-  - 분류: `TALK`, `데이터`
-  - 주최: 멋쟁이사자처럼
-  - 일시: 09. 24(금) 18:00
 - __[DroidKnights 2021](https://festa.io/events/1677)__
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: DroidKnights Community
   - 일시: 09. 25(토) 13:00 ~ 16:00
+
 - __[우부콘 아시아 2021](https://2021.ubucon.asia/ko/)__
   - 분류: `컨퍼런스`, `우분투`
   - 주최: Ubucon
