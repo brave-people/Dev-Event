@@ -152,31 +152,11 @@
 
 ## 21년 09월
 
-- __[DroidKnights 2021](https://festa.io/events/1677)__
-  - 분류: `컨퍼런스`, `안드로이드`
-  - 주최: DroidKnights Community
-  - 일시: 09. 25(토) 13:00 ~ 16:00
-
-- __[우부콘 아시아 2021](https://2021.ubucon.asia/ko/)__
-  - 분류: `컨퍼런스`, `우분투`
-  - 주최: Ubucon
-  - 일시: 09. 25(토) ~ 09. 26(일)
-- __[엘리스 SW 엔지니어(프론트엔드) 트랙 모집](https://elicetrack.oopy.io/?utm_source=okky&utm_medium=comm_posting&utm_campaign=KDT3)__
-  - 분류: `교육`, `프론트엔드`, `무료`
-  - 주최: elice
-  - 접수: 09. 06(월) ~ 09. 26(일)
-- __[(발표자 모집) 삼성 소프트웨어 개발자 컨퍼런스 2021](https://www.soscon.net/ssdc2021)__
-  - 분류: `컨퍼런스`
-  - 주최: 삼성
-  - 일시: 09. 09(목) ~ 09. 27(월)
-- __[인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/hangeul)__
-  - 분류: `경진대회`, `인공지능`
-  - 주최: 과학기술정보통신부
-  - 일시: 09. 15(수) ~ 09. 27(월)
 - __[스타트업을 위한 클라우드 101 웨비나에 초대합니다!](https://www.megazone.com/application_form_startup_webinar-apply-210927_28/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 09. 27(월) ~ 09. 28(화)
+
 - __[스마트클라우드쇼 2021](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC//)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 조선비즈
@@ -217,6 +197,10 @@
   - 분류: `모임`, `온라인`
   - 주최: GDG Seoul
   - 일시: 09. 29(수) 20:00 ~ 22:00
+- __[Medical Image AI Challenge 2021](hthttps://maic.or.kr/competitions/11/infomation)__
+  - 분류: `대회`, `AI`
+  - 주최: 서울대학교병원
+  - 모집: 09. 16(목) ~ 09. 29(수)
 - __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
   - 분류: `대회`, `AI`
   - 주최: AWS
@@ -283,6 +267,10 @@
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
+- __[JetBrains JavaScript Day 2021](https://pages.jetbrains.com/javascript-day-2021/youtube-ad)__
+  - 분류: `웨비나`, `자바스크립트`
+  - 주최: JET BRAINS
+  - 일시: 10. 14(목) 04:00 ~ 08:00
 - __[2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스 첫 개최](https://www.gamex.game/)__
   - 분류: `웨비나`, `게임`
   - 주최: 네이버 클라우드 플랫폼
@@ -307,6 +295,14 @@
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
   - 모집: 08. 02(월) ~ 10. 22(화)
+- __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
+  - 분류: `컨퍼런스`, `AWS`
+  - 주최: AWS
+  - 일시: 10. 22(수) 14:00 ~ 18:00
+- __[2021년도 AI/로봇 해커톤 in 마곡](https://onoffmix.com/event/244968)__
+  - 분류: `해커톤`, `창업`
+  - 주최: 서울산업진흥원
+  - 접수: 09. 24(금) ~ 10. 24(일)
 - __[AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)__
   - 분류: `대회`, `AI`
   - 주최: LG
