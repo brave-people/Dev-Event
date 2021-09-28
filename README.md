@@ -239,6 +239,10 @@
   - 분류: `컨퍼런스`, `파이썬`
   - 주최: 파이콘
   - 모집: 10. 02(토) ~ 10. 03(일)
+- __[2021 World Class Job Festival](https://worldclassjobfestival.kr/main/main.php)__
+  - 분류: `채용`
+  - 주최: 산업통상자원부
+  - 일시: 09. 28(화) ~ 10. 05(화)
 - __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
@@ -247,6 +251,10 @@
   - 분류: `웨비나`
   - 주최: 핵클
   - 일시: 10. 06(수) 19:00
+- __[2021 AI Challenge for Our Society](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
+  - 분류: `경진대회`, `AI`
+  - 주최: SNUI
+  - 일시: 09. 27(월) ~ 10. 06(수)
 - __[AI PLUS 2021](https://www.aiplus2021.com/)__
   - 분류: `웨비나`, `AI`
   - 주최: 이스트소프트
@@ -255,7 +263,7 @@
   - 분류: `대회`
   - 주최: DACON
   - 일시: 08. 18(수) ~ 10. 08(수)
-- __[주식 종가 예측 Pre Competiton](http://aihub-competition.or.kr/aidea)__
+- __[2021 인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/aidea)__
   - 분류: `대회`
   - 주최: 과학기술정보통신부
   - 일시: 09. 15(수) ~ 10. 08(수)
@@ -332,6 +340,10 @@
 
 ## 21년 11월
 
+- __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
+  - 분류: `대회`, `빅데이터`
+  - 주최: 국립생태원
+  - 일시: 11. 04(목) ~ 11. 18(목)
 - __[삼성 소프트웨어 개발자 컨퍼런스 2021](https://www.soscon.net/ssdc2021)__
   - 분류: `컨퍼런스`
   - 주최: 삼성
