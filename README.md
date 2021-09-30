@@ -335,6 +335,10 @@
   - 분류: `대회`, `데이터`
   - 주최: 행정안전부
   - 일시: 10. 22(금) ~ 10. 30(토)
+- __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
+  - 분류: `오픈소스 참여 이벤트`, `오픈소스 컨트리뷰션`
+  - 주최: DigitalOcean
+  - 일시: 10. 01(금) ~ 10. 31(일)
 
 <br />
 
