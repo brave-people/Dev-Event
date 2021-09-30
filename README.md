@@ -152,55 +152,11 @@
 
 ## 21년 09월
 
-- __[스마트클라우드쇼 2021](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC//)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 조선비즈
-  - 일시: 09. 28(화) ~ 09. 29(수)
-
-- __[AWS VOD/OTT Webinar: 맨땅에 헤딩으로 VOD/OTT 서비스 따라잡기](https://register.gotowebinar.com/register/5674428195723051536)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 09. 29(수) 14:00 ~ 16:00
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 09. 29(수) 19:00 ~ 20:30
-- __[2021 스마트클라우드쇼](https://e.chosunbiz.com/tc-events/2021-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%87%BC/)__
-  - 분류: `컨퍼런스`, `클라우드`
-  - 주최: 조선비즈
-  - 일시: 09. 28(화) ~ 09. 29(수)
-- __[AI Test-Bed Korea 산업지능화 경진대회](https://dacon.io/competitions/official/235803/overview/description/)__
-  - 분류: `대회`, `AI`
-  - 주최: 광주광역시
-  - 일시: 08. 31(화) ~ 09. 29(수)
-- __[우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0)__
-  - 분류: `교육`, `유료`
-  - 주최: 우아한형제들
-  - 접수: 09. 15(수) ~ 09. 29(수)
-- __[컨테이너 인프라의 표준 Kubernetes Fundamentals](https://gc.hosting.kr/kubernetes_gke_september/)__
-  - 분류: `교육`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 09. 29(수) 14:00 ~ 15:00
-- __[AWS 맨땅에 헤딩으로 VOD/OTT 서비스 따라잡기](https://register.gotowebinar.com/register/5674428195723051536)__
-  - 분류: `교육`, `클라우드`
-  - 주최: AWS
-  - 일시: 09. 29(수) 14:00 ~ 16:00
-- __[우아한테크세미나 - 어디 가서 코프링 매우 알은 체하기!](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
-  - 분류: `세미나`, `무료`
-  - 주최: 우아한형제들
-  - 일시: 09. 29(수) 19:00 ~ 21:00
-- __[모여서 각자 글쓰기](https://gdg.community.dev/events/details/google-gdg-seoul-presents-re-re-moyeoseo-gagja-geulsseugi/)__
-  - 분류: `모임`, `온라인`
-  - 주최: GDG Seoul
-  - 일시: 09. 29(수) 20:00 ~ 22:00
-- __[Medical Image AI Challenge 2021](hthttps://maic.or.kr/competitions/11/infomation)__
-  - 분류: `대회`, `AI`
-  - 주최: 서울대학교병원
-  - 모집: 09. 16(목) ~ 09. 29(수)
 - __[AWSome Day 온라인](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)__
   - 분류: `대회`, `AI`
   - 주최: AWS
   - 일시: 09. 30(목) 09:00 ~ 17:00
+  
 - __[2021 SW개발보안 모범사례 공모전](https://www.kisa.or.kr/notice/notice_View.jsp?mode=view&p_No=4&b_No=4&d_No=2825)__
   - 분류: `대회`, `보안`
   - 주최: 과학기술정보통신부
@@ -239,6 +195,10 @@
   - 분류: `채용`
   - 주최: 산업통상자원부
   - 일시: 09. 28(화) ~ 10. 05(화)
+- __[New Meetup for Data Scientists in Seoul](hhttps://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/zttvpsyccnbhb/)__
+  - 분류: `모임`, `데이터사이언스`
+  - 주최: Data Scientist Meetup in Seoul
+  - 일시: 10. 05(화) 19:00 ~ 21:00
 - __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
@@ -336,9 +296,13 @@
   - 주최: 행정안전부
   - 일시: 10. 22(금) ~ 10. 30(토)
 - __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
-  - 분류: `오픈소스 참여 이벤트`, `오픈소스 컨트리뷰션`
+  - 분류: `오픈소스`, `컨트리뷰션`
   - 주최: DigitalOcean
   - 일시: 10. 01(금) ~ 10. 31(일)
+- __[2021 adiOS October](https://festa.io/events/1809)__
+  - 분류: `웨비나`, `iOS`
+  - 주최: adiOS
+  - 일시: 10. 31(일) 15:00 ~ 17:30
 
 <br />
 
