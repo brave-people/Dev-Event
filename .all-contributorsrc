@@ -258,6 +258,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yooseongsil",
+      "name": "Seongsil Yoo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19399338?v=4",
+      "profile": "https://seongsilyoo.medium.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
