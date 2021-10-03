@@ -367,7 +367,7 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 스프린트 서울 | [www.sprintseoul.org](https://www.sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) |
+| 스프린트 서울 | [sprintseoul.org](https://sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) |
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
