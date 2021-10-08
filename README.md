@@ -301,6 +301,10 @@
   - 분류: `컨퍼런스`, `기술`
   - 주최: SK
   - 일시: 11. 03(수) ~ 11. 04(목)
+- __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
+  - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
+  - 주최: LINE
+  - 일시: 11. 10(수) ~ 11. 11(목)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
