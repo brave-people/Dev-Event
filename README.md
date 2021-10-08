@@ -155,44 +155,12 @@
 
 ## 21년 10월
 
-- __[New Meetup for Data Scientists in Seoul](hhttps://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/zttvpsyccnbhb/)__
-  - 분류: `모임`, `데이터사이언스`
-  - 주최: Data Scientist Meetup in Seoul
-  - 일시: 10. 05(화) 19:00 ~ 21:00
-
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 10. 06(수) 19:00 ~ 20:30
-- __[쿠팡 출신 개발자의 장애 리스크 없이 배포하는 방법](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
-  - 분류: `웨비나`
-  - 주최: 핵클
-  - 일시: 10. 06(수) 19:00
-- __[2021 AI Challenge for Our Society](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
-  - 분류: `경진대회`, `AI`
-  - 주최: SNUI
-  - 일시: 09. 27(월) ~ 10. 06(수)
-- __[METACON 2021](https://meta-con.io/)__
-  - 분류: `메타버스`, `컨퍼런스`, `온라인`
-  - 주최: TV조선
-  - 일시: 10. 06(수) ~ 10. 07(목)
-- __[AI PLUS 2021](https://www.aiplus2021.com/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 이스트소프트
-  - 일시: 10. 06(수) ~ 10. 07(목)
-- __[주식 종가 예측 Pre Competiton](https://dacon.io/competitions/official/235800/overview/description)__
-  - 분류: `대회`
-  - 주최: DACON
-  - 일시: 08. 18(수) ~ 10. 08(수)
-- __[2021 인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/aidea)__
-  - 분류: `대회`
-  - 주최: 과학기술정보통신부
-  - 일시: 09. 15(수) ~ 10. 08(수)
 - __[(선착순) 모두가 행복한 GIT똥찬 개발](http://koreaitbusan.com/community/seminar_view.asp?idxnum=159)__
   - 분류: `교육`, `Git`
   - 주최: 코리아IT아카데미
   - 일시: 10. 09(토) 11:00 ~ 12:00
-- __[Red Hat Forum 버추얼 이벤트](https://events.redhat.com/profile/form/index.cfm?PKformID=0x436488abcd&amp;sc_cid=7013a000002pfo0AAA)__
+  
+- __[Red Hat Forum 버추얼 이벤트](https://www.redhat.com/ko/red-hat-forum-apac-2021)__
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
@@ -228,10 +196,14 @@
   - 분류: `컨퍼런스`
   - 주최: ARM
   - 일시: 10. 19(화) ~ 10. 21(수)
-- __[「글로벌 게임사 사례」로 알아보는 안정적인 글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/?utm_source=community&amp;utm_medium=festa&amp;utm_campaign=2021-Gamimg&amp;)__
+- __[글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/)__
   - 분류: `웨비나`, `구글 클라우드`
   - 주최: MEGAZONE
   - 일시: 10. 20(수) 14:00 - 16:00
+- __[NUGU CONFERENCE 2021](https://www.nuguconference2021.com/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: SK텔레콤
+  - 일시: 10. 20(수) 10:00 - 17:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
@@ -264,6 +236,10 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 10. 27(수) ~ 10. 28(목)
+- __[The global developer event](https://www.githubuniverse.com/)__
+  - 분류: `컨퍼런스`
+  - 주최: Github
+  - 일시: 10. 28(목) ~ 10. 29(금)
 - __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
