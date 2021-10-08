@@ -228,6 +228,10 @@
   - 분류: `컨퍼런스`
   - 주최: ARM
   - 일시: 10. 19(화) ~ 10. 21(수)
+- __[「글로벌 게임사 사례」로 알아보는 안정적인 글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/?utm_source=community&amp;utm_medium=festa&amp;utm_campaign=2021-Gamimg&amp;)__
+  - 분류: `웨비나`, `구글 클라우드`
+  - 주최: MEGAZONE
+  - 일시: 10. 20(수) 14:00 - 16:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
