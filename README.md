@@ -192,6 +192,10 @@
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
   - 일시: 10. 13(수) 19:00 ~ 20:30
+- __[2021 STOVE DEV CAMP 2기 모집](https://careers.smilegate.com/apply/announce/view?seq=3908)__
+  - 분류: `교육`
+  - 주최: 스마일게이트
+  - 모집: 10. 14(목) 17:00
 - __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
   - 분류: `컨퍼런스`
   - 주최: ARM
