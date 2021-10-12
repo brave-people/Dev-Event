@@ -178,6 +178,10 @@
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
   - 일시: 10. 13(수) 19:00 ~ 20:30
+- __[우아한 테크코스 교육 설명회](https://woowacourse.github.io/)__
+  - 분류: `설명회`, `교육`
+  - 주최: 우아한 형제들
+  - 일시: 10. 14(목) 14:00
 - __[2021 STOVE DEV CAMP 2기 모집](https://careers.smilegate.com/apply/announce/view?seq=3908)__
   - 분류: `교육`
   - 주최: 스마일게이트
