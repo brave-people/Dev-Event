@@ -156,16 +156,12 @@
 <br />
 
 ## 21년 10월
-
-- __[(선착순) 모두가 행복한 GIT똥찬 개발](http://koreaitbusan.com/community/seminar_view.asp?idxnum=159)__
-  - 분류: `교육`, `Git`
-  - 주최: 코리아IT아카데미
-  - 일시: 10. 09(토) 11:00 ~ 12:00
-  
+ 
 - __[Red Hat Forum 버추얼 이벤트](https://www.redhat.com/ko/red-hat-forum-apac-2021)__
   - 분류: `웨비나`
   - 주최: 레드햇
   - 일시: 10. 13(수) 10:00 ~ 18:00
+  
 - __[OCI 위에서 쿠버네티스로 Enterprise App 개발해보기](https://go.oracle.com/LP=116696)__
   - 분류: `웨비나`, `쿠버네티스`
   - 주최: 오라클
@@ -250,6 +246,10 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
+- __[DevelopersIO KOREA](https://forms.gle/StFUyd25cqzE7TEBA)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 클라우드메소드코리아
+  - 모집: 10. 26(화) 18:00 ~ 20:00
 - __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
@@ -291,6 +291,7 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: 아이뉴스
   - 일시: 11. 02(화) 09:00 ~ 16:20
+
 - __[우아한 테크코스 4기](https://techblog.woowahan.com/5977)__
   - 분류: `교육`, `프론트엔트`, `백엔드`
   - 주최: 우아한 형제들
@@ -321,11 +322,15 @@
 
 ## 21년 12월
 
+- __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
+  - 분류: `챌린지`, `인공지능`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 08(월) ~ 12. 03(금)
+
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 11. 29(월) ~ 12. 03(금)
-
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
