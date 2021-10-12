@@ -126,6 +126,7 @@
   <tr>
     <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -172,7 +173,7 @@
 - __[리얼리눅스 무료세미나: 서버엔지니어를 위한 효과적인 공부법](https://festa.io/events/1828)__
   - 분류: `웨비나`, `학습`
   - 주최: 리얼리눅스
-  - 일시: 10. 13(수) 20:00 ~ 21:00
+  - 일시: 10. 14(목) 20:00 ~ 21:00
 - __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드

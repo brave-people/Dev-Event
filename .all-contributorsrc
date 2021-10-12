@@ -276,6 +276,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "suheego",
+      "name": "SuHee Go",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70756464?v=4",
+      "profile": "https://github.com/suheego",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
