@@ -252,7 +252,7 @@
   - 분류: `컨퍼런스`
   - 주최: Github
   - 일시: 10. 28(목) ~ 10. 29(금)
-- __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
+- __[FEConf 2021](https://2021.feconf.kr/)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
   - 일시: 10. 30(토)
