@@ -172,6 +172,14 @@
   - 분류: `웨비나`, `학습`
   - 주최: 리얼리눅스
   - 일시: 10. 13(수) 20:00 ~ 21:00
+- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 10. 13(수) 19:00 ~ 20:30
+- __[2021 STOVE DEV CAMP 2기 모집](https://careers.smilegate.com/apply/announce/view?seq=3908)__
+  - 분류: `교육`
+  - 주최: 스마일게이트
+  - 모집: 10. 14(목) 17:00
 - __[JetBrains JavaScript Day 2021](https://pages.jetbrains.com/javascript-day-2021/youtube-ad)__
   - 분류: `웨비나`, `자바스크립트`
   - 주최: JET BRAINS
@@ -188,14 +196,14 @@
   - 분류: `웨비나`, `데이터`
   - 주최: 데이터야놀자
   - 일시: 10. 16(토) 13:00 ~ 17:00
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 10. 13(수) 19:00 ~ 20:30
-- __[2021 STOVE DEV CAMP 2기 모집](https://careers.smilegate.com/apply/announce/view?seq=3908)__
-  - 분류: `교육`
-  - 주최: 스마일게이트
-  - 모집: 10. 14(목) 17:00
+- __[DDD 개발자 온라인 세미나](https://www.facebook.com/events/859974464909214)__
+  - 분류: `웨비나`, `무료`
+  - 주최: DDD
+  - 일시: 10. 16(토) 14:00 ~ 17:00
+- __[DDD 디자이너 온라인 세미나](https://www.facebook.com/events/986147021933817)__
+  - 분류: `웨비나`, `무료`
+  - 주최: DDD
+  - 일시: 10. 16(토) 14:00 ~ 17:00
 - __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
   - 분류: `컨퍼런스`
   - 주최: ARM
