@@ -157,23 +157,11 @@
 
 ## 21년 10월
  
-- __[Red Hat Forum 버추얼 이벤트](https://www.redhat.com/ko/red-hat-forum-apac-2021)__
-  - 분류: `웨비나`
-  - 주최: 레드햇
-  - 일시: 10. 13(수) 10:00 ~ 18:00
-  
-- __[OCI 위에서 쿠버네티스로 Enterprise App 개발해보기](https://go.oracle.com/LP=116696)__
-  - 분류: `웨비나`, `쿠버네티스`
-  - 주최: 오라클
-  - 일시: 10. 13(수) 17:00
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 10. 13(수) 19:00 ~ 20:30
 - __[리얼리눅스 무료세미나: 서버엔지니어를 위한 효과적인 공부법](https://festa.io/events/1828)__
   - 분류: `웨비나`, `학습`
   - 주최: 리얼리눅스
   - 일시: 10. 14(목) 20:00 ~ 21:00
+  
 - __[우아한 테크코스 교육 설명회](https://woowacourse.github.io/)__
   - 분류: `설명회`, `교육`
   - 주최: 우아한 형제들
@@ -214,6 +202,10 @@
   - 분류: `웨비나`, `채용`
   - 주최: 블루포인트파트너스
   - 일시: 10. 19(화) 14:00 ~ 15:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/281218896/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 10. 19(화) 20:00 ~ 22:00
 - __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
   - 분류: `컨퍼런스`
   - 주최: ARM
@@ -258,6 +250,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 클라우드메소드코리아
   - 모집: 10. 26(화) 18:00 ~ 20:00
+- __[애자일 코리아 10월 밋업](https://festa.io/events/1861)__
+  - 분류: `웨비나`, `에자일`
+  - 주최: 애자일 코리아
+  - 모집: 10. 27(수) 21:00 ~ 23:00
 - __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
@@ -274,10 +270,6 @@
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
   - 일시: 10. 30(토)
-- __[liftIO 2021](https://festa.io/events/1840)__
-  - 분류: `컨퍼런스`
-  - 주최: liftIO
-  - 일시: 10. 30(토) 14:00 ~ 18:00
 - __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
   - 분류: `대회`, `데이터`
   - 주최: 행정안전부
@@ -286,6 +278,10 @@
   - 분류: `챌린지`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 10. 01(금) 12:00 ~ 10. 30(토) 01:00
+- __[liftIO 2021](https://festa.io/events/1840)__
+  - 분류: `컨퍼런스`
+  - 주최: liftIO
+  - 일시: 10. 30(토) 14:00 ~ 18:00
 - __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
   - 분류: `오픈소스`, `컨트리뷰션`
   - 주최: DigitalOcean
@@ -308,6 +304,10 @@
   - 분류: `교육`, `프론트엔트`, `백엔드`
   - 주최: 우아한 형제들
   - 접수: 10. 22(금) ~ 11. 03(수) 10:00
+- __[2021년 디자인시스템의 혁신, UXPin 한국 첫 웨비나!](https://us06web.zoom.us/webinar/register/WN_MLCooHsfTx-KNLOZtfSSkA)__
+  - 분류: `웨비나`
+  - 주최: 단군소프트
+  - 접수: 11. 04(목) 16:00 ~ 17:00
 - __[SK ICT Tech Summit 2021](https://skicttechsummit.com/index_pre.do)__
   - 분류: `컨퍼런스`, `기술`
   - 주최: SK
@@ -316,6 +316,10 @@
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
   - 일시: 11. 10(수) ~ 11. 11(목)
+- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
+  - 분류: `모각코`
+  - 주최: GDG Campus Korea
+  - 일시: 10. 30(토) ~ 11. 12(금)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
