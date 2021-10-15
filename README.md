@@ -221,7 +221,11 @@
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
-  - 모집: 08. 02(월) ~ 10. 22(화)
+  - 모집: 08. 02(월) ~ 10. 22(금)
+- __[THE AI Forum](http://taf.newstheai.com/index.html)__
+  - 분류: `대회`, `AI`
+  - 주최: THE AI Forum
+  - 일시: 10. 22(금)
 - __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
   - 분류: `컨퍼런스`, `AWS`
   - 주최: AWS
@@ -254,6 +258,10 @@
   - 분류: `웨비나`, `에자일`
   - 주최: 애자일 코리아
   - 모집: 10. 27(수) 21:00 ~ 23:00
+- __[Iris 꽃받침 / 꽃잎 너비 예측 경진대회](https://dacon.io/competitions/official/235836/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 10. 18(월) ~ 10. 29(금)
 - __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
@@ -282,6 +290,10 @@
   - 분류: `컨퍼런스`
   - 주최: liftIO
   - 일시: 10. 30(토) 14:00 ~ 18:00
+- __[메타버스 기반 핀테크 해커톤](https://onoffmix.com/event/245099)__
+  - 분류: `해커톤`
+  - 주최: 한국인터넷진흥원
+  - 일시: 08. 31(화) ~ 10. 31(일)
 - __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
   - 분류: `오픈소스`, `컨트리뷰션`
   - 주최: DigitalOcean
