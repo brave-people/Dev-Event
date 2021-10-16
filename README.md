@@ -157,39 +157,11 @@
 
 ## 21년 10월
  
-- __[리얼리눅스 무료세미나: 서버엔지니어를 위한 효과적인 공부법](https://festa.io/events/1828)__
-  - 분류: `웨비나`, `학습`
-  - 주최: 리얼리눅스
-  - 일시: 10. 14(목) 20:00 ~ 21:00
-  
-- __[우아한 테크코스 교육 설명회](https://woowacourse.github.io/)__
-  - 분류: `설명회`, `교육`
-  - 주최: 우아한 형제들
-  - 일시: 10. 14(목) 14:00
-- __[2021 STOVE DEV CAMP 2기 모집](https://careers.smilegate.com/apply/announce/view?seq=3908)__
-  - 분류: `교육`
-  - 주최: 스마일게이트
-  - 모집: 10. 14(목) 17:00
-- __[JetBrains JavaScript Day 2021](https://pages.jetbrains.com/javascript-day-2021/youtube-ad)__
-  - 분류: `웨비나`, `자바스크립트`
-  - 주최: JET BRAINS
-  - 일시: 10. 14(목) 04:00 ~ 08:00
-- __[MongoDB 게임 고객사와 함께하는 찐~한 토크쇼](https://events.mongodb.com/firesidechatwithgamingcustomer)__
-  - 분류: `웨비나`
-  - 주최: MongoDB
-  - 일시: 10. 14(목) 14:00 ~ 15:00
-- __[2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스 첫 개최](https://www.gamex.game/)__
-  - 분류: `웨비나`, `게임`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 10. 15(금) 10:00 ~ 17:00
-- __[2021 공공빅데이터 분석 공모전](https://www.data.go.kr/bbs/ntc/selectNotice.do?pageIndex=1&originId=NOTICE_0000000002205&atchFileId=)__
-  - 분류: `공모전`, `빅데이터`
-  - 주최: 행정안전부
-  - 일시: 09. 06(월) ~ 10. 15(금)
 - __[데이터야놀자 2021](https://datayanolja.kr/)__
   - 분류: `웨비나`, `데이터`
   - 주최: 데이터야놀자
   - 일시: 10. 16(토) 13:00 ~ 17:00
+  
 - __[DDD 개발자 온라인 세미나](https://www.facebook.com/events/859974464909214)__
   - 분류: `웨비나`, `무료`
   - 주최: DDD
@@ -223,7 +195,7 @@
   - 주최: 국가정보원
   - 모집: 08. 02(월) ~ 10. 22(금)
 - __[THE AI Forum](http://taf.newstheai.com/index.html)__
-  - 분류: `대회`, `AI`
+  - 분류: `컨퍼런스`, `AI`
   - 주최: THE AI Forum
   - 일시: 10. 22(금)
 - __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
@@ -332,6 +304,10 @@
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
+- __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
+  - 분류: `커리어`, `해커톤`
+  - 주최: wanted
+  - 일시: 10. 12(화) ~ 11. 14(일)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
