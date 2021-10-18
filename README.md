@@ -157,23 +157,11 @@
 
 ## 21년 10월
  
-- __[데이터야놀자 2021](https://datayanolja.kr/)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 데이터야놀자
-  - 일시: 10. 16(토) 13:00 ~ 17:00
-  
-- __[DDD 개발자 온라인 세미나](https://www.facebook.com/events/859974464909214)__
-  - 분류: `웨비나`, `무료`
-  - 주최: DDD
-  - 일시: 10. 16(토) 14:00 ~ 17:00
-- __[DDD 디자이너 온라인 세미나](https://www.facebook.com/events/986147021933817)__
-  - 분류: `웨비나`, `무료`
-  - 주최: DDD
-  - 일시: 10. 16(토) 14:00 ~ 17:00
 - __[블루커넥트데이 - 스타트업 채용 설명회](https://event-us.kr/bluepointdemoday/event/37748)__
   - 분류: `웨비나`, `채용`
   - 주최: 블루포인트파트너스
   - 일시: 10. 19(화) 14:00 ~ 15:00
+  
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/281218896/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -198,6 +186,10 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: THE AI Forum
   - 일시: 10. 22(금)
+- __[우아한테크코스 3기 데모데이 신청](https://docs.google.com/forms/d/e/1FAIpQLSfYBYwdB_3oN1_H2ha84P7wg3latz4xYNSvi8Fl90tY8LW7Cw/formResponse)__
+  - 분류: `발표`
+  - 주최: 우아한테크코스
+  - 모집: 10. 18(월) ~ 10. 22(금)
 - __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
   - 분류: `컨퍼런스`, `AWS`
   - 주최: AWS
@@ -214,6 +206,14 @@
   - 분류: `Next.js`, `컨퍼런스`, `온라인`
   - 주최: Vercel
   - 모집: 10. 26(화) 09:00 ~ 13:00
+- __[AWS Game Master 온라인 시리즈 #5. AWS로 게임 분석하기](https://www.megazone.com/application-game-master-online/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 모집: 10. 26(화) 13:00 ~ 17:00
+- __[데이터게임 : IoT 데이터 전쟁의 최후 승자는 누구인가?](https://manufacturingtv.co.kr/Event/161)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: 매뉴팩처링티비
+  - 모집: 10. 27(수) 16:00 ~ 17:00
 - __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
   - 분류: `메타버스`, `오프라인`
   - 주최: KEA
