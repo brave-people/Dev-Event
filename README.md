@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -127,6 +127,7 @@
     <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
+    <td align="center"><a href="https://jhk0530.medium.com/"><img src="https://avatars.githubusercontent.com/u/6457691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinhwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jhk0530" title="Code">💻</a></td>
   </tr>
 </table>
 
