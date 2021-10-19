@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -127,7 +127,6 @@
     <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
-    <td align="center"><a href="https://jhk0530.medium.com/"><img src="https://avatars.githubusercontent.com/u/6457691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinhwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jhk0530" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -239,10 +238,6 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 10. 27(수) ~ 10. 28(목)
-- __[Android Dev Summit](https://developer.android.com/events/dev-summit)__
-  - 분류: `컨퍼런스`, `안드로이드`
-  - 주최: Google
-  - 일시: 10. 27(수) ~ 10. 28(목)
 - __[The global developer event](https://www.githubuniverse.com/)__
   - 분류: `컨퍼런스`
   - 주최: Github
@@ -279,6 +274,14 @@
   - 분류: `웨비나`, `iOS`
   - 주최: adiOS
   - 일시: 10. 31(일) 15:00 ~ 17:30
+- __[라이징 캠프 3기](https://risingcamp.com/)__
+  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
+  - 주최: 컴공선배
+  - 모집: 09. 03(금) ~ 11. 19(금)
+- __[알고리즘 캠프 1기](https://risingcamp.com/)__
+  - 분류: `교육`, `알고리즘`  
+  - 주최: 컴공선배
+  - 모집: 10. 18(월) ~ 10. 24()
 
 <br />
 
@@ -326,11 +329,10 @@
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
   - 일시: 08. 30(월) ~ 11. 26(금)
-
-- __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
-  - 분류: `컨퍼런스`, `데이터`, `온라인`
-  - 주최: Seoul R User Group & Tidyverse Korea
-  - 일시: 11. 19(금) 10:00 ~ 17:00
+- __[라이징 캠프 3기](https://risingcamp.com/)__
+  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
+  - 주최: 컴공선배
+  - 모집: 09. 03(금) ~ 11. 19(금)
 
 
 <br />
@@ -354,6 +356,7 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+  
 
 <br />
 
