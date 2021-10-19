@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -125,6 +125,8 @@
   </tr>
   <tr>
     <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -154,92 +156,44 @@
 <br />
 
 ## 21년 10월
-
-- __[New Meetup for Data Scientists in Seoul](hhttps://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/events/zttvpsyccnbhb/)__
-  - 분류: `모임`, `데이터사이언스`
-  - 주최: Data Scientist Meetup in Seoul
-  - 일시: 10. 05(화) 19:00 ~ 21:00
-
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 10. 06(수) 19:00 ~ 20:30
-- __[쿠팡 출신 개발자의 장애 리스크 없이 배포하는 방법](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
-  - 분류: `웨비나`
-  - 주최: 핵클
-  - 일시: 10. 06(수) 19:00
-- __[2021 AI Challenge for Our Society](https://docs.google.com/forms/d/e/1FAIpQLSddo7xxre9mEujuEQFqiAqu9paQYiYqWia38dwlu1ot7NY7Yg/viewform)__
-  - 분류: `경진대회`, `AI`
-  - 주최: SNUI
-  - 일시: 09. 27(월) ~ 10. 06(수)
-- __[METACON 2021](https://meta-con.io/)__
-  - 분류: `메타버스`, `컨퍼런스`, `온라인`
-  - 주최: TV조선
-  - 일시: 10. 06(수) ~ 10. 07(목)
-- __[AI PLUS 2021](https://www.aiplus2021.com/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 이스트소프트
-  - 일시: 10. 06(수) ~ 10. 07(목)
-- __[주식 종가 예측 Pre Competiton](https://dacon.io/competitions/official/235800/overview/description)__
-  - 분류: `대회`
-  - 주최: DACON
-  - 일시: 08. 18(수) ~ 10. 08(수)
-- __[2021 인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/aidea)__
-  - 분류: `대회`
-  - 주최: 과학기술정보통신부
-  - 일시: 09. 15(수) ~ 10. 08(수)
-- __[(선착순) 모두가 행복한 GIT똥찬 개발](http://koreaitbusan.com/community/seminar_view.asp?idxnum=159)__
-  - 분류: `교육`, `Git`
-  - 주최: 코리아IT아카데미
-  - 일시: 10. 09(토) 11:00 ~ 12:00
-- __[Red Hat Forum 버추얼 이벤트](https://events.redhat.com/profile/form/index.cfm?PKformID=0x436488abcd&amp;sc_cid=7013a000002pfo0AAA)__
-  - 분류: `웨비나`
-  - 주최: 레드햇
-  - 일시: 10. 13(수) 10:00 ~ 18:00
-- __[OCI 위에서 쿠버네티스로 Enterprise App 개발해보기](https://go.oracle.com/LP=116696)__
-  - 분류: `웨비나`, `쿠버네티스`
-  - 주최: 오라클
-  - 일시: 10. 13(수) 17:00
-- __[리얼리눅스 무료세미나: 서버엔지니어를 위한 효과적인 공부법](https://festa.io/events/1828)__
-  - 분류: `웨비나`, `학습`
-  - 주최: 리얼리눅스
-  - 일시: 10. 13(수) 20:00 ~ 21:00
-- __[JetBrains JavaScript Day 2021](https://pages.jetbrains.com/javascript-day-2021/youtube-ad)__
-  - 분류: `웨비나`, `자바스크립트`
-  - 주최: JET BRAINS
-  - 일시: 10. 14(목) 04:00 ~ 08:00
-- __[2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스 첫 개최](https://www.gamex.game/)__
-  - 분류: `웨비나`, `게임`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 10. 15(금) 10:00 ~ 17:00
-- __[2021 공공빅데이터 분석 공모전](https://www.data.go.kr/bbs/ntc/selectNotice.do?pageIndex=1&originId=NOTICE_0000000002205&atchFileId=)__
-  - 분류: `공모전`, `빅데이터`
-  - 주최: 행정안전부
-  - 일시: 09. 06(월) ~ 10. 15(금)
-- __[데이터야놀자 2021](https://datayanolja.kr/)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 데이터야놀자
-  - 일시: 10. 16(토) 13:00 ~ 17:00
-- __[Wanted Live Talk | 오늘의 개발자 프론트앤드](https://www.wanted.co.kr/events/livetalk42)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 10. 13(수) 19:00 ~ 20:30
+ 
+- __[블루커넥트데이 - 스타트업 채용 설명회](https://event-us.kr/bluepointdemoday/event/37748)__
+  - 분류: `웨비나`, `채용`
+  - 주최: 블루포인트파트너스
+  - 일시: 10. 19(화) 14:00 ~ 15:00
+  
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/281218896/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 10. 19(화) 20:00 ~ 22:00
 - __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
   - 분류: `컨퍼런스`
   - 주최: ARM
   - 일시: 10. 19(화) ~ 10. 21(수)
-- __[「글로벌 게임사 사례」로 알아보는 안정적인 글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/?utm_source=community&amp;utm_medium=festa&amp;utm_campaign=2021-Gamimg&amp;)__
+- __[글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/)__
   - 분류: `웨비나`, `구글 클라우드`
   - 주최: MEGAZONE
   - 일시: 10. 20(수) 14:00 - 16:00
+- __[NUGU CONFERENCE 2021](https://www.nuguconference2021.com/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: SK텔레콤
+  - 일시: 10. 20(수) 10:00 - 17:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
-  - 모집: 08. 02(월) ~ 10. 22(화)
+  - 모집: 08. 02(월) ~ 10. 22(금)
+- __[THE AI Forum](http://taf.newstheai.com/index.html)__
+  - 분류: `컨퍼런스`, `AI`
+  - 주최: THE AI Forum
+  - 일시: 10. 22(금)
+- __[우아한테크코스 3기 데모데이 신청](https://docs.google.com/forms/d/e/1FAIpQLSfYBYwdB_3oN1_H2ha84P7wg3latz4xYNSvi8Fl90tY8LW7Cw/formResponse)__
+  - 분류: `발표`
+  - 주최: 우아한테크코스
+  - 모집: 10. 18(월) ~ 10. 22(금)
 - __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
   - 분류: `컨퍼런스`, `AWS`
   - 주최: AWS
-  - 일시: 10. 22(수) 14:00 ~ 18:00
+  - 일시: 10. 23(토) 14:00 ~ 18:00
 - __[2021년도 AI/로봇 해커톤 in 마곡](https://onoffmix.com/event/244968)__
   - 분류: `해커톤`, `창업`
   - 주최: 서울산업진흥원
@@ -252,6 +206,14 @@
   - 분류: `Next.js`, `컨퍼런스`, `온라인`
   - 주최: Vercel
   - 모집: 10. 26(화) 09:00 ~ 13:00
+- __[AWS Game Master 온라인 시리즈 #5. AWS로 게임 분석하기](https://www.megazone.com/application-game-master-online/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 모집: 10. 26(화) 13:00 ~ 17:00
+- __[데이터게임 : IoT 데이터 전쟁의 최후 승자는 누구인가?](https://manufacturingtv.co.kr/Event/161)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: 매뉴팩처링티비
+  - 모집: 10. 27(수) 16:00 ~ 17:00
 - __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
   - 분류: `메타버스`, `오프라인`
   - 주최: KEA
@@ -260,18 +222,34 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 모집: 10. 26(화) 13:00 ~ 17:00
+- __[DevelopersIO KOREA](https://forms.gle/StFUyd25cqzE7TEBA)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 클라우드메소드코리아
+  - 모집: 10. 26(화) 18:00 ~ 20:00
+- __[애자일 코리아 10월 밋업](https://festa.io/events/1861)__
+  - 분류: `웨비나`, `에자일`
+  - 주최: 애자일 코리아
+  - 모집: 10. 27(수) 21:00 ~ 23:00
+- __[Iris 꽃받침 / 꽃잎 너비 예측 경진대회](https://dacon.io/competitions/official/235836/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 10. 18(월) ~ 10. 29(금)
 - __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 10. 27(수) ~ 10. 28(목)
-- __[FEConf 2021 OH - Call for Share](https://docs.google.com/forms/d/e/1FAIpQLSe28Zun8Dne5t78sIwIEhp8bpYv0nsSbvTlngXez3HdCucZFg/viewform)__
+- __[The global developer event](https://www.githubuniverse.com/)__
+  - 분류: `컨퍼런스`
+  - 주최: Github
+  - 일시: 10. 28(목) ~ 10. 29(금)
+- __[Saltlux AI Conference 2021](https://event-us.kr/slx/event/37358)__
+  - 분류: `컨퍼런스`, `AI`
+  - 주최: 솔트룩스
+  - 일시: 10. 29(금) 15:00 ~ 18:00
+- __[FEConf 2021](https://2021.feconf.kr/)__
   - 분류: `컨퍼런스`, `프론트엔드`
   - 주최: FEConf
   - 일시: 10. 30(토)
-- __[liftIO 2021](https://festa.io/events/1840)__
-  - 분류: `컨퍼런스`
-  - 주최: liftIO
-  - 일시: 10. 30(토) 14:00 ~ 18:00
 - __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
   - 분류: `대회`, `데이터`
   - 주최: 행정안전부
@@ -280,6 +258,14 @@
   - 분류: `챌린지`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 10. 01(금) 12:00 ~ 10. 30(토) 01:00
+- __[liftIO 2021](https://festa.io/events/1840)__
+  - 분류: `컨퍼런스`
+  - 주최: liftIO
+  - 일시: 10. 30(토) 14:00 ~ 18:00
+- __[메타버스 기반 핀테크 해커톤](https://onoffmix.com/event/245099)__
+  - 분류: `해커톤`
+  - 주최: 한국인터넷진흥원
+  - 일시: 08. 31(화) ~ 10. 31(일)
 - __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
   - 분류: `오픈소스`, `컨트리뷰션`
   - 주최: DigitalOcean
@@ -297,10 +283,15 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: 아이뉴스
   - 일시: 11. 02(화) 09:00 ~ 16:20
+
 - __[우아한 테크코스 4기](https://techblog.woowahan.com/5977)__
   - 분류: `교육`, `프론트엔트`, `백엔드`
   - 주최: 우아한 형제들
   - 접수: 10. 22(금) ~ 11. 03(수) 10:00
+- __[2021년 디자인시스템의 혁신, UXPin 한국 첫 웨비나!](https://us06web.zoom.us/webinar/register/WN_MLCooHsfTx-KNLOZtfSSkA)__
+  - 분류: `웨비나`
+  - 주최: 단군소프트
+  - 접수: 11. 04(목) 16:00 ~ 17:00
 - __[SK ICT Tech Summit 2021](https://skicttechsummit.com/index_pre.do)__
   - 분류: `컨퍼런스`, `기술`
   - 주최: SK
@@ -309,6 +300,14 @@
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
   - 일시: 11. 10(수) ~ 11. 11(목)
+- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
+  - 분류: `모각코`
+  - 주최: GDG Campus Korea
+  - 일시: 10. 30(토) ~ 11. 12(금)
+- __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
+  - 분류: `커리어`, `해커톤`
+  - 주최: wanted
+  - 일시: 10. 12(화) ~ 11. 14(일)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
@@ -327,11 +326,15 @@
 
 ## 21년 12월
 
+- __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
+  - 분류: `챌린지`, `인공지능`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 08(월) ~ 12. 03(금)
+
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 11. 29(월) ~ 12. 03(금)
-
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
