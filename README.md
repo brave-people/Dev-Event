@@ -243,6 +243,10 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: Google
   - 일시: 10. 27(수) ~ 10. 28(목)
+- __[Introduction to MongoDB](https://introductiontomongodbkorea.splashthat.com/)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: mongoDB
+  - 일시: 10. 28(목) 14:00 ~ 15:00
 - __[The global developer event](https://www.githubuniverse.com/)__
   - 분류: `컨퍼런스`
   - 주최: Github
@@ -321,16 +325,14 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성
   - 일시: 11. 17(수) ~ 11. 18(목)
-
-- __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: NH 투자증권
-  - 일시: 08. 30(월) ~ 11. 26(금)
-
 - __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
   - 일시: 11. 19(금) 10:00 ~ 17:00
+- __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
+  - 분류: `경진대회`, `데이터`
+  - 주최: NH 투자증권
+  - 일시: 08. 30(월) ~ 11. 26(금)
 
 
 <br />
