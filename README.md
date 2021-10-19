@@ -280,6 +280,16 @@
   - 주최: adiOS
   - 일시: 10. 31(일) 15:00 ~ 17:30
 
+- __[라이징 캠프 3기](https://risingcamp.com)__
+  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
+  - 주최: 컴공선배
+  - 모집: 09. 03(금) ~ 11. 19(금)
+
+- __[알고리즘 캠프 1기](https://comgongbro.notion.site/e42c505a19f041d6b9803b4e5be0902d)__
+  - 분류: `교육`, `알고리즘`  
+  - 주최: 컴공선배
+  - 모집: 10. 18(월) ~ 10. 24(일)
+
 <br />
 
 ## 21년 11월
@@ -332,6 +342,10 @@
   - 주최: Seoul R User Group & Tidyverse Korea
   - 일시: 11. 19(금) 10:00 ~ 17:00
 
+- __[라이징 캠프 3기](https://risingcamp.com)__
+  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
+  - 주최: 컴공선배
+  - 모집: 09. 03(금) ~ 11. 19(금)
 
 <br />
 
