@@ -238,6 +238,10 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 10. 27(수) ~ 10. 28(목)
+- __[Android Dev Summit](https://developer.android.com/events/dev-summit)__
+  - 분류: `컨퍼런스`, `안드로이드`
+  - 주최: Google
+  - 일시: 10. 27(수) ~ 10. 28(목)
 - __[The global developer event](https://www.githubuniverse.com/)__
   - 분류: `컨퍼런스`
   - 주최: Github
