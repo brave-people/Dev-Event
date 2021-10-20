@@ -159,31 +159,11 @@
 
 ## 21년 10월
  
-- __[블루커넥트데이 - 스타트업 채용 설명회](https://event-us.kr/bluepointdemoday/event/37748)__
-  - 분류: `웨비나`, `채용`
-  - 주최: 블루포인트파트너스
-  - 일시: 10. 19(화) 14:00 ~ 15:00
-  
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/281218896/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 10. 19(화) 20:00 ~ 22:00
-- __[Arm DevSummit 2021](https://devsummit.arm.com/ko)__
-  - 분류: `컨퍼런스`
-  - 주최: ARM
-  - 일시: 10. 19(화) ~ 10. 21(수)
-- __[글로벌 게임 서비스를 위한, 구글 클라우드 구축 전략](https://gc.hosting.kr/gm_academy_october-2021/)__
-  - 분류: `웨비나`, `구글 클라우드`
-  - 주최: MEGAZONE
-  - 일시: 10. 20(수) 14:00 - 16:00
-- __[NUGU CONFERENCE 2021](https://www.nuguconference2021.com/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: SK텔레콤
-  - 일시: 10. 20(수) 10:00 - 17:00
 - __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
   - 분류: `대회`, `AI`
   - 주최: 국가정보원
   - 모집: 08. 02(월) ~ 10. 22(금)
+  
 - __[THE AI Forum](http://taf.newstheai.com/index.html)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: THE AI Forum
@@ -284,6 +264,10 @@
   - 분류: `오픈소스`, `컨트리뷰션`
   - 주최: DigitalOcean
   - 일시: 10. 01(금) ~ 10. 31(일)
+- __[2021 Future Edufesta LINK](https://festa.io/events/1882)__
+  - 분류: `웨비나`, `교육`
+  - 주최: ATC
+  - 일시: 10. 30(토) 10:00 ~ 10. 31(일) 18:30
 - __[2021 adiOS October](https://festa.io/events/1809)__
   - 분류: `웨비나`, `iOS`
   - 주최: adiOS
@@ -314,6 +298,10 @@
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
   - 일시: 11. 10(수) ~ 11. 11(목)
+- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
+  - 분류: `모각코`
+  - 주최: GDG Campus Korea
+  - 일시: 10. 30(토) ~ 11. 12(금)
 - __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
