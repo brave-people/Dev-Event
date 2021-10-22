@@ -159,23 +159,11 @@
 
 ## 21년 10월
  
-- __[HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://pages.awscloud.com/game-master-online)__
-  - 분류: `대회`, `AI`
-  - 주최: 국가정보원
-  - 모집: 08. 02(월) ~ 10. 22(금)
-  
-- __[THE AI Forum](http://taf.newstheai.com/index.html)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: THE AI Forum
-  - 일시: 10. 22(금)
-- __[우아한테크코스 3기 데모데이 신청](https://docs.google.com/forms/d/e/1FAIpQLSfYBYwdB_3oN1_H2ha84P7wg3latz4xYNSvi8Fl90tY8LW7Cw/formResponse)__
-  - 분류: `발표`
-  - 주최: 우아한테크코스
-  - 모집: 10. 18(월) ~ 10. 22(금)
 - __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
   - 분류: `컨퍼런스`, `AWS`
   - 주최: AWS
   - 일시: 10. 23(토) 14:00 ~ 18:00
+
 - __[2021년도 AI/로봇 해커톤 in 마곡](https://onoffmix.com/event/244968)__
   - 분류: `해커톤`, `창업`
   - 주최: 서울산업진흥원
@@ -212,14 +200,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 클라우드메소드코리아
   - 모집: 10. 26(화) 18:00 ~ 20:00
+- __[핵 더 챌린지](https://www.krcert.or.kr/consult/software/hackthechallenge.do)__
+  - 분류: `대회`, `보안`
+  - 주최: 한국인터넷진흥원
+  - 접수: 10. 18(월) 09:00 ~ 10. 27(수) 18:00
 - __[애자일 코리아 10월 밋업](https://festa.io/events/1861)__
   - 분류: `웨비나`, `에자일`
   - 주최: 애자일 코리아
   - 모집: 10. 27(수) 21:00 ~ 23:00
-- __[Iris 꽃받침 / 꽃잎 너비 예측 경진대회](https://dacon.io/competitions/official/235836/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 10. 18(월) ~ 10. 29(금)
 - __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: AWS
@@ -228,6 +216,10 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: Google
   - 일시: 10. 27(수) ~ 10. 28(목)
+- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #2편](https://register.gotowebinar.com/register/5088833800331351823)__
+  - 분류: `웨비나`, `인프라`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 10. 28(목) 11:00 ~ 12:00
 - __[Introduction to MongoDB](https://introductiontomongodbkorea.splashthat.com/)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: mongoDB
@@ -236,6 +228,10 @@
   - 분류: `컨퍼런스`
   - 주최: Github
   - 일시: 10. 28(목) ~ 10. 29(금)
+- __[Iris 꽃받침 / 꽃잎 너비 예측 경진대회](https://dacon.io/competitions/official/235836/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 10. 18(월) ~ 10. 29(금)
 - __[Saltlux AI Conference 2021](https://event-us.kr/slx/event/37358)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: 솔트룩스
@@ -282,6 +278,10 @@
   - 주최: 아이뉴스
   - 일시: 11. 02(화) 09:00 ~ 16:20
 
+- __[실내공간 3D 종합 AI 데이터 인공지능 해커톤](https://etedu.co.kr/shop/item.php?it_id=1633564150)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 10. 13(수) ~ 11. 03(수)
 - __[우아한 테크코스 4기](https://techblog.woowahan.com/5977)__
   - 분류: `교육`, `프론트엔트`, `백엔드`
   - 주최: 우아한 형제들
@@ -294,6 +294,10 @@
   - 분류: `컨퍼런스`, `기술`
   - 주최: SK
   - 일시: 11. 03(수) ~ 11. 04(목)
+- __[제11회 소프트웨어 개발보안 컨퍼런스](http://www.swsecurecoding.kr/)__
+  - 분류: `컨퍼런스`, `개발보안`
+  - 주최: 행정안전부
+  - 일시: 11. 05(금) 10:30 ~ 16:00
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
@@ -306,6 +310,10 @@
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
   - 일시: 10. 12(화) ~ 11. 14(일)
+- __[DND 언택트 해커톤](https://docs.google.com/forms/d/e/1FAIpQLScTJ-UWmhQ8KueJPnHNgKmC-p3CgPDnxuWd80cyOkdGziXjXA/viewform?usp=send_form)__
+  - 분류: `해커톤`
+  - 주최: DND
+  - 주최: 10. 12(화) ~ 11. 14(일)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
