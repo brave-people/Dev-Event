@@ -159,23 +159,11 @@
 
 ## 21년 10월
  
-- __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
-  - 분류: `컨퍼런스`, `AWS`
-  - 주최: AWS
-  - 일시: 10. 23(토) 14:00 ~ 18:00
-
-- __[2021년도 AI/로봇 해커톤 in 마곡](https://onoffmix.com/event/244968)__
-  - 분류: `해커톤`, `창업`
-  - 주최: 서울산업진흥원
-  - 접수: 09. 24(금) ~ 10. 24(일)
-- __[(유료) 알고리즘 캠프 1기](https://comgongbro.notion.site/e42c505a19f041d6b9803b4e5be0902d)__
-  - 분류: `유료`, `교육`, `알고리즘`
-  - 주최: 컴공선배
-  - 모집: 10. 18(월) ~ 10. 24(일)
 - __[AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)__
   - 분류: `대회`, `AI`
   - 주최: LG
   - 일시: 09. 27(월) ~ 10. 25(월)
+
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
@@ -208,6 +196,10 @@
   - 분류: `대회`, `보안`
   - 주최: 한국인터넷진흥원
   - 접수: 10. 18(월) 09:00 ~ 10. 27(수) 18:00
+- __[프리온보딩 백엔드 코스](https://www.wanted.co.kr/events/pre_onboarding_course_4)__
+  - 분류: `교육`
+  - 주최: 원티드
+  - 접수: 10. 13(수) ~ 10. 27(수) 19:00
 - __[애자일 코리아 10월 밋업](https://festa.io/events/1861)__
   - 분류: `웨비나`, `에자일`
   - 주최: 애자일 코리아
@@ -302,6 +294,14 @@
   - 분류: `컨퍼런스`, `개발보안`
   - 주최: 행정안전부
   - 일시: 11. 05(금) 10:30 ~ 16:00
+- __[KT AIVLE School](http://www.swsecurecoding.kr/)__
+  - 분류: `교육`
+  - 주최: KT
+  - 접수: 10.25(월)~11.05(금)
+- __[삼성 청년 SW 아카데미 7기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=60)__
+  - 분류: `교육`
+  - 주최: saffy
+  - 접수: 10.25(월) ~ 11.08(월) 17:00
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
@@ -318,6 +318,10 @@
   - 분류: `해커톤`
   - 주최: DND
   - 주최: 10. 12(화) ~ 11. 14(일)
+- __[if kakao](https://if.kakao.com/)__
+  - 분류: `컨퍼런스`
+  - 주최: 카카오
+  - 주최: 11. 16(화) ~ 11. 18(목)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
