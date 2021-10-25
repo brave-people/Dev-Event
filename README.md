@@ -176,6 +176,10 @@
   - 분류: `대회`, `AI`
   - 주최: LG
   - 일시: 09. 27(월) ~ 10. 25(월)
+- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
+  - 분류: `온라인`, `라이브`
+  - 주최: Apple
+  - 일시: 10. 25(월) ~ 12. 17(금)
 - __[Next.js Conf](https://nextjs.org/conf)__
   - 분류: `Next.js`, `컨퍼런스`, `온라인`
   - 주최: Vercel
