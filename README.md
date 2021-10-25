@@ -6,11 +6,6 @@
 
 ![img](./static/title-v3-lg.png)
 
-[![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
-![Last commit](https://img.shields.io/github/last-commit/brave-people/Dev-Event?style=flat-square)
-
 </div>
 
 <div align=center>
@@ -459,4 +454,10 @@
   <hr />
     <h3> 용감한 친구들 with 남송리 삼번지 </h3>
   <hr />
+</div>
+
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
