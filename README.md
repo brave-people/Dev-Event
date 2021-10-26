@@ -145,36 +145,20 @@
 
 <br />
 
-## Dev Event만의 특별함
+## 지난 행사 다시보기
 
-- 지난 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
-- 지난 행사 후기글: [바로가기](./review/review.md)
+- 개발자 행사 영상: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
+- 행사 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
 ## 21년 10월
  
-- __[AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)__
-  - 분류: `대회`, `AI`
-  - 주최: LG
-  - 일시: 09. 27(월) ~ 10. 25(월)
-
-- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
-  - 분류: `온라인`, `라이브`
-  - 주최: Apple
-  - 일시: 10. 25(월) ~ 12. 17(금)
-- __[Next.js Conf](https://nextjs.org/conf)__
-  - 분류: `Next.js`, `컨퍼런스`, `온라인`
-  - 주최: Vercel
-  - 모집: 10. 26(화) 09:00 ~ 13:00
-- __[AWS Game Master 온라인 시리즈 #5. AWS로 게임 분석하기](https://www.megazone.com/application-game-master-online/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 모집: 10. 26(화) 13:00 ~ 17:00
 - __[데이터게임 : IoT 데이터 전쟁의 최후 승자는 누구인가?](https://manufacturingtv.co.kr/Event/161)__
   - 분류: `웨비나`, `데이터`
   - 주최: 매뉴팩처링티비
   - 모집: 10. 27(수) 16:00 ~ 17:00
+
 - __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
   - 분류: `메타버스`, `오프라인`
   - 주최: KEA
@@ -305,6 +289,10 @@
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
+- __[PASCON 2021](https://www.dailysecu.com/form/register.html?form_id=1607476949)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: PASCON
+  - 일시: 11. 11(목) 09:00 ~ 17:00
 - __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
@@ -312,7 +300,15 @@
 - __[DND 언택트 해커톤](https://docs.google.com/forms/d/e/1FAIpQLScTJ-UWmhQ8KueJPnHNgKmC-p3CgPDnxuWd80cyOkdGziXjXA/viewform?usp=send_form)__
   - 분류: `해커톤`
   - 주최: DND
-  - 주최: 10. 12(화) ~ 11. 14(일)
+  - 일시: 10. 12(화) ~ 11. 14(일)
+- __[Artificial Intelligence Diabetes Datathon 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 접수: 10. 22(금) ~ 11. 16(화)
+- __[OWASP Seoul Conference 2021](https://aiddatathon.com/)__
+  - 분류: `모임`, `보안`
+  - 주최: OWASP Seoul Chapter
+  - 일시: 11. 17(수) 19:00 ~ 21:00
 - __[if kakao](https://if.kakao.com/)__
   - 분류: `컨퍼런스`
   - 주최: 카카오
@@ -337,6 +333,10 @@
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
   - 일시: 08. 30(월) ~ 11. 26(금)
+- __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
 
 <br />
 
@@ -359,6 +359,11 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
+  - 분류: `온라인`, `라이브`
+  - 주최: Apple
+  - 일시: 10. 25(월) ~ 12. 17(금)
+
 
 <br />
 
