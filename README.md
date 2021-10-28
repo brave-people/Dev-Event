@@ -200,6 +200,10 @@
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 10. 18(월) ~ 10. 29(금)
+- __[W3C HTML5 Conference 2021](https://event-us.kr/web/event/23632)__
+  - 분류: `컨퍼런스`, `웹 접근성`
+  - 주최: 과학기술정보통신부
+  - 일시: 10. 29(금) 13:00 ~ 17:30
 - __[Saltlux AI Conference 2021](https://event-us.kr/slx/event/37358)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: 솔트룩스
@@ -277,6 +281,10 @@
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
+  - 일시: 11. 10(수) ~ 11. 11(목)
+- __[HMG DEVELOPER CONFERENCE](https://hmgdevcon.com/main/)__
+  - 분류: `컨퍼런스`
+  - 주최: 현대자동차그룹
   - 일시: 11. 10(수) ~ 11. 11(목)
 - __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
   - 분류: `모각코`
