@@ -326,6 +326,10 @@
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
   - 일시: 11. 19(금) 10:00 ~ 17:00
+- __[WOOWACON(우아콘) 2021](https://woowacon.com/)__
+  - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
+  - 주최: 우아한 형제들
+  - 일시: 11.17(수) ~ 11. 19(금)
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
