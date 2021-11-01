@@ -145,44 +145,6 @@
 
 <br />
 
-## 21년 10월
- 
-- __[FEConf 2021](https://2021.feconf.kr/)__
-  - 분류: `컨퍼런스`, `프론트엔드`
-  - 주최: FEConf
-  - 일시: 10. 30(토)
-  
-- __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
-  - 분류: `대회`, `데이터`
-  - 주최: 행정안전부
-  - 일시: 10. 22(금) ~ 10. 30(토)
-- __[2021 소형객체 인공지능 모델 개발 챌린지](https://sochallenge.kr/)__
-  - 분류: `챌린지`, `AI`
-  - 주최: 과학기술정보통신부
-  - 일시: 10. 01(금) 12:00 ~ 10. 30(토) 01:00
-- __[liftIO 2021](https://festa.io/events/1840)__
-  - 분류: `컨퍼런스`
-  - 주최: liftIO
-  - 일시: 10. 30(토) 14:00 ~ 18:00
-- __[메타버스 기반 핀테크 해커톤](https://onoffmix.com/event/245099)__
-  - 분류: `해커톤`
-  - 주최: 한국인터넷진흥원
-  - 일시: 08. 31(화) ~ 10. 31(일)
-- __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
-  - 분류: `오픈소스`, `컨트리뷰션`
-  - 주최: DigitalOcean
-  - 일시: 10. 01(금) ~ 10. 31(일)
-- __[2021 Future Edufesta LINK](https://festa.io/events/1882)__
-  - 분류: `웨비나`, `교육`
-  - 주최: ATC
-  - 일시: 10. 30(토) 10:00 ~ 10. 31(일) 18:30
-- __[2021 adiOS October](https://festa.io/events/1809)__
-  - 분류: `웨비나`, `iOS`
-  - 주최: adiOS
-  - 일시: 10. 31(일) 15:00 ~ 17:30
-
-<br />
-
 ## 21년 11월
 
 - __[2021아이포럼: AI with HUMAN](http://onoff.inews24.com/2021/iforum/)__
@@ -213,7 +175,15 @@
 - __[KT AIVLE School](http://www.swsecurecoding.kr/)__
   - 분류: `교육`
   - 주최: KT
-  - 접수: 10.25(월) ~ 11.05(금)
+  - 접수: 10. 25(월) ~ 11. 05(금)
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 07(일)
+- __[BC카드 금융 빅데이터 플랫폼 활용 아이디어 공모전](https://www.bigdata-finance.kr/main.do)__
+  - 분류: `공모전`, `아이디어톤`
+  - 주최: BC카드
+  - 신청: 10. 01(금) ~ 11/07(일)
 - __[삼성 청년 SW 아카데미 7기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=60)__
   - 분류: `교육`
   - 주최: saffy
@@ -226,14 +196,22 @@
   - 분류: `컨퍼런스`
   - 주최: 현대자동차그룹
   - 일시: 11. 10(수) ~ 11. 11(목)
-- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
-  - 분류: `모각코`
-  - 주최: GDG Campus Korea
-  - 일시: 10. 30(토) ~ 11. 12(금)
 - __[PASCON 2021](https://www.dailysecu.com/form/register.html?form_id=1607476949)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: PASCON
   - 일시: 11. 11(목) 09:00 ~ 17:00
+- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
+  - 분류: `모각코`
+  - 주최: GDG Campus Korea
+  - 일시: 10. 30(토) ~ 11. 12(금)
+- __[Svelte 기초 및 실습 (1주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 06(토) 10:00 ~ 17:00
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (1주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 07(일) 10:00 ~ 17:00
 - __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
@@ -242,6 +220,18 @@
   - 분류: `해커톤`
   - 주최: DND
   - 일시: 10. 12(화) ~ 11. 14(일)
+- __[우형개발자와 함께하는 스터디](https://puffy-stick-fa1.notion.site/208963155657489996b0721dcb3c6dfa)__
+  - 분류: `스터디`
+  - 주최: 우아한형제들
+  - 모집: 11. 01(월) ~ 11. 14(일)
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (2주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 14(일) 10:00 ~ 17:00
+- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 13(토) 10:00 ~ 17:00
 - __[Artificial Intelligence Diabetes Datathon 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
@@ -278,10 +268,26 @@
   - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
   - 주최: 우아한 형제들
   - 일시: 11.17(수) ~ 11. 19(금)
+- __[Svelte 기초 및 실습 (3주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 20(토) 10:00 ~ 17:00
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 21(일) 10:00 ~ 17:00
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
   - 일시: 08. 30(월) ~ 11. 26(금)
+- __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 27(토) 10:00 ~ 17:00
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 28(일) 10:00 ~ 17:00
 - __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
