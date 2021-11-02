@@ -303,6 +303,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "chop-sui",
+      "name": "Jeong Suh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55661741?v=4",
+      "profile": "http://chop-sui.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
