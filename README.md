@@ -172,7 +172,7 @@
   - 분류: `컨퍼런스`, `개발보안`
   - 주최: 행정안전부
   - 일시: 11. 05(금) 10:30 ~ 16:00
-- __[KT AIVLE School](http://www.swsecurecoding.kr/)__
+- __[KT AIVLE School](https://ktedu.kt.com/aivle/main.html/)__
   - 분류: `교육`
   - 주최: KT
   - 접수: 10. 25(월) ~ 11. 05(금)
