@@ -287,6 +287,9 @@
 | 디프만 | 디자이너와 프로그래머의 만남 | [depromeet.com](https://www.depromeet.com/) |
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임 | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
 | CEOS | 신촌 연합 IT 창업 동아리 | [공식 홈페이지](https://www.ceos.or.kr/) |
+| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
+| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
+
 
 <br />
 
