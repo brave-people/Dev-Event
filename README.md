@@ -87,19 +87,11 @@
 
 ## 21년 11월
 
-- __[실내공간 3D 종합 AI 데이터 인공지능 해커톤](https://etedu.co.kr/shop/item.php?it_id=1633564150)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 13(수) ~ 11. 03(수)
-
-- __[우아한 테크코스 4기](https://techblog.woowahan.com/5977)__
-  - 분류: `교육`, `프론트엔트`, `백엔드`
-  - 주최: 우아한 형제들
-  - 접수: 10. 22(금) ~ 11. 03(수) 10:00
 - __[2021년 디자인시스템의 혁신, UXPin 한국 첫 웨비나!](https://us06web.zoom.us/webinar/register/WN_MLCooHsfTx-KNLOZtfSSkA)__
   - 분류: `웨비나`
   - 주최: 단군소프트
   - 접수: 11. 04(목) 16:00 ~ 17:00
+  
 - __[SK ICT Tech Summit 2021](https://skicttechsummit.com/index_pre.do)__
   - 분류: `컨퍼런스`, `기술`
   - 주최: SK
@@ -112,6 +104,14 @@
   - 분류: `교육`
   - 주최: KT
   - 접수: 10. 25(월) ~ 11. 05(금)
+- __[Svelte 기초 및 실습 (1주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 06(토) 10:00 ~ 17:00
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (1주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 07(일) 10:00 ~ 17:00
 - __[Kotlin을 이용한 안드로이드 앱의 기초 구조](https://www.codelabs.kr/codelabs/146)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -140,14 +140,6 @@
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
-- __[Svelte 기초 및 실습 (1주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 06(토) 10:00 ~ 17:00
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (1주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 07(일) 10:00 ~ 17:00
 - __[넉넉위크 - 개발자 커리어](https://mewing-almandine-c08.notion.site/a431630ae2044e5f975dfb9de2c75fd6)__
   - 분류: `커리어`
   - 주최: 청년다방
@@ -156,6 +148,10 @@
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 11. 01(월) ~ 11. 12(금)
+- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 13(토) 10:00 ~ 17:00
 - __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
@@ -172,10 +168,6 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 14(일) 10:00 ~ 17:00
-- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 13(토) 10:00 ~ 17:00
 - __[Artificial Intelligence Diabetes Datathon 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
@@ -184,10 +176,10 @@
   - 분류: `모임`, `보안`
   - 주최: OWASP Seoul Chapter
   - 일시: 11. 17(수) 19:00 ~ 21:00
-- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
-  - 분류: `웨비나`
-  - 주최: 마켓컬리
-  - 일시: 11. 30(화) 19:00 ~ 20:00
+- __[당근 SRE 밋업 2회](https://festa.io/events/1912)__
+  - 분류: `웨비나`, `SRE`
+  - 주최: 당근마켓
+  - 일시: 11. 17(수) 19:00 ~ 22:00
 - __[if kakao](https://if.kakao.com/)__
   - 분류: `컨퍼런스`
   - 주최: 카카오
@@ -200,6 +192,10 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성
   - 일시: 11. 17(수) ~ 11. 18(목)
+- __[Gitlab Korea 밋업 - GitLab의 제품개발 프로세스](https://festa.io/events/1914)__
+  - 분류: `웨비나`
+  - 주최: GitLab Korea
+  - 일시: 11. 18(목) 19:00 ~ 21:00
 - __[라이징 캠프 3기](https://risingcamp.com)__
   - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
@@ -220,6 +216,14 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 모집: 10. 27(수) ~ 11. 25(수)
+- __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 모집: 10. 27(수) ~ 11. 25(수)
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
@@ -236,6 +240,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
+- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
+  - 분류: `웨비나`
+  - 주최: 마켓컬리
+  - 일시: 11. 30(화) 19:00 ~ 20:00
 
 <br />
 
