@@ -321,6 +321,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "zettalyst",
+      "name": "Zetta (hogyun.yu)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71296846?v=4",
+      "profile": "https://github.com/zettalyst",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

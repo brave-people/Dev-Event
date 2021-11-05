@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -427,6 +427,9 @@
     <td align="center"><a href="https://github.com/rockdam"><img src="https://avatars.githubusercontent.com/u/10398751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rockdam</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rockdam" title="Code">💻</a></td>
     <td align="center"><a href="http://chop-sui.github.io"><img src="https://avatars.githubusercontent.com/u/55661741?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeong Suh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chop-sui" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/shinplest"><img src="https://avatars.githubusercontent.com/u/24619485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JAIHYOUNG SHIN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=shinplest" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
   </tr>
 </table>
 
