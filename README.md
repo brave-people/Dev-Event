@@ -87,19 +87,11 @@
 
 ## 21년 11월
 
-- __[2021년 디자인시스템의 혁신, UXPin 한국 첫 웨비나!](https://us06web.zoom.us/webinar/register/WN_MLCooHsfTx-KNLOZtfSSkA)__
-  - 분류: `웨비나`
-  - 주최: 단군소프트
-  - 접수: 11. 04(목) 16:00 ~ 17:00
-  
-- __[SK ICT Tech Summit 2021](https://skicttechsummit.com/index_pre.do)__
-  - 분류: `컨퍼런스`, `기술`
-  - 주최: SK
-  - 일시: 11. 03(수) ~ 11. 04(목)
 - __[제11회 소프트웨어 개발보안 컨퍼런스](http://www.swsecurecoding.kr/)__
   - 분류: `컨퍼런스`, `개발보안`
   - 주최: 행정안전부
   - 일시: 11. 05(금) 10:30 ~ 16:00
+  
 - __[KT AIVLE School](https://ktedu.kt.com/aivle/main.html)__
   - 분류: `교육`
   - 주최: KT
@@ -108,6 +100,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 06(토) 10:00 ~ 17:00
+- __[Open UP_AI오픈소스 실전 아카데미 - 3차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
+  - 분류: `교육`, `무료`, `오픈소스`
+  - 주최: Open UP
+  - 일시: 11. 06(토) ~ 11. 07(일)
 - __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (1주차)](https://www.codelabs.kr/codelabs/146)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -140,6 +136,10 @@
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
+- __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/ef29418a-d73c-4d83-88b0-e04f7fb24c93?page=1)__
+  - 분류: `오픈소스`, `해커톤`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 05(금) ~ 11. 12(금)
 - __[넉넉위크 - 개발자 커리어](https://mewing-almandine-c08.notion.site/a431630ae2044e5f975dfb9de2c75fd6)__
   - 분류: `커리어`
   - 주최: 청년다방
@@ -212,6 +212,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 20(토) 10:00 ~ 17:00
+- __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
+  - 분류: `교육`, `무료`, `오픈소스`
+  - 주최: Open UP
+  - 일시: 11. 20(토) ~ 11. 21(일)
 - __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -232,6 +236,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 27(토) 10:00 ~ 17:00
+- __[GDG Busan Devfest 2021 중소IT 기업의 개발/조직문화 Level Up!](https://festa.io/events/75b909e5-801c-49be-a318-833ccef3a907)__
+  - 분류: `모임`
+  - 주최: GDG Busan
+  - 일시: 11. 27(토) 14:00 ~ 16:00
 - __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
   - 분류: `교육`
   - 주최: 양재동코드랩
