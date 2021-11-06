@@ -118,7 +118,7 @@
   - 신청: 10. 01(금) ~ 11/07(일)
 - __[삼성 청년 SW 아카데미 7기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=60)__
   - 분류: `교육`
-  - 주최: saffy
+  - 주최: SSAFY
   - 접수: 10.25(월) ~ 11.08(월) 17:00
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
