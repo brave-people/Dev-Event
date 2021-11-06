@@ -87,19 +87,11 @@
 
 ## 21년 11월
 
-- __[제11회 소프트웨어 개발보안 컨퍼런스](http://www.swsecurecoding.kr/)__
-  - 분류: `컨퍼런스`, `개발보안`
-  - 주최: 행정안전부
-  - 일시: 11. 05(금) 10:30 ~ 16:00
-  
-- __[KT AIVLE School](https://ktedu.kt.com/aivle/main.html)__
-  - 분류: `교육`
-  - 주최: KT
-  - 접수: 10. 25(월) ~ 11. 05(금)
 - __[Svelte 기초 및 실습 (1주차)](https://www.codelabs.kr/codelabs/148)__
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 06(토) 10:00 ~ 17:00
+
 - __[Open UP_AI오픈소스 실전 아카데미 - 3차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
   - 분류: `교육`, `무료`, `오픈소스`
   - 주최: Open UP
@@ -176,6 +168,10 @@
   - 분류: `모임`, `보안`
   - 주최: OWASP Seoul Chapter
   - 일시: 11. 17(수) 19:00 ~ 21:00
+- __[야놀자 · 야놀자 클라우드 | LIVE 채용 설명회](https://www.wanted.co.kr/events/yanolja_recruit)__
+  - 분류: `채용`
+  - 주최: 야놀자
+  - 일시: 11. 16(화) ~ 11. 17(수) 19:30 ~ 20:40
 - __[당근 SRE 밋업 2회](https://festa.io/events/1912)__
   - 분류: `웨비나`, `SRE`
   - 주최: 당근마켓
