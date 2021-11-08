@@ -87,31 +87,11 @@
 
 ## 21년 11월
 
-- __[Svelte 기초 및 실습 (1주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 06(토) 10:00 ~ 17:00
-
-- __[Open UP_AI오픈소스 실전 아카데미 - 3차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
-  - 분류: `교육`, `무료`, `오픈소스`
-  - 주최: Open UP
-  - 일시: 11. 06(토) ~ 11. 07(일)
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (1주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 07(일) 10:00 ~ 17:00
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 07(일)
-- __[BC카드 금융 빅데이터 플랫폼 활용 아이디어 공모전](https://www.bigdata-finance.kr/main.do)__
-  - 분류: `공모전`, `아이디어톤`
-  - 주최: BC카드
-  - 신청: 10. 01(금) ~ 11/07(일)
 - __[삼성 청년 SW 아카데미 7기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=60)__
   - 분류: `교육`
   - 주최: SSAFY
   - 접수: 10.25(월) ~ 11.08(월) 17:00
+  
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
@@ -200,6 +180,10 @@
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
   - 일시: 11. 19(금) 10:00 ~ 17:00
+- __[월간 코드리뷰 ver_0.2 : 개발자의 소통코드 웨비나](https://taling.me/Event/monthly-codereview/ver_02)__
+  - 분류: `웨비나`
+  - 주최: 탈잉
+  - 일시: 11. 19(금) 19:00 ~ 23:00
 - __[WOOWACON(우아콘) 2021](https://woowacon.com/)__
   - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
   - 주최: 우아한 형제들
