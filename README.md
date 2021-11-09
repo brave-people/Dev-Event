@@ -87,15 +87,11 @@
 
 ## 21년 11월
 
-- __[삼성 청년 SW 아카데미 7기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=60)__
-  - 분류: `교육`
-  - 주최: SSAFY
-  - 접수: 10.25(월) ~ 11.08(월) 17:00
-  
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
   - 일시: 11. 10(수) ~ 11. 11(목)
+
 - __[HMG DEVELOPER CONFERENCE](https://hmgdevcon.com/main/)__
   - 분류: `컨퍼런스`
   - 주최: 현대자동차그룹
@@ -140,6 +136,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 14(일) 10:00 ~ 17:00
+- __[깃허브 저자 네라쿠배 개발자의 커리어 이야기](https://okky.kr/article/1092082)__
+  - 분류: `세미나`, `유료`
+  - 주최: OKKY
+  - 접수: 11. 15(월) 17:00
 - __[Artificial Intelligence Diabetes Datathon 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
@@ -200,14 +200,30 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[래블업 AI Conference lab | up > /conf](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `컨퍼런스`, `AI`
+  - 주최: 래블업
+  - 일시: 11. 22(월) 14:00 ~ 17:30
+- __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
+  - 분류: `컨퍼런스`, `클라우드`
+  - 주최: 메가존
+  - 일시: 11. 22(월) 13:00 ~ 17:00
+- __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
+  - 분류: `마이데이터`
+  - 주최: 4차산업혁명위원회
+  - 일시: 11. 25(목) 14:00 ~ 17:00
 - __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(수)
+  - 모집: 10. 27(수) ~ 11. 25(목)
 - __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(수)
+  - 모집: 10. 27(수) ~ 11. 25(목)
+- __[IT-CON with 디프만](https://festa.io/events/1929)__
+  - 분류: `유료`, `웨비나`
+  - 주최: 디프만
+  - 일시: 11. 25(목) 20:00 ~ 22:00
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
