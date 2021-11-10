@@ -339,6 +339,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ohsuz",
+      "name": "Suzie Oh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59340911?v=4",
+      "profile": "http://ohsuz.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
