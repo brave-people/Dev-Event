@@ -148,6 +148,10 @@
   - 분류: `모임`, `보안`
   - 주최: OWASP Seoul Chapter
   - 일시: 11. 17(수) 19:00 ~ 21:00
+- __[별종 개발자들의 성장 이야기 ](https://www.wanted.co.kr/events/livetalk55)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 11. 17(수) 19:00 ~ 21:00
 - __[야놀자 · 야놀자 클라우드 | LIVE 채용 설명회](https://www.wanted.co.kr/events/yanolja_recruit)__
   - 분류: `채용`
   - 주최: 야놀자
@@ -200,6 +204,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
+  - 분류: `커리어`, `프론트엔드`
+  - 주최: 라인
+  - 일시: 11. 09(화) ~ 11. 21(일)
 - __[래블업 AI Conference lab | up > /conf](https://www.codelabs.kr/codelabs/146)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: 래블업
@@ -208,6 +216,10 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존
   - 일시: 11. 22(월) 13:00 ~ 17:00
+- __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
+  - 분류: `컨퍼런스`
+  - 주최: 삼성SDS
+  - 일시: 11. 23(화) ~ 11. 24(수)
 - __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
   - 분류: `마이데이터`
   - 주최: 4차산업혁명위원회
@@ -224,6 +236,10 @@
   - 분류: `유료`, `웨비나`
   - 주최: 디프만
   - 일시: 11. 25(목) 20:00 ~ 22:00
+- __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 마이크로소프트
+  - 일시: 11. 26(금) 14:00 ~ 17:20
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
