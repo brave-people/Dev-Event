@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -427,6 +427,7 @@
   <tr>
     <td align="center"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/chengxxi"><img src="https://avatars.githubusercontent.com/u/71359467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seunghee Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chengxxi" title="Code">💻</a></td>
+    <td align="center"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
   </tr>
 </table>
 
