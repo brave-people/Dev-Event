@@ -140,11 +140,11 @@
   - 분류: `세미나`, `유료`
   - 주최: OKKY
   - 접수: 11. 15(월) 17:00
-- __[Artificial Intelligence Diabetes Datathon 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
+- __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
   - 접수: 10. 22(금) ~ 11. 16(화)
-- __[OWASP Seoul Conference 2021](https://aiddatathon.com/)__
+- __[OWASP Seoul Conference 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
   - 분류: `모임`, `보안`
   - 주최: OWASP Seoul Chapter
   - 일시: 11. 17(수) 19:00 ~ 21:00
