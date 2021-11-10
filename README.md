@@ -11,6 +11,7 @@
 <br />
 <br />
 
+<!-- 
 ## 📣 Dev Event Mail
 
 <div align=center>
@@ -35,6 +36,7 @@
 </div>
 
 <br />
+
 
 <details>
   <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
@@ -66,22 +68,47 @@
 
   </div>
 </details>
+-->
+
+<table>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event-Subscribe">
+      <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event-Android">
+      <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event#contributors-">
+      <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="#">
+      <img src="./static/banner/banner4.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
+</table>  
+
+> 배너 클릭시 연관 링크로 이동합니다.
 
 <br />
 
-## 지난 일정
+## 지난 행사
 
 > 좋은 행사 놓쳐서 후회하면 무엇하리.. 자주 확인하여 참석합시다 :)
 
-- 2020년: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
-- 2021년: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md)
-
-<br />
-
-## 지난 행사 다시보기
-
-- 개발자 행사 영상: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
-- 행사 참여 후기: [바로가기](./review/review.md)
+- 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
+- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md)
+- 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
+- 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
@@ -453,6 +480,14 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 > 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
+
+<br />
+
+Special Thanks to
+- [@leedoopal](https://github.com/leedoopal) - Dev Event Web Client
+- [@Limm-jk](https://github.com/Limm-jk) - Dev Event Subscribe
+- [@jisungbin](https://github.com/jisungbin) - Dev Event Android
+
 
 <br />
 <br />
