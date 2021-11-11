@@ -1,28 +1,17 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
 ![img](./static/title-v3-lg.png)
 
-[![author](https://img.shields.io/badge/author-covenant-brightgreen.svg?style=flat-square)](https://covenant.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=Welcome%7E&edge_flat=true)](https://hits.seeyoufarm.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/brave-people/Dev-Event/pulls)
-![Last commit](https://img.shields.io/github/last-commit/brave-people/Dev-Event?style=flat-square)
-
-</div>
-
-<div align=center>
-
-개발자 컨퍼런스 및 해커톤 일정을 알려드립니다.
-
 </div>
 
 <br />
 <br />
-<br />
 
+<!-- 
 ## 📣 Dev Event Mail
 
 <div align=center>
@@ -47,6 +36,7 @@
 </div>
 
 <br />
+
 
 <details>
   <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
@@ -78,238 +68,85 @@
 
   </div>
 </details>
+-->
 
-<br />
-
-## Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
-    <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
-    <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
-    <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars1.githubusercontent.com/u/57378834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Limm-jk" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
-    <td align="center"><a href="https://blog.naver.com/zzang9ha"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/zel0rd"><img src="https://avatars.githubusercontent.com/u/28799597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>younggil</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zel0rd" title="Code">💻</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/haeseok/"><img src="https://avatars.githubusercontent.com/u/20268101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haeseok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=haeseoklee" title="Code">💻</a></td>
-    <td align="center"><a href="http://instagram.com/choiysapple/"><img src="https://avatars.githubusercontent.com/u/43776784?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daegun Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ChoiysApple" title="Code">💻</a></td>
-    <td align="center"><a href="https://ehdwn1991.github.io/"><img src="https://avatars.githubusercontent.com/u/16898745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codex</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ehdwn1991" title="Code">💻</a></td>
-    <td align="center"><a href="https://velog.io/@dps0340"><img src="https://avatars.githubusercontent.com/u/32592965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jiho lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DPS0340" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/MaetDol"><img src="https://avatars.githubusercontent.com/u/20384262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MaetDol</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MaetDol" title="Code">💻</a></td>
-    <td align="center"><a href="https://butter-shower.tistory.com/"><img src="https://avatars.githubusercontent.com/u/32065860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiyeon Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jiyeoon" title="Code">💻</a></td>
-    <td align="center"><a href="https://blog.frec.kr"><img src="https://avatars.githubusercontent.com/u/10742964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Myung-Hyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=freckie" title="Code">💻</a></td>
-    <td align="center"><a href="http://medium.com/@paikend"><img src="https://avatars.githubusercontent.com/u/26214518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjun Paik</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=paikend" title="Code">💻</a></td>
-    <td align="center"><a href="https://haranglog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/60910665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=saseungmin" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/mjh0528"><img src="https://avatars.githubusercontent.com/u/54383015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mjh0528" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Winning-Bean"><img src="https://avatars.githubusercontent.com/u/53260922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungBeen Wee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Winning-Bean" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/rlaekwjd324"><img src="https://avatars.githubusercontent.com/u/54465767?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rlaekwjd324</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rlaekwjd324" title="Code">💻</a></td>
-    <td align="center"><a href="https://snowapril.github.io"><img src="https://avatars.githubusercontent.com/u/24654975?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Snowapril</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Snowapril" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/GHooN99"><img src="https://avatars.githubusercontent.com/u/53388557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KyungHoon Jung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GHooN99" title="Code">💻</a></td>
-    <td align="center"><a href="http://ihp001.tistory.com"><img src="https://avatars.githubusercontent.com/u/47745785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>INHYO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PARKINHYO" title="Code">💻</a></td>
-    <td align="center"><a href="https://sumini.dev"><img src="https://avatars.githubusercontent.com/u/48555121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=greatSumini" title="Code">💻</a></td>
-    <td align="center"><a href="https://url.kr/xwdbtv"><img src="https://avatars.githubusercontent.com/u/67373938?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimxwan0319</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimxwan0319" title="Code">💻</a></td>
-    <td align="center"><a href="https://velog.io/@leeseojune53"><img src="https://avatars.githubusercontent.com/u/61784568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Leeseojune</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=leeseojune53" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
-    <td align="center"><a href="https://jhk0530.medium.com/"><img src="https://avatars.githubusercontent.com/u/6457691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinhwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jhk0530" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/rockdam"><img src="https://avatars.githubusercontent.com/u/10398751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rockdam</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rockdam" title="Code">💻</a></td>
-  </tr>
-</table>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event-Subscribe">
+      <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event-Android">
+      <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://github.com/brave-people/Dev-Event#contributors-">
+      <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="#">
+      <img src="./static/banner/banner4.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
+</table>  
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-> 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
+> 배너 클릭시 연관 링크로 이동합니다.
 
 <br />
 
-## 지난 일정
+## 지난 행사
 
 > 좋은 행사 놓쳐서 후회하면 무엇하리.. 자주 확인하여 참석합시다 :)
 
-- 2020년: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
-- 2021년: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md)
-
-<br />
-
-## Dev Event만의 특별함
-
-- 지난 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
-- 지난 행사 후기글: [바로가기](./review/review.md)
-
-<br />
-
-## 21년 10월
- 
-- __[AWS Community Day 온라인 2021](https://festa.io/events/1826)__
-  - 분류: `컨퍼런스`, `AWS`
-  - 주최: AWS
-  - 일시: 10. 23(토) 14:00 ~ 18:00
-
-- __[2021년도 AI/로봇 해커톤 in 마곡](https://onoffmix.com/event/244968)__
-  - 분류: `해커톤`, `창업`
-  - 주최: 서울산업진흥원
-  - 접수: 09. 24(금) ~ 10. 24(일)
-- __[(유료) 알고리즘 캠프 1기](https://comgongbro.notion.site/e42c505a19f041d6b9803b4e5be0902d)__
-  - 분류: `유료`, `교육`, `알고리즘`
-  - 주최: 컴공선배
-  - 모집: 10. 18(월) ~ 10. 24(일)
-- __[AI 기반 회의 녹취록 요약 경진대회](https://dacon.io/competitions/official/235813/overview/description)__
-  - 분류: `대회`, `AI`
-  - 주최: LG
-  - 일시: 09. 27(월) ~ 10. 25(월)
-- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
-  - 분류: `온라인`, `라이브`
-  - 주최: Apple
-  - 일시: 10. 25(월) ~ 12. 17(금)
-- __[Next.js Conf](https://nextjs.org/conf)__
-  - 분류: `Next.js`, `컨퍼런스`, `온라인`
-  - 주최: Vercel
-  - 모집: 10. 26(화) 09:00 ~ 13:00
-- __[AWS Game Master 온라인 시리즈 #5. AWS로 게임 분석하기](https://www.megazone.com/application-game-master-online/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 모집: 10. 26(화) 13:00 ~ 17:00
-- __[데이터게임 : IoT 데이터 전쟁의 최후 승자는 누구인가?](https://manufacturingtv.co.kr/Event/161)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 매뉴팩처링티비
-  - 모집: 10. 27(수) 16:00 ~ 17:00
-- __[메타버스 코리아](http://metaverseshow.co.kr/2021/)__
-  - 분류: `메타버스`, `오프라인`
-  - 주최: KEA
-  - 모집: 10. 26(화) ~ 10. 29(금)
-- __[AWS로 게임 분석하기](https://pages.awscloud.com/game-master-online)__
-  - 분류: `클라우드`
-  - 주최: AWS
-  - 모집: 10. 26(화) 13:00 ~ 17:00
-- __[DevelopersIO KOREA](https://forms.gle/StFUyd25cqzE7TEBA)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 클라우드메소드코리아
-  - 모집: 10. 26(화) 18:00 ~ 20:00
-- __[핵 더 챌린지](https://www.krcert.or.kr/consult/software/hackthechallenge.do)__
-  - 분류: `대회`, `보안`
-  - 주최: 한국인터넷진흥원
-  - 접수: 10. 18(월) 09:00 ~ 10. 27(수) 18:00
-- __[애자일 코리아 10월 밋업](https://festa.io/events/1861)__
-  - 분류: `웨비나`, `에자일`
-  - 주최: 애자일 코리아
-  - 모집: 10. 27(수) 21:00 ~ 23:00
-- __[AWS Innovate - 현대적 앱](https://aws.amazon.com/ko/events/aws-innovate/modern-apps/)__
-  - 분류: `컨퍼런스`, `클라우드`
-  - 주최: AWS
-  - 일시: 10. 27(수) ~ 10. 28(목)
-- __[Android Dev Summit](https://developer.android.com/events/dev-summit)__
-  - 분류: `컨퍼런스`, `안드로이드`
-  - 주최: Google
-  - 일시: 10. 27(수) ~ 10. 28(목)
-- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #2편](https://register.gotowebinar.com/register/5088833800331351823)__
-  - 분류: `웨비나`, `인프라`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 10. 28(목) 11:00 ~ 12:00
-- __[Introduction to MongoDB](https://introductiontomongodbkorea.splashthat.com/)__
-  - 분류: `웨비나`, `mongoDB`
-  - 주최: mongoDB
-  - 일시: 10. 28(목) 14:00 ~ 15:00
-- __[The global developer event](https://www.githubuniverse.com/)__
-  - 분류: `컨퍼런스`
-  - 주최: Github
-  - 일시: 10. 28(목) ~ 10. 29(금)
-- __[Iris 꽃받침 / 꽃잎 너비 예측 경진대회](https://dacon.io/competitions/official/235836/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 10. 18(월) ~ 10. 29(금)
-- __[Saltlux AI Conference 2021](https://event-us.kr/slx/event/37358)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 솔트룩스
-  - 일시: 10. 29(금) 15:00 ~ 18:00
-- __[FEConf 2021](https://2021.feconf.kr/)__
-  - 분류: `컨퍼런스`, `프론트엔드`
-  - 주최: FEConf
-  - 일시: 10. 30(토)
-- __[제4회 데이터 걸스 데이](https://www.onoffmix.com/event/243658)__
-  - 분류: `대회`, `데이터`
-  - 주최: 행정안전부
-  - 일시: 10. 22(금) ~ 10. 30(토)
-- __[2021 소형객체 인공지능 모델 개발 챌린지](https://sochallenge.kr/)__
-  - 분류: `챌린지`, `AI`
-  - 주최: 과학기술정보통신부
-  - 일시: 10. 01(금) 12:00 ~ 10. 30(토) 01:00
-- __[liftIO 2021](https://festa.io/events/1840)__
-  - 분류: `컨퍼런스`
-  - 주최: liftIO
-  - 일시: 10. 30(토) 14:00 ~ 18:00
-- __[메타버스 기반 핀테크 해커톤](https://onoffmix.com/event/245099)__
-  - 분류: `해커톤`
-  - 주최: 한국인터넷진흥원
-  - 일시: 08. 31(화) ~ 10. 31(일)
-- __[hacktoberfest 2021](https://hacktoberfest.digitalocean.com)__
-  - 분류: `오픈소스`, `컨트리뷰션`
-  - 주최: DigitalOcean
-  - 일시: 10. 01(금) ~ 10. 31(일)
-- __[2021 Future Edufesta LINK](https://festa.io/events/1882)__
-  - 분류: `웨비나`, `교육`
-  - 주최: ATC
-  - 일시: 10. 30(토) 10:00 ~ 10. 31(일) 18:30
-- __[2021 adiOS October](https://festa.io/events/1809)__
-  - 분류: `웨비나`, `iOS`
-  - 주최: adiOS
-  - 일시: 10. 31(일) 15:00 ~ 17:30
+- 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
+- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md)
+- 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
+- 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
 ## 21년 11월
 
-- __[2021아이포럼: AI with HUMAN](http://onoff.inews24.com/2021/iforum/)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 아이뉴스
-  - 일시: 11. 02(화) 09:00 ~ 16:20
-
-- __[실내공간 3D 종합 AI 데이터 인공지능 해커톤](https://etedu.co.kr/shop/item.php?it_id=1633564150)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 13(수) ~ 11. 03(수)
-- __[우아한 테크코스 4기](https://techblog.woowahan.com/5977)__
-  - 분류: `교육`, `프론트엔트`, `백엔드`
-  - 주최: 우아한 형제들
-  - 접수: 10. 22(금) ~ 11. 03(수) 10:00
-- __[2021년 디자인시스템의 혁신, UXPin 한국 첫 웨비나!](https://us06web.zoom.us/webinar/register/WN_MLCooHsfTx-KNLOZtfSSkA)__
-  - 분류: `웨비나`
-  - 주최: 단군소프트
-  - 접수: 11. 04(목) 16:00 ~ 17:00
-- __[SK ICT Tech Summit 2021](https://skicttechsummit.com/index_pre.do)__
-  - 분류: `컨퍼런스`, `기술`
-  - 주최: SK
-  - 일시: 11. 03(수) ~ 11. 04(목)
-- __[제11회 소프트웨어 개발보안 컨퍼런스](http://www.swsecurecoding.kr/)__
-  - 분류: `컨퍼런스`, `개발보안`
-  - 주최: 행정안전부
-  - 일시: 11. 05(금) 10:30 ~ 16:00
 - __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
   - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
   - 주최: LINE
   - 일시: 11. 10(수) ~ 11. 11(목)
+
+- __[HMG DEVELOPER CONFERENCE](https://hmgdevcon.com/main/)__
+  - 분류: `컨퍼런스`
+  - 주최: 현대자동차그룹
+  - 일시: 11. 10(수) ~ 11. 11(목)
+- __[PASCON 2021](https://www.dailysecu.com/form/register.html?form_id=1607476949)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: PASCON
+  - 일시: 11. 11(목) 09:00 ~ 17:00
 - __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
+- __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/ef29418a-d73c-4d83-88b0-e04f7fb24c93?page=1)__
+  - 분류: `오픈소스`, `해커톤`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 05(금) ~ 11. 12(금)
+- __[넉넉위크 - 개발자 커리어](https://mewing-almandine-c08.notion.site/a431630ae2044e5f975dfb9de2c75fd6)__
+  - 분류: `커리어`
+  - 주최: 청년다방
+  - 일시: 11. 11(목) 19:00 ~ 20:00
+- __[따릉이 대여량 예측 경진대회](https://dacon.io/competitions/official/235837/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 11. 01(월) ~ 11. 12(금)
+- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 13(토) 10:00 ~ 17:00
 - __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
   - 분류: `커리어`, `해커톤`
   - 주최: wanted
@@ -317,7 +154,43 @@
 - __[DND 언택트 해커톤](https://docs.google.com/forms/d/e/1FAIpQLScTJ-UWmhQ8KueJPnHNgKmC-p3CgPDnxuWd80cyOkdGziXjXA/viewform?usp=send_form)__
   - 분류: `해커톤`
   - 주최: DND
-  - 주최: 10. 12(화) ~ 11. 14(일)
+  - 일시: 10. 12(화) ~ 11. 14(일)
+- __[우형개발자와 함께하는 스터디](https://puffy-stick-fa1.notion.site/208963155657489996b0721dcb3c6dfa)__
+  - 분류: `스터디`
+  - 주최: 우아한형제들
+  - 모집: 11. 01(월) ~ 11. 14(일)
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (2주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 14(일) 10:00 ~ 17:00
+- __[깃허브 저자 네라쿠배 개발자의 커리어 이야기](https://okky.kr/article/1092082)__
+  - 분류: `세미나`, `유료`
+  - 주최: OKKY
+  - 접수: 11. 15(월) 17:00
+- __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 접수: 10. 22(금) ~ 11. 16(화)
+- __[OWASP Seoul Conference 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
+  - 분류: `모임`, `보안`
+  - 주최: OWASP Seoul Chapter
+  - 일시: 11. 17(수) 19:00 ~ 21:00
+- __[별종 개발자들의 성장 이야기 ](https://www.wanted.co.kr/events/livetalk55)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 11. 17(수) 19:00 ~ 21:00
+- __[야놀자 · 야놀자 클라우드 | LIVE 채용 설명회](https://www.wanted.co.kr/events/yanolja_recruit)__
+  - 분류: `채용`
+  - 주최: 야놀자
+  - 일시: 11. 16(화) ~ 11. 17(수) 19:30 ~ 20:40
+- __[당근 SRE 밋업 2회](https://festa.io/events/1912)__
+  - 분류: `웨비나`, `SRE`
+  - 주최: 당근마켓
+  - 일시: 11. 17(수) 19:00 ~ 22:00
+- __[if kakao](https://if.kakao.com/)__
+  - 분류: `컨퍼런스`
+  - 주최: 카카오
+  - 일시: 11. 16(화) ~ 11. 18(목)
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
@@ -326,6 +199,10 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성
   - 일시: 11. 17(수) ~ 11. 18(목)
+- __[Gitlab Korea 밋업 - GitLab의 제품개발 프로세스](https://festa.io/events/1914)__
+  - 분류: `웨비나`
+  - 주최: GitLab Korea
+  - 일시: 11. 18(목) 19:00 ~ 21:00
 - __[라이징 캠프 3기](https://risingcamp.com)__
   - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
@@ -334,10 +211,90 @@
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
   - 일시: 11. 19(금) 10:00 ~ 17:00
+- __[월간 코드리뷰 ver_0.2 : 개발자의 소통코드 웨비나](https://taling.me/Event/monthly-codereview/ver_02)__
+  - 분류: `웨비나`
+  - 주최: 탈잉
+  - 일시: 11. 19(금) 19:00 ~ 23:00
+- __[WOOWACON(우아콘) 2021](https://woowacon.com/)__
+  - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
+  - 주최: 우아한 형제들
+  - 일시: 11.17(수) ~ 11. 19(금)
+- __[Svelte 기초 및 실습 (3주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 20(토) 10:00 ~ 17:00
+- __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
+  - 분류: `교육`, `무료`, `오픈소스`
+  - 주최: Open UP
+  - 일시: 11. 20(토) ~ 11. 21(일)
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
+  - 분류: `커리어`, `프론트엔드`
+  - 주최: 라인
+  - 일시: 11. 09(화) ~ 11. 21(일)
+- __[래블업 AI Conference lab | up > /conf](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `컨퍼런스`, `AI`
+  - 주최: 래블업
+  - 일시: 11. 22(월) 14:00 ~ 17:30
+- __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
+  - 분류: `컨퍼런스`, `클라우드`
+  - 주최: 메가존
+  - 일시: 11. 22(월) 13:00 ~ 17:00
+- __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
+  - 분류: `컨퍼런스`
+  - 주최: 삼성SDS
+  - 일시: 11. 23(화) ~ 11. 24(수)
+- __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
+  - 분류: `마이데이터`
+  - 주최: 4차산업혁명위원회
+  - 일시: 11. 25(목) 14:00 ~ 17:00
+- __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 모집: 10. 27(수) ~ 11. 25(목)
+- __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 모집: 10. 27(수) ~ 11. 25(목)
+- __[IT-CON with 디프만](https://festa.io/events/1929)__
+  - 분류: `유료`, `웨비나`
+  - 주최: 디프만
+  - 일시: 11. 25(목) 20:00 ~ 22:00
+- __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 마이크로소프트
+  - 일시: 11. 26(금) 14:00 ~ 17:20
 - __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH 투자증권
   - 일시: 08. 30(월) ~ 11. 26(금)
+- __[Naver Deview 2021](https://deview.kr/2021)__
+  - 분류: `컨퍼런스`, `온라인`
+  - 주최: 네이버
+  - 일시: 11. 24(수) ~ 11. 26(금)
+- __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 27(토) 10:00 ~ 17:00
+- __[GDG Busan Devfest 2021 중소IT 기업의 개발/조직문화 Level Up!](https://festa.io/events/75b909e5-801c-49be-a318-833ccef3a907)__
+  - 분류: `모임`
+  - 주최: GDG Busan
+  - 일시: 11. 27(토) 14:00 ~ 16:00
+- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
+  - 분류: `교육`
+  - 주최: 양재동코드랩
+  - 일시: 11. 28(일) 10:00 ~ 17:00
+- __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
+- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
+  - 분류: `웨비나`
+  - 주최: 마켓컬리
+  - 일시: 11. 30(화) 19:00 ~ 20:00
 
 <br />
 
@@ -360,6 +317,11 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
+  - 분류: `온라인`, `라이브`
+  - 주최: Apple
+  - 일시: 10. 25(월) ~ 12. 17(금)
+
 
 <br />
 
@@ -384,6 +346,10 @@
 | 디프만 | 디자이너와 프로그래머의 만남 | [depromeet.com](https://www.depromeet.com/) |
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임 | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
 | CEOS | 신촌 연합 IT 창업 동아리 | [공식 홈페이지](https://www.ceos.or.kr/) |
+| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
+| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
+| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
+
 
 <br />
 
@@ -449,10 +415,92 @@
 
 <br />
 <br />
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://landwhale2.github.io/"><img src="https://avatars3.githubusercontent.com/u/43875634?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HyeokJin Kim</b></sub></a><br /><a href="#infra-LandWhale2" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Tests">⚠️</a> <a href="https://github.com/brave-people/Dev-Event/commits?author=LandWhale2" title="Code">💻</a></td>
+    <td align="center"><a href="http://roeniss.tistory.com"><img src="https://avatars3.githubusercontent.com/u/26613280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roeniss Moon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=roeniss" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/GwonHeeJun"><img src="https://avatars3.githubusercontent.com/u/40719546?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GwonHeeJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GwonHeeJun" title="Code">💻</a></td>
+    <td align="center"><a href="https://imleaf.netlify.com"><img src="https://avatars2.githubusercontent.com/u/41174361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TaeGeon Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Im-Tae" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Handong-Promi"><img src="https://avatars1.githubusercontent.com/u/48215558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wonbin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Handong-Promi" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.notion.so/Resume-b529fe33c1404bdc9544cf5ea074b742"><img src="https://avatars3.githubusercontent.com/u/20942871?v=4?s=100" width="100px;" alt=""/><br /><sub><b>S. J. Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=occidere" title="Code">💻</a></td>
+    <td align="center"><a href="https://limm-jk.tistory.com/"><img src="https://avatars1.githubusercontent.com/u/57378834?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Limm-jk" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dnd.ac"><img src="https://avatars.githubusercontent.com/u/12554583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seong Gi Dong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sgd122" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.naver.com/zzang9ha"><img src="https://avatars.githubusercontent.com/u/50076031?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LeeJuHyun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JuHyun419" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zel0rd"><img src="https://avatars.githubusercontent.com/u/28799597?v=4?s=100" width="100px;" alt=""/><br /><sub><b>younggil</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zel0rd" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/haeseok/"><img src="https://avatars.githubusercontent.com/u/20268101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Haeseok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=haeseoklee" title="Code">💻</a></td>
+    <td align="center"><a href="http://instagram.com/choiysapple/"><img src="https://avatars.githubusercontent.com/u/43776784?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daegun Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ChoiysApple" title="Code">💻</a></td>
+    <td align="center"><a href="https://ehdwn1991.github.io/"><img src="https://avatars.githubusercontent.com/u/16898745?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Codex</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ehdwn1991" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@dps0340"><img src="https://avatars.githubusercontent.com/u/32592965?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jiho lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DPS0340" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MaetDol"><img src="https://avatars.githubusercontent.com/u/20384262?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MaetDol</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MaetDol" title="Code">💻</a></td>
+    <td align="center"><a href="https://butter-shower.tistory.com/"><img src="https://avatars.githubusercontent.com/u/32065860?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jiyeon Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jiyeoon" title="Code">💻</a></td>
+    <td align="center"><a href="https://blog.frec.kr"><img src="https://avatars.githubusercontent.com/u/10742964?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Myung-Hyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=freckie" title="Code">💻</a></td>
+    <td align="center"><a href="http://medium.com/@paikend"><img src="https://avatars.githubusercontent.com/u/26214518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gyeongjun Paik</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=paikend" title="Code">💻</a></td>
+    <td align="center"><a href="https://haranglog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/60910665?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=saseungmin" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mjh0528"><img src="https://avatars.githubusercontent.com/u/54383015?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mjh0528" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Winning-Bean"><img src="https://avatars.githubusercontent.com/u/53260922?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeungBeen Wee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Winning-Bean" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rlaekwjd324"><img src="https://avatars.githubusercontent.com/u/54465767?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rlaekwjd324</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rlaekwjd324" title="Code">💻</a></td>
+    <td align="center"><a href="https://snowapril.github.io"><img src="https://avatars.githubusercontent.com/u/24654975?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Snowapril</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Snowapril" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/GHooN99"><img src="https://avatars.githubusercontent.com/u/53388557?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KyungHoon Jung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=GHooN99" title="Code">💻</a></td>
+    <td align="center"><a href="http://ihp001.tistory.com"><img src="https://avatars.githubusercontent.com/u/47745785?v=4?s=100" width="100px;" alt=""/><br /><sub><b>INHYO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PARKINHYO" title="Code">💻</a></td>
+    <td align="center"><a href="https://sumini.dev"><img src="https://avatars.githubusercontent.com/u/48555121?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Choi Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=greatSumini" title="Code">💻</a></td>
+    <td align="center"><a href="https://url.kr/xwdbtv"><img src="https://avatars.githubusercontent.com/u/67373938?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimxwan0319</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimxwan0319" title="Code">💻</a></td>
+    <td align="center"><a href="https://velog.io/@leeseojune53"><img src="https://avatars.githubusercontent.com/u/61784568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Leeseojune</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=leeseojune53" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://seongsilyoo.medium.com"><img src="https://avatars.githubusercontent.com/u/19399338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsil Yoo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yooseongsil" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mushsong"><img src="https://avatars.githubusercontent.com/u/49205133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mushsong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mushsong" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/suheego"><img src="https://avatars.githubusercontent.com/u/70756464?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuHee Go</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suheego" title="Code">💻</a></td>
+    <td align="center"><a href="https://jhk0530.medium.com/"><img src="https://avatars.githubusercontent.com/u/6457691?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jinhwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jhk0530" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rockdam"><img src="https://avatars.githubusercontent.com/u/10398751?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rockdam</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=rockdam" title="Code">💻</a></td>
+    <td align="center"><a href="http://chop-sui.github.io"><img src="https://avatars.githubusercontent.com/u/55661741?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jeong Suh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chop-sui" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/shinplest"><img src="https://avatars.githubusercontent.com/u/24619485?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JAIHYOUNG SHIN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=shinplest" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/chengxxi"><img src="https://avatars.githubusercontent.com/u/71359467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seunghee Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chengxxi" title="Code">💻</a></td>
+    <td align="center"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
+
+<br />
+
+Special Thanks to
+- [@leedoopal](https://github.com/leedoopal) - Dev Event Web Client
+- [@Limm-jk](https://github.com/Limm-jk) - Dev Event Subscribe
+- [@jisungbin](https://github.com/jisungbin) - Dev Event Android
+
+
+<br />
+<br />
 <hr />
 <div align=center>
   <img src="https://github.com/brave-people/Dev-Event/blob/master/static/bottom.png?raw=true" width="80%">
   <hr />
     <h3> 용감한 친구들 with 남송리 삼번지 </h3>
   <hr />
+</div>
+
+<div align=right>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
