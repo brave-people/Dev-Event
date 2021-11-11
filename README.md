@@ -167,6 +167,7 @@
   - 분류: `세미나`, `유료`
   - 주최: OKKY
   - 접수: 11. 15(월) 17:00
+  - 일시: 11.16 (화) 20:00 ~22:00
 - __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
