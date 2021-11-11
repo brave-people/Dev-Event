@@ -114,23 +114,11 @@
 
 ## 21년 11월
 
-- __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
-  - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
-  - 주최: LINE
-  - 일시: 11. 10(수) ~ 11. 11(목)
-
-- __[HMG DEVELOPER CONFERENCE](https://hmgdevcon.com/main/)__
-  - 분류: `컨퍼런스`
-  - 주최: 현대자동차그룹
-  - 일시: 11. 10(수) ~ 11. 11(목)
-- __[PASCON 2021](https://www.dailysecu.com/form/register.html?form_id=1607476949)__
-  - 분류: `컨퍼런스`, `보안`
-  - 주최: PASCON
-  - 일시: 11. 11(목) 09:00 ~ 17:00
 - __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
   - 분류: `모각코`
   - 주최: GDG Campus Korea
   - 일시: 10. 30(토) ~ 11. 12(금)
+  
 - __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/ef29418a-d73c-4d83-88b0-e04f7fb24c93?page=1)__
   - 분류: `오픈소스`, `해커톤`
   - 주최: 과학기술정보통신부
@@ -199,6 +187,10 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성
   - 일시: 11. 17(수) ~ 11. 18(목)
+- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #3편](https://register.gotowebinar.com/#register/8709022014954669581)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 11. 18(목) 11:00 ~ 12:00
 - __[Gitlab Korea 밋업 - GitLab의 제품개발 프로세스](https://festa.io/events/1914)__
   - 분류: `웨비나`
   - 주최: GitLab Korea
@@ -242,7 +234,7 @@
 - __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존
-  - 일시: 11. 22(월) 13:00 ~ 17:00
+  - 일시: 11. 23(화) 13:00 ~ 17:00
 - __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
   - 분류: `컨퍼런스`
   - 주최: 삼성SDS
@@ -317,6 +309,10 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[카페24 개발자 세미나 - 이커머스 기능(앱) 개발 전략](https://festa.io/events/1947)__
+  - 분류: `웨비나`
+  - 주최: 카페24
+  - 일시: 12. 16(목) 14:00 ~ 15:30
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
