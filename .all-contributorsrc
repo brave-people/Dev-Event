@@ -303,6 +303,51 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "chop-sui",
+      "name": "Jeong Suh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55661741?v=4",
+      "profile": "http://chop-sui.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shinplest",
+      "name": "JAIHYOUNG SHIN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24619485?v=4",
+      "profile": "https://github.com/shinplest",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zettalyst",
+      "name": "Zetta (hogyun.yu)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71296846?v=4",
+      "profile": "https://github.com/zettalyst",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chengxxi",
+      "name": "Seunghee Han",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71359467?v=4",
+      "profile": "https://github.com/chengxxi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ohsuz",
+      "name": "Suzie Oh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59340911?v=4",
+      "profile": "http://ohsuz.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
