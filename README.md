@@ -114,23 +114,11 @@
 
 ## 21년 11월
 
-- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
-  - 분류: `모각코`
-  - 주최: GDG Campus Korea
-  - 일시: 10. 30(토) ~ 11. 12(금)
-  
-- __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/ef29418a-d73c-4d83-88b0-e04f7fb24c93?page=1)__
-  - 분류: `오픈소스`, `해커톤`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 05(금) ~ 11. 12(금)
-- __[넉넉위크 - 개발자 커리어](https://mewing-almandine-c08.notion.site/a431630ae2044e5f975dfb9de2c75fd6)__
-  - 분류: `커리어`
-  - 주최: 청년다방
-  - 일시: 11. 11(목) 19:00 ~ 20:00
 - __[따릉이 대여량 예측 경진대회](https://dacon.io/competitions/official/235837/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 11. 01(월) ~ 11. 12(금)
+
 - __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -155,6 +143,10 @@
   - 분류: `세미나`, `유료`
   - 주최: OKKY
   - 접수: 11. 15(월) 17:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](hthttps://www.meetup.com/ko-KR/awskrug/events/282011998/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG 구로디지털
+  - 접수: 11. 16(화) 20:00 ~ 22:00
 - __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
