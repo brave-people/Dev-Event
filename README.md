@@ -114,36 +114,12 @@
 
 ## 21년 11월
 
-- __[따릉이 대여량 예측 경진대회](https://dacon.io/competitions/official/235837/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 11. 01(월) ~ 11. 12(금)
-
-- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 13(토) 10:00 ~ 17:00
-- __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
-  - 분류: `커리어`, `해커톤`
-  - 주최: wanted
-  - 일시: 10. 12(화) ~ 11. 14(일)
-- __[DND 언택트 해커톤](https://docs.google.com/forms/d/e/1FAIpQLScTJ-UWmhQ8KueJPnHNgKmC-p3CgPDnxuWd80cyOkdGziXjXA/viewform?usp=send_form)__
-  - 분류: `해커톤`
-  - 주최: DND
-  - 일시: 10. 12(화) ~ 11. 14(일)
-- __[우형개발자와 함께하는 스터디](https://puffy-stick-fa1.notion.site/208963155657489996b0721dcb3c6dfa)__
-  - 분류: `스터디`
-  - 주최: 우아한형제들
-  - 모집: 11. 01(월) ~ 11. 14(일)
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (2주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 14(일) 10:00 ~ 17:00
 - __[깃허브 저자 네라쿠배 개발자의 커리어 이야기](https://okky.kr/article/1092082)__
   - 분류: `세미나`, `유료`
   - 주최: OKKY
   - 접수: 11. 15(월) 17:00
-- __[AWSKRUG 구로디지털 #gudi 소모임](hthttps://www.meetup.com/ko-KR/awskrug/events/282011998/)__
+
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/282011998/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG 구로디지털
   - 접수: 11. 16(화) 20:00 ~ 22:00
@@ -247,6 +223,10 @@
   - 분류: `유료`, `웨비나`
   - 주최: 디프만
   - 일시: 11. 25(목) 20:00 ~ 22:00
+- __[2021 공유저작물 및 오픈소스 SW컨퍼런스](https://gongucon.cafe24.com/2021/)__
+  - 분류: `유료`, `웨비나`
+  - 주최: 문화체육관광부
+  - 일시: 11. 25(목) 13:00 ~ 18:00
 - __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
   - 분류: `온라인`, `커리어`
   - 주최: 마이크로소프트
@@ -297,6 +277,14 @@
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
   - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[병변 검출 AI 경진대회](https://adai2021.com/)__
+  - 분류: `챌린지`, `AI`
+  - 주최: 국토교통부
+  - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
+  - 분류: `웨비나`, `MSA`
+  - 주최: LG CNS
+  - 일시: 12. 08(수) 14:00 ~ 15:20
 - __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
