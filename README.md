@@ -114,23 +114,11 @@
 
 ## 21년 11월
 
-- __[깃허브 저자 네라쿠배 개발자의 커리어 이야기](https://okky.kr/article/1092082)__
-  - 분류: `세미나`, `유료`
-  - 주최: OKKY
-  - 접수: 11. 15(월) 17:00
-
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/282011998/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG 구로디지털
-  - 접수: 11. 16(화) 20:00 ~ 22:00
-- __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 22(금) ~ 11. 16(화)
 - __[OWASP Seoul Conference 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
   - 분류: `모임`, `보안`
   - 주최: OWASP Seoul Chapter
   - 일시: 11. 17(수) 19:00 ~ 21:00
+
 - __[별종 개발자들의 성장 이야기 ](https://www.wanted.co.kr/events/livetalk55)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
@@ -183,6 +171,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 20(토) 10:00 ~ 17:00
+- __[Devfest 대전 2021](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-daejeon-2021/)__
+  - 분류: `웨비나`, `모각코`
+  - 주최: GDG 대전
+  - 일시: 11. 20(토) 14:00 ~ 21:00
 - __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
   - 분류: `교육`, `무료`, `오픈소스`
   - 주최: Open UP
@@ -273,6 +265,10 @@
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 11. 29(월) ~ 12. 03(금)
+- __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
+  - 분류: `컨퍼런스`
+  - 주최: EO
+  - 일시: 12. 04(토) ~ 12. 05(일)
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
@@ -289,6 +285,10 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 15(수) ~ 12. 16(목) 14:00 ~ 17:00
 - __[카페24 개발자 세미나 - 이커머스 기능(앱) 개발 전략](https://festa.io/events/1947)__
   - 분류: `웨비나`
   - 주최: 카페24
