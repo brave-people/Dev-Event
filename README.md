@@ -113,28 +113,11 @@
 <br />
 
 ## 21년 11월
-
-- __[OWASP Seoul Conference 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
-  - 분류: `모임`, `보안`
-  - 주최: OWASP Seoul Chapter
-  - 일시: 11. 17(수) 19:00 ~ 21:00
-
-- __[별종 개발자들의 성장 이야기 ](https://www.wanted.co.kr/events/livetalk55)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 11. 17(수) 19:00 ~ 21:00
-- __[야놀자 · 야놀자 클라우드 | LIVE 채용 설명회](https://www.wanted.co.kr/events/yanolja_recruit)__
-  - 분류: `채용`
-  - 주최: 야놀자
-  - 일시: 11. 16(화) ~ 11. 17(수) 19:30 ~ 20:40
-- __[당근 SRE 밋업 2회](https://festa.io/events/1912)__
-  - 분류: `웨비나`, `SRE`
-  - 주최: 당근마켓
-  - 일시: 11. 17(수) 19:00 ~ 22:00
 - __[if kakao](https://if.kakao.com/)__
   - 분류: `컨퍼런스`
   - 주최: 카카오
   - 일시: 11. 16(화) ~ 11. 18(목)
+  
 - __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
   - 분류: `대회`, `빅데이터`
   - 주최: 국립생태원
@@ -183,6 +166,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[2021 콜로키움 행사 온라인](https://www.ict-colloquium.kr/)__
+  - 분류: `웨비나`, `ICT`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 15(월) ~ 11. 16(화)
 - __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
   - 분류: `커리어`, `프론트엔드`
   - 주최: 라인
@@ -251,6 +238,10 @@
   - 분류: `웨비나`
   - 주최: 마켓컬리
   - 일시: 11. 30(화) 19:00 ~ 20:00
+- __[2021년 Softeer 모의 알고리즘 코딩 대회](https://softeer.ai/certification/detail.do?idx=1327)__
+  - 분류: `대회`, `알고리즘`
+  - 주최: 현대지엔비
+  - 접수: 11. 17(수) ~ 11. 30(화)
 
 <br />
 
@@ -261,6 +252,10 @@
   - 주최: 과학기술정보통신부
   - 일시: 11. 08(월) ~ 12. 03(금)
 
+- __[2021 드림플러스 블록체인 해커톤](httpshttps://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
+  - 분류: `해커톤`, `블록체인`
+  - 주최: 드림플러스
+  - 일시: 12. 17(금) ~ 12. 19(일) 14:00
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `클라우드`
   - 주최: AWS
@@ -297,6 +292,10 @@
   - 분류: `온라인`, `라이브`
   - 주최: Apple
   - 일시: 10. 25(월) ~ 12. 17(금)
+- __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
+  - 분류: `온라인`, `부트캠프`
+  - 주최: NVDIA
+  - 일시: 12. 20(월) ~ 12. 21(화)
 
 
 <br />
