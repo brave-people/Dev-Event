@@ -113,31 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[if kakao](https://if.kakao.com/)__
-  - 분류: `컨퍼런스`
-  - 주최: 카카오
-  - 일시: 11. 16(화) ~ 11. 18(목)
-  
-- __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
-  - 분류: `대회`, `빅데이터`
-  - 주최: 국립생태원
-  - 일시: 11. 04(목) ~ 11. 18(목)
-- __[삼성 소프트웨어 개발자 컨퍼런스 2021](https://www.soscon.net/ssdc2021)__
-  - 분류: `컨퍼런스`
-  - 주최: 삼성
-  - 일시: 11. 17(수) ~ 11. 18(목)
-- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #3편](https://register.gotowebinar.com/#register/8709022014954669581)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 11. 18(목) 11:00 ~ 12:00
-- __[Gitlab Korea 밋업 - GitLab의 제품개발 프로세스](https://festa.io/events/1914)__
-  - 분류: `웨비나`
-  - 주최: GitLab Korea
-  - 일시: 11. 18(목) 19:00 ~ 21:00
 - __[라이징 캠프 3기](https://risingcamp.com)__
   - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
   - 모집: 09. 03(금) ~ 11. 19(금)
+
 - __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
@@ -158,6 +138,10 @@
   - 분류: `웨비나`, `모각코`
   - 주최: GDG 대전
   - 일시: 11. 20(토) 14:00 ~ 21:00
+- __[2021년 연말 모각코 - 아듀 2021년](https://www.meetup.com/ko-KR/GDG-Incheon/events/282121394/)__
+  - 분류: `웨비나`, `모각코`
+  - 주최: GDG 인천
+  - 일시: 11. 20(토) 14:00 ~ 17:00
 - __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
   - 분류: `교육`, `무료`, `오픈소스`
   - 주최: Open UP
@@ -246,12 +230,15 @@
 <br />
 
 ## 21년 12월
+- __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 12. 01(수) 13:00 ~ 15:00
 
 - __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 11. 08(월) ~ 12. 03(금)
-
 - __[2021 드림플러스 블록체인 해커톤](httpshttps://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 드림플러스
