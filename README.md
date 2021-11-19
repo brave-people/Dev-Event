@@ -113,101 +113,11 @@
 <br />
 
 ## 21년 11월
-
-- __[LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021/ko/)__
-  - 분류: `컨퍼런스`, `AI`, `Blockchain`, `Frontend`, `Infrastructure`, `iOS/Android`, `Machine Learning`, `온라인`
-  - 주최: LINE
-  - 일시: 11. 10(수) ~ 11. 11(목)
-
-- __[HMG DEVELOPER CONFERENCE](https://hmgdevcon.com/main/)__
-  - 분류: `컨퍼런스`
-  - 주최: 현대자동차그룹
-  - 일시: 11. 10(수) ~ 11. 11(목)
-- __[PASCON 2021](https://www.dailysecu.com/form/register.html?form_id=1607476949)__
-  - 분류: `컨퍼런스`, `보안`
-  - 주최: PASCON
-  - 일시: 11. 11(목) 09:00 ~ 17:00
-- __[Devfest GDG Campus 2021](https://festa.io/events/1862)__
-  - 분류: `모각코`
-  - 주최: GDG Campus Korea
-  - 일시: 10. 30(토) ~ 11. 12(금)
-- __[2021 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/ef29418a-d73c-4d83-88b0-e04f7fb24c93?page=1)__
-  - 분류: `오픈소스`, `해커톤`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 05(금) ~ 11. 12(금)
-- __[넉넉위크 - 개발자 커리어](https://mewing-almandine-c08.notion.site/a431630ae2044e5f975dfb9de2c75fd6)__
-  - 분류: `커리어`
-  - 주최: 청년다방
-  - 일시: 11. 11(목) 19:00 ~ 20:00
-- __[따릉이 대여량 예측 경진대회](https://dacon.io/competitions/official/235837/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 11. 01(월) ~ 11. 12(금)
-- __[Svelte 기초 및 실습 (2주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 13(토) 10:00 ~ 17:00
-- __[[해, 커리어] 채용 연계형 해커톤](https://www.wanted.co.kr/events/audition2021_register?referer_id=2)__
-  - 분류: `커리어`, `해커톤`
-  - 주최: wanted
-  - 일시: 10. 12(화) ~ 11. 14(일)
-- __[DND 언택트 해커톤](https://docs.google.com/forms/d/e/1FAIpQLScTJ-UWmhQ8KueJPnHNgKmC-p3CgPDnxuWd80cyOkdGziXjXA/viewform?usp=send_form)__
-  - 분류: `해커톤`
-  - 주최: DND
-  - 일시: 10. 12(화) ~ 11. 14(일)
-- __[우형개발자와 함께하는 스터디](https://puffy-stick-fa1.notion.site/208963155657489996b0721dcb3c6dfa)__
-  - 분류: `스터디`
-  - 주최: 우아한형제들
-  - 모집: 11. 01(월) ~ 11. 14(일)
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (2주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 14(일) 10:00 ~ 17:00
-- __[깃허브 저자 네라쿠배 개발자의 커리어 이야기](https://okky.kr/article/1092082)__
-  - 분류: `세미나`, `유료`
-  - 주최: OKKY
-  - 접수: 11. 15(월) 17:00
-  - 일시: 11.16 (화) 20:00 ~22:00
-- __[Artificial Intelligence Diabetes Datathon 2021](https://aiddatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 22(금) ~ 11. 16(화)
-- __[OWASP Seoul Conference 2021](https://www.meetup.com/ko-KR/OWASP-Seoul/events/280484529)__
-  - 분류: `모임`, `보안`
-  - 주최: OWASP Seoul Chapter
-  - 일시: 11. 17(수) 19:00 ~ 21:00
-- __[별종 개발자들의 성장 이야기 ](https://www.wanted.co.kr/events/livetalk55)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 11. 17(수) 19:00 ~ 21:00
-- __[야놀자 · 야놀자 클라우드 | LIVE 채용 설명회](https://www.wanted.co.kr/events/yanolja_recruit)__
-  - 분류: `채용`
-  - 주최: 야놀자
-  - 일시: 11. 16(화) ~ 11. 17(수) 19:30 ~ 20:40
-- __[당근 SRE 밋업 2회](https://festa.io/events/1912)__
-  - 분류: `웨비나`, `SRE`
-  - 주최: 당근마켓
-  - 일시: 11. 17(수) 19:00 ~ 22:00
-- __[if kakao](https://if.kakao.com/)__
-  - 분류: `컨퍼런스`
-  - 주최: 카카오
-  - 일시: 11. 16(화) ~ 11. 18(목)
-- __[제2회 에코뱅크 기능 및 생물·생태 빅데이터 활용 경진대회](https://onoffmix.com/event/244540)__
-  - 분류: `대회`, `빅데이터`
-  - 주최: 국립생태원
-  - 일시: 11. 04(목) ~ 11. 18(목)
-- __[삼성 소프트웨어 개발자 컨퍼런스 2021](https://www.soscon.net/ssdc2021)__
-  - 분류: `컨퍼런스`
-  - 주최: 삼성
-  - 일시: 11. 17(수) ~ 11. 18(목)
-- __[Gitlab Korea 밋업 - GitLab의 제품개발 프로세스](https://festa.io/events/1914)__
-  - 분류: `웨비나`
-  - 주최: GitLab Korea
-  - 일시: 11. 18(목) 19:00 ~ 21:00
 - __[라이징 캠프 3기](https://risingcamp.com)__
   - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
   - 모집: 09. 03(금) ~ 11. 19(금)
+
 - __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
   - 분류: `컨퍼런스`, `데이터`, `온라인`
   - 주최: Seoul R User Group & Tidyverse Korea
@@ -224,6 +134,14 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 20(토) 10:00 ~ 17:00
+- __[Devfest 대전 2021](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-daejeon-2021/)__
+  - 분류: `웨비나`, `모각코`
+  - 주최: GDG 대전
+  - 일시: 11. 20(토) 14:00 ~ 21:00
+- __[2021년 연말 모각코 - 아듀 2021년](https://www.meetup.com/ko-KR/GDG-Incheon/events/282121394/)__
+  - 분류: `웨비나`, `모각코`
+  - 주최: GDG 인천
+  - 일시: 11. 20(토) 14:00 ~ 17:00
 - __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
   - 분류: `교육`, `무료`, `오픈소스`
   - 주최: Open UP
@@ -232,6 +150,10 @@
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 21(일) 10:00 ~ 17:00
+- __[2021 콜로키움 행사 온라인](https://www.ict-colloquium.kr/)__
+  - 분류: `웨비나`, `ICT`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 15(월) ~ 11. 16(화)
 - __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
   - 분류: `커리어`, `프론트엔드`
   - 주최: 라인
@@ -243,7 +165,7 @@
 - __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존
-  - 일시: 11. 22(월) 13:00 ~ 17:00
+  - 일시: 11. 23(화) 13:00 ~ 17:00
 - __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
   - 분류: `컨퍼런스`
   - 주최: 삼성SDS
@@ -264,6 +186,10 @@
   - 분류: `유료`, `웨비나`
   - 주최: 디프만
   - 일시: 11. 25(목) 20:00 ~ 22:00
+- __[2021 공유저작물 및 오픈소스 SW컨퍼런스](https://gongucon.cafe24.com/2021/)__
+  - 분류: `유료`, `웨비나`
+  - 주최: 문화체육관광부
+  - 일시: 11. 25(목) 13:00 ~ 18:00
 - __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
   - 분류: `온라인`, `커리어`
   - 주최: 마이크로소프트
@@ -296,32 +222,67 @@
   - 분류: `웨비나`
   - 주최: 마켓컬리
   - 일시: 11. 30(화) 19:00 ~ 20:00
+- __[2021년 Softeer 모의 알고리즘 코딩 대회](https://softeer.ai/certification/detail.do?idx=1327)__
+  - 분류: `대회`, `알고리즘`
+  - 주최: 현대지엔비
+  - 접수: 11. 17(수) ~ 11. 30(화)
 
 <br />
 
 ## 21년 12월
+- __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 12. 01(수) 13:00 ~ 15:00
 
 - __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 11. 08(월) ~ 12. 03(금)
-
+- __[2021 드림플러스 블록체인 해커톤](httpshttps://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
+  - 분류: `해커톤`, `블록체인`
+  - 주최: 드림플러스
+  - 일시: 12. 17(금) ~ 12. 19(일) 14:00
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 11. 29(월) ~ 12. 03(금)
+- __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
+  - 분류: `컨퍼런스`
+  - 주최: EO
+  - 일시: 12. 04(토) ~ 12. 05(일)
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
   - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[병변 검출 AI 경진대회](https://adai2021.com/)__
+  - 분류: `챌린지`, `AI`
+  - 주최: 국토교통부
+  - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
+  - 분류: `웨비나`, `MSA`
+  - 주최: LG CNS
+  - 일시: 12. 08(수) 14:00 ~ 15:20
 - __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 15(수) ~ 12. 16(목) 14:00 ~ 17:00
+- __[카페24 개발자 세미나 - 이커머스 기능(앱) 개발 전략](https://festa.io/events/1947)__
+  - 분류: `웨비나`
+  - 주최: 카페24
+  - 일시: 12. 16(목) 14:00 ~ 15:30
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
   - 일시: 10. 25(월) ~ 12. 17(금)
+- __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
+  - 분류: `온라인`, `부트캠프`
+  - 주최: NVDIA
+  - 일시: 12. 20(월) ~ 12. 21(화)
 
 
 <br />
