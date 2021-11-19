@@ -113,27 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[라이징 캠프 3기](https://risingcamp.com)__
-  - 분류: `교육`, `iOS`, `Android`, `Server`, `Web`
-  - 주최: 컴공선배
-  - 모집: 09. 03(금) ~ 11. 19(금)
-
-- __[한국 R 컨퍼런스 2021](https://use-r.kr/)__
-  - 분류: `컨퍼런스`, `데이터`, `온라인`
-  - 주최: Seoul R User Group & Tidyverse Korea
-  - 일시: 11. 19(금) 10:00 ~ 17:00
-- __[월간 코드리뷰 ver_0.2 : 개발자의 소통코드 웨비나](https://taling.me/Event/monthly-codereview/ver_02)__
-  - 분류: `웨비나`
-  - 주최: 탈잉
-  - 일시: 11. 19(금) 19:00 ~ 23:00
-- __[WOOWACON(우아콘) 2021](https://woowacon.com/)__
-  - 분류: `컨퍼런스`, `온라인`, `토크콘서트`
-  - 주최: 우아한 형제들
-  - 일시: 11.17(수) ~ 11. 19(금)
 - __[Svelte 기초 및 실습 (3주차)](https://www.codelabs.kr/codelabs/148)__
   - 분류: `교육`
   - 주최: 양재동코드랩
   - 일시: 11. 20(토) 10:00 ~ 17:00
+
 - __[Devfest 대전 2021](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-daejeon-2021/)__
   - 분류: `웨비나`, `모각코`
   - 주최: GDG 대전
@@ -170,6 +154,10 @@
   - 분류: `컨퍼런스`
   - 주최: 삼성SDS
   - 일시: 11. 23(화) ~ 11. 24(수)
+- __[카카오브레인 - Unthinkable Question](https://www.mm.xyz/event/e64c1ec0-75ad-4d07-847e-7fe90b38827c)__
+  - 분류: `웨비나`
+  - 주최: 카카오브레인
+  - 일시: 11. 24(수) 21:30
 - __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
   - 분류: `마이데이터`
   - 주최: 4차산업혁명위원회
@@ -227,7 +215,7 @@
   - 주최: 현대지엔비
   - 접수: 11. 17(수) ~ 11. 30(화)
 - __[2021 공개 SW 페스티벌](https://festival.oss.kr/information.php)__
-  - 분류: `오픈소스`, `온라인`, ``
+  - 분류: `오픈소스`, `온라인`
   - 주최: 과학기술정보통신부
   - 일시: 11. 30(화) 14:00 ~ 17:30
 
@@ -271,6 +259,10 @@
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[기술 개발 리더에게 커리어의 길을 묻다](https://class101.net/101path-tech)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 클래스101
+  - 일시: 12. 11(토) 17:00 ~ 21:00
 - __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -279,6 +271,10 @@
   - 분류: `웨비나`
   - 주최: 카페24
   - 일시: 12. 16(목) 14:00 ~ 15:30
+- __[2021 adiOS December](https://festa.io/events/1962)__
+  - 분류: `온라인`, `유료`, `iOS`
+  - 주최: adiOS
+  - 일시: 12. 18(토) 15:00 ~ 17:30
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
