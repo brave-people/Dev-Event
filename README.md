@@ -113,23 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[Svelte 기초 및 실습 (3주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 20(토) 10:00 ~ 17:00
-
-- __[Devfest 대전 2021](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-daejeon-2021/)__
-  - 분류: `웨비나`, `모각코`
-  - 주최: GDG 대전
-  - 일시: 11. 20(토) 14:00 ~ 21:00
-- __[2021년 연말 모각코 - 아듀 2021년](https://www.meetup.com/ko-KR/GDG-Incheon/events/282121394/)__
-  - 분류: `웨비나`, `모각코`
-  - 주최: GDG 인천
-  - 일시: 11. 20(토) 14:00 ~ 17:00
 - __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
   - 분류: `교육`, `무료`, `오픈소스`
   - 주최: Open UP
   - 일시: 11. 20(토) ~ 11. 21(일)
+  
 - __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -231,7 +219,7 @@
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 11. 08(월) ~ 12. 03(금)
-- __[2021 드림플러스 블록체인 해커톤](httpshttps://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
+- __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 드림플러스
   - 일시: 12. 17(금) ~ 12. 19(일) 14:00
