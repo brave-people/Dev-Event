@@ -113,31 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[Open UP_AI오픈소스 실전 아카데미 - 4차](https://shocking-carp-8d9.notion.site/Open-UP_AI-aea2e1ca35ac4b48b6ea0ca12247802a)__
-  - 분류: `교육`, `무료`, `오픈소스`
-  - 주최: Open UP
-  - 일시: 11. 20(토) ~ 11. 21(일)
-  
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (3주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 21(일) 10:00 ~ 17:00
-- __[2021 콜로키움 행사 온라인](https://www.ict-colloquium.kr/)__
-  - 분류: `웨비나`, `ICT`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 15(월) ~ 11. 16(화)
-- __[LINE 프론트엔드 개발자와 함께하는 온라인 커리어 멘토링](https://feedback.line.me/enquete/public/14159-1HohnOFz)__
-  - 분류: `커리어`, `프론트엔드`
-  - 주최: 라인
-  - 일시: 11. 09(화) ~ 11. 21(일)
-- __[래블업 AI Conference lab | up > /conf](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 래블업
-  - 일시: 11. 22(월) 14:00 ~ 17:30
 - __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: 메가존
   - 일시: 11. 23(화) 13:00 ~ 17:00
+  
 - __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
   - 분류: `컨퍼런스`
   - 주최: 삼성SDS
@@ -219,6 +199,10 @@
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 11. 08(월) ~ 12. 03(금)
+- __[제4회 IT 인프라 유저그룹 밋업 by 주니어들](https://festa.io/events/1957)__
+  - 분류: `모임`, `인프라`
+  - 주최: IT 인프라 엔지니어 그룹
+  - 일시: 12. 04(토) 19:00 ~ 21:00
 - __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 드림플러스
