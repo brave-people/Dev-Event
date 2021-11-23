@@ -113,19 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[GCP 입문을 위한 실무 중심 hands-on Labs day 웨비나](https://gc.hosting.kr/gcp_labsday_november-2021/)__
-  - 분류: `컨퍼런스`, `클라우드`
-  - 주최: 메가존
-  - 일시: 11. 23(화) 13:00 ~ 17:00
-  
-- __[삼성SDS 컨퍼런스 Techtonic 2021](https://techtonic.samsungsds.com/techtonic)__
-  - 분류: `컨퍼런스`
-  - 주최: 삼성SDS
-  - 일시: 11. 23(화) ~ 11. 24(수)
 - __[카카오브레인 - Unthinkable Question](https://www.mm.xyz/event/e64c1ec0-75ad-4d07-847e-7fe90b38827c)__
   - 분류: `웨비나`
   - 주최: 카카오브레인
   - 일시: 11. 24(수) 21:30
+
 - __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
   - 분류: `마이데이터`
   - 주최: 4차산업혁명위원회
@@ -251,11 +243,18 @@
   - 분류: `온라인`, `라이브`
   - 주최: Apple
   - 일시: 10. 25(월) ~ 12. 17(금)
+- __[Central MakeUs Challenge Demo Day](https://festa.io/events/1972)__
+  - 분류: `온라인`, `동아리`
+  - 주최: MakeUs Challenge
+  - 일시: 12. 18(토)
 - __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
   - 분류: `온라인`, `부트캠프`
   - 주최: NVDIA
   - 일시: 12. 20(월) ~ 12. 21(화)
-
+- __[2021 위믹스 해커톤](https://event.wemixnetwork.com/2021hackathon)__
+  - 분류: `해커톤`, `블록체인`
+  - 주최: 위믹스
+  - 신청: 11. 17(수) ~ 12. 31(화)
 
 <br />
 
@@ -283,7 +282,7 @@
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
-
+| Central MakeUs Challenge | [공식 홈페이지](https://makeus.in/) |
 
 <br />
 
