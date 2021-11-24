@@ -113,15 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[카카오브레인 - Unthinkable Question](https://www.mm.xyz/event/e64c1ec0-75ad-4d07-847e-7fe90b38827c)__
-  - 분류: `웨비나`
-  - 주최: 카카오브레인
-  - 일시: 11. 24(수) 21:30
-
 - __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
   - 분류: `마이데이터`
   - 주최: 4차산업혁명위원회
   - 일시: 11. 25(목) 14:00 ~ 17:00
+  
 - __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
   - 분류: `해커톤`
   - 주최: 과학기술정보통신부
@@ -219,6 +215,10 @@
   - 분류: `웨비나`, `MSA`
   - 주최: LG CNS
   - 일시: 12. 08(수) 14:00 ~ 15:20
+- __[웹사이트 개발/운영을 위한 엔진엑스(NGINX) 설치와 환경설정](http://www.digitaltoday.co.kr/bbs/view.html?idxno=78&sc_category=)__
+  - 분류: `웨비나`, `nginx`
+  - 주최: 디지털투데이
+  - 일시: 12. 09(목) 14:00 ~ 15:00
 - __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
