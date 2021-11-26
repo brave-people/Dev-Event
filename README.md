@@ -113,39 +113,6 @@
 <br />
 
 ## 21년 11월
-- __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
-  - 분류: `마이데이터`
-  - 주최: 4차산업혁명위원회
-  - 일시: 11. 25(목) 14:00 ~ 17:00
-  
-- __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[IT-CON with 디프만](https://festa.io/events/1929)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 디프만
-  - 일시: 11. 25(목) 20:00 ~ 22:00
-- __[2021 공유저작물 및 오픈소스 SW컨퍼런스](https://gongucon.cafe24.com/2021/)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 문화체육관광부
-  - 일시: 11. 25(목) 13:00 ~ 18:00
-- __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 마이크로소프트
-  - 일시: 11. 26(금) 14:00 ~ 17:20
-- __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: NH 투자증권
-  - 일시: 08. 30(월) ~ 11. 26(금)
-- __[Naver Deview 2021](https://deview.kr/2021)__
-  - 분류: `컨퍼런스`, `온라인`
-  - 주최: 네이버
-  - 일시: 11. 24(수) ~ 11. 26(금)
 - __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
   - 분류: `교육`
   - 주최: 양재동코드랩
@@ -183,6 +150,10 @@
   - 주최: AWS
   - 일시: 12. 01(수) 13:00 ~ 15:00
 
+- __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/register/1191569756944565515)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 02(목) 11:00 ~ 12:00
 - __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
@@ -198,11 +169,15 @@
 - __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 드림플러스
-  - 일시: 12. 17(금) ~ 12. 19(일) 14:00
+  - 일시: 11. 17(수) ~ 12. 03(금) 23:00
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `클라우드`
   - 주최: AWS
   - 일시: 11. 29(월) ~ 12. 03(금)
+- __[취준생을 위한 현직자의 IT 직무특강](https://academy.elice.io/courses/17194/info)__
+  - 분류: `교육`, `멘토링`
+  - 주최: 엘리스
+  - 일시: 12. 04(토) 13:00 ~ 16:00
 - __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
   - 분류: `컨퍼런스`
   - 주최: EO
