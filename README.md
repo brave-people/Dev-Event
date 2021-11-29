@@ -113,22 +113,11 @@
 <br />
 
 ## 21년 11월
-- __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 27(토) 10:00 ~ 17:00
-- __[GDG Busan Devfest 2021 중소IT 기업의 개발/조직문화 Level Up!](https://festa.io/events/75b909e5-801c-49be-a318-833ccef3a907)__
-  - 분류: `모임`
-  - 주최: GDG Busan
-  - 일시: 11. 27(토) 14:00 ~ 16:00
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 28(일) 10:00 ~ 17:00
 - __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
+
 - __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
   - 분류: `웨비나`
   - 주최: 마켓컬리
@@ -162,6 +151,10 @@
   - 분류: `모임`, `인프라`
   - 주최: IT 인프라 엔지니어 그룹
   - 일시: 12. 04(토) 19:00 ~ 21:00
+- __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 메타빌드
+  - 접수: 11. 25(목) ~ 12. 08(수)
 - __[Agile Korea Conference 2021](https://festa.io/events/1950)__
   - 분류: `컨퍼런스`, `애자일`
   - 주최: 애자일 코리아 컨퍼런스
@@ -218,6 +211,14 @@
   - 분류: `웨비나`
   - 주최: 카페24
   - 일시: 12. 16(목) 14:00 ~ 15:30
+- __[미지 데이터셋을 활용한 서비스 아이디어 해커톤](http://www.k-kinship.com/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 29(월) ~ 12. 17(금)
+- __[스타트업을 위한 클라우드 101](https://www.megazone.com/application_form_startup_webinar-apply-211217/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 12. 17(금) 14:00 ~ 16:00
 - __[2021 adiOS December](https://festa.io/events/1962)__
   - 분류: `온라인`, `유료`, `iOS`
   - 주최: adiOS
@@ -257,7 +258,7 @@
 | 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
 | YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
-| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://mash-up.it/), [facebook](https://www.facebook.com/mashupgroup/) |
+| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹 | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
 | D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체 | [dnd.ac](https://dnd.ac/) |
 | SOPT | 대학생 연합 IT벤처 창업 동아리 | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
