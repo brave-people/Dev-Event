@@ -112,33 +112,16 @@
 
 <br />
 
-## 21년 11월
-- __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
-
-- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
-  - 분류: `웨비나`
-  - 주최: 마켓컬리
-  - 일시: 11. 30(화) 19:00 ~ 20:00
-- __[2021년 Softeer 모의 알고리즘 코딩 대회](https://softeer.ai/certification/detail.do?idx=1327)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 현대지엔비
-  - 접수: 11. 17(수) ~ 11. 30(화)
-- __[2021 공개 SW 페스티벌](https://festival.oss.kr/information.php)__
-  - 분류: `오픈소스`, `온라인`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 30(화) 14:00 ~ 17:30
-
-<br />
-
 ## 21년 12월
 - __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
   - 일시: 12. 01(수) 13:00 ~ 15:00
 
+- __[(1차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 엘리스
+  - 일시: 12. 01(수) 19:00 ~ 20:30
 - __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/register/1191569756944565515)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -151,14 +134,6 @@
   - 분류: `모임`, `인프라`
   - 주최: IT 인프라 엔지니어 그룹
   - 일시: 12. 04(토) 19:00 ~ 21:00
-- __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 메타빌드
-  - 접수: 11. 25(목) ~ 12. 08(수)
-- __[Agile Korea Conference 2021](https://festa.io/events/1950)__
-  - 분류: `컨퍼런스`, `애자일`
-  - 주최: 애자일 코리아 컨퍼런스
-  - 일시: 12. 09(목) 10:00 ~ 18:00
 - __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 드림플러스
@@ -183,6 +158,18 @@
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
   - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[2021 AI 데이터 해커톤 대회](https://okky.kr/article/1110458)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 29(월) ~ 12. 07(화)
+- __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 메타빌드
+  - 접수: 11. 25(목) ~ 12. 08(수)
+- __[AI/ML 기반 데이터 사이언스 정복하기](https://go.oracle.com/LP=119365?elqCampaignId=326403)__
+  - 분류: `웨비나`, `데이터사이언스`
+  - 주최: 오라클
+  - 일시: 12. 08(수) 17:00
 - __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
   - 분류: `웨비나`, `MSA`
   - 주최: LG CNS
@@ -191,6 +178,14 @@
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
   - 일시: 12. 09(목) 14:00 ~ 15:00
+- __[Agile Korea Conference 2021](https://festa.io/events/1950)__
+  - 분류: `컨퍼런스`, `애자일`
+  - 주최: 애자일 코리아 컨퍼런스
+  - 일시: 12. 09(목) 10:00 ~ 18:00
+- __[(2차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 엘리스
+  - 일시: 12. 09(수) 19:00 ~ 20:30
 - __[Reveal 2021](https://event.coupangcorp.com/)__
   - 분류: `컨퍼런스`, `온라인`
   - 주최: 쿠팡
@@ -235,6 +230,10 @@
   - 분류: `온라인`, `부트캠프`
   - 주최: NVDIA
   - 일시: 12. 20(월) ~ 12. 21(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/282395657/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 12. 21(화)
 - __[영우클라우드와 함께하는 동양미래대학교 AWS DeepRacer League](https://festa.io/events/1974)__
   - 분류: `대회`, `클라우드`
   - 주최: 영우클라우드
