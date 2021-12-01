@@ -113,10 +113,10 @@
 <br />
 
 ## 21년 12월
-- __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 12. 01(수) 13:00 ~ 15:00
+- __[소프트웨어가 미래다](http://www.k-softwave.com/main.asp)__
+  - 분류: `웨비나`, `소프트웨어`
+  - 주최: 과학기술정보통신부
+  - 일시: 12. 02(목) 10:00 ~ 16:30
 
 - __[(1차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
   - 분류: `웨비나`, `AI`
@@ -174,6 +174,18 @@
   - 분류: `웨비나`, `MSA`
   - 주최: LG CNS
   - 일시: 12. 08(수) 14:00 ~ 15:20
+- __[2022 동계 삼성SDS 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSc1SiSqZn2rz-75PAx5S_gRmLo_3RGu__oWFFqZHGK38xhA5Q/viewform)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성SDS
+  - 접수: 12. 01(수) ~ 12. 08(수)
+- __[Apple Developer Academy @ POSTECH 설명회](hhttps://developeracademy.postech.ac.kr/)__
+  - 분류: `교육`
+  - 주최: Apple Developer Academy
+  - 일시: 12. 08(수) 19:00 ~ 20:30
+- __[오픈 인프라 커뮤니티 2021](https://openinfradays.kr/)__
+  - 분류: `커뮤니티`
+  - 주최: OpenInfra Community Days Korea
+  - 일시: 12. 07(화) ~ 12. 09(목)
 - __[웹사이트 개발/운영을 위한 엔진엑스(NGINX) 설치와 환경설정](http://www.digitaltoday.co.kr/bbs/view.html?idxno=78&sc_category=)__
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
@@ -214,18 +226,26 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 12. 17(금) 14:00 ~ 16:00
-- __[2021 adiOS December](https://festa.io/events/1962)__
-  - 분류: `온라인`, `유료`, `iOS`
-  - 주최: adiOS
-  - 일시: 12. 18(토) 15:00 ~ 17:30
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
   - 일시: 10. 25(월) ~ 12. 17(금)
+- __[소리 인공지능 학습용 데이터 기반 서비스 경진대회](https://sounddata.modoo.at/)__
+  - 분류: `해커톤`, `AI`
+  - 주최: Apple
+  - 접수: 11. 29(월) ~ 12. 17(금)
+- __[2021 adiOS December](https://festa.io/events/1962)__
+  - 분류: `온라인`, `유료`, `iOS`
+  - 주최: adiOS
+  - 일시: 12. 18(토) 15:00 ~ 17:30
 - __[Central MakeUs Challenge Demo Day](https://festa.io/events/1972)__
   - 분류: `온라인`, `동아리`
   - 주최: MakeUs Challenge
   - 일시: 12. 18(토)
+- __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
+  - 분류: `온라인`, `서버`, `모임`
+  - 주최: 당근마켓
+  - 일시: 12. 20(월) 19:00 ~ 22:00
 - __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
   - 분류: `온라인`, `부트캠프`
   - 주최: NVDIA
@@ -313,7 +333,9 @@
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
 | devocean | [devocean.sk.com](https://devocean.sk.com/)
-| 닷넷데브 | [forum.dotnetdev.kr](https://forum.dotnetdev.kr/) |
+| OpenStack Korea 커뮤니티 | [facebook](https://www.facebook.com/groups/openstack.kr) |
+| Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
+| Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
 
 <br />
 
