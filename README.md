@@ -113,19 +113,15 @@
 <br />
 
 ## 21년 12월
-- __[소프트웨어가 미래다](http://www.k-softwave.com/main.asp)__
-  - 분류: `웨비나`, `소프트웨어`
-  - 주최: 과학기술정보통신부
-  - 일시: 12. 02(목) 10:00 ~ 16:30
-
-- __[(1차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 엘리스
-  - 일시: 12. 01(수) 19:00 ~ 20:30
 - __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/register/1191569756944565515)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 12. 02(목) 11:00 ~ 12:00
+
+  - __[이노베이션아카데미 성과 공유 컨퍼런스](https://www.innocon.io/niabbs5/inc.php?inc=sahu)__
+  - 분류: `웨비나`
+  - 주최: 이노베이션아카데이
+  - 일시: 12. 01(월) ~ 12. 03(수)
 - __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
   - 분류: `챌린지`, `인공지능`
   - 주최: 과학기술정보통신부
@@ -210,6 +206,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 클래스101
   - 일시: 12. 11(토) 17:00 ~ 21:00
+- __[오늘부터 개발자 : Talk #57](https://www.wanted.co.kr/events/Talk57)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 원티드
+  - 일시: 12. 14(화)
 - __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
