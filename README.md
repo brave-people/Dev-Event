@@ -113,31 +113,12 @@
 <br />
 
 ## 21년 12월
-- __[제4회 IT 인프라 유저그룹 밋업 by 주니어들](https://festa.io/events/1957)__
-  - 분류: `모임`, `인프라`
-  - 주최: IT 인프라 엔지니어 그룹
-  - 일시: 12. 04(토) 19:00 ~ 21:00
 
-- __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
-  - 분류: `해커톤`, `블록체인`
-  - 주최: 드림플러스
-  - 일시: 11. 17(수) ~ 12. 03(금) 23:00
-- __[AWS re:Invent](https://reinvent.awsevents.com/)__
-  - 분류: `클라우드`
-  - 주최: AWS
-  - 일시: 11. 29(월) ~ 12. 03(금)
-- __[취준생을 위한 현직자의 IT 직무특강](https://academy.elice.io/courses/17194/info)__
-  - 분류: `교육`, `멘토링`
-  - 주최: 엘리스
-  - 일시: 12. 04(토) 13:00 ~ 16:00
-- __[AI, CONNECT, REAL-WORLD](https://moducon.kr/)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 12. 04(토) 10:00 ~ 17:00
 - __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
   - 분류: `컨퍼런스`
   - 주최: EO
   - 일시: 12. 04(토) ~ 12. 05(일)
+
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
@@ -166,7 +147,7 @@
   - 분류: `교육`, `알고리즘`
   - 주최: 삼성SDS
   - 접수: 12. 01(수) ~ 12. 08(수)
-- __[Apple Developer Academy @ POSTECH 설명회](hhttps://developeracademy.postech.ac.kr/)__
+- __[Apple Developer Academy @ POSTECH 설명회](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`
   - 주최: Apple Developer Academy
   - 일시: 12. 08(수) 19:00 ~ 20:30
