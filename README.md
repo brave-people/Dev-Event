@@ -247,6 +247,10 @@
   - 분류: `대회`, `클라우드`
   - 주최: 영우클라우드
   - 일시: 12. 06(월) ~ 12. 28(화)
+- __[NCP Microservice 구축 및 활용 교육](https://www.ncloud.com/support/edu/429)__
+  - 분류: `온라인`, `세미나`, `클라우드`
+  - 주최: Naver Cloud Platform
+  - 일시: 12. 28(화) 14:00 ~ 18:00
 - __[2021 위믹스 해커톤](https://event.wemixnetwork.com/2021hackathon)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 위믹스
