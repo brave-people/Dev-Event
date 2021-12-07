@@ -113,20 +113,11 @@
 <br />
 
 ## 21년 12월
-
-- __[2021 AI 데이터 해커톤 대회](https://okky.kr/article/1110458)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 29(월) ~ 12. 07(화)
-
-- __[제25회 해킹방지워크샵](https://event-us.kr/concert/event/39976)__
-  - 분류: `워크샵`, `보안`
-  - 주최: CONCERT
-  - 접수: 12. 07(화) 09:30 - 18:00
 - __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
   - 분류: `해커톤`, `AI`
   - 주최: 메타빌드
   - 접수: 11. 25(목) ~ 12. 08(수)
+
 - __[AI/ML 기반 데이터 사이언스 정복하기](https://go.oracle.com/LP=119365?elqCampaignId=326403)__
   - 분류: `웨비나`, `데이터사이언스`
   - 주최: 오라클
@@ -135,14 +126,14 @@
   - 분류: `웨비나`, `MSA`
   - 주최: LG CNS
   - 일시: 12. 08(수) 14:00 ~ 15:20
-- __[2022 동계 삼성SDS 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSc1SiSqZn2rz-75PAx5S_gRmLo_3RGu__oWFFqZHGK38xhA5Q/viewform)__
-  - 분류: `교육`, `알고리즘`
-  - 주최: 삼성SDS
-  - 접수: 12. 01(수) ~ 12. 08(수)
 - __[Apple Developer Academy @ POSTECH 설명회](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`
   - 주최: Apple Developer Academy
   - 일시: 12. 08(수) 19:00 ~ 20:30
+- __[2022 동계 삼성SDS 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSc1SiSqZn2rz-75PAx5S_gRmLo_3RGu__oWFFqZHGK38xhA5Q/viewform)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성SDS
+  - 접수: 12. 01(수) ~ 12. 08(수)
 - __[오픈 인프라 커뮤니티 2021](https://openinfradays.kr/)__
   - 분류: `커뮤니티`
   - 주최: OpenInfra Community Days Korea
@@ -191,6 +182,14 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
   - 일시: 12. 14(화)
+- __[NHN FORWARD](https://forward.nhn.com/2021/home)__
+  - 분류: `웨비나`
+  - 주최: NHN
+  - 일시: 12. 14(화)
+- __[MongoDB를 통해 Google Cloud에서 현대화된 마이크로서비스 앱을 구축하는 방법](https://events.mongodb.com/mongodbkorea-msa-googlecloud)__
+  - 분류: `웨비나`, `mongodb`, `msa`
+  - 주최: mongodb
+  - 일시: 12. 16(목) 14:00 ~ 15:00
 - __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
