@@ -113,27 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 메타빌드
-  - 접수: 11. 25(목) ~ 12. 08(수)
+- __[[선착순 접수] 제 1회 모노톤 오프라인 해커톤](https://about.monothon.com/)__
+  - 분류: `해커톤`
+  - 주최: 모노톤
+  - 접수: 12. 08(수)
 
-- __[AI/ML 기반 데이터 사이언스 정복하기](https://go.oracle.com/LP=119365?elqCampaignId=326403)__
-  - 분류: `웨비나`, `데이터사이언스`
-  - 주최: 오라클
-  - 일시: 12. 08(수) 17:00
-- __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
-  - 분류: `웨비나`, `MSA`
-  - 주최: LG CNS
-  - 일시: 12. 08(수) 14:00 ~ 15:20
-- __[Apple Developer Academy @ POSTECH 설명회](https://developeracademy.postech.ac.kr/)__
-  - 분류: `교육`
-  - 주최: Apple Developer Academy
-  - 일시: 12. 08(수) 19:00 ~ 20:30
-- __[2022 동계 삼성SDS 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSc1SiSqZn2rz-75PAx5S_gRmLo_3RGu__oWFFqZHGK38xhA5Q/viewform)__
-  - 분류: `교육`, `알고리즘`
-  - 주최: 삼성SDS
-  - 접수: 12. 01(수) ~ 12. 08(수)
 - __[오픈 인프라 커뮤니티 2021](https://openinfradays.kr/)__
   - 분류: `커뮤니티`
   - 주최: OpenInfra Community Days Korea
