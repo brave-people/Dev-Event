@@ -113,43 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[[선착순 접수] 제 1회 모노톤 오프라인 해커톤](https://about.monothon.com/)__
-  - 분류: `해커톤`
-  - 주최: 모노톤
-  - 접수: 12. 08(수)
-
-- __[오픈 인프라 커뮤니티 2021](https://openinfradays.kr/)__
-  - 분류: `커뮤니티`
-  - 주최: OpenInfra Community Days Korea
-  - 일시: 12. 07(화) ~ 12. 09(목)
-- __[웹사이트 개발/운영을 위한 엔진엑스(NGINX) 설치와 환경설정](http://www.digitaltoday.co.kr/bbs/view.html?idxno=78&sc_category=)__
-  - 분류: `웨비나`, `nginx`
-  - 주최: 디지털투데이
-  - 일시: 12. 09(목) 14:00 ~ 15:00
-- __[React Conf 2021](https://conf.reactjs.org/)__
-  - 분류: `웨비나`, `react`, `온라인`
-  - 주최: Facebook
-  - 일시: 12. 09(목) 03:00 ~ 05:00
-- __[Agile Korea Conference 2021](https://festa.io/events/1950)__
-  - 분류: `컨퍼런스`, `애자일`
-  - 주최: 애자일 코리아 컨퍼런스
-  - 일시: 12. 09(목) 10:00 ~ 18:00
-- __[(2차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 엘리스
-  - 일시: 12. 09(수) 19:00 ~ 20:30
-- __[Reveal 2021](https://event.coupangcorp.com/)__
-  - 분류: `컨퍼런스`, `온라인`
-  - 주최: 쿠팡
-  - 일시: 12. 09(목) 10:30 ~ 17:00
-- __[2021 LARINX CANCER AI DATATHON](http://lcaidatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 29(월) ~ 12. 09(목)
 - __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+  
 - __[컴공선배 알고리즘 캠프 2기](https://softsquared.notion.site/2-b286db42eb9a421abcfd761e16315419)__
   - 분류: `유료`, `교육`, `알고리즘`
   - 주최: 컴공선배
