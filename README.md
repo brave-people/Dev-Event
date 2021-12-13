@@ -170,6 +170,10 @@
   - 분류: `온라인`, `동아리`
   - 주최: MakeUs Challenge
   - 일시: 12. 18(토)
+- __[YOUTHCON'21](https://frost-witch-afb.notion.site/YOUTHCON-21-365e94c3df3443e5b1322520a8b1a2ef)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: YOUTHCON
+  - 일시: 12. 19(일) 13:45 ~ 18:00
 - __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
   - 분류: `온라인`, `서버`, `모임`
   - 주최: 당근마켓
