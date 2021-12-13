@@ -126,6 +126,10 @@
   - 분류: `웨비나`
   - 주최: NHN
   - 일시: 12. 14(화)
+- __[Software Education Festival 2021](htthttps://sef.connect.or.kr/2021#menu_link_program)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 커넥트재단
+  - 일시: 12. 15(수) ~ 12. 17(금)
 - __[MongoDB를 통해 Google Cloud에서 현대화된 마이크로서비스 앱을 구축하는 방법](https://events.mongodb.com/mongodbkorea-msa-googlecloud)__
   - 분류: `웨비나`, `mongodb`, `msa`
   - 주최: mongodb
@@ -142,6 +146,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 프로그래머스
   - 일시: 12. 16(금) 20:00
+- __[2021 모두의 오픈데이터포럼](https://www.onoffmix.com/event/249092)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: 오픈데이터포럼
+  - 접수: 12. 17(금) 14:00 ~ 16:00
 - __[미지 데이터셋을 활용한 서비스 아이디어 해커톤](http://www.k-kinship.com/)__
   - 분류: `웨비나`, `AI`
   - 주최: 과학기술정보통신부
@@ -218,7 +226,7 @@
 <br />
 
 ## 22년 01월
-- __[sudo : CTO’s Tech Talk 2022](https://fastcampus.co.kr/devcon_sudo22?utm_source=media&utm_medium=viral&utm_campaign=prd%5E211206%5E17163&utm_content=teacher%5Elgw)__
+- __[sudo : CTO’s Tech Talk 2022](https://fastcampus.co.kr/devcon_sudo22)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 패스트캠퍼스
   - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
