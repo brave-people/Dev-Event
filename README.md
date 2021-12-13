@@ -213,6 +213,14 @@
 
 <br />
 
+## 22년 01월
+- __[sudo : CTO’s Tech Talk 2022](https://fastcampus.co.kr/devcon_sudo22?utm_source=media&utm_medium=viral&utm_campaign=prd%5E211206%5E17163&utm_content=teacher%5Elgw)__
+  - 분류: `컨퍼런스`, `유료`
+  - 주최: 패스트캠퍼스
+  - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
+
+<br />
+
 ---------------
 
 <br />
