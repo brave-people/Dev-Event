@@ -113,23 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[기술 개발 리더에게 커리어의 길을 묻다](https://class101.net/101path-tech)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 클래스101
-  - 일시: 12. 11(토) 17:00 ~ 21:00
-
-- __[오늘부터 개발자 : Talk #57](https://www.wanted.co.kr/events/Talk57)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 원티드
-  - 일시: 12. 14(화)
-- __[NHN FORWARD](https://forward.nhn.com/2021/home)__
-  - 분류: `웨비나`
-  - 주최: NHN
-  - 일시: 12. 14(화)
 - __[Software Education Festival 2021](htthttps://sef.connect.or.kr/2021#menu_link_program)__
   - 분류: `웨비나`, `AI`
   - 주최: 커넥트재단
   - 일시: 12. 15(수) ~ 12. 17(금)
+
 - __[MongoDB를 통해 Google Cloud에서 현대화된 마이크로서비스 앱을 구축하는 방법](https://events.mongodb.com/mongodbkorea-msa-googlecloud)__
   - 분류: `웨비나`, `mongodb`, `msa`
   - 주최: mongodb
@@ -142,6 +130,14 @@
   - 분류: `웨비나`
   - 주최: 카페24
   - 일시: 12. 16(목) 14:00 ~ 15:30
+- __[12월 Tech 세미나 - AWS AI Pipeline 구축 가이드](https://devocean.sk.com/events/view.do?id=105)__
+  - 분류: `웨비나`, `클라우드`, `AI`
+  - 주최: SK
+  - 일시: 12. 16(목) 15:00 ~ 17:00
+- __[IT기업이 지식재산권을 슬기롭게 지키는 방법](https://event-us.kr/seumlaw/event/40345)__
+  - 분류: `웨비나`, `지식재산권`
+  - 주최: 법무법인 세움
+  - 일시: 12. 16(목) 15:00 ~ 17:00
 - __[자율주행 데브코스 3기 설명회](https://programmers.co.kr/learn/courses/13295)__
   - 분류: `온라인`, `교육`
   - 주최: 프로그래머스
@@ -194,15 +190,19 @@
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 12. 21(화)
-- __[AWSKNVIDIA AI DEVELOPER MEETUP ](https://festa.io/events/2011)__
-  - 분류: `온라인`, `AIs`
+- __[개발자 성장을 위한 무료 줌 웨비나](https://pattern-cabinet-654.notion.site/56609ff4574c45d49b5f32ebf64a512f)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 유데미
+  - 일시: 12. 22(수) 19:30 ~ 21:10
+- __[AWSKNVIDIA AI DEVELOPER MEETUP](https://festa.io/events/2011)__
+  - 분류: `온라인`, `AI`
   - 주최: NVIDIA
   - 일시: 12. 22(수)
 - __[DND 6기 모집](https://dnd.ac/)__
   - 분류: `동아리`
   - 주최: DND
   - 일시: 12. 01(수) ~ 12. 22(수)
-- __[파이콘 한국 2022 신규 준비위원회](https://www.facebook.com/pyconkorea/)__
+- __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
   - 분류: `기타`
   - 주최: 파이콘 한국
   - 일시: 12. 11(토) ~ 12. 24(금)
