@@ -113,7 +113,7 @@
 <br />
 
 ## 21년 12월
-- __[Software Education Festival 2021](htthttps://sef.connect.or.kr/2021#menu_link_program)__
+- __[Software Education Festival 2021](https://sef.connect.or.kr/2021#menu_link_program)__
   - 분류: `웨비나`, `AI`
   - 주최: 커넥트재단
   - 일시: 12. 15(수) ~ 12. 17(금)
