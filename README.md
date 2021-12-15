@@ -113,15 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[Software Education Festival 2021](https://sef.connect.or.kr/2021#menu_link_program)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 커넥트재단
-  - 일시: 12. 15(수) ~ 12. 17(금)
-
 - __[MongoDB를 통해 Google Cloud에서 현대화된 마이크로서비스 앱을 구축하는 방법](https://events.mongodb.com/mongodbkorea-msa-googlecloud)__
   - 분류: `웨비나`, `mongodb`, `msa`
   - 주최: mongodb
   - 일시: 12. 16(목) 14:00 ~ 15:00
+  
 - __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -142,10 +138,18 @@
   - 분류: `온라인`, `교육`
   - 주최: 프로그래머스
   - 일시: 12. 16(금) 20:00
+- __[표준프레임워크 오픈커뮤니티 99차 기술세미나](https://form.office.naver.com/form/responseView.cmd?formkey=MGFkNTg2YjYtMmNmOC00ZjgyLTgyNzItNTljYTk5OTRkNGM1&sourceId=urlshare)__
+  - 분류: `웨비나`, `표준프레임워크`
+  - 주최: 표준프레임워크 오픈커뮤니티
+  - 일시: 12. 16(목)
 - __[2021 모두의 오픈데이터포럼](https://www.onoffmix.com/event/249092)__
   - 분류: `웨비나`, `데이터`
   - 주최: 오픈데이터포럼
   - 접수: 12. 17(금) 14:00 ~ 16:00
+- __[스타트업&글로벌 기업 채용설명회 진행](https://risingstartup.kr/)__
+  - 분류: `웨비나`, `채용`
+  - 주최: All for Startup
+  - 주최: 12. 16(목) ~ 12. 17(금) 10:00 ~ 22:00
 - __[미지 데이터셋을 활용한 서비스 아이디어 해커톤](http://www.k-kinship.com/)__
   - 분류: `웨비나`, `AI`
   - 주최: 과학기술정보통신부
@@ -178,6 +182,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: YOUTHCON
   - 일시: 12. 19(일) 13:45 ~ 18:00
+- __[엘리스 AI 트랙 4기 모집](https://festa.io/events/2014)__
+  - 분류: `교육`, `AI`
+  - 주최: 엘리스
+  - 모집: 11. 22(월) ~ 12. 19(일)
 - __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
   - 분류: `온라인`, `서버`, `모임`
   - 주최: 당근마켓
@@ -304,6 +312,7 @@
 | OpenStack Korea 커뮤니티 | [facebook](https://www.facebook.com/groups/openstack.kr) |
 | Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
 | Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
+| 표준프레임워크 오픈커뮤니티 | [open.egovframe.org](https://open.egovframe.org/) |
 
 <br />
 
