@@ -113,39 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[MongoDB를 통해 Google Cloud에서 현대화된 마이크로서비스 앱을 구축하는 방법](https://events.mongodb.com/mongodbkorea-msa-googlecloud)__
-  - 분류: `웨비나`, `mongodb`, `msa`
-  - 주최: mongodb
-  - 일시: 12. 16(목) 14:00 ~ 15:00
-  
-- __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 15(수) ~ 12. 16(목) 14:00 ~ 17:00
-- __[카페24 개발자 세미나 - 이커머스 기능(앱) 개발 전략](https://festa.io/events/1947)__
-  - 분류: `웨비나`
-  - 주최: 카페24
-  - 일시: 12. 16(목) 14:00 ~ 15:30
-- __[12월 Tech 세미나 - AWS AI Pipeline 구축 가이드](https://devocean.sk.com/events/view.do?id=105)__
-  - 분류: `웨비나`, `클라우드`, `AI`
-  - 주최: SK
-  - 일시: 12. 16(목) 15:00 ~ 17:00
-- __[IT기업이 지식재산권을 슬기롭게 지키는 방법](https://event-us.kr/seumlaw/event/40345)__
-  - 분류: `웨비나`, `지식재산권`
-  - 주최: 법무법인 세움
-  - 일시: 12. 16(목) 15:00 ~ 17:00
-- __[자율주행 데브코스 3기 설명회](https://programmers.co.kr/learn/courses/13295)__
-  - 분류: `온라인`, `교육`
-  - 주최: 프로그래머스
-  - 일시: 12. 16(금) 20:00
-- __[표준프레임워크 오픈커뮤니티 99차 기술세미나](https://form.office.naver.com/form/responseView.cmd?formkey=MGFkNTg2YjYtMmNmOC00ZjgyLTgyNzItNTljYTk5OTRkNGM1&sourceId=urlshare)__
-  - 분류: `웨비나`, `표준프레임워크`
-  - 주최: 표준프레임워크 오픈커뮤니티
-  - 일시: 12. 16(목)
 - __[2021 모두의 오픈데이터포럼](https://www.onoffmix.com/event/249092)__
   - 분류: `웨비나`, `데이터`
   - 주최: 오픈데이터포럼
   - 접수: 12. 17(금) 14:00 ~ 16:00
+
 - __[스타트업&글로벌 기업 채용설명회 진행](https://risingstartup.kr/)__
   - 분류: `웨비나`, `채용`
   - 주최: All for Startup
@@ -178,6 +150,10 @@
   - 분류: `온라인`, `동아리`
   - 주최: MakeUs Challenge
   - 일시: 12. 18(토)
+- __[명강사초청 특강: 머신러닝 입문과정](https://drive.google.com/file/d/1PGWV_WVEn8qO69wt0EHrhrra3qL02ECA/view)__
+  - 분류: `온라인`, `교육`
+  - 주최: 솔트룩스, 생활코딩
+  - 일시: 12. 18(토) ~ 12. 19(일) 09:00 ~ 18:00
 - __[YOUTHCON'21](https://frost-witch-afb.notion.site/YOUTHCON-21-365e94c3df3443e5b1322520a8b1a2ef)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: YOUTHCON
@@ -214,6 +190,10 @@
   - 분류: `기타`
   - 주최: 파이콘 한국
   - 일시: 12. 11(토) ~ 12. 24(금)
+- __[구름 K-Digital Training 전액 국비 지원 교육 과정](https://kdt.goorm.io/)__
+  - 분류: `무료`, `교육`
+  - 주최: 구름
+  - 일시: 12. 14(화) ~ 12. 27(월)
 - __[영우클라우드와 함께하는 동양미래대학교 AWS DeepRacer League](https://festa.io/events/1974)__
   - 분류: `대회`, `클라우드`
   - 주최: 영우클라우드
