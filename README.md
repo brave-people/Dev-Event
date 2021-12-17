@@ -113,39 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[2021 모두의 오픈데이터포럼](https://www.onoffmix.com/event/249092)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 오픈데이터포럼
-  - 접수: 12. 17(금) 14:00 ~ 16:00
-
-- __[스타트업&글로벌 기업 채용설명회 진행](https://risingstartup.kr/)__
-  - 분류: `웨비나`, `채용`
-  - 주최: All for Startup
-  - 주최: 12. 16(목) ~ 12. 17(금) 10:00 ~ 22:00
-- __[미지 데이터셋을 활용한 서비스 아이디어 해커톤](http://www.k-kinship.com/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 29(월) ~ 12. 17(금)
-- __[스타트업을 위한 클라우드 101](https://www.megazone.com/application_form_startup_webinar-apply-211217/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 12. 17(금) 14:00 ~ 16:00
-- __[2021 마이데이터 컨퍼런스](https://event-us.kr/4GcPKLNZsxaf/event/40478)__
-  - 분류: `온라인`, `마이데이터`
-  - 주최: 과학기술정보통신부
-  - 일시: 12. 17(금) 10:40 ~ 17:00
-- __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
-  - 분류: `온라인`, `라이브`
-  - 주최: Apple
-  - 일시: 10. 25(월) ~ 12. 17(금)
-- __[소리 인공지능 학습용 데이터 기반 서비스 경진대회](https://sounddata.modoo.at/)__
-  - 분류: `해커톤`, `AI`
-  - 주최: Apple
-  - 접수: 11. 29(월) ~ 12. 17(금)
 - __[2021 adiOS December](https://festa.io/events/1962)__
   - 분류: `온라인`, `유료`, `iOS`
   - 주최: adiOS
   - 일시: 12. 18(토) 15:00 ~ 17:30
+  
 - __[Central MakeUs Challenge Demo Day](https://festa.io/events/1972)__
   - 분류: `온라인`, `동아리`
   - 주최: MakeUs Challenge
