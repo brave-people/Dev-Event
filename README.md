@@ -113,31 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[2021 adiOS December](https://festa.io/events/1962)__
-  - 분류: `온라인`, `유료`, `iOS`
-  - 주최: adiOS
-  - 일시: 12. 18(토) 15:00 ~ 17:30
-  
-- __[Central MakeUs Challenge Demo Day](https://festa.io/events/1972)__
-  - 분류: `온라인`, `동아리`
-  - 주최: MakeUs Challenge
-  - 일시: 12. 18(토)
-- __[명강사초청 특강: 머신러닝 입문과정](https://drive.google.com/file/d/1PGWV_WVEn8qO69wt0EHrhrra3qL02ECA/view)__
-  - 분류: `온라인`, `교육`
-  - 주최: 솔트룩스, 생활코딩
-  - 일시: 12. 18(토) ~ 12. 19(일) 09:00 ~ 18:00
-- __[YOUTHCON'21](https://frost-witch-afb.notion.site/YOUTHCON-21-365e94c3df3443e5b1322520a8b1a2ef)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: YOUTHCON
-  - 일시: 12. 19(일) 13:45 ~ 18:00
-- __[엘리스 AI 트랙 4기 모집](https://festa.io/events/2014)__
-  - 분류: `교육`, `AI`
-  - 주최: 엘리스
-  - 모집: 11. 22(월) ~ 12. 19(일)
 - __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
   - 분류: `온라인`, `서버`, `모임`
   - 주최: 당근마켓
   - 일시: 12. 20(월) 19:00 ~ 22:00
+
 - __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
   - 분류: `온라인`, `부트캠프`
   - 주최: NVDIA
@@ -158,6 +138,10 @@
   - 분류: `동아리`
   - 주최: DND
   - 일시: 12. 01(수) ~ 12. 22(수)
+- __[[웨비나] 누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #3](https://register.gotowebinar.com/register/8809046787316310795)__
+  - 분류: `클라우드`, `교육`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 23(목) 11:00 ~ 12:00
 - __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
   - 분류: `기타`
   - 주최: 파이콘 한국
@@ -191,10 +175,26 @@
   - 주최: 패스트캠퍼스
   - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
 
+- __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
+  - 분류: `온라인`, `닷넷`
+  - 주최: 닷넷데브
+  - 일시: 01. 21(금) ~ 01. 22(토)
 - __[라이징캠프 4기](https://risingcamp.com)__
   - 분류: `유료교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
   - 신청: 12. 09(목) ~ 1. 27(목)
+- __[잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/overview/description)__
+  - 분류: `온라인`, `경진대회`
+  - 주최: 고용정보원
+  - 일시: 12. 06(월) ~ 01. 28(금)
+- __[KNOW기반 직업 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235865/overview/description)__
+  - 분류: `온라인`, `경진대회`
+  - 주최: 고용정보원
+  - 일시: 12. 06(월) ~ 01. 28(금)
+- __[구직자를 위한 기업 트랜드 시각화 경진대회](https://dacon.io/competitions/official/235866/overview/description)__
+  - 분류: `온라인`, `경진대회`
+  - 주최: 고용정보원
+  - 일시: 12. 06(월) ~ 01. 28(금)
 
 <br />
 
