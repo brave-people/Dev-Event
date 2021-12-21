@@ -113,23 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
-  - 분류: `온라인`, `서버`, `모임`
-  - 주최: 당근마켓
-  - 일시: 12. 20(월) 19:00 ~ 22:00
-
-- __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
-  - 분류: `온라인`, `부트캠프`
-  - 주최: NVDIA
-  - 일시: 12. 20(월) ~ 12. 21(화)
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/282395657/)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 12. 21(화)
 - __[개발자 성장을 위한 무료 줌 웨비나](https://pattern-cabinet-654.notion.site/56609ff4574c45d49b5f32ebf64a512f)__
   - 분류: `온라인`, `커리어`
   - 주최: 유데미
   - 일시: 12. 22(수) 19:30 ~ 21:10
+  
 - __[AWSKNVIDIA AI DEVELOPER MEETUP](https://festa.io/events/2011)__
   - 분류: `온라인`, `AI`
   - 주최: NVIDIA
@@ -158,6 +146,14 @@
   - 분류: `온라인`, `세미나`, `클라우드`
   - 주최: Naver Cloud Platform
   - 일시: 12. 28(화) 14:00 ~ 18:00
+- __[파스-타 PUB 2022](https://onoffmix.com/event/249538)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 개방형 클라우드 플랫폼 센터
+  - 일시: 12. 29(수) 10:30 ~ 17:30
+- __[모두를 위한 ML / Data, ML, Service, and Platform](https://okky.kr/article/1123562)__
+  - 분류: `웨비나`, `유료`, `ML`
+  - 주최: okky
+  - 일시: 12. 29(수) 20:00 ~ 21:30
 - __[2021 위믹스 해커톤](https://event.wemixnetwork.com/2021hackathon)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 위믹스
