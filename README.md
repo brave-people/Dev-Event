@@ -113,23 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[개발자 성장을 위한 무료 줌 웨비나](https://pattern-cabinet-654.notion.site/56609ff4574c45d49b5f32ebf64a512f)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 유데미
-  - 일시: 12. 22(수) 19:30 ~ 21:10
-  
-- __[AWSKNVIDIA AI DEVELOPER MEETUP](https://festa.io/events/2011)__
-  - 분류: `온라인`, `AI`
-  - 주최: NVIDIA
-  - 일시: 12. 22(수)
-- __[DND 6기 모집](https://dnd.ac/)__
-  - 분류: `동아리`
-  - 주최: DND
-  - 일시: 12. 01(수) ~ 12. 22(수)
 - __[[웨비나] 누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #3](https://register.gotowebinar.com/register/8809046787316310795)__
   - 분류: `클라우드`, `교육`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 12. 23(목) 11:00 ~ 12:00
+
 - __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
   - 분류: `기타`
   - 주최: 파이콘 한국
@@ -171,6 +159,10 @@
   - 주최: 패스트캠퍼스
   - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
 
+- __[Oracle Developer Day Korea](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
+  - 분류: `컨퍼런스`, `유료`
+  - 주최: 오라클
+  - 일시: 01. 19(수) 10:00 ~ 16:30
 - __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
   - 분류: `온라인`, `닷넷`
   - 주최: 닷넷데브
