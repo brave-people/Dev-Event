@@ -210,7 +210,8 @@
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
-| Central MakeUs Challenge | [공식 홈페이지](https://makeus.in/) |
+| Central MakeUs Challenge | - | [공식 홈페이지](https://makeus.in/) |
+
 
 <br />
 
@@ -258,6 +259,17 @@
 | Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
 | Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
 | 표준프레임워크 오픈커뮤니티 | [open.egovframe.org](https://open.egovframe.org/) |
+| 게임 서버 개발자 모임 | [facebook](https://www.facebook.com/groups/207844736374114/) |
+| Kubernetes Korea | [facebook](https://www.facebook.com/groups/k8skr/) |
+| KubernPostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
+| 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/) |
+| Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
+| Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
+| 구글 Flutter 한국 사용자 그룹 | [facebook](https://www.facebook.com/groups/flutterkorea/) |
+| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
+| Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
+| 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
+
 
 <br />
 
