@@ -113,19 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[[웨비나] 누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #3](https://register.gotowebinar.com/register/8809046787316310795)__
-  - 분류: `클라우드`, `교육`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 23(목) 11:00 ~ 12:00
-
-- __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
-  - 분류: `기타`
-  - 주최: 파이콘 한국
-  - 일시: 12. 11(토) ~ 12. 24(금)
 - __[구름 K-Digital Training 전액 국비 지원 교육 과정](https://kdt.goorm.io/)__
   - 분류: `무료`, `교육`
   - 주최: 구름
   - 일시: 12. 14(화) ~ 12. 27(월)
+
 - __[영우클라우드와 함께하는 동양미래대학교 AWS DeepRacer League](https://festa.io/events/1974)__
   - 분류: `대회`, `클라우드`
   - 주최: 영우클라우드
@@ -154,11 +146,23 @@
 <br />
 
 ## 22년 01월
+- __[펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 데이콘
+  - 일시: 12. 27(월) ~ 01. 07(화)
+
+- __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
+  - 분류: `기타`
+  - 주최: 파이콘 한국
+  - 일시: 12. 11(토) ~ 01. 07(금)
+- __[조선/해양 산업 디지털 혁신을 위한 Big Data/AI 대학생 경진대회](https://hicontest.hhi.co.kr/)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 한국조선해양
+  - 접수: 01. 03(월) ~ 01. 14(화)
 - __[sudo : CTO’s Tech Talk 2022](https://fastcampus.co.kr/devcon_sudo22)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 패스트캠퍼스
   - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
-
 - __[Oracle Developer Day Korea](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 오라클
