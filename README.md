@@ -146,11 +146,15 @@
 <br />
 
 ## 22년 01월
+- __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/#register/4459968126745467661)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 06(월) 11:00 ~ 12:00
+
 - __[펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)__
   - 분류: `해커톤`, `AI`
   - 주최: 데이콘
   - 일시: 12. 27(월) ~ 01. 07(화)
-
 - __[파이콘 한국 2022 신규 준비위원회](https://docs.google.com/forms/d/e/1FAIpQLSeH5Lye4WEiqAV2E2TUiJQj8OHJO1KzYXAFbNflkEGk4Rk9ow/viewform)__
   - 분류: `기타`
   - 주최: 파이콘 한국
@@ -163,6 +167,10 @@
   - 분류: `컨퍼런스`, `유료`
   - 주최: 패스트캠퍼스
   - 일시: 01. 15(토) ~ 01. 16(일) 13:00 ~ 18:20
+- __[2022 한화&해시드 프로토콜 캠프 1기 ](https://www.protocolcamp.com/)__
+  - 분류: `교육`, `블록체인`
+  - 주최: HASHED
+  - 접수: 12. 17(금) ~ 01. 16(일)
 - __[Oracle Developer Day Korea](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 오라클
