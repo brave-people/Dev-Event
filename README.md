@@ -113,23 +113,11 @@
 <br />
 
 ## 21년 12월
-- __[구름 K-Digital Training 전액 국비 지원 교육 과정](https://kdt.goorm.io/)__
-  - 분류: `무료`, `교육`
-  - 주최: 구름
-  - 일시: 12. 14(화) ~ 12. 27(월)
-
-- __[영우클라우드와 함께하는 동양미래대학교 AWS DeepRacer League](https://festa.io/events/1974)__
-  - 분류: `대회`, `클라우드`
-  - 주최: 영우클라우드
-  - 일시: 12. 06(월) ~ 12. 28(화)
-- __[NCP Microservice 구축 및 활용 교육](https://www.ncloud.com/support/edu/429)__
-  - 분류: `온라인`, `세미나`, `클라우드`
-  - 주최: Naver Cloud Platform
-  - 일시: 12. 28(화) 14:00 ~ 18:00
 - __[파스-타 PUB 2022](https://onoffmix.com/event/249538)__
   - 분류: `온라인`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 일시: 12. 29(수) 10:30 ~ 17:30
+  
 - __[모두를 위한 ML / Data, ML, Service, and Platform](https://okky.kr/article/1123562)__
   - 분류: `웨비나`, `유료`, `ML`
   - 주최: okky
