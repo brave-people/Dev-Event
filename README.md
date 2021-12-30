@@ -137,8 +137,12 @@
 - __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/#register/4459968126745467661)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
-  - 일시: 01. 06(월) 11:00 ~ 12:00
+  - 일시: 01. 06(목) 11:00 ~ 12:00
 
+- __[MongoDB와 함께 알아가보는 멀티클라우드 활용전략](https://events.mongodb.com/mongodbmulticloudstrategykorea)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: MongoDB
+  - 일시: 01. 06(목) 14:00 ~ 15:00
 - __[펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)__
   - 분류: `해커톤`, `AI`
   - 주최: 데이콘
@@ -147,6 +151,10 @@
   - 분류: `기타`
   - 주최: 파이콘 한국
   - 일시: 12. 11(토) ~ 01. 07(금)
+- __[NHN 아카데미 부트캠프](https://nhnacademy.com/bootcamp/develop)__
+  - 분류: `유료`, `교육`
+  - 주최: NHN
+  - 일시: 12. 07(화) ~ 01. 13(목)
 - __[조선/해양 산업 디지털 혁신을 위한 Big Data/AI 대학생 경진대회](https://hicontest.hhi.co.kr/)__
   - 분류: `해커톤`, `AI`
   - 주최: 한국조선해양
