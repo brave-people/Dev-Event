@@ -112,19 +112,6 @@
 
 <br />
 
-## 21년 12월
-- __[2021 위믹스 해커톤](https://event.wemixnetwork.com/2021hackathon)__
-  - 분류: `해커톤`, `블록체인`
-  - 주최: 위믹스
-  - 신청: 11. 17(수) ~ 12. 31(금)
-  
-- __[2021 프로그래머스 개발자 설문조사 이벤트](https://programmers.co.kr/events/survey-2022)__
-  - 분류: `설문`, `이벤트`
-  - 주최: 프로그래머스
-  - 신청: 12. 06(월) ~ 12. 31(금)
-
-<br />
-
 ## 22년 01월
 - __[네이버 클라우드 플랫폼과 함께 살펴보는 Cloud Trends](https://register.gotowebinar.com/#register/4459968126745467661)__
   - 분류: `웨비나`, `클라우드`
@@ -269,7 +256,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-
+| Girls In Tech Korea | [homepage](https://korea.girlsintech.org/) |
 
 <br />
 
