@@ -138,6 +138,10 @@
   - 분류: `유료`, `교육`
   - 주최: NHN
   - 일시: 12. 07(화) ~ 01. 13(목)
+- __[리얼리눅스 무료세미나 : 브라우저부터 웹서버까지](https://festa.io/events/2061)__
+  - 분류: `교육`
+  - 주최: 리얼리눅스
+  - 일시: 01. 12(수)
 - __[조선/해양 산업 디지털 혁신을 위한 Big Data/AI 대학생 경진대회](https://hicontest.hhi.co.kr/)__
   - 분류: `해커톤`, `AI`
   - 주최: 한국조선해양
@@ -191,6 +195,10 @@
   - 주최: 과학기술정보통신부
   - 모집: 01. 07(금) ~ 02. 04(금)
 
+- __[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회(LG채용특전)](https://dacon.io/competitions/official/235870/overview/description)__
+  - 분류: `경진대회`, `AI`
+  - 주최: LG AI Research
+  - 모집: 01. 12(수) ~ 02. 04(금)
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
