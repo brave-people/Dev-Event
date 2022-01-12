@@ -163,6 +163,14 @@
   - 분류: `경진대회`, `데이터`
   - 주최: 데이콘
   - 기간: 01. 10(월) ~ 01. 19(금)
+- __[Oracle Developer Day](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 데이콘
+  - 일시: 01. 19(수) 10:00 ~ 16:30
+- __[Deep Dive into Cloud DB for MongoDB](https://festa.io/events/2077)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 20(목) 10:00 ~ 11:00
 - __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
   - 분류: `온라인`, `닷넷`
   - 주최: 닷넷데브
@@ -179,6 +187,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 유데미
   - 일시: 01. 25(화) 19:30 ~ 21:10
+- __[2022년 빗썸 테크 캠프 iOS 코스](https://www.yagom-academy.kr/bithumb-tech-camp)__
+  - 분류: `교육`, `ios`
+  - 주최: bithumb
+  - 모집: 01. 17(금) ~ 01. 25(화)
 - __[라이징캠프 4기](https://risingcamp.com)__
   - 분류: `유료교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
