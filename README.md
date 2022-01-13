@@ -114,19 +114,15 @@
 <br />
 
 ## 22년 01월
-- __[리얼리눅스 무료세미나 : 브라우저부터 웹서버까지](https://festa.io/events/2061)__
-  - 분류: `교육`
-  - 주최: 리얼리눅스
-  - 일시: 01. 12(수)
-
-- __[힙한 Crypto Dev에게 물어봐](https://festa.io/events/2063)__
-  - 분류: `웨비나`, `유료`
-  - 주최: 힙개비
-  - 일시: 01. 12(수) 22:00 ~ 23:30
 - __[NHN 아카데미 부트캠프](https://nhnacademy.com/bootcamp/develop)__
   - 분류: `유료`, `교육`
   - 주최: NHN
   - 일시: 12. 07(화) ~ 01. 13(목)
+  
+- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/ko-KR/awskrug/events/282691502/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 01. 13(목) 19:00 ~ 21:00
 - __[조선/해양 산업 디지털 혁신을 위한 Big Data/AI 대학생 경진대회](https://hicontest.hhi.co.kr/)__
   - 분류: `해커톤`, `AI`
   - 주최: 한국조선해양
@@ -171,6 +167,10 @@
   - 분류: `웨비나`, `mongoDB`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 20(목) 10:00 ~ 11:00
+- __[LINE, FLO 고객 담당자와 함께하는 MongoDB 패널토크](https://mongodfiresidechatwithlineflo.splashthat.com/)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: mongoDB
+  - 일시: 01. 20(목) 14:00 ~ 15:00
 - __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
   - 분류: `온라인`, `닷넷`
   - 주최: 닷넷데브
