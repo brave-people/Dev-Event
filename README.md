@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 01월
-- __[NHN 아카데미 부트캠프](https://nhnacademy.com/bootcamp/develop)__
-  - 분류: `유료`, `교육`
-  - 주최: NHN
-  - 일시: 12. 07(화) ~ 01. 13(목)
-  
-- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/ko-KR/awskrug/events/282691502/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 01. 13(목) 19:00 ~ 21:00
 - __[조선/해양 산업 디지털 혁신을 위한 Big Data/AI 대학생 경진대회](https://hicontest.hhi.co.kr/)__
   - 분류: `해커톤`, `AI`
   - 주최: 한국조선해양
   - 접수: 01. 03(월) ~ 01. 14(화)
+  
 - __[sudo : CTO’s Tech Talk 2022](https://fastcampus.co.kr/devcon_sudo22)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 패스트캠퍼스
@@ -191,6 +183,10 @@
   - 분류: `교육`, `ios`
   - 주최: bithumb
   - 모집: 01. 17(금) ~ 01. 25(화)
+- __[Framer 사용자 네트워킹 모임](https://festa.io/events/2083)__
+  - 분류: `모임`, `Framer`
+  - 주최: 루움
+  - 일시: 01. 26(수) 19:40 ~ 21:40
 - __[라이징캠프 4기](https://risingcamp.com)__
   - 분류: `유료교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
