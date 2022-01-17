@@ -220,6 +220,10 @@
   - 분류: `경진대회`, `AI`
   - 주최: LG AI Research
   - 모집: 01. 12(수) ~ 02. 04(금)
+- __[소프트웨어 마에스트로 13기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
+  - 분류: `대외활동`
+  - 주최: 정보통신기획평가원
+  - 모집: 01. 17(월) ~ 02. 17(목)
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
