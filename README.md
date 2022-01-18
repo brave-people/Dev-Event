@@ -175,6 +175,11 @@
   - 분류: `모임`, `Framer`
   - 주최: 루움
   - 일시: 01. 26(수) 19:40 ~ 21:40
+- __[1월 우아한테크세미나: 시각적 요소 테스트 자동화하기](https://docs.google.com/forms/d/e/1FAIpQLSfi1KvMtw_TpCWjDmkbQWfoSuHHm2yTQB8BxAIoTrnZjCJPDQ/viewform)__
+  - 분류: `웨비나`, `온라인`
+  - 주최: 우아한형제들
+  - 신청: ~ 01. 26(수) 23:59
+  - 일시: 01. 27(목) 19:00 ~ 21:00
 - __[Gitlab Korea 밋업 #9 - GitLab의 UI/UX 프로세스](https://festa.io/events/2085)__
   - 분류: `웨비나`, `UI/UX`
   - 주최: GitLab Korea
