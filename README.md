@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 01월
-- __[애자일 코리아 1월 밋업 "가트너 2022 전략적 기술 트렌드 세미나"](https://festa.io/events/2053)__
-  - 분류: `웨비나`
-  - 주최: 애자일 코리아
-  - 일시: 01. 18(화)
-
-- __[[OKKY 1월 세미나] 한번 듣고 평생 써먹는 코드 리뷰 노하우](https://okky.kr/article/1135478)__
-  - 분류: `웨비나`
-  - 주최: okky
-  - 일시: 01. 18(화) 20:00 ~ 21:40
 - __[Oracle Developer Day Korea](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
   - 분류: `컨퍼런스`, `유료`
   - 주최: 오라클
   - 일시: 01. 19(수) 10:00 ~ 16:30
+
 - __[프리온보딩 프론트엔드 코스](https://www.wanted.co.kr/events/pre_onboarding_course_6)__
   - 분류: `교육`, `무료`
   - 주최: 원티드
@@ -277,10 +269,11 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [www.codelabs.kr](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
-| 모두의 연구소 | [modulabs.co.kr](https://modulabs.co.kr/) |
-| CCCR 아카데미 | [cccr-edu.or.kr](https://www.cccr-edu.or.kr/main/index.jsp) |
-| 인공지능혁신학교 AIFFEL  | [AIFFEL](https://aiffel.io/) |
+| 양재동 코드랩 | [Homepage]](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
+| CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
+| 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
+| 엘리스 | [Homepage](https://elice.io/home) |
 
 <br />
 
