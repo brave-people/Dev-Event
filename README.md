@@ -114,31 +114,19 @@
 <br />
 
 ## 22년 01월
-- __[Oracle Developer Day Korea](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
-  - 분류: `컨퍼런스`, `유료`
-  - 주최: 오라클
-  - 일시: 01. 19(수) 10:00 ~ 16:30
-
-- __[프리온보딩 프론트엔드 코스](https://www.wanted.co.kr/events/pre_onboarding_course_6)__
-  - 분류: `교육`, `무료`
-  - 주최: 원티드
-  - 모집: 01. 05(수) ~ 01. 19(수)
-- __[데이콘 Basic #7: 영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: 데이콘
-  - 기간: 01. 10(월) ~ 01. 19(금)
-- __[Oracle Developer Day](https://go.oracle.com/LP=120553?elqCampaignId=326404)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 데이콘
-  - 일시: 01. 19(수) 10:00 ~ 16:30
 - __[Deep Dive into Cloud DB for MongoDB](https://festa.io/events/2077)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 20(목) 10:00 ~ 11:00
+
 - __[LINE, FLO 고객 담당자와 함께하는 MongoDB 패널토크](https://mongodfiresidechatwithlineflo.splashthat.com/)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: mongoDB
   - 일시: 01. 20(목) 14:00 ~ 15:00
+- __[메가존소프트x알리바바 클라우드 인더스트리 데이](https://alibaba.zoom.us/webinar/register/5216400623121/WN_8f7Ts_cMR4aSy21v_lnj0w)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존소프트
+  - 일시: 01. 21(금) 14:00
 - __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
   - 분류: `온라인`, `닷넷`
   - 주최: 닷넷데브
@@ -217,6 +205,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 모집: 02. 04(금) 10:00 ~ 17:30
+- __[공공데이터 개방‧활용 가속화 해커톤](https://onoffmix.com/event/250476)__
+  - 분류: `해커톤`
+  - 주최: 행정안전부
+  - 모집: 01. 20(목) ~ 02. 14(월) 
 - __[소프트웨어 마에스트로 13기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
   - 분류: `대외활동`
   - 주최: 정보통신기획평가원
