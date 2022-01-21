@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 01월
-- __[Deep Dive into Cloud DB for MongoDB](https://festa.io/events/2077)__
-  - 분류: `웨비나`, `mongoDB`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 01. 20(목) 10:00 ~ 11:00
-
-- __[LINE, FLO 고객 담당자와 함께하는 MongoDB 패널토크](https://mongodfiresidechatwithlineflo.splashthat.com/)__
-  - 분류: `웨비나`, `mongoDB`
-  - 주최: mongoDB
-  - 일시: 01. 20(목) 14:00 ~ 15:00
 - __[메가존소프트x알리바바 클라우드 인더스트리 데이](https://alibaba.zoom.us/webinar/register/5216400623121/WN_8f7Ts_cMR4aSy21v_lnj0w)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존소프트
   - 일시: 01. 21(금) 14:00
+
 - __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
   - 분류: `온라인`, `닷넷`
   - 주최: 닷넷데브
@@ -197,6 +189,10 @@
   - 주최: 과학기술정보통신부
   - 모집: 01. 07(금) ~ 02. 04(금)
 
+- __[데이콘 베이직 Basic](https://dacon.io/competitions/official/235870/overview/description)__
+  - 분류: `경진대회`, `AI`
+  - 주최: 데이콘
+  - 일시: 01. 24(월) ~ 02. 04(금)
 - __[농업 환경 변화에 따른 작물 병해 진단 AI 경진대회(LG채용특전)](https://dacon.io/competitions/official/235870/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: LG AI Research
@@ -205,6 +201,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 모집: 02. 04(금) 10:00 ~ 17:30
+- __[GDG Korea WebTech Online Lightning Talk 2022](https://festa.io/events/2078)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: GDG Korea
+  - 일시: 02. 12(토) 14:30 ~ 15:30
 - __[공공데이터 개방‧활용 가속화 해커톤](https://onoffmix.com/event/250476)__
   - 분류: `해커톤`
   - 주최: 행정안전부
