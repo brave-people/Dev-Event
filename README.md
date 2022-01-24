@@ -114,23 +114,15 @@
 <br />
 
 ## 22년 01월
-- __[메가존소프트x알리바바 클라우드 인더스트리 데이](https://alibaba.zoom.us/webinar/register/5216400623121/WN_8f7Ts_cMR4aSy21v_lnj0w)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존소프트
-  - 일시: 01. 21(금) 14:00
-
-- __[.NET Conf 2022 x Seoul](https://festa.io/events/2020)__
-  - 분류: `온라인`, `닷넷`
-  - 주최: 닷넷데브
-  - 일시: 01. 21(금) ~ 01. 22(토)
-- __[AWS Cloud 입문 무료 세미나](https://okky.kr/article/1135257)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: KG아이티뱅크
-  - 일시: 01. 06(목) ~ 01. 24(월)
 - __[스마트축사 데이터 활용 대회](http://aifactory.space/competition/detail/1952)__
   - 분류: `대회`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 01. 07(금) ~ 01. 25(화)
+
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/283148129/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 01. 25(화) 20:00 ~ 22:00
 - __[비전공자, 개발자가 되다](https://pattern-cabinet-654.notion.site/bf414d5276984d1e9f7162a18f44ef4e)__
   - 분류: `웨비나`, `커리어`
   - 주최: 유데미
@@ -143,6 +135,10 @@
   - 분류: `모임`, `Framer`
   - 주최: 루움
   - 일시: 01. 26(수) 19:40 ~ 21:40
+- __[Data Round Table](https://mailsurvey.typeform.com/dataroundtable)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: Superb AI
+  - 일시: 01. 26(수) 19:00 ~ 20:30
 - __[1월 우아한테크세미나: 시각적 요소 테스트 자동화하기](https://docs.google.com/forms/d/e/1FAIpQLSfi1KvMtw_TpCWjDmkbQWfoSuHHm2yTQB8BxAIoTrnZjCJPDQ/viewform)__
   - 분류: `웨비나`, `온라인`
   - 주최: 우아한형제들
