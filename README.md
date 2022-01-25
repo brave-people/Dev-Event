@@ -160,6 +160,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 원티드
   - 일시: 01. 27(목) 11:00 ~ 12:00
+- __[1월 Tech 세미나-AI Agent 기반 문제 정의 방법과 해결 방안 모색](https://devocean.sk.com/events/view.do?id=108)__
+  - 분류: `웨비나`, `AI`
+  - 주최: DEVOCEAN
+  - 일시: 01. 27(목) 15:00 ~ 17:00
 - __[잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/overview/description)__
   - 분류: `온라인`, `경진대회`
   - 주최: 고용정보원
@@ -209,6 +213,10 @@
   - 분류: `대외활동`
   - 주최: 정보통신기획평가원
   - 모집: 01. 17(월) ~ 02. 17(목)
+- __[Gitlab Korea 밋업 #9 - GitLab의 UI/UX 프로세스](https://festa.io/events/2085)__
+  - 분류: `웨비나`, `UI/UX`
+  - 주최: GitLab Korea
+  - 일시: 02. 17(목) 19:00 ~ 21:00
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
@@ -245,7 +253,7 @@
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
 | Central MakeUs Challenge | - | [공식 홈페이지](https://makeus.in/) |
-
+| 힙한 주니어들의 비밀 | - | [공식 홈페이지](https://litt.ly/hipjubie)
 
 <br />
 
@@ -257,7 +265,7 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [Homepage]](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
 | 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
