@@ -114,27 +114,11 @@
 <br />
 
 ## 22년 01월
-- __[스마트축사 데이터 활용 대회](http://aifactory.space/competition/detail/1952)__
-  - 분류: `대회`, `인공지능`
-  - 주최: 과학기술정보통신부
-  - 일시: 01. 07(금) ~ 01. 25(화)
-
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/283148129/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 01. 25(화) 20:00 ~ 22:00
-- __[비전공자, 개발자가 되다](https://pattern-cabinet-654.notion.site/bf414d5276984d1e9f7162a18f44ef4e)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 유데미
-  - 일시: 01. 25(화) 19:30 ~ 21:10
-- __[2022년 빗썸 테크 캠프 iOS 코스](https://www.yagom-academy.kr/bithumb-tech-camp)__
-  - 분류: `교육`, `ios`
-  - 주최: bithumb
-  - 모집: 01. 17(금) ~ 01. 25(화)
 - __[Framer 사용자 네트워킹 모임](https://festa.io/events/2083)__
   - 분류: `모임`, `Framer`
   - 주최: 루움
   - 일시: 01. 26(수) 19:40 ~ 21:40
+  
 - __[Data Round Table](https://mailsurvey.typeform.com/dataroundtable)__
   - 분류: `웨비나`, `데이터`
   - 주최: Superb AI
@@ -221,10 +205,10 @@
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
   - 모집: 12. 28(화) ~ 02. 20(일)
-- __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/?refid=em_setpw_kr_innovate_aiml22q1&trkcampaign=innovate-ml)__
+- __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
-  - 일시: 02.24(목) 9:00 ~ 12:00(오전) / 14:00 ~ 17:00 (오후)
+  - 일시: 02.24(목) 9:00 ~ 17:00
 - __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
   - 분류: `교육`
   - 주최: NVIDIA
