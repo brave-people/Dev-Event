@@ -224,7 +224,7 @@
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning/?refid=em_setpw_kr_innovate_aiml22q1&trkcampaign=innovate-ml)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
-  - 모집: 02.24(목) 9:00 ~ 12:00(오전) / 14:00 ~ 17:00 (오후)
+  - 일시: 02.24(목) 9:00 ~ 12:00(오전) / 14:00 ~ 17:00 (오후)
 - __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
   - 분류: `교육`
   - 주최: NVIDIA
