@@ -114,24 +114,11 @@
 <br />
 
 ## 22년 01월
-- __[Framer 사용자 네트워킹 모임](https://festa.io/events/2083)__
-  - 분류: `모임`, `Framer`
-  - 주최: 루움
-  - 일시: 01. 26(수) 19:40 ~ 21:40
-  
-- __[Data Round Table](https://mailsurvey.typeform.com/dataroundtable)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: Superb AI
-  - 일시: 01. 26(수) 19:00 ~ 20:30
-- __[1월 우아한테크세미나: 시각적 요소 테스트 자동화하기](https://docs.google.com/forms/d/e/1FAIpQLSfi1KvMtw_TpCWjDmkbQWfoSuHHm2yTQB8BxAIoTrnZjCJPDQ/viewform)__
-  - 분류: `웨비나`, `온라인`
-  - 주최: 우아한형제들
-  - 신청: ~ 01. 26(수) 23:59
-  - 일시: 01. 27(목) 19:00 ~ 21:00
 - __[Gitlab Korea 밋업 #9 - GitLab의 UI/UX 프로세스](https://festa.io/events/2085)__
   - 분류: `웨비나`, `UI/UX`
   - 주최: GitLab Korea
   - 신청: 01. 27(목) 19:00 ~ 21:00
+
 - __[라이징캠프 4기](https://risingcamp.com)__
   - 분류: `유료교육`, `iOS`, `Android`, `Server`, `Web`
   - 주최: 컴공선배
@@ -185,6 +172,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 모집: 02. 04(금) 10:00 ~ 17:30
+- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+  - 분류: `모임`
+  - 주최: 우아한형제들
+  - 신청: 01. 27(목) ~ 02. 07(월)
+- __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+  - 분류: `교육`, `인공지능`
+  - 주최: 과학기술정보통신부
+  - 일시: 01. 17(월) ~ 02. 09(수)
 - __[GDG Korea WebTech Online Lightning Talk 2022](https://festa.io/events/2078)__
   - 분류: `웨비나`, `클라우드`
   - 주최: GDG Korea
