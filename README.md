@@ -180,6 +180,10 @@
   - 분류: `교육`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 01. 17(월) ~ 02. 09(수)
+- __[컴공선배 알고리즘 캠프 4기](https://softsquared.notion.site/4-295b839756a04b969ea4187ff951e0aa)__
+  - 분류: `유료`, `교육`, `알고리즘`
+  - 주최: 컴공선배
+  - 신청: 01. 24(월) ~ 02. 11(금)
 - __[GDG Korea WebTech Online Lightning Talk 2022](https://festa.io/events/2078)__
   - 분류: `웨비나`, `클라우드`
   - 주최: GDG Korea
