@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -381,6 +381,7 @@
     <td align="center"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ydh0213"><img src="https://avatars.githubusercontent.com/u/8025481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daehyun Yoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ydh0213" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/skmn3"><img src="https://avatars.githubusercontent.com/u/81291090?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=skmn3" title="Code">💻</a></td>
+    <td align="center"><a href="https://bangu4.tistory.com/"><img src="https://avatars.githubusercontent.com/u/26866859?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bang Jihoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bangbangu4" title="Code">💻</a></td>
   </tr>
 </table>
 
