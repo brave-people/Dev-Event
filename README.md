@@ -296,6 +296,8 @@
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
 | Girls In Tech Korea | [homepage](https://korea.girlsintech.org/) |
+| OKKY (Java,Spring) | [homepage](https://okky.kr/) |
+| 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 
 <br />
 
