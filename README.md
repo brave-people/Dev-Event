@@ -143,6 +143,10 @@
   - 분류: `컨퍼런스`
   - 주최: 카카오 모빌리티
   - 일시: 02. 10(목) 13:00 ~ 18:00
+- __[[OKKY 2월 세미나] React가 처음인 당신](https://okky.kr/article/1151540)__
+  - 분류: `컨퍼런스`
+  - 주최: okky
+  - 일시: 02. 10(목) 20:00
 - __[컴공선배 알고리즘 캠프 4기](https://softsquared.notion.site/4-295b839756a04b969ea4187ff951e0aa)__
   - 분류: `유료`, `교육`, `알고리즘`
   - 주최: 컴공선배
@@ -163,6 +167,10 @@
   - 분류: `웨비나`, `UI/UX`
   - 주최: GitLab Korea
   - 일시: 02. 17(목) 19:00 ~ 21:00
+- __[엔진엑스 플러스의 다양한 활용방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=81&sc_category=)__
+  - 분류: `웨비나`, `nginx`
+  - 주최: 디지털투데이
+  - 일시: 02. 17(목) 14:00 ~ 15:00
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
@@ -175,13 +183,17 @@
   - 분류: `교육`
   - 주최: NVIDIA
   - 모집: 01. 17(월) ~ 02. 28(월)
+- __[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 01. 28(금) ~ 02. 28(월)
 
 <br />
 
 ## 22년 03월
 - __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
   - 분류: `경진대회`
-  - 주최: (사)한국블록체인기업진흥협회, 아맥스지그룹
+  - 주최: (사)한국블록체인기업진흥협회
   - 모집: 01. 01(토) ~ 03. 31(목)
 
 <br />
