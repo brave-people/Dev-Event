@@ -175,6 +175,10 @@
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
   - 일시: 02. 17(목) 14:00 ~ 15:00
+- __[항공사 고객 만족도 예측 경진대회](https://dacon.io/competitions/official/235871/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 02. 07(월) ~ 02. 18(금)
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
