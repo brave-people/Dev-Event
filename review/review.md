@@ -28,5 +28,7 @@
     - [https://blog.naver.com/kshieldjr/221775539266](https://blog.naver.com/kshieldjr/221775539266)
 - **Junction X Seoul 2021 해커톤 후기**
     - [https://velog.io/@roeniss](https://velog.io/@roeniss/Junction-X-Seoul-2021-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0)
-- **2021 AWS GameDay 우승 - 리맴버__
+- __2021 AWS GameDay 우승 - 리맴버__
     - [https://blog.dramancompany.com/](https://blog.dramancompany.com/2021/06/awsgameday2021/?fbclid=IwAR174b_pNZgfDv8bSU4yGaG921dHgpmUkYZ_JRppe38jVzq3azfoDl-1hhg)
+- __AngelHack 2020 서울 우승 후기__
+    - [sehajyang.github.io](https://sehajyang.github.io/2020/07/26/20200726-angelhack-2020-seoul-review/)
