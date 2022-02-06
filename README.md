@@ -131,11 +131,11 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 모집: 02. 04(금) 10:00 ~ 17:30
-- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.facebook.com/woowahanTech/posts/3062865290620722)__
   - 분류: `모임`
   - 주최: 우아한형제들
   - 신청: 01. 27(목) ~ 02. 07(월)
-- __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+- __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://onoffmix.com/event/250958)__
   - 분류: `교육`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 01. 17(월) ~ 02. 09(수)
