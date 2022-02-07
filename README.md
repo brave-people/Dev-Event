@@ -131,11 +131,11 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존 클라우드
   - 모집: 02. 04(금) 10:00 ~ 17:30
-- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.facebook.com/woowahanTech/posts/3062865290620722)__
   - 분류: `모임`
   - 주최: 우아한형제들
   - 신청: 01. 27(목) ~ 02. 07(월)
-- __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208/)__
+- __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://onoffmix.com/event/250958)__
   - 분류: `교육`, `인공지능`
   - 주최: 과학기술정보통신부
   - 일시: 01. 17(월) ~ 02. 09(수)
@@ -167,10 +167,6 @@
   - 분류: `대외활동`
   - 주최: 정보통신기획평가원
   - 모집: 01. 17(월) ~ 02. 17(목)
-- __[Gitlab Korea 밋업 #9 - GitLab의 UI/UX 프로세스](https://festa.io/events/2085)__
-  - 분류: `웨비나`, `UI/UX`
-  - 주최: GitLab Korea
-  - 일시: 02. 17(목) 19:00 ~ 21:00
 - __[엔진엑스 플러스의 다양한 활용방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=81&sc_category=)__
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
