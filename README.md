@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[테크살롱 오픈이벤트 : 우아한멘토링 참여 신청](https://www.facebook.com/woowahanTech/posts/3062865290620722)__
-  - 분류: `모임`
-  - 주최: 우아한형제들
-  - 신청: 01. 27(목) ~ 02. 07(월)
-
 - __[디지털 다카포 2022](https://www.megazone.com/application_form_digitaldacapo2022-apply-220208)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 02. 08(화) 10:00 ~ 16:10
+
 - __[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집](https://onoffmix.com/event/250958)__
   - 분류: `교육`, `인공지능`
   - 주최: 과학기술정보통신부
@@ -159,10 +155,18 @@
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
   - 일시: 02. 17(목) 14:00 ~ 15:00
+- __[우테코 프론트엔드 멘토 두 분이 알려주는 개발자 학습방법](https://patch-failing-503.notion.site/e35726068279480fb8f01b90e5cd31ff)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 유데미
+  - 일시: 02. 17(목) 19:30 ~ 21:10
 - __[항공사 고객 만족도 예측 경진대회](https://dacon.io/competitions/official/235871/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 02. 07(월) ~ 02. 18(금)
+- __[스마트한 크로스 플랫폼 앱개발 플러터](http://busan-koreaitschool.co.kr/renewal2021/community/seminar_view.asp?idxnum=177&clkMater=&txtMenu=&GoTopage=1&selMater=)__
+  - 분류: `웨비나`, `플러터`
+  - 주최: 코리아 IT
+  - 일시: 02. 19(토) 13:00 ~ 15:00
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
@@ -171,6 +175,10 @@
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
   - 일시: 02.24(목) 9:00 ~ 17:00
+- __[공공조달빅데이터 경진대회](https://pps.go.kr/kor/bbs/view.do?key=00641&bbsSn=2111010006)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 조달청
+  - 일시: 11. 01(월) ~ 02. 25(금)
 - __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
   - 분류: `교육`
   - 주최: NVIDIA
