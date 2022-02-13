@@ -135,6 +135,10 @@
   - 분류: `대외활동`
   - 주최: 정보통신기획평가원
   - 모집: 01. 17(월) ~ 02. 17(목)
+- __[UPF 2022SS 참가팀 모집](https://www.unit.center/upf)__
+  - 분류: `대외활동`
+  - 주최: UNIT
+  - 모집: 02. 13(일) ~ 02. 26(토)
 - __[엔진엑스 플러스의 다양한 활용방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=81&sc_category=)__
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
