@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[컴공선배 알고리즘 캠프 4기](https://softsquared.notion.site/4-295b839756a04b969ea4187ff951e0aa)__
-  - 분류: `유료`, `교육`, `알고리즘`
-  - 주최: 컴공선배
-  - 신청: 01. 24(월) ~ 02. 11(금)
-  
-- __[GDG Korea WebTech Online Lightning Talk 2022](https://festa.io/events/2078)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: GDG Korea
-  - 일시: 02. 12(토) 14:30 ~ 15:30
 - __[공공데이터 개방‧활용 가속화 해커톤](https://onoffmix.com/event/250476)__
   - 분류: `해커톤`
   - 주최: 행정안전부
   - 모집: 01. 20(목) ~ 02. 14(월)
+
 - __[패턴인식 및 기계학습 겨울학교](https://aisociety.kr/prml2021w/)__
   - 분류: `세미나`, `인공지능`
   - 주최: 정보과학회 인공지능 소사이어티
@@ -159,6 +151,10 @@
   - 분류: `웨비나`, `테크`
   - 주최: 마켓컬리
   - 신청: 02. 09(수) 00:00 ~ 02. 21(월) 24:00
+- __[AWSKRUG DeepRacer 소모임](https://www.meetup.com/awskrug/events/283759906)__
+  - 분류: `모임`, `AI`
+  - 주최: AWSKRUG
+  - 일시: 02. 22(화) 19:00 ~ 20:00
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
@@ -171,6 +167,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 02. 24(목) 13:00 ~ 17:00
+- __[NVIDIA AI 개발자 밋업 - 음성 AI](https://festa.io/events/2113)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 02. 24(목) 14:00 ~ 16:00
 - __[공공조달빅데이터 경진대회](https://pps.go.kr/kor/bbs/view.do?key=00641&bbsSn=2111010006)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 조달청
