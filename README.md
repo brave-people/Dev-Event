@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[공공데이터 개방‧활용 가속화 해커톤](https://onoffmix.com/event/250476)__
-  - 분류: `해커톤`
-  - 주최: 행정안전부
-  - 모집: 01. 20(목) ~ 02. 14(월)
-
 - __[패턴인식 및 기계학습 겨울학교](https://aisociety.kr/prml2021w/)__
   - 분류: `세미나`, `인공지능`
   - 주최: 정보과학회 인공지능 소사이어티
   - 일시: 02. 16(수) ~ 02. 19(토)
+
 - __[소프트웨어 마에스트로 13기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
   - 분류: `대외활동`
   - 주최: 정보통신기획평가원
@@ -163,6 +159,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 02. 24(목) 11:00 ~ 12:00
+- __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
+  - 분류: `웨비나`, `보안`
+  - 주최: ComTrue
+  - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
 - __[GCP 입문을 위한 hands-on Labs day 2022 season1](https://festa.io/events/2112)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
@@ -195,6 +195,15 @@
 <br />
 
 ## 22년 03월
+- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
+  - 분류: `웨비나`, `보안`
+  - 주최: AWSKRUG
+  - 일시: 03. 30(수) 19:00 ~ 21:00
+
+- __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284016377/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 03. 30(수) 19:30 ~ 21:30
 - __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
