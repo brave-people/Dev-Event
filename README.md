@@ -151,6 +151,10 @@
   - 분류: `모임`, `AI`
   - 주최: AWSKRUG
   - 일시: 02. 22(화) 19:00 ~ 20:00
+- __[2월 우아한테크세미나: React Query와 상태관리](https://docs.google.com/forms/d/e/1FAIpQLScmhN-kfaat-u9-CH7vSTpLABff5a1hp0Ktiai5yU5YpIRPgQ/viewform)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 우아한형제들
+  - 신청: 02. 15(화) ~ 02. 21(월) 23:59
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
