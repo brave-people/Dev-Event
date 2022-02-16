@@ -199,11 +199,19 @@
 <br />
 
 ## 22년 03월
+- __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
+  - 분류: `교육`, `무료`
+  - 주최: 엘리스
+  - 접수: 02. 14(월) ~ 03. 13(일)
+
+- __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
+  - 분류: `경진대회`, `GIS`
+  - 주최: (주)한국에스리
+  - 접수: 02. 07(월) ~ 03. 25(금)
 - __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
   - 분류: `웨비나`, `보안`
   - 주최: AWSKRUG
   - 일시: 03. 30(수) 19:00 ~ 21:00
-
 - __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284016377/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWSKRUG
@@ -212,6 +220,11 @@
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
   - 모집: 01. 01(토) ~ 03. 31(목)
+- __[Golang 1.18 Release Party](https://festa.io/events/2124)__
+  - 분류: `웨비나`, `Go`
+  - 주최: Golang Korea
+  - 일시: 03. 31(목) 20:00 ~ 22:00
+
 
 <br />
 
