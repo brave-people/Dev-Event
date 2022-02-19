@@ -155,10 +155,14 @@
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 우아한형제들
   - 신청: 02. 15(화) ~ 02. 21(월) 23:59
+- __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
+  - 분류: `동아리`
+  - 주최: 디프만
+  - 마감: 02. 23(수) 23:59
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
-  - 일시: 02.24(목) 9:00 ~ 17:00
+  - 일시: 02. 24(목) 9:00 ~ 17:00
 - __[누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처](https://festa.io/events/2115)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
