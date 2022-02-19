@@ -158,7 +158,11 @@
 - __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
   - 분류: `동아리`
   - 주최: 디프만
-  - 마감: 02. 23(수) 23:59
+  - 모집: 02. 19(토) 00:00 ~ 02. 23(수) 23:59
+- __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
+  - 분류: `웨비나`, `보안`
+  - 주최: ComTrue
+  - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
@@ -167,14 +171,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 02. 24(목) 11:00 ~ 12:00
-- __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
-  - 분류: `웨비나`, `보안`
-  - 주최: ComTrue
-  - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
 - __[GCP 입문을 위한 hands-on Labs day 2022 season1](https://festa.io/events/2112)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 02. 24(목) 13:00 ~ 17:00
+- __[Tech & Career Forum](https://www.samsung-dsrecruit.com/tech_and_career/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 삼성
+  - 일시: 02. 24(목) 11:00 ~ 13:10
 - __[NVIDIA AI 개발자 밋업 - 음성 AI](https://festa.io/events/2113)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
