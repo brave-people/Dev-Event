@@ -191,7 +191,7 @@
 <br />
 
 ## 22년 03월
-- __[IT 커뮤니티 연합 해커톤, 제8회 UNITHON](https://unit.center/unithon)__
+- __[IT 커뮤니티 연합 해커톤, UNITHON 8TH](https://unit.center/unithon)__
   - 분류: `해커톤`, `무료`
   - 주최: UNIT
   - 접수: 02. 17(목) ~ 02. 27(일)
