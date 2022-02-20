@@ -114,35 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[패턴인식 및 기계학습 겨울학교](https://aisociety.kr/prml2021w/)__
-  - 분류: `세미나`, `인공지능`
-  - 주최: 정보과학회 인공지능 소사이어티
-  - 일시: 02. 16(수) ~ 02. 19(토)
-
-- __[소프트웨어 마에스트로 13기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
-  - 분류: `대외활동`
-  - 주최: 정보통신기획평가원
-  - 모집: 01. 17(월) ~ 02. 17(목)
-- __[엔진엑스 플러스의 다양한 활용방안](http://www.digitaltoday.co.kr/bbs/view.html?idxno=81&sc_category=)__
-  - 분류: `웨비나`, `nginx`
-  - 주최: 디지털투데이
-  - 일시: 02. 17(목) 14:00 ~ 15:00
-- __[우테코 프론트엔드 멘토 두 분이 알려주는 개발자 학습방법](https://patch-failing-503.notion.site/e35726068279480fb8f01b90e5cd31ff)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 유데미
-  - 일시: 02. 17(목) 19:30 ~ 21:10
-- __[항공사 고객 만족도 예측 경진대회](https://dacon.io/competitions/official/235871/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 02. 07(월) ~ 02. 18(금)
-- __[스마트한 크로스 플랫폼 앱개발 플러터](http://busan-koreaitschool.co.kr/renewal2021/community/seminar_view.asp?idxnum=177&clkMater=&txtMenu=&GoTopage=1&selMater=)__
-  - 분류: `웨비나`, `플러터`
-  - 주최: 코리아 IT
-  - 일시: 02. 19(토) 13:00 ~ 15:00
 - __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
   - 분류: `아이디어톤`
   - 주최: 미래와 소프트웨어재단
   - 모집: 12. 28(화) ~ 02. 20(일)
+  
 - __[뻔하지 않은 컬리의 개발자 성장기!](https://docs.google.com/forms/d/e/1FAIpQLSc7hbuPz90fUBREM2iXZCxZPsSZ3quzSnawiyI_927QHsMLfQ/viewform)__
   - 분류: `웨비나`, `테크`
   - 주최: 마켓컬리
@@ -187,6 +163,10 @@
   - 분류: `경진대회`, `빅데이터`
   - 주최: 조달청
   - 일시: 11. 01(월) ~ 02. 25(금)
+- __[NFTBank 미니 테크 세미나 1회](https://docs.google.com/forms/d/e/1FAIpQLScNNYmcp4uuczn5XskK8bHPnwrW7mKadKqVhOs4eGmWXfUJNw/viewform)__
+  - 분류: `NFT`
+  - 주최: NFTBank
+  - 모집: 02. 25(금) 23:00
 - __[UPF 2022SS 참가팀 모집](https://www.unit.center/upf)__
   - 분류: `대외활동`
   - 주최: UNIT
