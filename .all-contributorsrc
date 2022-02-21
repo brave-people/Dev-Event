@@ -384,6 +384,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "QURIAN",
+      "name": "QURIAN",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9678019?v=4",
+      "profile": "https://facebook.com/thequrian",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
