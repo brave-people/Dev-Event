@@ -171,6 +171,10 @@
   - 분류: `대외활동`
   - 주최: UNIT
   - 모집: 02. 13(일) ~ 02. 26(토)
+- __[IT 커뮤니티 연합 해커톤, UNITHON 8TH](https://unit.center/unithon)__
+  - 분류: `해커톤`, `무료`
+  - 주최: UNIT
+  - 접수: 02. 17(목) ~ 02. 27(일)
 - __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
   - 분류: `교육`
   - 주최: NVIDIA
@@ -195,6 +199,7 @@
   - 분류: `교육`, `무료`
   - 주최: 엘리스
   - 접수: 02. 14(월) ~ 03. 13(일)
+
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
