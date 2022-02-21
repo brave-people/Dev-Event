@@ -199,7 +199,11 @@
   - 분류: `교육`, `무료`
   - 주최: 엘리스
   - 접수: 02. 14(월) ~ 03. 13(일)
-  
+
+- __[2022 adiOS Blossom](https://festa.io/events/2121)__
+  - 분류: `iOS`, `주니어`
+  - 주최: adiOS Korea
+  - 일시: 03. 19(토)
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
