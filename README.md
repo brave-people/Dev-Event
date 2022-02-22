@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[Stop Covid-19 SW Challenge 아이디어 해커톤](https://www.etedu.co.kr/shop/item.php?it_id=1640589459)__
-  - 분류: `아이디어톤`
-  - 주최: 미래와 소프트웨어재단
-  - 모집: 12. 28(화) ~ 02. 20(일)
-  
-- __[뻔하지 않은 컬리의 개발자 성장기!](https://docs.google.com/forms/d/e/1FAIpQLSc7hbuPz90fUBREM2iXZCxZPsSZ3quzSnawiyI_927QHsMLfQ/viewform)__
-  - 분류: `웨비나`, `테크`
-  - 주최: 마켓컬리
-  - 신청: 02. 09(수) 00:00 ~ 02. 21(월) 24:00
 - __[AWSKRUG DeepRacer 소모임](https://www.meetup.com/awskrug/events/283759906)__
   - 분류: `모임`, `AI`
   - 주최: AWSKRUG
   - 일시: 02. 22(화) 19:00 ~ 20:00
-- __[2월 우아한테크세미나: React Query와 상태관리](https://docs.google.com/forms/d/e/1FAIpQLScmhN-kfaat-u9-CH7vSTpLABff5a1hp0Ktiai5yU5YpIRPgQ/viewform)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 우아한형제들
-  - 신청: 02. 15(화) ~ 02. 21(월) 23:59
+
 - __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
   - 분류: `동아리`
   - 주최: 디프만
@@ -167,6 +155,10 @@
   - 분류: `NFT`
   - 주최: NFTBank
   - 모집: 02. 25(금) 23:00
+- __[GroupBy 매칭 프로그램](https://groupby.oopy.io/program2/dev)__
+  - 분류: `채용`
+  - 주최: groupby
+  - 모집: 02. 22(화) ~ 02. 25(금)
 - __[프론트엔드 개발자 라이브 QnA 세션](https://festa.io/events/2123)__
   - 분류: `프론트엔드`
   - 주최: 당근마켓
