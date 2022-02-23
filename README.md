@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[AWSKRUG DeepRacer 소모임](https://www.meetup.com/awskrug/events/283759906)__
-  - 분류: `모임`, `AI`
-  - 주최: AWSKRUG
-  - 일시: 02. 22(화) 19:00 ~ 20:00
-
 - __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
   - 분류: `동아리`
   - 주최: 디프만
   - 모집: 02. 19(토) 00:00 ~ 02. 23(수) 23:59
+
 - __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
   - 분류: `웨비나`, `보안`
   - 주최: ComTrue
@@ -195,11 +191,15 @@
 <br />
 
 ## 22년 03월
+- __['애자일 코리아 & mySUNI' 3월 밋업](https://festa.io/events/2134)__
+  - 분류: `모임`
+  - 주최: 애자일 코리아
+  - 일시: 03. 08(화) 14:00 ~ 16:00
+  
 - __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
   - 분류: `교육`, `무료`
   - 주최: 엘리스
   - 접수: 02. 14(월) ~ 03. 13(일)
-
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
