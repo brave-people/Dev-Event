@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[디프만 11기 모집](https://docs.google.com/forms/d/e/1FAIpQLScwpMqMufjNJYZPGFtaXrYOS7gAOsNPjAkfobbg79-sqapgNw/viewform)__
-  - 분류: `동아리`
-  - 주최: 디프만
-  - 모집: 02. 19(토) 00:00 ~ 02. 23(수) 23:59
-
 - __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
   - 분류: `웨비나`, `보안`
   - 주최: ComTrue
   - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
+  
 - __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
   - 분류: `웨비나`, `AI/ML`
   - 주최: AWS
@@ -195,7 +191,11 @@
   - 분류: `모임`
   - 주최: 애자일 코리아
   - 일시: 03. 08(화) 14:00 ~ 16:00
-  
+
+- __[엔텔스 10년 차 현직자와 스프링 기반 웹 개발 실무 경험하기](https://comento.kr/edu/learn/ITSW/%EC%9B%B9%EA%B0%9C%EB%B0%9C-G1770)__
+  - 분류: `교육`, `무료`
+  - 주최: 코멘토
+  - 모집: 02. 24(목) ~ 03. 08(화)
 - __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
   - 분류: `교육`, `무료`
   - 주최: 엘리스
