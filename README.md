@@ -114,35 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[2022 Dreams Come True](https://cometrue.ai/index.php/20220223_webinar)__
-  - 분류: `웨비나`, `보안`
-  - 주최: ComTrue
-  - 일시: 02. 23(수) 14:00 ~ 02. 24(목) 14:00
-  
-- __[AWS Innovate – AI/ML 특집](https://aws.amazon.com/ko/events/aws-innovate/machine-learning)__
-  - 분류: `웨비나`, `AI/ML`
-  - 주최: AWS
-  - 일시: 02. 24(목) 9:00 ~ 17:00
-- __[누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처](https://festa.io/events/2115)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 02. 24(목) 11:00 ~ 12:00
-- __[GCP 입문을 위한 hands-on Labs day 2022 season1](https://festa.io/events/2112)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 02. 24(목) 13:00 ~ 17:00
-- __[Tech & Career Forum](https://www.samsung-dsrecruit.com/tech_and_career/)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 삼성
-  - 일시: 02. 24(목) 11:00 ~ 13:10
-- __[NVIDIA AI 개발자 밋업 - 음성 AI](https://festa.io/events/2113)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 02. 24(목) 14:00 ~ 16:00
 - __[공공조달빅데이터 경진대회](https://pps.go.kr/kor/bbs/view.do?key=00641&bbsSn=2111010006)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 조달청
   - 일시: 11. 01(월) ~ 02. 25(금)
+  
 - __[NFTBank 미니 테크 세미나 1회](https://docs.google.com/forms/d/e/1FAIpQLScNNYmcp4uuczn5XskK8bHPnwrW7mKadKqVhOs4eGmWXfUJNw/viewform)__
   - 분류: `NFT`
   - 주최: NFTBank
@@ -200,6 +176,10 @@
   - 분류: `교육`, `무료`
   - 주최: 엘리스
   - 접수: 02. 14(월) ~ 03. 13(일)
+- __[AI SPARK 챌린지](https://aifactory.notion.site/3-AI-SPARK-08f0d419637b4536a8949c13af375a10)__
+  - 분류: `경진대회`, `AI`
+  - 주최: 인공지능팩토리
+  - 접수: 02. 17(목) ~ 03. 17(목)
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
