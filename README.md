@@ -114,35 +114,11 @@
 <br />
 
 ## 22년 02월
-- __[공공조달빅데이터 경진대회](https://pps.go.kr/kor/bbs/view.do?key=00641&bbsSn=2111010006)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 조달청
-  - 일시: 11. 01(월) ~ 02. 25(금)
-  
-- __[NFTBank 미니 테크 세미나 1회](https://docs.google.com/forms/d/e/1FAIpQLScNNYmcp4uuczn5XskK8bHPnwrW7mKadKqVhOs4eGmWXfUJNw/viewform)__
-  - 분류: `NFT`
-  - 주최: NFTBank
-  - 모집: 02. 25(금) 23:00
-- __[GroupBy 매칭 프로그램](https://groupby.oopy.io/program2/dev)__
-  - 분류: `채용`
-  - 주최: groupby
-  - 모집: 02. 22(화) ~ 02. 25(금)
-- __[프론트엔드 개발자 라이브 QnA 세션](https://festa.io/events/2123)__
-  - 분류: `프론트엔드`
-  - 주최: 당근마켓
-  - 일시: 02. 25(금) 19:00 ~ 20:30
-- __[UPF 2022SS 참가팀 모집](https://www.unit.center/upf)__
-  - 분류: `대외활동`
-  - 주최: UNIT
-  - 모집: 02. 13(일) ~ 02. 26(토)
-- __[IT 커뮤니티 연합 해커톤, UNITHON 8TH](https://unit.center/unithon)__
-  - 분류: `해커톤`, `무료`
-  - 주최: UNIT
-  - 접수: 02. 17(목) ~ 02. 27(일)
 - __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
   - 분류: `교육`
   - 주최: NVIDIA
   - 모집: 01. 17(월) ~ 02. 28(월)
+
 - __[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
@@ -163,11 +139,19 @@
 <br />
 
 ## 22년 03월
+- __[브랜디 LABs Talk, 기술조직 채용설명회](https://www.wanted.co.kr/events/brandi)__
+  - 분류: `온라인`, `채용`
+  - 주최: 브랜디
+  - 일시: 03. 03(목) ~ 03. 04(금)
+
+- __[알토스벤처스 X 6개 스타트업 채용 설명회](https://okky.kr/article/1167018)__
+  - 분류: `온라인`, `채용`
+  - 주최: 안될과학
+  - 일시: 03. 03(목) ~ 03. 04(금)
 - __['애자일 코리아 & mySUNI' 3월 밋업](https://festa.io/events/2134)__
   - 분류: `모임`
   - 주최: 애자일 코리아
   - 일시: 03. 08(화) 14:00 ~ 16:00
-
 - __[엔텔스 10년 차 현직자와 스프링 기반 웹 개발 실무 경험하기](https://comento.kr/edu/learn/ITSW/%EC%9B%B9%EA%B0%9C%EB%B0%9C-G1770)__
   - 분류: `교육`, `무료`
   - 주최: 코멘토
@@ -188,6 +172,10 @@
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
   - 접수: 02. 07(월) ~ 03. 25(금)
+- __[딥러닝기반 데이터 처리분석 TensorFolw2.0](http://edu.openhpc.or.kr/openhpc/educ/offline/offlineDetailView.do?offlineId=OFL000000000000100)__
+  - 분류: `교육`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 02. 21(월) ~ 03. 29(화)
 - __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
   - 분류: `웨비나`, `보안`
   - 주최: AWSKRUG
