@@ -211,6 +211,14 @@
 
 <br />
 
+## 22년 5월
+- __[제4회 오픈 인프라 개발 경진 대회 (OIDC 2022)](http://www.oidc.co.kr/)__
+  - 분류: `클라우드`, `경진대회`
+  - 주최: 맨텍
+  - 일시: 04. 04(월) ~ 05. 09(월)
+
+<br />
+
 ## 22년 06월
 - __[nexon developers conference 22](https://ndc.nexon.com/main)__
   - 분류: `컨퍼런스`
