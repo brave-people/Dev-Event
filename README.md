@@ -143,7 +143,6 @@
   - 분류: `온라인`, `채용`
   - 주최: 브랜디
   - 일시: 03. 03(목) ~ 03. 04(금)
-
 - __[알토스벤처스 X 6개 스타트업 채용 설명회](https://okky.kr/article/1167018)__
   - 분류: `온라인`, `채용`
   - 주최: 안될과학
@@ -156,6 +155,10 @@
   - 분류: `교육`, `무료`
   - 주최: 코멘토
   - 모집: 02. 24(목) ~ 03. 08(화)
+- __[GitHub Learning Journey: DevOps](https://resources.github.com/webcasts/kr-DevOps-Security/)__
+  - 분류: `웨비나`, `DevOps`
+  - 주최: Github
+  - 일시: 03. 11(금) 14:00 ~ 15:00
 - __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
   - 분류: `교육`, `무료`
   - 주최: 엘리스
@@ -172,6 +175,10 @@
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
   - 일시: 03. 19(토)
+- __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
+  - 분류: `웨비나`, `Security`
+  - 주최: Github
+  - 일시: 03. 23(수) 14:00 ~ 15:00
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
