@@ -113,40 +113,20 @@
 
 <br />
 
-## 22년 02월
-- __[NVIDIA DLI 앰배서더 챌린지 2022](https://festa.io/events/2071)__
-  - 분류: `교육`
-  - 주최: NVIDIA
-  - 모집: 01. 17(월) ~ 02. 28(월)
-
-- __[한국어 문장 관계 분류 경진대회](https://dacon.io/competitions/official/235875/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 01. 28(금) ~ 02. 28(월)
-- __[nexon developers conference 22 발표자 모집](https://ndc.nexon.com/main)__
-  - 분류: `컨퍼런스`
-  - 주최: 넥슨
-  - 일시: 02. 03(목) ~ 02. 28(월)
-- __[당신의 포트폴리오를 리뷰합니다.](https://dangpori.oopy.io/)__
-  - 분류: `모임`, `취업`
-  - 주최: 당포리
-  - 모집: 02. 11(금) ~ 02. 28(월)
-- __[비용 낮추고 고객 만족도 높이는 'AI 비서' 챗봇의 모든 것](https://event-us.kr/bloter/event/42108)__
-  - 분류: `챗봇`
-  - 주최: 블로터TV
-  - 일시: 02. 28(월) 16:00 ~ 17:00
-
-<br />
-
 ## 22년 03월
 - __[브랜디 LABs Talk, 기술조직 채용설명회](https://www.wanted.co.kr/events/brandi)__
   - 분류: `온라인`, `채용`
   - 주최: 브랜디
   - 일시: 03. 03(목) ~ 03. 04(금)
+
 - __[알토스벤처스 X 6개 스타트업 채용 설명회](https://okky.kr/article/1167018)__
   - 분류: `온라인`, `채용`
   - 주최: 안될과학
   - 일시: 03. 03(목) ~ 03. 04(금)
+- __[조엘리스트 IT특강](https://docs.google.com/forms/d/e/1FAIpQLScriVEYeUE2nyp4FIKhWg-VTt_BqQIqXlcq6R2sZf5f_RKKsg/viewform)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 조엘리스트
+  - 일시: 03. 05(토) 20:00 ~ 21:10
 - __['애자일 코리아 & mySUNI' 3월 밋업](https://festa.io/events/2134)__
   - 분류: `모임`
   - 주최: 애자일 코리아
@@ -171,10 +151,18 @@
   - 분류: `경진대회`, `AI`
   - 주최: 인공지능팩토리
   - 접수: 02. 17(목) ~ 03. 17(목)
+- __[AI SPARK 챌린지](https://dacon.io/competitions/official/235876/overview/description)__
+  - 분류: `경진대회`, `AI`
+  - 주최: 데이콘
+  - 일시: 03. 07(월) ~ 03. 18(금)
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
   - 일시: 03. 19(토)
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/284399611/)__
+  - 분류: `iOS`, `주니어`
+  - 주최: AWSKRUG
+  - 일시: 03. 22(화) 19:00
 - __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `Security`
   - 주최: Github
@@ -183,6 +171,10 @@
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
   - 접수: 02. 07(월) ~ 03. 25(금)
+- __[2022년 핀테크 아카데미 2회차](https://docs.google.com/forms/d/e/1FAIpQLSdMxLqqsJi09FaOacYl17hf_QPxanrJXoDx9cGXOlRph4jHCQ/viewform)__
+  - 분류: `교육`, `핀테크`
+  - 주최: KISA
+  - 접수: 02. 15(월) ~ 03. 25(금)
 - __[제6회 AI 차세대 컨택센터 컨퍼런스](https://conference.etnews.com/conf_info.html?uid=198)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: 전자신문인터넷
@@ -207,6 +199,10 @@
   - 분류: `웨비나`, `Go`
   - 주최: Golang Korea
   - 일시: 03. 31(목) 20:00 ~ 22:00
+- __[GAME INDUSTRY DAY](https://festa.io/events/2144)__
+  - 분류: `웨비나`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 03. 31(목) 14:00 ~ 18:00
 
 <br />
 
