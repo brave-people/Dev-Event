@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -406,6 +406,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://facebook.com/thequrian"><img src="https://avatars.githubusercontent.com/u/9678019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>QURIAN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=QURIAN" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Softsquared-Yunix"><img src="https://avatars.githubusercontent.com/u/101088303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Softsquared-Yunix</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Softsquared-Yunix" title="Code">💻</a></td>
   </tr>
 </table>
 
