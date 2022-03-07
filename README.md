@@ -275,6 +275,8 @@
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
 | 엘리스 | [Homepage](https://elice.io/home) |
+| 라이징 캠프 | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
+| 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 
 <br />
 
