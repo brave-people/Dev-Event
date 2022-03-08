@@ -127,6 +127,10 @@
   - 분류: `교육`, `무료`
   - 주최: 코멘토
   - 모집: 02. 24(목) ~ 03. 08(화)
+- __[쏘카(SOCAR) 채용설명회](https://www.wanted.co.kr/events/socar)__
+  - 분류: `온라인`, `채용`
+  - 주최: 쏘카
+  - 일시: 03. 10(목)) 19:30 ~ 20:40
 - __[GitHub Learning Journey: DevOps](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
@@ -216,6 +220,10 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: 한국인공지능협회
   - 일시: 04. 13(수) ~ 04. 15(금)
+- __[협업툴 WORK 5.0 팀 목표와 워크레시피](https://festa.io/events/2153)__
+  - 분류: `일반`
+  - 주최: 플로우
+  - 일시: 04. 21(목) 15:00 ~ 16:00
 
 <br />
 
