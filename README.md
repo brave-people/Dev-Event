@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 03월
-- __['애자일 코리아 & mySUNI' 3월 밋업](https://festa.io/events/2134)__
-  - 분류: `모임`
-  - 주최: 애자일 코리아
-  - 일시: 03. 08(화) 14:00 ~ 16:00
-
-- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/ko-KR/awskrug/events/284014515)__
-  - 분류: `모임`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 03. 08(화) 19:00 ~ 21:00
-- __[엔텔스 10년 차 현직자와 스프링 기반 웹 개발 실무 경험하기](https://comento.kr/edu/learn/ITSW/%EC%9B%B9%EA%B0%9C%EB%B0%9C-G1770)__
-  - 분류: `교육`, `무료`
-  - 주최: 코멘토
-  - 모집: 02. 24(목) ~ 03. 08(화)
 - __[쏘카(SOCAR) 채용설명회](https://www.wanted.co.kr/events/socar)__
   - 분류: `온라인`, `채용`
   - 주최: 쏘카
-  - 일시: 03. 10(목)) 19:30 ~ 20:40
+  - 일시: 03. 10(목) 19:30 ~ 20:40
+  
 - __[GitHub Learning Journey: DevOps](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `DevOps`
   - 주최: Github
