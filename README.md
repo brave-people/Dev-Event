@@ -139,6 +139,10 @@
   - 분류: `경진대회`, `AI`
   - 주최: 인공지능팩토리
   - 접수: 02. 17(목) ~ 03. 17(목)
+- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #1편](https://festa.io/events/2157)__
+  - 분류: `웨비나`, `인프라`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 03. 17(목) 11:00 ~ 12:00
 - __[AI SPARK 챌린지](https://dacon.io/competitions/official/235876/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
@@ -151,6 +155,10 @@
   - 분류: `iOS`, `주니어`
   - 주최: AWSKRUG
   - 일시: 03. 22(화) 19:00
+- __[캐치 커리어콘 빅데이터](https://www.catch.co.kr/CatchCafe/CareerCon/2)__
+  - 분류: `웨비나`, `빅데이터`
+  - 주최: 캐치
+  - 일시: 03. 22(화) - 03. 24(목)
 - __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `Security`
   - 주최: Github
