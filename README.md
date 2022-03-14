@@ -114,27 +114,15 @@
 <br />
 
 ## 22년 03월
-- __[쏘카(SOCAR) 채용설명회](https://www.wanted.co.kr/events/socar)__
-  - 분류: `온라인`, `채용`
-  - 주최: 쏘카
-  - 일시: 03. 10(목) 19:30 ~ 20:40
-  
-- __[GitHub Learning Journey: DevOps](https://resources.github.com/webcasts/kr-DevOps-Security/)__
-  - 분류: `웨비나`, `DevOps`
-  - 주최: Github
-  - 일시: 03. 11(금) 14:00 ~ 15:00
-- __[엘리스 SW 엔지니어 트랙 2기](https://festa.io/events/2127)__
-  - 분류: `교육`, `무료`
-  - 주최: 엘리스
-  - 접수: 02. 14(월) ~ 03. 13(일)
-- __[Flutter Festival Daejeon](https://festa.io/events/2150)__
-  - 분류: `온라인`, `플러터`
-  - 주최: GDG 대전
-  - 일시: 03. 12(토) ~ 03. 13(일) 16:00
 - __[3차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/252178)__
   - 분류: `교육`, `무료`
   - 주최: 전자정부 표준프레임워크 센터
   - 일시: 03. 14(월) ~ 03. 20(일)
+
+- __[Udemy Korea 학습 멘토단](https://applymentor.pming.kr/)__
+  - 분류: `스터디`
+  - 주최: Udemy Korea x 프밍스터디
+  - 모집: 03. 14(월) ~ 03. 17(목)
 - __[AI SPARK 챌린지](https://aifactory.notion.site/3-AI-SPARK-08f0d419637b4536a8949c13af375a10)__
   - 분류: `경진대회`, `AI`
   - 주최: 인공지능팩토리
@@ -147,6 +135,10 @@
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
   - 일시: 03. 07(월) ~ 03. 18(금)
+- __[컴공선배 알고리즘 캠프 5기](https://algorithmcamp.oopy.io/)__
+  - 분류: `유료`, `교육`, `알고리즘`
+  - 주최: 컴공선배
+  - 신청: 03. 07(월) ~ 03. 18(금)
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
@@ -155,6 +147,14 @@
   - 분류: `iOS`, `주니어`
   - 주최: AWSKRUG
   - 일시: 03. 22(화) 19:00
+- __[온라인 GPU 테크놀로지 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/training/?ncid=ref-inpa-667470)__
+  - 분류: `웨비나`, `GPU`
+  - 주최: NVIDIA
+  - 일시: 03. 21(월) ~ 03. 24(목)
+- __[엔진엑스 플러스의 웹방화벽과 인그레스 컨트롤러 활용](https://docs.google.com/forms/d/e/1FAIpQLSdIVd6z9pDGB46ij_c72xRjG61H2lEspP14raRnzKIWYT2Byg/viewform)__
+  - 분류: `웨비나`, `엔진엑스`
+  - 주최: 디지털투데이
+  - 일시: 03. 24(목) 14:00 ~ 15:00
 - __[캐치 커리어콘 빅데이터](https://www.catch.co.kr/CatchCafe/CareerCon/2)__
   - 분류: `웨비나`, `빅데이터`
   - 주최: 캐치
@@ -199,10 +199,10 @@
   - 분류: `웨비나`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 03. 31(목) 14:00 ~ 18:00
-- __[컴공선배 알고리즘 캠프 5기](https://algorithmcamp.oopy.io/)__
-  - 분류: `유료`, `교육`, `알고리즘`
-  - 주최: 컴공선배
-  - 신청: 03. 07(월) ~ 03. 18(금)
+- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
+  - 분류: `채용`
+  - 주최: 원티드
+  - 일시: 03. 10(목) ~ 03. 31(목)
 
 <br />
 
