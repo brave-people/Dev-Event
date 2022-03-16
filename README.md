@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[3차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/252178)__
-  - 분류: `교육`, `무료`
-  - 주최: 전자정부 표준프레임워크 센터
-  - 일시: 03. 14(월) ~ 03. 20(일)
-
 - __[Udemy Korea 학습 멘토단](https://applymentor.pming.kr/)__
   - 분류: `스터디`
   - 주최: Udemy Korea x 프밍스터디
   - 모집: 03. 14(월) ~ 03. 17(목)
+
 - __[AI SPARK 챌린지](https://aifactory.notion.site/3-AI-SPARK-08f0d419637b4536a8949c13af375a10)__
   - 분류: `경진대회`, `AI`
   - 주최: 인공지능팩토리
@@ -147,14 +143,26 @@
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
   - 일시: 03. 19(토)
+- __[3차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/252178)__
+  - 분류: `교육`, `무료`
+  - 주최: 전자정부 표준프레임워크 센터
+  - 일시: 03. 14(월) ~ 03. 20(일)
 - __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/284399611/)__
   - 분류: `iOS`, `주니어`
   - 주최: AWSKRUG
   - 일시: 03. 22(화) 19:00
+- __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
+  - 분류: `웨비나`, `Security`
+  - 주최: Github
+  - 일시: 03. 23(수) 14:00 ~ 15:00
 - __[온라인 GPU 테크놀로지 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/training/?ncid=ref-inpa-667470)__
   - 분류: `웨비나`, `GPU`
   - 주최: NVIDIA
   - 일시: 03. 21(월) ~ 03. 24(목)
+- __[AWS AI/ML 스페셜 웨비나](https://pages.awscloud.com/aiml-special-webinar-kr-reg.html)__
+  - 분류: `웨비나`, `AI`
+  - 주최: AWS
+  - 일시: 03. 23(수) ~ 03. 24(목)
 - __[엔진엑스 플러스의 웹방화벽과 인그레스 컨트롤러 활용](https://docs.google.com/forms/d/e/1FAIpQLSdIVd6z9pDGB46ij_c72xRjG61H2lEspP14raRnzKIWYT2Byg/viewform)__
   - 분류: `웨비나`, `엔진엑스`
   - 주최: 디지털투데이
@@ -163,10 +171,6 @@
   - 분류: `웨비나`, `빅데이터`
   - 주최: 캐치
   - 일시: 03. 22(화) - 03. 24(목)
-- __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
-  - 분류: `웨비나`, `Security`
-  - 주최: Github
-  - 일시: 03. 23(수) 14:00 ~ 15:00
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
@@ -215,11 +219,15 @@
 <br />
 
 ## 22년 04월
+- __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-seminar-reg.html)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 03. 29(화) ~ 04. 01(금)
+
 - __[제 20대 대선 후보 정책•공약 시각화 경진대회](https://dacon.io/competitions/official/235891/overview/prize)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
   - 일시: 03. 07(수) ~ 04. 15(금)
-
 - __[2022 국제인공지능대전](https://onoffmix.com/event/249605)__
   - 분류: `컨퍼런스`, `AI`
   - 주최: 한국인공지능협회
