@@ -163,14 +163,18 @@
   - 분류: `웨비나`, `AI`
   - 주최: AWS
   - 일시: 03. 23(수) ~ 03. 24(목)
-- __[엔진엑스 플러스의 웹방화벽과 인그레스 컨트롤러 활용](https://docs.google.com/forms/d/e/1FAIpQLSdIVd6z9pDGB46ij_c72xRjG61H2lEspP14raRnzKIWYT2Byg/viewform)__
-  - 분류: `웨비나`, `엔진엑스`
-  - 주최: 디지털투데이
-  - 일시: 03. 24(목) 14:00 ~ 15:00
 - __[캐치 커리어콘 빅데이터](https://www.catch.co.kr/CatchCafe/CareerCon/2)__
   - 분류: `웨비나`, `빅데이터`
   - 주최: 캐치
   - 일시: 03. 22(화) - 03. 24(목)
+- __[엔진엑스 플러스의 웹방화벽과 인그레스 컨트롤러 활용](https://docs.google.com/forms/d/e/1FAIpQLSdIVd6z9pDGB46ij_c72xRjG61H2lEspP14raRnzKIWYT2Byg/viewform)__
+  - 분류: `웨비나`, `엔진엑스`
+  - 주최: 디지털투데이
+  - 일시: 03. 24(목) 14:00 ~ 15:00
+- __[MongoDB Atlas Migration 실행하고 하루만에 데이터 파이프라인 구축하기](https://events.mongodb.com/teamspartaatlascustomerstorykr)__
+  - 분류: `웨비나`, `MongoDB`
+  - 주최: mongoDB
+  - 일시: 03. 24(목) 14:00 ~ 15:00
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
@@ -224,6 +228,10 @@
   - 주최: AWS
   - 일시: 03. 29(화) ~ 04. 01(금)
 
+- __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 04. 13(수) 10:00 ~ 14:00
 - __[제 20대 대선 후보 정책•공약 시각화 경진대회](https://dacon.io/competitions/official/235891/overview/prize)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
