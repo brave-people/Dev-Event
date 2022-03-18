@@ -114,31 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[Udemy Korea 학습 멘토단](https://applymentor.pming.kr/)__
-  - 분류: `스터디`
-  - 주최: Udemy Korea x 프밍스터디
-  - 모집: 03. 14(월) ~ 03. 17(목)
-
-- __[AI SPARK 챌린지](https://aifactory.notion.site/3-AI-SPARK-08f0d419637b4536a8949c13af375a10)__
-  - 분류: `경진대회`, `AI`
-  - 주최: 인공지능팩토리
-  - 접수: 02. 17(목) ~ 03. 17(목)
-- __[기업형 IT동아리 YAPP 20기 신규 회원 모집](https://www.yapp.co.kr)__
-  - 분류: `동아리`
-  - 주최: YAPP
-  - 모집: 03. 06(일) ~ 03. 17(목)
-- __[누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #1편](https://festa.io/events/2157)__
-  - 분류: `웨비나`, `인프라`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 03. 17(목) 11:00 ~ 12:00
-- __[AI SPARK 챌린지](https://dacon.io/competitions/official/235876/overview/description)__
-  - 분류: `경진대회`, `AI`
-  - 주최: 데이콘
-  - 일시: 03. 07(월) ~ 03. 18(금)
 - __[컴공선배 알고리즘 캠프 5기](https://algorithmcamp.oopy.io/)__
   - 분류: `유료`, `교육`, `알고리즘`
   - 주최: 컴공선배
   - 신청: 03. 07(월) ~ 03. 18(금)
+
 - __[2022 adiOS Blossom](https://festa.io/events/2121)__
   - 분류: `iOS`, `주니어`
   - 주최: adiOS Korea
@@ -207,6 +187,14 @@
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
   - 모집: 01. 01(토) ~ 03. 31(목)
+- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
+  - 분류: `채용`
+  - 주최: 원티드
+  - 일시: 03. 10(목) ~ 03. 31(목)
+- __[스마트해상물류 ICT멘토링](http://www.hanium.or.kr/portal/smart/businessOverview.do)__
+  - 분류: `맨토링`
+  - 주최: 해양수산부
+  - 일시: 02. 04(금) ~ 03. 31(목)
 - __[Golang 1.18 Release Party](https://festa.io/events/2124)__
   - 분류: `웨비나`, `Go`
   - 주최: Golang Korea
@@ -215,19 +203,19 @@
   - 분류: `웨비나`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 03. 31(목) 14:00 ~ 18:00
-- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
-  - 분류: `채용`
-  - 주최: 원티드
-  - 일시: 03. 10(목) ~ 03. 31(목)
 
 <br />
 
 ## 22년 04월
+- __[전복 나이 예측 경진대회](https://dacon.io/competitions/official/235877/overview/description)__
+  - 분류: `경진대회`
+  - 주최: 데이콘
+  - 일시: 03. 21(화) ~ 04. 01(금)
+
 - __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-seminar-reg.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
   - 일시: 03. 29(화) ~ 04. 01(금)
-
 - __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
