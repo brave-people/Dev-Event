@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[2022 adiOS Blossom](https://festa.io/events/2121)__
-  - 분류: `iOS`, `주니어`
-  - 주최: adiOS Korea
-  - 일시: 03. 19(토)
-  
-- __[3차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/252178)__
-  - 분류: `교육`, `무료`
-  - 주최: 전자정부 표준프레임워크 센터
-  - 일시: 03. 14(월) ~ 03. 20(일)
 - __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/284399611/)__
   - 분류: `iOS`, `주니어`
   - 주최: AWSKRUG
   - 일시: 03. 22(화) 19:00
+
 - __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `Security`
   - 주최: Github
@@ -163,6 +155,10 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: 전자신문인터넷
   - 일시: 03. 25(금) 09:30 ~ 16:30
+- __[안녕하세요 Korea, from W&B](https://conference.etnews.com/conf_info.html?uid=198)__
+  - 분류: `웨비나`, `AI`
+  - 주최: Deeplearning Playground
+  - 일시: 03. 26(토) 15:00 ~ 17:00
 - __[딥러닝기반 데이터 처리분석 TensorFolw2.0](http://edu.openhpc.or.kr/openhpc/educ/offline/offlineDetailView.do?offlineId=OFL000000000000100)__
   - 분류: `교육`, `AI`
   - 주최: 과학기술정보통신부
@@ -216,6 +212,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
   - 일시: 03. 29(화) ~ 04. 01(금)
+- __[Central MakeUs Challenge Demo Day](https://festa.io/events/2156)__
+  - 분류: `오프라인`, `프로젝트`
+  - 주최: MakeUs Challenge
+  - 일시: 04. 09(토) 13:00 ~ 17:00
+- __[구름 K-Digital Training 전액 국비 지원 교육 과정 모집](https://kdt.goorm.io/)__
+  - 분류: `교육`, `AI`, `쿠버네티스`
+  - 주최: 구름
+  - 일시: 03. 11(금) ~ 04. 12(화)
 - __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
