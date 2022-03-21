@@ -171,6 +171,10 @@
   - 분류: `웨비나`, `개발문화`
   - 주최: Gitlab Korea
   - 일시: 03. 29(화) 19:00 ~ 21:00
+- __[Mash-Up 12기 모집](https://mash-up.kr/)__
+  - 분류: `동아리`
+  - 주최: Mash-Up
+  - 일시: 03. 16(수) ~ 03. 29(화)
 - __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
   - 분류: `웨비나`, `보안`
   - 주최: AWSKRUG
