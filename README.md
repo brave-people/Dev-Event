@@ -143,6 +143,10 @@
   - 분류: `웨비나`, `MongoDB`
   - 주최: mongoDB
   - 일시: 03. 24(목) 14:00 ~ 15:00
+- __[[OKKY 3월 세미나] 서비스 개발자로 커리어 전환하기](https://okky.kr/article/1178766)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: okky
+  - 일시: 03. 24(목) 20:00 ~ 21:00
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
@@ -171,6 +175,10 @@
   - 분류: `동아리`
   - 주최: Mash-Up
   - 일시: 03. 16(수) ~ 03. 29(화)
+- __[드림플러스 IT PLUS - 웹 3.0](https://event-us.kr/dreamplusgangnam/event/42592)__
+  - 분류: `웨비나`
+  - 주최: 드림플러스
+  - 일시: 03. 29(화) 15:00 ~ 16:30
 - __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
   - 분류: `웨비나`, `보안`
   - 주최: AWSKRUG
@@ -216,6 +224,10 @@
   - 분류: `오프라인`, `프로젝트`
   - 주최: MakeUs Challenge
   - 일시: 04. 09(토) 13:00 ~ 17:00
+- __[[Ka-reer Up!] 2022 Client 경력 개발자 설명회](https://careers.kakao.com/jobs/P-12460)__
+  - 분류: `채용`, `FE`, `iOS`, `안드로이드`
+  - 주최: 카카오
+  - 일시: 03. 29(화) ~ 03. 31(목)
 - __[구름 K-Digital Training 전액 국비 지원 교육 과정 모집](https://kdt.goorm.io/)__
   - 분류: `교육`, `AI`, `쿠버네티스`
   - 주최: 구름
