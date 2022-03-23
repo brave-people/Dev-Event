@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/284399611/)__
-  - 분류: `iOS`, `주니어`
-  - 주최: AWSKRUG
-  - 일시: 03. 22(화) 19:00
-
 - __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
   - 분류: `웨비나`, `Security`
   - 주최: Github
   - 일시: 03. 23(수) 14:00 ~ 15:00
+
 - __[온라인 GPU 테크놀로지 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/training/?ncid=ref-inpa-667470)__
   - 분류: `웨비나`, `GPU`
   - 주최: NVIDIA
@@ -248,6 +244,11 @@
   - 분류: `일반`
   - 주최: 플로우
   - 일시: 04. 21(목) 15:00 ~ 16:00
+- __[GDG Korea WebTech Online 이력서 멘토링 2022](https://festa.io/events/2164)__
+  - 분류: `웨비나`, `멘토링`
+  - 주최: GDG Korea WebTech
+  - 일시: 04. 23(토) 14:00 ~ 17:00
+
 
 <br />
 
