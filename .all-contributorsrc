@@ -420,6 +420,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "happyOBO",
+      "name": "happyOBO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44173619?v=4",
+      "profile": "http://happyobo.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

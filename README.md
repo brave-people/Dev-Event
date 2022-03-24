@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -451,6 +451,7 @@
     <td align="center"><a href="https://github.com/Softsquared-Yunix"><img src="https://avatars.githubusercontent.com/u/101088303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Softsquared-Yunix</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Softsquared-Yunix" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jihee-dev"><img src="https://avatars.githubusercontent.com/u/42907876?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jihee.Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jihee-dev" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jinsim"><img src="https://avatars.githubusercontent.com/u/62461857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BeomJin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jinsim" title="Code">💻</a></td>
+    <td align="center"><a href="http://happyobo.github.io"><img src="https://avatars.githubusercontent.com/u/44173619?v=4?s=100" width="100px;" alt=""/><br /><sub><b>happyOBO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=happyOBO" title="Code">💻</a></td>
   </tr>
 </table>
 
