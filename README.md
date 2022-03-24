@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[GitHub Learning Journey: Security](https://resources.github.com/webcasts/kr-DevOps-Security/)__
-  - 분류: `웨비나`, `Security`
-  - 주최: Github
-  - 일시: 03. 23(수) 14:00 ~ 15:00
-
 - __[온라인 GPU 테크놀로지 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/training/?ncid=ref-inpa-667470)__
   - 분류: `웨비나`, `GPU`
   - 주최: NVIDIA
   - 일시: 03. 21(월) ~ 03. 24(목)
+
 - __[AWS AI/ML 스페셜 웨비나](https://pages.awscloud.com/aiml-special-webinar-kr-reg.html)__
   - 분류: `웨비나`, `AI`
   - 주최: AWS
@@ -265,6 +261,11 @@
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 07(화) ~ 06. 10(금)
+
+- __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
+  - 분류: `대회`, `인공지능`
+  - 주최: 에트리
+  - 일시: 03. 16(토) ~ 06. 30(일)
 
 <br />
 
