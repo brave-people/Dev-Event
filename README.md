@@ -114,35 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[온라인 GPU 테크놀로지 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/training/?ncid=ref-inpa-667470)__
-  - 분류: `웨비나`, `GPU`
-  - 주최: NVIDIA
-  - 일시: 03. 21(월) ~ 03. 24(목)
-
-- __[AWS AI/ML 스페셜 웨비나](https://pages.awscloud.com/aiml-special-webinar-kr-reg.html)__
-  - 분류: `웨비나`, `AI`
-  - 주최: AWS
-  - 일시: 03. 23(수) ~ 03. 24(목)
-- __[캐치 커리어콘 빅데이터](https://www.catch.co.kr/CatchCafe/CareerCon/2)__
-  - 분류: `웨비나`, `빅데이터`
-  - 주최: 캐치
-  - 일시: 03. 22(화) - 03. 24(목)
-- __[엔진엑스 플러스의 웹방화벽과 인그레스 컨트롤러 활용](https://docs.google.com/forms/d/e/1FAIpQLSdIVd6z9pDGB46ij_c72xRjG61H2lEspP14raRnzKIWYT2Byg/viewform)__
-  - 분류: `웨비나`, `엔진엑스`
-  - 주최: 디지털투데이
-  - 일시: 03. 24(목) 14:00 ~ 15:00
-- __[MongoDB Atlas Migration 실행하고 하루만에 데이터 파이프라인 구축하기](https://events.mongodb.com/teamspartaatlascustomerstorykr)__
-  - 분류: `웨비나`, `MongoDB`
-  - 주최: mongoDB
-  - 일시: 03. 24(목) 14:00 ~ 15:00
-- __[[OKKY 3월 세미나] 서비스 개발자로 커리어 전환하기](https://okky.kr/article/1178766)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: okky
-  - 일시: 03. 24(목) 20:00 ~ 21:00
 - __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
   - 분류: `경진대회`, `GIS`
   - 주최: (주)한국에스리
   - 접수: 02. 07(월) ~ 03. 25(금)
+  
 - __[2022년 핀테크 아카데미 2회차](https://docs.google.com/forms/d/e/1FAIpQLSdMxLqqsJi09FaOacYl17hf_QPxanrJXoDx9cGXOlRph4jHCQ/viewform)__
   - 분류: `교육`, `핀테크`
   - 주최: KISA
@@ -179,6 +155,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 03. 30(수) 19:30 ~ 21:30
+- __[클라우드 2022](https://sites.google.com/chosunbiz.com/cloud2022)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 데이터 드리븐
+  - 일시: 03. 30(수) 10:00 ~ 18:00
 - __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
