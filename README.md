@@ -188,6 +188,11 @@
   - 주최: 데이콘
   - 일시: 03. 21(화) ~ 04. 01(금)
 
+- __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
+  - 분류: `교육`, `백엔드`
+  - 주최: 우아한형제들
+  - 접수: 03. 25(금) ~ 04. 08(금)
+  - 일시: 05. 09(월) ~ 07. 08(금)
 - __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-seminar-reg.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
