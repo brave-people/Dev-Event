@@ -114,27 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[GIS (지리정보시스템) 활용한 Map Contest](https://www.esrikr.com/)__
-  - 분류: `경진대회`, `GIS`
-  - 주최: (주)한국에스리
-  - 접수: 02. 07(월) ~ 03. 25(금)
-  
-- __[2022년 핀테크 아카데미 2회차](https://docs.google.com/forms/d/e/1FAIpQLSdMxLqqsJi09FaOacYl17hf_QPxanrJXoDx9cGXOlRph4jHCQ/viewform)__
-  - 분류: `교육`, `핀테크`
-  - 주최: KISA
-  - 접수: 02. 15(월) ~ 03. 25(금)
-- __[제6회 AI 차세대 컨택센터 컨퍼런스](https://conference.etnews.com/conf_info.html?uid=198)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 전자신문인터넷
-  - 일시: 03. 25(금) 09:30 ~ 16:30
-- __[안녕하세요 Korea, from W&B](https://conference.etnews.com/conf_info.html?uid=198)__
-  - 분류: `웨비나`, `AI`
-  - 주최: Deeplearning Playground
-  - 일시: 03. 26(토) 15:00 ~ 17:00
 - __[딥러닝기반 데이터 처리분석 TensorFolw2.0](http://edu.openhpc.or.kr/openhpc/educ/offline/offlineDetailView.do?offlineId=OFL000000000000100)__
   - 분류: `교육`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 02. 21(월) ~ 03. 29(화)
+  
 - __[Gitlab Korea 밋업 #10 - 깃랩 백엔드 개발자의 일상](https://festa.io/events/2161)__
   - 분류: `웨비나`, `개발문화`
   - 주최: Gitlab Korea
@@ -179,6 +163,10 @@
   - 분류: `웨비나`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 03. 31(목) 14:00 ~ 18:00
+- __[[Ka-reer Up!] 2022 Client 경력 개발자 설명회](https://careers.kakao.com/jobs/P-12460)__
+  - 분류: `채용`, `FE`, `iOS`, `안드로이드`
+  - 주최: 카카오
+  - 일시: 03. 29(화) ~ 03. 31(목)
 
 <br />
 
@@ -196,10 +184,10 @@
   - 분류: `오프라인`, `프로젝트`
   - 주최: MakeUs Challenge
   - 일시: 04. 09(토) 13:00 ~ 17:00
-- __[[Ka-reer Up!] 2022 Client 경력 개발자 설명회](https://careers.kakao.com/jobs/P-12460)__
-  - 분류: `채용`, `FE`, `iOS`, `안드로이드`
-  - 주최: 카카오
-  - 일시: 03. 29(화) ~ 03. 31(목)
+- __[2022 adiOS Intro](https://festa.io/events/2192)__
+  - 분류: `모임`, `ios`
+  - 주최: adiOS
+  - 일시: 04. 09(토) 15:00 ~ 18:00
 - __[구름 K-Digital Training 전액 국비 지원 교육 과정 모집](https://kdt.goorm.io/)__
   - 분류: `교육`, `AI`, `쿠버네티스`
   - 주최: 구름
@@ -208,6 +196,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 04. 13(수) 10:00 ~ 14:00
+- __[전자정부 표준프레임워크 4.0 소개](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20040)__
+  - 분류: `온라인`
+  - 주최: OPDC
+  - 일시: 04. 13(수) 19:00
 - __[2022 인디크래프트](https://www.onoffmix.com/event/253249)__
   - 분류: `경진대회`
   - 주최: 성남시
@@ -228,7 +220,10 @@
   - 분류: `웨비나`, `멘토링`
   - 주최: GDG Korea WebTech
   - 일시: 04. 23(토) 14:00 ~ 17:00
-
+- __[제 1회 정보검색사례연구회 소모임](https://festa.io/events/2191)__
+  - 분류: `모임`, `검색`
+  - 주최: 한국정보검색사례연구회
+  - 일시: 04. 28(목) 19:30 ~ 21:30
 
 <br />
 
@@ -252,6 +247,13 @@
   - 일시: 03. 16(토) ~ 06. 30(일)
 
 <br />
+
+## 22년 07월
+- __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
+  - 분류: `대회`, `인공지능`
+  - 주최: 행정안전부
+  - 일시: 03. 28(월) ~ 07. 31(일)
+
 
 ---------------
 
