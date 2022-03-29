@@ -143,6 +143,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 데이터 드리븐
   - 일시: 03. 30(수) 10:00 ~ 18:00
+- __[우아한테크세미나 | 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://techblog.woowahan.com/7894/)__
+  - 분류: `웨비나`
+  - 주최: 우아한형제들
+  - 일시: 03. 31(목) 19:00 ~ 21:00
 - __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
@@ -180,6 +184,10 @@
   - 주최: 데이콘
   - 일시: 03. 21(화) ~ 04. 01(금)
 
+- __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
+  - 분류: `교육`, `백엔드`
+  - 주최: 우아한형제들
+  - 접수: 03. 25(금) ~ 04. 08(금)
 - __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-seminar-reg.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
