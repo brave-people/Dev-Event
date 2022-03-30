@@ -114,27 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[딥러닝기반 데이터 처리분석 TensorFolw2.0](http://edu.openhpc.or.kr/openhpc/educ/offline/offlineDetailView.do?offlineId=OFL000000000000100)__
-  - 분류: `교육`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 21(월) ~ 03. 29(화)
-  
-- __[Gitlab Korea 밋업 #10 - 깃랩 백엔드 개발자의 일상](https://festa.io/events/2161)__
-  - 분류: `웨비나`, `개발문화`
-  - 주최: Gitlab Korea
-  - 일시: 03. 29(화) 19:00 ~ 21:00
-- __[Mash-Up 12기 모집](https://mash-up.kr/)__
-  - 분류: `동아리`
-  - 주최: Mash-Up
-  - 일시: 03. 16(수) ~ 03. 29(화)
-- __[드림플러스 IT PLUS - 웹 3.0](https://event-us.kr/dreamplusgangnam/event/42592)__
-  - 분류: `웨비나`
-  - 주최: 드림플러스
-  - 일시: 03. 29(화) 15:00 ~ 16:30
 - __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
   - 분류: `웨비나`, `보안`
   - 주최: AWSKRUG
   - 일시: 03. 30(수) 19:00 ~ 21:00
+  
 - __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284016377/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWSKRUG
@@ -184,6 +168,10 @@
   - 주최: 데이콘
   - 일시: 03. 21(화) ~ 04. 01(금)
 
+- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/awskrug/events/284545979/)__
+  - 분류: `모임`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 일시: 04. 07(목) 19:00 ~ 20:00
 - __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
   - 분류: `교육`, `백엔드`
   - 주최: 우아한형제들
