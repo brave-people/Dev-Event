@@ -264,6 +264,7 @@
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 07(화) ~ 06. 10(금)
+  
 - __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
   - 분류: `대회`, `DevOps`, `AI`, `클라우드`
   - 주최: 마이크로소프트
