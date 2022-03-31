@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 03월
-- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/284014515/)__
-  - 분류: `웨비나`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 03. 30(수) 19:00 ~ 21:00
-  
-- __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284016377/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 03. 30(수) 19:30 ~ 21:30
-- __[클라우드 2022](https://sites.google.com/chosunbiz.com/cloud2022)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 데이터 드리븐
-  - 일시: 03. 30(수) 10:00 ~ 18:00
 - __[우아한테크세미나 | 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://techblog.woowahan.com/7894/)__
   - 분류: `웨비나`
   - 주최: 우아한형제들
   - 일시: 03. 31(목) 19:00 ~ 21:00
+
 - __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
   - 분류: `경진대회`
   - 주최: (사)한국블록체인기업진흥협회
@@ -224,10 +212,18 @@
   - 분류: `일반`
   - 주최: 플로우
   - 일시: 04. 21(목) 15:00 ~ 16:00
+- __[XR, 메타버스 분야 글로벌 네트워크의 시작 - AWE Nite Seoul 1](https://festa.io/events/2198)__
+  - 분류: `메타버스`
+  - 주최: AWE Nite Seoul
+  - 일시: 04. 21(목) 09:30 ~ 21:30
 - __[세계 보안 엑스포 2022](https://www.seconexpo.com/kor/main.asp)__
   - 분류: `일반`
   - 주최: 인포마마켓한국
   - 일시: 04. 20(수) ~ 04. 22(금)
+- __[2022 휴먼이해 인공지능 논문경진대회](hthttps://aifactory.space/competition/detail/2006)__
+  - 분류: `일반`
+  - 주최: 에트리
+  - 일시: 03. 16(수) ~ 04. 22(금)
 - __[GDG Korea WebTech Online 이력서 멘토링 2022](https://festa.io/events/2164)__
   - 분류: `웨비나`, `멘토링`
   - 주최: GDG Korea WebTech
