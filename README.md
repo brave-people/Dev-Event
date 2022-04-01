@@ -113,53 +113,24 @@
 
 <br />
 
-## 22년 03월
-- __[우아한테크세미나 | 실시간 음식배달 플랫폼에서 활용한 분산 이벤트 스트리밍](https://techblog.woowahan.com/7894/)__
-  - 분류: `웨비나`
-  - 주최: 우아한형제들
-  - 일시: 03. 31(목) 19:00 ~ 21:00
-
-- __[AMAXG BIZA DApp 개발자 경진대회](https://amaxgdapp.com)__
-  - 분류: `경진대회`
-  - 주최: (사)한국블록체인기업진흥협회
-  - 모집: 01. 01(토) ~ 03. 31(목)
-- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
-  - 분류: `채용`
-  - 주최: 원티드
-  - 일시: 03. 10(목) ~ 03. 31(목)
-- __[스마트해상물류 ICT멘토링](http://www.hanium.or.kr/portal/smart/businessOverview.do)__
-  - 분류: `맨토링`
-  - 주최: 해양수산부
-  - 일시: 02. 04(금) ~ 03. 31(목)
-- __[Golang 1.18 Release Party](https://festa.io/events/2124)__
-  - 분류: `웨비나`, `Go`
-  - 주최: Golang Korea
-  - 일시: 03. 31(목) 20:00 ~ 22:00
-- __[GAME INDUSTRY DAY](https://festa.io/events/2144)__
-  - 분류: `웨비나`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 03. 31(목) 14:00 ~ 18:00
-- __[프론트엔드 취준생을 위한 공부 꿀팁](https://zero-base.co.kr/event/school_FE)__
-  - 분류: `웨비나`
-  - 주최: 제로베이스
-  - 일시: 03. 31(목) 14:00 ~ 18:00
-- __[[Ka-reer Up!] 2022 Client 경력 개발자 설명회](https://careers.kakao.com/jobs/P-12460)__
-  - 분류: `채용`, `FE`, `iOS`, `안드로이드`
-  - 주최: 카카오
-  - 일시: 03. 29(화) ~ 03. 31(목)
-
-<br />
-
 ## 22년 04월
 - __[전복 나이 예측 경진대회](https://dacon.io/competitions/official/235877/overview/description)__
   - 분류: `경진대회`
   - 주최: 데이콘
   - 일시: 03. 21(화) ~ 04. 01(금)
 
+- __[2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/344f792e-e09f-46c2-b88f-a9273ea54b34)__
+  - 분류: `경진대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 04(금) ~ 04. 04(월)
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/awskrug/events/284545979/)__
   - 분류: `모임`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 04. 07(목) 19:00 ~ 20:00
+- __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
+  - 분류: `웨비나`, `멘토링`
+  - 주최: 캐치
+  - 일시: 04. 20(금) 20:00 ~ 21:30
 - __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
   - 분류: `교육`, `백엔드`
   - 주최: 우아한형제들
