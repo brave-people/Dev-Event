@@ -191,7 +191,7 @@
   - 분류: `일반`
   - 주최: 인포마마켓한국
   - 일시: 04. 20(수) ~ 04. 22(금)
-- __[2022 휴먼이해 인공지능 논문경진대회](hthttps://aifactory.space/competition/detail/2006)__
+- __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `일반`
   - 주최: 에트리
   - 일시: 03. 16(수) ~ 04. 22(금)
