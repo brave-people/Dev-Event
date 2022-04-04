@@ -107,38 +107,30 @@
 
 - 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
 - 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md), [12월](./2021/21_12.md)
-- 2022년 행사: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md)
+- 2022년 행사: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md), [04월](./2022/22_04.md)
 - 지난 개발자 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
 - 개발자 행사 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
 ## 22년 04월
-- __[전복 나이 예측 경진대회](https://dacon.io/competitions/official/235877/overview/description)__
-  - 분류: `경진대회`
-  - 주최: 데이콘
-  - 일시: 03. 21(화) ~ 04. 01(금)
-
 - __[2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/344f792e-e09f-46c2-b88f-a9273ea54b34)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 03. 04(금) ~ 04. 04(월)
+
+- __[2022 Cloud Study Jam - AI & ML 중급 과정](https://sites.google.com/view/studyjam-kr/ai-ml-%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95?authuser=0)__
+  - 분류: `스터디`
+  - 주최: Google
+  - 접수: 04. 04(월) ~ 04. 10(일)
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/awskrug/events/284545979/)__
   - 분류: `모임`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 04. 07(목) 19:00 ~ 20:00
-- __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
-  - 분류: `웨비나`, `멘토링`
-  - 주최: 캐치
-  - 일시: 04. 20(금) 20:00 ~ 21:30
 - __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
   - 분류: `교육`, `백엔드`
   - 주최: 우아한형제들
   - 접수: 03. 25(금) ~ 04. 08(금)
-- __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-seminar-reg.html)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 03. 29(화) ~ 04. 01(금)
 - __[Central MakeUs Challenge Demo Day](https://festa.io/events/2156)__
   - 분류: `오프라인`, `프로젝트`
   - 주최: MakeUs Challenge
@@ -155,6 +147,10 @@
   - 분류: `교육`, `AI`, `쿠버네티스`
   - 주최: 구름
   - 일시: 03. 11(금) ~ 04. 12(화)
+- __[Luniverse Web 3.0 for Green Universe](https://luniverse.io/2022/03/29/luniverse-web3-0-for-green-universe/)__
+  - 분류: `웨비나`, `NFT`
+  - 주최: 람다256
+  - 일시: 04. 12(화)
 - __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -179,6 +175,10 @@
   - 분류: `스터디`
   - 주최: 우아한형제들
   - 신청: 04. 04(월) ~ 04. 17(일)
+- __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
+  - 분류: `웨비나`, `멘토링`
+  - 주최: 캐치
+  - 일시: 04. 20(금) 20:00 ~ 21:30
 - __[Microsoft Everywhere 2022](https://mktoevents.com/Microsoft+Event/325223/157-GQE-382)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 마이크로소프트
@@ -215,6 +215,19 @@
   - 분류: `클라우드`, `경진대회`
   - 주최: 맨텍
   - 일시: 04. 04(월) ~ 05. 09(월)
+
+- __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 05. 10(화) ~ 05. 11(수)
+- __[코로나시대의 안드로이드 개발자들](https://event-us.kr/ted/event/43225)__
+  - 분류: `컨퍼런스`, `안드로이드`
+  - 주최: AWS
+  - 접수: 04. 04(월) ~ 05. 12(목)
+- __[Google Developer Student Club(GDSC) Lead 모집](https://event-us.kr/ted/event/43225)__
+  - 분류: `모임`
+  - 주최: Google Developers Korea
+  - 접수: 04. 01(금) ~ 05. 31(화)
 
 <br />
 
