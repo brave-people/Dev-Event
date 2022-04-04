@@ -203,6 +203,11 @@
   - 분류: `모임`, `검색`
   - 주최: 한국정보검색사례연구회
   - 일시: 04. 28(목) 19:30 ~ 21:30
+- __[2022 우아한스터디 참여 신청](https://event.stibee.com/v2/click/NDg3ODgvOTMzMDE5LzQzODk2Lw/aHR0cHM6Ly9wdWZmeS1zdGljay1mYTEubm90aW9uLnNpdGUvMjAyMi1jYTVmNDNmYzI1OWQ0NDZkODFmMzc2MjU2ZDE4Yjk5Yg)__
+  - 분류: `스터디`
+  - 주최: 우아한형제들
+  - 신청: 04. 04(월) ~ 04. 17(일)
+  - 일시: 05. 01(일) ~ 10. 31(화)
 
 <br />
 
