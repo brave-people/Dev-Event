@@ -220,6 +220,10 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: AWS
   - 접수: 04. 04(월) ~ 05. 12(목)
+- __[Google Developer Student Club(GDSC) Lead 모집](https://event-us.kr/ted/event/43225)__
+  - 분류: `모임`
+  - 주최: Google Developers Korea
+  - 접수: 04. 01(금) ~ 05. 31(화)
 
 <br />
 
