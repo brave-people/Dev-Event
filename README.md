@@ -171,6 +171,10 @@
   - 분류: `컨퍼런스`, `AI`
   - 주최: 한국인공지능협회
   - 일시: 04. 13(수) ~ 04. 15(금)
+- __[2022 우아한스터디 참여 신청](https://event.stibee.com/v2/click/NDg3ODgvOTMzMDE5LzQzODk2Lw/aHR0cHM6Ly9wdWZmeS1zdGljay1mYTEubm90aW9uLnNpdGUvMjAyMi1jYTVmNDNmYzI1OWQ0NDZkODFmMzc2MjU2ZDE4Yjk5Yg)__
+  - 분류: `스터디`
+  - 주최: 우아한형제들
+  - 신청: 04. 04(월) ~ 04. 17(일)
 - __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
   - 분류: `웨비나`, `멘토링`
   - 주최: 캐치
