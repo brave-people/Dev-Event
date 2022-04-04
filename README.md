@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -435,6 +435,7 @@
     <td align="center"><a href="https://github.com/jinsim"><img src="https://avatars.githubusercontent.com/u/62461857?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BeomJin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jinsim" title="Code">💻</a></td>
     <td align="center"><a href="http://happyobo.github.io"><img src="https://avatars.githubusercontent.com/u/44173619?v=4?s=100" width="100px;" alt=""/><br /><sub><b>happyOBO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=happyOBO" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kangjung"><img src="https://avatars.githubusercontent.com/u/28768760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>KangJungMin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kangjung" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/yhkee0404"><img src="https://avatars.githubusercontent.com/u/29868089?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yhkee0404</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yhkee0404" title="Code">💻</a></td>
   </tr>
 </table>
 
