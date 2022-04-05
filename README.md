@@ -183,6 +183,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 주최: 마이크로소프트
   - 일시: 04. 20(수) 14:00 ~ 15:00
+- __[NVIDIA AI 개발자 밋업 - TensorRT/Triton](https://festa.io/events/2205)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 04. 21(목) 14:00 ~ 16:00
 - __[협업툴 WORK 5.0 팀 목표와 워크레시피](https://festa.io/events/2153)__
   - 분류: `일반`
   - 주최: 플로우
@@ -203,9 +207,17 @@
   - 분류: `웨비나`, `멘토링`
   - 주최: GDG Korea WebTech
   - 일시: 04. 23(토) 14:00 ~ 17:00
+- __[NVIDIA Jetson 개발자 밋업 - Robotics](https://festa.io/events/2206)__
+  - 분류: `웨비나`, `로봇`
+  - 주최: NVIDIA
+  - 일시: 04. 26(화) 14:00 ~ 17:00
 - __[제 1회 정보검색사례연구회 소모임](https://festa.io/events/2191)__
   - 분류: `모임`, `검색`
   - 주최: 한국정보검색사례연구회
+  - 일시: 04. 28(목) 19:30 ~ 21:30
+- __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284946336/)__
+  - 분류: `모임`, `AWS`
+  - 주최: AWSKRUG
   - 일시: 04. 28(목) 19:30 ~ 21:30
 
 <br />
