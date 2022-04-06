@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[2022 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/notice/show/344f792e-e09f-46c2-b88f-a9273ea54b34)__
-  - 분류: `경진대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 03. 04(금) ~ 04. 04(월)
-
 - __[2022 Cloud Study Jam - AI & ML 중급 과정](https://sites.google.com/view/studyjam-kr/ai-ml-%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95?authuser=0)__
   - 분류: `스터디`
   - 주최: Google
   - 접수: 04. 04(월) ~ 04. 10(일)
+
 - __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/awskrug/events/284545979/)__
   - 분류: `모임`, `데이터사이언스`
   - 주최: AWSKRUG
@@ -159,6 +155,10 @@
   - 분류: `온라인`
   - 주최: OPDC
   - 일시: 04. 13(수) 19:00
+- __[2022 오픈소스 컨트리뷰션 아카데미: 멘토 모집](https://www.oss.kr/notice/show/344f792e-e09f-46c2-b88f-a9273ea54b34)__
+  - 분류: `경진대회`, `멘토링`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 04(금) ~ 04. 14(목)
 - __[2022 인디크래프트](https://www.onoffmix.com/event/253249)__
   - 분류: `경진대회`
   - 주최: 성남시
