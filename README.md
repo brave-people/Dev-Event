@@ -178,7 +178,11 @@
 - __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
   - 분류: `웨비나`, `멘토링`
   - 주최: 캐치
-  - 일시: 04. 20(금) 20:00 ~ 21:30
+  - 일시: 04. 20(수) 20:00 ~ 21:30
+- __[4월 원티드살롱 #연봉협상](https://www.wanted.co.kr/events/wantedsalon220420)__
+  - 분류: `웨비나`
+  - 주최: 원티드
+  - 일시: 04. 20(수) 19:30 ~ 21:30
 - __[Microsoft Everywhere 2022](https://mktoevents.com/Microsoft+Event/325223/157-GQE-382)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 마이크로소프트
