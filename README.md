@@ -114,31 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[2022 Cloud Study Jam - AI & ML 중급 과정](https://sites.google.com/view/studyjam-kr/ai-ml-%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95?authuser=0)__
-  - 분류: `스터디`
-  - 주최: Google
-  - 접수: 04. 04(월) ~ 04. 10(일)
-
-- __[AWSKRUG 데이터사이언스 온라인 모임](https://www.meetup.com/awskrug/events/284545979/)__
-  - 분류: `모임`, `데이터사이언스`
-  - 주최: AWSKRUG
-  - 일시: 04. 07(목) 19:00 ~ 20:00
-- __[우아한테크캠프 Pro 4기](https://edu.nextstep.camp/c/lqsBs7x0)__
-  - 분류: `교육`, `백엔드`
-  - 주최: 우아한형제들
-  - 접수: 03. 25(금) ~ 04. 08(금)
-- __[Central MakeUs Challenge Demo Day](https://festa.io/events/2156)__
-  - 분류: `오프라인`, `프로젝트`
-  - 주최: MakeUs Challenge
-  - 일시: 04. 09(토) 13:00 ~ 17:00
-- __[2022 adiOS Intro](https://festa.io/events/2192)__
-  - 분류: `모임`, `ios`
-  - 주최: adiOS
-  - 일시: 04. 09(토) 15:00 ~ 18:00
 - __[AI 아카데미 3기 풀스택 교육](https://www.deepbrainai.io/ko/academy)__
   - 분류: `교육`, `AI`
   - 주최: 딥브레인 AI
   - 모집: 03. 22(화) ~ 04. 11(월)
+  
 - __[구름 K-Digital Training 전액 국비 지원 교육 과정 모집](https://kdt.goorm.io/)__
   - 분류: `교육`, `AI`, `쿠버네티스`
   - 주최: 구름
@@ -167,6 +147,10 @@
   - 분류: `경진대회`
   - 주최: 성남시
   - 일시: 03. 24(목) ~ 04. 14(목)
+- __[LINE 서버 개발자들이 말한다! Armeria 아직도 안써요?](https://feedback.line.me/enquete/public/16066-pDXMVqbH)__
+  - 분류: `경진대회`
+  - 주최: LINE
+  - 일시: 04. 14(목) 16:00 ~ 18:00
 - __[제 20대 대선 후보 정책•공약 시각화 경진대회](https://dacon.io/competitions/official/235891/overview/prize)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
@@ -203,6 +187,10 @@
   - 분류: `메타버스`
   - 주최: AWE Nite Seoul
   - 일시: 04. 21(목) 09:30 ~ 21:30
+- __[LG Solution Day 손쉬운 클라우드/MSA 변환](https://www.lgcnswithyou.com/login/register/SolutionDay202204?ibch=itboard)__
+  - 분류: `웨비나`, `MSA`
+  - 주최: LG
+  - 일시: 04. 21(목)
 - __[세계 보안 엑스포 2022](https://www.seconexpo.com/kor/main.asp)__
   - 분류: `일반`
   - 주최: 인포마마켓한국
@@ -236,6 +224,10 @@
   - 주최: 맨텍
   - 일시: 04. 04(월) ~ 05. 09(월)
 
+- __[Unity Wave 2022 1차 세션](http://www.unitysquare.co.kr/growwith/unitywave )__
+  - 분류: `웨비나`, `유니티`
+  - 주최: 유니티
+  - 일시: 05. 09(월) ~ 05. 13(금)
 - __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
