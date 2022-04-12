@@ -179,6 +179,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 04. 21(목) 14:00 ~ 16:00
+- __[Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://devocean.sk.com/events/view.do?id=115)__
+  - 분류: `웨비나`, `AI`
+  - 주최: DEVOCEAN
+  - 일시: 04. 21(목) 15:00 ~ 17:00
 - __[협업툴 WORK 5.0 팀 목표와 워크레시피](https://festa.io/events/2153)__
   - 분류: `일반`
   - 주최: 플로우
@@ -244,11 +248,15 @@
 <br />
 
 ## 22년 06월
+- __[애플 WWDC 2022](https://developer.apple.com/wwdc22)__
+  - 분류: `컨퍼런스`
+  - 주최: Apple
+  - 일시: 06. 06(월) ~ 06. 10(금)
+
 - __[nexon developers conference 22](https://ndc.nexon.com/main)__
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 07(화) ~ 06. 10(금)
-  
 - __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
   - 분류: `대회`, `DevOps`, `AI`, `클라우드`
   - 주최: 마이크로소프트
@@ -257,6 +265,10 @@
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
   - 일시: 03. 16(토) ~ 06. 30(일)
+- __[메타버스엑스포 2022](https://metavexpo.com/visitor/registration/)__
+  - 분류: `오프라인`, `메타버스`
+  - 주최: (주)메쎼이상
+  - 일시: 06. 15(수) ~ 06. 17(금)
 
 <br />
 
