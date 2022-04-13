@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[AI 아카데미 3기 풀스택 교육](https://www.deepbrainai.io/ko/academy)__
-  - 분류: `교육`, `AI`
-  - 주최: 딥브레인 AI
-  - 모집: 03. 22(화) ~ 04. 11(월)
-  
-- __[구름 K-Digital Training 전액 국비 지원 교육 과정 모집](https://kdt.goorm.io/)__
-  - 분류: `교육`, `AI`, `쿠버네티스`
-  - 주최: 구름
-  - 일시: 03. 11(금) ~ 04. 12(화)
-- __[Luniverse Web 3.0 for Green Universe](https://luniverse.io/2022/03/29/luniverse-web3-0-for-green-universe/)__
-  - 분류: `웨비나`, `NFT`
-  - 주최: 람다256
-  - 일시: 04. 12(화)
 - __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 04. 13(수) 10:00 ~ 14:00
+  
 - __[전자정부 표준프레임워크 4.0 소개](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20040)__
   - 분류: `온라인`
   - 주최: OPDC
@@ -228,6 +216,10 @@
   - 주최: 맨텍
   - 일시: 04. 04(월) ~ 05. 09(월)
 
+- __[메타버스 플랫폼을 위한 NFT 활용기술 이용자 창작(UGC) 과정](https://festa.io/events/2223)__
+  - 분류: `오프라인`, `NFT`
+  - 주최: 과학기술정보통신부
+  - 일시: 05. 10(화) ~ 05. 12(목)
 - __[Unity Wave 2022 1차 세션](http://www.unitysquare.co.kr/growwith/unitywave )__
   - 분류: `웨비나`, `유니티`
   - 주최: 유니티
