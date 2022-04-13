@@ -118,7 +118,7 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 04. 13(수) 10:00 ~ 14:00
-  
+
 - __[전자정부 표준프레임워크 4.0 소개](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20040)__
   - 분류: `온라인`
   - 주최: OPDC
@@ -232,7 +232,7 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: AWS
   - 접수: 04. 04(월) ~ 05. 12(목)
-- __[Google Developer Student Club(GDSC) Lead 모집](https://event-us.kr/ted/event/43225)__
+- __[Google Developer Student Club(GDSC) Lead 모집](https://developers-kr.googleblog.com/2022/04/google-developer-student-club-2022-lead_01421805175.html)__
   - 분류: `모임`
   - 주최: Google Developers Korea
   - 접수: 04. 01(금) ~ 05. 31(화)
