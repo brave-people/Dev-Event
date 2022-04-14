@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[네이버클라우드 대구 세미나](https://festa.io/events/2165)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 04. 13(수) 10:00 ~ 14:00
-
-- __[전자정부 표준프레임워크 4.0 소개](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20040)__
-  - 분류: `온라인`
-  - 주최: OPDC
-  - 일시: 04. 13(수) 19:00
-- __[2022년 ICT콤플렉스 세미나 제2회](http://www.ictcoc.kr/04_com_n/com02_view.asp?idx=545&page=1&params=)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: ICT COC
-  - 일시: 04. 13(수) 16:00
 - __[2022 오픈소스 컨트리뷰션 아카데미: 멘토 모집](https://www.oss.kr/notice/show/344f792e-e09f-46c2-b88f-a9273ea54b34)__
   - 분류: `경진대회`, `멘토링`
   - 주최: 과학기술정보통신부
   - 접수: 03. 04(금) ~ 04. 14(목)
+  
 - __[2022 인디크래프트](https://www.onoffmix.com/event/253249)__
   - 분류: `경진대회`
   - 주최: 성남시
@@ -151,6 +139,14 @@
   - 분류: `스터디`
   - 주최: 우아한형제들
   - 신청: 04. 04(월) ~ 04. 17(일)
+- __[라인플러스 특집 #기술면접](https://www.catch.co.kr/CatchClass/Live/View/5112)__
+  - 분류: `웨비나`, `멘토링`
+  - 주최: 캐치
+  - 신청: 04. 14(목) ~ 04. 18(월)
+- __[현대모비스 SW개발자와 취뽀까지 부릉부릉!](https://www.catch.co.kr/CatchClass/Live/View/5110)__
+  - 분류: `웨비나`, `멘토링`
+  - 주최: 캐치
+  - 신청: 04. 14(목) ~ 04. 20(수)
 - __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
   - 분류: `웨비나`, `멘토링`
   - 주최: 캐치
@@ -207,6 +203,10 @@
   - 분류: `모임`, `AWS`
   - 주최: AWSKRUG
   - 일시: 04. 28(목) 19:30 ~ 21:30
+- __[인구 데이터 기반 소득 예측 경진대회](https://dacon.io/competitions/official/235892/overview/description)__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 04. 18(월) ~ 04. 29(금)
 
 <br />
 
@@ -232,6 +232,14 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: AWS
   - 접수: 04. 04(월) ~ 05. 12(목)
+- __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description )__
+  - 분류: `경진대회`
+  - 주최: DACON
+  - 일시: 04. 18(월) ~ 05. 20(금)
+- __[새싹(SeSAC) SW취업과정 영등포 캠퍼스 교육생 모집](https://sesac.oopy.io/)__
+  - 분류: `교육`
+  - 주최: SeSAC
+  - 일시: 04. 09(토) ~ 05. 30(월)
 - __[Google Developer Student Club(GDSC) Lead 모집](https://developers-kr.googleblog.com/2022/04/google-developer-student-club-2022-lead_01421805175.html)__
   - 분류: `모임`
   - 주최: Google Developers Korea
