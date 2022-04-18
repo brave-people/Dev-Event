@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[제 20대 대선 후보 정책•공약 시각화 경진대회](https://dacon.io/competitions/official/235891/overview/prize)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: DACON
-  - 일시: 03. 07(수) ~ 04. 15(금)
-
-- __[2022 국제인공지능대전](https://onoffmix.com/event/249605)__
-  - 분류: `컨퍼런스`, `AI`
-  - 주최: 한국인공지능협회
-  - 일시: 04. 13(수) ~ 04. 15(금)
-- __[2022 우아한스터디 참여 신청](https://event.stibee.com/v2/click/NDg3ODgvOTMzMDE5LzQzODk2Lw/aHR0cHM6Ly9wdWZmeS1zdGljay1mYTEubm90aW9uLnNpdGUvMjAyMi1jYTVmNDNmYzI1OWQ0NDZkODFmMzc2MjU2ZDE4Yjk5Yg)__
-  - 분류: `스터디`
-  - 주최: 우아한형제들
-  - 신청: 04. 04(월) ~ 04. 17(일)
 - __[라인플러스 특집 #기술면접](https://www.catch.co.kr/CatchClass/Live/View/5112)__
   - 분류: `웨비나`, `멘토링`
   - 주최: 캐치
   - 신청: 04. 14(목) ~ 04. 18(월)
+  
 - __[현대모비스 SW개발자와 취뽀까지 부릉부릉!](https://www.catch.co.kr/CatchClass/Live/View/5110)__
   - 분류: `웨비나`, `멘토링`
   - 주최: 캐치
@@ -151,6 +139,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: ICT 콤플렉스
   - 일시: 04. 20(수) 16:00
+- __[클라우드 엔지니어에게 클라우드를 묻다 (feat. Ncloud 마스터)](https://festa.io/events/2230)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 04. 20(수) 19:00 ~ 20:30
 - __[NVIDIA AI 개발자 밋업 - TensorRT/Triton](https://festa.io/events/2205)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
@@ -171,6 +163,14 @@
   - 분류: `웨비나`, `MSA`
   - 주최: LG
   - 일시: 04. 21(목)
+- __[프리온보딩 코스 벡엔드코스](https://www.wanted.co.kr/events/pre_onboarding_course_10)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 원티드
+  - 접수: 04. 04(월) ~ 04. 20(수)
+- __[프리온보딩 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_10)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 원티드
+  - 접수: 04. 04(월) ~ 04. 21(목)
 - __[세계 보안 엑스포 2022](https://www.seconexpo.com/kor/main.asp)__
   - 분류: `일반`
   - 주최: 인포마마켓한국
@@ -183,10 +183,18 @@
   - 분류: `웨비나`, `멘토링`
   - 주최: GDG Korea WebTech
   - 일시: 04. 23(토) 14:00 ~ 17:00
+- __[Cloud, AI and Fashion](https://doc.skill.or.kr/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: NHN Cloud
+  - 일시: 04. 26(화) 14:00 ~ 15:00
 - __[NVIDIA Jetson 개발자 밋업 - Robotics](https://festa.io/events/2206)__
   - 분류: `웨비나`, `로봇`
   - 주최: NVIDIA
   - 일시: 04. 26(화) 14:00 ~ 17:00
+- __[캐치 커리어콘 메타버스](https://www.catch.co.kr/CatchCafe/CareerCon/3)__
+  - 분류: `웨비나`, `메타버스`
+  - 주최: 캐치
+  - 일시: 04. 26(화) ~ 04. 28(목)
 - __[제 1회 정보검색사례연구회 소모임](https://festa.io/events/2191)__
   - 분류: `모임`, `검색`
   - 주최: 한국정보검색사례연구회
