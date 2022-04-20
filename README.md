@@ -236,6 +236,10 @@
   - 분류: `오프라인`, `NFT`
   - 주최: 과학기술정보통신부
   - 일시: 05. 10(화) ~ 05. 12(목)
+- __[Google I/O 2022](https://io.google/2022/)__
+  - 분류: `Google`, `컨퍼런스`
+  - 주최: Google
+  - 일시: 05. 11(수) ~ 05. 12(목)
 - __[Unity Wave 2022 1차 세션](http://www.unitysquare.co.kr/growwith/unitywave )__
   - 분류: `웨비나`, `유니티`
   - 주최: 유니티
