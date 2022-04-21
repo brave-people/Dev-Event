@@ -114,39 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[현대모비스 SW개발자와 취뽀까지 부릉부릉!](https://www.catch.co.kr/CatchClass/Live/View/5110)__
-  - 분류: `웨비나`, `멘토링`
-  - 주최: 캐치
-  - 신청: 04. 14(목) ~ 04. 20(수)
-
-- __[KT 무선네트워크 설계 및 운용](https://www.catch.co.kr/CatchClass/Live/View/5082)__
-  - 분류: `웨비나`, `멘토링`
-  - 주최: 캐치
-  - 일시: 04. 20(수) 20:00 ~ 21:30
-- __[4월 원티드살롱 #연봉협상](https://www.wanted.co.kr/events/wantedsalon220420)__
-  - 분류: `웨비나`
-  - 주최: 원티드
-  - 일시: 04. 20(수) 19:30 ~ 21:30
-- __[Microsoft Everywhere 2022](https://mktoevents.com/Microsoft+Event/325223/157-GQE-382)__
-  - 분류: `컨퍼런스`, `보안`
-  - 주최: 마이크로소프트
-  - 일시: 04. 20(수) 14:00 ~ 15:00
-- __[스타트업에서 알아야 할 클라우드 활용 전략과 클라우드 보안](http://www.ictcoc.kr/04_com_n/com02_view.asp?idx=550&page=1&params=)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: ICT 콤플렉스
-  - 일시: 04. 20(수) 16:00
-- __[클라우드 엔지니어에게 클라우드를 묻다 (feat. Ncloud 마스터)](https://festa.io/events/2230)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 04. 20(수) 19:00 ~ 20:30
-- __[NVIDIA AI 개발자 밋업 - TensorRT/Triton](https://festa.io/events/2205)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 04. 21(목) 14:00 ~ 16:00
 - __[주니어 개발자가 가장 많이 하는 실수 - 리맴버](https://zero-base.co.kr/category_dev_camp/school_FE)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 제로베이스
   - 일시: 04. 21(목) 19:00 ~ 20:00
+
 - __[Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://devocean.sk.com/events/view.do?id=115)__
   - 분류: `웨비나`, `AI`
   - 주최: DEVOCEAN
@@ -281,6 +253,10 @@
   - 주최: Apple
   - 일시: 06. 06(월) ~ 06. 10(금)
 
+- __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
+  - 분류: `해커톤`
+  - 주최: 마이크로소프트
+  - 일시: 03. 24(목) ~ 06. 10(금)
 - __[nexon developers conference 22](https://ndc.nexon.com/main)__
   - 분류: `컨퍼런스`
   - 주최: 넥슨
