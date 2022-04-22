@@ -114,39 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[주니어 개발자가 가장 많이 하는 실수 - 리맴버](https://zero-base.co.kr/category_dev_camp/school_FE)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 제로베이스
-  - 일시: 04. 21(목) 19:00 ~ 20:00
-
-- __[Web3 세상의 데이터 네트워크와 블록체인 서비스 인프라 현황](https://devocean.sk.com/events/view.do?id=115)__
-  - 분류: `웨비나`, `AI`
-  - 주최: DEVOCEAN
-  - 일시: 04. 21(목) 15:00 ~ 17:00
-- __[협업툴 WORK 5.0 팀 목표와 워크레시피](https://festa.io/events/2153)__
-  - 분류: `일반`
-  - 주최: 플로우
-  - 일시: 04. 21(목) 15:00 ~ 16:00
-- __[XR, 메타버스 분야 글로벌 네트워크의 시작 - AWE Nite Seoul 1](https://festa.io/events/2198)__
-  - 분류: `메타버스`
-  - 주최: AWE Nite Seoul
-  - 일시: 04. 21(목) 09:30 ~ 21:30
-- __[LG Solution Day 손쉬운 클라우드/MSA 변환](https://www.lgcnswithyou.com/login/register/SolutionDay202204?ibch=itboard)__
-  - 분류: `웨비나`, `MSA`
-  - 주최: LG
-  - 일시: 04. 21(목)
-- __[프리온보딩 코스 벡엔드코스](https://www.wanted.co.kr/events/pre_onboarding_course_10)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 원티드
-  - 접수: 04. 04(월) ~ 04. 20(수)
-- __[프리온보딩 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_10)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 원티드
-  - 접수: 04. 04(월) ~ 04. 21(목)
 - __[세계 보안 엑스포 2022](https://www.seconexpo.com/kor/main.asp)__
   - 분류: `일반`
   - 주최: 인포마마켓한국
   - 일시: 04. 20(수) ~ 04. 22(금)
+  
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `일반`
   - 주최: 에트리
@@ -203,6 +175,11 @@
 <br />
 
 ## 22년 5월
+- __[NAVER Search Colloquium '22](https://searchcolloquium.naver.com/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 네이버
+  - 일시: 05. 03(화) 09:30 ~ 17:30
+
 - __[우아한 테크캠프 5기](https://techblog.woowahan.com/8154)__
   - 분류: `웹프론트엔드 기반 풀스택`, `안드로이드`, `부트캠프`, `온라인`, `오프라인`
   - 주최: 우아한형제들
