@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[세계 보안 엑스포 2022](https://www.seconexpo.com/kor/main.asp)__
-  - 분류: `일반`
-  - 주최: 인포마마켓한국
-  - 일시: 04. 20(수) ~ 04. 22(금)
-  
-- __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
-  - 분류: `일반`
-  - 주최: 에트리
-  - 일시: 03. 16(수) ~ 04. 22(금)
-- __[GDG Korea WebTech Online 이력서 멘토링 2022](https://festa.io/events/2164)__
-  - 분류: `웨비나`, `멘토링`
-  - 주최: GDG Korea WebTech
-  - 일시: 04. 23(토) 14:00 ~ 17:00
 - __[주니어 개발자가 가장 많이 하는 실수 - 우아한형제들](https://zero-base.co.kr/category_dev_camp/school_FE)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 제로베이스
   - 일시: 04. 25(월) 19:00 ~ 20:00
+
 - __[Cloud, AI and Fashion](https://doc.skill.or.kr/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN Cloud
@@ -139,6 +127,14 @@
   - 분류: `웨비나`, `로봇`
   - 주최: NVIDIA
   - 일시: 04. 26(화) 14:00 ~ 17:00
+- __[개발자 2명으로 쇼핑몰 구축, 답은 서버리스다!](https://event-us.kr/smileshark/event/43592)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 스마일샤크
+  - 일시: 04. 27(수) 14:00 ~ 15:30
+- __[올리브영 라이브 채용설명회](https://www.wanted.co.kr/events/oliveyoung)__
+  - 분류: `웨비나`, `채용`
+  - 주최: 올리브영
+  - 일시: 04. 27(수) 19:00 ~ 20:30
 - __[4월 우아한테크세미나｜지속가능한 SW개발을 위한 코드리뷰](https://techblog.woowahan.com/8159)__
   - 분류: `웨비나`
   - 주최: 우아한형제들
@@ -159,6 +155,10 @@
   - 분류: `모임`, `검색`
   - 주최: 한국정보검색사례연구회
   - 일시: 04. 28(목) 19:30 ~ 21:30
+- __[진화하는 보안 공격, 최선의 방어 전략 및 실전 사례 웨비나](https://www.bespinglobal.com/bespin_akamai/)__
+  - 분류: `웨비나`, `보안`
+  - 주최: 베스핀글로벌
+  - 일시: 04. 28(목) 14:00 ~ 15:30
 - __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284946336/)__
   - 분류: `모임`, `AWS`
   - 주최: AWSKRUG
@@ -180,6 +180,14 @@
   - 주최: 네이버
   - 일시: 05. 03(화) 09:30 ~ 17:30
 
+- __[인공지능사관학교 3기 교육생 모집](https://festa.io/events/2262)__
+  - 분류: `교육`, `AI`
+  - 주최: 인공지능 사관학교
+  - 모집: 04. 13(수) ~ 05. 06(금)
+- __[.NET Conf Mini 22.05](https://festa.io/events/2259)__
+  - 분류: `웨비나`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 05. 06(금) 14:00 ~ 16:20
 - __[우아한 테크캠프 5기](https://techblog.woowahan.com/8154)__
   - 분류: `웹프론트엔드 기반 풀스택`, `안드로이드`, `부트캠프`, `온라인`, `오프라인`
   - 주최: 우아한형제들
@@ -188,7 +196,6 @@
   - 분류: `클라우드`, `경진대회`
   - 주최: 맨텍
   - 일시: 04. 04(월) ~ 05. 09(월)
-
 - __[메타버스 플랫폼을 위한 NFT 활용기술 이용자 창작(UGC) 과정](https://festa.io/events/2223)__
   - 분류: `오프라인`, `NFT`
   - 주최: 과학기술정보통신부
@@ -209,6 +216,10 @@
   - 분류: `컨퍼런스`, `안드로이드`
   - 주최: AWS
   - 접수: 04. 04(월) ~ 05. 12(목)
+- __[Unity Wave 2022](http://www.unitysquare.co.kr/growwith/unitywave)__
+  - 분류: `컨퍼런스`, `유니티`
+  - 주최: 유니티
+  - 일시: 05. 09(월) ~ 05. 13(금)
 - __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description )__
   - 분류: `경진대회`
   - 주최: DACON
@@ -351,6 +362,7 @@
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
 | 안드로이드개발 | [facebook](https://www.facebook.com/groups/androidcode/) |
+| 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
 
 <br />
 
