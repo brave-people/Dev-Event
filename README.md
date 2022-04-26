@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[주니어 개발자가 가장 많이 하는 실수 - 우아한형제들](https://zero-base.co.kr/category_dev_camp/school_FE)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 제로베이스
-  - 일시: 04. 25(월) 19:00 ~ 20:00
-
 - __[Cloud, AI and Fashion](https://doc.skill.or.kr/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN Cloud
   - 일시: 04. 26(화) 14:00 ~ 15:00
+
 - __[NVIDIA Jetson 개발자 밋업 - Robotics](https://festa.io/events/2206)__
   - 분류: `웨비나`, `로봇`
   - 주최: NVIDIA
@@ -151,6 +147,10 @@
   - 분류: `웨비나`, `메타버스`
   - 주최: 캐치
   - 일시: 04. 26(화) ~ 04. 28(목)
+- __[HashiTalks Korea 2022](https://events.hashicorp.com/hashitalkskorea)__
+  - 분류: `웨비나`
+  - 주최: HashiCorp
+  - 일시: 04. 28(목) 10:00 ~ 12:00
 - __[제 1회 정보검색사례연구회 소모임](https://festa.io/events/2191)__
   - 분류: `모임`, `검색`
   - 주최: 한국정보검색사례연구회
