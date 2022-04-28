@@ -114,35 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[NVIDIA Jetson 개발자 밋업 - Robotics](https://festa.io/events/2206)__
-  - 분류: `웨비나`, `로봇`
-  - 주최: NVIDIA
-  - 일시: 04. 26(화) 14:00 ~ 17:00
-
-- __[개발자 2명으로 쇼핑몰 구축, 답은 서버리스다!](https://event-us.kr/smileshark/event/43592)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 스마일샤크
-  - 일시: 04. 27(수) 14:00 ~ 15:30
-- __[올리브영 라이브 채용설명회](https://www.wanted.co.kr/events/oliveyoung)__
-  - 분류: `웨비나`, `채용`
-  - 주최: 올리브영
-  - 일시: 04. 27(수) 19:00 ~ 20:30
-- __[4월 우아한테크세미나｜지속가능한 SW개발을 위한 코드리뷰](https://techblog.woowahan.com/8159)__
-  - 분류: `웨비나`
-  - 주최: 우아한형제들
-  - 일시: 04. 27(수) 19:00 ~ 21:00
-- __[애자일 코리아 4월 밋업 "일상 생활에서의 애자일"](https://festa.io/events/2251)__
-  - 분류: `웨비나`, `에자일`
-  - 주최: 애자일 코리아 밋업
-  - 일시: 04. 27(수) 20:00 ~ 22:00
-- __[올리브영 라이브 채용설명회](https://www.wanted.co.kr/events/oliveyoung)__
-  - 분류: `웨비나`, `채용`
-  - 주최: 올리브영
-  - 일시: 04. 27(수) 19:00 ~ 20:30
 - __[캐치 커리어콘 메타버스](https://www.catch.co.kr/CatchCafe/CareerCon/3)__
   - 분류: `웨비나`, `메타버스`
   - 주최: 캐치
   - 일시: 04. 26(화) ~ 04. 28(목)
+  
 - __[HashiTalks Korea 2022](https://events.hashicorp.com/hashitalkskorea)__
   - 분류: `웨비나`
   - 주최: HashiCorp
@@ -208,6 +184,10 @@
   - 분류: `웨비나`, `유니티`
   - 주최: 유니티
   - 일시: 05. 09(월) ~ 05. 13(금)
+- __[소비자 데이터 기반 소비 예측 경진대회](https://dacon.io/competitions/official/235893/overview/description)__
+  - 분류: `웨비나`, `경진대회`
+  - 주최: 데이콘
+  - 일시: 04. 28(목) ~ 05. 13(금)
 - __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
