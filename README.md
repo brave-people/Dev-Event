@@ -114,31 +114,11 @@
 <br />
 
 ## 22년 04월
-- __[캐치 커리어콘 메타버스](https://www.catch.co.kr/CatchCafe/CareerCon/3)__
-  - 분류: `웨비나`, `메타버스`
-  - 주최: 캐치
-  - 일시: 04. 26(화) ~ 04. 28(목)
-  
-- __[HashiTalks Korea 2022](https://events.hashicorp.com/hashitalkskorea)__
-  - 분류: `웨비나`
-  - 주최: HashiCorp
-  - 일시: 04. 28(목) 10:00 ~ 12:00
-- __[제 1회 정보검색사례연구회 소모임](https://festa.io/events/2191)__
-  - 분류: `모임`, `검색`
-  - 주최: 한국정보검색사례연구회
-  - 일시: 04. 28(목) 19:30 ~ 21:30
-- __[진화하는 보안 공격, 최선의 방어 전략 및 실전 사례 웨비나](https://www.bespinglobal.com/bespin_akamai/)__
-  - 분류: `웨비나`, `보안`
-  - 주최: 베스핀글로벌
-  - 일시: 04. 28(목) 14:00 ~ 15:30
-- __[AWSKRUG #architecture 소모임](https://www.meetup.com/awskrug/events/284946336/)__
-  - 분류: `모임`, `AWS`
-  - 주최: AWSKRUG
-  - 일시: 04. 28(목) 19:30 ~ 21:30
 - __[인구 데이터 기반 소득 예측 경진대회](https://dacon.io/competitions/official/235892/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 04. 18(월) ~ 04. 29(금)
+
 - __[월간 GDG: 광주 04월호](https://festa.io/events/2252)__
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG 광주
@@ -168,6 +148,10 @@
   - 분류: `클라우드`, `경진대회`
   - 주최: 맨텍
   - 일시: 04. 04(월) ~ 05. 09(월)
+- __[2022 카카오 Career Boost Program for Cloud 설명회](https://careers.kakao.com/jobs/P-12545)__
+  - 분류: `채용`, `클라우드`
+  - 주최: 카카오
+  - 일시: 05. 10(화)
 - __[IP Blockchain Conference 2022](http://ibc2022.ipxhop.com/)__
   - 분류: `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
@@ -208,6 +192,10 @@
   - 분류: `웨비나`
   - 주최: 과학기술정보통신부
   - 일시: 05. 25(수) ~ 05. 27(금)
+- __[KT AIVLE School(에이블스쿨) 2기 모집](https://www.kt-aivleschool-recruit.com/Recruit/Detail?id=2)__
+  - 분류: `교육`
+  - 주최: AIVLE
+  - 일시: 04. 25(월) ~ 05. 27(금)
 - __[새싹(SeSAC) SW취업과정 영등포 캠퍼스 교육생 모집](https://sesac.oopy.io/)__
   - 분류: `교육`
   - 주최: SeSAC
