@@ -114,11 +114,6 @@
 <br />
 
 ## 22년 04월
-- __[인구 데이터 기반 소득 예측 경진대회](https://dacon.io/competitions/official/235892/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 04. 18(월) ~ 04. 29(금)
-
 - __[월간 GDG: 광주 04월호](https://festa.io/events/2252)__
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG 광주
