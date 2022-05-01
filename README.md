@@ -113,15 +113,7 @@
 
 <br />
 
-## 22년 04월
-- __[월간 GDG: 광주 04월호](https://festa.io/events/2252)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: GDG 광주
-  - 일시: 04. 30(토) 13:00 ~ 15:00
-
-<br />
-
-## 22년 5월
+## 22년 05월
 - __[NAVER Search Colloquium '22](https://searchcolloquium.naver.com/)__
   - 분류: `웨비나`, `AI`
   - 주최: 네이버
