@@ -171,6 +171,14 @@
   - 분류: `컨퍼런스`, `유니티`
   - 주최: 유니티
   - 일시: 05. 09(월) ~ 05. 13(금)
+- __[삼성 SW 아카데미 8기 모집](https://www.ssafy.com/)__
+  - 분류: `컨퍼런스`, `유니티`
+  - 주최: 유니티
+  - 모집: 05. 02(월) ~ 05. 16(월)
+- __[오라클 디벨로퍼 밋업](https://go.oracle.com/LP=125959)__
+  - 분류: `웨비나`
+  - 주최: 오라클
+  - 일시: 05. 18(수)
 - __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description )__
   - 분류: `경진대회`
   - 주최: DACON
@@ -195,11 +203,15 @@
 <br />
 
 ## 22년 06월
+- __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
+  - 분류: `경진대회`, `AI`
+  - 주최: 데이콘
+  - 일시: 05. 02(월) ~ 06. 10(금)
+
 - __[애플 WWDC 2022](https://developer.apple.com/wwdc22)__
   - 분류: `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 06(월) ~ 06. 10(금)
-
 - __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
   - 분류: `해커톤`
   - 주최: 마이크로소프트
