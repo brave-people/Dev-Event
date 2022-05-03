@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[NAVER Search Colloquium '22](https://searchcolloquium.naver.com/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 네이버
-  - 일시: 05. 03(화) 09:30 ~ 17:30
-
 - __[인공지능사관학교 3기 교육생 모집](https://festa.io/events/2262)__
   - 분류: `교육`, `AI`
   - 주최: 인공지능 사관학교
   - 모집: 04. 13(수) ~ 05. 06(금)
+
 - __[.NET Conf Mini 22.05](https://festa.io/events/2259)__
   - 분류: `웨비나`, `.net`
   - 주최: 닷넷데브
@@ -179,6 +175,10 @@
   - 분류: `웨비나`
   - 주최: 오라클
   - 일시: 05. 18(수)
+- __[메타버스 및 기반기술ㆍ사이버보안 구축방안과 신사업 전략 세미나](https://www.kiei.com/)__
+  - 분류: `웨비나`, `메타버스`
+  - 주최: 산업교육연구소
+  - 일시: 05. 19(수) 09:50 ~ 18:00
 - __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description )__
   - 분류: `경진대회`
   - 주최: DACON
