@@ -139,6 +139,14 @@
   - 분류: `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
   - 일시: 05. 11(수) 10:00 ~ 16:00
+- __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 05. 10(화) ~ 05. 11(수)
+- __[코로나시대의 안드로이드 개발자들](https://event-us.kr/ted/event/43225)__
+  - 분류: `컨퍼런스`, `안드로이드`
+  - 주최: AWS
+  - 접수: 04. 04(월) ~ 05. 12(목)
 - __[메타버스 플랫폼을 위한 NFT 활용기술 이용자 창작(UGC) 과정](https://festa.io/events/2223)__
   - 분류: `오프라인`, `NFT`
   - 주최: 과학기술정보통신부
@@ -155,14 +163,6 @@
   - 분류: `웨비나`, `경진대회`
   - 주최: 데이콘
   - 일시: 04. 28(목) ~ 05. 13(금)
-- __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 05. 10(화) ~ 05. 11(수)
-- __[코로나시대의 안드로이드 개발자들](https://event-us.kr/ted/event/43225)__
-  - 분류: `컨퍼런스`, `안드로이드`
-  - 주최: AWS
-  - 접수: 04. 04(월) ~ 05. 12(목)
 - __[Unity Wave 2022](http://www.unitysquare.co.kr/growwith/unitywave)__
   - 분류: `컨퍼런스`, `유니티`
   - 주최: 유니티
@@ -179,10 +179,14 @@
   - 분류: `웨비나`, `메타버스`
   - 주최: 산업교육연구소
   - 일시: 05. 19(수) 09:50 ~ 18:00
-- __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description )__
+- __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
   - 일시: 04. 18(월) ~ 05. 20(금)
+- __[제16회 경기게임오디션 참가자 모집](https://audition.gcon.or.kr/audition/main/main.php)__
+  - 분류: `경진대회`
+  - 주최: 경기도
+  - 일시: 05. 03(화) ~ 05. 23(월)
 - __[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발](https://festa.io/events/2264)__
   - 분류: `웨비나`
   - 주최: 과학기술정보통신부
