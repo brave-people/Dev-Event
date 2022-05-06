@@ -171,6 +171,10 @@
   - 분류: `컨퍼런스`, `유니티`
   - 주최: 유니티
   - 모집: 05. 02(월) ~ 05. 16(월)
+- __[아마존의 개발문화 프로세스 이야기!](https://devocean.sk.com/events/view.do?id=118)__
+  - 분류: `웨비나`
+  - 주최: DEVOCEAN
+  - 일시: 05. 17(화) 14:00 ~ 16:00
 - __[오라클 디벨로퍼 밋업](https://go.oracle.com/LP=125959)__
   - 분류: `웨비나`
   - 주최: 오라클
@@ -216,10 +220,6 @@
   - 분류: `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 06(월) ~ 06. 10(금)
-- __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
-  - 분류: `해커톤`
-  - 주최: 마이크로소프트
-  - 일시: 03. 24(목) ~ 06. 10(금)
 - __[nexon developers conference 22](https://ndc.nexon.com/main)__
   - 분류: `컨퍼런스`
   - 주최: 넥슨
