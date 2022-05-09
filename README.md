@@ -179,6 +179,14 @@
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 05. 03(화) ~ 05. 23(월)
+- __[[아마존]클라우드 커리어 탐색 및 채용 설명회](https://event.gotowebinar.com/event/1cf26158-2db9-422f-8248-2e0b10534fa9)__
+  - 분류: `웨비나`, `채용`
+  - 주최: aws
+  - 일시: 05. 23(화) ~ 05. 26(목)
+- __[NVIDIA Technology Day for AI Research](https://festa.io/events/2283)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 05. 26(목)
 - __[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발](https://festa.io/events/2264)__
   - 분류: `웨비나`
   - 주최: 과학기술정보통신부
