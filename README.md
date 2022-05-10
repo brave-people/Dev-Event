@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[제4회 오픈 인프라 개발 경진 대회 (OIDC 2022)](http://www.oidc.co.kr/)__
-  - 분류: `클라우드`, `경진대회`
-  - 주최: 맨텍
-  - 일시: 04. 04(월) ~ 05. 09(월)
-  
 - __[2022 카카오 Career Boost Program for Cloud 설명회](https://careers.kakao.com/jobs/P-12545)__
   - 분류: `채용`, `클라우드`
   - 주최: 카카오
   - 일시: 05. 10(화)
+
 - __[IP Blockchain Conference 2022](http://ibc2022.ipxhop.com/)__
   - 분류: `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
@@ -167,10 +163,22 @@
   - 분류: `웨비나`
   - 주최: 오라클
   - 일시: 05. 18(수)
+- __[요즘 힙한 스타트업의 DBDB DEEP한 이야기](https://event-us.kr/smileshark/event/44151)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 05. 18(수) 14:00 ~ 15:20
+- __[Shall we Nest.js?](https://festa.io/events/2225)__
+  - 분류: `웨비나`, `next.js`
+  - 주최: Next.js Korea
+  - 일시: 05. 18(수) 19:00 ~ 20:30
 - __[메타버스 및 기반기술ㆍ사이버보안 구축방안과 신사업 전략 세미나](https://www.kiei.com/)__
   - 분류: `웨비나`, `메타버스`
   - 주최: 산업교육연구소
   - 일시: 05. 19(수) 09:50 ~ 18:00
+- __[Terraform on NAVER Cloud Platform 워크샵](https://festa.io/events/2285)__
+  - 분류: `웨비나`, `테라폼`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 05. 19(수) 17:00 ~ 18:00
 - __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
@@ -203,15 +211,23 @@
   - 분류: `모임`
   - 주최: Google Developers Korea
   - 접수: 04. 01(금) ~ 05. 31(화)
+- __[CJ Feed&Care CUBE 아이디어 공모전](https://www.all-con.co.kr/view/contest/478687)__
+  - 분류: `공모전`
+  - 주최: CJ
+  - 일시: 05. 02(월) ~ 05. 31(화)
 
 <br />
 
 ## 22년 06월
+- __[엘리스 AI 트랙 5기 모집](https://festa.io/events/2286)__
+  - 분류: `교육`, `AI`
+  - 주최: 엘리스
+  - 일시: 05. 09(월) ~ 06. 05(일)
+
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
   - 일시: 05. 02(월) ~ 06. 10(금)
-
 - __[애플 WWDC 2022](https://developer.apple.com/wwdc22)__
   - 분류: `컨퍼런스`
   - 주최: Apple
