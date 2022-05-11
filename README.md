@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[2022 카카오 Career Boost Program for Cloud 설명회](https://careers.kakao.com/jobs/P-12545)__
-  - 분류: `채용`, `클라우드`
-  - 주최: 카카오
-  - 일시: 05. 10(화)
-
 - __[IP Blockchain Conference 2022](http://ibc2022.ipxhop.com/)__
   - 분류: `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
   - 일시: 05. 11(수) 10:00 ~ 16:00
+
 - __[AWS SUMMIT KOREA](https://aws.amazon.com/ko/events/summits/korea/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
@@ -187,6 +183,14 @@
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 05. 03(화) ~ 05. 23(월)
+- __[SK텔레콤 AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `교육`, `AI`
+  - 주최: SKT
+  - 모집: 05. 11(수) ~ 05. 24(화)
+- __[[카카오클라우드 스쿨] 1기 클래스메이트 모집](http://kakaocloudschool.rapa.or.kr)__
+  - 분류: `교육`, `클라우드`
+  - 주최: 고용노동부
+  - 모집: 05. 03(화) ~ 05. 25(수)
 - __[[아마존]클라우드 커리어 탐색 및 채용 설명회](https://event.gotowebinar.com/event/1cf26158-2db9-422f-8248-2e0b10534fa9)__
   - 분류: `웨비나`, `채용`
   - 주최: aws
@@ -195,6 +199,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 05. 26(목)
+- __[쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=84&sc_category=)__
+  - 분류: `웨비나`, `nginx`
+  - 주최: 디지털투데이
+  - 일시: 05. 26(목) 14:00 ~ 15:00
 - __[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발](https://festa.io/events/2264)__
   - 분류: `웨비나`
   - 주최: 과학기술정보통신부
