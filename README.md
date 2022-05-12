@@ -175,6 +175,10 @@
   - 분류: `웨비나`, `테라폼`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 05. 19(수) 17:00 ~ 18:00
+- __[COLOR YOUR CAREER](https://www.risingstartup.kr/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 라스콘
+  - 일시: 05. 19(수) - 05. 20(목)
 - __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description)__
   - 분류: `경진대회`
   - 주최: DACON
@@ -227,11 +231,15 @@
 <br />
 
 ## 22년 06월
+- __[2022 인공지능 온라인 경진대회](https://aichallenge.or.kr/)__
+  - 분류: `경진대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 09(월) ~ 06. 03(금)
+
 - __[엘리스 AI 트랙 5기 모집](https://festa.io/events/2286)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
   - 일시: 05. 09(월) ~ 06. 05(일)
-
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
