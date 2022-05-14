@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[Unity Wave 2022 1차 세션](http://www.unitysquare.co.kr/growwith/unitywave )__
-  - 분류: `웨비나`, `유니티`
-  - 주최: 유니티
-  - 일시: 05. 09(월) ~ 05. 13(금)
-  
 - __[소비자 데이터 기반 소비 예측 경진대회](https://dacon.io/competitions/official/235893/overview/description)__
   - 분류: `웨비나`, `경진대회`
   - 주최: 데이콘
   - 일시: 04. 28(목) ~ 05. 13(금)
+  
 - __[Unity Wave 2022](http://www.unitysquare.co.kr/growwith/unitywave)__
   - 분류: `컨퍼런스`, `유니티`
   - 주최: 유니티
