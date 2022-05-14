@@ -140,8 +140,8 @@
   - 주최: AWS
   - 일시: 05. 18(수) 14:00 ~ 15:20
 - __[Shall we Nest.js?](https://festa.io/events/2225)__
-  - 분류: `웨비나`, `next.js`
-  - 주최: Next.js Korea
+  - 분류: `웨비나`, `nest.js`
+  - 주최: Nest.js Korea
   - 일시: 05. 18(수) 19:00 ~ 20:30
 - __[22.05 오픈스택 한국 커뮤니티 오프라인 세미나](https://festa.io/events/2297)__
   - 분류: `웨비나`
