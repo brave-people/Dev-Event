@@ -114,19 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[소비자 데이터 기반 소비 예측 경진대회](https://dacon.io/competitions/official/235893/overview/description)__
-  - 분류: `웨비나`, `경진대회`
-  - 주최: 데이콘
-  - 일시: 04. 28(목) ~ 05. 13(금)
-  
-- __[Unity Wave 2022](http://www.unitysquare.co.kr/growwith/unitywave)__
-  - 분류: `컨퍼런스`, `유니티`
-  - 주최: 유니티
-  - 일시: 05. 09(월) ~ 05. 13(금)
 - __[삼성 SW 아카데미 8기 모집](https://www.ssafy.com/)__
   - 분류: `컨퍼런스`, `유니티`
   - 주최: 유니티
   - 모집: 05. 02(월) ~ 05. 16(월)
+  
 - __[아마존의 개발문화 프로세스 이야기!](https://devocean.sk.com/events/view.do?id=118)__
   - 분류: `웨비나`
   - 주최: DEVOCEAN
@@ -171,10 +163,18 @@
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 05. 03(화) ~ 05. 23(월)
+- __[토스페이먼츠 비전세션](https://docs.google.com/forms/d/e/1FAIpQLSd5a8Q3ormILJu93OY4jBW1X0jD-l_nwg9bva_q1owmdsTczA/viewform)__
+  - 분류: `웨비나`
+  - 주최: 토스페이먼츠
+  - 모집: 05. 10(화) ~ 05. 24(화)
 - __[SK텔레콤 AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `교육`, `AI`
   - 주최: SKT
   - 모집: 05. 11(수) ~ 05. 24(화)
+- __[라인프렌즈 개발자가 들려주는 개발자 이야기](https://allforyoung.com/posts/16163/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 구디아카데미
+  - 접수: 05. 12(목) ~ 05. 24(화)
 - __[[카카오클라우드 스쿨] 1기 클래스메이트 모집](http://kakaocloudschool.rapa.or.kr)__
   - 분류: `교육`, `클라우드`
   - 주최: 고용노동부
@@ -182,11 +182,19 @@
 - __[[아마존]클라우드 커리어 탐색 및 채용 설명회](https://event.gotowebinar.com/event/1cf26158-2db9-422f-8248-2e0b10534fa9)__
   - 분류: `웨비나`, `채용`
   - 주최: aws
-  - 일시: 05. 23(화) ~ 05. 26(목)
+  - 일시: 05. 23(월) ~ 05. 26(목)
+- __[캐치 커리어콘 AI](https://www.catch.co.kr/CatchClass/CareerCon)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 캐치
+  - 일시: 05. 24(화) ~ 05. 26(목)
 - __[NVIDIA Technology Day for AI Research](https://festa.io/events/2283)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 05. 26(목)
+- __[내마음대로 API "API 호출하여 GCP 사용하기](https://mkg.bespinglobal.com/gcpapi)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 베스핀글로벌
+  - 일시: 05. 26(목) 14:00 ~ 15:00
 - __[쿠버네티스에서 내 마이크로서비스로 트래픽을 라우팅 하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=84&sc_category=)__
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
