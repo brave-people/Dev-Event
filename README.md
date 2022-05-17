@@ -114,35 +114,15 @@
 <br />
 
 ## 22년 05월
-- __[삼성 SW 아카데미 8기 모집](https://www.ssafy.com/)__
-  - 분류: `컨퍼런스`, `유니티`
-  - 주최: 유니티
-  - 모집: 05. 02(월) ~ 05. 16(월)
-  
-- __[아마존의 개발문화 프로세스 이야기!](https://devocean.sk.com/events/view.do?id=118)__
-  - 분류: `웨비나`
-  - 주최: DEVOCEAN
-  - 일시: 05. 17(화) 14:00 ~ 16:00
-- __[오라클 디벨로퍼 밋업](https://go.oracle.com/LP=125959)__
-  - 분류: `웨비나`
-  - 주최: 오라클
-  - 일시: 05. 18(수)
-- __[요즘 힙한 스타트업의 DBDB DEEP한 이야기](https://event-us.kr/smileshark/event/44151)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 05. 18(수) 14:00 ~ 15:20
-- __[Shall we Nest.js?](https://festa.io/events/2225)__
-  - 분류: `웨비나`, `nest.js`
-  - 주최: Nest.js Korea
-  - 일시: 05. 18(수) 19:00 ~ 20:30
-- __[22.05 오픈스택 한국 커뮤니티 오프라인 세미나](https://festa.io/events/2297)__
-  - 분류: `웨비나`
-  - 주최: 오픈스택 한국 커뮤니티
-  - 일시: 05. 18(수) 19:30 ~ 21:30
 - __[메타버스 및 기반기술ㆍ사이버보안 구축방안과 신사업 전략 세미나](https://www.kiei.com/)__
   - 분류: `웨비나`, `메타버스`
   - 주최: 산업교육연구소
   - 일시: 05. 19(수) 09:50 ~ 18:00
+
+- __[누구나 쉽게 이해할 수 있는 마이크로서비스아키텍처(MSA) #2편](https://festa.io/events/2305)__
+  - 분류: `웨비나`, `메타버스`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 05. 19(수) 11:00 ~ 12:00
 - __[Terraform on NAVER Cloud Platform 워크샵](https://festa.io/events/2285)__
   - 분류: `웨비나`, `테라폼`
   - 주최: 네이버 클라우드 플랫폼
@@ -215,6 +195,10 @@
   - 분류: `교육`
   - 주최: SeSAC
   - 일시: 04. 09(토) ~ 05. 30(월)
+- __[Gitlab Korea 밋업 #11 - 고가용성 GitLab을 만드는 방법](https://festa.io/events/2302)__
+  - 분류: `웨비나`
+  - 주최: GitLab Korea
+  - 일시: 05. 30(월) 19:00 ~ 21:00
 - __[Google Developer Student Club(GDSC) Lead 모집](https://developers-kr.googleblog.com/2022/04/google-developer-student-club-2022-lead_01421805175.html)__
   - 분류: `모임`
   - 주최: Google Developers Korea
