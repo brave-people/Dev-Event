@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-51-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -474,6 +474,7 @@
   </tr>
   <tr>
     <td align="center"><a href="http://gunhoflash.tistory.com"><img src="https://avatars.githubusercontent.com/u/10149370?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GF</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=gunhoflash" title="Code">💻</a></td>
+    <td align="center"><a href="http://penielcho.com"><img src="https://avatars.githubusercontent.com/u/60251602?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peniel Cho &#124; 조용주</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=thepenielcho" title="Code">💻</a></td>
   </tr>
 </table>
 
