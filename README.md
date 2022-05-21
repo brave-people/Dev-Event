@@ -113,16 +113,12 @@
 
 <br />
 
-## 22년 05월 
-- __[생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description)__
-  - 분류: `경진대회`
-  - 주최: DACON
-  - 일시: 04. 18(월) ~ 05. 20(금)
-  
+## 22년 05월
 - __[금융권 취업/커리어 멘토링 : HOLIX 라이브세션](https://festa.io/events/2307)__
   - 분류: `웨비나`, `커리어`
   - 주최: 홀릭스
   - 일시: 05. 22(일) 20:00 ~ 21:00
+
 - __[제16회 경기게임오디션 참가자 모집](https://audition.gcon.or.kr/audition/main/main.php)__
   - 분류: `경진대회`
   - 주최: 경기도
