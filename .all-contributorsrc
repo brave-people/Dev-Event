@@ -465,6 +465,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "limsaehyun",
+      "name": "임세현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80076029?v=4",
+      "profile": "http://saehyun.kr",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
