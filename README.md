@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[금융권 취업/커리어 멘토링 : HOLIX 라이브세션](https://festa.io/events/2307)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 홀릭스
-  - 일시: 05. 22(일) 20:00 ~ 21:00
-
 - __[제16회 경기게임오디션 참가자 모집](https://audition.gcon.or.kr/audition/main/main.php)__
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 05. 03(화) ~ 05. 23(월)
+
 - __[토스페이먼츠 비전세션](https://docs.google.com/forms/d/e/1FAIpQLSd5a8Q3ormILJu93OY4jBW1X0jD-l_nwg9bva_q1owmdsTczA/viewform)__
   - 분류: `웨비나`
   - 주최: 토스페이먼츠
@@ -203,6 +199,10 @@
   - 분류: `공모전`
   - 주최: CJ
   - 일시: 05. 02(월) ~ 05. 31(화)
+- __[좋은 개발자로 성장하려면 + Tech Talk & Talk](https://devocean.sk.com/events/view.do?id=120)__
+  - 분류: `커리어`
+  - 주최: DEVOCEAN
+  - 일시: 05. 31(화) 16:00 ~ 18:00
 
 <br />
 
@@ -212,6 +212,10 @@
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
 
+- __[Ubuntu 22.04 LTS Release Party + InstallFest](https://festa.io/events/2313)__
+  - 분류: `우분투`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 06. 04(토) 14:00 ~ 18:00
 - __[엘리스 AI 트랙 5기 모집](https://festa.io/events/2286)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
@@ -240,6 +244,10 @@
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 16(월) ~ 06. 13(월)
+- __[좋은 코드에 대한 『클린코드』 역자의 생각들](https://www.onoffmix.com/event/255864)__
+  - 분류: `웨비나`, `클린코드`
+  - 주최: Udemy Korea(웅진 씽크빅)
+  - 접수: 06. 16(목)
 - __[메타버스엑스포 2022](https://metavexpo.com/visitor/registration/)__
   - 분류: `오프라인`, `메타버스`
   - 주최: (주)메쎼이상
