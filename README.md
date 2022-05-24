@@ -114,15 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[제16회 경기게임오디션 참가자 모집](https://audition.gcon.or.kr/audition/main/main.php)__
-  - 분류: `경진대회`
-  - 주최: 경기도
-  - 일시: 05. 03(화) ~ 05. 23(월)
-
 - __[토스페이먼츠 비전세션](https://docs.google.com/forms/d/e/1FAIpQLSd5a8Q3ormILJu93OY4jBW1X0jD-l_nwg9bva_q1owmdsTczA/viewform)__
   - 분류: `웨비나`
   - 주최: 토스페이먼츠
   - 모집: 05. 10(화) ~ 05. 24(화)
+  
 - __[SK텔레콤 AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `교육`, `AI`
   - 주최: SKT
@@ -212,6 +208,10 @@
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
 
+- __[2022 카카오페이 온라인 페이톡 사전신청](https://docs.google.com/forms/d/e/1FAIpQLSeW_AWR7xxTCauoZ8nGXEwtUcF3LVvajQjoOs7TJ2g3VovQkw/viewform)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 카카오페이
+  - 접수: 05. 24(화) ~ 06. 02(목)
 - __[Ubuntu 22.04 LTS Release Party + InstallFest](https://festa.io/events/2313)__
   - 분류: `우분투`
   - 주최: 우분투한국커뮤니티
@@ -232,6 +232,10 @@
   - 분류: `컨퍼런스`
   - 주최: 넥슨
   - 일시: 06. 07(화) ~ 06. 10(금)
+- __[[송파 클로저] Clojure 밋업 1회](https://festa.io/events/2320)__
+  - 분류: `웨비나`
+  - 주최: 그린랩스
+  - 일시: 06. 10(금) 18:00 ~ 21:00
 - __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
   - 분류: `대회`, `DevOps`, `AI`, `클라우드`
   - 주최: 마이크로소프트
