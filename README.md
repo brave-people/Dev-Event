@@ -203,11 +203,15 @@
 <br />
 
 ## 22년 06월
+- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2324)__
+  - 분류: `웨비나`, `하둡`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 06. 02(목)
+
 - __[2022 인공지능 온라인 경진대회](https://aichallenge.or.kr/)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
-
 - __[2022 카카오페이 온라인 페이톡 사전신청](https://docs.google.com/forms/d/e/1FAIpQLSeW_AWR7xxTCauoZ8nGXEwtUcF3LVvajQjoOs7TJ2g3VovQkw/viewform)__
   - 분류: `웨비나`, `커리어`
   - 주최: 카카오페이
