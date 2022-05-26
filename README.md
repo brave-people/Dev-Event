@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -498,6 +498,7 @@
     <td align="center"><a href="http://saehyun.kr"><img src="https://avatars.githubusercontent.com/u/80076029?v=4?s=100" width="100px;" alt=""/><br /><sub><b>임세현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=limsaehyun" title="Code">💻</a></td>
     <td align="center"><a href="https://parkshistory.tistory.com/"><img src="https://avatars.githubusercontent.com/u/26460114?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kim Min Gyu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ysjk2003" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Cardroid"><img src="https://avatars.githubusercontent.com/u/25889754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CP6</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Cardroid" title="Code">💻</a></td>
+    <td align="center"><a href="https://milkclouds.work/"><img src="https://avatars.githubusercontent.com/u/26109705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MilkClouds</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MilkClouds" title="Code">💻</a></td>
   </tr>
 </table>
 
