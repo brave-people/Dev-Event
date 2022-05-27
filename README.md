@@ -156,6 +156,10 @@
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 06. 02(목)
 
+- __[2022 카카오페이 온라인 페이톡 사전신청](https://docs.google.com/forms/d/e/1FAIpQLSeW_AWR7xxTCauoZ8nGXEwtUcF3LVvajQjoOs7TJ2g3VovQkw/viewform)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 카카오페이
+  - 접수: 05. 24(화) ~ 06. 02(목)
 - __[머신러닝 개발자 양성프로그램 - 2022년 3기 머신러닝 부트캠프](https://developers-kr.googleblog.com/2022/05/mlbootcamp22.html)__
   - 분류: `교육`
   - 주최: Google
@@ -164,10 +168,6 @@
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
-- __[2022 카카오페이 온라인 페이톡 사전신청](https://docs.google.com/forms/d/e/1FAIpQLSeW_AWR7xxTCauoZ8nGXEwtUcF3LVvajQjoOs7TJ2g3VovQkw/viewform)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 카카오페이
-  - 접수: 05. 24(화) ~ 06. 02(목)
 - __[Ubuntu 22.04 LTS Release Party + InstallFest](https://festa.io/events/2313)__
   - 분류: `우분투`
   - 주최: 우분투한국커뮤니티
@@ -176,6 +176,10 @@
   - 분류: `교육`, `AI`
   - 주최: 엘리스
   - 일시: 05. 09(월) ~ 06. 05(일)
+- __[Live 온라인: 오픈소스 개발자로 취업하는 방법](https://festa.io/events/2329)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 리얼리눅스
+  - 일시: 06. 08(수) 20:00 ~ 20:30
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
@@ -204,6 +208,10 @@
   - 분류: `교육`
   - 주최: NHN커머스
   - 일시: 05. 25(수) ~ 06. 10(금)
+- __[중고차 가격 예측 경진대회](https://dacon.io/competitions/official/235901/overview/description)__
+  - 분류: `경진대회`
+  - 주최: 데이콘
+  - 일시: 05. 30(월) ~ 06. 10(금)
 - __[마이 핀테크 서비스 개발경진대회](https://www.onoffmix.com/event/255864)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
@@ -224,6 +232,10 @@
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
   - 일시: 05. 20(금) ~ 06. 24(금)
+- __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
+  - 분류: `해커톤`
+  - 주최: GDG Campus Korea
+  - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
