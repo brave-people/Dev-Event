@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 05월
-- __[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발](https://festa.io/events/2264)__
-  - 분류: `웨비나`
-  - 주최: 과학기술정보통신부
-  - 일시: 05. 25(수) ~ 05. 27(금)
-  
-- __[[코딩이랑 무관합니다만 X 마켓컬리] 커리어패스와 무관합니다만](https://festa.io/events/2310)__
-  - 분류: `웨비나`
-  - 주최: 코딩이란 무관합니다만
-  - 일시: 05. 27(금) 18:50 ~ 20:40
-- __[KT AIVLE School(에이블스쿨) 2기 모집](https://www.kt-aivleschool-recruit.com/Recruit/Detail?id=2)__
-  - 분류: `교육`
-  - 주최: AIVLE
-  - 일시: 04. 25(월) ~ 05. 27(금)
 - __[새싹(SeSAC) SW취업과정 영등포 캠퍼스 교육생 모집](https://sesac.oopy.io/)__
   - 분류: `교육`
   - 주최: SeSAC
   - 일시: 04. 09(토) ~ 05. 30(월)
+
 - __[Gitlab Korea 밋업 #11 - 고가용성 GitLab을 만드는 방법](https://festa.io/events/2302)__
   - 분류: `웨비나`
   - 주최: GitLab Korea
@@ -180,6 +168,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 리얼리눅스
   - 일시: 06. 08(수) 20:00 ~ 20:30
+- __[부스트 캠프 온라인설명회](https://booking.naver.com/booking/12/bizes/527067)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 커넥트 재단
+  - 접수: 05. 30(월) ~ 06. 07(화)
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
@@ -216,6 +208,10 @@
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 16(월) ~ 06. 13(월)
+- __[삼성SDS 2022 하계 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSfy9AtkDthvIZVS6Ees6dYq09X0wz2IUca5elW4d0qVlSCvtw/viewform)__
+  - 분류: `교육`
+  - 주최: 삼성SDS
+  - 접수: 05. 30(월) ~ 06. 13(월)
 - __[제3회 AI·블록체인 아이디어 경진대회](https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=40)__
   - 분류: `경진대회`
   - 주최: 한국정보통신진흥협회
