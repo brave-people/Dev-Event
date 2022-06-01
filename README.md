@@ -151,6 +151,10 @@
   - 분류: `웨비나`, `교육`
   - 주최: 커넥트 재단
   - 접수: 05. 30(월) ~ 06. 07(화)
+- __[Microsoft Build 2022를 보고 나서! (첫번째 밋업)](https://festa.io/events/2346)__
+  - 분류: `오프라인`
+  - 주최: 마이크로소프트
+  - 일시: 06. 08(수) 19:00 ~ 21:00
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
@@ -183,6 +187,10 @@
   - 분류: `경진대회`
   - 주최: 데이콘
   - 일시: 05. 30(월) ~ 06. 10(금)
+- __[I/O 22 Extended in Korea Android](https://festa.io/events/2339)__
+  - 분류: `웨비나`, `오프라인`, `안드로이드`
+  - 주최: Extended Korea Android
+  - 일시: 06. 11(토) 13:00 ~ 18:00
 - __[마이 핀테크 서비스 개발경진대회](https://www.onoffmix.com/event/255864)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
