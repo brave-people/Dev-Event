@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 06월
-- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2324)__
-  - 분류: `웨비나`, `하둡`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 06. 02(목)
-
-- __[2022 카카오페이 온라인 페이톡 사전신청](https://docs.google.com/forms/d/e/1FAIpQLSeW_AWR7xxTCauoZ8nGXEwtUcF3LVvajQjoOs7TJ2g3VovQkw/viewform)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 카카오페이
-  - 접수: 05. 24(화) ~ 06. 02(목)
-- __[머신러닝 개발자 양성프로그램 - 2022년 3기 머신러닝 부트캠프](https://developers-kr.googleblog.com/2022/05/mlbootcamp22.html)__
-  - 분류: `교육`
-  - 주최: Google
-  - 모집: 05. 16(월) ~ 06. 02(목)
 - __[2022 인공지능 온라인 경진대회](https://aichallenge.or.kr/)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 09(월) ~ 06. 03(금)
+
 - __[Ubuntu 22.04 LTS Release Party + InstallFest](https://festa.io/events/2313)__
   - 분류: `우분투`
   - 주최: 우분투한국커뮤니티
@@ -215,6 +203,14 @@
   - 분류: `교육`, `웹`, `안드로이드`, `IOS`
   - 주최: 네이버 커넥트 재단
   - 접수: 06. 02(목) ~ 06. 21(화) 11:00
+- __[2022 오픈소스 컨트리뷰션 아카데미 멘티모집](https://www.oss.kr/notice/show/cf492935-9cf2-4755-98d8-e1ea6aae7abd)__
+  - 분류: `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 16(월) ~ 06. 21(화)
+- __[NVIDIA AI 개발자 밋업 - TAO Toolkit](https://festa.io/events/2348)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 06. 21(화) 14:00 ~ 16:00
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
@@ -223,6 +219,10 @@
   - 분류: `해커톤`
   - 주최: GDG Campus Korea
   - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
+- __[ESG 아이디어톤 참가자 모집](https://mobisthon.com/)__
+  - 분류: `아이디어톤`
+  - 주최: 현대모비스
+  - 일시: 06. 07(화) ~ 06. 26(일)
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
