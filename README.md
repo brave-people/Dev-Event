@@ -163,6 +163,10 @@
   - 분류: `웨비나`, `오프라인`, `안드로이드`
   - 주최: Extended Korea Android
   - 일시: 06. 11(토) 13:00 ~ 18:00
+- __[파이썬사랑방 오픈 기념 - PyScript 키노트 같이 보기](https://festa.io/events/2365)__
+  - 분류: `오프라인`, `파이썬`
+  - 주최: 파이썬 사랑방
+  - 일시: 06. 11(토) 14:00 ~ 16:00
 - __[마이 핀테크 서비스 개발경진대회](https://www.onoffmix.com/event/255864)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
@@ -207,6 +211,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 06. 21(화) 14:00 ~ 16:00
+- __[Welcome to AI World Meetup #1](https://festa.io/events/2363)__
+  - 분류: `오프라인`, `AI`
+  - 주최: Welcome to AI
+  - 일시: 06. 21(화) 14:00 ~ 16:00
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
@@ -239,6 +247,11 @@
 <br />
 
 ## 22년 07월
+- __[Depromeet 11th 최종 발표회](https://festa.io/events/2367)__
+  - 분류: `대회`, `인공지능`
+  - 주최: 디프만
+  - 일시: 07. 02(토) 14:00 ~ 15:00
+
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
