@@ -114,23 +114,11 @@
 <br />
 
 ## 22년 06월
-- __[Live 온라인: 오픈소스 개발자로 취업하는 방법](https://festa.io/events/2329)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 리얼리눅스
-  - 일시: 06. 08(수) 20:00 ~ 20:30
-
-- __[2022년 7차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/256305)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 전자정부 표준프레임워크 센터
-  - 접수: 06. 08(수)
-- __[Microsoft Build 2022를 보고 나서! (첫번째 밋업)](https://festa.io/events/2346)__
-  - 분류: `오프라인`
-  - 주최: 마이크로소프트
-  - 일시: 06. 08(수) 19:00 ~ 21:00
 - __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
   - 분류: `경진대회`, `AI`
   - 주최: 데이콘
   - 일시: 05. 02(월) ~ 06. 10(금)
+
 - __[애플 WWDC 2022](https://developer.apple.com/wwdc22)__
   - 분류: `컨퍼런스`
   - 주최: Apple
@@ -215,10 +203,18 @@
   - 분류: `오프라인`, `AI`
   - 주최: Welcome to AI
   - 일시: 06. 21(화) 14:00 ~ 16:00
+- __[Welcome to AI World Meetup #1](https://festa.io/events/2363)__
+  - 분류: `교육`, `벡엔드`, `iOS`
+  - 주최: 원티드
+  - 모집: 06. 08(수) ~ 06. 22(수)
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
   - 일시: 05. 20(금) ~ 06. 24(금)
+- __[DND 7기 모집](https://allforyoung.com/posts/16398/)__
+  - 분류: `모임`
+  - 주최: DND
+  - 모집: 06. 01(수) ~ 06. 24(금)
 - __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
   - 분류: `해커톤`
   - 주최: GDG Campus Korea
@@ -235,6 +231,10 @@
   - 분류: `교육`
   - 주최: 구름
   - 일시: 05. 30(월) ~ 06. 27(월)
+- __[2022 청년일다방 온오프라인 잡콘서트, 넉넉위크](https://mewing-almandine-c08.notion.site/2022-1b2f3ff7fd754fad96d7ebf7251ba506)__
+  - 분류: `온라인`, `멘토링`
+  - 주최: 성동구
+  - 일시: 06. 27(월) ~ 06. 30(목)
 - __[NHN Cloud make IT](https://makeit.nhncloud.com/2022/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: NHN Cloud
