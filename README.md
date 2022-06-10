@@ -231,6 +231,10 @@
   - 분류: `교육`
   - 주최: 구름
   - 일시: 05. 30(월) ~ 06. 27(월)
+- __[2022 메타버스 개발자 경진대회](https://metaversedev.kr/info/)__
+  - 분류: `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 05. 31(화) ~ 06. 28(화)
 - __[2022 청년일다방 온오프라인 잡콘서트, 넉넉위크](https://mewing-almandine-c08.notion.site/2022-1b2f3ff7fd754fad96d7ebf7251ba506)__
   - 분류: `온라인`, `멘토링`
   - 주최: 성동구
@@ -251,6 +255,11 @@
   - 분류: `대회`, `인공지능`
   - 주최: 디프만
   - 일시: 07. 02(토) 14:00 ~ 15:00
+
+- __[2022 Hello New( ) World 해커톤대회](http://hellonewworld.co.kr)__
+  - 분류: `해커톤`
+  - 주최: 신세계 아이앤씨
+  - 일시: 06. 03(금) ~ 07. 05(화)
 
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
