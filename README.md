@@ -252,6 +252,11 @@
   - 주최: 디프만
   - 일시: 07. 02(토) 14:00 ~ 15:00
 
+- __[2022 Hello New( ) World 해커톤대회](http://hellonewworld.co.kr)__
+  - 분류: `해커톤`
+  - 주최: 신세계 아이앤씨
+  - 일시: 06. 03(금) ~ 07. 05(화)
+
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
