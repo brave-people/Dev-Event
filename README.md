@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-57-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -487,6 +487,9 @@
     <td align="center"><a href="https://github.com/Cardroid"><img src="https://avatars.githubusercontent.com/u/25889754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CP6</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Cardroid" title="Code">💻</a></td>
     <td align="center"><a href="https://milkclouds.work/"><img src="https://avatars.githubusercontent.com/u/26109705?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MilkClouds</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=MilkClouds" title="Code">💻</a></td>
     <td align="center"><a href="https://jiyusu99.tistory.com"><img src="https://avatars.githubusercontent.com/u/55318618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>권유리</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YuriKwon" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://about.sungmin.dev"><img src="https://avatars.githubusercontent.com/u/37958836?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sungmin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=devsungmin" title="Code">💻</a></td>
   </tr>
 </table>
 
