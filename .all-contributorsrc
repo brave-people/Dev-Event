@@ -510,6 +510,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "devsungmin",
+      "name": "Sungmin Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37958836?v=4",
+      "profile": "https://about.sungmin.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
