@@ -252,9 +252,9 @@
 
 ## 22년 07월
 - __[Depromeet 11th 최종 발표회](https://festa.io/events/2367)__
-  - 분류: `대회`, `인공지능`
+  - 분류: `발표회`, `오프라인`
   - 주최: 디프만
-  - 일시: 07. 02(토) 14:00 ~ 15:00
+  - 일시: 07. 02(토) 14:00 ~ 17:00
 
 - __[2022 Hello New( ) World 해커톤대회](http://hellonewworld.co.kr)__
   - 분류: `해커톤`
@@ -301,26 +301,26 @@
 
 ## 개발자 동아리
 
-| 이름 | 활동 | 링크 |
-|------------|---------|-----------|
-| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트 | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
-| 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
-| 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
-| YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
-| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
-| AUSG | AWS 대학생 그룹 | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
-| D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체 | [dnd.ac](https://dnd.ac/) |
-| SOPT | 대학생 연합 IT벤처 창업 동아리 | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
-| 멋쟁이사자처럼 | 대학생 연합 동아리 | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
-| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리 | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
-| 디프만 | 디자이너와 프로그래머의 만남 | [depromeet.com](https://www.depromeet.com/) |
-| 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임 | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
-| CEOS | 신촌 연합 IT 창업 동아리 | [공식 홈페이지](https://www.ceos.or.kr/) |
-| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리 | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
-| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리 | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
-| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램 | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
-| Central MakeUs Challenge | - | [공식 홈페이지](https://makeus.in/) |
-| 힙한 주니어들의 비밀 | - | [공식 홈페이지](https://litt.ly/hipjubie)
+| 이름 | 활동                                            | 링크 |
+|------------|-----------------------------------------------|-----------|
+| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
+| 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
+| 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
+| YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/) |
+| Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
+| AUSG | AWS 대학생 그룹                                    | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
+| D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
+| SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
+| 멋쟁이사자처럼 | 대학생 연합 동아리                                    | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
+| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리         | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
+| 디프만 | 디자이너와 프로그래머가 만났을 때                            | [depromeet.com](https://www.depromeet.com/) |
+| 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임                         | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
+| CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
+| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
+| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
+| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
+| Central MakeUs Challenge | -                                             | [공식 홈페이지](https://makeus.in/) |
+| 힙한 주니어들의 비밀 | -                                             | [공식 홈페이지](https://litt.ly/hipjubie)
 
 <br />
 
