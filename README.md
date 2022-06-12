@@ -362,6 +362,7 @@
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
+| Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
 | Django Girls Seoul | [djangogirls.org](https://djangogirls.org/seoul/) |
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
