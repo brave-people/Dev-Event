@@ -114,51 +114,11 @@
 <br />
 
 ## 22년 06월
-- __[코드 유사성 판단 AI 경진대회](https://dacon.io/competitions/official/235900/overview/description)__
-  - 분류: `경진대회`, `AI`
-  - 주최: 데이콘
-  - 일시: 05. 02(월) ~ 06. 10(금)
-
-- __[애플 WWDC 2022](https://developer.apple.com/wwdc22)__
-  - 분류: `컨퍼런스`
-  - 주최: Apple
-  - 일시: 06. 06(월) ~ 06. 10(금)
-- __[nexon developers conference 22](https://ndc.nexon.com/main)__
-  - 분류: `컨퍼런스`
-  - 주최: 넥슨
-  - 일시: 06. 07(화) ~ 06. 10(금)
-- __[토스 개발자 컨퍼런스 SLASH 22](https://toss.im/slash-22)__
-  - 분류: `컨퍼런스`
-  - 주최: 토스
-  - 일시: 06. 08(수) ~ 06. 10(금)
-- __[[송파 클로저] Clojure 밋업 1회](https://festa.io/events/2320)__
-  - 분류: `웨비나`
-  - 주최: 그린랩스
-  - 일시: 06. 10(금) 18:00 ~ 21:00
-- __[2022 Azure Virtual Hackathon](https://aifactory.space/competition/detail/2005)__
-  - 분류: `대회`, `DevOps`, `AI`, `클라우드`
-  - 주최: 마이크로소프트
-  - 일시: 03. 24(목) ~ 06. 10(금)
-- __[NHN커머스 개발자 양성 과정 모집](https://recruit.nhn.com/ent/recruitings/20002509)__
-  - 분류: `교육`
-  - 주최: NHN커머스
-  - 일시: 05. 25(수) ~ 06. 10(금)
-- __[중고차 가격 예측 경진대회](https://dacon.io/competitions/official/235901/overview/description)__
-  - 분류: `경진대회`
-  - 주최: 데이콘
-  - 일시: 05. 30(월) ~ 06. 10(금)
-- __[I/O 22 Extended in Korea Android](https://festa.io/events/2339)__
-  - 분류: `웨비나`, `오프라인`, `안드로이드`
-  - 주최: Extended Korea Android
-  - 일시: 06. 11(토) 13:00 ~ 18:00
-- __[파이썬사랑방 오픈 기념 - PyScript 키노트 같이 보기](https://festa.io/events/2365)__
-  - 분류: `오프라인`, `파이썬`
-  - 주최: 파이썬 사랑방
-  - 일시: 06. 11(토) 14:00 ~ 16:00
 - __[마이 핀테크 서비스 개발경진대회](https://www.onoffmix.com/event/255864)__
   - 분류: `경진대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 16(월) ~ 06. 13(월)
+
 - __[삼성SDS 2022 하계 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSfy9AtkDthvIZVS6Ees6dYq09X0wz2IUca5elW4d0qVlSCvtw/viewform)__
   - 분류: `교육`
   - 주최: 삼성SDS
@@ -207,6 +167,10 @@
   - 분류: `교육`, `벡엔드`, `iOS`
   - 주최: 원티드
   - 모집: 06. 08(수) ~ 06. 22(수)
+- __[쿠버네티스 네트워킹을 통해 가동시간을 늘리고, 고객 환경을 개선하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=85&sc_category=)__
+  - 분류: `교육`, `Nginx`
+  - 주최: 디지털투데이
+  - 일시: 06. 23(목) 14:00 ~ 15:00
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
@@ -215,18 +179,22 @@
   - 분류: `모임`
   - 주최: DND
   - 모집: 06. 01(수) ~ 06. 24(금)
-- __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
-  - 분류: `해커톤`
-  - 주최: GDG Campus Korea
-  - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
 - __[디스콰이엇 메이커톤](https://festa.io/events/2356)__
   - 분류: `해커톤`
   - 주최: 디스콰이엇
   - 일시: 06. 24(금) 19:00 ~ 06. 26(일) 15:00
+- __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
+  - 분류: `해커톤`
+  - 주최: GDG Campus Korea
+  - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
 - __[ESG 아이디어톤 참가자 모집](https://mobisthon.com/)__
   - 분류: `아이디어톤`
   - 주최: 현대모비스
   - 모집: 06. 07(화) ~ 06. 26(일)
+- __[세번째 마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSednRT-LrcR-VHbyfQi3yKmslVpTmDEsTCiWmnaOozv5Ll4Vw/viewform)__
+  - 분류: `웨비나`
+  - 주최: 마켓컬리
+  - 접수: 06. 13(월) ~ 06. 26(일)
 - __[카카오엔터프라이즈와 함께 하는 K-Digital Training 5기](https://allforyoung.com/posts/16729/)__
   - 분류: `교육`
   - 주최: 구름
@@ -235,6 +203,10 @@
   - 분류: `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 05. 31(화) ~ 06. 28(화)
+- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 롯데맴버스
+  - 일시: 06. 29(수)
 - __[2022 청년일다방 온오프라인 잡콘서트, 넉넉위크](https://mewing-almandine-c08.notion.site/2022-1b2f3ff7fd754fad96d7ebf7251ba506)__
   - 분류: `온라인`, `멘토링`
   - 주최: 성동구
