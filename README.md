@@ -115,15 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[제3회 AI·블록체인 아이디어 경진대회](https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=40)__
-  - 분류: `경진대회`
-  - 주최: 한국정보통신진흥협회
-  - 접수: 05. 03(화) ~ 06. 14(화)
-
 - __[제 11회 OSBC 오픈소스 컨퍼런스](https://onoffmix.com/event/255664)__
   - 분류: `오프라인`, `오픈소스`
   - 주최: 한국공개소프트웨어협회
   - 일시: 06. 15(수) 09:30 ~ 19:00
+  
 - __[좋은 코드에 대한 『클린코드』 역자의 생각들](https://www.wanted.co.kr/events/udemykoreacleancode)__
   - 분류: `웨비나`, `클린코드`
   - 주최: Udemy Korea(웅진 씽크빅)
@@ -188,6 +184,10 @@
   - 분류: `모임`
   - 주최: DND
   - 모집: 06. 01(수) ~ 06. 24(금)
+- __[Microsoft Build 2022 After Party](https://festa.io/events/2378)__
+  - 분류: `커뮤니티`
+  - 주최: Microsoft MVP Community
+  - 일시: 06. 25(토) 13:00 ~ 17:00
 - __[디스콰이엇 메이커톤](https://festa.io/events/2356)__
   - 분류: `해커톤`
   - 주최: 디스콰이엇
@@ -212,6 +212,10 @@
   - 분류: `교육`
   - 주최: 구름
   - 일시: 05. 30(월) ~ 06. 27(월)
+- __[골프존 테크 아카데미 - Front-end / Back-end 개발 코스](https://golfzon.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=101661)__
+  - 분류: `교육`, `무료`
+  - 주최: 골프존 테크 아카데미
+  - 일시: 06. 14(화) ~ 06. 27(월)
 - __[2022 메타버스 개발자 경진대회](https://metaversedev.kr/info/)__
   - 분류: `메타버스`
   - 주최: 과학기술정보통신부
@@ -241,6 +245,14 @@
   - 주최: 디프만
   - 일시: 07. 02(토) 14:00 ~ 17:00
 
+- __[D2 CAMPUS PARTNER](https://d2.naver.com/news/6671933)__
+  - 분류: `모임`
+  - 주최: 네이버 D2
+  - 접수: 06. 13(월) ~ 07. 08(금)
+- __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
+  - 분류: `경진대회`, `대학생`
+  - 주최: 행정안전부
+  - 접수: 06. 20(월) ~ 07. 29(금)
 - __[2022 Hello New( ) World 해커톤대회](http://hellonewworld.co.kr)__
   - 분류: `해커톤`
   - 주최: 신세계 아이앤씨
