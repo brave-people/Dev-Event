@@ -115,15 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[제 11회 OSBC 오픈소스 컨퍼런스](https://onoffmix.com/event/255664)__
-  - 분류: `오프라인`, `오픈소스`
-  - 주최: 한국공개소프트웨어협회
-  - 일시: 06. 15(수) 09:30 ~ 19:00
-  
 - __[좋은 코드에 대한 『클린코드』 역자의 생각들](https://www.wanted.co.kr/events/udemykoreacleancode)__
   - 분류: `웨비나`, `클린코드`
   - 주최: Udemy Korea(웅진 씽크빅)
   - 접수: 06. 16(목)
+
 - __[게임사들을 위한 보안 완.전.정.복 컨퍼런스! GAME X SECURITY](https://festa.io/events/2321)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -220,22 +216,31 @@
   - 분류: `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 05. 31(화) ~ 06. 28(화)
-- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 롯데맴버스
-  - 일시: 06. 29(수)
-- __[2022 청년일다방 온오프라인 잡콘서트, 넉넉위크](https://mewing-almandine-c08.notion.site/2022-1b2f3ff7fd754fad96d7ebf7251ba506)__
-  - 분류: `온라인`, `멘토링`
-  - 주최: 성동구
-  - 일시: 06. 27(월) ~ 06. 30(목)
 - __[NHN Cloud make IT](https://makeit.nhncloud.com/2022/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: NHN Cloud
   - 일시: 06. 28(화) 10:00 ~ 18:00
+- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 롯데맴버스
+  - 일시: 06. 29(수)
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
   - 일시: 03. 16(토) ~ 06. 30(일)
+- __[2022 청년일다방 온오프라인 잡콘서트, 넉넉위크](https://mewing-almandine-c08.notion.site/2022-1b2f3ff7fd754fad96d7ebf7251ba506)__
+  - 분류: `온라인`, `멘토링`
+  - 주최: 성동구
+  - 일시: 06. 27(월) ~ 06. 30(목)
+- __[캐치 커리어콘 OO테크](https://www.catch.co.kr/CatchClass/CareerCon)__
+  - 분류: `웨비나`, `커리어`, `AI`
+  - 주최: 캐치
+  - 일시: 06. 28(화) ~ 06. 30(목)
+- __[Google I/O Extended 2022 Cloud Busan](https://festa.io/events/2389)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: GDG Cloud Busan
+  - 일시: 06. 30(목) 18:30 ~ 22:00
+
 
 <br />
 
