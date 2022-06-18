@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-58-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -501,6 +501,7 @@
   <tr>
     <td align="center"><a href="https://about.sungmin.dev"><img src="https://avatars.githubusercontent.com/u/37958836?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sungmin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=devsungmin" title="Code">💻</a></td>
     <td align="center"><a href="https://nimuseel.dev"><img src="https://avatars.githubusercontent.com/u/48236404?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Louie(Sumin Lee)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nimuseel" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tonyfromundefined"><img src="https://avatars.githubusercontent.com/u/20325202?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tony</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tonyfromundefined" title="Code">💻</a></td>
   </tr>
 </table>
 
