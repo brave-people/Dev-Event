@@ -397,6 +397,7 @@
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
 | 안드로이드개발 | [facebook](https://www.facebook.com/groups/androidcode/) |
 | 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
+| GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
 
 <br />
 
