@@ -115,19 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[메타버스엑스포 2022](https://metavexpo.com/visitor/registration/)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: (주)메쎼이상
-  - 일시: 06. 15(수) ~ 06. 17(금)
-
-- __[넥스트 라이즈 2022 서울](https://nextrise.co.kr/ko/about/about)__
-  - 분류: `온라인`, `오프라인`, `기술`
-  - 주최: 넥스트라이즈
-  - 일시: 06. 16(목) ~ 06. 17(금)
 - __[부스트캠프 웹·모바일 7기](https://blog.naver.com/boostcamp_official/222743073202)__
   - 분류: `교육`, `웹`, `안드로이드`, `IOS`
   - 주최: 네이버 커넥트 재단
   - 접수: 06. 02(목) ~ 06. 21(화) 11:00
+
 - __[2022 오픈소스 컨트리뷰션 아카데미 멘티모집](https://www.oss.kr/notice/show/cf492935-9cf2-4755-98d8-e1ea6aae7abd)__
   - 분류: `오픈소스`
   - 주최: 과학기술정보통신부
@@ -184,6 +176,10 @@
   - 분류: `해커톤`
   - 주최: 디스콰이엇
   - 일시: 06. 24(금) 19:00 ~ 06. 26(일) 15:00
+- __[클라우드 스터디 잼 - 쿠버네티스 입문](https://sites.google.com/view/studyjam-kr/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8)__
+  - 분류: `스터디`, `쿠버네티스`
+  - 주최: Google
+  - 모집: 06. 20(월) ~ 06. 26(일)
 - __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
   - 분류: `해커톤`
   - 주최: GDG Campus Korea
@@ -220,10 +216,18 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: NHN Cloud
   - 일시: 06. 28(화) 10:00 ~ 18:00
+- __[AIAI: Healthcare Workshop](https://festa.io/events/2399)__
+  - 분류: `오프라인`, `AI`
+  - 주최: The AI Lab
+  - 일시: 06. 28(화) 10:00 ~ 18:00
 - __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 롯데맴버스
   - 일시: 06. 29(수)
+- __[우아한 PM의 밤](https://woowapm.com/)__
+  - 분류: `오프라인`, `온라인`, `PM`
+  - 주최: 우아한형제들
+  - 일시: 6월 17일(금) ~ 6월 29일(수)
 - __[2022 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2006)__
   - 분류: `대회`, `인공지능`
   - 주최: 에트리
@@ -240,16 +244,27 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG Cloud Busan
   - 일시: 06. 30(목) 18:30 ~ 22:00
-
+- __[[OKKY 6월 세미나] 공부는 공부의 결과를 낳는다](https://okky.kr/article/1252511)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: okky
+  - 접수: 06. 20(월) ~ 06. 30(목) 14:00
 
 <br />
 
 ## 22년 07월
+- __[DACrew 3기 모집](https://festa.io/events/2367)__
+  - 분류: `스터디`
+  - 주최: 데이콘
+  - 모집: 06. 20일(월) ~ 07. 01(금) 
+
 - __[Depromeet 11th 최종 발표회](https://festa.io/events/2367)__
   - 분류: `발표회`, `오프라인`
   - 주최: 디프만
   - 일시: 07. 02(토) 14:00 ~ 17:00
-
+- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 롯데멤버스
+  - 접수: 06. 02(목) ~ 07. 03(일)
 - __[부스트코스 코칭스터디 ‘모두를 위한 파이썬(PY4E 2022)’ 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20008486)__
   - 분류: `스터디`
   - 주최: 커넥츠재단
@@ -399,6 +414,8 @@
 | 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
 | GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
 | Tensorflow KR | [facebook](https://www.facebook.com/groups/TensorFlowKR/about) |
+| Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
+
 
 <br />
 
