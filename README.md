@@ -264,7 +264,7 @@
 <br />
 
 ## 22년 07월
-- __[DACrew 3기 모집](https://festa.io/events/2367)__
+- __[DACrew 3기 모집](https://dacon.notion.site/DACrew-3-17d5c216544f4145b58a60fd1f42a217)__
   - 분류: `스터디`
   - 주최: 데이콘
   - 모집: 06. 20일(월) ~ 07. 01(금) 
