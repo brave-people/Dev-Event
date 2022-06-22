@@ -115,31 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[부스트캠프 웹·모바일 7기](https://blog.naver.com/boostcamp_official/222743073202)__
-  - 분류: `교육`, `웹`, `안드로이드`, `IOS`
-  - 주최: 네이버 커넥트 재단
-  - 접수: 06. 02(목) ~ 06. 21(화) 11:00
-
-- __[2022 오픈소스 컨트리뷰션 아카데미 멘티모집](https://www.oss.kr/notice/show/cf492935-9cf2-4755-98d8-e1ea6aae7abd)__
-  - 분류: `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 16(월) ~ 06. 21(화)
-- __[NVIDIA AI 개발자 밋업 - TAO Toolkit](https://festa.io/events/2348)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 06. 21(화) 14:00 ~ 16:00
-- __[Welcome to AI World Meetup #1](https://festa.io/events/2363)__
-  - 분류: `오프라인`, `AI`
-  - 주최: Welcome to AI
-  - 일시: 06. 21(화) 14:00 ~ 16:00
-- __[AI+면접솔루션(개발자 커리어 관리, AI 면접솔루션 노하우)](https://form.typeform.com/to/GyHUEfYS)__
-  - 분류: `웨비나`, `무료`, `면접`
-  - 주최: 모두의 연구소
-  - 접수: 06. 15(수) ~ 06. 21(화)
 - __[현대자동차 연구개발본부 AI 경진대회](https://www.hyundai-ai-competition.com/apply-form)__
   - 분류: `경진대회`, `AI`
   - 주최: 현대자동차
   - 모집: 05. 25(수) ~ 06. 22(수)
+  
 - __[Korea Spring Meetup with Josh Long](https://www.facebook.com/events/602837658152152/)__
   - 분류: `웨비나`, `스프링`
   - 주최: VMware Tanzu Korea
@@ -293,6 +273,10 @@
   - 분류: `온라인`, `모임`
   - 주최: 파이썬 사랑방
   - 접수: 06. 21(화) ~ 07. 02(토)
+- __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://festa.io/events/2396)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클
+  - 일시: 07. 13(수) 17:00 ~ 18:00
 - __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
   - 분류: `경진대회`, `대학생`
   - 주최: 행정안전부
@@ -305,6 +289,14 @@
   - 분류: `온라인`, `모임`
   - 주최: 파이썬 사랑방
   - 접수: 06. 21(화) ~ 07. 11(월)
+- __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 한국거래소
+  - 접수: 06. 27(월) ~ 07. 22(금)
+- __[[개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!](https://event-us.kr/ted/event/45142)__
+  - 분류: `오프라인`, `유료`, `커리어`
+  - 주최: 테드박의 개발자행사
+  - 접수: 06. 22(수) ~ 07. 29(금)
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
