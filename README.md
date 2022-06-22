@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-60-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -533,6 +533,7 @@
     <td align="center"><a href="https://nimuseel.dev"><img src="https://avatars.githubusercontent.com/u/48236404?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Louie(Sumin Lee)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nimuseel" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/tonyfromundefined"><img src="https://avatars.githubusercontent.com/u/20325202?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tony</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tonyfromundefined" title="Code">💻</a></td>
     <td align="center"><a href="https://yonghip.tistory.com/"><img src="https://avatars.githubusercontent.com/u/58303938?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yonghee Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hykhhijk" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/june0216"><img src="https://avatars.githubusercontent.com/u/76603301?v=4?s=100" width="100px;" alt=""/><br /><sub><b>june0216</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=june0216" title="Code">💻</a></td>
   </tr>
 </table>
 
