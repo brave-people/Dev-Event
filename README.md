@@ -115,27 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[현대자동차 연구개발본부 AI 경진대회](https://www.hyundai-ai-competition.com/apply-form)__
-  - 분류: `경진대회`, `AI`
-  - 주최: 현대자동차
-  - 모집: 05. 25(수) ~ 06. 22(수)
-  
-- __[Korea Spring Meetup with Josh Long](https://www.facebook.com/events/602837658152152/)__
-  - 분류: `웨비나`, `스프링`
-  - 주최: VMware Tanzu Korea
-  - 일시: 06. 22(수)
-- __[하시코프 사용자 모임 2022년 6월 서울 밋업](https://festa.io/events/2383)__
-  - 분류: `오프라인`, `하시코프`
-  - 주최: HashiCorp 한국사용자모임
-  - 일시: 06. 22(수) 20:00 ~ 22:00
-- __[Welcome to AI World Meetup #1](https://festa.io/events/2363)__
-  - 분류: `교육`, `벡엔드`, `iOS`
-  - 주최: 원티드
-  - 모집: 06. 08(수) ~ 06. 22(수)
 - __[쿠버네티스 네트워킹을 통해 가동시간을 늘리고, 고객 환경을 개선하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=85&sc_category=)__
   - 분류: `교육`, `Nginx`
   - 주최: 디지털투데이
   - 일시: 06. 23(목) 14:00 ~ 15:00
+
 - __[네이버 IT직군 특집 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5260)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
@@ -277,6 +261,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 07. 13(수) 17:00 ~ 18:00
+- __[VIMRC 2022](https://festa.io/events/2412)__
+  - 분류: `오프라인`, `VIM`
+  - 주최: VIMRC
+  - 일시: 07. 23(토) 13:00 ~ 18:00
 - __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
   - 분류: `경진대회`, `대학생`
   - 주최: 행정안전부
