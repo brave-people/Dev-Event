@@ -115,27 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[쿠버네티스 네트워킹을 통해 가동시간을 늘리고, 고객 환경을 개선하는 방법](http://www.digitaltoday.co.kr/bbs/view.html?idxno=85&sc_category=)__
-  - 분류: `교육`, `Nginx`
-  - 주최: 디지털투데이
-  - 일시: 06. 23(목) 14:00 ~ 15:00
-
-- __[네이버 IT직군 특집 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5260)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 06. 23(목) 20:00 ~ 21:30
-- __[카카오 응용분석팀 & 추천팀 채용설명회](https://careers.kakao.com/jobs/P-12703)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 카카오
-  - 일시: 06. 23(목) 20:00 ~ 22:00
-- __[삼성 주니어 SW 창작대회 대학(원)생 멘토 모집](https://www.juniorsoftwarecup.com/Notice/Detail/1256?pageidx=1)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 교육부
-  - 일시: 06. 02(목) ~ 06. 23(목)
 - __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
   - 분류: `경진대회`, `알고리즘`
   - 주최: 현대모비스
   - 일시: 05. 20(금) ~ 06. 24(금)
+
 - __[DND 7기 모집](https://dnd.ac/)__
   - 분류: `모임`
   - 주최: DND
@@ -167,6 +151,10 @@
 - __[세번째 마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSednRT-LrcR-VHbyfQi3yKmslVpTmDEsTCiWmnaOozv5Ll4Vw/viewform)__
   - 분류: `웨비나`
   - 주최: 마켓컬리
+  - 접수: 06. 13(월) ~ 06. 26(일)
+- __[DEVOCEAN YOUNG 모집](https://docs.google.com/forms/d/e/1FAIpQLSfWdLrFtPRnkUt4Z3lrvlXk4ZmmEoMId2w8w0YrNbDik7v9vw/viewform)__
+  - 분류: `개발자`, `마케터`
+  - 주최: SKT
   - 접수: 06. 13(월) ~ 06. 26(일)
 - __[Flutter I/O Extended Korea 2022](https://festa.io/events/2361)__
   - 분류: `웨비나`, `Flutter`
@@ -220,6 +208,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG Cloud Busan
   - 일시: 06. 30(목) 18:30 ~ 22:00
+- __[깃허브 코파일럿(GitHub Copilot) 제품 데모와 로드맵](https://devocean.sk.com/events/view.do?id=126)__
+  - 분류: `웨비나`, `AI`
+  - 주최: DEVOCEAN
+  - 일시: 06. 30(목) 10:00 ~ 12:00
 - __[[OKKY 6월 세미나] 공부는 공부의 결과를 낳는다](https://okky.kr/article/1252511)__
   - 분류: `웨비나`, `커리어`
   - 주최: okky
@@ -237,18 +229,22 @@
   - 분류: `발표회`, `오프라인`
   - 주최: 디프만
   - 일시: 07. 02(토) 14:00 ~ 17:00
-- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 롯데멤버스
-  - 접수: 06. 02(목) ~ 07. 03(일)
 - __[부스트코스 코칭스터디 ‘모두를 위한 파이썬(PY4E 2022)’ 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20008486)__
   - 분류: `스터디`
   - 주최: 커넥츠재단
   - 일시: 07. 02(토) 14:00 ~ 17:00
+- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
+  - 분류: `경진대회`, `빅데이터`
+  - 주최: 롯데멤버스
+  - 접수: 06. 02(목) ~ 07. 03(일)
 - __[AIAI: Deep Learning Summer School](https://festa.io/events/2391)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: AIAI
   - 모집: 06. 16(목) ~ 07. 06(수)
+- __[FEConf 2022 FE World 연사 모집](https://docs.google.com/forms/d/e/1FAIpQLSeXexK2QOucCefRZjhjvDW6DJrHBCTdQToiyawiOfwi3AUQUg/viewform)__
+  - 분류: `프론트엔드`, `발표`
+  - 주최: FEConf
+  - 접수: 06. 24(금) ~ 07. 06(수)
 - __[D2 CAMPUS PARTNER](https://d2.naver.com/news/6671933)__
   - 분류: `모임`
   - 주최: 네이버 D2
@@ -318,12 +314,14 @@
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 파이콘 한국
   - 일시: 10. 01(토) ~ 10. 02(일)
-- __[FEConf 2022](https://2022.feconf.kr)__
-  - 분류: `컨퍼런스`, `오프라인`
+  
+- __[FEConf 2022 FE World](https://2022.feconf.kr)__
+  - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
   - 일시: 10. 08(토)
 
----------------
+
+----------------
 
 <br />
 
