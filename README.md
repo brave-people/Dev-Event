@@ -115,51 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[2022년 현대모비스 알고리즘 경진대회](https://allforyoung.com/posts/16398/)__
-  - 분류: `경진대회`, `알고리즘`
-  - 주최: 현대모비스
-  - 일시: 05. 20(금) ~ 06. 24(금)
-
-- __[DND 7기 모집](https://dnd.ac/)__
-  - 분류: `모임`
-  - 주최: DND
-  - 모집: 06. 01(수) ~ 06. 24(금)
-- __[Microsoft Build 2022 After Party](https://festa.io/events/2378)__
-  - 분류: `커뮤니티`
-  - 주최: Microsoft MVP Community
-  - 일시: 06. 25(토) 13:00 ~ 17:00
-- __[디스콰이엇 메이커톤](https://festa.io/events/2356)__
-  - 분류: `해커톤`
-  - 주최: 디스콰이엇
-  - 일시: 06. 24(금) 19:00 ~ 06. 26(일) 15:00
-- __[클라우드 스터디 잼 - 쿠버네티스 입문](https://sites.google.com/view/studyjam-kr/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%9E%85%EB%AC%B8)__
-  - 분류: `스터디`, `쿠버네티스`
-  - 주최: Google
-  - 모집: 06. 20(월) ~ 06. 26(일)
-- __[GDG 썸머 해커톤 : 오프티벌](https://festa.io/events/2314)__
-  - 분류: `해커톤`
-  - 주최: GDG Campus Korea
-  - 일시: 06. 25(토) 11:30 ~ 06. 26(일) 16:00
-- __[현대모비스 ESG 아이디어톤 참가자 모집](https://mobisthon.com)__
-  - 분류: `아이디어톤`
-  - 주최: 현대모비스
-  - 일시: 06. 07(화) ~ 06. 26(일)
-- __[ESG 아이디어톤 참가자 모집](https://mobisthon.com/)__
-  - 분류: `아이디어톤`
-  - 주최: 현대모비스
-  - 모집: 06. 07(화) ~ 06. 26(일)
-- __[세번째 마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSednRT-LrcR-VHbyfQi3yKmslVpTmDEsTCiWmnaOozv5Ll4Vw/viewform)__
-  - 분류: `웨비나`
-  - 주최: 마켓컬리
-  - 접수: 06. 13(월) ~ 06. 26(일)
-- __[DEVOCEAN YOUNG 모집](https://docs.google.com/forms/d/e/1FAIpQLSfWdLrFtPRnkUt4Z3lrvlXk4ZmmEoMId2w8w0YrNbDik7v9vw/viewform)__
-  - 분류: `개발자`, `마케터`
-  - 주최: SKT
-  - 접수: 06. 13(월) ~ 06. 26(일)
 - __[Flutter I/O Extended Korea 2022](https://festa.io/events/2361)__
   - 분류: `웨비나`, `Flutter`
   - 주최: Flutter Korea
   - 접수: 06. 26(일) 14:00 ~ 17:00
+
 - __[카카오엔터프라이즈와 함께 하는 K-Digital Training 5기](https://allforyoung.com/posts/16729/)__
   - 분류: `교육`
   - 주최: 구름
@@ -204,6 +164,10 @@
   - 분류: `웨비나`, `커리어`, `AI`
   - 주최: 캐치
   - 일시: 06. 28(화) ~ 06. 30(목)
+- __[Google I/O Extended 2022 Daejeon](https://festa.io/events/2411)__
+  - 분류: `오프라인`
+  - 주최: GDG Cloud Daejeon
+  - 일시: 06. 30(목) 08:00 ~ 22:00
 - __[Google I/O Extended 2022 Cloud Busan](https://festa.io/events/2389)__
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG Cloud Busan
