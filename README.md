@@ -115,27 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[Flutter I/O Extended Korea 2022](https://festa.io/events/2361)__
-  - 분류: `웨비나`, `Flutter`
-  - 주최: Flutter Korea
-  - 접수: 06. 26(일) 14:00 ~ 17:00
-
-- __[카카오엔터프라이즈와 함께 하는 K-Digital Training 5기](https://allforyoung.com/posts/16729/)__
-  - 분류: `교육`
-  - 주최: 구름
-  - 일시: 05. 30(월) ~ 06. 27(월)
-- __[골프존 테크 아카데미 - Front-end / Back-end 개발 코스](https://golfzon.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=101661)__
-  - 분류: `교육`, `무료`
-  - 주최: 골프존 테크 아카데미
-  - 일시: 06. 14(화) ~ 06. 27(월)
-- __[카카오 데이터정보플랫폼팀 & 광고추천팀 채용설명회](https://careers.kakao.com/jobs/P-12703)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 카카오
-  - 일시: 06. 27(목) 20:00 ~ 22:00
 - __[2022 메타버스 개발자 경진대회](https://metaversedev.kr/info/)__
   - 분류: `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 05. 31(화) ~ 06. 28(화)
+
 - __[NHN Cloud make IT](https://makeit.nhncloud.com/2022/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: NHN Cloud
@@ -172,6 +156,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG Cloud Busan
   - 일시: 06. 30(목) 18:30 ~ 22:00
+- __[2022 ICT콤플렉스 전문가 네트워킹 행사 제4회](https://docs.google.com/forms/d/e/1FAIpQLSfKzlYU2b8PmzHmLlPA8Ze3hLMfsLfggeujeLS9tCUO5q9eAQ/viewform)__
+  - 분류: `오프라인`, `네트워킹`
+  - 주최: ICT콤플렉스
+  - 일시: 06. 30(목)
 - __[깃허브 코파일럿(GitHub Copilot) 제품 데모와 로드맵](https://devocean.sk.com/events/view.do?id=126)__
   - 분류: `웨비나`, `AI`
   - 주최: DEVOCEAN
@@ -189,6 +177,10 @@
   - 주최: 데이콘
   - 모집: 06. 20일(월) ~ 07. 01(금) 
 
+- __[도서리딩 #1 <클론코딩 줌> + 핸즈온랩](https://festa.io/events/2396)__
+  - 분류: `온라인`, `모임`
+  - 주최: 파이썬 사랑방
+  - 접수: 06. 21(화) ~ 07. 02(토)
 - __[Depromeet 11th 최종 발표회](https://festa.io/events/2367)__
   - 분류: `발표회`, `오프라인`
   - 주최: 디프만
@@ -213,14 +205,18 @@
   - 분류: `모임`
   - 주최: 네이버 D2
   - 접수: 06. 13(월) ~ 07. 08(금)
-- __[도서리딩 #1 <클론코딩 줌> + 핸즈온랩](https://festa.io/events/2396)__
-  - 분류: `온라인`, `모임`
-  - 주최: 파이썬 사랑방
-  - 접수: 06. 21(화) ~ 07. 02(토)
+- __[교육 콘서트](https://edu.nextstep.camp/c/swD6x7H4)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: 넥스트 스텝
+  - 일시: 07. 09 13:00 ~ 18:00
 - __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://festa.io/events/2396)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 07. 13(수) 17:00 ~ 18:00
+- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](hthttps://festa.io/events/2387)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 07. 14(목) 14:00 ~ 17:00
 - __[VIMRC 2022](https://festa.io/events/2412)__
   - 분류: `오프라인`, `VIM`
   - 주최: VIMRC
