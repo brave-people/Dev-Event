@@ -115,23 +115,11 @@
 <br />
 
 ## 22년 06월
-- __[2022 메타버스 개발자 경진대회](https://metaversedev.kr/info/)__
-  - 분류: `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 05. 31(화) ~ 06. 28(화)
-
-- __[NHN Cloud make IT](https://makeit.nhncloud.com/2022/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: NHN Cloud
-  - 일시: 06. 28(화) 10:00 ~ 18:00
-- __[AIAI: Healthcare Workshop](https://festa.io/events/2399)__
-  - 분류: `오프라인`, `AI`
-  - 주최: The AI Lab
-  - 일시: 06. 28(화) 10:00 ~ 18:00
 - __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 롯데맴버스
   - 일시: 06. 29(수)
+
 - __[우아한 PM의 밤](https://woowapm.com/)__
   - 분류: `오프라인`, `온라인`, `PM`
   - 주최: 우아한형제들
@@ -148,6 +136,10 @@
   - 분류: `웨비나`, `커리어`, `AI`
   - 주최: 캐치
   - 일시: 06. 28(화) ~ 06. 30(목)
+- __[AWSKRUG #architecture 소모임 - 33번째 모임](https://www.meetup.com/ko-KR/awskrug/events/286545529/)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 06. 30(목) 19:30 ~ 21:30
 - __[Google I/O Extended 2022 Daejeon](https://festa.io/events/2411)__
   - 분류: `오프라인`
   - 주최: GDG Cloud Daejeon
@@ -175,8 +167,12 @@
 - __[DACrew 3기 모집](https://dacon.notion.site/DACrew-3-17d5c216544f4145b58a60fd1f42a217)__
   - 분류: `스터디`
   - 주최: 데이콘
-  - 모집: 06. 20일(월) ~ 07. 01(금) 
+  - 모집: 06. 20일(월) ~ 07. 01(금)
 
+- __[부스트캠프 AI Tech 4기 모집 온라인 설명회](https://festa.io/events/2422)__
+  - 분류: `온라인`, `교육`
+  - 주최: 네이버커넥트재단
+  - 일시: 07. 01(금) 19:00 ~ 20:30
 - __[도서리딩 #1 <클론코딩 줌> + 핸즈온랩](https://festa.io/events/2396)__
   - 분류: `온라인`, `모임`
   - 주최: 파이썬 사랑방
