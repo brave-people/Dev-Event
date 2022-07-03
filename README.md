@@ -164,7 +164,7 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 07. 13(수) 17:00 ~ 18:00
-- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](hthttps://festa.io/events/2387)__
+- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](https://festa.io/events/2387)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 07. 14(목) 14:00 ~ 17:00
