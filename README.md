@@ -115,35 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[DACrew 3기 모집](https://dacon.notion.site/DACrew-3-17d5c216544f4145b58a60fd1f42a217)__
-  - 분류: `스터디`
-  - 주최: 데이콘
-  - 모집: 06. 20일(월) ~ 07. 01(금)
-
-- __[부스트캠프 AI Tech 4기 모집 온라인 설명회](https://festa.io/events/2422)__
-  - 분류: `온라인`, `교육`
-  - 주최: 네이버커넥트재단
-  - 일시: 07. 01(금) 19:00 ~ 20:30
-- __[도서리딩 #1 <클론코딩 줌> + 핸즈온랩](https://festa.io/events/2396)__
-  - 분류: `온라인`, `모임`
-  - 주최: 파이썬 사랑방
-  - 접수: 06. 21(화) ~ 07. 02(토)
-- __[Depromeet 11th 최종 발표회](https://festa.io/events/2367)__
-  - 분류: `발표회`, `오프라인`
-  - 주최: 디프만
-  - 일시: 07. 02(토) 14:00 ~ 17:00
-- __[부스트코스 코칭스터디 ‘모두를 위한 파이썬(PY4E 2022)’ 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20008486)__
-  - 분류: `스터디`
-  - 주최: 커넥츠재단
-  - 일시: 07. 02(토) 14:00 ~ 17:00
-- __[제7회 롯데멤버스 빅데이터 경진대회](https://aifactory.space/competition/detail/2063)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 롯데멤버스
-  - 접수: 06. 02(목) ~ 07. 03(일)
 - __[AIAI: Deep Learning Summer School](https://festa.io/events/2391)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: AIAI
   - 모집: 06. 16(목) ~ 07. 06(수)
+
 - __[FEConf 2022 FE World 연사 모집](https://docs.google.com/forms/d/e/1FAIpQLSeXexK2QOucCefRZjhjvDW6DJrHBCTdQToiyawiOfwi3AUQUg/viewform)__
   - 분류: `프론트엔드`, `발표`
   - 주최: FEConf
@@ -156,6 +132,10 @@
   - 분류: `모임`
   - 주최: 네이버 D2
   - 접수: 06. 13(월) ~ 07. 08(금)
+- __[삼성전자 하계 대학생 S/W 알고리즘 역량 강화 특강](http://wwn.ozsurvey.co.kr/fcso/sm/a_new_connection_is_made_via_email.php?skey=d4204444c2f38e4e6a1e491ae3b2cf71)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성전자
+  - 접수: 07. 08(금)
 - __[교육 콘서트](https://edu.nextstep.camp/c/swD6x7H4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 넥스트 스텝
@@ -192,6 +172,10 @@
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
   - 접수: 06. 27(월) ~ 07. 22(금)
+- __[2022 국방 데이터 활용 경진대회](http://public-data.maicon.kr/)__
+  - 분류: `경진대회`, `데이터`
+  - 주최: 대한민국 국방부
+  - 접수: 07. 04(월) ~ 07. 24(일)
 - __[[개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!](https://event-us.kr/ted/event/45142)__
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 테드박의 개발자행사
@@ -209,6 +193,10 @@
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
 
+- __[DELL Technologies Forum](htthttps://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
+  - 분류: `기술`
+  - 주최: DELL
+  - 일시: 08. 24(수)
 - __[2022 인프콘](https://infcon.day/teaser)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
