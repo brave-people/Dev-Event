@@ -193,7 +193,7 @@
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
 
-- __[DELL Technologies Forum](htthttps://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
+- __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
   - 분류: `기술`
   - 주최: DELL
   - 일시: 08. 24(수)
