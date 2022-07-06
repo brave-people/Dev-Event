@@ -115,19 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[AIAI: Deep Learning Summer School](https://festa.io/events/2391)__
-  - 분류: `유료`, `교육`, `AI`
-  - 주최: AIAI
-  - 모집: 06. 16(목) ~ 07. 06(수)
-
-- __[FEConf 2022 FE World 연사 모집](https://docs.google.com/forms/d/e/1FAIpQLSeXexK2QOucCefRZjhjvDW6DJrHBCTdQToiyawiOfwi3AUQUg/viewform)__
-  - 분류: `프론트엔드`, `발표`
-  - 주최: FEConf
-  - 접수: 06. 24(금) ~ 07. 06(수)
 - __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2425)__
   - 분류: `웨비나`, `하둡`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 07. 07(목) 11:00 ~ 12:00
+  
 - __[D2 CAMPUS PARTNER](https://d2.naver.com/news/6671933)__
   - 분류: `모임`
   - 주최: 네이버 D2
@@ -168,6 +160,18 @@
   - 분류: `온라인`, `로봇`
   - 주최: 한국산업진흥원
   - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
+  - 분류: `온라인`
+  - 주최: 소문난 주니어 콘퍼런스
+  - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
+  - 분류: `온라인`, `오프라인`, `Golang` 
+  - 주최: Golang Korea
+  - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[2022 클라우드 인식확산_ CEO 아카데미](http://clouddays.kr)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 정보통신산업진흥회
+  - 접수: 07. 12(화) ~ 07. 13(수)
 - __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
@@ -184,15 +188,27 @@
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
   - 일시: 03. 28(월) ~ 07. 31(일)
+- __[OSAM 장병 추천 이벤트](https://osam.kr/community/notice?m=v&wdnId=77)__
+  - 분류: `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 일시: 07. 05(화) ~ 07. 31(일)
 
 <br />
 
 ## 22년 08월
+- __[쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)__
+  - 분류: `경진대회`, `데이터`
+  - 주최: DACON
+  - 일시: 07. 11(월) ~ 08. 05(금)
+
+- __[쇼핑몰 리뷰 평점 분류 경진대회](https://dacon.io/competitions/official/235938/overview/description)__
+  - 분류: `경진대회`, `데이터`
+  - 주최: DACON
+  - 일시: 07. 11(월) ~ 08. 05(금)
 - __[입자 형태 분석 모델 개발 해커톤](https://aifactory.space/competition/detail/2067)__
   - 분류: `경진대회`, `해커톤`
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
-
 - __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
   - 분류: `기술`
   - 주최: DELL
