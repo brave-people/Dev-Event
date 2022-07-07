@@ -115,15 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2425)__
-  - 분류: `웨비나`, `하둡`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 07. 07(목) 11:00 ~ 12:00
-  
 - __[D2 CAMPUS PARTNER](https://d2.naver.com/news/6671933)__
   - 분류: `모임`
   - 주최: 네이버 D2
   - 접수: 06. 13(월) ~ 07. 08(금)
+
 - __[삼성전자 하계 대학생 S/W 알고리즘 역량 강화 특강](http://wwn.ozsurvey.co.kr/fcso/sm/a_new_connection_is_made_via_email.php?skey=d4204444c2f38e4e6a1e491ae3b2cf71)__
   - 분류: `교육`, `알고리즘`
   - 주최: 삼성전자
@@ -132,30 +128,22 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 넥스트 스텝
   - 일시: 07. 09 13:00 ~ 18:00
-- __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://www.sharedit.co.kr/seminars/1361)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클
-  - 일시: 07. 13(수) 17:00 ~ 18:00
-- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](https://festa.io/events/2387)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 07. 14(목) 14:00 ~ 17:00
-- __[VIMRC 2022](https://festa.io/events/2412)__
-  - 분류: `오프라인`, `VIM`
-  - 주최: VIMRC
-  - 일시: 07. 23(토) 13:00 ~ 18:00
-- __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
-  - 분류: `경진대회`, `대학생`
-  - 주최: 행정안전부
-  - 접수: 06. 20(월) ~ 07. 29(금)
-- __[2022 Hello New( ) World 해커톤대회](http://hellonewworld.co.kr)__
-  - 분류: `해커톤`
-  - 주최: 신세계 아이앤씨
-  - 일시: 06. 03(금) ~ 07. 05(화)
 - __[도서리딩 #2 <소플의 처음 만난 리액트>](https://festa.io/events/2405)__
   - 분류: `온라인`, `모임`
   - 주최: 파이썬 사랑방
   - 접수: 06. 21(화) ~ 07. 11(월)
+- __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://www.sharedit.co.kr/seminars/1361)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클
+  - 일시: 07. 13(수) 17:00 ~ 18:00
+- __[2022 클라우드 인식확산_ CEO 아카데미](http://clouddays.kr)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 정보통신산업진흥회
+  - 접수: 07. 12(화) ~ 07. 13(수)
+- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](https://festa.io/events/2387)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 07. 14(목) 14:00 ~ 17:00
 - __[2022년 글로벌 신산업, 신기술 세미나 제 7차 로봇/로보틱스](https://festa.io/events/2427)__
   - 분류: `온라인`, `로봇`
   - 주최: 한국산업진흥원
@@ -168,14 +156,18 @@
   - 분류: `온라인`, `오프라인`, `Golang` 
   - 주최: Golang Korea
   - 일시: 07. 15(금) 16:00 ~ 17:00
-- __[2022 클라우드 인식확산_ CEO 아카데미](http://clouddays.kr)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 정보통신산업진흥회
-  - 접수: 07. 12(화) ~ 07. 13(수)
+- __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 라벨링 없이 해보는 의미론적 분할](https://aifactory.space/competition/detail/2061)__
+  - 분류: `온라인`, `인공지능`
+  - 주최: INNOPOLIS
+  - 일시: 07. 19(화) 19:00 ~ 20:00
 - __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
   - 접수: 06. 27(월) ~ 07. 22(금)
+- __[VIMRC 2022](https://festa.io/events/2412)__
+  - 분류: `오프라인`, `VIM`
+  - 주최: VIMRC
+  - 일시: 07. 23(토) 13:00 ~ 18:00
 - __[2022 국방 데이터 활용 경진대회](http://public-data.maicon.kr/)__
   - 분류: `경진대회`, `데이터`
   - 주최: 대한민국 국방부
@@ -184,6 +176,10 @@
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 테드박의 개발자행사
   - 접수: 06. 22(수) ~ 07. 29(금)
+- __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
+  - 분류: `경진대회`, `대학생`
+  - 주최: 행정안전부
+  - 접수: 06. 20(월) ~ 07. 29(금)
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
@@ -230,6 +226,14 @@
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
   - 일시: 09. 16(목) ~ 09. 17(금)
+- __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
+  - 분류: `오프라인`, `보안`
+  - 주최: 데일리시큐
+  - 일시: 07. 07(목) ~ 09. 27(화)
+- __[2022 창원 빅데이터 공모전](https://www.changwon.go.kr/sotong/contest/list.do?mId=0104000000)__
+  - 분류: `경진대회`
+  - 주최: 창원시
+  - 일시: 07. 01(금) ~ 09. 30(금)
 
 <br />
 
