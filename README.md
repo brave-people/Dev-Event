@@ -115,19 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[D2 CAMPUS PARTNER](https://d2.naver.com/news/6671933)__
-  - 분류: `모임`
-  - 주최: 네이버 D2
-  - 접수: 06. 13(월) ~ 07. 08(금)
-
-- __[삼성전자 하계 대학생 S/W 알고리즘 역량 강화 특강](http://wwn.ozsurvey.co.kr/fcso/sm/a_new_connection_is_made_via_email.php?skey=d4204444c2f38e4e6a1e491ae3b2cf71)__
-  - 분류: `교육`, `알고리즘`
-  - 주최: 삼성전자
-  - 접수: 07. 08(금)
 - __[교육 콘서트](https://edu.nextstep.camp/c/swD6x7H4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 넥스트 스텝
   - 일시: 07. 09 13:00 ~ 18:00
+
 - __[도서리딩 #2 <소플의 처음 만난 리액트>](https://festa.io/events/2405)__
   - 분류: `온라인`, `모임`
   - 주최: 파이썬 사랑방
@@ -155,6 +147,14 @@
 - __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
   - 분류: `온라인`, `오프라인`, `Golang` 
   - 주최: Golang Korea
+  - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
+  - 분류: `온라인`, `오프라인`, `Golang` 
+  - 주최: Golang Korea
+  - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[NVIDIA DLI 앰배서더 챌린지 2022 - Round 2](https://festa.io/events/2434)__
+  - 분류: `교육`, `AI`
+  - 주최: NVIDIA
   - 일시: 07. 15(금) 16:00 ~ 17:00
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 라벨링 없이 해보는 의미론적 분할](https://aifactory.space/competition/detail/2061)__
   - 분류: `온라인`, `인공지능`
