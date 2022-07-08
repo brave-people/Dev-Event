@@ -188,11 +188,15 @@
 <br />
 
 ## 22년 08월
+- __[WEB 3.0 BUILDER’S SUMMER HOUSE](https://buildershouse.dsrvlabs.com/)__
+  - 분류: `오프라인`, `WEB3.0`
+  - 주최: BUILDER'S HOUSE
+  - 일시: 08. 01(월) ~ 08. 03(수)
+
 - __[쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
   - 일시: 07. 11(월) ~ 08. 05(금)
-
 - __[쇼핑몰 리뷰 평점 분류 경진대회](https://dacon.io/competitions/official/235938/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
