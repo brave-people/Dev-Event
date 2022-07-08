@@ -274,7 +274,6 @@
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
 | Central MakeUs Challenge | -                                             | [공식 홈페이지](https://makeus.in/) |
-| 힙한 주니어들의 비밀 | -                                             | [공식 홈페이지](https://litt.ly/hipjubie)
 
 <br />
 
