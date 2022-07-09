@@ -143,7 +143,7 @@
 - __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
   - 분류: `온라인`
   - 주최: 소문난 주니어 콘퍼런스
-  - 일시: 07. 15(금) 16:00 ~ 17:00
+  - 일시: 07. 19(화) 19:20 ~ 21:40
 - __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
   - 분류: `온라인`, `오프라인`, `Golang` 
   - 주최: Golang Korea
