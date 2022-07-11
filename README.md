@@ -200,7 +200,10 @@
   - 분류: `오프라인`, `WEB3.0`
   - 주최: BUILDER'S HOUSE
   - 일시: 08. 01(월) ~ 08. 03(수)
-
+- __[2022 서울시 IoT 공공도시데이터 활용 해커톤](http://seoulhackathon.kr/)__
+  - 분류: `해커톤`
+  - 주최: 서울특별시
+  - 접수: 07. 04(월) ~ 08. 05(금)
 - __[쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
