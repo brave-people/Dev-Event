@@ -168,7 +168,7 @@
   - 분류: `오프라인`, `VIM`
   - 주최: VIMRC
   - 일시: 07. 23(토) 13:00 ~ 18:00
- - __[JUNCTION ASIA 2022](https://asia.hackjunction.com/ko)__
+- __[JUNCTION ASIA 2022](https://asia.hackjunction.com/ko)__
   - 분류: `오프라인`, `해커톤`
   - 주최: SHIFT
   - 접수: 07. 04(월) ~ 07. 24(일)
