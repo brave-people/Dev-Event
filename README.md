@@ -115,15 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[도서리딩 #2 <소플의 처음 만난 리액트>](https://festa.io/events/2405)__
-  - 분류: `온라인`, `모임`
-  - 주최: 파이썬 사랑방
-  - 접수: 06. 21(화) ~ 07. 11(월)
-
 - __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://www.sharedit.co.kr/seminars/1361)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 07. 13(수) 17:00 ~ 18:00
+  
 - __[2022 클라우드 인식확산_ CEO 아카데미](http://clouddays.kr)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 정보통신산업진흥회
@@ -156,10 +152,18 @@
   - 분류: `교육`, `AI`
   - 주최: NVIDIA
   - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/286990217)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 07. 15(금) 19:00 ~ 20:00
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 라벨링 없이 해보는 의미론적 분할](https://aifactory.space/competition/detail/2061)__
   - 분류: `온라인`, `인공지능`
   - 주최: INNOPOLIS
   - 일시: 07. 19(화) 19:00 ~ 20:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/286993904)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 07. 19(화) 19:30 ~ 21:00
 - __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
@@ -176,6 +180,18 @@
   - 분류: `경진대회`, `데이터`
   - 주최: 대한민국 국방부
   - 접수: 07. 04(월) ~ 07. 24(일)
+- __[디지털 헬스케어 해커톤 MEDICAL HACK 2022](https://cmit.pnuh.or.kr/TCF/cb/board/view.do?id=18&menuIdx=42&idx=1)__
+  - 분류: `경진대회`
+  - 주최: 부산광역시
+  - 접수: 06. 17(금) ~ 07. 24(일)
+- __[IT산업 PM/PO로 취뽀하기 #이력서&면접](https://www.catch.co.kr/CatchClass/Live/View/5305)__
+  - 분류: `커리어`
+  - 주최: 캐치
+  - 일시: 07. 25(월) 19:30 ~ 21:00
+- __[애자일 코리아 7월 밋업 ‘Business agility transformation’](https://festa.io/events/2463)__
+  - 분류: `모임`
+  - 주최: 애자일 코리아
+  - 일시: 07. 27(수) 21:00 ~ 22:30
 - __[[개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!](https://event-us.kr/ted/event/45142)__
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 테드박의 개발자행사
@@ -225,14 +241,14 @@
   - 분류: `경진대회`, `해커톤`
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
-- __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
-  - 분류: `기술`
-  - 주최: DELL
-  - 일시: 08. 24(수)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
   - 일시: 08. 23(수) 14:00 ~ 15:00
+- __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
+  - 분류: `기술`
+  - 주최: DELL
+  - 일시: 08. 24(수)
 - __[2022 인프콘](https://infcon.day/teaser)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
