@@ -115,19 +115,11 @@
 <br />
 
 ## 22년 07월
-- __[오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://www.sharedit.co.kr/seminars/1361)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클
-  - 일시: 07. 13(수) 17:00 ~ 18:00
-  
-- __[2022 클라우드 인식확산_ CEO 아카데미](http://clouddays.kr)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 정보통신산업진흥회
-  - 접수: 07. 12(화) ~ 07. 13(수)
 - __[SCPC 2022](https://www.codeground.org/)__
   - 분류: `대회`, `알고리즘`
   - 주최: 삼성
   - 일시: 07. 14(목) 15:00 ~ 16:00
+
 - __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](https://festa.io/events/2387)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
@@ -140,6 +132,10 @@
   - 분류: `온라인`, `로봇`
   - 주최: 한국산업진흥원
   - 일시: 07. 15(금) 16:00 ~ 17:00
+- __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
+  - 분류: `스터디`, `클라우드`
+  - 주최: GDG Cloud Busan
+  - 접수: 07. 15(금) ~ 08. 03(수)
 - __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
   - 분류: `온라인`
   - 주최: 소문난 주니어 콘퍼런스
@@ -164,6 +160,14 @@
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 07. 19(화) 19:30 ~ 21:00
+- __[데이터 관리 끝판왕 오라클 어벤저스가 몰려온다!](https://go.oracle.com/LP=127808)__
+  - 분류: `온라인`, `데이터베이스`
+  - 주최: Oracle
+  - 일시: 07. 21(목) 11:00 ~ 16:20
+- __[2022 Google I/O Extended for Maps in Seoul](https://forms.monday.com/forms/3f99513118e69432a54f9db573e295d8?r=use1)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: Google Maps Platform
+  - 일시: 07. 21(목) 14:00 ~ 16:30
 - __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
@@ -188,6 +192,10 @@
   - 분류: `커리어`
   - 주최: 캐치
   - 일시: 07. 25(월) 19:30 ~ 21:00
+- __[7월 원티드살롱 (신입편)](https://www.wanted.co.kr/events/wantedsalon220727)__
+  - 분류: `커리어`
+  - 주최: 원티드
+  - 일시: 07. 27(수) 19:30 ~ 21:30
 - __[애자일 코리아 7월 밋업 ‘Business agility transformation’](https://festa.io/events/2463)__
   - 분류: `모임`
   - 주최: 애자일 코리아
