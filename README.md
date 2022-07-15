@@ -11,6 +11,21 @@
 <br />
 <br />
 
+## 🎈 데브 이벤트 웹에서 만나요!
+
+<div align=center>
+<!-- <img src="./static/dev-event-new-web.png?raw=true"> -->
+<img src="https://user-images.githubusercontent.com/67247530/179222701-9ca4728d-f1e0-4fd1-9b77-a29d88ddea21.png">
+
+<br />
+<br />
+
+👉 [데브 이벤트 웹 바로가기](https://dev-event.vercel.app/events)
+
+<br />
+</div>
+<br />
+
 <!-- 
 ## 📣 Dev Event Mail
 
@@ -36,8 +51,6 @@
 </div>
 
 <br />
-
-
 <details>
   <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
 
@@ -74,24 +87,24 @@
 <tr>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
-      <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
+      <img src="./static/banner/banner5.png" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event-Android">
-      <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
+      <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
 <tr>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event#contributors-">
-      <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
+      <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
     <a href="#">
-      <img src="./static/banner/banner4.png" align="left" style="width: 98%" />
+      <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
@@ -132,14 +145,6 @@
   - 분류: `온라인`, `로봇`
   - 주최: 한국산업진흥원
   - 일시: 07. 15(금) 16:00 ~ 17:00
-- __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
-  - 분류: `스터디`, `클라우드`
-  - 주최: GDG Cloud Busan
-  - 접수: 07. 15(금) ~ 08. 03(수)
-- __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
-  - 분류: `온라인`
-  - 주최: 소문난 주니어 콘퍼런스
-  - 일시: 07. 19(화) 19:20 ~ 21:40
 - __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
   - 분류: `온라인`, `오프라인`, `Golang` 
   - 주최: Golang Korea
@@ -152,6 +157,10 @@
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 07. 15(금) 19:00 ~ 20:00
+- __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
+  - 분류: `온라인`
+  - 주최: 소문난 주니어 콘퍼런스
+  - 일시: 07. 19(화) 19:20 ~ 21:40
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 라벨링 없이 해보는 의미론적 분할](https://aifactory.space/competition/detail/2061)__
   - 분류: `온라인`, `인공지능`
   - 주최: INNOPOLIS
@@ -229,6 +238,10 @@
   - 주최: BUILDER'S HOUSE
   - 일시: 08. 01(월) ~ 08. 03(수)
 
+- __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
+  - 분류: `스터디`, `클라우드`
+  - 주최: GDG Cloud Busan
+  - 접수: 07. 15(금) ~ 08. 03(수)
 - __[제 16회 공개 SW 개발자 대회](https://www.oss.kr/dev_competition)__
   - 분류: `SW`, `대회`
   - 주최: 과학기술정보통신부
@@ -270,11 +283,15 @@
 <br />
 
 ## 22년 9월
+- __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
+  - 분류: `경진대회`
+  - 주최: 한국전자기술연구원
+  - 일시: 07. 11(월) ~ 09. 15(목)
+
 - __[제5회 KB국민은행 소프트웨어 경진대회](https://www.kbsccoding.com/)__
   - 분류: `경진대회`
   - 주최: KB국민은행
   - 일시: 05. 02(월) ~ 09. 16(금)
-
 - __[JSConf Korea](https://2022.jsconf.kr/ko)__
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
