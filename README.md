@@ -14,8 +14,7 @@
 ## 🎈 데브 이벤트 웹에서 만나요!
 
 <div align=center>
-<!-- <img src="./static/dev-event-new-web.png?raw=true"> -->
-<img src="https://user-images.githubusercontent.com/67247530/179222701-9ca4728d-f1e0-4fd1-9b77-a29d88ddea21.png">
+<img src="./static/dev-event-new-web.png?raw=true">
 
 <br />
 <br />
@@ -24,7 +23,6 @@
 
 <br />
 </div>
-<br />
 
 <!-- 
 ## 📣 Dev Event Mail
@@ -86,24 +84,24 @@
 <table>
 <tr>
   <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event-Subscribe">
+    <a href="https://dev-event.vercel.app/events">
       <img src="./static/banner/banner5.png" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event-Android">
+    <a href="https://github.com/brave-people/Dev-Event-Subscribe">
       <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
 <tr>
   <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event#contributors-">
+    <a href="https://github.com/brave-people/Dev-Event-Android">
       <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
-    <a href="#">
+    <a href="https://github.com/brave-people/Dev-Event#contributors-">
       <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
     </a>
   </td>
