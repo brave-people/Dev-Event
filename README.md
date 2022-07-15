@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-63-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -509,6 +509,9 @@
     <td align="center"><a href="https://github.com/june0216"><img src="https://avatars.githubusercontent.com/u/76603301?v=4?s=100" width="100px;" alt=""/><br /><sub><b>june0216</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=june0216" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/BB-choi"><img src="https://avatars.githubusercontent.com/u/78826879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BB-choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=BB-choi" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/baekteun"><img src="https://avatars.githubusercontent.com/u/74440939?v=4?s=100" width="100px;" alt=""/><br /><sub><b>baegteun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=baekteun" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/HyunGyu-Han"><img src="https://avatars.githubusercontent.com/u/80298175?v=4?s=100" width="100px;" alt=""/><br /><sub><b>한현규</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HyunGyu-Han" title="Code">💻</a></td>
   </tr>
 </table>
 
