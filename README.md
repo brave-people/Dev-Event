@@ -345,6 +345,8 @@
 | 엘리스 | [Homepage](https://elice.io/home) |
 | 라이징 캠프 | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
 | 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
+| 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
+| 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 
 <br />
 
