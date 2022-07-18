@@ -126,39 +126,11 @@
 <br />
 
 ## 22년 07월
-- __[SCPC 2022](https://www.codeground.org/)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 삼성
-  - 일시: 07. 14(목) 15:00 ~ 16:00
-
-- __[NVIDIA Jetson 개발자 밋업 - IVA/Robotics](https://festa.io/events/2387)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 07. 14(목) 14:00 ~ 17:00
-- __[현장에서 바라는 개발자 커리어 관리](https://okky.kr/article/1252511)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: okky
-  - 일시: 07. 14(목) 20:00 ~ 21:30
-- __[2022년 글로벌 신산업, 신기술 세미나 제 7차 로봇/로보틱스](https://festa.io/events/2427)__
-  - 분류: `온라인`, `로봇`
-  - 주최: 한국산업진흥원
-  - 일시: 07. 15(금) 16:00 ~ 17:00
-- __[I/O Extended Golang Korea 2022](https://festa.io/events/2360)__
-  - 분류: `온라인`, `오프라인`, `Golang` 
-  - 주최: Golang Korea
-  - 일시: 07. 15(금) 16:00 ~ 17:00
-- __[NVIDIA DLI 앰배서더 챌린지 2022 - Round 2](https://festa.io/events/2434)__
-  - 분류: `교육`, `AI`
-  - 주최: NVIDIA
-  - 일시: 07. 15(금) 16:00 ~ 17:00
-- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/286990217)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 07. 15(금) 19:00 ~ 20:00
 - __[소주콘 Shot 1 : 진로 빨간 뚜껑](https://festa.io/events/2433)__
   - 분류: `온라인`
   - 주최: 소문난 주니어 콘퍼런스
   - 일시: 07. 19(화) 19:20 ~ 21:40
+
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 라벨링 없이 해보는 의미론적 분할](https://aifactory.space/competition/detail/2061)__
   - 분류: `온라인`, `인공지능`
   - 주최: INNOPOLIS
@@ -199,6 +171,10 @@
   - 분류: `커리어`
   - 주최: 캐치
   - 일시: 07. 25(월) 19:30 ~ 21:00
+- __[UNITHON 9TH 운영진 모집공고](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
+  - 분류: `모임`
+  - 주최: UNITHON
+  - 모집: 07. 18(월) ~ 07. 25(일)
 - __[7월 원티드살롱 (신입편)](https://www.wanted.co.kr/events/wantedsalon220727)__
   - 분류: `커리어`
   - 주최: 원티드
@@ -211,6 +187,10 @@
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 테드박의 개발자행사
   - 접수: 06. 22(수) ~ 07. 29(금)
+- __[블록체인 분야 & 백엔드 개발 #람다256](https://www.catch.co.kr/CatchClass/Live/View/5314)__
+  - 분류: `웨비나`, `블록체인`
+  - 주최: 캐치
+  - 일시: 07. 27(수) 19:30 ~ 21:00
 - __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
   - 분류: `경진대회`, `대학생`
   - 주최: 행정안전부
@@ -218,7 +198,11 @@
 - __[Code Action Pilot 1](https://festa.io/events/2451)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: GDG 대구
-  - 일시: 07. 29(금) 19:30 ~ 19:00
+  - 일시: 07. 29(금) 18:30 ~ 21:00
+- __[2022 CMC Surmmer DemoDay](https://festa.io/events/2473)__
+  - 분류: `모임`
+  - 주최: MakeUs Challenge
+  - 일시: 07. 30(토) 12:00 ~ 17:00
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
@@ -260,6 +244,14 @@
   - 분류: `경진대회`, `해커톤`
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
+- __[앞마당 해커톤](https://festa.io/events/2477)__
+  - 분류: `해커톤`
+  - 주최: Google Developer Student Clubs
+  - 일시: 08. 13(토) 13:00 ~ 08. 14(일) 14:00
+- __[JUNCTION ASIA 2022](https://festa.io/events/2449)__
+  - 분류: `해커톤`
+  - 주최: SHIFT
+  - 일시: 08. 19(금) ~ 08. 21(일)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
@@ -281,11 +273,15 @@
 <br />
 
 ## 22년 9월
+- __[UNITHON 9TH](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
+  - 분류: `모임`
+  - 주최: UNITHON
+  - 모집: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
+
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
   - 일시: 07. 11(월) ~ 09. 15(목)
-
 - __[제5회 KB국민은행 소프트웨어 경진대회](https://www.kbsccoding.com/)__
   - 분류: `경진대회`
   - 주최: KB국민은행
