@@ -582,6 +582,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Snailpong",
+      "name": "Seongsu Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11583179?v=4",
+      "profile": "https://github.com/Snailpong",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
