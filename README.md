@@ -411,6 +411,7 @@
 | GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
 | Tensorflow KR | [facebook](https://www.facebook.com/groups/TensorFlowKR/about) |
 | Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
+| 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
 
 
 <br />
