@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 07월
-- __[데이터 관리 끝판왕 오라클 어벤저스가 몰려온다!](https://go.oracle.com/LP=127808)__
-  - 분류: `온라인`, `데이터베이스`
-  - 주최: Oracle
-  - 일시: 07. 21(목) 11:00 ~ 16:20
-
-- __[2022 Google I/O Extended for Maps in Seoul](https://forms.monday.com/forms/3f99513118e69432a54f9db573e295d8?r=use1)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: Google Maps Platform
-  - 일시: 07. 21(목) 14:00 ~ 16:30
 - __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
   - 분류: `경진대회`, `빅데이터`
   - 주최: 한국거래소
   - 접수: 06. 27(월) ~ 07. 22(금)
+  
 - __[VIMRC 2022](https://festa.io/events/2412)__
   - 분류: `오프라인`, `VIM`
   - 주최: VIMRC
@@ -195,6 +187,10 @@
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: GDG 대구
   - 일시: 07. 29(금) 18:30 ~ 21:00
+- __[갸갸쇼 x TensorFlowKR 60000기념 오프라인 이벤트](https://festa.io/events/2486)__
+  - 분류: `오프라인`, `AI`
+  - 주최: Tensorflow User Group
+  - 일시: 07. 29(금) 19:00 ~ 22:00
 - __[2022 CMC Surmmer DemoDay](https://festa.io/events/2473)__
   - 분류: `모임`
   - 주최: MakeUs Challenge
@@ -207,6 +203,10 @@
   - 분류: `오픈소스`
   - 주최: 과학기술정보통신부
   - 일시: 07. 05(화) ~ 07. 31(일)
+- __[제7회 2022대한민국청소년게임잼 참가자 모집](https://okky.kr/article/1279945)__
+  - 분류: `오픈소스`
+  - 주최: 문화체육관광부
+  - 일시: 08. 19(금) ~ 08. 21(일)
 
 <br />
 
