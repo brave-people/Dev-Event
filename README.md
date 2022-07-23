@@ -125,16 +125,12 @@
 
 <br />
 
-## 22년 07월
-- __[제1회 KRX 금융 빅데이터 활용 아이디어 경진대회](https://dacon.io/competitions/official/235914/overview/description)__
-  - 분류: `경진대회`, `빅데이터`
-  - 주최: 한국거래소
-  - 접수: 06. 27(월) ~ 07. 22(금)
-  
+## 22년 07월 
 - __[VIMRC 2022](https://festa.io/events/2412)__
   - 분류: `오프라인`, `VIM`
   - 주최: VIMRC
   - 일시: 07. 23(토) 13:00 ~ 18:00
+
 - __[JUNCTION ASIA 2022](https://asia.hackjunction.com/ko)__
   - 분류: `오프라인`, `해커톤`
   - 주최: SHIFT
@@ -252,6 +248,14 @@
   - 분류: `해커톤`
   - 주최: Google Developer Student Clubs
   - 일시: 08. 13(토) 13:00 ~ 08. 14(일) 14:00
+- __[KURLY HACK FESTA 2022](https://www.2022-kurlyhackfesta.com/)__
+  - 분류: `대회`
+  - 주최: 마켓컬리
+  - 접수: 07. 25(월) ~ 08. 15(월)
+- __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
+  - 분류: `온라인`, `오프라인`, `커리어`
+  - 주최: Jumpit
+  - 일시: 08. 17(월) 15:00 ~ 17:00
 - __[JUNCTION ASIA 2022](https://festa.io/events/2449)__
   - 분류: `해커톤`
   - 주최: SHIFT
