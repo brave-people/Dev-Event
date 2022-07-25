@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 07월 
-- __[VIMRC 2022](https://festa.io/events/2412)__
-  - 분류: `오프라인`, `VIM`
-  - 주최: VIMRC
-  - 일시: 07. 23(토) 13:00 ~ 18:00
-
-- __[JUNCTION ASIA 2022](https://asia.hackjunction.com/ko)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: SHIFT
-  - 접수: 07. 04(월) ~ 07. 24(일)
-- __[2022 국방 데이터 활용 경진대회](http://public-data.maicon.kr/)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: 대한민국 국방부
-  - 접수: 07. 04(월) ~ 07. 24(일)
-- __[디지털 헬스케어 해커톤 MEDICAL HACK 2022](https://cmit.pnuh.or.kr/TCF/cb/board/view.do?id=18&menuIdx=42&idx=1)__
-  - 분류: `경진대회`
-  - 주최: 부산광역시
-  - 접수: 06. 17(금) ~ 07. 24(일)
 - __[IT산업 PM/PO로 취뽀하기 #이력서&면접](https://www.catch.co.kr/CatchClass/Live/View/5305)__
   - 분류: `커리어`
   - 주최: 캐치
   - 일시: 07. 25(월) 19:30 ~ 21:00
+
 - __[UNITHON 9TH 운영진 모집공고](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
   - 분류: `모임`
   - 주최: UNITHON
@@ -169,7 +153,7 @@
   - 일시: 07. 28(목) 19:00 ~ 20:00
 - __[인프콘 2022 참가신청](https://www.inflearn.com/infcon2022-apply)__
   - 분류: `컨퍼런스`, `오프라인`
-  - 주최: Inflearn
+  - 주최: 인프런
   - 일시: 07. 25(월) 13:00 ~ 07. 28(목) 18:00
 - __[<디스콰이엇 X 매쉬업엔젤스> 7월 Open Office Hours](https://festa.io/events/2485)__
   - 분류: `오프라인`, `모임`
@@ -191,6 +175,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: Tensorflow User Group
   - 일시: 07. 29(금) 19:00 ~ 22:00
+- __[디어 테크 세미나: 오브젝트](https://docs.google.com/forms/d/e/1FAIpQLSdYl7nMSTBHutk2UIP5oyNy08JynpmYN9bjZKR8hllnkwD82Q/viewform?fbzx=3976043980481445575)__
+  - 분류: `오프라인`, `객체지향`
+  - 주최: 디어
+  - 일시: 07. 25(월) ~ 07. 29(금)
 - __[2022 CMC Surmmer DemoDay](https://festa.io/events/2473)__
   - 분류: `모임`
   - 주최: MakeUs Challenge
@@ -211,15 +199,15 @@
 <br />
 
 ## 22년 08월
+- __[2022 인공지능(AI)과 메타버스를 기반으로한 인공지능 콘텐츠 토크콘서트](https://onoffmix.com/event/258364)__
+  - 분류: `온라인`, `AI`
+  - 주최: 문화체육관광부
+  - 일시: 08. 01(월) 13:00 ~ 18:00
+
 - __[WEB 3.0 BUILDER’S SUMMER HOUSE](https://buildershouse.dsrvlabs.com/)__
   - 분류: `오프라인`, `WEB3.0`
   - 주최: BUILDER'S HOUSE
   - 일시: 08. 01(월) ~ 08. 03(수)
-
-- __[DX Sprint](https://festa.io/events/2483)__
-  - 분류: `오프라인`, `스프린트`
-  - 주최: 부산광역시
-  - 일시: 07. 19(화) ~ 08. 04(목)
 - __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
   - 분류: `스터디`, `클라우드`
   - 주최: GDG Cloud Busan
@@ -228,6 +216,10 @@
   - 분류: `SW`, `대회`
   - 주최: 과학기술정보통신부
   - 일시: 07. 04(월) ~ 08. 03(수)
+- __[DX Sprint](https://festa.io/events/2483)__
+  - 분류: `오프라인`, `스프린트`
+  - 주최: 부산광역시
+  - 일시: 07. 19(화) ~ 08. 04(목)
 - __[2022 서울시 IoT 공공도시데이터 활용 해커톤](http://seoulhackathon.kr/)__
   - 분류: `해커톤`
   - 주최: 서울특별시
