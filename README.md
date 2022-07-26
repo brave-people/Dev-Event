@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 07월 
-- __[IT산업 PM/PO로 취뽀하기 #이력서&면접](https://www.catch.co.kr/CatchClass/Live/View/5305)__
-  - 분류: `커리어`
-  - 주최: 캐치
-  - 일시: 07. 25(월) 19:30 ~ 21:00
-
-- __[UNITHON 9TH 운영진 모집공고](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
-  - 분류: `모임`
-  - 주최: UNITHON
-  - 모집: 07. 18(월) ~ 07. 25(일)
 - __[7월 원티드살롱 (신입편)](https://www.wanted.co.kr/events/wantedsalon220727)__
   - 분류: `커리어`
   - 주최: 원티드
   - 일시: 07. 27(수) 19:30 ~ 21:30
+
 - __[애자일 코리아 7월 밋업 ‘Business agility transformation’](https://festa.io/events/2463)__
   - 분류: `모임`
   - 주최: 애자일 코리아
@@ -151,6 +143,10 @@
   - 분류: `웨비나`, `데이터`
   - 주최: DEVOCEAN
   - 일시: 07. 28(목) 19:00 ~ 20:00
+- __[AWSKRUG #architecture - 34번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287163513/)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 07. 28(목) 19:30 ~ 21:30
 - __[인프콘 2022 참가신청](https://www.inflearn.com/infcon2022-apply)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
@@ -191,10 +187,6 @@
   - 분류: `오픈소스`
   - 주최: 과학기술정보통신부
   - 일시: 07. 05(화) ~ 07. 31(일)
-- __[제7회 2022대한민국청소년게임잼 참가자 모집](https://okky.kr/article/1279945)__
-  - 분류: `오픈소스`
-  - 주최: 문화체육관광부
-  - 일시: 08. 19(금) ~ 08. 21(일)
 
 <br />
 
@@ -260,6 +252,10 @@
   - 분류: `대회`, `데이터`
   - 주최: 문화체육관광부
   - 일시: 08. 01(월) ~ 08. 21(일)
+- __[제7회 2022대한민국청소년게임잼 참가자 모집](https://okky.kr/article/1279945)__
+  - 분류: `오픈소스`
+  - 주최: 문화체육관광부
+  - 일시: 08. 19(금) ~ 08. 21(일)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
@@ -272,6 +268,10 @@
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
   - 일시: 08. 26(금) 13:00 ~ 18:00
+- __[자율주행 센서의 안테나 성능 예측 AI 경진대회](https://dacon.io/competitions/official/235927/overview/description)__
+  - 분류: `경진대회`
+  - 주최: LG AI Research
+  - 모집: 08. 01(월) ~ 08. 26(금)
 - __[MWU 코리아 어워드 2022](http://unitysquare.co.kr/madewith/mwu)__
   - 분류: `대회`, `유니티`
   - 주최: 유니티 코리아
