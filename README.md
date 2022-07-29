@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 07월 
-- __[7월 Tech 세미나 - 데이터 플랫폼 구현 사례](https://devocean.sk.com/events/view.do?id=128)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: DEVOCEAN
-  - 일시: 07. 28(목) 19:00 ~ 20:00
-
-- __[AWSKRUG #architecture - 34번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287163513/)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 07. 28(목) 19:30 ~ 21:30
-- __[인프콘 2022 참가신청](https://www.inflearn.com/infcon2022-apply)__
-  - 분류: `컨퍼런스`, `오프라인`
-  - 주최: 인프런
-  - 일시: 07. 25(월) 13:00 ~ 07. 28(목) 18:00
 - __[<디스콰이엇 X 매쉬업엔젤스> 7월 Open Office Hours](https://festa.io/events/2485)__
   - 분류: `오프라인`, `모임`
   - 주최: 디스콰이엇
   - 일시: 07. 29(금) 19:00 ~ 21:00
+  
 - __[[개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!](https://event-us.kr/ted/event/45142)__
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 테드박의 개발자행사
@@ -244,6 +232,10 @@
   - 분류: `대회`
   - 주최: 마켓컬리
   - 접수: 07. 25(월) ~ 08. 15(월)
+- __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
+  - 분류: `데이터`, `공모전`
+  - 주최: 한국보건산업진흥원
+  - 일시: 08. 16(화) ~ 08. 19(금)
 - __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: Jumpit
@@ -296,11 +288,15 @@
 <br />
 
 ## 22년 9월
+- __[2022 adiOS ASAP](https://festa.io/events/2466)__
+  - 분류: `모임`, `iOS`
+  - 주최: adiOS
+  - 일시: 09. 03(토) 15:00 ~ 18:30
+
 - __[UNITHON 9TH](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
   - 분류: `모임`
   - 주최: UNITHON
   - 모집: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
-
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
