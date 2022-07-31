@@ -126,35 +126,11 @@
 <br />
 
 ## 22년 07월 
-- __[<디스콰이엇 X 매쉬업엔젤스> 7월 Open Office Hours](https://festa.io/events/2485)__
-  - 분류: `오프라인`, `모임`
-  - 주최: 디스콰이엇
-  - 일시: 07. 29(금) 19:00 ~ 21:00
-  
-- __[[개발자 컨퍼런스] 주니어 개발자? Super 주니어 개발자!](https://event-us.kr/ted/event/45142)__
-  - 분류: `오프라인`, `유료`, `커리어`
-  - 주최: 테드박의 개발자행사
-  - 접수: 06. 22(수) ~ 07. 29(금)
-- __[제 9회 SW개발보안 경진대회](https://securecoding.software/)__
-  - 분류: `경진대회`, `대학생`
-  - 주최: 행정안전부
-  - 접수: 06. 20(월) ~ 07. 29(금)
-- __[Code Action Pilot 1](https://festa.io/events/2451)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: GDG 대구
-  - 일시: 07. 29(금) 18:30 ~ 21:00
-- __[갸갸쇼 x TensorFlowKR 60000기념 오프라인 이벤트](https://festa.io/events/2486)__
-  - 분류: `오프라인`, `AI`
-  - 주최: Tensorflow User Group
-  - 일시: 07. 29(금) 19:00 ~ 22:00
-- __[디어 테크 세미나: 오브젝트](https://docs.google.com/forms/d/e/1FAIpQLSdYl7nMSTBHutk2UIP5oyNy08JynpmYN9bjZKR8hllnkwD82Q/viewform?fbzx=3976043980481445575)__
-  - 분류: `오프라인`, `객체지향`
-  - 주최: 디어
-  - 일시: 07. 25(월) ~ 07. 29(금)
 - __[2022 CMC Surmmer DemoDay](https://festa.io/events/2473)__
   - 분류: `모임`
   - 주최: MakeUs Challenge
   - 일시: 07. 30(토) 12:00 ~ 17:00
+
 - __[2022 전자정부표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1849)__
   - 분류: `대회`, `인공지능`
   - 주최: 행정안전부
@@ -172,6 +148,10 @@
   - 주최: 문화체육관광부
   - 일시: 08. 01(월) 13:00 ~ 18:00
 
+- __[AI Tech 4기 모집](https://boostcamp.connect.or.kr/guide_ai.html)__
+  - 분류: `교육`, `AI`
+  - 주최: 부스트캠프
+  - 접수: 08. 01(월) 10:00
 - __[WEB 3.0 BUILDER’S SUMMER HOUSE](https://buildershouse.dsrvlabs.com/)__
   - 분류: `오프라인`, `WEB3.0`
   - 주최: BUILDER'S HOUSE
