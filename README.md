@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[2022 인공지능(AI)과 메타버스를 기반으로한 인공지능 콘텐츠 토크콘서트](https://onoffmix.com/event/258364)__
-  - 분류: `온라인`, `AI`
-  - 주최: 문화체육관광부
-  - 일시: 08. 01(월) 13:00 ~ 18:00
-
-- __[AI Tech 4기 모집](https://boostcamp.connect.or.kr/guide_ai.html)__
-  - 분류: `교육`, `AI`
-  - 주최: 부스트캠프
-  - 접수: 08. 01(월) 10:00
 - __[WEB 3.0 BUILDER’S SUMMER HOUSE](https://buildershouse.dsrvlabs.com/)__
   - 분류: `오프라인`, `WEB3.0`
   - 주최: BUILDER'S HOUSE
   - 일시: 08. 01(월) ~ 08. 03(수)
+
 - __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
   - 분류: `스터디`, `클라우드`
   - 주최: GDG Cloud Busan
@@ -183,14 +175,14 @@
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 07. 20(수) ~ 08. 08(월)
-- __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
-  - 분류: `온라인`, `오프라인`, `커리어`
-  - 주최: 점핏
-  - 일시: 08. 17(수)
 - __[앞마당 해커톤](https://festa.io/events/2477)__
   - 분류: `해커톤`
   - 주최: Google Developer Student Clubs
   - 일시: 08. 13(토) 13:00 ~ 08. 14(일) 14:00
+- __[super.init()](https://festa.io/events/2503)__
+  - 분류: `오프라인`, `모임`
+  - 주최: GDG Songdo
+  - 일시: 08. 14(일) 13:00 ~ 19:00
 - __[KURLY HACK FESTA 2022](https://www.2022-kurlyhackfesta.com/)__
   - 분류: `대회`
   - 주최: 마켓컬리
@@ -203,6 +195,14 @@
   - 분류: `모임`
   - 주최: SWYG
   - 접수: 08. 01(월) ~ 08. 15(월)
+- __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
+  - 분류: `온라인`, `오프라인`, `커리어`
+  - 주최: 점핏
+  - 일시: 08. 17(수)
+- __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
+  - 분류: `온라인`, `블록체인`
+  - 주최: 업비트
+  - 접수: 07. 27(수) ~ 08. 12(금)
 - __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
   - 분류: `데이터`, `공모전`
   - 주최: 한국보건산업진흥원
@@ -284,6 +284,10 @@
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
   - 일시: 09. 16(목) ~ 09. 17(금)
+- __[Upbit Developer Conference](https://udc.upbit.com/)__
+  - 분류: `유료`, `오프라인`, `블록체인`
+  - 주최: 두나무
+  - 접수: 05. 18(수) ~ 09. 14(수)
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
   - 주최: 데일리시큐
