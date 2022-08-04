@@ -126,31 +126,19 @@
 <br />
 
 ## 22년 08월
-- __[WEB 3.0 BUILDER’S SUMMER HOUSE](https://buildershouse.dsrvlabs.com/)__
-  - 분류: `오프라인`, `WEB3.0`
-  - 주최: BUILDER'S HOUSE
-  - 일시: 08. 01(월) ~ 08. 03(수)
-
-- __[클라우드 스터디 잼 - 구글 클라우드 입문](https://festa.io/events/2468)__
-  - 분류: `스터디`, `클라우드`
-  - 주최: GDG Cloud Busan
-  - 접수: 07. 15(금) ~ 08. 03(수)
-- __[제 16회 공개 SW 개발자 대회](https://www.oss.kr/dev_competition)__
-  - 분류: `SW`, `대회`
-  - 주최: 과학기술정보통신부
-  - 일시: 07. 04(월) ~ 08. 03(수)
-- __[[소풍 • 크립톤 • D3쥬빌리파트너스 • 디스콰이엇] 여성 창업가 네트워킹](https://festa.io/events/2499)__
-  - 분류: `오프라인`, `창업`
-  - 주최: 디스콰이엇
-  - 일시: 08. 03(수) 19:00 ~ 21:00
 - __[DX Sprint](https://festa.io/events/2483)__
   - 분류: `오프라인`, `스프린트`
   - 주최: 부산광역시
   - 일시: 07. 19(화) ~ 08. 04(목)
+
 - __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2500)__
   - 분류: `온라인`, `하둡`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 08. 04(목) 11:00 ~ 12:00
+- __[취업&이직 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk80?t=1659513284862)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 원티드
+  - 접수: 08. 04(목)
 - __[2022 서울시 IoT 공공도시데이터 활용 해커톤](http://seoulhackathon.kr/)__
   - 분류: `해커톤`
   - 주최: 서울특별시
@@ -175,6 +163,14 @@
   - 분류: `경진대회`
   - 주최: 경기도
   - 일시: 07. 20(수) ~ 08. 08(월)
+- __[DevTalk : 나도 개발자 네트워크가 필요해](https://www.wanted.co.kr/events/Devtalk_community)__
+  - 분류: `온라인`, `커뮤니티`
+  - 주최: 원티드
+  - 접수: 08. 03(수) ~ 08. 09(화)
+- __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
+  - 분류: `온라인`, `블록체인`
+  - 주최: 업비트
+  - 접수: 07. 27(수) ~ 08. 12(금)
 - __[앞마당 해커톤](https://festa.io/events/2477)__
   - 분류: `해커톤`
   - 주최: Google Developer Student Clubs
@@ -195,22 +191,26 @@
   - 분류: `모임`
   - 주최: SWYG
   - 접수: 08. 01(월) ~ 08. 15(월)
+- __[첫 번째 구름톤에 초대합니다.](https://9oormthon.goorm.io/)__
+  - 분류: `해커톤`, `모임`
+  - 주최: 구름
+  - 접수: 08. 04(목) ~ 08. 16(화)
 - __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: 점핏
   - 일시: 08. 17(수)
-- __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
-  - 분류: `온라인`, `블록체인`
-  - 주최: 업비트
-  - 접수: 07. 27(수) ~ 08. 12(금)
-- __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
-  - 분류: `데이터`, `공모전`
-  - 주최: 한국보건산업진흥원
-  - 일시: 08. 16(화) ~ 08. 19(금)
 - __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: Jumpit
   - 일시: 08. 17(월) 15:00 ~ 17:00
+- __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-building-block-reg.html)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWS
+  - 일시: 08. 17(월) ~ 08. 18(화)
+- __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
+  - 분류: `데이터`, `공모전`
+  - 주최: 한국보건산업진흥원
+  - 일시: 08. 16(화) ~ 08. 19(금)
 - __[대한민국 4차산업혁명 페스티벌 2022](https://event-us.kr/4thfestival/event/45909)__
   - 분류: `오프라인`, `기술`
   - 주최: 과학기술정보통신부
