@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[DX Sprint](https://festa.io/events/2483)__
-  - 분류: `오프라인`, `스프린트`
-  - 주최: 부산광역시
-  - 일시: 07. 19(화) ~ 08. 04(목)
-
-- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2500)__
-  - 분류: `온라인`, `하둡`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 08. 04(목) 11:00 ~ 12:00
-- __[취업&이직 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk80?t=1659513284862)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 접수: 08. 04(목)
 - __[2022 서울시 IoT 공공도시데이터 활용 해커톤](http://seoulhackathon.kr/)__
   - 분류: `해커톤`
   - 주최: 서울특별시
   - 접수: 07. 04(월) ~ 08. 05(금)
+
 - __[쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)__
   - 분류: `경진대회`, `데이터`
   - 주최: DACON
@@ -167,6 +155,10 @@
   - 분류: `온라인`, `커뮤니티`
   - 주최: 원티드
   - 접수: 08. 03(수) ~ 08. 09(화)
+- __[Hadoop ecosystem을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2505)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 08. 11(목) 11:00 ~ 12:00
 - __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
   - 분류: `온라인`, `블록체인`
   - 주최: 업비트
@@ -195,10 +187,14 @@
   - 분류: `해커톤`, `모임`
   - 주최: 구름
   - 접수: 08. 04(목) ~ 08. 16(화)
-- __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
+- __[개발자 취업 콘서트: 전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: 점핏
   - 일시: 08. 17(수)
+- __[세계적인 오픈소스 DB, MySQL에 대한 모든 것](https://go.oracle.com/LP=129473)__
+  - 분류: `온라인`, `데이터베이스`
+  - 주최: 오라클
+  - 일시: 08. 17(수) 14:00 ~ 17:00
 - __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: Jumpit
@@ -231,6 +227,10 @@
   - 분류: `오픈소스`
   - 주최: 문화체육관광부
   - 일시: 08. 19(금) ~ 08. 21(일)
+- __[엘리스 SW 엔지니어 트랙 3기 모집](https://festa.io/events/2506)__
+  - 분류: `교육`
+  - 주최: 엘리스
+  - 접수: 08. 05(금) ~ 08. 21(일)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
