@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[2022 서울시 IoT 공공도시데이터 활용 해커톤](http://seoulhackathon.kr/)__
-  - 분류: `해커톤`
-  - 주최: 서울특별시
-  - 접수: 07. 04(월) ~ 08. 05(금)
-
-- __[쇼핑몰 지점별 매출액 예측 경진대회](https://dacon.io/competitions/official/235942/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: DACON
-  - 일시: 07. 11(월) ~ 08. 05(금)
-- __[쇼핑몰 리뷰 평점 분류 경진대회](https://dacon.io/competitions/official/235938/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: DACON
-  - 일시: 07. 11(월) ~ 08. 05(금)
-- __[클라우드 스터디 잼 쿠버네티스 중급](https://sites.google.com/view/studyjam-kr/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%A4%91%EA%B8%89)__
-  - 분류: `스터디`, `쿠버네티스`
-  - 주최: 구글 클라우드
-  - 모집: 07. 27(수) ~ 08. 07(일)
 - __[입자 형태 분석 모델 개발 해커톤](https://aifactory.space/competition/detail/2067)__
   - 분류: `경진대회`, `해커톤`
   - 주최: LG화학
   - 일시: 06. 27(금) ~ 08. 08(월)
+
 - __[제17회 경기게임오디션 Global Festival 참가자 모집](https://gnext.or.kr/?page_id=6119)__
   - 분류: `경진대회`
   - 주최: 경기도
@@ -155,10 +139,22 @@
   - 분류: `온라인`, `커뮤니티`
   - 주최: 원티드
   - 접수: 08. 03(수) ~ 08. 09(화)
+- __[[Baby Shark NFT & AI Network Open House] for Developers](https://www.eventbrite.com.au/e/baby-shark-nft-ai-network-open-house-for-developers-tickets-394140062537?utm_campaign=dev_event&utm_medium=post&utm_source=dev_event)__
+  - 분류: `오프라인`, `NFT`, `메타버스`
+  - 주최: 커먼컴퓨터
+  - 접수: 08. 08 ~ 08. 10(수)
+- __[프론트엔드 & 백엔드 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_22_08)__
+  - 분류: `온라인`, `교육`
+  - 주최: 원티드
+  - 접수: 08. 08(월) ~ 08. 11(목)
 - __[Hadoop ecosystem을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2505)__
   - 분류: `온라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 08. 11(목) 11:00 ~ 12:00
+- __[2022 마이데이터 아이디어 공모전](https://kdata.or.kr/kr/board/notice_01/boardView.do?bbsIdx=33331)__
+  - 분류: `대회`, `마이데이터`
+  - 주최: 과학기술정보통신부
+  - 접수: 07. 20(수) ~ 08. 11(수)
 - __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
   - 분류: `온라인`, `블록체인`
   - 주최: 업비트
@@ -239,6 +235,10 @@
   - 분류: `기술`
   - 주최: DELL
   - 일시: 08. 24(수)
+- __[프리온보딩 프론트엔드 & 백엔드 코스](https://www.wanted.co.kr/events/pre_ob_be_4)__
+  - 분류: `온라인`, `교육`
+  - 주최: 원티드
+  - 접수: 08. 08(월) ~ 08. 24(수)
 - __[2022 인프콘](https://infcon.day/teaser)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
@@ -251,6 +251,10 @@
   - 분류: `대회`, `유니티`
   - 주최: 유니티 코리아
   - 접수: 07. 11(월) ~ 08. 26(금)
+- __[부산코딩경진대회](https://festa.io/events/2510)__
+  - 분류: `대회`
+  - 주최: 부산광역시
+  - 접수: 08. 08(월) ~ 08. 20(토)
 - __[2022 농산물 가격 예측 AI 경진대회](https://aifactory.space/competition/detail/2091)__
   - 분류: `대회`, `AI`
   - 주최: 한국농수산식품유통공사
@@ -259,6 +263,10 @@
   - 분류: `교육`
   - 주최: 크래프톤
   - 접수: 08. 01(월) ~ 08. 30(화)
+- __[NVIDIA AI 개발자 밋업 - KISTI Hackathon 특집](https://festa.io/events/2509)__
+  - 분류: `모임`, `AI`
+  - 주최: NVIDIA
+  - 일시: 08. 30(화) 14:00 ~ 15:30
 
 <br />
 
