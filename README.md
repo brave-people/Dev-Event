@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[입자 형태 분석 모델 개발 해커톤](https://aifactory.space/competition/detail/2067)__
-  - 분류: `경진대회`, `해커톤`
-  - 주최: LG화학
-  - 일시: 06. 27(금) ~ 08. 08(월)
-
-- __[제17회 경기게임오디션 Global Festival 참가자 모집](https://gnext.or.kr/?page_id=6119)__
-  - 분류: `경진대회`
-  - 주최: 경기도
-  - 일시: 07. 20(수) ~ 08. 08(월)
 - __[DevTalk : 나도 개발자 네트워크가 필요해](https://www.wanted.co.kr/events/Devtalk_community)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: 원티드
   - 접수: 08. 03(수) ~ 08. 09(화)
+  
 - __[[Baby Shark NFT & AI Network Open House] for Developers](https://www.eventbrite.com.au/e/baby-shark-nft-ai-network-open-house-for-developers-tickets-394140062537?utm_campaign=dev_event&utm_medium=post&utm_source=dev_event)__
   - 분류: `오프라인`, `NFT`, `메타버스`
   - 주최: 커먼컴퓨터
@@ -155,6 +147,10 @@
   - 분류: `대회`, `마이데이터`
   - 주최: 과학기술정보통신부
   - 접수: 07. 20(수) ~ 08. 11(수)
+- __[2022 오픈소스SW 라이선스 전문교육 일반과정 1차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=442)__
+  - 분류: `오프라인`, `교육`, `오픈소스`
+  - 주최: 문화체육관광부
+  - 접수: 07. 27(수) ~ 08. 11(목)
 - __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
   - 분류: `온라인`, `블록체인`
   - 주최: 업비트
@@ -183,6 +179,10 @@
   - 분류: `해커톤`, `모임`
   - 주최: 구름
   - 접수: 08. 04(목) ~ 08. 16(화)
+- __[UAM의 미래상과 기술 개발 전략](https://devocean.sk.com/events/view.do?id=132)__
+  - 분류: `웨비나`, `UAM`
+  - 주최: DEVOCEAN
+  - 일시: 08. 16(화) 16:00 ~ 18:00
 - __[개발자 취업 콘서트: 전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: 점핏
@@ -207,6 +207,10 @@
   - 분류: `오프라인`, `기술`
   - 주최: 과학기술정보통신부
   - 접수: 06. 27(월) ~ 08. 20(토)
+- __[2022 부산코딩경진대회](https://sw-contest.goorm.io/assessment/32269/2022-%EB%B6%80%EC%82%B0%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C?utm_source=community&utm_medium=social&utm_campaign=busancoding&utm_content=dev_event&utm_term=2022)__
+  - 분류: `대회`, `알고리즘`
+  - 주최: 부산광역시
+  - 접수: 08. 08(월) ~ 08. 20(토) 
 - __[2022 제2회 AI공모전 참가자 모집](https://allforyoung.com/posts/18735)__
   - 분류: `공모전`, `AI`
   - 주최: ICT콤플렉스
@@ -271,11 +275,15 @@
 <br />
 
 ## 22년 09월
+- __[2022 오픈소스SW 라이선스 전문교육 고급과정 2차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=442)__
+  - 분류: `오프라인`, `교육`, `오픈소스`
+  - 주최: 문화체육관광부
+  - 접수: 07. 27(수) ~ 09. 01(목)
+
 - __[2022 adiOS ASAP](https://festa.io/events/2466)__
   - 분류: `모임`, `iOS`
   - 주최: adiOS
   - 일시: 09. 03(토) 15:00 ~ 18:30
-
 - __[UNITHON 9TH](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
   - 분류: `모임`
   - 주최: UNITHON
