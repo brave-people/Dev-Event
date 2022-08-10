@@ -284,7 +284,7 @@
   - 분류: `모임`, `iOS`
   - 주최: adiOS
   - 일시: 09. 03(토) 15:00 ~ 18:30
-- __[UNITHON 9TH](https://unit-center.notion.site/UNITHON-9TH-847c26f82fb341da80bd282028d49ab9)__
+- __[UNITHON 9TH](https://www.unit.center/unithon)__
   - 분류: `모임`
   - 주최: UNITHON
   - 모집: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
