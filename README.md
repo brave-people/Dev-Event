@@ -125,16 +125,12 @@
 
 <br />
 
-## 22년 08월
-- __[DevTalk : 나도 개발자 네트워크가 필요해](https://www.wanted.co.kr/events/Devtalk_community)__
-  - 분류: `온라인`, `커뮤니티`
-  - 주최: 원티드
-  - 접수: 08. 03(수) ~ 08. 09(화)
-  
+## 22년 08월 
 - __[[Baby Shark NFT & AI Network Open House] for Developers](https://www.eventbrite.com.au/e/baby-shark-nft-ai-network-open-house-for-developers-tickets-394140062537?utm_campaign=dev_event&utm_medium=post&utm_source=dev_event)__
   - 분류: `오프라인`, `NFT`, `메타버스`
   - 주최: 커먼컴퓨터
   - 접수: 08. 08 ~ 08. 10(수)
+
 - __[프론트엔드 & 백엔드 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_22_08)__
   - 분류: `온라인`, `교육`
   - 주최: 원티드
@@ -210,7 +206,11 @@
 - __[2022 부산코딩경진대회](https://sw-contest.goorm.io/assessment/32269/2022-%EB%B6%80%EC%82%B0%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C?utm_source=community&utm_medium=social&utm_campaign=busancoding&utm_content=dev_event&utm_term=2022)__
   - 분류: `대회`, `알고리즘`
   - 주최: 부산광역시
-  - 접수: 08. 08(월) ~ 08. 20(토) 
+  - 접수: 08. 08(월) ~ 08. 20(토)
+- __[부산코딩경진대회](https://festa.io/events/2510)__
+  - 분류: `대회`
+  - 주최: 부산광역시
+  - 접수: 08. 08(월) ~ 08. 20(토)
 - __[2022 제2회 AI공모전 참가자 모집](https://allforyoung.com/posts/18735)__
   - 분류: `공모전`, `AI`
   - 주최: ICT콤플렉스
@@ -243,6 +243,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 원티드
   - 접수: 08. 08(월) ~ 08. 24(수)
+- __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
+  - 분류: `유료`, `교육`, `AI`
+  - 주최: 차세대융합콘텐츠산업협회
+  - 접수: 08. 10(수) ~ 08. 26(금)
 - __[2022 인프콘](https://infcon.day/teaser)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
@@ -255,10 +259,10 @@
   - 분류: `대회`, `유니티`
   - 주최: 유니티 코리아
   - 접수: 07. 11(월) ~ 08. 26(금)
-- __[부산코딩경진대회](https://festa.io/events/2510)__
-  - 분류: `대회`
-  - 주최: 부산광역시
-  - 접수: 08. 08(월) ~ 08. 20(토)
+- __[캐치커리어콘 취준파이널](https://www.catch.co.kr/CatchClass/CareerCon)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 캐치
+  - 접수: 08. 10(수) ~ 08. 26(금)
 - __[2022 농산물 가격 예측 AI 경진대회](https://aifactory.space/competition/detail/2091)__
   - 분류: `대회`, `AI`
   - 주최: 한국농수산식품유통공사
@@ -304,6 +308,10 @@
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
   - 접수: 05. 18(수) ~ 09. 14(수)
+- __[메이커챌린지 IV](https://festa.io/events/2514)__
+  - 분류: `모임`
+  - 주최: 디스콰이엇
+  - 일시: 08. 29(월) ~ 09. 25(일)
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
   - 주최: 데일리시큐
