@@ -591,6 +591,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "chanos-dev",
+      "name": "chanos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48897081?v=4",
+      "profile": "https://chanos-dev.github.io/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
