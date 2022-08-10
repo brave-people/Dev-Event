@@ -275,7 +275,7 @@
 <br />
 
 ## 22년 09월
-- __[2022 오픈소스SW 라이선스 전문교육 고급과정 2차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=442)__
+- __[2022 오픈소스SW 라이선스 전문교육 고급과정 2차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=444)__
   - 분류: `오프라인`, `교육`, `오픈소스`
   - 주최: 문화체육관광부
   - 접수: 07. 27(수) ~ 09. 01(목)
