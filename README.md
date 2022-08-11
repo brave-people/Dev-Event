@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[[Baby Shark NFT & AI Network Open House] for Developers](https://www.eventbrite.com.au/e/baby-shark-nft-ai-network-open-house-for-developers-tickets-394140062537?utm_campaign=dev_event&utm_medium=post&utm_source=dev_event)__
-  - 분류: `오프라인`, `NFT`, `메타버스`
-  - 주최: 커먼컴퓨터
-  - 접수: 08. 08 ~ 08. 10(수)
-
 - __[프론트엔드 & 백엔드 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_22_08)__
   - 분류: `온라인`, `교육`
   - 주최: 원티드
   - 접수: 08. 08(월) ~ 08. 11(목)
+
 - __[Hadoop ecosystem을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2505)__
   - 분류: `온라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -195,6 +191,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: AWS
   - 일시: 08. 17(월) ~ 08. 18(화)
+- __[2022년 글로벌 신산업, 신기술 세미나 제 9차](k-tag.b2match.io)__
+  - 분류: `온라인`, `특허`
+  - 주최: K-TAG
+  - 일시: 08. 11(목) ~ 08. 18(화)
 - __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
   - 분류: `데이터`, `공모전`
   - 주최: 한국보건산업진흥원
@@ -235,6 +235,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
   - 일시: 08. 23(수) 14:00 ~ 15:00
+- __[INNOPOLIS AI SPACE-S 인공지능 세미나-TESLA 자율주행 기술에 발가락 담그기](https://aifactory.space/competition/detail/2062)__
+  - 분류: `웨비나`, `자율주행`
+  - 주최: SPACE-S
+  - 일시: 08. 23(수) 19:00 ~ 20:00
 - __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
   - 분류: `기술`
   - 주최: DELL
@@ -288,6 +292,10 @@
   - 분류: `모임`, `iOS`
   - 주최: adiOS
   - 일시: 09. 03(토) 15:00 ~ 18:30
+- __[핀테크업계 개발자로 스타트UP](https://www.catch.co.kr/CatchClass/Live/View/5402)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 접수: 08. 11(목) ~ 09. 04(일)
 - __[UNITHON 9TH](https://www.unit.center/unithon)__
   - 분류: `모임`
   - 주최: UNITHON
