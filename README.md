@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[프론트엔드 & 백엔드 코스 사전설명회](https://www.wanted.co.kr/events/pre_apply_22_08)__
-  - 분류: `온라인`, `교육`
-  - 주최: 원티드
-  - 접수: 08. 08(월) ~ 08. 11(목)
-
-- __[Hadoop ecosystem을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2505)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 08. 11(목) 11:00 ~ 12:00
-- __[2022 마이데이터 아이디어 공모전](https://kdata.or.kr/kr/board/notice_01/boardView.do?bbsIdx=33331)__
-  - 분류: `대회`, `마이데이터`
-  - 주최: 과학기술정보통신부
-  - 접수: 07. 20(수) ~ 08. 11(수)
-- __[2022 오픈소스SW 라이선스 전문교육 일반과정 1차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=442)__
-  - 분류: `오프라인`, `교육`, `오픈소스`
-  - 주최: 문화체육관광부
-  - 접수: 07. 27(수) ~ 08. 11(목)
 - __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
   - 분류: `온라인`, `블록체인`
   - 주최: 업비트
   - 접수: 07. 27(수) ~ 08. 12(금)
+  
 - __[앞마당 해커톤](https://festa.io/events/2477)__
   - 분류: `해커톤`
   - 주최: Google Developer Student Clubs
@@ -247,6 +231,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 원티드
   - 접수: 08. 08(월) ~ 08. 24(수)
+- __[AWSKRUG #architecture - 35번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287714457/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKURG
+  - 일시: 08. 25(목)
 - __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: 차세대융합콘텐츠산업협회
@@ -271,6 +259,14 @@
   - 분류: `대회`, `AI`
   - 주최: 한국농수산식품유통공사
   - 일시: 07. 27(수) ~ 08. 28(일)
+- __[개발자 포트폴리오를 부탁해 : 실습](https://www.wanted.co.kr/events/studysalon49)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 원티드
+  - 접수: 08. 12(금) ~ 08. 28(일) 23:59
+- __[데이터 직군 커리어 고민상담소 : 야놀자 김영진 님](https://www.wanted.co.kr/events/talk81)__
+  - 분류: `온라인`, `커리어`, `데이터`
+  - 주최: 원티드
+  - 접수: 08. 12(금) ~ 08. 29(월) 23:59
 - __[크래프톤 정글](https://jungle.krafton.com/)__
   - 분류: `교육`
   - 주최: 크래프톤
