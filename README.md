@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-66-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-67-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -555,6 +555,7 @@
     <td align="center"><a href="https://github.com/HyunGyu-Han"><img src="https://avatars.githubusercontent.com/u/80298175?v=4?s=100" width="100px;" alt=""/><br /><sub><b>한현규</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HyunGyu-Han" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Snailpong"><img src="https://avatars.githubusercontent.com/u/11583179?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seongsu Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Snailpong" title="Code">💻</a></td>
     <td align="center"><a href="https://chanos-dev.github.io/"><img src="https://avatars.githubusercontent.com/u/48897081?v=4?s=100" width="100px;" alt=""/><br /><sub><b>chanos</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chanos-dev" title="Code">💻</a></td>
+    <td align="center"><a href="https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17"><img src="https://avatars.githubusercontent.com/u/59302192?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박제영</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jeyoung-Park" title="Code">💻</a></td>
   </tr>
 </table>
 
