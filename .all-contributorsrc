@@ -600,6 +600,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Jeyoung-Park",
+      "name": "박제영",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59302192?v=4",
+      "profile": "https://lunar-jackrabbit-760.notion.site/Park-Jeyoung-fcd38d99e99f41e09937dc47ffb99b17",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
