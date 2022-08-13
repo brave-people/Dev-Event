@@ -215,9 +215,9 @@
   - 분류: `교육`
   - 주최: 엘리스
   - 접수: 08. 05(금) ~ 08. 21(일)
- - __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
+- __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
   - 분류: `대회`
-  - 주최: 우리은행
+  - 주최: 우리FIS, YBM
   - 접수: 07. 04(월) ~ 08. 21(일)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
