@@ -215,14 +215,14 @@
   - 분류: `교육`
   - 주최: 엘리스
   - 접수: 08. 05(금) ~ 08. 21(일)
+ - __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
+  - 분류: `대회`
+  - 주최: 우리은행
+  - 접수: 07. 04(월) ~ 08. 21(일)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
   - 일시: 08. 23(수) 14:00 ~ 15:00
-- __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
-  - 분류: `대회`
-  - 주최: 우리은행
-  - 접수: 07. 04(월) ~ 08. 21(일)
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나-TESLA 자율주행 기술에 발가락 담그기](https://aifactory.space/competition/detail/2062)__
   - 분류: `웨비나`, `자율주행`
   - 주최: SPACE-S
