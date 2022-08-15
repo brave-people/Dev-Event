@@ -1,5 +1,3 @@
-<h1> 개발자 행사 다시보기 </h1>
-
 ![img](./static/banner.jpg)
 
 <br />

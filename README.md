@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[UDC 2022 무료강좌](https://udc.upbit.com/program/special/open_lecture)__
-  - 분류: `온라인`, `블록체인`
-  - 주최: 업비트
-  - 접수: 07. 27(수) ~ 08. 12(금)
-  
-- __[앞마당 해커톤](https://festa.io/events/2477)__
-  - 분류: `해커톤`
-  - 주최: Google Developer Student Clubs
-  - 일시: 08. 13(토) 13:00 ~ 08. 14(일) 14:00
 - __[super.init()](https://festa.io/events/2503)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG Songdo
   - 일시: 08. 14(일) 13:00 ~ 19:00
+
 - __[KURLY HACK FESTA 2022](https://www.2022-kurlyhackfesta.com/)__
   - 분류: `대회`
   - 주최: 마켓컬리
@@ -155,6 +147,10 @@
   - 분류: `해커톤`, `모임`
   - 주최: 구름
   - 접수: 08. 04(목) ~ 08. 16(화)
+- __[2022 농넷 농산물 가격 예측 AI 경진대회 연계 세미나](https://aifactory.space/learning/detail/2102)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 인공지능 팩토리
+  - 일시: 08. 16(화) 19:00 ~ 21:00
 - __[UAM의 미래상과 기술 개발 전략](https://devocean.sk.com/events/view.do?id=132)__
   - 분류: `웨비나`, `UAM`
   - 주최: DEVOCEAN
@@ -199,14 +195,18 @@
   - 분류: `공모전`, `AI`
   - 주최: ICT콤플렉스
   - 일시: 07. 24(일) ~ 08. 21(일)
-- __[JUNCTION ASIA 2022](https://festa.io/events/2449)__
-  - 분류: `해커톤`
-  - 주최: SHIFT
-  - 일시: 08. 19(금) ~ 08. 21(일)
+- __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
+  - 분류: `대회`
+  - 주최: 우리FIS, YBM
+  - 접수: 07. 04(월) ~ 08. 21(일)
 - __[2022 KOPIS 빅데이터 분석 공모전](https://festa.io/events/2489)__
   - 분류: `대회`, `데이터`
   - 주최: 문화체육관광부
   - 일시: 08. 01(월) ~ 08. 21(일)
+- __[JUNCTION ASIA 2022](https://festa.io/events/2449)__
+  - 분류: `해커톤`
+  - 주최: SHIFT
+  - 일시: 08. 19(금) ~ 08. 21(일)
 - __[제7회 2022대한민국청소년게임잼 참가자 모집](https://okky.kr/article/1279945)__
   - 분류: `오픈소스`
   - 주최: 문화체육관광부
@@ -215,10 +215,10 @@
   - 분류: `교육`
   - 주최: 엘리스
   - 접수: 08. 05(금) ~ 08. 21(일)
-- __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
+- __[NYCP](https://www.nypc.co.kr/information/nypcSchedule.do)__
   - 분류: `대회`
-  - 주최: 우리FIS, YBM
-  - 접수: 07. 04(월) ~ 08. 21(일)
+  - 주최: 넥슨
+  - 접수: 07. 13(수) ~ 08. 22(월)
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
@@ -267,6 +267,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
   - 접수: 08. 12(금) ~ 08. 28(일) 23:59
+- __[2022년 스마트농업 AI 경진대회](https://aifactory.space/competition/detail/2086)__
+  - 분류: `대회`, `AI`
+  - 주최: 인공지능팩토리
+  - 접수: 08. 15(월) ~ 08. 28(일)
 - __[데이터 직군 커리어 고민상담소 : 야놀자 김영진 님](https://www.wanted.co.kr/events/talk81)__
   - 분류: `온라인`, `커리어`, `데이터`
   - 주최: 원티드
