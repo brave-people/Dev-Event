@@ -12,7 +12,6 @@
 <br />
 <br />
 
-
 <h2> 2022년 </h2>
 
 <table>
@@ -128,12 +127,92 @@
     <td> DEVOCEAN </td>
     <td> 06. 30 </td>
   </tr>
+  <tr>
+    <td> <a href="https://youtu.be/ePVMKMyxUks"> 오픈서치 기반 오라클 클라우드의 Search Service 알아보기 </a> </td>
+    <td> <a href="https://youtu.be/ePVMKMyxUks"> 유튜브 </a> </td>
+    <td> <code> 클라우드 </code> </td>
+    <td> 오라클 </td>
+    <td> 07. 13 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/IwEjUQbFb2Y"> 2022 블록체인 밋업 컨퍼런스 </a> </td>
+    <td> <a href="https://youtu.be/IwEjUQbFb2Y"> 유튜브 </a> </td>
+    <td> <code> 블록체인 </code> </td>
+    <td> 한국인터넷진흥원 </td>
+    <td> 07. 19 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/lnxI3PFdvFc"> INNOPOLIS AI SPACE-S 인공지능 세미나 </a> </td>
+    <td> <a href="https://youtu.be/lnxI3PFdvFc"> 유튜브 </a> </td>
+    <td> <code> 인공지능 </code> </td>
+    <td> SPACE-S  </td>
+    <td> 07. 19 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/hATj64Stzq0"> Open Cloud Platform Summit 2022 </a> </td>
+    <td> <a href="https://youtu.be/hATj64Stzq0"> 유튜브 </a> </td>
+    <td> <code> 클라우드 </code> </td>
+    <td> 과학기술정보통신부 </td>
+    <td> 07. 20 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/zynSuLI1Aa8"> Oracle Database World Korea </a> </td>
+    <td> <a href="https://youtu.be/zynSuLI1Aa8"> 유튜브 </a> </td>
+    <td> <code> 클라우드 </code> </td>
+    <td> 오라클 </td>
+    <td> 07. 21 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor"> 제 16회 보아즈(BOAZ) 빅데이터 컨퍼런스 </a> </td>
+    <td> <a href="https://www.youtube.com/playlist?list=PLThNmt_l7b6AEacVgZVcpMxUlWHlXGFor"> 유튜브 </a> </td>
+    <td> <code> 빅데이터 </code> </td>
+    <td> 보아즈 </td>
+    <td> 07. 23 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/NW6oywF_pGM"> 클라우드 인프라 컨퍼런스 </a> </td>
+    <td> <a href="https://youtu.be/NW6oywF_pGM"> 유튜브 </a> </td>
+    <td> <code> 클라우드 </code> </td>
+    <td> 쉐어드IT </td>
+    <td> 07. 26 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/xu3XGEomRWI"> 7월 우아한테크세미나 | 개발자를 위한 글쓰기 코칭의 시간! </a> </td>
+    <td> <a href="https://youtu.be/xu3XGEomRWI"> 유튜브 </a> </td>
+    <td> <code> 글쓰기 </code> </td>
+    <td> 우아한형제들 </td>
+    <td> 07. 27 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/q7iYkGk2hFk"> 7월 Tech 세미나 - 데이터플랫폼 구현 사례 </a> </td>
+    <td> <a href="https://youtu.be/q7iYkGk2hFk"> 유튜브 </a> </td>
+    <td> <code> 데이터 </code> </td>
+    <td> DEVOCEAN </td>
+    <td> 07.28 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/mxuWqUzbD6c"> 모두의연구소 코칭스터디 세미나 </a> </td>
+    <td> <a href="https://youtu.be/mxuWqUzbD6c"> 유튜브 </a> </td>
+    <td> <code> 파이썬 </code> </td>
+    <td> 모두의연구소 </td>
+    <td> 08. 09 </td>
+  </tr>
 </table>
 
 > :arrow_double_up:[Top](#-바로가기-)
 
 <br />
 <br />
+
+<!-- 
+  <tr>
+    <td> <a href=""> 개발자 밋업 04.15 </a> </td>
+    <td> <a href="">  </a> </td>
+    <td> <code>  </code> </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+-->
 
 
 <h2> 2021년 </h2>
@@ -237,6 +316,13 @@
     <td> 08. 13 </td>
   </tr>
   <tr>
+    <td> <a href="https://tv.naver.com/v/20307278/list/709884"> NAVER Search Colloquium '21 </a> </td>
+    <td> <a href="https://tv.naver.com/v/20307278/list/709884"> 홈페이지 </a> </td>
+    <td> <code> 검색 </code> </td>
+    <td> 네이버 </td>
+    <td> 05. 03 </td>
+  </tr>
+  <tr>
     <td> <a href="https://udc.upbit.com/"> Upbit Developer Conference 2021 </a> </td>
     <td> <a href="https://udc.upbit.com/about/2021"> 홈페이지 </a> </td>
     <td> <code> 블록체인 </code> </td>
@@ -323,7 +409,7 @@
     <td> 11. 17 </td>
   </tr>
   <tr>
-    <td> <a href="https://deview.kr/2021"> Naver Deview 2021 </a> </td>
+    <td> <a href="https://deview.kr/2021"> Naver DEVIEW 2021 </a> </td>
     <td> <a href="https://deview.kr/2021"> 홈페이지 </a> </td>
     <td> <code> 기술 일반 </code> </td>
     <td> 네이버 </td>
@@ -462,6 +548,13 @@
     <td> 08. 18 </td>
   </tr>
   <tr>
+    <td> <a href="https://techcon.naver.com/"> TECH CONCERT </a> </td>
+    <td> <a href="https://techcon.naver.com/"> 홈페이지 </a> </td>
+    <td> <code> 기술 일반 </code> </td>
+    <td> 네이버 </td>
+    <td> 08. 19 ~ 08. 20 </td>
+  </tr>
+  <tr>
     <td> <a href="https://kr-resources.awscloud.com/aws-builders-online-series"> AWS Builders Online Series </a> </td>
     <td> <a href="https://kr-resources.awscloud.com/aws-builders-online-series"> 홈페이지 </a> </td>
     <td> <code> 클라우드 </code> </td>
@@ -521,6 +614,13 @@
     <td> 11. 07 </td>
   </tr>
   <tr>
+    <td> <a href="https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5"> LINE DEVELOPER DAY 2020 </a> </td>
+    <td> <a href="https://www.youtube.com/playlist?list=PLI2S-k0Fa59vrCkUC9G8kiu7w4PRXJI_5"> 유튜브 </a> </td>
+    <td> <code> 기술 일반 </code> </td>
+    <td> 라인 </td>
+    <td> 11. 10 </td>
+  </tr>
+  <tr>
     <td> <a href="https://if.kakao.com/"> if kakao 2020 </a> </td>
     <td> <a href="https://if.kakao.com/"> 홈페이지 </a> </td>
     <td> <code> 기술 일반 </code> </td>
@@ -528,7 +628,7 @@
     <td> 11. 25 ~ 11. 27 </td>
   </tr>
   <tr>
-    <td> <a href="https://d2.naver.com/news/5751902?fbclid=IwAR0g-4tqdRXMuESizfE-ALCwwol6neXzY1h0lR0hstyPTS_OyECQU8XWxrM"> DEVIEW 2020 </a> </td>
+    <td> <a href="https://d2.naver.com/news/5751902?fbclid=IwAR0g-4tqdRXMuESizfE-ALCwwol6neXzY1h0lR0hstyPTS_OyECQU8XWxrM"> Naver DEVIEW 2020 </a> </td>
     <td> <a href="https://d2.naver.com/news/5751902?fbclid=IwAR0g-4tqdRXMuESizfE-ALCwwol6neXzY1h0lR0hstyPTS_OyECQU8XWxrM"> 홈페이지 </a> </td>
     <td> <code> 기술 일반 </code> </td>
     <td> 네이버 </td>
