@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[첫 번째 구름톤에 초대합니다.](https://9oormthon.goorm.io/)__
-  - 분류: `해커톤`, `모임`
-  - 주최: 구름
-  - 접수: 08. 04(목) ~ 08. 16(화)
-
-- __[2022 농넷 농산물 가격 예측 AI 경진대회 연계 세미나](https://aifactory.space/learning/detail/2102)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 인공지능 팩토리
-  - 일시: 08. 16(화) 19:00 ~ 21:00
-- __[UAM의 미래상과 기술 개발 전략](https://devocean.sk.com/events/view.do?id=132)__
-  - 분류: `웨비나`, `UAM`
-  - 주최: DEVOCEAN
-  - 일시: 08. 16(화) 16:00 ~ 18:00
 - __[개발자 취업 콘서트: 전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
   - 분류: `온라인`, `오프라인`, `커리어`
   - 주최: 점핏
   - 일시: 08. 17(수)
+  
 - __[세계적인 오픈소스 DB, MySQL에 대한 모든 것](https://go.oracle.com/LP=129473)__
   - 분류: `온라인`, `데이터베이스`
   - 주최: 오라클
@@ -223,10 +211,18 @@
   - 분류: `온라인`, `교육`
   - 주최: 원티드
   - 접수: 08. 08(월) ~ 08. 24(수)
+- __[구름 세미나: 트래픽이 몰려온다, 장애대응](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
+  - 분류: `오프라인`, `온라인`, `인프라`
+  - 주최: 구름
+  - 일시: 08. 24(수)
 - __[AWSKRUG #architecture - 35번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287714457/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKURG
   - 일시: 08. 25(목)
+- __[쿠버네티스 환경에서 APIs 배포 방법 및 사례](http://www.digitaltoday.co.kr/bbs/view.html?idxno=88&sc_category=)__
+  - 분류: `온라인`, `쿠버네티스`
+  - 주최: 디지털투데이
+  - 일시: 08. 25(목) 14:00 ~ 15:00
 - __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: 차세대융합콘텐츠산업협회
@@ -275,6 +271,10 @@
   - 분류: `모임`, `AI`
   - 주최: NVIDIA
   - 일시: 08. 30(화) 14:00 ~ 15:30
+- __[파이썬 학습 로드맵](https://patch-failing-503.notion.site/bb03dd42a382459092d88fad263cac62)__
+  - 분류: `웨비나`, `파이썬`
+  - 주최: Udemy & 원티드
+  - 일시: 08. 31(수) 20:00 ~ 21:40
 
 <br />
 
@@ -312,6 +312,14 @@
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
   - 접수: 05. 18(수) ~ 09. 14(수)
+- __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
+  - 분류: `오프라인`, `온라인`, `인프라`
+  - 주최: 구름
+  - 일시: 09. 21(수)
+- __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 17(수) ~ 09. 22(목)
 - __[메이커챌린지 IV](https://festa.io/events/2514)__
   - 분류: `모임`
   - 주최: 디스콰이엇
@@ -337,6 +345,14 @@
   - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
   - 일시: 10. 08(토)
+
+<br />
+
+## 22년 11월
+- __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
+  - 분류: `컨퍼런스`, `온라인`, `오프라인`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 11. 26(토) ~ 11. 27(일)
 
 ----------------
 
