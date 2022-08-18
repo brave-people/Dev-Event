@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[개발자 취업 콘서트: 전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
-  - 분류: `온라인`, `오프라인`, `커리어`
-  - 주최: 점핏
-  - 일시: 08. 17(수)
-  
-- __[세계적인 오픈소스 DB, MySQL에 대한 모든 것](https://go.oracle.com/LP=129473)__
-  - 분류: `온라인`, `데이터베이스`
-  - 주최: 오라클
-  - 일시: 08. 17(수) 14:00 ~ 17:00
-- __[전공자로 개발자 취업 뭐가 다를까?](https://www.jumpit.co.kr/event/developer-concert)__
-  - 분류: `온라인`, `오프라인`, `커리어`
-  - 주최: Jumpit
-  - 일시: 08. 17(월) 15:00 ~ 17:00
 - __[AWS Builders Korea Program](https://pages.awscloud.com/aws-builders-online-building-block-reg.html)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWS
   - 일시: 08. 17(월) ~ 08. 18(화)
+
 - __[2022년 글로벌 신산업, 신기술 세미나 제 9차](k-tag.b2match.io)__
   - 분류: `온라인`, `특허`
   - 주최: K-TAG
@@ -223,6 +211,10 @@
   - 분류: `온라인`, `쿠버네티스`
   - 주최: 디지털투데이
   - 일시: 08. 25(목) 14:00 ~ 15:00
+- __[8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://devocean.sk.com/events/view.do?id=133)__
+  - 분류: `온라인`, `보안`
+  - 주최: DEVOCEAN
+  - 일시: 08. 25(목) 19:00 ~ 21:00
 - __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: 차세대융합콘텐츠산업협회
@@ -247,6 +239,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: GDG 대구
   - 일시: 08. 27(토)
+- __[Node.js 클라우드 서버리스 RESTFul 서비스 구현 핸즈온랩 세미나](https://festa.io/events/2534)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 지니 공공 아카데미
+  - 일시: 08. 27(토) 13:00 ~ 18:00
 - __[2022 농산물 가격 예측 AI 경진대회](https://aifactory.space/competition/detail/2091)__
   - 분류: `대회`, `AI`
   - 주최: 한국농수산식품유통공사
@@ -275,6 +271,10 @@
   - 분류: `웨비나`, `파이썬`
   - 주최: Udemy & 원티드
   - 일시: 08. 31(수) 20:00 ~ 21:40
+- __[신입&주니어 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk83)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 원티드
+  - 접수: 08. 18(목) ~ 08. 31(수)
 
 <br />
 
@@ -304,6 +304,10 @@
   - 분류: `경진대회`
   - 주최: KB국민은행
   - 일시: 05. 02(월) ~ 09. 16(금)
+- __[2022 공개SW 기술컨설팅 모집 설명회](https://www.oss.kr/notice/show/8442459a-bfc7-4fd4-947d-eb6ca15e5ab1)__
+  - 분류: `오픈소스`
+  - 주최: 정보통신산업진흥회
+  - 일시: 08. 16(화) ~ 09. 16(금)
 - __[JSConf Korea](https://2022.jsconf.kr/ko)__
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
