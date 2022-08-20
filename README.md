@@ -291,7 +291,7 @@
 - __[UNITHON 9TH](https://www.unit.center/unithon)__
   - 분류: `모임`
   - 주최: UNITHON
-  - 모집: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
+  - 일시: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
