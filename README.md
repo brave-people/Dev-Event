@@ -126,51 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[2022년 KHIDI 공공데이터 활용 아이디어 공모전](https://onoffmix.com/event/259311)__
-  - 분류: `데이터`, `공모전`
-  - 주최: 한국보건산업진흥원
-  - 일시: 08. 16(화) ~ 08. 19(금)
-  
-- __[대한민국 4차산업혁명 페스티벌 2022](https://event-us.kr/4thfestival/event/45909)__
-  - 분류: `오프라인`, `기술`
-  - 주최: 과학기술정보통신부
-  - 접수: 06. 27(월) ~ 08. 20(토)
-- __[2022 부산코딩경진대회](https://sw-contest.goorm.io/assessment/32269/2022-%EB%B6%80%EC%82%B0%EC%BD%94%EB%94%A9%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C?utm_source=community&utm_medium=social&utm_campaign=busancoding&utm_content=dev_event&utm_term=2022)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 부산광역시
-  - 접수: 08. 08(월) ~ 08. 20(토)
-- __[부산코딩경진대회](https://festa.io/events/2510)__
-  - 분류: `대회`
-  - 주최: 부산광역시
-  - 접수: 08. 08(월) ~ 08. 20(토)
-- __[2022 제2회 AI공모전 참가자 모집](https://allforyoung.com/posts/18735)__
-  - 분류: `공모전`, `AI`
-  - 주최: ICT콤플렉스
-  - 일시: 07. 24(일) ~ 08. 21(일)
-- __[2022 Woori 코딩 페스티벌](https://www.ybmit.com/event/revent/woori_Code/event.jsp)__
-  - 분류: `대회`
-  - 주최: 우리FIS, YBM
-  - 접수: 07. 04(월) ~ 08. 21(일)
-- __[2022 KOPIS 빅데이터 분석 공모전](https://festa.io/events/2489)__
-  - 분류: `대회`, `데이터`
-  - 주최: 문화체육관광부
-  - 일시: 08. 01(월) ~ 08. 21(일)
-- __[JUNCTION ASIA 2022](https://festa.io/events/2449)__
-  - 분류: `해커톤`
-  - 주최: SHIFT
-  - 일시: 08. 19(금) ~ 08. 21(일)
-- __[제7회 2022대한민국청소년게임잼 참가자 모집](https://okky.kr/article/1279945)__
-  - 분류: `오픈소스`
-  - 주최: 문화체육관광부
-  - 일시: 08. 19(금) ~ 08. 21(일)
-- __[엘리스 SW 엔지니어 트랙 3기 모집](https://festa.io/events/2506)__
-  - 분류: `교육`
-  - 주최: 엘리스
-  - 접수: 08. 05(금) ~ 08. 21(일)
 - __[NYCP](https://www.nypc.co.kr/information/nypcSchedule.do)__
   - 분류: `대회`
   - 주최: 넥슨
   - 접수: 07. 13(수) ~ 08. 22(월)
+
 - __[제 6회 삼성 보안 기술 포럼](https://sstf.site/)__
   - 분류: `웨비나`, `기술`
   - 주최: 삼성
@@ -296,6 +256,10 @@
   - 분류: `모임`
   - 주최: UNITHON
   - 일시: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
+- __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/287587120/)__
+  - 분류: `오프라인`, `모임`
+  - 주최: AWSKRUG
+  - 일시: 09. 06(화) 19:00
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
