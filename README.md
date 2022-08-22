@@ -284,6 +284,10 @@
   - 분류: `모임`, `iOS`
   - 주최: adiOS
   - 일시: 09. 03(토) 15:00 ~ 18:30
+- __[걸스인텍x마이크로소프트 CODE;WITHOUT BARRIERS MEETUP](https://www.wanted.co.kr/events/git_cwb)__
+  - 분류: `오프라인`, `모임` 
+  - 주최: 걸스인텍코리아, 한국마이크로소프트
+  - 일시: 09. 03(토)
 - __[핀테크업계 개발자로 스타트UP](https://www.catch.co.kr/CatchClass/Live/View/5402)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
@@ -349,6 +353,10 @@
   - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
   - 일시: 10. 08(토)
+ - __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
+  - 분류: `오프라인`, `멘토링`, `커리어` 
+  - 주최: 걸스인텍코리아, AWS
+  - 일시: 09. 05(월) ~ 10. 14(금)
 
 <br />
 
@@ -447,7 +455,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-| Girls In Tech Korea | [homepage](https://korea.girlsintech.org/) |
+| 걸스인텍 코리아(Girls In Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/) |
 | OKKY (Java,Spring) | [homepage](https://okky.kr/) |
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
