@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 08월 
-- __[NYCP](https://www.nypc.co.kr/information/nypcSchedule.do)__
-  - 분류: `대회`
-  - 주최: 넥슨
-  - 접수: 07. 13(수) ~ 08. 22(월)
-
 - __[제 6회 삼성 보안 기술 포럼](https://sstf.site/)__
   - 분류: `웨비나`, `기술`
   - 주최: 삼성
   - 접수: 07. 25(월) ~ 08. 23(화)
+
 - __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 카카오
@@ -219,14 +215,18 @@
   - 분류: `모임`, `AI`
   - 주최: NVIDIA
   - 일시: 08. 30(화) 14:00 ~ 15:30
-- __[파이썬 학습 로드맵](https://patch-failing-503.notion.site/bb03dd42a382459092d88fad263cac62)__
-  - 분류: `웨비나`, `파이썬`
-  - 주최: Udemy & 원티드
-  - 일시: 08. 31(수) 20:00 ~ 21:40
 - __[신입&주니어 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk83)__
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
   - 접수: 08. 18(목) ~ 08. 31(수)
+- __[파이썬 학습 로드맵](https://patch-failing-503.notion.site/bb03dd42a382459092d88fad263cac62)__
+  - 분류: `웨비나`, `파이썬`
+  - 주최: Udemy & 원티드
+  - 일시: 08. 31(수) 20:00 ~ 21:40
+- __[AI OCR 도입 성공 방정식](https://www.upstage.ai/events/ai-ocr-adoption-rule?utm_source=dev_event&utm_medium=github)__
+  - 분류: `웨비나`, `AI`
+  - 주최: Upstage
+  - 일시: 08. 31(수) 20:00 ~ 21:30
 
 <br />
 
@@ -256,6 +256,10 @@
   - 분류: `모임`
   - 주최: UNITHON
   - 일시: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
+- __[핀테크업계 개발자로 스타트UP](https://www.catch.co.kr/CatchClass/Live/View/5402)__
+  - 분류: `커리어`
+  - 주최: 캐치
+  - 일시: 09. 05(월) 19:30 ~ 21:00
 - __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/287587120/)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
@@ -295,6 +299,10 @@
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
   - 주최: 데일리시큐
+  - 일시: 07. 07(목) ~ 09. 27(화)
+- __[Gitlab Korea 밋업 #12 - DevSecOps 파이프라인](https://festa.io/events/2540)__
+  - 분류: `웨비나`, `DevOps`
+  - 주최: Gitlab Korea
   - 일시: 07. 07(목) ~ 09. 27(화)
 - __[2022 창원 빅데이터 공모전](https://www.changwon.go.kr/sotong/contest/list.do?mId=0104000000)__
   - 분류: `경진대회`
