@@ -125,24 +125,12 @@
 
 <br />
 
-## 22년 08월 
-- __[제 6회 삼성 보안 기술 포럼](https://sstf.site/)__
-  - 분류: `웨비나`, `기술`
-  - 주최: 삼성
-  - 접수: 07. 25(월) ~ 08. 23(화)
-
-- __[카카오 i 클라우드 테크톡 웨비나](https://pages.kakaoenterprise.com/20220823_TechTalk_SmartNIC.html)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 카카오
-  - 일시: 08. 23(수) 14:00 ~ 15:00
-- __[INNOPOLIS AI SPACE-S 인공지능 세미나-TESLA 자율주행 기술에 발가락 담그기](https://aifactory.space/competition/detail/2062)__
-  - 분류: `웨비나`, `자율주행`
-  - 주최: SPACE-S
-  - 일시: 08. 23(수) 19:00 ~ 20:00
+## 22년 08월
 - __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
   - 분류: `기술`
   - 주최: DELL
   - 일시: 08. 24(수)
+  
 - __[프리온보딩 프론트엔드 & 백엔드 코스](https://www.wanted.co.kr/events/pre_ob_be_4)__
   - 분류: `온라인`, `교육`
   - 주최: 원티드
@@ -235,7 +223,15 @@
   - 분류: `오프라인`, `교육`, `오픈소스`
   - 주최: 문화체육관광부
   - 접수: 07. 27(수) ~ 09. 01(목)
-  
+
+- __[데이터 클라우드 컨퍼런스](https://www.snowflake.com/?lang=ko)__
+  - 분류: `온라인`, `오프라인`, `데이터`
+  - 주최: SNOWFLAKE
+  - 일시: 09. 01(목) 10:00 ~ 16:30
+- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편](https://festa.io/events/2550)__
+  - 분류: `온라인`, `하둡`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 09. 01(목) 11:00 ~ 12:00
 - __[디프만 12th 모집](https://www.depromeet.com/)__
   - 분류: `동아리`
   - 주최: 디프만
@@ -256,6 +252,10 @@
   - 분류: `모임`
   - 주최: UNITHON
   - 일시: 09. 02(금) 19:00 ~ 09. 04(일) 13:00
+- __[22년 HSAT(Hyundai SW Aptitude Test) 4차 정기 코딩평가](https://softeer.ai/challenge/certification/detail.do?idx=1974)__
+  - 분류: `모임`
+  - 주최: 현대엔지비
+  - 일시: 08. 24(수) 10:00 ~ 09. 04(일) 23:00
 - __[핀테크업계 개발자로 스타트UP](https://www.catch.co.kr/CatchClass/Live/View/5402)__
   - 분류: `커리어`
   - 주최: 캐치
@@ -264,6 +264,14 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 09. 06(화) 19:00
+- __[Upbit Developer Conference](https://udc.upbit.com/)__
+  - 분류: `유료`, `오프라인`, `블록체인`
+  - 주최: 두나무
+  - 접수: 05. 18(수) ~ 09. 14(수)
+- __[STARTERS(스타터스) 취업 부트캠프_2기 교육생 모집 - 프론트엔드/백엔드](https://www.udemykorea.com/bootcamp/index?utm_medium=owned&utm_source=dev_event&utm_campaign=recruitment_02&utm_content=front-back&utm_term=220824)__
+  - 분류: `교육`
+  - 주최: 유데미
+  - 접수: 08. 17(수) ~ 09. 14(수)
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
@@ -280,10 +288,6 @@
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
   - 일시: 09. 16(목) ~ 09. 17(금)
-- __[Upbit Developer Conference](https://udc.upbit.com/)__
-  - 분류: `유료`, `오프라인`, `블록체인`
-  - 주최: 두나무
-  - 접수: 05. 18(수) ~ 09. 14(수)
 - __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
   - 분류: `오프라인`, `온라인`, `인프라`
   - 주최: 구름
