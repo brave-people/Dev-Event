@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[DELL Technologies Forum](https://events.dell.com/event/8721d365-6b70-46e5-aa0c-240d89e01ea2/summary)__
-  - 분류: `기술`
-  - 주최: DELL
-  - 일시: 08. 24(수)
-  
-- __[프리온보딩 프론트엔드 & 백엔드 코스](https://www.wanted.co.kr/events/pre_ob_be_4)__
-  - 분류: `온라인`, `교육`
-  - 주최: 원티드
-  - 접수: 08. 08(월) ~ 08. 24(수)
-- __[구름 세미나: 트래픽이 몰려온다, 장애대응](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
-  - 분류: `오프라인`, `온라인`, `인프라`
-  - 주최: 구름
-  - 일시: 08. 24(수)
 - __[AWSKRUG #architecture - 35번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287714457/)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWSKURG
   - 일시: 08. 25(목)
+
 - __[쿠버네티스 환경에서 APIs 배포 방법 및 사례](http://www.digitaltoday.co.kr/bbs/view.html?idxno=88&sc_category=)__
   - 분류: `온라인`, `쿠버네티스`
   - 주최: 디지털투데이
@@ -171,6 +159,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 캐치
   - 접수: 08. 10(수) ~ 08. 26(금)
+- __[비전공자의 Amazon 개발자 취업기](https://wx6mo4h2cwe.typeform.com/to/djIIIbM9)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 타임리 캠퍼스
+  - 접수: 08. 25(목) ~ 08. 26(금)
 - __[Code Action 1](https://festa.io/events/2526)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 대구
@@ -264,6 +256,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 09. 06(화) 19:00
+- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2551)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 클라우드 유랑단
+  - 일시: 09. 06(화) 19:00 ~ 21:00
 - __[Upbit Developer Conference](https://udc.upbit.com/)__
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
@@ -296,6 +292,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
   - 접수: 08. 17(수) ~ 09. 22(목)
+- __[Dreams Come True 웨비나](https://cometrue.ai/index.php/20220223_webinar/)__
+  - 분류: `온라인`, `정보보안`, `보안`
+  - 주최: ComTrue Technologies
+  - 일시: 09. 21(수) ~ 09. 22(목)
 - __[메이커챌린지 IV](https://festa.io/events/2514)__
   - 분류: `모임`
   - 주최: 디스콰이엇
