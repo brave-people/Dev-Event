@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[AWSKRUG #architecture - 35번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/287714457/)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: AWSKURG
-  - 일시: 08. 25(목)
-
-- __[쿠버네티스 환경에서 APIs 배포 방법 및 사례](http://www.digitaltoday.co.kr/bbs/view.html?idxno=88&sc_category=)__
-  - 분류: `온라인`, `쿠버네티스`
-  - 주최: 디지털투데이
-  - 일시: 08. 25(목) 14:00 ~ 15:00
-- __[8월 Tech 세미나 - Goodbye Passwords! Hello Passkey!](https://devocean.sk.com/events/view.do?id=133)__
-  - 분류: `온라인`, `보안`
-  - 주최: DEVOCEAN
-  - 일시: 08. 25(목) 19:00 ~ 21:00
 - __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
   - 분류: `유료`, `교육`, `AI`
   - 주최: 차세대융합콘텐츠산업협회
   - 접수: 08. 10(수) ~ 08. 26(금)
+  
 - __[2022 인프콘](https://infcon.day/teaser)__
   - 분류: `컨퍼런스`, `오프라인`
   - 주최: 인프런
@@ -195,6 +183,10 @@
   - 분류: `모임`, `AI`
   - 주최: NVIDIA
   - 일시: 08. 30(화) 14:00 ~ 15:30
+- __[8월 우아한테크세미나 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://www.youtube.com/watch?v=RQv86D0M5YY)__
+  - 분류: `온라인`, `보안`
+  - 주최: 우아한형제들
+  - 일시: 08. 31(수) 19:00 ~ 21:00
 - __[신입&주니어 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk83)__
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
@@ -228,6 +220,10 @@
   - 분류: `동아리`
   - 주최: 디프만
   - 접수: 08. 22(금) ~  09. 02(금)
+- __[제2회 테크 데이 - 기술 커뮤니티의 가치](https://devocean.sk.com/events/view.do?id=134#none)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: DEVOCEAN
+  - 일시: 09. 02(금) 13:30 ~ 17:00
 - __[2022 adiOS ASAP](https://festa.io/events/2466)__
   - 분류: `모임`, `iOS`
   - 주최: adiOS
@@ -252,6 +248,10 @@
   - 분류: `커리어`
   - 주최: 캐치
   - 일시: 09. 05(월) 19:30 ~ 21:00
+- __[Super Week 2022](https://tmaxsuperweek.com/)__
+  - 분류: `온라인`, `오프라인`, `기술`
+  - 주최: 티멕스
+  - 접수: 08. 08(월) ~ 09. 05(월)
 - __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/287587120/)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
@@ -280,6 +280,10 @@
   - 분류: `오픈소스`
   - 주최: 정보통신산업진흥회
   - 일시: 08. 16(화) ~ 09. 16(금)
+- __[제2회 혁신공유대학 메타버스 콘테스트](https://allforyoung.com/posts/18365)__
+  - 분류: `메타버스`
+  - 주최: 교육부
+  - 일시: 08. 29(월) ~ 09. 16(금)
 - __[JSConf Korea](https://2022.jsconf.kr/ko)__
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
