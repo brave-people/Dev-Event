@@ -260,6 +260,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유랑단
   - 일시: 09. 06(화) 19:00 ~ 21:00
+- __[IT 대학생 연합 프리랜서/앱런칭 동아리 UMC 3기 학교별 모집](https://www.makeus.in/umc/)__
+  - 분류: `동아리`, `대학생`
+  - 주최: MakeUs Challenge
+  - 일시: 08. 21(일) ~ 09. 09(금)
 - __[Upbit Developer Conference](https://udc.upbit.com/)__
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
@@ -367,10 +371,9 @@
 | 디프만 | 디자이너와 프로그래머가 만났을 때                            | [depromeet.com](https://www.depromeet.com/) |
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임                         | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
 | CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
-| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://makeus.in/) [instagram](https://www.instagram.com/makeus_challenge/) |
-| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [1기 모집 노션](https://makeus-challenge.notion.site/University-MakeUs-Challenge-UMC-3a1b2a30fdd94f428cdbd5f91bdf0a5c) |
+| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://makeus.in/cmc), [instagram](https://www.instagram.com/makeus_challenge/) |
+| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
-| Central MakeUs Challenge | -                                             | [공식 홈페이지](https://makeus.in/) |
 
 <br />
 
