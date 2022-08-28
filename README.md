@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-70-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-71-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -566,6 +566,9 @@
     <td align="center"><a href="https://minsoolog.tistory.com/"><img src="https://avatars.githubusercontent.com/u/52095945?v=4?s=100" width="100px;" alt=""/><br /><sub><b>minsoozz</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minsoozz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/kingsubin"><img src="https://avatars.githubusercontent.com/u/60462865?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Subin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kingsubin" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jaelyung"><img src="https://avatars.githubusercontent.com/u/61307199?v=4?s=100" width="100px;" alt=""/><br /><sub><b>jaelyung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jaelyung" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5"><img src="https://avatars.githubusercontent.com/u/86464544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박창현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kid-Chang" title="Code">💻</a></td>
   </tr>
 </table>
 
