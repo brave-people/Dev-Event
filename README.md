@@ -126,55 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[인공지능을 위한 데이터 수집 및 전처리 프로젝트](http://edu.ncia.kr/intensive/aducation.application.php?ep_no=497&fbclid=IwAR3r-OTR9xLEoTLnbAb22kVLgwFIodFW9MlHLqfpgPSxlrZwQqmq2SoiWPo)__
-  - 분류: `유료`, `교육`, `AI`
-  - 주최: 차세대융합콘텐츠산업협회
-  - 접수: 08. 10(수) ~ 08. 26(금)
-  
-- __[2022 인프콘](https://infcon.day/teaser)__
-  - 분류: `컨퍼런스`, `오프라인`
-  - 주최: 인프런
-  - 일시: 08. 26(금) 13:00 ~ 18:00
-- __[자율주행 센서의 안테나 성능 예측 AI 경진대회](https://dacon.io/competitions/official/235927/overview/description)__
-  - 분류: `경진대회`
-  - 주최: LG AI Research
-  - 모집: 08. 01(월) ~ 08. 26(금)
-- __[MWU 코리아 어워드 2022](http://unitysquare.co.kr/madewith/mwu)__
-  - 분류: `대회`, `유니티`
-  - 주최: 유니티 코리아
-  - 접수: 07. 11(월) ~ 08. 26(금)
-- __[캐치커리어콘 취준파이널](https://www.catch.co.kr/CatchClass/CareerCon)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 캐치
-  - 접수: 08. 10(수) ~ 08. 26(금)
-- __[비전공자의 Amazon 개발자 취업기](https://wx6mo4h2cwe.typeform.com/to/djIIIbM9)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 타임리 캠퍼스
-  - 접수: 08. 25(목) ~ 08. 26(금)
-- __[Code Action 1](https://festa.io/events/2526)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG 대구
-  - 일시: 08. 27(토)
-- __[Node.js 클라우드 서버리스 RESTFul 서비스 구현 핸즈온랩 세미나](https://festa.io/events/2534)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 지니 공공 아카데미
-  - 일시: 08. 27(토) 13:00 ~ 18:00
-- __[2022 농산물 가격 예측 AI 경진대회](https://aifactory.space/competition/detail/2091)__
-  - 분류: `대회`, `AI`
-  - 주최: 한국농수산식품유통공사
-  - 일시: 07. 27(수) ~ 08. 28(일)
-- __[개발자 포트폴리오를 부탁해 : 실습](https://www.wanted.co.kr/events/studysalon49)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 접수: 08. 12(금) ~ 08. 28(일) 23:59
-- __[2022년 스마트농업 AI 경진대회](https://aifactory.space/competition/detail/2086)__
-  - 분류: `대회`, `AI`
-  - 주최: 인공지능팩토리
-  - 접수: 08. 15(월) ~ 08. 28(일)
 - __[데이터 직군 커리어 고민상담소 : 야놀자 김영진 님](https://www.wanted.co.kr/events/talk81)__
   - 분류: `온라인`, `커리어`, `데이터`
   - 주최: 원티드
   - 접수: 08. 12(금) ~ 08. 29(월) 23:59
+
 - __[크래프톤 정글](https://jungle.krafton.com/)__
   - 분류: `교육`
   - 주최: 크래프톤
@@ -291,7 +247,11 @@
 - __[JSConf Korea](https://2022.jsconf.kr/ko)__
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
-  - 일시: 09. 16(목) ~ 09. 17(금)
+  - 일시: 09. 16(목) ~ 09. 17(토)
+- __[Machine Learning Meetup - Incheon](https://2022.jsconf.kr/ko)__
+  - 분류: `오프라인`, `ML`
+  - 주최: GDG 인천
+  - 일시: 09. 17(토)
 - __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
   - 분류: `오프라인`, `온라인`, `인프라`
   - 주최: 구름
@@ -304,6 +264,10 @@
   - 분류: `온라인`, `정보보안`, `보안`
   - 주최: ComTrue Technologies
   - 일시: 09. 21(수) ~ 09. 22(목)
+- __[제3회예술데이터가 바꾸는 세상 공모전](https://www.arko.or.kr/board/view/4053?bid=&page=&cid=1804901)__
+  - 분류: `공모전`, `데이터`
+  - 주최: 한국문화예술위원회
+  - 일시: 08. 25(목) ~ 09. 25(일)
 - __[메이커챌린지 IV](https://festa.io/events/2514)__
   - 분류: `모임`
   - 주최: 디스콰이엇
@@ -316,6 +280,10 @@
   - 분류: `웨비나`, `DevOps`
   - 주최: Gitlab Korea
   - 일시: 07. 07(목) ~ 09. 27(화)
+- __[제7회 한국 리눅스 커널 개발자 모임인](https://festa.io/events/2557)__
+  - 분류: `웨비나`, `리눅스`
+  - 주최: 한국 리눅스 커널 개발자 모임
+  - 일시: 09. 29(목) 19:00 ~ 22:00
 - __[2022 창원 빅데이터 공모전](https://www.changwon.go.kr/sotong/contest/list.do?mId=0104000000)__
   - 분류: `경진대회`
   - 주최: 창원시
