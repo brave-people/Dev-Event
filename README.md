@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[데이터 직군 커리어 고민상담소 : 야놀자 김영진 님](https://www.wanted.co.kr/events/talk81)__
-  - 분류: `온라인`, `커리어`, `데이터`
-  - 주최: 원티드
-  - 접수: 08. 12(금) ~ 08. 29(월) 23:59
-
 - __[크래프톤 정글](https://jungle.krafton.com/)__
   - 분류: `교육`
   - 주최: 크래프톤
   - 접수: 08. 01(월) ~ 08. 30(화)
+
 - __[NVIDIA AI 개발자 밋업 - KISTI Hackathon 특집](https://festa.io/events/2509)__
   - 분류: `모임`, `AI`
   - 주최: NVIDIA
@@ -180,6 +176,10 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: DEVOCEAN
   - 일시: 09. 02(금) 13:30 ~ 17:00
+- __[[걸스인텍xMS] CODE; WITHOUT BARRIERS MEETUP](https://www.wanted.co.kr/events/git_cwb)__
+  - 분류: `모임`
+  - 주최: 걸스인텍 코리아
+  - 일시: 09. 03(토) 09:30 ~ 13:00
 - __[2022 adiOS ASAP](https://festa.io/events/2466)__
   - 분류: `모임`, `iOS`
   - 주최: adiOS
@@ -248,14 +248,22 @@
   - 분류: `오프라인`, `JS`
   - 주최: JSConf
   - 일시: 09. 16(목) ~ 09. 17(토)
-- __[Machine Learning Meetup - Incheon](https://2022.jsconf.kr/ko)__
+- __[Machine Learning Meetup - Incheon](https://festa.io/events/2562)__
   - 분류: `오프라인`, `ML`
   - 주최: GDG 인천
   - 일시: 09. 17(토)
+- __[9월 원티드살롱 (경력직편)](https://www.wanted.co.kr/events/wantedsalon220921)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 원티드
+  - 일시: 09. 21(수) 19:30 ~ 21:30
 - __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
   - 분류: `오프라인`, `온라인`, `인프라`
   - 주최: 구름
   - 일시: 09. 21(수)
+- __[FastAPI 밋업 : 우리 회사도 FastAPI 써요!](https://www.wanted.co.kr/events/meetup_fastapi)__
+  - 분류: `오프라인`, `Fast API`
+  - 주최: 원티드
+  - 일시: 09. 21(수) 19:00 ~ 21:50
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
@@ -280,7 +288,7 @@
   - 분류: `웨비나`, `DevOps`
   - 주최: Gitlab Korea
   - 일시: 07. 07(목) ~ 09. 27(화)
-- __[제7회 한국 리눅스 커널 개발자 모임인](https://festa.io/events/2557)__
+- __[제7회 한국 리눅스 커널 개발자 모임](https://festa.io/events/2557)__
   - 분류: `웨비나`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
   - 일시: 09. 29(목) 19:00 ~ 22:00
