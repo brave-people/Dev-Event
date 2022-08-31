@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 08월
-- __[크래프톤 정글](https://jungle.krafton.com/)__
-  - 분류: `교육`
-  - 주최: 크래프톤
-  - 접수: 08. 01(월) ~ 08. 30(화)
-
 - __[NVIDIA AI 개발자 밋업 - KISTI Hackathon 특집](https://festa.io/events/2509)__
   - 분류: `모임`, `AI`
   - 주최: NVIDIA
   - 일시: 08. 30(화) 14:00 ~ 15:30
+
 - __[8월 우아한테크세미나 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://www.youtube.com/watch?v=RQv86D0M5YY)__
   - 분류: `온라인`, `보안`
   - 주최: 우아한형제들
@@ -228,10 +224,18 @@
   - 분류: `교육`
   - 주최: 유데미
   - 접수: 08. 17(수) ~ 09. 14(수)
+- __[Born 2 Be Startup Festa](https://eopla.net/events/28)__
+  - 분류: `경진대회`, `채용`
+  - 주최: (주)이오스튜디오
+  - 일시: 09. 14(수) 20:00 ~ 23:00
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
   - 일시: 07. 11(월) ~ 09. 15(목)
+- __[빅데이터 기반 딥러닝 부트캠프 4기 수강생 모집](https://allforyoung.com/posts/20102)__
+  - 분류: `교육`
+  - 주최: 알파코
+  - 일시: 08. 27(토) ~ 09. 15(목)
 - __[제5회 KB국민은행 소프트웨어 경진대회](https://www.kbsccoding.com/)__
   - 분류: `경진대회`
   - 주최: KB국민은행
@@ -256,14 +260,18 @@
   - 분류: `오프라인`, `커리어`
   - 주최: 원티드
   - 일시: 09. 21(수) 19:30 ~ 21:30
-- __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
-  - 분류: `오프라인`, `온라인`, `인프라`
-  - 주최: 구름
-  - 일시: 09. 21(수)
+- __[실사용 사례로 알아보는 APEX로 누구나 손쉽게 애플리케이션 구축하기](https://go.oracle.com/LP=130213)__
+  - 분류: `웨비나`, `개발 일반`
+  - 주최: 한국오라클
+  - 일시: 09. 21(수) 14:00 ~ 15:00
 - __[FastAPI 밋업 : 우리 회사도 FastAPI 써요!](https://www.wanted.co.kr/events/meetup_fastapi)__
   - 분류: `오프라인`, `Fast API`
   - 주최: 원티드
   - 일시: 09. 21(수) 19:00 ~ 21:50
+- __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
+  - 분류: `오프라인`, `온라인`, `인프라`
+  - 주최: 구름
+  - 일시: 09. 21(수)
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
@@ -309,11 +317,15 @@
   - 주최: 파이콘 한국
   - 일시: 10. 01(토) ~ 10. 02(일)
   
+- __[기업 데이터를 활용한 AI 취업 부트캠프](https://allforyoung.com/posts/19999)__
+  - 분류: `교육`, `AI`
+  - 주최: SeSAC 
+  - 일시: 08. 19(금) ~ 10. 03(월)
 - __[FEConf 2022 FE World](https://2022.feconf.kr)__
   - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
   - 일시: 10. 08(토)
- - __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
+- __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
   - 분류: `오프라인`, `멘토링`, `커리어` 
   - 주최: 걸스인텍코리아, AWS
   - 일시: 09. 05(월) ~ 10. 14(금)
