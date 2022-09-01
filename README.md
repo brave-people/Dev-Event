@@ -126,27 +126,7 @@
 <br />
 
 ## 22년 08월
-- __[NVIDIA AI 개발자 밋업 - KISTI Hackathon 특집](https://festa.io/events/2509)__
-  - 분류: `모임`, `AI`
-  - 주최: NVIDIA
-  - 일시: 08. 30(화) 14:00 ~ 15:30
 
-- __[8월 우아한테크세미나 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!](https://www.youtube.com/watch?v=RQv86D0M5YY)__
-  - 분류: `온라인`, `보안`
-  - 주최: 우아한형제들
-  - 일시: 08. 31(수) 19:00 ~ 21:00
-- __[신입&주니어 고민 1분만에 해결하기](https://www.wanted.co.kr/events/talk83)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 원티드
-  - 접수: 08. 18(목) ~ 08. 31(수)
-- __[파이썬 학습 로드맵](https://patch-failing-503.notion.site/bb03dd42a382459092d88fad263cac62)__
-  - 분류: `웨비나`, `파이썬`
-  - 주최: Udemy & 원티드
-  - 일시: 08. 31(수) 20:00 ~ 21:40
-- __[AI OCR 도입 성공 방정식](https://www.upstage.ai/events/ai-ocr-adoption-rule?utm_source=dev_event&utm_medium=github)__
-  - 분류: `웨비나`, `AI`
-  - 주최: Upstage
-  - 일시: 08. 31(수) 20:00 ~ 21:30
 
 <br />
 
@@ -224,6 +204,10 @@
   - 분류: `교육`
   - 주최: 유데미
   - 접수: 08. 17(수) ~ 09. 14(수)
+- __[IT 개발자 기술면접 #자료구조&알고리즘](https://www.catch.co.kr/CatchClass/Live/View/5501)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 09. 14(수) 19:00 ~ 21:00
 - __[Born 2 Be Startup Festa](https://eopla.net/events/28)__
   - 분류: `경진대회`, `채용`
   - 주최: (주)이오스튜디오
@@ -256,6 +240,10 @@
   - 분류: `오프라인`, `ML`
   - 주최: GDG 인천
   - 일시: 09. 17(토)
+- __[IT 개발자 기술면접 #데이터베이스&네트워크](https://www.catch.co.kr/CatchClass/Live/View/5502)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 09. 19(월) 19:00 ~ 21:00
 - __[9월 원티드살롱 (경력직편)](https://www.wanted.co.kr/events/wantedsalon220921)__
   - 분류: `오프라인`, `커리어`
   - 주최: 원티드
@@ -280,6 +268,14 @@
   - 분류: `온라인`, `정보보안`, `보안`
   - 주최: ComTrue Technologies
   - 일시: 09. 21(수) ~ 09. 22(목)
+- __[IT 개발자 기술면접 #자바&스프링프레임워크 외](https://www.catch.co.kr/CatchClass/Live/View/5503)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 09. 19(월) 19:00 ~ 21:00
+- __[개발자 AI와 메타버스를 위한 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/?ncid=ref-inpa-600599)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA Korea
+  - 일시: 09. 19(월) ~ 09. 22(목)
 - __[제3회예술데이터가 바꾸는 세상 공모전](https://www.arko.or.kr/board/view/4053?bid=&page=&cid=1804901)__
   - 분류: `공모전`, `데이터`
   - 주최: 한국문화예술위원회
