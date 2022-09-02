@@ -125,11 +125,6 @@
 
 <br />
 
-## 22년 08월
-
-
-<br />
-
 ## 22년 09월
 - __[2022 오픈소스SW 라이선스 전문교육 고급과정 2차](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=444)__
   - 분류: `오프라인`, `교육`, `오픈소스`
@@ -188,10 +183,18 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 09. 06(화) 19:00
+- __[Kotlin Night 2022 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-kotlin-night-2022-seoul/)__
+  - 분류: `온라인`, `코틀린`
+  - 주최: GDG Seoul
+  - 일시: 09. 06(화) 19:00 ~ 21:00
 - __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2551)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유랑단
   - 일시: 09. 06(화) 19:00 ~ 21:00
+- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2571)__
+  - 분류: `웨비나`, `하둡`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 09. 08(목) 11:00 ~ 12:00
 - __[IT 대학생 연합 프리랜서/앱런칭 동아리 UMC 3기 학교별 모집](https://www.makeus.in/umc/)__
   - 분류: `동아리`, `대학생`
   - 주최: MakeUs Challenge
@@ -271,7 +274,7 @@
 - __[IT 개발자 기술면접 #자바&스프링프레임워크 외](https://www.catch.co.kr/CatchClass/Live/View/5503)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
-  - 일시: 09. 19(월) 19:00 ~ 21:00
+  - 일시: 09. 23(월) 19:00 ~ 21:00
 - __[개발자 AI와 메타버스를 위한 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/?ncid=ref-inpa-600599)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA Korea
