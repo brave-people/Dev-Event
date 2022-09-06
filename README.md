@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 09월
-- __[핀테크업계 개발자로 스타트UP](https://www.catch.co.kr/CatchClass/Live/View/5402)__
-  - 분류: `커리어`
-  - 주최: 캐치
-  - 일시: 09. 05(월) 19:30 ~ 21:00
-
-- __[Super Week 2022](https://tmaxsuperweek.com/)__
-  - 분류: `온라인`, `오프라인`, `기술`
-  - 주최: 티멕스
-  - 접수: 08. 08(월) ~ 09. 05(월)
 - __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/287587120/)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 09. 06(화) 19:00
+
 - __[Kotlin Night 2022 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-kotlin-night-2022-seoul/)__
   - 분류: `온라인`, `코틀린`
   - 주최: GDG Seoul
@@ -207,6 +199,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
   - 일시: 09. 19(월) 19:00 ~ 21:00
+- __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: Splunk Korea
+  - 일시: 09. 21(수) 09:00 ~ 17:00
 - __[9월 원티드살롱 (경력직편)](https://www.wanted.co.kr/events/wantedsalon220921)__
   - 분류: `오프라인`, `커리어`
   - 주최: 원티드
@@ -259,6 +255,10 @@
   - 분류: `웨비나`, `DevOps`
   - 주최: Gitlab Korea
   - 일시: 07. 07(목) ~ 09. 27(화)
+- __[데이터 직군 커리어 고민상담소 : 야놀자 김영진 님](https://www.wanted.co.kr/events/talk81)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: 원티드
+  - 일시: 09. 28(수)
 - __[제7회 한국 리눅스 커널 개발자 모임](https://festa.io/events/2557)__
   - 분류: `웨비나`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
