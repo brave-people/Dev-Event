@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 09월
-- __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/287587120/)__
-  - 분류: `오프라인`, `모임`
-  - 주최: AWSKRUG
-  - 일시: 09. 06(화) 19:00
-
-- __[Kotlin Night 2022 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-kotlin-night-2022-seoul/)__
-  - 분류: `온라인`, `코틀린`
-  - 주최: GDG Seoul
-  - 일시: 09. 06(화) 19:00 ~ 21:00
-- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2551)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 클라우드 유랑단
-  - 일시: 09. 06(화) 19:00 ~ 21:00
 - __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2571)__
   - 분류: `웨비나`, `하둡`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 09. 08(목) 11:00 ~ 12:00
+
 - __[2022년 제1회 랜섬웨어 레질리언스 컨퍼런스 접수](https://seed.kisa.or.kr/kisa/Board/144/detailView.do)__
   - 분류: `오프라인`, `보안`
   - 주최: 한국인터넷진흥원
@@ -175,6 +163,10 @@
   - 분류: `교육`
   - 주최: 알파코
   - 일시: 08. 27(토) ~ 09. 15(목)
+- __[LG CNS 클라우드 LG 데이](https://lgcnswithyou.com/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: LG CNS
+  - 일시: 09. 15(목) 14:00 ~ 14:50
 - __[제5회 KB국민은행 소프트웨어 경진대회](https://www.kbsccoding.com/)__
   - 분류: `경진대회`
   - 주최: KB국민은행
@@ -199,6 +191,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
   - 일시: 09. 19(월) 19:00 ~ 21:00
+- __[공개SW AI 실무교육, AI 오픈소스 실전 아카데미 모집 공고](https://festa.io/events/2592)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 정보통신산업진흥원
+  - 일시: 09. 07(수) ~ 09. 20(화)
 - __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
   - 분류: `오프라인`, `기술일반`
   - 주최: Splunk Korea
@@ -292,10 +288,22 @@
   - 분류: `경진대회`, `AI`
   - 주최: AI 양재 허브
   - 일시: 08. 29(월) ~ 10. 10(월)
+- __[Flutter 앱 개발 교육과정](https://festa.io/events/2591)__
+  - 분류: `교육`, `Flutter`
+  - 주최: 한국정보기술연구원
+  - 일시: 08. 29(월) ~ 10. 10(월)
+- __[기업데이터보호 커리어 역량강화 과정](https://festa.io/events/2593)__
+  - 분류: `교육`, `보안`
+  - 주최: 한국정보기술연구원
+  - 일시: 08. 29(월) ~ 10. 10(월)
 - __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
   - 분류: `오프라인`, `멘토링`, `커리어` 
   - 주최: 걸스인텍코리아, AWS
   - 일시: 09. 05(월) ~ 10. 14(금)
+- __[웹 모의해킹 시큐어코딩 과정](https://festa.io/events/2594)__
+  - 분류: `교육`, `보안`
+  - 주최: 한국정보기술연구원
+  - 일시: 08. 29(월) ~ 10. 26(월)
 
 <br />
 
