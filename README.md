@@ -223,6 +223,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 안랩 샘
   - 접수: 08. 19(금) ~ 09. 21(수)
+- __[[하반기채용대비] 카카오 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5507)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 접수: 09. 08(목) ~ 09. 08(목)
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
@@ -246,6 +250,10 @@
 - __[메이커챌린지 IV](https://festa.io/events/2514)__
   - 분류: `모임`
   - 주최: 디스콰이엇
+  - 일시: 08. 29(월) ~ 09. 25(일)
+- __[제4회 빅스타(빅데이터・스타트업) 경진대회](https://aifactory.space/competition/detail/2105)__
+  - 분류: `대회`, `빅데이터`
+  - 주최: KOGAS
   - 일시: 08. 29(월) ~ 09. 25(일)
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
