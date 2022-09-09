@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 09월
-- __[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #2편](https://festa.io/events/2571)__
-  - 분류: `웨비나`, `하둡`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 09. 08(목) 11:00 ~ 12:00
-
-- __[2022년 제1회 랜섬웨어 레질리언스 컨퍼런스 접수](https://seed.kisa.or.kr/kisa/Board/144/detailView.do)__
-  - 분류: `오프라인`, `보안`
-  - 주최: 한국인터넷진흥원
-  - 일시: 08. 29(월) ~ 09. 08(목)
 - __[IT 대학생 연합 프리랜서/앱런칭 동아리 UMC 3기 학교별 모집](https://www.makeus.in/umc/)__
   - 분류: `동아리`, `대학생`
   - 주최: MakeUs Challenge
   - 일시: 08. 21(일) ~ 09. 09(금)
+  
 - __[2022 kakao Server 개발자 채용설명회](https://careers.kakao.com/jobs/P-12900)__
   - 분류: `웨비나`, `채용`
   - 주최: 카카오
