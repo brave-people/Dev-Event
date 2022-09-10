@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 09월
-- __[IT 대학생 연합 프리랜서/앱런칭 동아리 UMC 3기 학교별 모집](https://www.makeus.in/umc/)__
-  - 분류: `동아리`, `대학생`
-  - 주최: MakeUs Challenge
-  - 일시: 08. 21(일) ~ 09. 09(금)
-  
 - __[2022 kakao Server 개발자 채용설명회](https://careers.kakao.com/jobs/P-12900)__
   - 분류: `웨비나`, `채용`
   - 주최: 카카오
   - 접수: 09. 07(수) ~ 09. 12(월)
+  
 - __[Upbit Developer Conference](https://udc.upbit.com/)__
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
