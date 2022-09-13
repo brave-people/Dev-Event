@@ -125,16 +125,12 @@
 
 <br />
 
-## 22년 09월
-- __[2022 kakao Server 개발자 채용설명회](https://careers.kakao.com/jobs/P-12900)__
-  - 분류: `웨비나`, `채용`
-  - 주최: 카카오
-  - 접수: 09. 07(수) ~ 09. 12(월)
-  
+## 22년 09월 
 - __[Upbit Developer Conference](https://udc.upbit.com/)__
   - 분류: `유료`, `오프라인`, `블록체인`
   - 주최: 두나무
   - 접수: 05. 18(수) ~ 09. 14(수)
+
 - __[STARTERS(스타터스) 취업 부트캠프_2기 교육생 모집 - 프론트엔드/백엔드](https://www.udemykorea.com/bootcamp/index?utm_medium=owned&utm_source=dev_event&utm_campaign=recruitment_02&utm_content=front-back&utm_term=220824)__
   - 분류: `교육`
   - 주최: 유데미
@@ -159,6 +155,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: LG CNS
   - 일시: 09. 15(목) 14:00 ~ 14:50
+- __[Podium Star : Web 3.0](https://event-us.kr/podiumstar/event/47575)__
+  - 분류: `오프라인`, `WEB 3.0`
+  - 주최: 포디움스타
+  - 접수: 08. 17(수) ~ 09. 15(목)
 - __[제5회 KB국민은행 소프트웨어 경진대회](https://www.kbsccoding.com/)__
   - 분류: `경진대회`
   - 주최: KB국민은행
@@ -187,6 +187,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 정보통신산업진흥원
   - 일시: 09. 07(수) ~ 09. 20(화)
+- __[[하반기채용대비] 카카오 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5507)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 접수: 09. 08(목) ~ 09. 20(수)
 - __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
   - 분류: `오프라인`, `기술일반`
   - 주최: Splunk Korea
@@ -211,14 +215,14 @@
   - 분류: `온라인`, `교육`
   - 주최: 안랩 샘
   - 접수: 08. 19(금) ~ 09. 21(수)
-- __[[하반기채용대비] 카카오 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5507)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 접수: 09. 08(목) ~ 09. 08(목)
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
   - 접수: 08. 17(수) ~ 09. 22(목)
+- __[오픈 테크넷 서밋(Open Technet Summit) 2022](https://ddtube.co.kr/d2000/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 과학기술정보통신부
+  - 일시: 09. 20(화) ~ 09. 22(목)
 - __[Dreams Come True 웨비나](https://cometrue.ai/index.php/20220223_webinar/)__
   - 분류: `온라인`, `정보보안`, `보안`
   - 주최: ComTrue Technologies
@@ -243,6 +247,10 @@
   - 분류: `대회`, `빅데이터`
   - 주최: KOGAS
   - 일시: 08. 29(월) ~ 09. 25(일)
+- __[개발자, 한 달에 책 한 권 읽기 2022년 9월 모임](https://festa.io/events/2604)__
+  - 분류: `스터디`, `유료`
+  - 주최: 달랩
+  - 일시: 09. 26(월) 19:30 ~ 21:30
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
   - 주최: 데일리시큐
