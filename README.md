@@ -179,6 +179,10 @@
   - 분류: `오프라인`, `ML`
   - 주최: GDG 인천
   - 일시: 09. 17(토)
+- __[팀 부스팅 프로그램 UPF 2022FW 모집](https://www.upf.kr)__
+  - 분류: `오프라인`, `동아리`, `커리어`, `멘토링`
+  - 주최: UPF
+  - 접수: 09. 12(월) ~ 09. 17(토)
 - __[IT 개발자 기술면접 #데이터베이스&네트워크](https://www.catch.co.kr/CatchClass/Live/View/5502)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
@@ -344,7 +348,7 @@
 | CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://makeus.in/cmc), [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
-| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
+| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
 
 <br />
 
