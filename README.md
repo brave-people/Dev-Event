@@ -340,7 +340,7 @@
 | CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://makeus.in/cmc), [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
-| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [Notion](https://unit.center/upf), [facebook](https://www.facebook.com/unit.center) |
+| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
 
 <br />
 
