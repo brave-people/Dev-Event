@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 09월 
-- __[Upbit Developer Conference](https://udc.upbit.com/)__
-  - 분류: `유료`, `오프라인`, `블록체인`
-  - 주최: 두나무
-  - 접수: 05. 18(수) ~ 09. 14(수)
-
-- __[STARTERS(스타터스) 취업 부트캠프_2기 교육생 모집 - 프론트엔드/백엔드](https://www.udemykorea.com/bootcamp/index?utm_medium=owned&utm_source=dev_event&utm_campaign=recruitment_02&utm_content=front-back&utm_term=220824)__
-  - 분류: `교육`
-  - 주최: 유데미
-  - 접수: 08. 17(수) ~ 09. 14(수)
-- __[IT 개발자 기술면접 #자료구조&알고리즘](https://www.catch.co.kr/CatchClass/Live/View/5501)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 09. 14(수) 19:00 ~ 21:00
-- __[Born 2 Be Startup Festa](https://eopla.net/events/28)__
-  - 분류: `경진대회`, `채용`
-  - 주최: (주)이오스튜디오
-  - 일시: 09. 14(수) 20:00 ~ 23:00
 - __[지속가능한 에너지 활용을 위한 인공지능 경진대회](https://aifactory.space/competition/detail/2083)__
   - 분류: `경진대회`
   - 주최: 한국전자기술연구원
   - 일시: 07. 11(월) ~ 09. 15(목)
+  
 - __[빅데이터 기반 딥러닝 부트캠프 4기 수강생 모집](https://allforyoung.com/posts/20102)__
   - 분류: `교육`
   - 주최: 알파코
@@ -187,6 +171,10 @@
   - 분류: `스터디`, `쿠버네티스`
   - 주최: Google Cloud
   - 접수: 09. 14(수) ~ 09. 18(일)
+- __[무료 개발자 양성 프로그램 powered by Hashed & 한화생명](https://www.protocolcamp.com/)__
+  - 분류: `교육`
+  - 주최: 엔코위더스
+  - 접수: 08. 29(월) ~ 09. 18(일)
 - __[IT 개발자 기술면접 #데이터베이스&네트워크](https://www.catch.co.kr/CatchClass/Live/View/5502)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
@@ -198,7 +186,11 @@
 - __[[하반기채용대비] 카카오 #코딩테스트/기술면접](https://www.catch.co.kr/CatchClass/Live/View/5507)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
-  - 접수: 09. 08(목) ~ 09. 20(수)
+  - 접수: 09. 08(목) ~ 09. 20(화)
+- __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 정형 데이터를 다루는 머신러닝 문제해결 패턴](https://aifactory.space/learning/detail/2064)__
+  - 분류: `웨비나`, `머신러닝`
+  - 주최: 인공지능 팩토리
+  - 접수: 09. 20(화) 19:00 ~ 20:00
 - __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
   - 분류: `오프라인`, `기술일반`
   - 주최: Splunk Korea
@@ -223,6 +215,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 안랩 샘
   - 접수: 08. 19(금) ~ 09. 21(수)
+- __[Data-centric AI의 필요성과 핵심](https://www.upstage.ai/events/data-centric-ai-th)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: Upstage
+  - 접수: 09. 22(목) 20:00 ~ 21:00
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
@@ -291,6 +287,10 @@
   - 분류: `웨비나`, `언리얼`
   - 주최: 에픽라운지
   - 일시: 09. 27(화) ~ 09. 30(금)
+- __[스타트업, 개발자를 위한 MSA 개요에서부터 실제 적용사례 소개](https://docs.google.com/forms/d/e/1FAIpQLSdSYdBOjfRIPH1ertmFqYSQUtRHlykLcpFEaqSkPvuY7suwNg/viewform)__
+  - 분류: `웨비나`, `MSA`
+  - 주최: F5코리아
+  - 일시: 09. 30(금) 14:00 ~ 15:00
 
 <br />
 
@@ -340,6 +340,11 @@
 <br />
 
 ## 22년 11월
+- __[2022 국립국어원 인공 지능 언어 능력 평가 대회](https://okky.kr/articles/1315668)__
+  - 분류: `대회`, `AI`
+  - 주최: 국립국어원
+  - 일시: 10. 04(화) ~ 11. 04(금)
+
 - __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
