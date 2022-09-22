@@ -126,35 +126,11 @@
 <br />
 
 ## 22년 09월 
-- __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: Splunk Korea
-  - 일시: 09. 21(수) 09:00 ~ 17:00
-  
-- __[9월 원티드살롱 (경력직편)](https://www.wanted.co.kr/events/wantedsalon220921)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 원티드
-  - 일시: 09. 21(수) 19:30 ~ 21:30
-- __[실사용 사례로 알아보는 APEX로 누구나 손쉽게 애플리케이션 구축하기](https://go.oracle.com/LP=130213)__
-  - 분류: `웨비나`, `개발 일반`
-  - 주최: 한국오라클
-  - 일시: 09. 21(수) 14:00 ~ 15:00
-- __[FastAPI 밋업 : 우리 회사도 FastAPI 써요!](https://www.wanted.co.kr/events/meetup_fastapi)__
-  - 분류: `오프라인`, `Fast API`
-  - 주최: 원티드
-  - 일시: 09. 21(수) 19:00 ~ 21:50
-- __[구름 세미나: 인프라 어디까지 구축해 봤어?](https://goorm-seminar.oopy.io/?utm_source=github&utm_medium=brave_people&utm_campaign=dev_event&utm_content=recover&utm_term=3rd)__
-  - 분류: `오프라인`, `온라인`, `인프라`
-  - 주최: 구름
-  - 일시: 09. 21(수)
-- __[[안랩 장학코스] IT 직무전문가 & SW.AI 교육전문가 양성과정](https://www.momjobgo.com/board/notices/1325)__
-  - 분류: `온라인`, `교육`
-  - 주최: 안랩 샘
-  - 접수: 08. 19(금) ~ 09. 21(수)
 - __[Data-centric AI의 필요성과 핵심](https://www.upstage.ai/events/data-centric-ai-th)__
   - 분류: `웨비나`, `데이터`
   - 주최: Upstage
   - 접수: 09. 22(목) 20:00 ~ 21:00
+
 - __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
   - 분류: `오프라인`, `교육`
   - 주최: 과학기술정보통신부
@@ -191,14 +167,14 @@
   - 분류: `대회`, `빅데이터`
   - 주최: KOGAS
   - 일시: 08. 29(월) ~ 09. 25(일)
+- __[컬리 테크 현직자와의 LIVE 직무 토크쇼](https://docs.google.com/forms/d/e/1FAIpQLScV3J15HhDvEMsUo3qtjidd_0iI8jVCmw6d953KmYRnz5vTHQ/viewform)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 마켓컬리
+  - 접수: 09. 19(월) ~ 09. 25(일)
 - __[개발자, 한 달에 책 한 권 읽기 2022년 9월 모임](https://festa.io/events/2604)__
   - 분류: `스터디`, `유료`
   - 주최: 달랩
   - 일시: 09. 26(월) 19:30 ~ 21:30
-- __[기업형 IT동아리 YAPP 20기 신규 회원 모집](https://www.yapp.co.kr)__
-  - 분류: `동아리`
-  - 주최: YAPP
-  - 모집: 09. 18(일) ~ 09. 29(목)
 - __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
   - 분류: `오프라인`, `보안`
   - 주최: 데일리시큐
@@ -231,14 +207,18 @@
   - 분류: `웨비나`, `데이터`
   - 주최: 원티드
   - 일시: 09. 28(수)
-- __[2022 마이데이터 컨퍼런스](https://festa.io/events/2627)__
-  - 분류: `웨비나`, `마이데이터`
-  - 주최: 한국데이터산업진흥원
-  - 일시: 09. 29(목) 10:40 ~ 17:00
 - __[<디스콰이엇 X 매쉬업엔젤스> 9월 Open Office Hours](https://disquiet.io/@kwondoeon/makerlog/2058)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 디스콰이엇 X 매쉬업엔젤스
   - 일시: 09. 28(수) 18:00 ~ 21:00
+- __[기업형 IT동아리 YAPP 20기 신규 회원 모집](https://www.yapp.co.kr)__
+  - 분류: `동아리`
+  - 주최: YAPP
+  - 모집: 09. 18(일) ~ 09. 29(목)
+- __[2022 마이데이터 컨퍼런스](https://festa.io/events/2627)__
+  - 분류: `웨비나`, `마이데이터`
+  - 주최: 한국데이터산업진흥원
+  - 일시: 09. 29(목) 10:40 ~ 17:00
 - __[제7회 한국 리눅스 커널 개발자 모임](https://festa.io/events/2557)__
   - 분류: `웨비나`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
@@ -263,6 +243,14 @@
   - 분류: `웨비나`, `MSA`
   - 주최: F5코리아
   - 일시: 09. 30(금) 14:00 ~ 15:00
+- __[.NET Conf Mini 22.09](https://festa.io/events/2606)__
+  - 분류: `웨비나`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 09. 30(금) 13:00 ~ 18:00
+- __[9월 Tech 세미나 - Learning container from scratch](https://devocean.sk.com/events/view.do?id=140)__
+  - 분류: `웨비나`, `쿠버네티스`
+  - 주최: DEVOCEAN
+  - 일시: 09. 30(금) 19:00 ~ 20:30
 
 <br />
 
@@ -280,6 +268,10 @@
   - 분류: `교육`, `AI`
   - 주최: SeSAC 
   - 일시: 08. 19(금) ~ 10. 03(월)
+- __[2022 오픈데이터포럼 해커톤](https://www.onoffmix.com/event/262755)__
+  - 분류: `해커폰`
+  - 주최: 오픈데이터포럼
+  - 일시: 09. 16(금) ~ 10. 07(금)
 - __[FEConf 2022 FE World](https://2022.feconf.kr)__
   - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
@@ -305,7 +297,7 @@
   - 주최: NH투자증권
   - 일시: 09. 08(목) ~ 10. 17(월)
 - __[그래프 러닝 및 해커톤](https://aifactory.space/competition/detail/2106)__
-  - 분류: `온라인`, `컨퍼런스`
+  - 분류: `온라인`, `해커톤`
   - 주최: 인공지능팩토리
   - 일시: 09. 19(월) ~ 10. 23(일)
 - __[우아콘 2022](https://woowacon.com)__
