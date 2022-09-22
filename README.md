@@ -126,11 +126,14 @@
 <br />
 
 ## 22년 09월 
+- __[기업형 IT동아리 YAPP 20기 신규 회원 모집](https://www.yapp.co.kr)__
+   - 분류: `동아리`
+   - 주최: YAPP
+   - 모집: 09. 18(일) ~ 09. 29(목)
 - __[SplunkLive! Seoul 2022](https://events.splunk.com/SplunkLive-Seoul-2022)__
   - 분류: `오프라인`, `기술일반`
   - 주최: Splunk Korea
   - 일시: 09. 21(수) 09:00 ~ 17:00
-  
 - __[9월 원티드살롱 (경력직편)](https://www.wanted.co.kr/events/wantedsalon220921)__
   - 분류: `오프라인`, `커리어`
   - 주최: 원티드
