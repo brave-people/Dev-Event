@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 09월 
-- __[Data-centric AI의 필요성과 핵심](https://www.upstage.ai/events/data-centric-ai-th)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: Upstage
-  - 접수: 09. 22(목) 20:00 ~ 21:00
-
-- __[Zero Density 버추얼 프로덕션 워크숍](https://www.metaverse-campus.kr/lecture/viewAll.do?pageIndex=1&menu_idx=53&lecIdx=10&proIdx=139&selYear=&selApplyStatus=)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 17(수) ~ 09. 22(목)
-- __[오픈 테크넷 서밋(Open Technet Summit) 2022](https://ddtube.co.kr/d2000/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 일시: 09. 20(화) ~ 09. 22(목)
-- __[Dreams Come True 웨비나](https://cometrue.ai/index.php/20220223_webinar/)__
-  - 분류: `온라인`, `정보보안`, `보안`
-  - 주최: ComTrue Technologies
-  - 일시: 09. 21(수) ~ 09. 22(목)
 - __[IT 개발자 기술면접 #자바&스프링프레임워크 외](https://www.catch.co.kr/CatchClass/Live/View/5503)__
   - 분류: `웨비나`, `커리어`
   - 주최: 캐치
   - 일시: 09. 23(월) 19:00 ~ 21:00
+
 - __[개발자 AI와 메타버스를 위한 컨퍼런스](https://www.nvidia.com/ko-kr/gtc/?ncid=ref-inpa-600599)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA Korea
@@ -211,6 +195,10 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 디스콰이엇 X 매쉬업엔젤스
   - 일시: 09. 28(수) 18:00 ~ 21:00
+- __[Azure SDK for Python 오픈소스 컨트리뷰션 미니 공유회](https://festa.io/events/2636)__
+  - 분류: `오프라인`, `Azure`
+  - 주최: 한국 Azure 사용자 그룹
+  - 일시: 09. 28(수) 19:00 ~ 22:00
 - __[기업형 IT동아리 YAPP 20기 신규 회원 모집](https://www.yapp.co.kr)__
   - 분류: `동아리`
   - 주최: YAPP
@@ -268,6 +256,10 @@
   - 분류: `교육`, `AI`
   - 주최: SeSAC 
   - 일시: 08. 19(금) ~ 10. 03(월)
+- __[원티드 x 스위프트 코딩클럽 2기 모집](https://www.wanted.co.kr/events/swiftCodingClub2)__
+  - 분류: `교육`, `Swift`
+  - 주최: 스위프트 코딩클럽
+  - 일시: 09. 19(월) ~ 10. 04(화)
 - __[2022 오픈데이터포럼 해커톤](https://www.onoffmix.com/event/262755)__
   - 분류: `해커폰`
   - 주최: 오픈데이터포럼
