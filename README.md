@@ -126,27 +126,11 @@
 <br />
 
 ## 22년 09월 
-- __[PASCON 2022 (정보보안&개인정보보호 컨퍼런스)](https://www.dailysecu.com/form/register.html?form_id=1639447124)__
-  - 분류: `오프라인`, `보안`
-  - 주최: 데일리시큐
-  - 일시: 07. 07(목) ~ 09. 27(화)
-  
-- __[Gitlab Korea 밋업 #12 - DevSecOps 파이프라인](https://festa.io/events/2540)__
-  - 분류: `웨비나`, `DevOps`
-  - 주최: Gitlab Korea
-  - 일시: 07. 07(목) ~ 09. 27(화)
-- __[Cloud Service for Startups](https://festa.io/events/2623)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: DX Challenge
-  - 일시: 09. 27(화) 16:00 ~ 17:50
-- __[AI+Cloud INFRA](https://festa.io/events/2629)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 09. 27(화) 19:30 ~ 20:30
 - __[프리온보딩 프론트엔드 챌린지 3차](https://www.wanted.co.kr/events/pre_challenge_fe_3)__
   - 분류: `교육`, `프론트엔드`
   - 주최: 원티드
   - 접수: 09. 14(수) ~ 09. 28(수)
+
 - __[프리온보딩 백엔드 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_be_1)__
   - 분류: `교육`, `벡엔드`
   - 주최: 원티드
@@ -228,6 +212,10 @@
   - 분류: `교육`, `AI`
   - 주최: SeSAC 
   - 일시: 08. 19(금) ~ 10. 03(월)
+- __[구름톤 2기 참가자 모집](https://9oormthon.goorm.io/)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 구름, 카카오
+  - 접수: 09. 21(수) ~ 10. 03(월)
 - __[원티드 x 스위프트 코딩클럽 2기 모집](https://www.wanted.co.kr/events/swiftCodingClub2)__
   - 분류: `교육`, `Swift`
   - 주최: 스위프트 코딩클럽
@@ -236,6 +224,10 @@
   - 분류: `해커톤`
   - 주최: 오픈데이터포럼
   - 일시: 09. 16(금) ~ 10. 07(금)
+- __[Hyperledger Meetup Korea #31 - 블록체인 신사업 & CBDC 소개](https://festa.io/events/2660)__
+  - 분류: `오프라인`, `블록체인`
+  - 주최: Hyperledger Korea User Group
+  - 일시: 10. 07(금) 19:00 ~ 21:00
 - __[FEConf 2022 FE World](https://2022.feconf.kr)__
   - 분류: `컨퍼런스`, `오프라인`, `FE`
   - 주최: FEConf
@@ -260,10 +252,6 @@
   - 분류: `웨비나`, `채용`
   - 주최: 당근마켓
   - 일시: 10. 14(금) 19:00 ~ 20:30
-- __[구름톤 2기 참가자 모집](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름, 카카오
-  - 접수: 09. 21(수) ~ 10. 03(월)
 - __[2022년 NH투자증권 빅데이터 경진대회 | 데이터, 문화가 되다](https://aifactory.space/competition/detail/2126)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH투자증권
@@ -272,6 +260,14 @@
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
   - 일시: 10. 18(화)
+- __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 이미지 분류를 위한 딥러닝 문제해결 패턴](https://aifactory.space/learning/detail/2065)__
+  - 분류: `웨비나`, `AI`
+  - 주최: AI Factory
+  - 일시: 10. 18(화)
+- __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
+  - 분류: `오프라인`, `mongoDB`
+  - 주최: MongoDB
+  - 일시: 10. 19(수) 09:30 ~ 16:30
 - __[우아콘 2022](https://woowacon.com)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 우아한형제들
