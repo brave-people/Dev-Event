@@ -216,7 +216,7 @@
   - 분류: `교육`, `클라우드`
   - 주최: 카카오, 한국전파진흥협회
   - 접수: 09. 08(목) ~ 10. 12(수)
-- __[2022 Korea AI 데브 개발자 컨퍼런스](hthttps://form.office.naver.com/form/responseView.cmd?formkey=MDFjYTAxZWUtMmUzOS00OTM4LWFlZTEtMWM4YjdmZjMyMDQy&sourceId=urlshare)__
+- __[2022 Korea AI 데브 개발자 컨퍼런스](https://form.office.naver.com/form/responseView.cmd?formkey=MDFjYTAxZWUtMmUzOS00OTM4LWFlZTEtMWM4YjdmZjMyMDQy&sourceId=urlshare)__
   - 분류: `오프라인`, `AI`
   - 주최: KT
   - 접수: 09. 30(금) ~ 10. 12(수)
@@ -279,7 +279,7 @@
 
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
-  - 주최: (주 MDS 테크
+  - 주최: (주) MDS 테크
   - 일시: 11. 16(수)
 - __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
