@@ -125,53 +125,12 @@
 
 <br />
 
-## 22년 09월 
-- __[2022 창원 빅데이터 공모전](https://www.changwon.go.kr/sotong/contest/list.do?mId=0104000000)__
-  - 분류: `경진대회`
-  - 주최: 창원시
-  - 일시: 07. 01(금) ~ 09. 30(금)
-  
-- __[제 6회 개방형 클라우드 플랫폼 기반 서비스 개발 아이디어 공모전](http://paas-ta.co.kr/)__
-  - 분류: `대회`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 16(화) ~ 09. 30(금)
-- __[언리얼 서밋 온라인 2022](https://www.epiclounge.co.kr/v3/unrealsummit2022.php)__
-  - 분류: `웨비나`, `언리얼`
-  - 주최: 에픽라운지
-  - 일시: 09. 27(화) ~ 09. 30(금)
-- __[스타트업, 개발자를 위한 MSA 개요에서부터 실제 적용사례 소개](https://docs.google.com/forms/d/e/1FAIpQLSdSYdBOjfRIPH1ertmFqYSQUtRHlykLcpFEaqSkPvuY7suwNg/viewform)__
-  - 분류: `웨비나`, `MSA`
-  - 주최: F5코리아
-  - 일시: 09. 30(금) 14:00 ~ 15:00
-- __[.NET Conf Mini 22.09](https://festa.io/events/2606)__
-  - 분류: `웨비나`, `.net`
-  - 주최: 닷넷데브
-  - 일시: 09. 30(금) 13:00 ~ 18:00
-- __[9월 Tech 세미나 - Learning container from scratch](https://devocean.sk.com/events/view.do?id=140)__
-  - 분류: `웨비나`, `쿠버네티스`
-  - 주최: DEVOCEAN
-  - 일시: 09. 30(금) 19:00 ~ 20:30
-- __[MODUPOP with COCRE (9월)](https://festa.io/events/2647)__
-  - 분류: `오프라인`
-  - 주최: 모두의연구소
-  - 일시: 09. 30(금) 19:30 ~ 20:30
-
-<br />
-
 ## 22년 10월
-- __[파이콘 한국 2022](https://2022.pycon.kr/)__
-  - 분류: `컨퍼런스`, `온라인`, `오프라인`
-  - 주최: 파이콘 한국
-  - 일시: 10. 01(토) ~ 10. 02(일)
-  
-- __[2022 헤이스타트업 <금삽빠리나잇>](https://event-us.kr/2022heystartups/event/47626)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: 2022 헤이스타트업
-  - 접수: 09. 01(목) ~ 10. 02(일)
 - __[기업 데이터를 활용한 AI 취업 부트캠프](https://allforyoung.com/posts/19999)__
   - 분류: `교육`, `AI`
   - 주최: SeSAC 
   - 일시: 08. 19(금) ~ 10. 03(월)
+  
 - __[구름톤 2기 참가자 모집](https://9oormthon.goorm.io/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름, 카카오
