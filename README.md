@@ -207,6 +207,10 @@
   - 분류: `오프라인`, `mongoDB`
   - 주최: MongoDB
   - 일시: 10. 19(수) 09:30 ~ 16:30
+- __[NestJS Assemble!](https://festa.io/events/2687)__
+  - 분류: `오프라인`, `NextJS`
+  - 주최: NextJs Korea Group
+  - 일시: 10. 20(목) 19:00 ~ 22:00
 - __[우아콘 2022](https://woowacon.com)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 우아한형제들
@@ -223,10 +227,18 @@
   - 분류: `교육`, `보안`
   - 주최: 한국정보기술연구원
   - 일시: 08. 29(월) ~ 10. 26(수)
+- __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: GDG Daejeon
+  - 일시: 10. 28(금) 20:00 ~ 22:00
 - __[Jetson 개발자 밋업 - 엣지 AI의 미래 : 로보틱스부터 메트로폴리스까지강화 과정](https://festa.io/events/2651)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 10. 30(목) 14:00 ~ 16:30
+- __[개발자, 한 달에 책 한 권 읽기 2022년 10월 모임](https://festa.io/events/2685)__
+  - 분류: `오프라인`, `스터디`
+  - 주최: 달랩
+  - 접수: 10. 04(월) ~ 10. 31(월)
 
 <br />
 
@@ -323,6 +335,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
 | Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
+| NextJS Korea | [facebook](https://www.facebook.com/groups/nestjs-kr) |
 | Django Girls Seoul | [djangogirls.org](https://djangogirls.org/seoul/) |
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |

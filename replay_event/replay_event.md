@@ -197,6 +197,20 @@
     <td> 모두의연구소 </td>
     <td> 08. 09 </td>
   </tr>
+  <tr>
+    <td> <a href="https://www.inflearn.com/course/infcon2022"> 인프콘 2022 다시보기 </a> </td>
+    <td> <a href="https://www.inflearn.com/course/infcon2022"> 홈페이지 </a> </td>
+    <td> <code> 컨퍼런스 </code> </td>
+    <td> 인프런 </td>
+    <td> 08. 26 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/jY-HAJlfxSY"> 기술 커뮤니티의 가치와 Developer Relations  </a> </td>
+    <td> <a href="https://youtu.be/jY-HAJlfxSY"> 유튜브 </a> </td>
+    <td> <code> 기술 </code> </td>
+    <td> 우아한형제들 </td>
+    <td> 09. 29 </td>
+  </tr>
 </table>
 
 > :arrow_double_up:[Top](#-바로가기-)
