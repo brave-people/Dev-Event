@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 10월
-- __[기업 데이터를 활용한 AI 취업 부트캠프](https://allforyoung.com/posts/19999)__
-  - 분류: `교육`, `AI`
-  - 주최: SeSAC 
-  - 일시: 08. 19(금) ~ 10. 03(월)
-  
-- __[구름톤 2기 참가자 모집](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름, 카카오
-  - 접수: 09. 21(수) ~ 10. 03(월)
-- __[원티드 x 스위프트 코딩클럽 2기 모집](https://www.wanted.co.kr/events/swiftCodingClub2)__
-  - 분류: `교육`, `Swift`
-  - 주최: 스위프트 코딩클럽
-  - 일시: 09. 19(월) ~ 10. 04(화)
 - __[2022 오픈데이터포럼 해커톤](https://www.onoffmix.com/event/262755)__
   - 분류: `해커톤`
   - 주최: 오픈데이터포럼
   - 일시: 09. 16(금) ~ 10. 07(금)
+  
 - __[Hyperledger Meetup Korea #31 - 블록체인 신사업 & CBDC 소개](https://festa.io/events/2660)__
   - 분류: `오프라인`, `블록체인`
   - 주최: Hyperledger Korea User Group
@@ -191,10 +179,22 @@
   - 분류: `웨비나`, `채용`
   - 주최: 당근마켓
   - 일시: 10. 14(금) 19:00 ~ 20:30
+- __[Google Developer Student Clubs Job Fair 2022](https://www.wanted.co.kr/events/gdsc-jobfair-live-2022)__
+  - 분류: `웨비나`, `채용`
+  - 주최: Google Developer Students Clubs
+  - 일시: 10. 15(토) 14:15 ~ 17:00
+- __[DDD 8기 모집](https://www.wanted.co.kr/events/ddd8th)__
+  - 분류: `모임`, `개발자 동아리`
+  - 주최: DDD
+  - 접수: 10. 03(월) ~ 10. 16(일)
 - __[2022년 NH투자증권 빅데이터 경진대회 | 데이터, 문화가 되다](https://aifactory.space/competition/detail/2126)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH투자증권
   - 일시: 09. 08(목) ~ 10. 17(월)
+- __[소주콘 Shot 2 : 오프라인 소주콘, 올래?](https://festa.io/events/2694)__
+  - 분류: `오프라인`, `유료`
+  - 주최: 소문난 주니어 콘퍼런스
+  - 일시: 10. 17(월) 19:00 ~ 21:00
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 이미지 분류를 위한 딥러닝 문제해결 패턴](https://aifactory.space/learning/detail/2065)__
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
@@ -243,11 +243,15 @@
 <br />
 
 ## 22년 11월
+- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2695)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 클라우드 유량단
+  - 일시: 11. 03(목) 19:00 ~ 21:00
+
 - __[2022 국립국어원 인공 지능 언어 능력 평가 대회](https://okky.kr/articles/1315668)__
   - 분류: `대회`, `AI`
   - 주최: 국립국어원
   - 일시: 10. 04(화) ~ 11. 04(금)
-
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
