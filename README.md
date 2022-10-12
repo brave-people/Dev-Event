@@ -126,31 +126,11 @@
 <br />
 
 ## 22년 10월
-- __[비전공자 개발자 취업 A to Z](https://www.jumpit.co.kr/book-concert/4)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 점핏
-  - 일시: 10. 11(화) 15:00 ~ 16:00
-
-- __[프리온보딩 코스 10월 사전설명회](https://www.wanted.co.kr/events/pre_apply_22_10)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 원티드
-  - 접수: 09. 29(목) ~ 10. 11(화)
-- __[AI+Finance](https://festa.io/events/2726)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 10. 11(화) 19:30 ~ 20:30
-- __[카카오클라우드 스쿨 2기](https://allforyoung.com/posts/21443)__
-  - 분류: `교육`, `클라우드`
-  - 주최: 카카오, 한국전파진흥협회
-  - 접수: 09. 08(목) ~ 10. 12(수)
-- __[2022 Korea AI 데브 개발자 컨퍼런스](https://form.office.naver.com/form/responseView.cmd?formkey=MDFjYTAxZWUtMmUzOS00OTM4LWFlZTEtMWM4YjdmZjMyMDQy&sourceId=urlshare)__
-  - 분류: `오프라인`, `AI`
-  - 주최: KT
-  - 접수: 09. 30(금) ~ 10. 12(수)
 - __[AWS로 베스트 아키텍처 구성하기 (데이터 & 보안) 실습 웨비나](https://festa.io/events/2669)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 솔트웨어 FitCloud
   - 일시: 10. 12(수) ~ 10. 13(목)
+  
 - __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
   - 분류: `오프라인`, `멘토링`, `커리어`
   - 주최: 걸스인텍코리아, AWS
@@ -191,6 +171,10 @@
   - 분류: `오프라인`, `mongoDB`
   - 주최: MongoDB
   - 일시: 10. 19(수) 09:30 ~ 16:30
+- __[당근페이 채용 세션](https://festa.io/events/2737)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 당근마켓
+  - 일시: 10. 19(수) 19:00 ~ 20:30
 - __[시니어 개발자가 말하는 나만의 원칙](https://festa.io/events/2736)__
   - 분류: `웨비나`, `커리어`
   - 주최: COMMIT
@@ -260,6 +244,10 @@
   - 분류: `대회`, `AI`
   - 주최: 국립국어원
   - 일시: 10. 04(화) ~ 11. 04(금)
+- __[GDSC Code Bridge](https://festa.io/events/2729)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: Google Developer Student Clubs
+  - 접수: 10. 12(수) ~ 11. 05(토)
 - __[2022 7th SK Tech SUMMIT](https://okky.kr/articles/1315668)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
