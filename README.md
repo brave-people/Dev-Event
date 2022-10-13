@@ -135,6 +135,10 @@
   - 분류: `오프라인`, `멘토링`, `커리어`
   - 주최: 걸스인텍코리아, AWS
   - 일시: 09. 05(월) ~ 10. 14(금)
+- __[쿠버네티스 모니터링 모범사례](https://www.datadoghq.com/ko/dg/webinars/kubernetes-webinar-korea/)__
+  - 분류: `웨비나`, `쿠버네티스`
+  - 주최: DATADOG
+  - 일시: 10. 14(금) 14:00 ~ 15:00
 - __[[당근마켓] 프로덕트 디자이너 채용 라이브 세션](https://festa.io/events/2654)__
   - 분류: `웨비나`, `채용`
   - 주최: 당근마켓
@@ -163,10 +167,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
   - 일시: 10. 18(화)
-- __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 이미지 분류를 위한 딥러닝 문제해결 패턴](https://aifactory.space/learning/detail/2065)__
-  - 분류: `웨비나`, `AI`
-  - 주최: AI Factory
-  - 일시: 10. 18(화)
+- __[[원티드 X 위코드] 오프라인 밋업](https://www.wanted.co.kr/events/wecode_meetup)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: 원티드
+  - 접수: 10. 12(수) ~ 10. 18
 - __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
   - 분류: `오프라인`, `mongoDB`
   - 주최: MongoDB
@@ -187,6 +191,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 우아한형제들
   - 일시: 10. 19(수) ~ 10. 21(금)
+- __[[DevCrew] 개발스터디 멤버를 모집합니다.](https://www.wanted.co.kr/events/devcrew_study1th)__
+  - 분류: `온라인`, `스터디`
+  - 주최: 원티드
+  - 일시: 10. 12(수) ~ 10. 21(금)
 - __[그래프 러닝 및 해커톤](https://aifactory.space/competition/detail/2106)__
   - 분류: `온라인`, `해커톤`
   - 주최: 인공지능팩토리
