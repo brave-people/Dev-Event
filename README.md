@@ -256,7 +256,7 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: Google Developer Student Clubs
   - 접수: 10. 12(수) ~ 11. 05(토)
-- __[2022 7th SK Tech SUMMIT](https://okky.kr/articles/1315668)__
+- __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
   - 일시: 11. 08(화) ~ 11. 09(수)
