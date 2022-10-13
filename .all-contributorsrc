@@ -654,6 +654,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "sh0116",
+      "name": "KIM SEOKHYEON",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38518675?v=4",
+      "profile": "https://sh0116.github.io/ ",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -661,5 +670,6 @@
   "projectOwner": "brave-people",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
