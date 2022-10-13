@@ -170,7 +170,7 @@
 - __[[원티드 X 위코드] 오프라인 밋업](https://www.wanted.co.kr/events/wecode_meetup)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 원티드
-  - 접수: 10. 12(수) ~ 10. 18
+  - 접수: 10. 12(수) ~ 10. 18(화)
 - __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
   - 분류: `오프라인`, `mongoDB`
   - 주최: MongoDB
@@ -238,7 +238,7 @@
 - __[OpenInfra & Cloud Native Day Korea 2022](https://2022.openinfradays.kr/program/sessions)__
   - 분류: `오프라인`, `유료` `클라우드`
   - 주최: 한국 오픈소스 인프라 커뮤니티
-  - 일시: 11. 01(화) 19:00 ~ 18:00
+  - 일시: 11. 01(화) 18:00 ~ 19:00
 
 - __[국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `경진대회`, `AI`
