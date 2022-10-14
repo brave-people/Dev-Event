@@ -125,16 +125,12 @@
 
 <br />
 
-## 22년 10월
-- __[AWS로 베스트 아키텍처 구성하기 (데이터 & 보안) 실습 웨비나](https://festa.io/events/2669)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 솔트웨어 FitCloud
-  - 일시: 10. 12(수) ~ 10. 13(목)
-  
+## 22년 10월 
 - __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
   - 분류: `오프라인`, `멘토링`, `커리어`
   - 주최: 걸스인텍코리아, AWS
   - 일시: 09. 05(월) ~ 10. 14(금)
+
 - __[쿠버네티스 모니터링 모범사례](https://www.datadoghq.com/ko/dg/webinars/kubernetes-webinar-korea/)__
   - 분류: `웨비나`, `쿠버네티스`
   - 주최: DATADOG
@@ -167,6 +163,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
   - 일시: 10. 18(화)
+- __[MODUPOP | AI+SLAM](https://festa.io/events/2749)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 10. 18(화) 19:30 ~ 20:30
 - __[[원티드 X 위코드] 오프라인 밋업](https://www.wanted.co.kr/events/wecode_meetup)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 원티드
@@ -231,6 +231,10 @@
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
   - 접수: 10. 04(월) ~ 10. 31(월)
+- __[오늘의집 개발자와의 커피챗 어떠세요?](https://www.wanted.co.kr/events/bucketplace_coffeechat)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 원티드
+  - 일시: 10. 10(월) ~ 10. 31(월)
 
 <br />
 
@@ -260,6 +264,10 @@
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
   - 일시: 11. 08(화) ~ 11. 09(수)
+- __[AWS 부산 클라우드데이 2022](https://pages.awscloud.com/busan-cloud-day-2022-reg.html)__
+  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 09(수) 12:00 ~ 17:00
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
@@ -268,7 +276,6 @@
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
   - 일시: 11. 26(토) ~ 11. 27(일)
-
 
 <br />
 
