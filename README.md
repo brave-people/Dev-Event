@@ -126,31 +126,11 @@
 <br />
 
 ## 22년 10월 
-- __[걸스인텍xAWS Mentoring Program](https://www.wanted.co.kr/events/git_aws_2022)__
-  - 분류: `오프라인`, `멘토링`, `커리어`
-  - 주최: 걸스인텍코리아, AWS
-  - 일시: 09. 05(월) ~ 10. 14(금)
-
-- __[쿠버네티스 모니터링 모범사례](https://www.datadoghq.com/ko/dg/webinars/kubernetes-webinar-korea/)__
-  - 분류: `웨비나`, `쿠버네티스`
-  - 주최: DATADOG
-  - 일시: 10. 14(금) 14:00 ~ 15:00
-- __[[당근마켓] 프로덕트 디자이너 채용 라이브 세션](https://festa.io/events/2654)__
-  - 분류: `웨비나`, `채용`
-  - 주최: 당근마켓
-  - 일시: 10. 14(금) 19:00 ~ 20:30
-- __[Google Developer Student Clubs Job Fair 2022](https://www.wanted.co.kr/events/gdsc-jobfair-live-2022)__
-  - 분류: `웨비나`, `채용`
-  - 주최: Google Developer Students Clubs
-  - 일시: 10. 15(토) 14:15 ~ 17:00
-- __[DDD 8기 모집](https://www.wanted.co.kr/events/ddd8th)__
-  - 분류: `모임`, `개발자 동아리`
-  - 주최: DDD
-  - 접수: 10. 03(월) ~ 10. 16(일)
 - __[2022년 NH투자증권 빅데이터 경진대회 | 데이터, 문화가 되다](https://aifactory.space/competition/detail/2126)__
   - 분류: `경진대회`, `데이터`
   - 주최: NH투자증권
   - 일시: 09. 08(목) ~ 10. 17(월)
+
 - __[DX opportunities for startups](https://festa.io/events/2728)__
   - 분류: `웨비나`, `스타트업`
   - 주최: DX Challenge
@@ -215,10 +195,18 @@
   - 분류: `교육`, `보안`
   - 주최: 한국정보기술연구원
   - 일시: 08. 29(월) ~ 10. 26(수)
+- __[글로벌 테크 코리아 2022](https://festa.io/events/2760)__
+  - 분류: `오프라인`, `기술`
+  - 주최: GLOBAL TECH KOREA
+  - 일시: 10. 25(월) ~ 10. 26(수)
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
   - 일시: 10. 28(금) 20:00 ~ 22:00
+- __[현대자동차그룹 소프티어 부트캠프 2023](https://softeerbootcamp.com/)__
+  - 분류: `교육`
+  - 주최: 현대자동차
+  - 접수: 10. 14(금) ~ 10. 28(금)
 - __[AWS Community Day 2022 - 홈커밍데이](https://festa.io/events/2655)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: AWS한국사용자모임
@@ -268,6 +256,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 11. 09(수) 12:00 ~ 17:00
+- __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
+  - 분류: `커뮤니티`
+  - 주최: 삼성
+  - 접수: 10. 05(수) ~ 11. 11(금)
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
