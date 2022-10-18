@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 10월 
-- __[2022년 NH투자증권 빅데이터 경진대회 | 데이터, 문화가 되다](https://aifactory.space/competition/detail/2126)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: NH투자증권
-  - 일시: 09. 08(목) ~ 10. 17(월)
-
-- __[DX opportunities for startups](https://festa.io/events/2728)__
-  - 분류: `웨비나`, `스타트업`
-  - 주최: DX Challenge
-  - 일시: 10. 17(월) 10:00 ~ 12:00
-- __[소주콘 Shot 2 : 오프라인 소주콘, 올래?](https://festa.io/events/2694)__
-  - 분류: `오프라인`, `유료`
-  - 주최: 소문난 주니어 콘퍼런스
-  - 일시: 10. 17(월) 19:00 ~ 21:00
 - __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 이미지 분류를 위한 딥러닝 문제해결 패턴](https://aifactory.space/learning/detail/2065)__
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
   - 일시: 10. 18(화)
+  
 - __[MODUPOP | AI+SLAM](https://festa.io/events/2749)__
   - 분류: `웨비나`, `AI`
   - 주최: 모두의 연구소
@@ -199,6 +187,14 @@
   - 분류: `오프라인`, `기술`
   - 주최: GLOBAL TECH KOREA
   - 일시: 10. 25(월) ~ 10. 26(수)
+- __[애자일 코리아 밋업 10월 "번아웃 린커피"](https://festa.io/events/2762)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: 에자일 코리아 밋업
+  - 일시: 10. 26(수) 20:00 ~ 22:00
+- __[NVIDIA AI 개발자 밋업 - GTC 2022 Recap](https://festa.io/events/2765)__
+  - 분류: `온라인`, `AI`
+  - 주최: NVIDIA
+  - 일시: 10. 27(목) 14:00 ~ 16:00
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
@@ -215,6 +211,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 10. 30(목) 14:00 ~ 16:30
+- __[AI 자연어 처리 전문가 양성 과정 7기](https://festa.io/events/2764)__
+  - 분류: `교육`, `AI`
+  - 주최: NVIDIA
+  - 일시: 10. 07(금) ~ 10. 30(일)
 - __[개발자, 한 달에 책 한 권 읽기 2022년 10월 모임](https://festa.io/events/2685)__
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
