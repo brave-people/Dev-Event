@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 10월 
-- __[INNOPOLIS AI SPACE-S 인공지능 세미나 - 이미지 분류를 위한 딥러닝 문제해결 패턴](https://aifactory.space/learning/detail/2065)__
-  - 분류: `웨비나`, `AI`
-  - 주최: AI Factory
-  - 일시: 10. 18(화)
-  
-- __[MODUPOP | AI+SLAM](https://festa.io/events/2749)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 10. 18(화) 19:30 ~ 20:30
-- __[[원티드 X 위코드] 오프라인 밋업](https://www.wanted.co.kr/events/wecode_meetup)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: 원티드
-  - 접수: 10. 12(수) ~ 10. 18(화)
 - __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
   - 분류: `오프라인`, `mongoDB`
   - 주최: MongoDB
   - 일시: 10. 19(수) 09:30 ~ 16:30
+
 - __[당근페이 채용 세션](https://festa.io/events/2737)__
   - 분류: `웨비나`, `커리어`
   - 주최: 당근마켓
@@ -179,6 +167,10 @@
   - 분류: `온라인`, `클라우드`
   - 주최: AWS 코리아
   - 일시: 10. 25(화) 14:00 ~ 15:30
+- __[MODUPOP | Cloud AI와 얼굴인식](https://festa.io/events/2775)__
+  - 분류: `온라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 10. 25(화) 19:30 ~ 20:30
 - __[웹 모의해킹 시큐어코딩 과정](https://festa.io/events/2594)__
   - 분류: `교육`, `보안`
   - 주최: 한국정보기술연구원
@@ -195,6 +187,10 @@
   - 분류: `온라인`, `AI`
   - 주최: NVIDIA
   - 일시: 10. 27(목) 14:00 ~ 16:00
+- __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289178354)__
+  - 분류: `오프라인`, `ML`
+  - 주최: AWSKRUG
+  - 일시: 10. 27(목) 19:00
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
@@ -240,6 +236,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유량단
   - 일시: 11. 03(목) 19:00 ~ 21:00
+- __[2023 ICT 산업전망컨퍼런스](http://ictconference.kr/)__
+  - 분류: `온라인`, `오프라인`, `기술`
+  - 주최: 2023 ICT 산업전망 컨퍼런스
+  - 일시: 11. 03(목) ~ 11. 04(금)
 - __[2022 국립국어원 인공 지능 언어 능력 평가 대회](https://okky.kr/articles/1315668)__
   - 분류: `대회`, `AI`
   - 주최: 국립국어원
@@ -260,10 +260,18 @@
   - 분류: `커뮤니티`
   - 주최: 삼성
   - 접수: 10. 05(수) ~ 11. 11(금)
+- __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
+  - 분류: `오프라인`, `기술`
+  - 주최: 삼성
+  - 일시: 11. 15(화) ~ 11. 17(목)
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
   - 일시: 11. 16(수)
+- __[NHN FORWARD 22](https://forward.nhn.com/2022)__
+  - 분류: `오프라인`, `기술`
+  - 주최: NHN
+  - 일시: 11. 24(목)
 - __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
