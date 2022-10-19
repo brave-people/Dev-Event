@@ -324,6 +324,7 @@
 | 엘리스 | [Homepage](https://elice.io/home) |
 | 라이징 캠프 | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
 | 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
+| SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
 | 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
