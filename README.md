@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -506,6 +506,7 @@
       <td align="center"><a href="https://sharechang.notion.site/s-Resume-ca6fb048b1ed47df86bda6161580afe5"><img src="https://avatars.githubusercontent.com/u/86464544?v=4?s=100" width="100px;" alt="박창현"/><br /><sub><b>박창현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kid-Chang" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/PARKGAIN"><img src="https://avatars.githubusercontent.com/u/84880886?v=4?s=100" width="100px;" alt="PARK GA IN"/><br /><sub><b>PARK GA IN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PARKGAIN" title="Code">💻</a></td>
       <td align="center"><a href="https://sh0116.github.io/ "><img src="https://avatars.githubusercontent.com/u/38518675?v=4?s=100" width="100px;" alt="KIM SEOKHYEON"/><br /><sub><b>KIM SEOKHYEON</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sh0116" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/junman95"><img src="https://avatars.githubusercontent.com/u/22022776?v=4?s=100" width="100px;" alt="JUNMAN CHOI"/><br /><sub><b>JUNMAN CHOI</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=junman95" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
