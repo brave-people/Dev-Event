@@ -127,8 +127,8 @@
 
 ## 22년 10월
 - __[NestJS Assemble!](https://festa.io/events/2687)__
-  - 분류: `오프라인`, `NextJS`
-  - 주최: NextJs Korea Group
+  - 분류: `오프라인`, `NestJS`
+  - 주최: NestJs Korea Group
   - 일시: 10. 20(목) 19:00 ~ 22:00
 
 - __[우아콘 2022](https://woowacon.com)__
