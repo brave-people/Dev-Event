@@ -125,24 +125,12 @@
 
 <br />
 
-## 22년 10월 
-- __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
-  - 분류: `오프라인`, `mongoDB`
-  - 주최: MongoDB
-  - 일시: 10. 19(수) 09:30 ~ 16:30
-
-- __[당근페이 채용 세션](https://festa.io/events/2737)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 당근마켓
-  - 일시: 10. 19(수) 19:00 ~ 20:30
-- __[시니어 개발자가 말하는 나만의 원칙](https://festa.io/events/2736)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: COMMIT
-  - 일시: 10. 19(수) 19:00 ~ 22:00
+## 22년 10월
 - __[NestJS Assemble!](https://festa.io/events/2687)__
   - 분류: `오프라인`, `NextJS`
   - 주최: NextJs Korea Group
   - 일시: 10. 20(목) 19:00 ~ 22:00
+
 - __[우아콘 2022](https://woowacon.com)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 우아한형제들
@@ -183,6 +171,10 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 에자일 코리아 밋업
   - 일시: 10. 26(수) 20:00 ~ 22:00
+- __[네이버클라우드 퇴근길 테크밋업 Blockchain Tech & Business Talk](https://navercloud.typeform.com/blockchaintalk)__
+  - 분류: `오프라인`, `블록체인`
+  - 주최: 네이버클라우드
+  - 일시: 10. 26(수) 19:00 ~ 21:00
 - __[NVIDIA AI 개발자 밋업 - GTC 2022 Recap](https://festa.io/events/2765)__
   - 분류: `온라인`, `AI`
   - 주최: NVIDIA
@@ -191,6 +183,10 @@
   - 분류: `오프라인`, `ML`
   - 주최: AWSKRUG
   - 일시: 10. 27(목) 19:00
+- __[[Space-S x DLD 2022] 케라스 실용 예제 및 개발 가이드 컨퍼런스](https://aifactory.space/forum/discussion/35)__
+  - 분류: `오프라인`, `케라스`
+  - 주최: 대덕특구 SPACE-S
+  - 일시: 10. 25(화) ~ 10. 27(목)
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
@@ -219,6 +215,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
   - 일시: 10. 10(월) ~ 10. 31(월)
+- __[2022 유플러스 AI Ground](https://github.com/UpstageAI/2022-lguplus-AI-Ground)__
+  - 분류: `대회`, `AI`
+  - 주최: LG U+
+  - 접수: 10. 10(월) ~ 10. 31(월)
 
 <br />
 
