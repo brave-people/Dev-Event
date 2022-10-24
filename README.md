@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 10월
-- __[우아콘 2022](https://woowacon.com)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: 우아한형제들
-  - 일시: 10. 19(수) ~ 10. 21(금)
-
-- __[[DevCrew] 개발스터디 멤버를 모집합니다.](https://www.wanted.co.kr/events/devcrew_study1th)__
-  - 분류: `온라인`, `스터디`
-  - 주최: 원티드
-  - 일시: 10. 12(수) ~ 10. 21(금)
-- __[그래프 러닝 및 해커톤](https://aifactory.space/competition/detail/2106)__
-  - 분류: `온라인`, `해커톤`
-  - 주최: 인공지능팩토리
-  - 일시: 09. 19(월) ~ 10. 23(일)
 - __[우아한테크코스 5기 모집](https://woowacourse.github.io/)__
   - 분류: `교육`
   - 주최: 우아한형제들
   - 접수: 10. 17(월) ~ 10. 24(월)
+
 - __[Next.js Conf](https://nextjs.org/conf)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Next.js
@@ -187,6 +175,10 @@
   - 분류: `오프라인`, `케라스`
   - 주최: 대덕특구 SPACE-S
   - 일시: 10. 25(화) ~ 10. 27(목)
+- __[신입 개발자 취업을 위한 웨비나](https://megaptera-webinar.oopy.io/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 10. 26(수) 19:30 ~ 10. 28(금) 21:00
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
@@ -195,6 +187,10 @@
   - 분류: `교육`
   - 주최: 현대자동차
   - 접수: 10. 14(금) ~ 10. 28(금)
+- __[파이토치 한국 사용자 모임 제1회 세미나](https://festa.io/events/2771)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 모두의연구소
+  - 일시: 10. 29(토) 14:00 ~ 17:00
 - __[AWS Community Day 2022 - 홈커밍데이](https://festa.io/events/2655)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: AWS한국사용자모임
@@ -244,10 +240,22 @@
   - 분류: `대회`, `AI`
   - 주최: 국립국어원
   - 일시: 10. 04(화) ~ 11. 04(금)
+- __[MOBILE KOREA 2022](https://www.onoffmix.com/event/263857)__
+  - 분류: `웨비나`, `네트워크`
+  - 주최: 국립국어원
+  - 일시: 11. 01(화) ~ 11. 04(금)
+- __[2022 PET MEETUP에 초대합니다](https://desilo.notion.site/desilo/2022-PET-MEETUP-8463a7151c674be987eb9b115360af59)__
+  - 분류: `오프라인`, `보안`
+  - 주최: PET 커뮤니티
+  - 접수: 10. 24(월) ~ 11. 04(금)
 - __[GDSC Code Bridge](https://festa.io/events/2729)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: Google Developer Student Clubs
   - 접수: 10. 12(수) ~ 11. 05(토)
+- __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
+  - 분류: `오프라인`, `교육`
+  - 주최: SSAFY
+  - 접수: 10. 24(월) ~ 11. 07(월)
 - __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
