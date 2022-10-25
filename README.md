@@ -126,15 +126,11 @@
 <br />
 
 ## 22년 10월
-- __[우아한테크코스 5기 모집](https://woowacourse.github.io/)__
-  - 분류: `교육`
-  - 주최: 우아한형제들
-  - 접수: 10. 17(월) ~ 10. 24(월)
-
 - __[Next.js Conf](https://nextjs.org/conf)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Next.js
   - 일시: 10. 25(화)
+
 - __[월 $3.5로 나만의 웹 페이지 만들기 : Amazon Lightsail 실습 세미나](https://festa.io/events/2735)__
   - 분류: `온라인`, `클라우드`
   - 주최: AWS 코리아
@@ -170,6 +166,10 @@
 - __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289178354)__
   - 분류: `오프라인`, `ML`
   - 주최: AWSKRUG
+  - 일시: 10. 27(목) 19:00
+- __[10월 Tech 세미나 - 펫밋 개발 스토리 (Flutter 와 Fast API)](https://devocean.sk.com/events/view.do?id=144#none)__
+  - 분류: `웨비나`, `Flutter`
+  - 주최: DEVOCEAN
   - 일시: 10. 27(목) 19:00
 - __[[Space-S x DLD 2022] 케라스 실용 예제 및 개발 가이드 컨퍼런스](https://aifactory.space/forum/discussion/35)__
   - 분류: `오프라인`, `케라스`
@@ -224,6 +224,10 @@
   - 주최: 한국 오픈소스 인프라 커뮤니티
   - 일시: 11. 01(화) 18:00 ~ 19:00
 
+- __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `교육`, `AI`
+  - 주최: SKT
+  - 접수: 10. 17(월) ~ 11. 02(수)
 - __[국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `경진대회`, `AI`
   - 주최: 국방부
