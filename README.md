@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-74-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -135,10 +135,18 @@
   - 분류: `오프라인`, `기술`
   - 주최: GLOBAL TECH KOREA
   - 일시: 10. 25(월) ~ 10. 26(수)
+- __[안드로이드 & iOS 개발자를 위한 스타트업 채용세미나!](https://event-us.kr/GroupBy/event/49790)__
+  - 분류: `웨비나`, `앱`
+  - 주최: 그룹바이
+  - 일시: 10. 26(수) 16:00 ~ 18:00
 - __[애자일 코리아 밋업 10월 "번아웃 린커피"](https://festa.io/events/2762)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 에자일 코리아 밋업
   - 일시: 10. 26(수) 20:00 ~ 22:00
+- __[네이버클라우드 퇴근길 테크밋업 Blockchain Tech & Business Talk](https://navercloud.typeform.com/blockchaintalk)__
+  - 분류: `오프라인`, `블록체인`
+  - 주최: 네이버클라우드
+  - 일시: 10. 26(수) 19:00 ~ 21:00
 - __[NVIDIA AI 개발자 밋업 - GTC 2022 Recap](https://festa.io/events/2765)__
   - 분류: `온라인`, `AI`
   - 주최: NVIDIA
@@ -147,6 +155,18 @@
   - 분류: `오프라인`, `ML`
   - 주최: AWSKRUG
   - 일시: 10. 27(목) 19:00
+- __[10월 Tech 세미나 - 펫밋 개발 스토리 (Flutter 와 Fast API)](https://devocean.sk.com/events/view.do?id=144#none)__
+  - 분류: `웨비나`, `Flutter`
+  - 주최: DEVOCEAN
+  - 일시: 10. 27(목) 19:00
+- __[[Space-S x DLD 2022] 케라스 실용 예제 및 개발 가이드 컨퍼런스](https://aifactory.space/forum/discussion/35)__
+  - 분류: `오프라인`, `케라스`
+  - 주최: 대덕특구 SPACE-S
+  - 일시: 10. 25(화) ~ 10. 27(목)
+- __[신입 개발자 취업을 위한 웨비나](https://megaptera-webinar.oopy.io/)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 10. 26(수) 19:30 ~ 10. 28(금) 21:00
 - __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: GDG Daejeon
@@ -155,6 +175,10 @@
   - 분류: `교육`
   - 주최: 현대자동차
   - 접수: 10. 14(금) ~ 10. 28(금)
+- __[파이토치 한국 사용자 모임 제1회 세미나](https://festa.io/events/2771)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 모두의연구소
+  - 일시: 10. 29(토) 14:00 ~ 17:00
 - __[AWS Community Day 2022 - 홈커밍데이](https://festa.io/events/2655)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: AWS한국사용자모임
@@ -175,6 +199,10 @@
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
   - 일시: 10. 10(월) ~ 10. 31(월)
+- __[2022 유플러스 AI Ground](https://github.com/UpstageAI/2022-lguplus-AI-Ground)__
+  - 분류: `대회`, `AI`
+  - 주최: LG U+
+  - 접수: 10. 10(월) ~ 10. 31(월)
 
 <br />
 
@@ -184,6 +212,10 @@
   - 주최: 한국 오픈소스 인프라 커뮤니티
   - 일시: 11. 01(화) 18:00 ~ 19:00
 
+- __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `교육`, `AI`
+  - 주최: SKT
+  - 접수: 10. 17(월) ~ 11. 02(수)
 - __[국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `경진대회`, `AI`
   - 주최: 국방부
@@ -204,30 +236,50 @@
   - 분류: `대회`, `AI`
   - 주최: 국립국어원
   - 일시: 10. 04(화) ~ 11. 04(금)
+- __[MOBILE KOREA 2022](https://www.onoffmix.com/event/263857)__
+  - 분류: `웨비나`, `네트워크`
+  - 주최: 국립국어원
+  - 일시: 11. 01(화) ~ 11. 04(금)
+- __[2022 PET MEETUP에 초대합니다](https://desilo.notion.site/desilo/2022-PET-MEETUP-8463a7151c674be987eb9b115360af59)__
+  - 분류: `오프라인`, `보안`
+  - 주최: PET 커뮤니티
+  - 접수: 10. 24(월) ~ 11. 04(금)
 - __[GDSC Code Bridge](https://festa.io/events/2729)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: Google Developer Student Clubs
   - 접수: 10. 12(수) ~ 11. 05(토)
+- __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
+  - 분류: `오프라인`, `교육`
+  - 주최: SSAFY
+  - 접수: 10. 24(월) ~ 11. 07(월)
 - __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
+  - 일시: 11. 08(화) ~ 11. 09(수)
+- __[Dev Dive 2022 - 함수형 개발자로 성장하기](https://event-us.kr/greenlabs/event/49634)__
+  - 분류: `오프라인`, `함수형 프로그래밍`
+  - 주최: 그린랩스
   - 일시: 11. 08(화) ~ 11. 09(수)
 - __[AWS 부산 클라우드데이 2022](https://pages.awscloud.com/busan-cloud-day-2022-reg.html)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: AWS
   - 일시: 11. 09(수) 12:00 ~ 17:00
-- __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
-  - 분류: `커뮤니티`
-  - 주최: 삼성
-  - 접수: 10. 05(수) ~ 11. 11(금)
 - __[Boarding Enterprise Blockchain World_WEB3를 향한 여정](https://festa.io/events/2806)__
   - 분류: `웨비나`, `WEB3`
   - 주최: LG CNS
   - 접수: 10. 25(화) ~ 11. 10(목)
+- __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
+  - 분류: `커뮤니티`
+  - 주최: 삼성
+  - 접수: 10. 05(수) ~ 11. 11(금)
 - __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 11. 15(화) 13:00 ~ 17:00
+- __[네이버 DEVIEW 2023 연사 접수](https://deview.kr/2023/cfs)__
+  - 분류: `오프라인`, `개발일반`
+  - 주최: 네이버
+  - 일시: 11. 15(화) 09:30 ~ 17:00
 - __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
@@ -257,6 +309,14 @@
   - 분류: `컨퍼런스`, `오프라인`, `스프링`
   - 주최: spring
   - 일시: 12. 06(화) ~ 12. 08(목)
+
+<br />
+
+## 23년 02월
+- __[네이버 DEVIEW 2023](https://deview.kr/2023/cfs)__
+  - 분류: `오프라인`, `개발일반`
+  - 주최: 네이버
+  - 일시: 02. 27(월) ~ 02. 28(화)
 
 ----------------
 
@@ -483,6 +543,7 @@
       <td align="center"><a href="https://github.com/PARKGAIN"><img src="https://avatars.githubusercontent.com/u/84880886?v=4?s=100" width="100px;" alt="PARK GA IN"/><br /><sub><b>PARK GA IN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PARKGAIN" title="Code">💻</a></td>
       <td align="center"><a href="https://sh0116.github.io/ "><img src="https://avatars.githubusercontent.com/u/38518675?v=4?s=100" width="100px;" alt="KIM SEOKHYEON"/><br /><sub><b>KIM SEOKHYEON</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sh0116" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/junman95"><img src="https://avatars.githubusercontent.com/u/22022776?v=4?s=100" width="100px;" alt="JUNMAN CHOI"/><br /><sub><b>JUNMAN CHOI</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=junman95" title="Code">💻</a></td>
+      <td align="center"><a href="https://velog.io/@antares5757"><img src="https://avatars.githubusercontent.com/u/75557859?v=4?s=100" width="100px;" alt="Hyeokjun seo"/><br /><sub><b>Hyeokjun seo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ANTARES-KOR" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
