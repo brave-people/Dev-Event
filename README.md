@@ -126,55 +126,11 @@
 <br />
 
 ## 22년 10월 
-- __[MongoDB Day Seoul 2022](https://www.mongodb.com/events/mongodb-days-apac-2022/seoul)__
-  - 분류: `오프라인`, `mongoDB`
-  - 주최: MongoDB
-  - 일시: 10. 19(수) 09:30 ~ 16:30
-
-- __[당근페이 채용 세션](https://festa.io/events/2737)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 당근마켓
-  - 일시: 10. 19(수) 19:00 ~ 20:30
-- __[시니어 개발자가 말하는 나만의 원칙](https://festa.io/events/2736)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: COMMIT
-  - 일시: 10. 19(수) 19:00 ~ 22:00
-- __[NestJS Assemble!](https://festa.io/events/2687)__
-  - 분류: `오프라인`, `NextJS`
-  - 주최: NextJs Korea Group
-  - 일시: 10. 20(목) 19:00 ~ 22:00
-- __[우아콘 2022](https://woowacon.com)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: 우아한형제들
-  - 일시: 10. 19(수) ~ 10. 21(금)
-- __[[DevCrew] 개발스터디 멤버를 모집합니다.](https://www.wanted.co.kr/events/devcrew_study1th)__
-  - 분류: `온라인`, `스터디`
-  - 주최: 원티드
-  - 일시: 10. 12(수) ~ 10. 21(금)
-- __[그래프 러닝 및 해커톤](https://aifactory.space/competition/detail/2106)__
-  - 분류: `온라인`, `해커톤`
-  - 주최: 인공지능팩토리
-  - 일시: 09. 19(월) ~ 10. 23(일)
-- __[우아한테크코스 5기 모집](https://woowacourse.github.io/)__
-  - 분류: `교육`
-  - 주최: 우아한형제들
-  - 접수: 10. 17(월) ~ 10. 24(월)
-- __[Next.js Conf](https://nextjs.org/conf)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: Next.js
-  - 일시: 10. 25(화)
-- __[월 $3.5로 나만의 웹 페이지 만들기 : Amazon Lightsail 실습 세미나](https://festa.io/events/2735)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: AWS 코리아
-  - 일시: 10. 25(화) 14:00 ~ 15:30
-- __[MODUPOP | Cloud AI와 얼굴인식](https://festa.io/events/2775)__
-  - 분류: `온라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 10. 25(화) 19:30 ~ 20:30
 - __[웹 모의해킹 시큐어코딩 과정](https://festa.io/events/2594)__
   - 분류: `교육`, `보안`
   - 주최: 한국정보기술연구원
   - 일시: 08. 29(월) ~ 10. 26(수)
+  
 - __[글로벌 테크 코리아 2022](https://festa.io/events/2760)__
   - 분류: `오프라인`, `기술`
   - 주최: GLOBAL TECH KOREA
@@ -232,6 +188,10 @@
   - 분류: `경진대회`, `AI`
   - 주최: 국방부
   - 접수: 09. 30(금) ~ 11. 02(수)
+- __[AWS에서 쉽게 구축하는 DevOps 환경 (Hands-on Session)](https://pages.awscloud.com/aws-builders-korea-get-started-reg.html)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 02(수) 14:00 ~ 15:00
 - __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2695)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유량단
@@ -260,6 +220,14 @@
   - 분류: `커뮤니티`
   - 주최: 삼성
   - 접수: 10. 05(수) ~ 11. 11(금)
+- __[Boarding Enterprise Blockchain World_WEB3를 향한 여정](https://festa.io/events/2806)__
+  - 분류: `웨비나`, `WEB3`
+  - 주최: LG CNS
+  - 접수: 10. 25(화) ~ 11. 10(목)
+- __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 11. 15(화) 13:00 ~ 17:00
 - __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
