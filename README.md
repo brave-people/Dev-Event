@@ -126,55 +126,11 @@
 <br />
 
 ## 22년 10월 
-- __[NVIDIA AI 개발자 밋업 - GTC 2022 Recap](https://festa.io/events/2765)__
-  - 분류: `온라인`, `AI`
-  - 주최: NVIDIA
-  - 일시: 10. 27(목) 14:00 ~ 16:00
-  
-- __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289178354)__
-  - 분류: `오프라인`, `ML`
-  - 주최: AWSKRUG
-  - 일시: 10. 27(목) 19:00
-- __[10월 Tech 세미나 - 펫밋 개발 스토리 (Flutter 와 Fast API)](https://devocean.sk.com/events/view.do?id=144#none)__
-  - 분류: `웨비나`, `Flutter`
-  - 주최: DEVOCEAN
-  - 일시: 10. 27(목) 19:00
-- __[[Space-S x DLD 2022] 케라스 실용 예제 및 개발 가이드 컨퍼런스](https://aifactory.space/forum/discussion/35)__
-  - 분류: `오프라인`, `케라스`
-  - 주최: 대덕특구 SPACE-S
-  - 일시: 10. 25(화) ~ 10. 27(목)
-- __[신입 개발자 취업을 위한 웨비나](https://megaptera-webinar.oopy.io/)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 10. 26(수) 19:30 ~ 10. 28(금) 21:00
-- __[GDG Devfest 2022 Daejeon](https://festa.io/events/2688)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: GDG Daejeon
-  - 일시: 10. 28(금) 20:00 ~ 22:00
-- __[현대자동차그룹 소프티어 부트캠프 2023](https://softeerbootcamp.com/)__
-  - 분류: `교육`
-  - 주최: 현대자동차
-  - 접수: 10. 14(금) ~ 10. 28(금)
-- __[파이토치 한국 사용자 모임 제1회 세미나](https://festa.io/events/2771)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 모두의연구소
-  - 일시: 10. 29(토) 14:00 ~ 17:00
-- __[AWS Community Day 2022 - 홈커밍데이](https://festa.io/events/2655)__
-  - 분류: `온라인`, `커뮤니티`
-  - 주최: AWS한국사용자모임
-  - 일시: 10. 29(토) 14:00 ~ 18:00
-- __[Jetson 개발자 밋업 - 엣지 AI의 미래 : 로보틱스부터 메트로폴리스까지강화 과정](https://festa.io/events/2651)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 10. 30(목) 14:00 ~ 16:30
-- __[AI 자연어 처리 전문가 양성 과정 7기](https://festa.io/events/2764)__
-  - 분류: `교육`, `AI`
-  - 주최: NVIDIA
-  - 일시: 10. 07(금) ~ 10. 30(일)
 - __[개발자, 한 달에 책 한 권 읽기 2022년 10월 모임](https://festa.io/events/2685)__
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
   - 접수: 10. 04(월) ~ 10. 31(월)
+  
 - __[오늘의집 개발자와의 커피챗 어떠세요?](https://www.wanted.co.kr/events/bucketplace_coffeechat)__
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
@@ -192,6 +148,10 @@
   - 주최: 한국 오픈소스 인프라 커뮤니티
   - 일시: 11. 01(화) 18:00 ~ 19:00
 
+- __[Papers with Authors Text-driven Emotional Style Control and Cross-speaker Style Transfer in Neural TTS](https://festa.io/events/2810)__
+  - 분류: `온라인`, `오프라인` `AI`
+  - 주최: 모두의 연구소
+  - 일시: 11. 01(화) 19:30 ~ 20:30
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `교육`, `AI`
   - 주최: SKT
@@ -232,6 +192,14 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: Google Developer Student Clubs
   - 접수: 10. 12(수) ~ 11. 05(토)
+- __[PET MEETUP](https://event-us.kr/petmeetup/event/50486)__
+  - 분류: `온라인`, `오프라인`, `보안`
+  - 주최: PET커뮤니티
+  - 접수: 10. 24(월) ~ 11. 05(토)
+- __['디지털 스펙트럼 2022](https://www.dspectrum.com/register)__
+  - 분류: `웨비나`, `기술일반`
+  - 주최: 메가존클라우드
+  - 접수: 10. 24(월) ~ 11. 06(일)
 - __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
   - 분류: `오프라인`, `교육`
   - 주최: SSAFY
@@ -256,6 +224,10 @@
   - 분류: `커뮤니티`
   - 주최: 삼성
   - 접수: 10. 05(수) ~ 11. 11(금)
+- __[[코딩이랑 무관합니다만 X 모두의연구소] 글로벌IT기업과 무관합니다만,](https://festa.io/events/2820)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 코딩이랑 무관합니다만
+  - 접수: 11. 12(토) 14:00 ~ 18:00
 - __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
