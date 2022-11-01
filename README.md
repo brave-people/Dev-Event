@@ -125,23 +125,6 @@
 
 <br />
 
-## 22년 10월 
-- __[개발자, 한 달에 책 한 권 읽기 2022년 10월 모임](https://festa.io/events/2685)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 달랩
-  - 접수: 10. 04(월) ~ 10. 31(월)
-  
-- __[오늘의집 개발자와의 커피챗 어떠세요?](https://www.wanted.co.kr/events/bucketplace_coffeechat)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 일시: 10. 10(월) ~ 10. 31(월)
-- __[2022 유플러스 AI Ground](https://github.com/UpstageAI/2022-lguplus-AI-Ground)__
-  - 분류: `대회`, `AI`
-  - 주최: LG U+
-  - 접수: 10. 10(월) ~ 10. 31(월)
-
-<br />
-
 ## 22년 11월
 - __[OpenInfra & Cloud Native Day Korea 2022](https://2022.openinfradays.kr/program/sessions)__
   - 분류: `오프라인`, `유료` `클라우드`
@@ -220,6 +203,10 @@
   - 분류: `웨비나`, `WEB3`
   - 주최: LG CNS
   - 접수: 10. 25(화) ~ 11. 10(목)
+- __[AWS 데이터베이스 서비스로 할 수 있는 모든 것들, 그 첫 번째 시간!](https://register.gotowebinar.com/register/1363438825394647823)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 10(목) 10:00 ~ 18:00
 - __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
   - 분류: `커뮤니티`
   - 주최: 삼성
@@ -228,6 +215,10 @@
   - 분류: `오프라인`, `커리어`
   - 주최: 코딩이랑 무관합니다만
   - 접수: 11. 12(토) 14:00 ~ 18:00
+- __[놀러와요 해커톤](https://festa.io/events/2825)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: Google Developer Student Clubs
+  - 접수: 11. 12(토) ~ 11. 13(일)
 - __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
@@ -236,14 +227,18 @@
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
   - 일시: 11. 15(화) 09:30 ~ 17:00
-- __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
-  - 분류: `오프라인`, `기술`
-  - 주최: 삼성
-  - 일시: 11. 15(화) ~ 11. 17(목)
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
   - 일시: 11. 16(수)
+- __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
+  - 분류: `오프라인`, `기술`
+  - 주최: 삼성
+  - 일시: 11. 15(화) ~ 11. 17(목)
+- __[블록체인 난제 해결 챌린지](https://onoffmix.com/event/264735)__
+  - 분류: `공모전`, `블록체인`
+  - 주최: 과학기술정보통신부
+  - 일시: 10. 19(수) ~ 11. 21(월)
 - __[NHN FORWARD 22](https://forward.nhn.com/2022)__
   - 분류: `오프라인`, `기술`
   - 주최: NHN
@@ -252,6 +247,10 @@
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
   - 일시: 11. 26(토) ~ 11. 27(일)
+- __[개발자, 한 달에 책 한 권 읽기 2022년 11월 모임](https://festa.io/events/2829)__
+  - 분류: `유료`, `스터디`
+  - 주최: 달랩
+  - 일시: 11. 28(일) 19:30 ~ 21:30
 
 <br />
 
