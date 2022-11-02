@@ -126,19 +126,11 @@
 <br />
 
 ## 22년 11월
-- __[OpenInfra & Cloud Native Day Korea 2022](https://2022.openinfradays.kr/program/sessions)__
-  - 분류: `오프라인`, `유료` `클라우드`
-  - 주최: 한국 오픈소스 인프라 커뮤니티
-  - 일시: 11. 01(화) 18:00 ~ 19:00
-
-- __[Papers with Authors Text-driven Emotional Style Control and Cross-speaker Style Transfer in Neural TTS](https://festa.io/events/2810)__
-  - 분류: `온라인`, `오프라인` `AI`
-  - 주최: 모두의 연구소
-  - 일시: 11. 01(화) 19:30 ~ 20:30
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `교육`, `AI`
   - 주최: SKT
   - 접수: 10. 17(월) ~ 11. 02(수)
+
 - __[국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `경진대회`, `AI`
   - 주최: 국방부
@@ -187,6 +179,18 @@
   - 분류: `오프라인`, `교육`
   - 주최: SSAFY
   - 접수: 10. 24(월) ~ 11. 07(월)
+- __[우주 관련 아이디어 해커톤](https://allforyoung.com/posts/21119)__
+  - 분류: `해커톤`
+  - 주최: 재단법인 미래와소프트웨어
+  - 접수: 09. 06(화) ~ 11. 07(월)
+- __[우형의 개발자들은 어떻게 일할까?](https://www.wanted.co.kr/events/talk86)__
+  - 분류: `온라인`, `개발일반`
+  - 주최: 우아한형제들
+  - 접수: 11. 02(수) ~ 11. 08(화)
+- __[[MODUPOP] 데이터분석가 되기](https://festa.io/events/2833)__
+  - 분류: `온라인`, `오프라인`, `데이터`
+  - 주최: 모두의 연구소
+  - 접수: 11. 08(화) 19:30 ~ 20:30
 - __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
@@ -235,6 +239,10 @@
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
   - 일시: 11. 15(화) ~ 11. 17(목)
+- __[2022 CMC & CX DemoDay](https://festa.io/events/2834)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: MakeUs Challenge
+  - 일시: 11. 19(토) 10:00 ~ 16:00
 - __[블록체인 난제 해결 챌린지](https://onoffmix.com/event/264735)__
   - 분류: `공모전`, `블록체인`
   - 주최: 과학기술정보통신부
