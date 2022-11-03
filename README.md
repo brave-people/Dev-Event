@@ -126,23 +126,11 @@
 <br />
 
 ## 22년 11월
-- __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
-  - 분류: `교육`, `AI`
-  - 주최: SKT
-  - 접수: 10. 17(월) ~ 11. 02(수)
-
-- __[국방 AI 경진대회](https://maicon.kr/)__
-  - 분류: `경진대회`, `AI`
-  - 주최: 국방부
-  - 접수: 09. 30(금) ~ 11. 02(수)
-- __[AWS에서 쉽게 구축하는 DevOps 환경 (Hands-on Session)](https://pages.awscloud.com/aws-builders-korea-get-started-reg.html)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 11. 02(수) 14:00 ~ 15:00
 - __[누구나 쉽게 이해할 수 있는 마이크로서비스아키텍처(MSA) #1편](https://festa.io/events/2811)__
   - 분류: `온라인`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 11. 03(목) 11:00 ~ 12:00
+
 - __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2695)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유량단
@@ -175,6 +163,14 @@
   - 분류: `웨비나`, `기술일반`
   - 주최: 메가존클라우드
   - 접수: 10. 24(월) ~ 11. 06(일)
+- __[개발자 부트캠프, 엘리스 IoT 트랙 1기 모집](https://festa.io/events/2837)__
+  - 분류: `교육`, `IoT`
+  - 주최: 엘리스
+  - 접수: 10. 10(월) ~ 11. 06(목)
+- __[개발자 부트캠프, 엘리스 AI 트랙 6기 모집](https://festa.io/events/2836)__
+  - 분류: `교육`, `AI`
+  - 주최: 엘리스
+  - 접수: 10. 03(월) ~ 11. 06(목)
 - __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
   - 분류: `오프라인`, `교육`
   - 주최: SSAFY
@@ -219,6 +215,10 @@
   - 분류: `오프라인`, `커리어`
   - 주최: 코딩이랑 무관합니다만
   - 접수: 11. 12(토) 14:00 ~ 18:00
+- __[SyncSwift 2022](https://festa.io/events/ndCognG2SC4ZEj44osqurB)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: SyncSwift
+  - 접수: 11. 12(토) 10:00 ~ 22:00
 - __[놀러와요 해커톤](https://festa.io/events/2825)__
   - 분류: `오프라인`, `해커톤`
   - 주최: Google Developer Student Clubs
@@ -231,6 +231,10 @@
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
   - 일시: 11. 15(화) 09:30 ~ 17:00
+- __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
+  - 분류: `유료`,`오프라인`, `AI`
+  - 주최: opener
+  - 일시: 11. 15(화) ~ 11. 16(수)
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
@@ -259,15 +263,23 @@
   - 분류: `유료`, `스터디`
   - 주최: 달랩
   - 일시: 11. 28(일) 19:30 ~ 21:30
+- __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
+  - 분류: `오프라인`, `IoT`
+  - 주최: MDS테크
+  - 일시: 11. 29(화) 10:00 ~ 17:00
 
 <br />
 
 ## 22년 12월
+- __[Devfest 2022 GDG Daegu : Hackathon](https://festa.io/events/2831)__
+  - 분류: `오프라인`, `경진대회`
+  - 주최: GDG Daegu
+  - 일시: 12. 02(금) ~ 12. 03(토)
+
 - __[알고리즘 먼데이 챌린지](https://level.goorm.io/level/challenge)__
   - 분류: `온라인`, `알고리즘`
   - 주최: (주) 구름
   - 일시: 10. 03(월) ~ 12. 04(일)
-  
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `오프라인`, `스프링`
   - 주최: spring
