@@ -231,6 +231,10 @@
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
   - 일시: 11. 15(화) 09:30 ~ 17:00
+- __[(CEO Satya Nadella와 함께 하는)Microsoft Ignite Spotlight on Korea](https://msevents.microsoft.com/event?id=1595073679)__
+  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
+  - 주최: 한국 Microsoft
+  - 일시: 11. 15(화) 12:00 ~ 17:50
 - __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
   - 분류: `유료`,`오프라인`, `AI`
   - 주최: opener
