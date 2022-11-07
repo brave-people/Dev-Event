@@ -24,63 +24,6 @@
 <br />
 </div>
 
-<!-- 
-## 📣 Dev Event Mail
-
-<div align=center>
-  <img src="./static/dev-event-subscribe-v2.png">
-
-  Dev Event를 메일로 보내드립니다! [메일 구독하러가기!!](https://github.com/brave-people/Dev-Event-Subscribe)
-</div>
-
-<br />
-<br />
-
-## 🎈 Dev Event Android
-
-<div align=center>
-<img src="./static/android-2v.png?raw=true">
-
-👉 [Dev Event Android 바로가기](https://github.com/brave-people/Dev-Event-Android)
-
-"용감한 친구들"의 프로젝트 Dev event의 Android 버전이 출시되었습니다! <br />
-앞으로 더 개선될 앱을 향한 여러분들의 의견과 많은 관심 부탁드립니다! 🥰
-
-</div>
-
-<br />
-<details>
-  <summary>[21. 04. 11] DEV EVENT 1000+스타 감사합니다. </summary>
-
-  ## DEV EVENT 1000+스타
-
-  <div align=center>
-    <img src="./static/1000dev-event.png?raw=true" width="80%">
-
-  <a href="https://covenant.tistory.com/232"> DEV EVENT 1000스타 후기  </a>
-
-  1000+스타 감사합니다. <br />
-  방문해주신 분, PR로 도움 주신 분들 모두 감사합니다 :)
-
-</div>
-</details>
-<details>
-  <summary>[20. 12. 21] Dev Event Web(Beta) 공개 </summary>
-
-  ## 🎈 Dev Event Web(Beta) 공개~
-
-  <div align=center>
-  <img src="https://github.com/brave-people/Dev-Event/blob/master/static/dev-event-web.png?raw=true">
-
-  👉 [Dev Event Web 바로가기](https://brave-people.github.io/Dev-Event-Client/)
-
-  "용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
-  프로젝트를 더욱 발전시켜준 [@leedoopal](https://github.com/leedoopal) 감사합니다!
-
-  </div>
-</details>
--->
-
 <table>
 <tr>
   <td valign="top" width="50%">
@@ -126,55 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[누구나 쉽게 이해할 수 있는 마이크로서비스아키텍처(MSA) #1편](https://festa.io/events/2811)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 11. 03(목) 11:00 ~ 12:00
-
-- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/2695)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 클라우드 유량단
-  - 일시: 11. 03(목) 19:00 ~ 21:00
-- __[2023 ICT 산업전망컨퍼런스](http://ictconference.kr/)__
-  - 분류: `온라인`, `오프라인`, `기술`
-  - 주최: 2023 ICT 산업전망 컨퍼런스
-  - 일시: 11. 03(목) ~ 11. 04(금)
-- __[2022 국립국어원 인공 지능 언어 능력 평가 대회](https://okky.kr/articles/1315668)__
-  - 분류: `대회`, `AI`
-  - 주최: 국립국어원
-  - 일시: 10. 04(화) ~ 11. 04(금)
-- __[MOBILE KOREA 2022](https://www.onoffmix.com/event/263857)__
-  - 분류: `웨비나`, `네트워크`
-  - 주최: 국립국어원
-  - 일시: 11. 01(화) ~ 11. 04(금)
-- __[2022 PET MEETUP에 초대합니다](https://desilo.notion.site/desilo/2022-PET-MEETUP-8463a7151c674be987eb9b115360af59)__
-  - 분류: `오프라인`, `보안`
-  - 주최: PET 커뮤니티
-  - 접수: 10. 24(월) ~ 11. 04(금)
-- __[GDSC Code Bridge](https://festa.io/events/2729)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: Google Developer Student Clubs
-  - 접수: 10. 12(수) ~ 11. 05(토)
-- __[PET MEETUP](https://event-us.kr/petmeetup/event/50486)__
-  - 분류: `온라인`, `오프라인`, `보안`
-  - 주최: PET커뮤니티
-  - 접수: 10. 24(월) ~ 11. 05(토)
-- __['디지털 스펙트럼 2022](https://www.dspectrum.com/register)__
-  - 분류: `웨비나`, `기술일반`
-  - 주최: 메가존클라우드
-  - 접수: 10. 24(월) ~ 11. 06(일)
-- __[개발자 부트캠프, 엘리스 IoT 트랙 1기 모집](https://festa.io/events/2837)__
-  - 분류: `교육`, `IoT`
-  - 주최: 엘리스
-  - 접수: 10. 10(월) ~ 11. 06(목)
-- __[개발자 부트캠프, 엘리스 AI 트랙 6기 모집](https://festa.io/events/2836)__
-  - 분류: `교육`, `AI`
-  - 주최: 엘리스
-  - 접수: 10. 03(월) ~ 11. 06(목)
 - __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
   - 분류: `오프라인`, `교육`
   - 주최: SSAFY
   - 접수: 10. 24(월) ~ 11. 07(월)
+
 - __[우주 관련 아이디어 해커톤](https://allforyoung.com/posts/21119)__
   - 분류: `해커톤`
   - 주최: 재단법인 미래와소프트웨어
@@ -207,6 +106,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
   - 일시: 11. 10(목) 10:00 ~ 18:00
+- __[pgday.Seoul 2022 행사](http://pgday.postgresql.kr/)__
+  - 분류: `오프라인`, `PostgreSQL`
+  - 주최: PostgreSQL Korea
+  - 일시: 11. 12(토) 13:00 ~ 17:00
+- __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
+  - 분류: `커뮤니티`
+  - 주최: 삼성
+  - 접수: 10. 05(수) ~ 11. 11(금)
 - __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
   - 분류: `커뮤니티`
   - 주최: 삼성
@@ -236,21 +143,37 @@
   - 주최: 한국 Microsoft
   - 일시: 11. 15(화) 12:00 ~ 17:50
 - __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
-  - 분류: `유료`,`오프라인`, `AI`
+  - 분류: `유료`, `오프라인`, `AI`
   - 주최: opener
   - 일시: 11. 15(화) ~ 11. 16(수)
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
   - 일시: 11. 16(수)
+- __[성장: 개발자들의 평생 과제](https://festa.io/events/2845)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 구름
+  - 일시: 11. 16(수) 19:00 ~ 20:30
 - __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
   - 일시: 11. 15(화) ~ 11. 17(목)
+- __[HMG Developer Conference](http://www.hmgdevcon.com/2022/)__
+  - 분류: `오프라인`, `개발일반`
+  - 주최: 현대자동차
+  - 일시: 11. 16(수) ~ 11. 17(목)
+- __[LINE 기술 콘퍼런스 Tech-Verse 2022](https://tech-verse.me/ko)__
+  - 분류: `웨비나`, `개발일반`
+  - 주최: 라인
+  - 일시: 11. 17(목) ~ 11. 18(금)
 - __[2022 CMC & CX DemoDay](https://festa.io/events/2834)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: MakeUs Challenge
   - 일시: 11. 19(토) 10:00 ~ 16:00
+- __[DevFest 2022 - GDG Songdo, Incheon & GDSC Inha, TUKorea](https://festa.io/events/2758)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: GDG Songdo
+  - 일시: 11. 19(토) 13:00 ~ 19:00
 - __[블록체인 난제 해결 챌린지](https://onoffmix.com/event/264735)__
   - 분류: `공모전`, `블록체인`
   - 주최: 과학기술정보통신부
@@ -259,6 +182,10 @@
   - 분류: `오프라인`, `기술`
   - 주최: NHN
   - 일시: 11. 24(목)
+- __[애자일코리아컨퍼런스(Agile Korea Conference) 2022](https://festa.io/events/2756)__
+  - 분류: `오프라인`, `애자일`
+  - 주최: NHN
+  - 일시: 11. 25(금) 10:00 ~ 17:00
 - __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
@@ -271,6 +198,10 @@
   - 분류: `오프라인`, `IoT`
   - 주최: MDS테크
   - 일시: 11. 29(화) 10:00 ~ 17:00
+- __[모바일 해킹 사례와 NHN AppGuard를 활용한 대응 방안](https://cloudon.nhn.com/webinar?idx=11?utm_source=codenary&utm_medium=posting&utm_campaign=brave_people&utm_term=on.10)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: NHN 클라우드
+  - 일시: 11. 29(화) 14:00 ~ 15:00
 
 <br />
 
@@ -383,7 +314,7 @@
 | 표준프레임워크 오픈커뮤니티 | [open.egovframe.org](https://open.egovframe.org/) |
 | 게임 서버 개발자 모임 | [facebook](https://www.facebook.com/groups/207844736374114/) |
 | Kubernetes Korea | [facebook](https://www.facebook.com/groups/k8skr/) |
-| KubernPostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
+| PostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
 | 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/) |
 | Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
 | Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
