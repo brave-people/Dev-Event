@@ -69,19 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[삼성 청년 SW 아카데미 9기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_tabseq=226504&p_seq=83)__
-  - 분류: `오프라인`, `교육`
-  - 주최: SSAFY
-  - 접수: 10. 24(월) ~ 11. 07(월)
-
-- __[우주 관련 아이디어 해커톤](https://allforyoung.com/posts/21119)__
-  - 분류: `해커톤`
-  - 주최: 재단법인 미래와소프트웨어
-  - 접수: 09. 06(화) ~ 11. 07(월)
 - __[우형의 개발자들은 어떻게 일할까?](https://www.wanted.co.kr/events/talk86)__
   - 분류: `온라인`, `개발일반`
   - 주최: 우아한형제들
   - 접수: 11. 02(수) ~ 11. 08(화)
+
 - __[[MODUPOP] 데이터분석가 되기](https://festa.io/events/2833)__
   - 분류: `온라인`, `오프라인`, `데이터`
   - 주최: 모두의 연구소
@@ -106,6 +98,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
   - 일시: 11. 10(목) 10:00 ~ 18:00
+- __[디지털 스펙트럼 2022](https://www.dspectrum.com/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존 클라우드
+  - 일시: 11. 11(금) ~ 11. 20(화)
 - __[pgday.Seoul 2022 행사](http://pgday.postgresql.kr/)__
   - 분류: `오프라인`, `PostgreSQL`
   - 주최: PostgreSQL Korea
@@ -142,6 +138,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 한국 Microsoft
   - 일시: 11. 15(화) 12:00 ~ 17:50
+- __[2022 Connect to Code](https://okky.kr/articles/1348545)__
+  - 분류: `오프라인`, `AI`
+  - 주최: opener
+  - 일시: 11. 15(화)
 - __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
   - 분류: `유료`, `오프라인`, `AI`
   - 주최: opener
@@ -154,6 +154,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 구름
   - 일시: 11. 16(수) 19:00 ~ 20:30
+- __[독학으로 네카라쿠배 #비전공자 개발자](https://www.catch.co.kr/CatchClass/Live/View/5605)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 11. 16(수) 19:30 ~ 21:00
 - __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
@@ -194,6 +198,10 @@
   - 분류: `유료`, `스터디`
   - 주최: 달랩
   - 일시: 11. 28(일) 19:30 ~ 21:30
+- __[AWS re:Invent](https://reinvent.awsevents.com/)__
+  - 분류: `유료`, `오프라인`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 28(일) ~ 12. 02(금)
 - __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
   - 분류: `오프라인`, `IoT`
   - 주최: MDS테크
@@ -219,6 +227,10 @@
   - 분류: `컨퍼런스`, `오프라인`, `스프링`
   - 주최: spring
   - 일시: 12. 06(화) ~ 12. 08(목)
+- __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/login?returnUrl=%2Fcompetition%2Fdetail%2F2143)__
+  - 분류: `대회`, `AI`
+  - 주최: 한국수자원공사
+  - 일시: 11. 07(월) ~ 12. 09(금)
 - __[뽑히는 개발자의 포트폴리오](https://www.wanted.co.kr/events/udemykorea_resume)__
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
