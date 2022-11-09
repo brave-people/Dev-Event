@@ -69,19 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[우형의 개발자들은 어떻게 일할까?](https://www.wanted.co.kr/events/talk86)__
-  - 분류: `온라인`, `개발일반`
-  - 주최: 우아한형제들
-  - 접수: 11. 02(수) ~ 11. 08(화)
-
-- __[[MODUPOP] 데이터분석가 되기](https://festa.io/events/2833)__
-  - 분류: `온라인`, `오프라인`, `데이터`
-  - 주최: 모두의 연구소
-  - 접수: 11. 08(화) 19:30 ~ 20:30
 - __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: SK
   - 일시: 11. 08(화) ~ 11. 09(수)
+  
 - __[Dev Dive 2022 - 함수형 개발자로 성장하기](https://event-us.kr/greenlabs/event/49634)__
   - 분류: `오프라인`, `함수형 프로그래밍`
   - 주최: 그린랩스
@@ -134,6 +126,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 한국 Microsoft
   - 일시: 11. 15(화) 12:00 ~ 17:50
+- __[[MODUPOP] Papers with Authors : Swin2SR](https://festa.io/events/2857)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 11. 15(화) 19:30 ~ 20:30
 - __[2022 Connect to Code](https://okky.kr/articles/1348545)__
   - 분류: `오프라인`, `AI`
   - 주최: opener
@@ -162,6 +158,10 @@
   - 분류: `오프라인`, `개발일반`
   - 주최: 현대자동차
   - 일시: 11. 16(수) ~ 11. 17(목)
+- __[AWSKRUG DevOps 모임](https://www.meetup.com/awskrug/events/289632885/)__
+  - 분류: `온라인`, `오프라인`, `DevOps`
+  - 주최: AWSKRUG
+  - 일시: 11. 17(목) 17:00 ~ 19:00
 - __[LINE 기술 콘퍼런스 Tech-Verse 2022](https://tech-verse.me/ko)__
   - 분류: `웨비나`, `개발일반`
   - 주최: 라인
@@ -170,6 +170,10 @@
   - 분류: `오프라인`, `커뮤니티`
   - 주최: MakeUs Challenge
   - 일시: 11. 19(토) 10:00 ~ 16:00
+- __[GDG Busan Devfest 2022, 부산에서 개발하는 사람들](https://festa.io/events/2847)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: GDG Busan
+  - 일시: 11. 19(토) 14:00 ~ 16:30
 - __[DevFest 2022 - GDG Songdo, Incheon & GDSC Inha, TUKorea](https://festa.io/events/2758)__
   - 분류: `오프라인`, `해커톤`
   - 주최: GDG Songdo
@@ -182,6 +186,10 @@
   - 분류: `오프라인`, `기술`
   - 주최: NHN
   - 일시: 11. 24(목)
+- __[AWSKRUG #architecture - 37번째 소모임](https://www.meetup.com/awskrug/events/289622106/)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 11. 24(목) 19:30 ~ 21:30
 - __[애자일코리아컨퍼런스(Agile Korea Conference) 2022](https://festa.io/events/2756)__
   - 분류: `오프라인`, `애자일`
   - 주최: 애자일코리아컨퍼런스
@@ -210,11 +218,15 @@
 <br />
 
 ## 22년 12월
+- __[AI를 즐겨라! 래블업 개발자 컨퍼런스](https://festa.io/events/2861)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 래블업
+  - 일시: 12. 01(목) 13:00 ~ 18:00
+
 - __[Devfest 2022 GDG Daegu : Hackathon](https://festa.io/events/2831)__
   - 분류: `오프라인`, `경진대회`
   - 주최: GDG Daegu
   - 일시: 12. 02(금) ~ 12. 03(토)
-
 - __[알고리즘 먼데이 챌린지](https://level.goorm.io/level/challenge)__
   - 분류: `온라인`, `알고리즘`
   - 주최: (주) 구름
