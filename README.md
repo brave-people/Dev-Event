@@ -69,23 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)__
-  - 분류: `컨퍼런스`, `온라인`, `오프라인`
-  - 주최: SK
-  - 일시: 11. 08(화) ~ 11. 09(수)
-  
-- __[Dev Dive 2022 - 함수형 개발자로 성장하기](https://event-us.kr/greenlabs/event/49634)__
-  - 분류: `오프라인`, `함수형 프로그래밍`
-  - 주최: 그린랩스
-  - 일시: 11. 08(화) ~ 11. 09(수)
-- __[AWS 부산 클라우드데이 2022](https://pages.awscloud.com/busan-cloud-day-2022-reg.html)__
-  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
-  - 주최: AWS
-  - 일시: 11. 09(수) 12:00 ~ 17:00
 - __[Boarding Enterprise Blockchain World_WEB3를 향한 여정](https://festa.io/events/2806)__
   - 분류: `웨비나`, `WEB3`
   - 주최: LG CNS
   - 접수: 10. 25(화) ~ 11. 10(목)
+
 - __[AWS 데이터베이스 서비스로 할 수 있는 모든 것들, 그 첫 번째 시간!](https://register.gotowebinar.com/register/1363438825394647823)__
   - 분류: `웨비나`, `클라우드`
   - 주최: AWS
@@ -162,6 +150,10 @@
   - 분류: `온라인`, `오프라인`, `DevOps`
   - 주최: AWSKRUG
   - 일시: 11. 17(목) 17:00 ~ 19:00
+- __[노션 코리아 밋업](https://www.wanted.co.kr/events/2022_notion_korea_meetup)__
+  - 분류: `웨비나`, `노션`
+  - 주최: 노션 코리아
+  - 일시: 11. 17(목) 19:00 ~ 21:30
 - __[LINE 기술 콘퍼런스 Tech-Verse 2022](https://tech-verse.me/ko)__
   - 분류: `웨비나`, `개발일반`
   - 주최: 라인
@@ -182,6 +174,10 @@
   - 분류: `공모전`, `블록체인`
   - 주최: 과학기술정보통신부
   - 일시: 10. 19(수) ~ 11. 21(월)
+- __[프리온보딩 Android 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_android_1)__
+  - 분류: `교육`, `안드로이드`
+  - 주최: 원티드
+  - 일시: 10. 10(목) ~ 11. 23(수)
 - __[NHN FORWARD 22](https://forward.nhn.com/2022)__
   - 분류: `오프라인`, `기술`
   - 주최: NHN
