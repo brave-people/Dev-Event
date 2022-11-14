@@ -69,31 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[pgday.Seoul 2022 행사](http://pgday.postgresql.kr/)__
-  - 분류: `오프라인`, `PostgreSQL`
-  - 주최: PostgreSQL Korea
-  - 일시: 11. 12(토) 13:00 ~ 17:00
-
-- __[삼성 소프트웨어 개발자 커뮤니티의 신규 커뮤니티 리더가 되어 보세요!](https://okky.kr/articles/1333156)__
-  - 분류: `커뮤니티`
-  - 주최: 삼성
-  - 접수: 10. 05(수) ~ 11. 11(금)
-- __[[코딩이랑 무관합니다만 X 모두의연구소] 글로벌IT기업과 무관합니다만,](https://festa.io/events/2820)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 코딩이랑 무관합니다만
-  - 접수: 11. 12(토) 14:00 ~ 18:00
-- __[SyncSwift 2022](https://festa.io/events/ndCognG2SC4ZEj44osqurB)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: SyncSwift
-  - 접수: 11. 12(토) 10:00 ~ 22:00
-- __[놀러와요 해커톤](https://festa.io/events/2825)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: Google Developer Student Clubs
-  - 접수: 11. 12(토) ~ 11. 13(일)
 - __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 메가존클라우드
   - 일시: 11. 15(화) 13:00 ~ 17:00
+
 - __[네이버 DEVIEW 2023 연사 접수](https://deview.kr/2023/cfs)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
@@ -182,6 +162,10 @@
   - 분류: `오프라인`, `애자일`
   - 주최: 애자일코리아컨퍼런스
   - 일시: 11. 25(금) 10:00 ~ 17:00
+- __[SOFTWARE EDU FEST 2022](https://sef.connect.or.kr/2022)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 네이버 커넥트재단
+  - 일시: 11. 22(화) ~ 11. 25(금)
 - __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
   - 분류: `컨퍼런스`, `온라인`, `오프라인`
   - 주최: 우분투한국커뮤니티
@@ -227,7 +211,7 @@
   - 분류: `컨퍼런스`, `오프라인`, `스프링`
   - 주최: spring
   - 일시: 12. 06(화) ~ 12. 08(목)
-- __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/login?returnUrl=%2Fcompetition%2Fdetail%2F2143)__
+- __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/competition/detail/2143)__
   - 분류: `대회`, `AI`
   - 주최: 한국수자원공사
   - 일시: 11. 07(월) ~ 12. 09(금)
@@ -238,7 +222,11 @@
 - __[NeurIPS 2022 AI Leaders Forum](https://festa.io/events/2870)__
   - 분류: `온라인`, `AI`
   - 주최: SELECTSTAR
-  - 일시: 12, 13(화) 10:00
+  - 일시: 12. 13(화) 10:00 ~ 13:00
+- __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289741122/)__
+  - 분류: `오프라인`, `데이터사이언스`
+  - 주최: AWSKRUG
+  - 일시: 12. 14(수) 19:00
 - __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSRUG
