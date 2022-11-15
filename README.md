@@ -150,10 +150,18 @@
   - 분류: `교육`, `안드로이드`
   - 주최: 원티드
   - 일시: 10. 10(목) ~ 11. 23(수)
+- __[프리온보딩 iOS 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_ios_1)__
+  - 분류: `교육`, `iOS`
+  - 주최: 원티드
+  - 일시: 11. 10(목) ~ 11. 23(수)
 - __[NHN FORWARD 22](https://forward.nhn.com/2022)__
   - 분류: `오프라인`, `기술`
   - 주최: NHN
   - 일시: 11. 24(목)
+- __[W3C HTML5 Conference 2022](https://onoffmix.com/event/265891)__
+  - 분류: `오프라인`, `WEB3`
+  - 주최: 과학기술정보통신부
+  - 일시: 11. 24(목) 13:30 ~ 18:00
 - __[AWSKRUG #architecture - 37번째 소모임](https://www.meetup.com/awskrug/events/289622106/)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
