@@ -69,31 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[GCP hands-on 교육 2022 season2](https://gc.hosting.kr/gcp_labsday-2022-2/?utm_source=communityutm_medium=festa&utm_campaign=handson)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 11. 15(화) 13:00 ~ 17:00
-
-- __[네이버 DEVIEW 2023 연사 접수](https://deview.kr/2023/cfs)__
-  - 분류: `오프라인`, `개발일반`
-  - 주최: 네이버
-  - 일시: 11. 15(화) 09:30 ~ 17:00
-- __[(CEO Satya Nadella와 함께 하는)Microsoft Ignite Spotlight on Korea](https://msevents.microsoft.com/event?id=1595073679)__
-  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
-  - 주최: 한국 Microsoft
-  - 일시: 11. 15(화) 12:00 ~ 17:50
-- __[[MODUPOP] Papers with Authors : Swin2SR](https://festa.io/events/2857)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 11. 15(화) 19:30 ~ 20:30
-- __[2022 Connect to Code](https://okky.kr/articles/1348545)__
-  - 분류: `오프라인`, `AI`
-  - 주최: opener
-  - 일시: 11. 15(화)
 - __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
   - 분류: `유료`, `오프라인`, `AI`
   - 주최: opener
   - 일시: 11. 15(화) ~ 11. 16(수)
+
 - __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
   - 분류: `오프라인`, `AI`
   - 주최: (주) MDS 테크
@@ -154,6 +134,10 @@
   - 분류: `교육`, `iOS`
   - 주최: 원티드
   - 일시: 11. 10(목) ~ 11. 23(수)
+- __[NAVER 'HyperCLOVA' 신기술 세미나](https://festa.io/events/2849)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 모두의연구소
+  - 일시: 11. 23(수) 19:00 ~ 20:00
 - __[NHN FORWARD 22](https://forward.nhn.com/2022)__
   - 분류: `오프라인`, `기술`
   - 주최: NHN
@@ -186,18 +170,22 @@
   - 분류: `유료`, `스터디`
   - 주최: 달랩
   - 일시: 11. 28(일) 19:30 ~ 21:30
-- __[AWS re:Invent](https://reinvent.awsevents.com/)__
-  - 분류: `유료`, `오프라인`, `클라우드`
-  - 주최: AWS
-  - 일시: 11. 28(일) ~ 12. 02(금)
 - __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
   - 분류: `오프라인`, `IoT`
   - 주최: MDS테크
   - 일시: 11. 29(화) 10:00 ~ 17:00
+- __[구름톤 4회차 모집](https://9oormthon.goorm.io/)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 구름
+  - 접수: 11. 17(목) ~ 11. 29(화)
 - __[모바일 해킹 사례와 NHN AppGuard를 활용한 대응 방안](https://cloudon.nhn.com/webinar?idx=11?utm_source=codenary&utm_medium=posting&utm_campaign=brave_people&utm_term=on.10)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 11. 29(화) 14:00 ~ 15:00
+- __[Gitlab Korea 밋업 #13 - DevSecOps 파이프라인 2탄](https://festa.io/events/2856)__
+  - 분류: `웨비나`, `DevSecOps`
+  - 주최: Gitlab Korea
+  - 일시: 11. 29(화) 19:00 ~ 21:00
 - __[렛츠스위프트 2022](https://festa.io/events/2868)__
   - 분류: `오프라인`, `Swift`
   - 주최: Let' Swift
@@ -211,6 +199,10 @@
   - 주최: 래블업
   - 일시: 12. 01(목) 13:00 ~ 18:00
 
+- __[AWS re:Invent](https://reinvent.awsevents.com/)__
+  - 분류: `유료`, `오프라인`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 28(일) ~ 12. 02(금)
 - __[Devfest 2022 GDG Daegu : Hackathon](https://festa.io/events/2831)__
   - 분류: `오프라인`, `경진대회`
   - 주최: GDG Daegu
