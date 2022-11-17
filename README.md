@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[2022 Connect to Code(C2C)](https://okky.kr/articles/1345338)__
-  - 분류: `유료`, `오프라인`, `AI`
-  - 주최: opener
-  - 일시: 11. 15(화) ~ 11. 16(수)
-
-- __[제 1회 IST 2022 : NVIDIA AI Solution Seminar](https://festa.io/events/2643)__
-  - 분류: `오프라인`, `AI`
-  - 주최: (주) MDS 테크
-  - 일시: 11. 16(수)
-- __[성장: 개발자들의 평생 과제](https://festa.io/events/2845)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 구름
-  - 일시: 11. 16(수) 19:00 ~ 20:30
-- __[독학으로 네카라쿠배 #비전공자 개발자](https://www.catch.co.kr/CatchClass/Live/View/5605)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 11. 16(수) 19:30 ~ 21:00
 - __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
   - 분류: `오프라인`, `기술`
   - 주최: 삼성
   - 일시: 11. 15(화) ~ 11. 17(목)
+  
 - __[HMG Developer Conference](http://www.hmgdevcon.com/2022/)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 현대자동차
@@ -203,6 +187,10 @@
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWS
   - 일시: 11. 28(일) ~ 12. 02(금)
+- __[liftIO 2022](https://festa.io/events/2876)__
+  - 분류: `오프라인`, `언어`
+  - 주최: liftIO
+  - 일시: 12. 03(토) 14:00 ~ 17:30
 - __[Devfest 2022 GDG Daegu : Hackathon](https://festa.io/events/2831)__
   - 분류: `오프라인`, `경진대회`
   - 주최: GDG Daegu
@@ -223,6 +211,10 @@
   - 분류: `온라인`, `AI`
   - 주최: SELECTSTAR
   - 일시: 12. 13(화) 10:00 ~ 13:00
+- __[NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 14(수) 11:00 ~ 18:00
 - __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289741122/)__
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: AWSKRUG
