@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-75-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-76-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -474,6 +474,7 @@
       <td align="center"><a href="https://sh0116.github.io/ "><img src="https://avatars.githubusercontent.com/u/38518675?v=4?s=100" width="100px;" alt="KIM SEOKHYEON"/><br /><sub><b>KIM SEOKHYEON</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=sh0116" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/junman95"><img src="https://avatars.githubusercontent.com/u/22022776?v=4?s=100" width="100px;" alt="JUNMAN CHOI"/><br /><sub><b>JUNMAN CHOI</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=junman95" title="Code">💻</a></td>
       <td align="center"><a href="https://archive-me-0329.tistory.com/"><img src="https://avatars.githubusercontent.com/u/76769919?v=4?s=100" width="100px;" alt="Nayeon Kim"/><br /><sub><b>Nayeon Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=n-y-kim" title="Code">💻</a></td>
+      <td align="center"><a href="https://hyostech.tistory.com/"><img src="https://avatars.githubusercontent.com/u/59387167?v=4?s=100" width="100px;" alt="hyojupark"/><br /><sub><b>hyojupark</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyojupark" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
