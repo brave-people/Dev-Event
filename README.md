@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[Samsung Software Developer Conference 2022](https://ssdc.kr/)__
-  - 분류: `오프라인`, `기술`
-  - 주최: 삼성
-  - 일시: 11. 15(화) ~ 11. 17(목)
-  
-- __[HMG Developer Conference](http://www.hmgdevcon.com/2022/)__
-  - 분류: `오프라인`, `개발일반`
-  - 주최: 현대자동차
-  - 일시: 11. 16(수) ~ 11. 17(목)
-- __[AWSKRUG DevOps 모임](https://www.meetup.com/awskrug/events/289632885/)__
-  - 분류: `온라인`, `오프라인`, `DevOps`
-  - 주최: AWSKRUG
-  - 일시: 11. 17(목) 17:00 ~ 19:00
-- __[노션 코리아 밋업](https://www.wanted.co.kr/events/2022_notion_korea_meetup)__
-  - 분류: `웨비나`, `노션`
-  - 주최: 노션 코리아
-  - 일시: 11. 17(목) 19:00 ~ 21:30
 - __[LINE 기술 콘퍼런스 Tech-Verse 2022](https://tech-verse.me/ko)__
   - 분류: `웨비나`, `개발일반`
   - 주최: 라인
   - 일시: 11. 17(목) ~ 11. 18(금)
+
 - __[2022 CMC & CX DemoDay](https://festa.io/events/2834)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: MakeUs Challenge
@@ -130,6 +114,10 @@
   - 분류: `오프라인`, `WEB3`
   - 주최: 과학기술정보통신부
   - 일시: 11. 24(목) 13:30 ~ 18:00
+- __[11월 Tech 세미나 - iOS Web 비디오 렌더링 최적화 사례](https://devocean.sk.com/events/view.do?id=148)__
+  - 분류: `웨비나`, `iOS`
+  - 주최: DEVOCEAN
+  - 일시: 11. 24(목) 19:00 ~ 20:00
 - __[AWSKRUG #architecture - 37번째 소모임](https://www.meetup.com/awskrug/events/289622106/)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -199,6 +187,10 @@
   - 분류: `온라인`, `알고리즘`
   - 주최: (주) 구름
   - 일시: 10. 03(월) ~ 12. 04(일)
+- __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
+  - 분류: `온라인`, `전자정부프레임워크`
+  - 주최: 행정안전부
+  - 일시: 11. 07(월) ~ 12. 09(금)
 - __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/competition/detail/2143)__
   - 분류: `대회`, `AI`
   - 주최: 한국수자원공사
