@@ -69,31 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[LINE 기술 콘퍼런스 Tech-Verse 2022](https://tech-verse.me/ko)__
-  - 분류: `웨비나`, `개발일반`
-  - 주최: 라인
-  - 일시: 11. 17(목) ~ 11. 18(금)
-
-- __[2022 CMC & CX DemoDay](https://festa.io/events/2834)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: MakeUs Challenge
-  - 일시: 11. 19(토) 10:00 ~ 16:00
-- __[GDG Busan Devfest 2022, 부산에서 개발하는 사람들](https://festa.io/events/2847)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: GDG Busan
-  - 일시: 11. 19(토) 14:00 ~ 16:30
-- __[DevFest 2022 - GDG Songdo, Incheon & GDSC Inha, TUKorea](https://festa.io/events/2758)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: GDG Songdo
-  - 일시: 11. 19(토) 13:00 ~ 19:00
-- __[디지털 스펙트럼 2022](https://www.dspectrum.com/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존 클라우드
-  - 일시: 11. 11(금) ~ 11. 20(화)
 - __[블록체인 난제 해결 챌린지](https://onoffmix.com/event/264735)__
   - 분류: `공모전`, `블록체인`
   - 주최: 과학기술정보통신부
   - 일시: 10. 19(수) ~ 11. 21(월)
+
 - __[프리온보딩 Android 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_android_1)__
   - 분류: `교육`, `안드로이드`
   - 주최: 원티드
@@ -162,6 +142,10 @@
   - 분류: `오프라인`, `Swift`
   - 주최: Let' Swift
   - 일시: 11. 30(수) 10:00 ~ 15:00
+- __[네이버 부스트캠프 AI Tech 5기](https://boostcamp.connect.or.kr/preview_ai.html)__
+  - 분류: `교육`, `AI`
+  - 주최: 네이버 커넥트 재단
+  - 접수: 11. 21(월) ~ 11. 30(수)
 
 <br />
 
@@ -171,6 +155,10 @@
   - 주최: 래블업
   - 일시: 12. 01(목) 13:00 ~ 18:00
 
+- __[Brity RPA Meetup](https://brityworks.ai/community/share?boardId=3&categoryId=1&postId=4307)__
+  - 분류: `오프라인`, `커뮤니티`
+  - 주최: 삼성 SDS
+  - 일시: 12. 01(목) 13:30 ~ 18:00
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWS
@@ -179,6 +167,18 @@
   - 분류: `오프라인`, `언어`
   - 주최: liftIO
   - 일시: 12. 03(토) 14:00 ~ 17:30
+- __[C++ Korea 2022 Meet-Up](https://festa.io/events/2872)__
+  - 분류: `오프라인`, `모임`
+  - 주최: C++ Korea
+  - 일시: 12. 03(토) 13:00 ~ 17:00
+- __[2022 연말 파이썬 파티](https://festa.io/events/2889)__
+  - 분류: `오프라인`, `파이썬`
+  - 주최: 사단법인 파이썬 사용자모임
+  - 일시: 12. 03(토) 14:00 ~ 18:00
+- __[소주톤 : 얼레벌레크리스마스](https://festa.io/events/2892)__
+  - 분류: `오프라인`, `모임`
+  - 주최: 소문난 주니어 콘퍼런스
+  - 일시: 12. 03(토) 10:00 ~ 22:00
 - __[Devfest 2022 GDG Daegu : Hackathon](https://festa.io/events/2831)__
   - 분류: `오프라인`, `경진대회`
   - 주최: GDG Daegu
@@ -215,6 +215,10 @@
   - 분류: `오프라인`, `보안`
   - 주최: AWSRUG
   - 일시: 12. 17(토) 13:00
+- __[GDGXGDSC Merry Careermas (메리 커리어마스)](https://festa.io/events/2898)__
+  - 분류: `오프라인`, `모임`
+  - 주최: GDG Campus Korea
+  - 일시: 12. 17(토) ~ 12. 18(일)
 
 <br />
 
