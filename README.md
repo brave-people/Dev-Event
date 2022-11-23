@@ -69,15 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[블록체인 난제 해결 챌린지](https://onoffmix.com/event/264735)__
-  - 분류: `공모전`, `블록체인`
-  - 주최: 과학기술정보통신부
-  - 일시: 10. 19(수) ~ 11. 21(월)
-
 - __[프리온보딩 Android 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_android_1)__
   - 분류: `교육`, `안드로이드`
   - 주최: 원티드
   - 일시: 10. 10(목) ~ 11. 23(수)
+  
 - __[프리온보딩 iOS 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_ios_1)__
   - 분류: `교육`, `iOS`
   - 주최: 원티드
@@ -130,6 +126,10 @@
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 접수: 11. 17(목) ~ 11. 29(화)
+- __[월간 무료 개발 세미나 [D-DAY] 11월 "바로 시작하는 TDD와 리팩토링"](https://fastcampus.co.kr/devcon_dday2211)__
+  - 분류: `온라인`, `TDD`
+  - 주최: 패스트캠퍼스
+  - 접수: 11. 23(수) ~ 11. 29(화)
 - __[모바일 해킹 사례와 NHN AppGuard를 활용한 대응 방안](https://cloudon.nhn.com/webinar?idx=11?utm_source=codenary&utm_medium=posting&utm_campaign=brave_people&utm_term=on.10)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
@@ -142,6 +142,10 @@
   - 분류: `오프라인`, `Swift`
   - 주최: Let' Swift
   - 일시: 11. 30(수) 10:00 ~ 15:00
+- __[숨어있는 댕꿀기업 시리즈#메타버스ENT #개발자](https://www.catch.co.kr/CatchClass/Live/View/5620)__
+  - 분류: `웨비나`, `메타버스`
+  - 주최: 캐치
+  - 일시: 11. 30(수) 20:00 ~ 21:30
 - __[네이버 부스트캠프 AI Tech 5기](https://boostcamp.connect.or.kr/preview_ai.html)__
   - 분류: `교육`, `AI`
   - 주최: 네이버 커넥트 재단
@@ -191,6 +195,10 @@
   - 분류: `온라인`, `알고리즘`
   - 주최: (주) 구름
   - 일시: 10. 03(월) ~ 12. 04(일)
+- __[삼성SDS 시스템개발/운영](https://www.catch.co.kr/CatchClass/Live/View/5623)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 12. 05(월) 19:30 ~ 21:00
 - __[AI is [ ]](https://festa.io/events/2875)__
   - 분류: `오프라인`, `AI`
   - 주최: Welcome to AI
@@ -199,6 +207,10 @@
    - 분류: `온라인`, `컨퍼런스`
    - 주최: 11번가
    - 일시: 12. 07(수) ~ 12. 08(목)
+- __[생성모델부터 Diffusion까지 | 모두의연구소 x 서울시립대DS플러스사업단](https://festa.io/events/2799)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의연구소
+  - 일시: 11. 03(목) ~ 12. 08(목)
 - __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
   - 분류: `온라인`, `전자정부프레임워크`
   - 주최: 행정안전부
