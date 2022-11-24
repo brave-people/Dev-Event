@@ -69,23 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[프리온보딩 Android 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_android_1)__
-  - 분류: `교육`, `안드로이드`
-  - 주최: 원티드
-  - 일시: 10. 10(목) ~ 11. 23(수)
-  
-- __[프리온보딩 iOS 챌린지 1차](https://www.wanted.co.kr/events/pre_challenge_ios_1)__
-  - 분류: `교육`, `iOS`
-  - 주최: 원티드
-  - 일시: 11. 10(목) ~ 11. 23(수)
-- __[NAVER 'HyperCLOVA' 신기술 세미나](https://festa.io/events/2849)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 11. 23(수) 19:00 ~ 20:00
 - __[NHN FORWARD 22](https://forward.nhn.com/2022)__
   - 분류: `오프라인`, `기술`
   - 주최: NHN
   - 일시: 11. 24(목)
+
 - __[W3C HTML5 Conference 2022](https://onoffmix.com/event/265891)__
   - 분류: `오프라인`, `WEB3`
   - 주최: 과학기술정보통신부
@@ -154,19 +142,31 @@
   - 분류: `대회`, `프론트엔드`
   - 주최: 원티드
   - 접수: 11. 16(수) ~ 11. 30(수)
+- __[[걸스인텍x원티드] 2023년 Apple 디벨로퍼 아카데미 모집 안내](https://www.wanted.co.kr/events/git_apple_academy)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 걸스인텍x원티드
+  - 접수: 09. 01(목) ~ 11. 30(수)
 
 <br />
 
 ## 22년 12월
+- __[누구나 쉽게 이해할 수 있는 마이크로서비스아키텍처(MSA) #1편](https://festa.io/events/2917)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 01(목) 11:00 ~ 12:00
+
 - __[AI를 즐겨라! 래블업 개발자 컨퍼런스](https://festa.io/events/2861)__
   - 분류: `오프라인`, `AI`
   - 주최: 래블업
   - 일시: 12. 01(목) 13:00 ~ 18:00
-
 - __[Brity RPA Meetup](https://brityworks.ai/community/share?boardId=3&categoryId=1&postId=4307)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 삼성 SDS
   - 일시: 12. 01(목) 13:30 ~ 18:00
+- __[원티드 x 스위프트 코딩클럽 3기 모집](https://www.wanted.co.kr/events/swiftCodingClub3)__
+  - 분류: `온라인`, `Swift`
+  - 주최: 스위프트 코딩클럽
+  - 접수: 11. 09(토) ~ 12. 01(목)
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWS
