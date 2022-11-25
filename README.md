@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[NHN FORWARD 22](https://forward.nhn.com/2022)__
-  - 분류: `오프라인`, `기술`
-  - 주최: NHN
-  - 일시: 11. 24(목)
-
-- __[W3C HTML5 Conference 2022](https://onoffmix.com/event/265891)__
-  - 분류: `오프라인`, `WEB3`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 24(목) 13:30 ~ 18:00
-- __[11월 Tech 세미나 - iOS Web 비디오 렌더링 최적화 사례](https://devocean.sk.com/events/view.do?id=148)__
-  - 분류: `웨비나`, `iOS`
-  - 주최: DEVOCEAN
-  - 일시: 11. 24(목) 19:00 ~ 20:00
-- __[AWSKRUG #architecture - 37번째 소모임](https://www.meetup.com/awskrug/events/289622106/)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 11. 24(목) 19:30 ~ 21:30
 - __[애자일코리아컨퍼런스(Agile Korea Conference) 2022](https://festa.io/events/2756)__
   - 분류: `오프라인`, `애자일`
   - 주최: 애자일코리아컨퍼런스
   - 일시: 11. 25(금) 10:00 ~ 17:00
+
 - __[SOFTWARE EDU FEST 2022](https://sef.connect.or.kr/2022)__
   - 분류: `웨비나`, `교육`
   - 주최: 네이버 커넥트재단
@@ -122,6 +106,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 11. 29(화) 14:00 ~ 15:00
+- __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
+  - 분류: `오프라인`, `IoT`
+  - 주최: MDS 테크
+  - 일시: 11. 29(화) 10:00 ~ 15:00
 - __[Gitlab Korea 밋업 #13 - DevSecOps 파이프라인 2탄](https://festa.io/events/2856)__
   - 분류: `웨비나`, `DevSecOps`
   - 주최: Gitlab Korea
