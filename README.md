@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 11월
-- __[애자일코리아컨퍼런스(Agile Korea Conference) 2022](https://festa.io/events/2756)__
-  - 분류: `오프라인`, `애자일`
-  - 주최: 애자일코리아컨퍼런스
-  - 일시: 11. 25(금) 10:00 ~ 17:00
-
-- __[SOFTWARE EDU FEST 2022](https://sef.connect.or.kr/2022)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 네이버 커넥트재단
-  - 일시: 11. 22(화) ~ 11. 25(금)
-- __[프로그래머스 컨퍼런스](https://pgconf.vfairs.com/)__
-  - 분류: `컨퍼런스`, `온라인`, `기술일반`
-  - 주최: 프로그래머스
-  - 일시: 11. 26(토) 11:00 ~ 18:30
-- __[UbuCon Asia 2022](https://2022.ubucon.asia/ko)__
-  - 분류: `컨퍼런스`, `온라인`, `오프라인`
-  - 주최: 우분투한국커뮤니티
-  - 일시: 11. 26(토) ~ 11. 27(일)
 - __[개발자, 한 달에 책 한 권 읽기 2022년 11월 모임](https://festa.io/events/2829)__
   - 분류: `유료`, `스터디`
   - 주최: 달랩
   - 일시: 11. 28(일) 19:30 ~ 21:30
+  
 - __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
   - 분류: `오프라인`, `IoT`
   - 주최: MDS테크
@@ -223,6 +207,10 @@
   - 분류: `온라인`, `AI`
   - 주최: SELECTSTAR
   - 일시: 12. 13(화) 10:00 ~ 13:00
+- __[GCP 입문을 위한 hands-on Labs day 2022 seanson3](https://gc.hosting.kr/gcp_labsday-2022-3/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 메가존소프트
+  - 일시: 12. 13(화) 13:00 ~ 17:00
 - __[NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -231,6 +219,10 @@
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 12. 14(수) 19:00
+- __[DevFest 2022 Golang Korea](https://festa.io/events/2922)__
+  - 분류: `오프라인`, `Golang`
+  - 주최: Golang Korea
+  - 일시: 12. 15(목) 18:40 ~ 22:00
 - __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSRUG
@@ -239,6 +231,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: GDG Campus Korea
   - 일시: 12. 17(토) ~ 12. 18(일)
+- __[2022 adiOS Something](https://festa.io/events/2904)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: adiOS
+  - 일시: 12. 18(일) 15:00 ~ 20:30
 
 <br />
 
