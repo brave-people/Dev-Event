@@ -69,35 +69,11 @@
 <br />
 
 ## 22년 11월  
-- __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
-  - 분류: `오프라인`, `IoT`
-  - 주최: MDS테크
-  - 일시: 11. 29(화) 10:00 ~ 17:00
-
-- __[구름톤 4회차 모집](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름
-  - 접수: 11. 17(목) ~ 11. 29(화)
-- __[월간 무료 개발 세미나 [D-DAY] 11월 "바로 시작하는 TDD와 리팩토링"](https://fastcampus.co.kr/devcon_dday2211)__
-  - 분류: `온라인`, `TDD`
-  - 주최: 패스트캠퍼스
-  - 접수: 11. 23(수) ~ 11. 29(화)
-- __[모바일 해킹 사례와 NHN AppGuard를 활용한 대응 방안](https://cloudon.nhn.com/webinar?idx=11?utm_source=codenary&utm_medium=posting&utm_campaign=brave_people&utm_term=on.10)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: NHN 클라우드
-  - 일시: 11. 29(화) 14:00 ~ 15:00
-- __[MDS Tech Day : Windows IoT와 비즈니스 트랜스포메이션](https://festa.io/events/2804)__
-  - 분류: `오프라인`, `IoT`
-  - 주최: MDS 테크
-  - 일시: 11. 29(화) 10:00 ~ 15:00
-- __[Gitlab Korea 밋업 #13 - DevSecOps 파이프라인 2탄](https://festa.io/events/2856)__
-  - 분류: `웨비나`, `DevSecOps`
-  - 주최: Gitlab Korea
-  - 일시: 11. 29(화) 19:00 ~ 21:00
 - __[렛츠스위프트 2022](https://festa.io/events/2868)__
   - 분류: `오프라인`, `Swift`
   - 주최: Let' Swift
   - 일시: 11. 30(수) 10:00 ~ 15:00
+  
 - __[숨어있는 댕꿀기업 시리즈#메타버스ENT #개발자](https://www.catch.co.kr/CatchClass/Live/View/5620)__
   - 분류: `웨비나`, `메타버스`
   - 주최: 캐치
@@ -163,26 +139,30 @@
   - 분류: `온라인`, `알고리즘`
   - 주최: (주) 구름
   - 일시: 10. 03(월) ~ 12. 04(일)
-- __[삼성SDS 시스템개발/운영](https://www.catch.co.kr/CatchClass/Live/View/5623)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 12. 05(월) 19:30 ~ 21:00
 - __[AI is [ ]](https://festa.io/events/2875)__
   - 분류: `오프라인`, `AI`
   - 주최: Welcome to AI
   - 일시: 12. 04(일) 13:00 ~ 17:30
+- __[삼성SDS 시스템개발/운영](https://www.catch.co.kr/CatchClass/Live/View/5623)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 캐치
+  - 일시: 12. 05(월) 19:30 ~ 21:00
+- __[[MODUPOP] 개발자의 강화학습](https://festa.io/events/2937)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의연구소
+  - 일시: 12. 06(화) 19:30 20:30
  - __[11번가 TechTalk 2022](https://techtalk.11stcorp.com/)__
    - 분류: `온라인`, `컨퍼런스`
    - 주최: 11번가
    - 일시: 12. 07(수) ~ 12. 08(목)
+- __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/290054105)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 12. 08(목) 19:00
 - __[if(kakao)dev2022](https://if.kakao.com/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 카카오
   - 일시: 12. 07(수) ~ 12. 09(금)
-- __[생성모델부터 Diffusion까지 | 모두의연구소 x 서울시립대DS플러스사업단](https://festa.io/events/2799)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 11. 03(목) ~ 12. 08(목)
 - __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
   - 분류: `온라인`, `전자정부프레임워크`
   - 주최: 행정안전부
