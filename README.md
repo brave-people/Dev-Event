@@ -69,33 +69,21 @@
 <br />
 
 ## 22년 12월
-- __[누구나 쉽게 이해할 수 있는 마이크로서비스아키텍처(MSA) #1편](https://festa.io/events/2917)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 01(목) 11:00 ~ 12:00
-
-- __[AI를 즐겨라! 래블업 개발자 컨퍼런스](https://festa.io/events/2861)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 래블업
-  - 일시: 12. 01(목) 13:00 ~ 18:00
-- __[Brity RPA Meetup](https://brityworks.ai/community/share?boardId=3&categoryId=1&postId=4307)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: 삼성 SDS
-  - 일시: 12. 01(목) 13:30 ~ 18:00
-- __[원티드 x 스위프트 코딩클럽 3기 모집](https://www.wanted.co.kr/events/swiftCodingClub3)__
-  - 분류: `온라인`, `Swift`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 11. 09(토) ~ 12. 01(목)
 - __[AWS re:Invent](https://reinvent.awsevents.com/)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWS
   - 일시: 11. 28(일) ~ 12. 02(금)
+
 - __[liftIO 2022](https://festa.io/events/2876)__
   - 분류: `오프라인`, `언어`
   - 주최: liftIO
   - 일시: 12. 03(토) 14:00 ~ 17:30
 - __[C++ Korea 2022 Meet-Up](https://festa.io/events/2872)__
   - 분류: `오프라인`, `모임`
+  - 주최: C++ Korea
+  - 일시: 12. 03(토) 13:00 ~ 17:00
+- __[C++ Korea 2022 Meet-Up](https://festa.io/events/2872)__
+  - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
   - 일시: 12. 03(토) 13:00 ~ 17:00
 - __[2022 연말 파이썬 파티](https://festa.io/events/2889)__
@@ -190,6 +178,10 @@
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 12. 14(수) 19:00
+- __[카페24 NFT 활용 이커머스 성공전략 웨비나](https://festa.io/events/2947)__
+  - 분류: `웨비나`, `NFT`
+  - 주최: 카페24
+  - 일시: 12. 15(목) 14:00 ~ 15:00
 - __[DevFest 2022 Golang Korea](https://festa.io/events/2922)__
   - 분류: `오프라인`, `Golang`
   - 주최: Golang Korea
@@ -206,10 +198,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
   - 일시: 12. 18(일) 15:00 ~ 20:30
-- __[동양미래대학교 AWS DeepRacer League](https://festa.io/events/2936)__
-  - 분류: `오프라인`, `대회`, `클라우드`
-  - 주최: 동양미래대학교
-  - 접수: 11. 17(목) ~ 12. 01(목)
+- __[개발자, 한 달에 책 한 권 읽기 2022년 12월 모임](https://festa.io/events/2941)__
+  - 분류: `오프라인`, `스터디`
+  - 주최: 달랩
+  - 일시: 12. 26(월) 19:30 ~ 21:30
 
 <br />
 
