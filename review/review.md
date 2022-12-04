@@ -32,3 +32,5 @@
     - [https://blog.dramancompany.com/](https://blog.dramancompany.com/2021/06/awsgameday2021/?fbclid=IwAR174b_pNZgfDv8bSU4yGaG921dHgpmUkYZ_JRppe38jVzq3azfoDl-1hhg)
 - __AngelHack 2020 서울 우승 후기__
     - [sehajyang.github.io](https://sehajyang.github.io/2020/07/26/20200726-angelhack-2020-seoul-review/)
+- __2022 컨트리뷰톤 후기__
+    - [jopemachine.github.io](https://jopemachine.github.io/2022/11/17/OSSCA-Review/)
