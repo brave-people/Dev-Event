@@ -166,6 +166,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
   - 일시: 12. 18(일) 15:00 ~ 20:30
+- __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
+  - 분류: `오프라인`, `밋업`
+  - 주최: 컬리
+  - 일시: 12. 21(수) 19:00 ~ 21:00
 - __[개발자, 한 달에 책 한 권 읽기 2022년 12월 모임](https://festa.io/events/2941)__
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
