@@ -69,19 +69,19 @@
 <br />
 
 ## 22년 12월
-- __[삼성SDS 시스템개발/운영](https://www.catch.co.kr/CatchClass/Live/View/5623)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 12. 05(월) 19:30 ~ 21:00
-
 - __[[MODUPOP] 개발자의 강화학습](https://festa.io/events/2937)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의연구소
   - 일시: 12. 06(화) 19:30 ~ 20:30
+
 - __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 행정안전부
   - 일시: 12. 07(수) 13:30 ~ 16:30
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/289852920/)__
+  - 분류: `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 12. 07(수) 19:30 ~ 21:30
 - __[제29회 SW 품질 인사이트 컨퍼런스](http://sw-seminar.kr/)__
   - 분류: `온라인`, `오프라인`, `SW`
   - 주최: 정보통신산업진흥원
@@ -146,6 +146,10 @@
   - 분류: `오프라인`, `데이터사이언스`
   - 주최: AWSKRUG
   - 일시: 12. 14(수) 19:00
+- __[소수정예 Github 코드리뷰](https://www.catch.co.kr/CatchClass/Live/View/5648)__
+  - 분류: `온라인`, `코드리뷰`
+  - 주최: 캐치
+  - 일시: 12. 06(화) ~ 12. 14(수)
 - __[카페24 NFT 활용 이커머스 성공전략 웨비나](https://festa.io/events/2947)__
   - 분류: `웨비나`, `NFT`
   - 주최: 카페24
@@ -154,10 +158,18 @@
   - 분류: `오프라인`, `Golang`
   - 주최: Golang Korea
   - 일시: 12. 15(목) 18:40 ~ 22:00
+- __[BUSAN DATA WEEK 2022](https://festa.io/events/2961)__
+  - 분류: `오프라인`, `데이터`
+  - 주최: DX Challenge
+  - 일시: 12. 15(목) ~ 12. 16(금)
 - __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSRUG
   - 일시: 12. 17(토) 13:00
+- __[청년 IT 커리어 패널 토크 by 마이크로소프트 MVPs](https://festa.io/events/2959)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 마이로소프트 MVP
+  - 일시: 12. 17(토) 10:00 ~ 12:30
 - __[GDGXGDSC Merry Careermas (메리 커리어마스)](https://festa.io/events/2898)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG Campus Korea
@@ -166,6 +178,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
   - 일시: 12. 18(일) 15:00 ~ 20:30
+- __[Today, meet tomorrow │ Google Maps Platform](https://festa.io/events/2957)__
+  - 분류: `오프라인`, `SPH`
+  - 주최: SPH
+  - 일시: 12. 18(일) 14:00 ~ 16:30
 - __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
   - 분류: `오프라인`, `밋업`
   - 주최: 컬리
