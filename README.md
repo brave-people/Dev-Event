@@ -69,31 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 행정안전부
-  - 일시: 12. 07(수) 13:30 ~ 16:30
-
-- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/289852920/)__
-  - 분류: `오프라인`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 일시: 12. 07(수) 19:30 ~ 21:30
-- __[제29회 SW 품질 인사이트 컨퍼런스](http://sw-seminar.kr/)__
-  - 분류: `온라인`, `오프라인`, `SW`
-  - 주최: 정보통신산업진흥원
-  - 일시: 12. 07(수) 13:30 ~ 17:40
-- __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/290054105)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 12. 08(목) 19:00
- - __[11번가 TechTalk 2022](https://techtalk.11stcorp.com/)__
-   - 분류: `온라인`, `컨퍼런스`
-   - 주최: 11번가
-   - 일시: 12. 07(수) ~ 12. 08(목)
 - __[삼성SDS 2023 상반기 알고리즘 특강 신청서](https://docs.google.com/forms/d/e/1FAIpQLSesJYzo05L81O5h4nIhmWJWE4L_AQ2Ep90m89b8jn0ySO-xIw/viewform)__
   - 분류: `온라인`, `알고리즘`
   - 주최: 삼성SDS
   - 일시: 12. 01(목) ~ 12. 09(금)
+
 - __[그랜드 클라우드 컨퍼런스 2022](https://onoffmix.com/event/266887)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: 과학기술정보통신부
@@ -182,6 +162,14 @@
   - 분류: `오프라인`, `모임`
   - 주최: GDG Campus Korea
   - 일시: 12. 17(토) ~ 12. 18(일)
+- __[DND 8기 모집](https://dnd.ac/)__
+  - 분류: `모임`
+  - 주최: DND
+  - 접수: 11. 20(일) ~ 12. 18(일)
+- __[F-Univ Camp](https://www.f-univ.kr/)__
+  - 분류: `온라인`, `FE`
+  - 주최: F-Univ Camp
+  - 일시: 12. 18(일) 13:00 ~ 15:00
 - __[2022 adiOS Something](https://festa.io/events/2904)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
