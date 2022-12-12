@@ -69,39 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[삼성SDS 2023 상반기 알고리즘 특강 신청서](https://docs.google.com/forms/d/e/1FAIpQLSesJYzo05L81O5h4nIhmWJWE4L_AQ2Ep90m89b8jn0ySO-xIw/viewform)__
-  - 분류: `온라인`, `알고리즘`
-  - 주최: 삼성SDS
-  - 일시: 12. 01(목) ~ 12. 09(금)
-
-- __[그랜드 클라우드 컨퍼런스 2022](https://onoffmix.com/event/266887)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 일시: 12. 08(목) ~ 12. 09(금)
-- __[if(kakao)dev2022](https://if.kakao.com/)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: 카카오
-  - 일시: 12. 07(수) ~ 12. 09(금)
-- __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
-  - 분류: `온라인`, `전자정부프레임워크`
-  - 주최: 행정안전부
-  - 일시: 11. 07(월) ~ 12. 09(금)
-- __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/competition/detail/2143)__
-  - 분류: `대회`, `AI`
-  - 주최: 한국수자원공사
-  - 일시: 11. 07(월) ~ 12. 09(금)
-- __[DevFest 2022 WebTech](https://festa.io/events/2893)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Korea
-  - 일시: 12. 10(토) 16:00 ~ 19:00
-- __[카카오엔터프라이즈와 함께 하는 K-Digital Training 8기](https://allforyoung.com/posts/23270)__
-  - 분류: `교육`, `인프라`, `AI`
-  - 주최: 구름
-  - 접수: 11. 14(월) ~ 12. 11(일)
 - __[NVIDIA Omniverse seminar](https://festa.io/events/2963)__
   - 분류: `오프라인`, `메탘버스`
   - 주최: 엔비디아
   - 일시: 12. 12(월) 14:00 ~ 17:30
+
 - __[뽑히는 개발자의 포트폴리오](https://www.wanted.co.kr/events/udemykorea_resume)__
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
@@ -138,6 +110,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: GTPlus
   - 일시: 12. 15(목) 13:30 ~ 16:30
+- __[스타트업과 함께하는 NODE.JS Socket.IO 분산 웹 채팅 서비스 개발하기](https://festa.io/events/2980)__
+  - 분류: `교육`, `NODE.JS`
+  - 주최: 지니공공아카데미
+  - 일시: 12. 15(목) 13:00 ~ 17:00
 - __[2022년 모두의 오픈데이터포럼](https://www.onoffmix.com/event/267531)__
   - 분류: `웨비나`, `데이터`
   - 주최: 오픈데이터포럼
@@ -178,6 +154,10 @@
   - 분류: `오프라인`, `SPH`
   - 주최: SPH
   - 일시: 12. 18(일) 14:00 ~ 16:30
+- __[좋은 데이터는 누가, 어떻게 만드는가](https://www.upstage.ai/events/hcai-data)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 업스테이지
+  - 일시: 12. 18(일) 20:00 ~ 21:30
 - __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
   - 분류: `오프라인`, `밋업`
   - 주최: 컬리
@@ -186,6 +166,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: Meta Developer Circles: Seoul
   - 일시: 12. 21(수) 19:00 ~ 21:30
+- __[우분투 오픈스택 코무 2022년 송년회](https://festa.io/events/2978)__
+  - 분류: `오프라인`, `우분투`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 12. 23(금) 19:00 ~ 21:00
 - __[개발자, 한 달에 책 한 권 읽기 2022년 12월 모임](https://festa.io/events/2941)__
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
@@ -199,6 +183,10 @@
   - 주최: 커넥츠재단
   - 접수: 12. 07(수) ~ 01. 09(월)
 
+- __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 01. 17(화) 14:00 ~ 17:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
