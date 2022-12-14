@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[NVIDIA Omniverse seminar](https://festa.io/events/2963)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: 엔비디아
-  - 일시: 12. 12(월) 14:00 ~ 17:30
-
-- __[뽑히는 개발자의 포트폴리오](https://www.wanted.co.kr/events/udemykorea_resume)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 일시: 12. 12(월) 20:00 ~ 22:00
-- __[NeurIPS 2022 AI Leaders Forum](https://festa.io/events/2870)__
-  - 분류: `온라인`, `AI`
-  - 주최: SELECTSTAR
-  - 일시: 12. 13(화) 10:00 ~ 13:00
-- __[GCP 입문을 위한 hands-on Labs day 2022 seanson3](https://gc.hosting.kr/gcp_labsday-2022-3/)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 메가존소프트
-  - 일시: 12. 13(화) 13:00 ~ 17:00
 - __[NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 12. 14(수) 11:00 ~ 18:00
+  
 - __[한단계 진화한 GraalVM, Spring Native 활용해보기](https://go.oracle.com/LP=132582)__
   - 분류: `웨비나`, `Java`
   - 주최: 오라클
@@ -114,6 +98,10 @@
   - 분류: `교육`, `NODE.JS`
   - 주최: 지니공공아카데미
   - 일시: 12. 15(목) 13:00 ~ 17:00
+- __[12월 Tech 세미나 - 지식그래프 알아보기](https://devocean.sk.com/events/view.do?id=153)__
+  - 분류: `웨비나`, `데이터`
+  - 주최: DEVOCEAN
+  - 일시: 12. 15(목) 14:00 ~ 16:00
 - __[2022년 모두의 오픈데이터포럼](https://www.onoffmix.com/event/267531)__
   - 분류: `웨비나`, `데이터`
   - 주최: 오픈데이터포럼
@@ -183,6 +171,10 @@
   - 주최: 커넥츠재단
   - 접수: 12. 07(수) ~ 01. 09(월)
 
+- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
+  - 분류: `채용`, `알고리즘`
+  - 주최: 원티드
+  - 접수: 12. 14(수) ~ 01. 11(수)
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
