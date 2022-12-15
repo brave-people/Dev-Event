@@ -69,27 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 14(수) 11:00 ~ 18:00
-  
-- __[한단계 진화한 GraalVM, Spring Native 활용해보기](https://go.oracle.com/LP=132582)__
-  - 분류: `웨비나`, `Java`
-  - 주최: 오라클
-  - 일시: 12. 14(수) 17:00 ~ 18:00
-- __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289741122/)__
-  - 분류: `오프라인`, `데이터사이언스`
-  - 주최: AWSKRUG
-  - 일시: 12. 14(수) 19:00
-- __[소수정예 Github 코드리뷰](https://www.catch.co.kr/CatchClass/Live/View/5648)__
-  - 분류: `온라인`, `코드리뷰`
-  - 주최: 캐치
-  - 접수: 12. 06(화) ~ 12. 14(수)
 - __[카페24 NFT 활용 이커머스 성공전략 웨비나](https://festa.io/events/2947)__
   - 분류: `웨비나`, `NFT`
   - 주최: 카페24
   - 일시: 12. 15(목) 14:00 ~ 15:00
+
 - __[Get Tech Day 2022](https://www.allshowtv.com/detail.html?idx=1170)__
   - 분류: `웨비나`, `클라우드`
   - 주최: GTPlus
@@ -146,10 +130,18 @@
   - 분류: `오프라인`, `AI`
   - 주최: 업스테이지
   - 일시: 12. 18(일) 20:00 ~ 21:30
+- __[현대모비스 채용연계형 SW 아카데미 2기 채용설명회](https://inthiswork.com/archives/31335)__
+  - 분류: `웨비나`, `교육`
+  - 주최: 현대모비스
+  - 접수: 12. 15(목) ~ 12. 18(일)
 - __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
   - 분류: `오프라인`, `밋업`
   - 주최: 컬리
   - 일시: 12. 21(수) 19:00 ~ 21:00
+- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/290172123/)__
+  - 분류: `웨비나`, `모임`,  `보안`
+  - 주최: AWSKRUG
+  - 일시: 12. 21(수) 19:30 ~ 21:30
 - __[Spark AR Creator Days](https://festa.io/events/2966)__
   - 분류: `웨비나`, `AI`
   - 주최: Meta Developer Circles: Seoul
@@ -162,6 +154,14 @@
   - 분류: `오프라인`, `스터디`
   - 주최: 달랩
   - 일시: 12. 26(월) 19:30 ~ 21:30
+- __[현대모비스 채용연계형 SW 아카데미 2기](https://inthiswork.com/archives/31335)__
+  - 분류: `교육`
+  - 주최: 현대모비스
+  - 접수: 12. 14(수) ~ 12. 28(수)
+- __[크래프론 AI FELLOWSHIP PROGRAM](https://aifellowship.krafton.com/)__
+  - 분류: `교육`, `AI`
+  - 주최: 크래프톤
+  - 접수: 12. 12(월) ~ 12. 31(토)
 
 <br />
 
