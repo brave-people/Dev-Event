@@ -69,35 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[카페24 NFT 활용 이커머스 성공전략 웨비나](https://festa.io/events/2947)__
-  - 분류: `웨비나`, `NFT`
-  - 주최: 카페24
-  - 일시: 12. 15(목) 14:00 ~ 15:00
-
-- __[Get Tech Day 2022](https://www.allshowtv.com/detail.html?idx=1170)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: GTPlus
-  - 일시: 12. 15(목) 13:30 ~ 16:30
-- __[스타트업과 함께하는 NODE.JS Socket.IO 분산 웹 채팅 서비스 개발하기](https://festa.io/events/2980)__
-  - 분류: `교육`, `NODE.JS`
-  - 주최: 지니공공아카데미
-  - 일시: 12. 15(목) 13:00 ~ 17:00
-- __[12월 Tech 세미나 - 지식그래프 알아보기](https://devocean.sk.com/events/view.do?id=153)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: DEVOCEAN
-  - 일시: 12. 15(목) 14:00 ~ 16:00
-- __[2022년 모두의 오픈데이터포럼](https://www.onoffmix.com/event/267531)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 오픈데이터포럼
-  - 일시: 12. 15(목) 14:00 ~ 17:00
-- __[DevFest 2022 Golang Korea](https://festa.io/events/2922)__
-  - 분류: `오프라인`, `Golang`
-  - 주최: Golang Korea
-  - 일시: 12. 15(목) 18:40 ~ 22:00
 - __[BUSAN DATA WEEK 2022](https://festa.io/events/2961)__
   - 분류: `오프라인`, `데이터`
   - 주최: DX Challenge
   - 일시: 12. 15(목) ~ 12. 16(금)
+
 - __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSRUG
@@ -146,6 +122,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: Meta Developer Circles: Seoul
   - 일시: 12. 21(수) 19:00 ~ 21:30
+- __[누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편](https://festa.io/events/2991)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 22(수) 11:00 ~ 12:00
 - __[우분투 오픈스택 코무 2022년 송년회](https://festa.io/events/2978)__
   - 분류: `오프라인`, `우분투`
   - 주최: 우분투한국커뮤니티
@@ -171,6 +151,10 @@
   - 주최: 커넥츠재단
   - 접수: 12. 07(수) ~ 01. 09(월)
 
+- __[STARTERS 취업 부트캠프 4기 모집](https://udemy.wjtb.co.kr/bootcamp/fourth)__
+  - 분류: `교육`, `데이터분석`
+  - 주최: 유데미
+  - 접수: 12. 14(수) ~ 01. 11(수)
 - __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
   - 분류: `채용`, `알고리즘`
   - 주최: 원티드
