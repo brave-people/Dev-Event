@@ -69,47 +69,15 @@
 <br />
 
 ## 22년 12월
-- __[BUSAN DATA WEEK 2022](https://festa.io/events/2961)__
-  - 분류: `오프라인`, `데이터`
-  - 주최: DX Challenge
-  - 일시: 12. 15(목) ~ 12. 16(금)
-
-- __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
-  - 분류: `오프라인`, `보안`
-  - 주최: AWSRUG
-  - 일시: 12. 17(토) 13:00
-- __[청년 IT 커리어 패널 토크 by 마이크로소프트 MVPs](https://festa.io/events/2959)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 마이로소프트 MVP
-  - 일시: 12. 17(토) 10:00 ~ 12:30
-- __[GDGXGDSC Merry Careermas (메리 커리어마스)](https://festa.io/events/2898)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Campus Korea
-  - 일시: 12. 17(토) ~ 12. 18(일)
-- __[DND 8기 모집](https://dnd.ac/)__
-  - 분류: `모임`
-  - 주최: DND
-  - 접수: 11. 20(일) ~ 12. 18(일)
-- __[F-Univ Camp](https://www.f-univ.kr/)__
-  - 분류: `온라인`, `FE`
-  - 주최: F-Univ Camp
-  - 일시: 12. 18(일) 13:00 ~ 15:00
-- __[2022 adiOS Something](https://festa.io/events/2904)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: adiOS
-  - 일시: 12. 18(일) 15:00 ~ 20:30
-- __[Today, meet tomorrow │ Google Maps Platform](https://festa.io/events/2957)__
-  - 분류: `오프라인`, `SPH`
-  - 주최: SPH
-  - 일시: 12. 18(일) 14:00 ~ 16:30
-- __[좋은 데이터는 누가, 어떻게 만드는가](https://www.upstage.ai/events/hcai-data)__
-  - 분류: `오프라인`, `AI`
+- __[좋은 데이터는 누가, 어떻게 만드는가](https://www.upstage.ai/events/hcai-data?utm_source=dev_event&utm_medium=click&utm_campaign=hcai_data)__
+  - 분류: `웨비나`, `데이터`
   - 주최: 업스테이지
-  - 일시: 12. 18(일) 20:00 ~ 21:30
-- __[현대모비스 채용연계형 SW 아카데미 2기 채용설명회](https://inthiswork.com/archives/31335)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 현대모비스
-  - 접수: 12. 15(목) ~ 12. 18(일)
+  - 일시: 12. 20(화) 20:00 ~ 21:30
+
+- __[12월 원티드살롱 (2022년 회고편)](https://www.wanted.co.kr/events/wantedsalon221221)__
+  - 분류: `오프라인`, `유료`, `커리어`
+  - 주최: 원티드
+  - 일시: 12. 21(수) 19:30 ~ 21:30
 - __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
   - 분류: `오프라인`, `밋업`
   - 주최: 컬리
@@ -146,11 +114,15 @@
 <br />
 
 ## 23년 01월
+- __[이직할 결심 I 원티드의 이직 응원 캠페인](https://www.wanted.co.kr/events/weekend)__
+  - 분류: `온라인`, `채용`
+  - 주최: 원티드
+  - 접수: 11. 10(목) ~ 01. 01(일)
+
 - __[부스트캠프 AI 모집](https://boostcamp.connect.or.kr/guide_ai.html)__
   - 분류: `온라인`, `교육`
   - 주최: 커넥츠재단
   - 접수: 12. 07(수) ~ 01. 09(월)
-
 - __[STARTERS 취업 부트캠프 4기 모집](https://udemy.wjtb.co.kr/bootcamp/fourth)__
   - 분류: `교육`, `데이터분석`
   - 주최: 유데미
