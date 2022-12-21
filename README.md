@@ -69,15 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[좋은 데이터는 누가, 어떻게 만드는가](https://www.upstage.ai/events/hcai-data?utm_source=dev_event&utm_medium=click&utm_campaign=hcai_data)__
-  - 분류: `웨비나`, `데이터`
-  - 주최: 업스테이지
-  - 일시: 12. 20(화) 20:00 ~ 21:30
-
 - __[12월 원티드살롱 (2022년 회고편)](https://www.wanted.co.kr/events/wantedsalon221221)__
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 원티드
   - 일시: 12. 21(수) 19:30 ~ 21:30
+
 - __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
   - 분류: `오프라인`, `밋업`
   - 주최: 컬리
@@ -123,6 +119,10 @@
   - 주최: 원티드
   - 접수: 11. 10(목) ~ 01. 01(일)
 
+- __[파이콘 한국 2023 홈페이지 개발 참여자 모집](https://info.pycon.kr/2023-dev-apply)__
+  - 분류: `온라인`, `모임`
+  - 주최: 파이콘
+  - 접수: 12. 21(수) ~ 01. 09(월)
 - __[부스트캠프 AI 모집](https://boostcamp.connect.or.kr/guide_ai.html)__
   - 분류: `온라인`, `교육`
   - 주최: 커넥츠재단
