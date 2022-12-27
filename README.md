@@ -69,51 +69,27 @@
 <br />
 
 ## 22년 12월
-- __[12월 원티드살롱 (2022년 회고편)](https://www.wanted.co.kr/events/wantedsalon221221)__
-  - 분류: `오프라인`, `유료`, `커리어`
-  - 주최: 원티드
-  - 일시: 12. 21(수) 19:30 ~ 21:30
-
-- __[Kurly Tech Meet Up](https://docs.google.com/forms/d/e/1FAIpQLSdTKbd3fwkJo-mMLalFNb1YZA_KtYV_9q0ZNY1KlTRkrDVjJA/viewform)__
-  - 분류: `오프라인`, `밋업`
-  - 주최: 컬리
-  - 일시: 12. 21(수) 19:00 ~ 21:00
-- __[AWSKRUG 보안 소모임 온라인 밋업](https://www.meetup.com/awskrug/events/290172123/)__
-  - 분류: `웨비나`, `모임`,  `보안`
-  - 주최: AWSKRUG
-  - 일시: 12. 21(수) 19:30 ~ 21:30
-- __[Spark AR Creator Days](https://festa.io/events/2966)__
-  - 분류: `웨비나`, `AI`
-  - 주최: Meta Developer Circles: Seoul
-  - 일시: 12. 21(수) 19:00 ~ 21:30
-- __[누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편](https://festa.io/events/2991)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 22(수) 11:00 ~ 12:00
-- __[우분투 오픈스택 코무 2022년 송년회](https://festa.io/events/2978)__
-  - 분류: `오프라인`, `우분투`
-  - 주최: 우분투한국커뮤니티
-  - 일시: 12. 23(금) 19:00 ~ 21:00
-- __[크리스마스의 패배자들(모여서각자해커톤)](https://festa.io/events/2998)__
-  - 분류: `유료`, `해커톤`
-  - 주최: 윤핵관모임
-  - 일시: 12. 24(토) ~ 12. 25(일)
-- __[개발자, 한 달에 책 한 권 읽기 2022년 12월 모임](https://festa.io/events/2941)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 달랩
-  - 일시: 12. 26(월) 19:30 ~ 21:30
 - __[Open cloud Platform PUB2023](https://onoffmix.com/event/267861)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 일시: 12. 27(화) 10:30 ~ 16:30
+
 - __[현대모비스 채용연계형 SW 아카데미 2기](https://inthiswork.com/archives/31335)__
   - 분류: `교육`
   - 주최: 현대모비스
   - 접수: 12. 14(수) ~ 12. 28(수)
+- __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편](https://festa.io/events/3004)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 12. 29(목) 11:00 ~ 12:00
 - __[크래프톤 AI FELLOWSHIP PROGRAM](https://aifellowship.krafton.com/)__
   - 분류: `교육`, `AI`
   - 주최: 크래프톤
   - 접수: 12. 12(월) ~ 12. 31(토)
+- __[YOUTHCON'22](https://frost-witch-afb.notion.site/YOUTHCON-22-a18e4511463a416e8befd99993355215)__
+  - 분류: `온라인`, `오프라인`, `기술일반`
+  - 주최: 유스콘
+  - 일시: 12. 31(토) 13:45 ~ 17:00
 
 <br />
 
@@ -123,6 +99,10 @@
   - 주최: 원티드
   - 접수: 11. 10(목) ~ 01. 01(일)
 
+- __[SPARCS 2023 StartUp Hackathon](https://hackathon.sparcs.org/)__
+  - 분류: `온라인`, `해커톤`
+  - 주최: SPARCS
+  - 접수: 12. 27(월) ~ 01. 06(금)
 - __[파이콘 한국 2023 홈페이지 개발 참여자 모집](https://info.pycon.kr/2023-dev-apply)__
   - 분류: `온라인`, `모임`
   - 주최: 파이콘
@@ -147,6 +127,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 01. 17(화) 14:00 ~ 17:00
+- __[.NET Conf 2023 x Seoul](https://festa.io/events/2923)__
+  - 분류: `오프라인`, `유료`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 01. 19(목) 09:30 ~ 18:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
