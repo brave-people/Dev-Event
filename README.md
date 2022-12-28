@@ -69,15 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[Open cloud Platform PUB2023](https://onoffmix.com/event/267861)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 일시: 12. 27(화) 10:30 ~ 16:30
-
 - __[현대모비스 채용연계형 SW 아카데미 2기](https://inthiswork.com/archives/31335)__
   - 분류: `교육`
   - 주최: 현대모비스
   - 접수: 12. 14(수) ~ 12. 28(수)
+
 - __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편](https://festa.io/events/3004)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -138,6 +134,10 @@
 - __[QA Korea Conference 2023](https://festa.io/events/2919)__
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아 컨퍼런스
+  - 일시: 01. 24(화) ~ 01. 26(목)
+- __[SPARCS 2023 StartUp Hackathon](https://festa.io/events/3006)__
+  - 분류: `컨퍼런스`, `QA`
+  - 주최: SPARCS
   - 일시: 01. 24(화) ~ 01. 26(목)
 
 <br />
