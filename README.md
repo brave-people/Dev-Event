@@ -69,15 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[현대모비스 채용연계형 SW 아카데미 2기](https://inthiswork.com/archives/31335)__
-  - 분류: `교육`
-  - 주최: 현대모비스
-  - 접수: 12. 14(수) ~ 12. 28(수)
-
 - __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편](https://festa.io/events/3004)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 12. 29(목) 11:00 ~ 12:00
+
 - __[크래프톤 AI FELLOWSHIP PROGRAM](https://aifellowship.krafton.com/)__
   - 분류: `교육`, `AI`
   - 주최: 크래프톤
@@ -95,6 +91,14 @@
   - 주최: 원티드
   - 접수: 11. 10(목) ~ 01. 01(일)
 
+- __[프리온보딩 백엔드 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_3)__
+  - 분류: `교육`, `벡엔드`
+  - 주최: 원티드
+  - 일시: 12. 22(목) ~ 01. 05(목)
+- __[프리온보딩 프론트엔드 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_fe_5)__
+  - 분류: `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 12. 22(목) ~ 01. 05(목)
 - __[SPARCS 2023 StartUp Hackathon](https://hackathon.sparcs.org/)__
   - 분류: `온라인`, `해커톤`
   - 주최: SPARCS
@@ -119,6 +123,10 @@
   - 분류: `웨비나`, `리눅스`
   - 주최: 리얼리눅스
   - 일시: 01. 11(수) 20:00 ~ 21:00
+- __[OKKY 2023년 1월 월간 세미나](https://okky.kr/articles/1380297)__
+  - 분류: `웨비나`, `AI`
+  - 주최: OKKY
+  - 일시: 12. 29(목) ~ 01. 12(목) 15:00
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
