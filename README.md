@@ -69,15 +69,11 @@
 <br />
 
 ## 22년 12월
-- __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편](https://festa.io/events/3004)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 29(목) 11:00 ~ 12:00
-
 - __[크래프톤 AI FELLOWSHIP PROGRAM](https://aifellowship.krafton.com/)__
   - 분류: `교육`, `AI`
   - 주최: 크래프톤
   - 접수: 12. 12(월) ~ 12. 31(토)
+
 - __[YOUTHCON'22](https://frost-witch-afb.notion.site/YOUTHCON-22-a18e4511463a416e8befd99993355215)__
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 유스콘
@@ -91,6 +87,14 @@
   - 주최: 원티드
   - 접수: 11. 10(목) ~ 01. 01(일)
 
+- __[Certificate Manager로 인증서 쉽게 관리하기](https://app.livestorm.co/naver-cloud/certificate-manager2)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 05(목) 11:00 ~ 12:00
+- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3017)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 접수: 12. 30(금) ~ 01. 05(목) 18:00
 - __[프리온보딩 백엔드 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_3)__
   - 분류: `교육`, `벡엔드`
   - 주최: 원티드
@@ -111,6 +115,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 커넥츠재단
   - 접수: 12. 07(수) ~ 01. 09(월)
+- __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/290550111/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 01. 10(화) 19:00 ~ 22:00
 - __[STARTERS 취업 부트캠프 4기 모집](https://udemy.wjtb.co.kr/bootcamp/fourth)__
   - 분류: `교육`, `데이터분석`
   - 주최: 유데미
