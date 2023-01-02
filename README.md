@@ -68,29 +68,12 @@
 
 <br />
 
-## 22년 12월
-- __[크래프톤 AI FELLOWSHIP PROGRAM](https://aifellowship.krafton.com/)__
-  - 분류: `교육`, `AI`
-  - 주최: 크래프톤
-  - 접수: 12. 12(월) ~ 12. 31(토)
-
-- __[YOUTHCON'22](https://frost-witch-afb.notion.site/YOUTHCON-22-a18e4511463a416e8befd99993355215)__
-  - 분류: `온라인`, `오프라인`, `기술일반`
-  - 주최: 유스콘
-  - 일시: 12. 31(토) 13:45 ~ 17:00
-
-<br />
-
 ## 23년 01월
-- __[이직할 결심 I 원티드의 이직 응원 캠페인](https://www.wanted.co.kr/events/weekend)__
-  - 분류: `온라인`, `채용`
-  - 주최: 원티드
-  - 접수: 11. 10(목) ~ 01. 01(일)
-
 - __[Certificate Manager로 인증서 쉽게 관리하기](https://app.livestorm.co/naver-cloud/certificate-manager2)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 05(목) 11:00 ~ 12:00
+
 - __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3017)__
   - 분류: `웨비나`, `커리어`
   - 주최: 메가테라
@@ -135,10 +118,18 @@
   - 분류: `웨비나`, `AI`
   - 주최: OKKY
   - 일시: 12. 29(목) ~ 01. 12(목) 15:00
+- __[플러터(Flutter) 핸즈온 교육](https://event-us.kr/cs/event/52445)__
+  - 분류: `웨비나`, `플러터`
+  - 주최: 코드스테이츠
+  - 일시: 01. 02(월) ~ 01. 12(목)
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 01. 17(화) 14:00 ~ 17:00
+- __[[MODUPOP x AI NODAJI]2023년 트렌드와 AI](https://festa.io/events/3026)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 01. 17(화) 19:30 ~ 22:00
 - __[.NET Conf 2023 x Seoul](https://festa.io/events/2923)__
   - 분류: `오프라인`, `유료`, `.net`
   - 주최: 닷넷데브
