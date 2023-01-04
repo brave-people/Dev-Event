@@ -123,10 +123,18 @@
   - 분류: `웨비나`, `AI`
   - 주최: OKKY
   - 일시: 12. 29(목) ~ 01. 12(목) 15:00
+- __[Hyperledger Meetup Korea #33 - 메타버스, STO, Hyperledger, BTC](https://festa.io/events/3032)__
+  - 분류: `웨비나`, `메타버스`
+  - 주최: Hyperledger Korea User Group
+  - 일시: 01. 12(목) 19:00 ~ 21:00
 - __[플러터(Flutter) 핸즈온 교육](https://event-us.kr/cs/event/52445)__
   - 분류: `웨비나`, `플러터`
   - 주최: 코드스테이츠
   - 일시: 01. 02(월) ~ 01. 12(목)
+- __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지 #1편](https://festa.io/events/3037)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 12(목) 11:00 ~ 12:00
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
