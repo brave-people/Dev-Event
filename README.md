@@ -115,6 +115,10 @@
   - 분류: `채용`, `알고리즘`
   - 주최: 원티드
   - 접수: 12. 14(수) ~ 01. 11(수)
+- __[스타트업을 위한 데이터 활용 노하우](https://blog.goorm.io/commit_4th/?utm_source=community&utm_medium=social&utm_campaign=commit&utm_content=dev_event&utm_term=4th)__
+  - 분류: `오프라인`, `데이터`
+  - 주최: 구름
+  - 일시: 01. 11(수) 19:00 ~ 21:30
 - __[리얼리눅스 무료세미나: 임베디드/IoT/서버 직장인을 위한 리눅스 커널교육](https://festa.io/events/2993)__
   - 분류: `웨비나`, `리눅스`
   - 주최: 리얼리눅스
@@ -147,10 +151,18 @@
   - 분류: `웨비나`, `카프카`
   - 주최: 오라클
   - 일시: 01. 18(수) 17:00 ~ 18:00
+- __[RDBMS 마이그레이션 전략](https://mongodbcom.website.prod.corp.mongodb.com/webinar/rdbms-migration-aws-atlas-co-webinar)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: mongoDB
+  - 일시: 01. 19(목) 14:00
 - __[.NET Conf 2023 x Seoul](https://festa.io/events/2923)__
   - 분류: `오프라인`, `유료`, `.net`
   - 주최: 닷넷데브
   - 일시: 01. 19(목) 09:30 ~ 18:00
+- __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
+  - 분류: `모임`, `swift`
+  - 주최: 스위프트 코딩클럽
+  - 접수: 01. 05(목) ~ 01. 20(금) 19:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
