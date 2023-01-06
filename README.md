@@ -70,27 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[Certificate Manager로 인증서 쉽게 관리하기](https://app.livestorm.co/naver-cloud/certificate-manager2)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 01. 05(목) 11:00 ~ 12:00
-
-- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3017)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 접수: 12. 30(금) ~ 01. 05(목) 18:00
-- __[프리온보딩 백엔드 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_3)__
-  - 분류: `교육`, `벡엔드`
-  - 주최: 원티드
-  - 일시: 12. 22(목) ~ 01. 05(목)
-- __[프리온보딩 프론트엔드 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_fe_5)__
-  - 분류: `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 12. 22(목) ~ 01. 05(목)
 - __[SPARCS 2023 StartUp Hackathon](https://hackathon.sparcs.org/)__
   - 분류: `온라인`, `해커톤`
   - 주최: SPARCS
   - 접수: 12. 27(월) ~ 01. 06(금)
+
 - __[삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강](https://samsungalgorithm.com/)__
   - 분류: `온라인`, `알고리즘`
   - 주최: 삼성전자
@@ -131,6 +115,10 @@
   - 분류: `웨비나`, `메타버스`
   - 주최: Hyperledger Korea User Group
   - 일시: 01. 12(목) 19:00 ~ 21:00
+- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3047)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 01. 10(화) 19:30 ~ 01. 12(목)
 - __[플러터(Flutter) 핸즈온 교육](https://event-us.kr/cs/event/52445)__
   - 분류: `웨비나`, `플러터`
   - 주최: 코드스테이츠
