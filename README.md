@@ -70,15 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[AWSKRUG 서버리스 모임](https://www.meetup.com/awskrug/events/290550111/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 01. 10(화) 19:00 ~ 22:00
-
 - __[STARTERS 취업 부트캠프 4기 모집](https://udemy.wjtb.co.kr/bootcamp/fourth)__
   - 분류: `교육`, `데이터분석`
   - 주최: 유데미
   - 접수: 12. 14(수) ~ 01. 11(수)
+
 - __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
   - 분류: `채용`, `알고리즘`
   - 주최: 원티드
@@ -123,6 +119,10 @@
   - 분류: `웨비나`, `카프카`
   - 주최: 오라클
   - 일시: 01. 18(수) 17:00 ~ 18:00
+- __[Elastic Search를 만나보세요](https://festa.io/events/3060)__
+  - 분류: `웨비나`, `Elastic Search`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 19(목) 11:00 ~ 12:00
 - __[RDBMS 마이그레이션 전략](https://mongodbcom.website.prod.corp.mongodb.com/webinar/rdbms-migration-aws-atlas-co-webinar)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: mongoDB
@@ -151,6 +151,10 @@
   - 분류: `모임`, `스터디`
   - 주최: 달랩
   - 접수: 01. 10(화) ~ 01. 30(월)
+- __[신한DS 금융SW 아카데미](https://www.shinhanacademy.com/)__
+  - 분류: `교육`
+  - 주최: 신한DS
+  - 접수: 01. 01(일) ~ 01. 31(화)
 
 <br />
 
