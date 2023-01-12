@@ -70,27 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[STARTERS 취업 부트캠프 4기 모집](https://udemy.wjtb.co.kr/bootcamp/fourth)__
-  - 분류: `교육`, `데이터분석`
-  - 주최: 유데미
-  - 접수: 12. 14(수) ~ 01. 11(수)
-
-- __[쇼미더코드 (Show Me The Code) : 원티드 주관 코딩테스트 대회](https://www.wanted.co.kr/events/showmethecode)__
-  - 분류: `채용`, `알고리즘`
-  - 주최: 원티드
-  - 접수: 12. 14(수) ~ 01. 11(수)
-- __[스타트업을 위한 데이터 활용 노하우](https://blog.goorm.io/commit_4th/?utm_source=community&utm_medium=social&utm_campaign=commit&utm_content=dev_event&utm_term=4th)__
-  - 분류: `오프라인`, `데이터`
-  - 주최: 구름
-  - 일시: 01. 11(수) 19:00 ~ 21:30
-- __[리얼리눅스 무료세미나: 임베디드/IoT/서버 직장인을 위한 리눅스 커널교육](https://festa.io/events/2993)__
-  - 분류: `웨비나`, `리눅스`
-  - 주최: 리얼리눅스
-  - 일시: 01. 11(수) 20:00 ~ 21:00
 - __[OKKY 2023년 1월 월간 세미나](https://okky.kr/articles/1380297)__
   - 분류: `웨비나`, `AI`
   - 주최: OKKY
   - 일시: 12. 29(목) ~ 01. 12(목) 15:00
+  
 - __[Hyperledger Meetup Korea #33 - 메타버스, STO, Hyperledger, BTC](https://festa.io/events/3032)__
   - 분류: `웨비나`, `메타버스`
   - 주최: Hyperledger Korea User Group
@@ -107,6 +91,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 12(목) 11:00 ~ 12:00
+- __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/290844322/)__
+  - 분류: `모임`,  `보안`
+  - 주최: AWSKRUG
+  - 일시: 01. 16(월) 19:00 ~ 21:30
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
@@ -115,6 +103,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 01. 17(화) 19:30 ~ 22:00
+- __[AWSKRUG 판소 소모임](https://www.meetup.com/awskrug/events/290666214/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 01. 17(화) 19:00 ~ 21:00
 - __[스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://go.oracle.com/LP=133117)__
   - 분류: `웨비나`, `카프카`
   - 주최: 오라클
@@ -143,6 +135,10 @@
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아 컨퍼런스
   - 일시: 01. 24(화) ~ 01. 26(목)
+- __[제 17회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/269081)__
+  - 분류: `컨퍼런스`, `QA`
+  - 주최: BOAZ
+  - 일시: 01. 28(토) 13:00 ~ 18:00
 - __[SPARCS 2023 StartUp Hackathon](https://festa.io/events/3006)__
   - 분류: `유료`, `모임`
   - 주최: SPARCS
