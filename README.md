@@ -70,31 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[OKKY 2023년 1월 월간 세미나](https://okky.kr/articles/1380297)__
-  - 분류: `웨비나`, `AI`
-  - 주최: OKKY
-  - 일시: 12. 29(목) ~ 01. 12(목) 15:00
-  
-- __[Hyperledger Meetup Korea #33 - 메타버스, STO, Hyperledger, BTC](https://festa.io/events/3032)__
-  - 분류: `웨비나`, `메타버스`
-  - 주최: Hyperledger Korea User Group
-  - 일시: 01. 12(목) 19:00 ~ 21:00
-- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3047)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 01. 10(화) 19:30 ~ 01. 12(목)
-- __[플러터(Flutter) 핸즈온 교육](https://event-us.kr/cs/event/52445)__
-  - 분류: `웨비나`, `플러터`
-  - 주최: 코드스테이츠
-  - 일시: 01. 02(월) ~ 01. 12(목)
-- __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지 #1편](https://festa.io/events/3037)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 01. 12(목) 11:00 ~ 12:00
 - __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/290844322/)__
   - 분류: `모임`,  `보안`
   - 주최: AWSKRUG
   - 일시: 01. 16(월) 19:00 ~ 21:30
+
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
@@ -135,6 +115,14 @@
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아 컨퍼런스
   - 일시: 01. 24(화) ~ 01. 26(목)
+- __[AWSKRUG #architecture - 38번째 소모임](https://www.meetup.com/awskrug/events/290763801/)__
+  - 분류: `모임`, `아키텍쳐`
+  - 주최: AWSKRUG
+  - 일시: 01. 26(목) 19:30 ~ 21:30
+- __[2023 BUNNYTHON[0]](https://festa.io/events/3035)__
+  - 분류: `해커톤`
+  - 주최: Haedal Programming Inc
+  - 일시: 01. 26(목) ~ 01. 27(금)
 - __[제 17회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/269081)__
   - 분류: `컨퍼런스`, `QA`
   - 주최: BOAZ
