@@ -110,8 +110,8 @@
     <td> <a href="https://toss.im/slash-22"> 토스 개발자 컨퍼런스 SLASH 22 </a> </td>
     <td> <a href="https://toss.im/slash-22"> 홈페이지 </a> </td>
     <td> <code> 기술일반 </code> </td>
+    <td> 토스 </td>
     <td> 06. 08 ~ 06. 10 </td>
-    <td>  </td>
   </tr>
   <tr>
     <td> <a href="https://developer.apple.com/wwdc21/"> WWDC 2022 </a> </td>

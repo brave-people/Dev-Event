@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-78-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-80-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -62,135 +62,137 @@
 - 지난 행사
   - 2020년: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
   - 2021년: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md), [12월](./2021/21_12.md)
-  - 2022년: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md), [04월](./2022/22_04.md), [05월](./2022/22_05.md), [06월](./2022/22_06.md), [07월](./2022/22_07.md), [08월](./2022/22_08.md), [09월](./2022/22_09.md), [10월](./2022/22_10.md)
+  - 2022년: [01월](./2022/22_01.md), [02월](./2022/22_02.md), [03월](./2022/22_03.md), [04월](./2022/22_04.md), [05월](./2022/22_05.md), [06월](./2022/22_06.md), [07월](./2022/22_07.md), [08월](./2022/22_08.md), [09월](./2022/22_09.md), [10월](./2022/22_10.md), [11월](./2022/22_11.md), [12월](./2022/22_12.md)
+  - 2023년: [01월](./2023/23_01.md)
 - 지난 개발자 행사 다시보기: [바로가기](./replay_event/replay_event.md)
 - 개발자 행사 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
-## 22년 12월
-- __[삼성SDS 시스템개발/운영](https://www.catch.co.kr/CatchClass/Live/View/5623)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 캐치
-  - 일시: 12. 05(월) 19:30 ~ 21:00
-
-- __[[MODUPOP] 개발자의 강화학습](https://festa.io/events/2937)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 12. 06(화) 19:30 ~ 20:30
-- __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 행정안전부
-  - 일시: 12. 07(수) 13:30 ~ 16:30
-- __[제29회 SW 품질 인사이트 컨퍼런스](http://sw-seminar.kr/)__
-  - 분류: `온라인`, `오프라인`, `SW`
-  - 주최: 정보통신산업진흥원
-  - 일시: 12. 07(수) 13:30 ~ 17:40
-- __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/290054105)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 12. 08(목) 19:00
- - __[11번가 TechTalk 2022](https://techtalk.11stcorp.com/)__
-   - 분류: `온라인`, `컨퍼런스`
-   - 주최: 11번가
-   - 일시: 12. 07(수) ~ 12. 08(목)
-- __[삼성SDS 2023 상반기 알고리즘 특강 신청서](https://docs.google.com/forms/d/e/1FAIpQLSesJYzo05L81O5h4nIhmWJWE4L_AQ2Ep90m89b8jn0ySO-xIw/viewform)__
-  - 분류: `온라인`, `알고리즘`
-  - 주최: 삼성SDS
-  - 일시: 12. 01(목) ~ 12. 09(금)
-- __[그랜드 클라우드 컨퍼런스 2022](https://www.meetup.com/awskrug/events/290054105)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 일시: 12. 08(목) ~ 12. 09(금)
-- __[if(kakao)dev2022](https://if.kakao.com/)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: 카카오
-  - 일시: 12. 07(수) ~ 12. 09(금)
-- __[2022 전자정부 표준프레임워크 신버전 발표회](https://www.onoffmix.com/event/266437)__
-  - 분류: `온라인`, `전자정부프레임워크`
-  - 주최: 행정안전부
-  - 일시: 11. 07(월) ~ 12. 09(금)
-- __[수돗물 수요예측 AI 알고리즘 개발](https://aifactory.space/competition/detail/2143)__
-  - 분류: `대회`, `AI`
-  - 주최: 한국수자원공사
-  - 일시: 11. 07(월) ~ 12. 09(금)
-- __[DevFest 2022 WebTech](https://festa.io/events/2893)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Korea
-  - 일시: 12. 10(토) 16:00 ~ 19:00
-- __[카카오엔터프라이즈와 함께 하는 K-Digital Training 8기](https://allforyoung.com/posts/23270)__
-  - 분류: `교육`, `인프라`, `AI`
-  - 주최: 구름
-  - 접수: 11. 14(월) ~ 12. 11(일)
-- __[뽑히는 개발자의 포트폴리오](https://www.wanted.co.kr/events/udemykorea_resume)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 일시: 12. 12(월) 20:00 ~ 22:00
-- __[NeurIPS 2022 AI Leaders Forum](https://festa.io/events/2870)__
-  - 분류: `온라인`, `AI`
-  - 주최: SELECTSTAR
-  - 일시: 12. 13(화) 10:00 ~ 13:00
-- __[GCP 입문을 위한 hands-on Labs day 2022 seanson3](https://gc.hosting.kr/gcp_labsday-2022-3/)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 메가존소프트
-  - 일시: 12. 13(화) 13:00 ~ 17:00
-- __[NAVER Cloud SUMMIT 2022](https://www.ncloud-online.com/navercloudsummit2022/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 12. 14(수) 11:00 ~ 18:00
-- __[한단계 진화한 GraalVM, Spring Native 활용해보기](https://go.oracle.com/LP=132582)__
-  - 분류: `웨비나`, `Java`
-  - 주최: 오라클
-  - 일시: 12. 14(수) 17:00 ~ 18:00
-- __[AWSKRUG 데이터사이언스모임](https://www.meetup.com/awskrug/events/289741122/)__
-  - 분류: `오프라인`, `데이터사이언스`
-  - 주최: AWSKRUG
-  - 일시: 12. 14(수) 19:00
-- __[카페24 NFT 활용 이커머스 성공전략 웨비나](https://festa.io/events/2947)__
-  - 분류: `웨비나`, `NFT`
-  - 주최: 카페24
-  - 일시: 12. 15(목) 14:00 ~ 15:00
-- __[DevFest 2022 Golang Korea](https://festa.io/events/2922)__
-  - 분류: `오프라인`, `Golang`
-  - 주최: Golang Korea
-  - 일시: 12. 15(목) 18:40 ~ 22:00
-- __[AWSKRUG 보안 핸즈온 밋업](https://www.meetup.com/awskrug/events/289552699/)__
-  - 분류: `오프라인`, `보안`
-  - 주최: AWSRUG
-  - 일시: 12. 17(토) 13:00
-- __[GDGXGDSC Merry Careermas (메리 커리어마스)](https://festa.io/events/2898)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Campus Korea
-  - 일시: 12. 17(토) ~ 12. 18(일)
-- __[2022 adiOS Something](https://festa.io/events/2904)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: adiOS
-  - 일시: 12. 18(일) 15:00 ~ 20:30
-- __[개발자, 한 달에 책 한 권 읽기 2022년 12월 모임](https://festa.io/events/2941)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 달랩
-  - 일시: 12. 26(월) 19:30 ~ 21:30
-
-<br />
-
 ## 23년 01월
+- __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 01. 17(화) 14:00 ~ 17:00
+
+- __[[MODUPOP x AI NODAJI]2023년 트렌드와 AI](https://festa.io/events/3026)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 01. 17(화) 19:30 ~ 22:00
+- __[AWSKRUG 판소 소모임](https://www.meetup.com/awskrug/events/290666214/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 01. 17(화) 19:00 ~ 21:00
+- __[스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://go.oracle.com/LP=133117)__
+  - 분류: `웨비나`, `카프카`
+  - 주최: 오라클
+  - 일시: 01. 18(수) 17:00 ~ 18:00
+- __[Elastic Search를 만나보세요](https://festa.io/events/3060)__
+  - 분류: `웨비나`, `Elastic Search`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 01. 19(목) 11:00 ~ 12:00
+- __[RDBMS 마이그레이션 전략](https://mongodbcom.website.prod.corp.mongodb.com/webinar/rdbms-migration-aws-atlas-co-webinar)__
+  - 분류: `웨비나`, `mongoDB`
+  - 주최: mongoDB
+  - 일시: 01. 19(목) 14:00
+- __[.NET Conf 2023 x Seoul](https://festa.io/events/2923)__
+  - 분류: `오프라인`, `유료`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 01. 19(목) 09:30 ~ 18:00
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/290666942/)__
+  - 분류: `오프라인`, `컨테이너`
+  - 주최: AWSKRUG
+  - 일시: 01. 19(목) 19:00 ~ 21:00
+- __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
+  - 분류: `모임`, `swift`
+  - 주최: 스위프트 코딩클럽
+  - 접수: 01. 05(목) ~ 01. 20(금) 19:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
   - 일시: 01. 24(화) ~ 01. 26(목)
-
 - __[QA Korea Conference 2023](https://festa.io/events/2919)__
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아 컨퍼런스
   - 일시: 01. 24(화) ~ 01. 26(목)
+- __[AWSKRUG #architecture - 38번째 소모임](https://www.meetup.com/awskrug/events/290763801/)__
+  - 분류: `모임`, `아키텍쳐`
+  - 주최: AWSKRUG
+  - 일시: 01. 26(목) 19:30 ~ 21:30
+- __[2023 BUNNYTHON[0]](https://festa.io/events/3035)__
+  - 분류: `해커톤`
+  - 주최: Haedal Programming Inc
+  - 일시: 01. 26(목) ~ 01. 27(금)
+- __[제 17회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/269081)__
+  - 분류: `컨퍼런스`, `빅데이터`
+  - 주최: BOAZ
+  - 일시: 01. 28(토) 13:00 ~ 18:00
+- __[QA 코리아 컨퍼런스 2023](https://festa.io/events/2919)__
+  - 분류: `컨퍼런스`, `QA`
+  - 주최: QA 코리아
+  - 일시: 01. 28(토) 14:00 ~ 17:30
+- __[sudo: 개발자 원칙 2023 컨퍼런스](https://fastcampus.co.kr/devcon_sudo23)__
+  - 분류: `컨퍼런스`, `개발일반`
+  - 주최: 패스트캠퍼스
+  - 일시: 01. 28(토) 13:00 ~ 18:25
+- __[SPARCS 2023 StartUp Hackathon](https://festa.io/events/3006)__
+  - 분류: `유료`, `모임`
+  - 주최: SPARCS
+  - 일시: 01. 27(금) ~ 01. 29(일)
+- __[개발자, 한 달에 책 한 권 읽기 2023년 1월 모임](https://festa.io/events/3058)__
+  - 분류: `모임`, `스터디`
+  - 주최: 달랩
+  - 접수: 01. 10(화) ~ 01. 30(월)
+- __[신한DS 금융SW 아카데미](https://www.shinhanacademy.com/)__
+  - 분류: `교육`
+  - 주최: 신한DS
+  - 접수: 01. 01(일) ~ 01. 31(화)
+- __[AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지](https://festa.io/events/3057)__
+  - 분류: `교육`, `클라우드`
+  - 주최: LG CNS
+  - 일시: 01. 31(화) 19:00 ~ 20:05
 
 <br />
 
 ## 23년 02월
+- __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기](https://go.oracle.com/LP=133300)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클 클라우드
+  - 일시: 02. 02(목) 14:00 ~ 15:30
+
+- __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
+  - 분류: `오프라인`, `코틀린`
+  - 주최: 인프런
+  - 접수: 01. 19(목) ~ 02. 06(월)
+- __[소프트웨어 마에스트로 14기 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 소프트웨어 마에스트로
+  - 접수: 01. 09(월) ~ 02. 09(목)
+- __[엘리스 SW 4기 모집](https://festa.io/events/3051)__
+  - 분류: `온라인`, `교육`
+  - 주최: 엘리스 교육
+  - 접수: 01. 09(월) ~ 02. 12(일)
+- __[엘리스 AI 트랙 4기 모집](https://festa.io/events/3050)__
+  - 분류: `온라인`, `교육`
+  - 주최: 엘리스 교육
+  - 접수: 01. 09(월) ~ 02. 12(일)
 - __[네이버 DEVIEW 2023](https://deview.kr/2023)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
   - 일시: 02. 27(월) ~ 02. 28(화)
+- __[[Codeit Prize] 코딩 교육 콘텐츠 만들기](https://www.codeit-prize.codeit.com/)__
+  - 분류: `교육`
+  - 주최: 코드잇
+  - 일시: 11. 09(수) ~ 02. 28(화)
+
+<br />
+
+## 23년 03월
+- __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: iOS Daejeon Club
+  - 일시: 03. 26(일) 14:00 ~ 20:00
+
 
 ----------------
 
@@ -423,6 +425,8 @@
     </tr>
     <tr>
       <td align="center"><a href="https://jopemachine.github.io/"><img src="https://avatars.githubusercontent.com/u/18283033?v=4?s=100" width="100px;" alt="Gyubong"/><br /><sub><b>Gyubong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jopemachine" title="Code">💻</a></td>
+      <td align="center"><a href="https://jdhyeok.tistory.com/"><img src="https://avatars.githubusercontent.com/u/70086033?v=4?s=100" width="100px;" alt="JDhyeok"/><br /><sub><b>JDhyeok</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JDhyeok" title="Code">💻</a></td>
+      <td align="center"><a href="https://green1052.com"><img src="https://avatars.githubusercontent.com/u/34261355?v=4?s=100" width="100px;" alt="green1052"/><br /><sub><b>green1052</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=green1052" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
