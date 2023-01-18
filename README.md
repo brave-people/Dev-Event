@@ -147,7 +147,7 @@
   - 분류: `교육`
   - 주최: 신한DS
   - 접수: 01. 01(일) ~ 01. 31(화)
-- __[AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지](https://festa.io/events/3057)__
+- __[AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지](https://festa.io/events/3064)__
   - 분류: `교육`, `클라우드`
   - 주최: LG CNS
   - 일시: 01. 31(화) 19:00 ~ 20:05
