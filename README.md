@@ -70,15 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/290844322/)__
-  - 분류: `모임`,  `보안`
-  - 주최: AWSKRUG
-  - 일시: 01. 16(월) 19:00 ~ 21:30
-
 - __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 01. 17(화) 14:00 ~ 17:00
+
 - __[[MODUPOP x AI NODAJI]2023년 트렌드와 AI](https://festa.io/events/3026)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -103,6 +99,10 @@
   - 분류: `오프라인`, `유료`, `.net`
   - 주최: 닷넷데브
   - 일시: 01. 19(목) 09:30 ~ 18:00
+- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/290666942/)__
+  - 분류: `오프라인`, `컨테이너`
+  - 주최: AWSKRUG
+  - 일시: 01. 19(목) 19:00 ~ 21:00
 - __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
   - 분류: `모임`, `swift`
   - 주최: 스위프트 코딩클럽
@@ -160,6 +160,10 @@
   - 주최: 오라클 클라우드
   - 일시: 02. 02(목) 14:00 ~ 15:30
 
+- __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
+  - 분류: `오프라인`, `코틀린`
+  - 주최: 인프런
+  - 접수: 01. 19(목) ~ 02. 06(월)
 - __[소프트웨어 마에스트로 14기 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
   - 분류: `오프라인`, `교육`
   - 주최: 소프트웨어 마에스트로
