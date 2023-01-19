@@ -70,27 +70,11 @@
 <br />
 
 ## 23년 01월
-- __[NVIDIA AI 개발자 밋업 - LLM / Speech AI](https://festa.io/events/2981)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 01. 17(화) 14:00 ~ 17:00
-
-- __[[MODUPOP x AI NODAJI]2023년 트렌드와 AI](https://festa.io/events/3026)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 01. 17(화) 19:30 ~ 22:00
-- __[AWSKRUG 판소 소모임](https://www.meetup.com/awskrug/events/290666214/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 01. 17(화) 19:00 ~ 21:00
-- __[스트리밍 데이터 파이프라인을 위한 OCI 관리형 카프카(Kafka) 서비스 뽀개기](https://go.oracle.com/LP=133117)__
-  - 분류: `웨비나`, `카프카`
-  - 주최: 오라클
-  - 일시: 01. 18(수) 17:00 ~ 18:00
 - __[Elastic Search를 만나보세요](https://festa.io/events/3060)__
   - 분류: `웨비나`, `Elastic Search`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 01. 19(목) 11:00 ~ 12:00
+
 - __[RDBMS 마이그레이션 전략](https://mongodbcom.website.prod.corp.mongodb.com/webinar/rdbms-migration-aws-atlas-co-webinar)__
   - 분류: `웨비나`, `mongoDB`
   - 주최: mongoDB
@@ -103,6 +87,10 @@
   - 분류: `오프라인`, `컨테이너`
   - 주최: AWSKRUG
   - 일시: 01. 19(목) 19:00 ~ 21:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/290976294/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 25(수) 19:30 ~ 21:00
 - __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
   - 분류: `모임`, `swift`
   - 주최: 스위프트 코딩클럽
@@ -151,6 +139,10 @@
   - 분류: `교육`, `클라우드`
   - 주최: LG CNS
   - 일시: 01. 31(화) 19:00 ~ 20:05
+- __[커뮤니티로 AI 필드 스며들기 : 실전가이드](https://festa.io/events/3070)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 01. 31(화) 19:30 ~ 20:30
 
 <br />
 
