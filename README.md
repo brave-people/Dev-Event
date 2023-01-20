@@ -135,31 +135,19 @@
 <br />
 
 ## 23년 01월
-- __[Elastic Search를 만나보세요](https://festa.io/events/3060)__
-  - 분류: `웨비나`, `Elastic Search`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 01. 19(목) 11:00 ~ 12:00
-
-- __[RDBMS 마이그레이션 전략](https://mongodbcom.website.prod.corp.mongodb.com/webinar/rdbms-migration-aws-atlas-co-webinar)__
-  - 분류: `웨비나`, `mongoDB`
-  - 주최: mongoDB
-  - 일시: 01. 19(목) 14:00
-- __[.NET Conf 2023 x Seoul](https://festa.io/events/2923)__
-  - 분류: `오프라인`, `유료`, `.net`
-  - 주최: 닷넷데브
-  - 일시: 01. 19(목) 09:30 ~ 18:00
-- __[AWSKRUG 컨테이너 소모임](https://www.meetup.com/awskrug/events/290666942/)__
-  - 분류: `오프라인`, `컨테이너`
-  - 주최: AWSKRUG
-  - 일시: 01. 19(목) 19:00 ~ 21:00
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/290976294/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 25(수) 19:30 ~ 21:00
 - __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
   - 분류: `모임`, `swift`
   - 주최: 스위프트 코딩클럽
   - 접수: 01. 05(목) ~ 01. 20(금) 19:00
+
+- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3047)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 01. 25(수) 19:00 ~ 21:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/290976294/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 25(수) 19:30 ~ 21:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
@@ -233,6 +221,10 @@
   - 분류: `온라인`, `교육`
   - 주최: 엘리스 교육
   - 접수: 01. 09(월) ~ 02. 12(일)
+- __[2023 First100 스타트업 이직 프로그램](https://groupby.oopy.io/program/first100)__
+  - 분류: `채용`
+  - 주최: 그룹바이
+  - 접수: 01. 16(월) ~ 02. 15(수)
 - __[네이버 DEVIEW 2023](https://deview.kr/2023)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
@@ -241,6 +233,10 @@
   - 분류: `교육`
   - 주최: 코드잇
   - 일시: 11. 09(수) ~ 02. 28(화)
+- __[프로메테우스 스타트업 해커톤](https://aifactory.space/competition/detail/2241)__
+  - 분류: `해커톤`
+  - 주최: 프로메테우스
+  - 일시: 01. 18(수) ~ 02. 28(화)
 
 <br />
 
