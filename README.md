@@ -8,6 +8,7 @@
 
 </div>
 
+<!-- pev web banner -->
 <br />
 <br />
 
@@ -18,6 +19,8 @@
 
 <br />
 <br />
+
+<!-- // pev web banner -->
 
 👉 [데브 이벤트 웹 바로가기](https://dev-event.vercel.app/events)
 
