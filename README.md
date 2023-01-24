@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](./static/title-v3-lg.png)
+![img](https://github.com/brave-people/Dev-Event/blob/master/static/title-v3-lg.png?raw=true)
 
 </div>
 <br />
@@ -32,24 +32,24 @@
 <tr>
   <td valign="top" width="50%">
     <a href="https://dev-event.vercel.app/events">
-      <img src="./static/banner/banner5.png" align="left" style="width: 98%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner5.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
-      <img src="./static/banner/banner1.png" align="left" style="width: 98%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner1.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
 <tr>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event-Android">
-      <img src="./static/banner/banner2.png" align="left" style="width: 98%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner2.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event#contributors-">
-      <img src="./static/banner/banner3.png" align="left" style="width: 98%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner3.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
@@ -139,15 +139,11 @@
 <br />
 
 ## 23년 01월
-- __[스위프트 코딩클럽 2023 1분기 활동멤버 모집](https://festa.io/events/3040)__
-  - 분류: `모임`, `swift`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 01. 05(목) ~ 01. 20(금) 19:00
-
 - __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3047)__
   - 분류: `웨비나`, `커리어`
   - 주최: 메가테라
   - 일시: 01. 25(수) 19:00 ~ 21:00
+
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/290976294/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -204,11 +200,27 @@
 <br />
 
 ## 23년 02월
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/291017042/)__
+  - 분류: `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 02. 01(수) 19:30 ~ 21:30
+
+- __[프리온보딩 Android 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_android_2)__
+  - 분류: `웨비나`, `안드로이드`
+  - 주최: 원티드
+  - 접수: 01. 18(수) ~ 02. 02(목)
+- __[프리온보딩 프론트엔드 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_6)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 01. 18(수) ~ 02. 02(목)
+- __[프리온보딩 백엔드 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_be_4)__
+  - 분류: `웨비나`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 01. 18(수) ~ 02. 02(목)
 - __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기](https://go.oracle.com/LP=133300)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클 클라우드
   - 일시: 02. 02(목) 14:00 ~ 15:30
-
 - __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
   - 분류: `오프라인`, `코틀린`
   - 주최: 인프런
@@ -276,9 +288,7 @@
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
 
-<br />
-
-더 많은 모임을 만나고 싶다면? [meetup.com](https://www.meetup.com/ko-KR/find/tech/)
+> :arrow_double_up: [Top](#지난-행사-기록)
 
 <br />
 
@@ -297,6 +307,8 @@
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
 | 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
+
+> :arrow_double_up: [Top](#지난-행사-기록)
 
 <br />
 
@@ -351,6 +363,9 @@
 | Tensorflow KR | [facebook](https://www.facebook.com/groups/TensorFlowKR/about) |
 | Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
 | 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
+| JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
+
+> :arrow_double_up: [Top](#지난-행사-기록)
 
 
 <br />
@@ -370,6 +385,8 @@
 | DACON | [dacon.io](https://dacon.io) |
 | FEConf | [feconf.kr](https://feconf.kr/)|
 | JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)|
+
+> :arrow_double_up: [Top](#지난-행사-기록)
 
 <br />
 <br />
