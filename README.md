@@ -139,19 +139,11 @@
 <br />
 
 ## 23년 01월
-- __[개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3047)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 01. 25(수) 19:00 ~ 21:00
-
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/290976294/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 25(수) 19:30 ~ 21:00
 - __[Spring One](https://springone.io/)__
   - 분류: `컨퍼런스`, `온라인`, `스프링`
   - 주최: spring
   - 일시: 01. 24(화) ~ 01. 26(목)
+  
 - __[QA Korea Conference 2023](https://festa.io/events/2919)__
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아 컨퍼런스
@@ -180,6 +172,10 @@
   - 분류: `컨퍼런스`, `QA`
   - 주최: QA 코리아
   - 일시: 01. 28(토) 14:00 ~ 17:30
+- __[DEV. DESIGN CONFERENCE](https://techit.education/event/ddcon)__
+  - 분류: `컨퍼런스`, `개발일반`
+  - 주최: 멋쨍이사자처럼
+  - 일시: 01. 28(토) 11:00 ~ 17:35
 - __[sudo: 개발자 원칙 2023 컨퍼런스](https://fastcampus.co.kr/devcon_sudo23)__
   - 분류: `컨퍼런스`, `개발일반`
   - 주최: 패스트캠퍼스
@@ -212,11 +208,19 @@
 <br />
 
 ## 23년 02월
+- __[인사이트 1초컷, 데이터 시각화 (아드리엘 아카데미 #4)](https://www.adriel.com/ko/webinar/adriel-academy?utm_source=festa)__
+  - 분류: `웨비나`, `시각화`
+  - 주최: 아드리엘
+  - 일시: 02. 01(수) 16:00 ~ 17:00
+
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/291017042/)__
+  - 분류: `웨비나`, `시각화`
+  - 주최: AWSKRUG
+  - 일시: 02. 01(수) 19:30 ~ 21:30
 - __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/291017042/)__
   - 분류: `오프라인`, `프론트엔드`
   - 주최: AWSKRUG
   - 일시: 02. 01(수) 19:30 ~ 21:30
-
 - __[프리온보딩 Android 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_android_2)__
   - 분류: `웨비나`, `안드로이드`
   - 주최: 원티드
@@ -257,6 +261,10 @@
   - 분류: `채용`
   - 주최: 그룹바이
   - 접수: 01. 16(월) ~ 02. 15(수)
+- __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
+  - 분류: `웨비나`, `모니터링`
+  - 주최: DATADOG
+  - 일시: 02. 17(금)
 - __[네이버 DEVIEW 2023](https://deview.kr/2023)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
