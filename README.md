@@ -139,31 +139,11 @@
 <br />
 
 ## 23년 01월
-- __[Spring One](https://springone.io/)__
-  - 분류: `컨퍼런스`, `온라인`, `스프링`
-  - 주최: spring
-  - 일시: 01. 24(화) ~ 01. 26(목)
-  
-- __[QA Korea Conference 2023](https://festa.io/events/2919)__
-  - 분류: `컨퍼런스`, `QA`
-  - 주최: QA 코리아 컨퍼런스
-  - 일시: 01. 24(화) ~ 01. 26(목)
-- __[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지 #2편](http://app.livestorm.co/p/621ac3e4-8c00-47db-a597-96f32024ed0f)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 네이버 클라우드
-  - 일시: 01. 26(목) 11:00 ~ 12:00
-- __[우아한 테크세미나: 배민송년회 퀴즈 서비스, 한 달 안에 만들기](https://techblog.woowahan.com/10430/)__
-  - 분류: `웨비나`
-  - 주최: 우아한형제들
-  - 일시: 01. 26(목) 19:00 ~ 20:30
-- __[AWSKRUG #architecture - 38번째 소모임](https://www.meetup.com/awskrug/events/290763801/)__
-  - 분류: `모임`, `아키텍쳐`
-  - 주최: AWSKRUG
-  - 일시: 01. 26(목) 19:30 ~ 21:30
 - __[2023 BUNNYTHON[0]](https://festa.io/events/3035)__
   - 분류: `해커톤`
   - 주최: Haedal Programming Inc
   - 일시: 01. 26(목) ~ 01. 27(금)
+
 - __[제 17회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/269081)__
   - 분류: `컨퍼런스`, `빅데이터`
   - 주최: BOAZ
@@ -194,7 +174,7 @@
   - 접수: 01. 01(일) ~ 01. 31(화)
 - __[2023년 클라우드/테크 시장의 기술과 트렌드](https://cloudon.nhn.com/webinar?idx=13)__
   - 분류: `교육`, `클라우드`
-  - 주최: LG CNS
+  - 주최: NHN Cloud
   - 일시: 01. 31(화) 14:00 ~ 15:00
 - __[AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지](https://festa.io/events/3064)__
   - 분류: `교육`, `클라우드`
@@ -225,6 +205,10 @@
   - 분류: `웨비나`, `안드로이드`
   - 주최: 원티드
   - 접수: 01. 18(수) ~ 02. 02(목)
+- __[실리콘밸리 디렉터와 함께 하는 커리어 밀착 토크](https://www.wanted.co.kr/events/udemykorea_coffeechat)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 원티드
+  - 접수: 01. 06(금) ~ 02. 01(수)
 - __[프리온보딩 프론트엔드 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_6)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 원티드
