@@ -139,35 +139,11 @@
 <br />
 
 ## 23년 01월
-- __[2023 BUNNYTHON[0]](https://festa.io/events/3035)__
-  - 분류: `해커톤`
-  - 주최: Haedal Programming Inc
-  - 일시: 01. 26(목) ~ 01. 27(금)
-
-- __[제 17회 BOAZ 빅데이터 컨퍼런스](https://onoffmix.com/event/269081)__
-  - 분류: `컨퍼런스`, `빅데이터`
-  - 주최: BOAZ
-  - 일시: 01. 28(토) 13:00 ~ 18:00
-- __[QA 코리아 컨퍼런스 2023](https://festa.io/events/2919)__
-  - 분류: `컨퍼런스`, `QA`
-  - 주최: QA 코리아
-  - 일시: 01. 28(토) 14:00 ~ 17:30
-- __[DEV. DESIGN CONFERENCE](https://techit.education/event/ddcon)__
-  - 분류: `컨퍼런스`, `개발일반`
-  - 주최: 멋쨍이사자처럼
-  - 일시: 01. 28(토) 11:00 ~ 17:35
-- __[sudo: 개발자 원칙 2023 컨퍼런스](https://fastcampus.co.kr/devcon_sudo23)__
-  - 분류: `컨퍼런스`, `개발일반`
-  - 주최: 패스트캠퍼스
-  - 일시: 01. 28(토) 13:00 ~ 18:25
-- __[SPARCS 2023 StartUp Hackathon](https://festa.io/events/3006)__
-  - 분류: `유료`, `모임`
-  - 주최: SPARCS
-  - 일시: 01. 27(금) ~ 01. 29(일)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 1월 모임](https://festa.io/events/3058)__
   - 분류: `모임`, `스터디`
   - 주최: 달랩
   - 접수: 01. 10(화) ~ 01. 30(월)
+
 - __[신한DS 금융SW 아카데미](https://www.shinhanacademy.com/)__
   - 분류: `교육`
   - 주최: 신한DS
@@ -221,6 +197,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클 클라우드
   - 일시: 02. 02(목) 14:00 ~ 15:30
+- __[케이쉴드 주니어 10기 교육 설명회](https://docs.google.com/forms/d/e/1FAIpQLSfrytzEVr7rX4brAZQlnoo4dggcWnuQfy7E1yYZNHqqU-673Q/viewform)__
+  - 분류: `교육`, `보안`
+  - 주최: (주)한국정보보호교육센터
+  - 일시: 02. 03(금) 16:00 ~ 17:00
+- __[네이버 클라우드 서비스로 웹사이트 구축 및 시각화 서비스 구현해 보기 (입문)](https://festa.io/events/3103)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 지니공공아카데미
+  - 접수: 01. 30(월) ~ 02. 05(일)
 - __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
   - 분류: `오프라인`, `코틀린`
   - 주최: 인프런
@@ -233,6 +217,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 소프트웨어 마에스트로
   - 접수: 01. 09(월) ~ 02. 09(목)
+- __[C++ Korea 2023 2월 Meet-Up](https://festa.io/events/3105)__
+  - 분류: `오프라인`, `C++`
+  - 주최: C++ Korea
+  - 일시: 02. 11(토) 13:00 ~ 17:00
 - __[엘리스 SW 4기 모집](https://festa.io/events/3051)__
   - 분류: `온라인`, `교육`
   - 주최: 엘리스 교육
@@ -245,10 +233,22 @@
   - 분류: `채용`
   - 주최: 그룹바이
   - 접수: 01. 16(월) ~ 02. 15(수)
+- __[[DDD]Daegu Developer Day](https://festa.io/events/3100)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: Haedal Programming Inc
+  - 접수: 02. 01(수) ~ 02. 15(수)
 - __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
   - 분류: `웨비나`, `모니터링`
   - 주최: DATADOG
   - 일시: 02. 17(금)
+- __[케이쉴드 주니어 10기 교육](http://www.kshieldjr.org/application/application.php)__
+  - 분류: `교육`, `보안`
+  - 주최: (주)한국정보보호교육센터
+  - 일시: 01. 25(수) ~ 02. 17(금)
+- __[AWSKRUG #seongsu 소모임](https://www.meetup.com/awskrug/events/291152634/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 02. 21(화) 19:30 ~ 21:30
 - __[네이버 DEVIEW 2023](https://deview.kr/2023)__
   - 분류: `오프라인`, `개발일반`
   - 주최: 네이버
