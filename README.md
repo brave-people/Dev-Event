@@ -139,23 +139,11 @@
 <br />
 
 ## 23년 02월
-- __[인사이트 1초컷, 데이터 시각화 (아드리엘 아카데미 #4)](https://www.adriel.com/ko/webinar/adriel-academy?utm_source=festa)__
-  - 분류: `웨비나`, `시각화`
-  - 주최: 아드리엘
-  - 일시: 02. 01(수) 16:00 ~ 17:00
-
-- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/291017042/)__
-  - 분류: `웨비나`, `시각화`
-  - 주최: AWSKRUG
-  - 일시: 02. 01(수) 19:30 ~ 21:30
-- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/291017042/)__
-  - 분류: `오프라인`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 일시: 02. 01(수) 19:30 ~ 21:30
 - __[프리온보딩 Android 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_android_2)__
   - 분류: `웨비나`, `안드로이드`
   - 주최: 원티드
   - 접수: 01. 18(수) ~ 02. 02(목)
+  
 - __[실리콘밸리 디렉터와 함께 하는 커리어 밀착 토크](https://www.wanted.co.kr/events/udemykorea_coffeechat)__
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
@@ -188,6 +176,14 @@
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
   - 접수: 01. 25(수) ~ 02. 06(월)
+- __[구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://festa.io/events/3118)__
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 모두의연구소
+  - 일시: 02. 07(화) 19:30 ~ 20:30
+- __[[특별세미나]AI 기초 개념부터 커리어 탐색까지](https://festa.io/events/3119)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 02. 09(목) 13:00 ~ 1%:00
 - __[데이터 속도, 확장성, 유용성, 단순성의 새로운 시대! Elastic Search를 만나보세요.](https://app.livestorm.co/naver-cloud/data-forest-and-amp-ai-forest-2-1)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
