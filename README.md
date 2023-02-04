@@ -139,19 +139,11 @@
 <br />
 
 ## 23년 02월
-- __[케이쉴드 주니어 10기 교육 설명회](https://docs.google.com/forms/d/e/1FAIpQLSfrytzEVr7rX4brAZQlnoo4dggcWnuQfy7E1yYZNHqqU-673Q/viewform)__
-  - 분류: `교육`, `보안`
-  - 주최: (주)한국정보보호교육센터
-  - 일시: 02. 03(금) 16:00 ~ 17:00
-  
-- __[글로벌 파워 플랫폼 부트캠프 2023](https://event-us.kr/powerplatform/event/55576)__
-  - 분류: `교육`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 일시: 01. 26(목) ~ 02. 03(금)
 - __[네이버 클라우드 서비스로 웹사이트 구축 및 시각화 서비스 구현해 보기 (입문)](https://festa.io/events/3103)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 지니공공아카데미
   - 접수: 01. 30(월) ~ 02. 05(일)
+  
 - __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
   - 분류: `오프라인`, `코틀린`
   - 주최: 인프런
