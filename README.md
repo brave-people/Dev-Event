@@ -139,19 +139,11 @@
 <br />
 
 ## 23년 02월 
-- __[Kotlin & Spring 네트워킹 밋업대시보드](https://www.inflearn.com/course/inflearn-wanted-meetup)__
-  - 분류: `오프라인`, `코틀린`
-  - 주최: 인프런
-  - 접수: 01. 19(목) ~ 02. 06(월)
-
-- __[AWS 클라우드, 첫 시작부터 제대로 배우자](https://www.megazone.com/awsrestart2023/#rst-main)__
-  - 분류: `교육`, `클라우드`
-  - 주최: 메가존클라우드
-  - 접수: 01. 25(수) ~ 02. 06(월)
 - __[구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://festa.io/events/3118)__
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의연구소
   - 일시: 02. 07(화) 19:30 ~ 20:30
+  
 - __[대구 듀니콘 파티](https://festa.io/events/3130)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 대구 듀니콘 파티
@@ -200,6 +192,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 02. 15(화) 19:00 ~ 21:00
+- __[스타트업과 적정기술 : 성공적으로 신기술을 도입하는 법](https://blog.goorm.io/commit_5th/)__
+  - 분류: `웨비나`, `오프라인`, `교육`
+  - 주최: 구름
+  - 접수: 02. 07(화) ~ 02. 13(월) 17:00
 - __[2023 First100 스타트업 이직 프로그램](https://groupby.oopy.io/program/first100)__
   - 분류: `채용`
   - 주최: 그룹바이
@@ -208,6 +204,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: Haedal Programming Inc
   - 접수: 02. 01(수) ~ 02. 15(수)
+- __[TCN meetup 2023.02](https://festa.io/events/3099)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: Technical Communicator Network
+  - 접수: 02. 07(화) ~ 02. 15(수)
 - __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
   - 분류: `웨비나`, `모니터링`
   - 주최: DATADOG
@@ -232,6 +232,10 @@
   - 분류: `웨비나`, `소통`
   - 주최: Slack
   - 접수: 02. 06(월) ~ 02. 21(화)
+- __[GitHub Universe Recap Webinar](https://festa.io/events/3139)__
+  - 분류: `웨비나`, `Github`
+  - 주최: Github Korea
+  - 일시: 02. 23(목) 14:00 ~ 15:00
 - __[ITMONEY 직무 멘토링](https://festa.io/events/3107)__
   - 분류: `모임`, `멘토링`, `유료`
   - 주최: ITMoney
