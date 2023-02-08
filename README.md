@@ -138,16 +138,12 @@
 
 <br />
 
-## 23년 02월 
-- __[구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax](https://festa.io/events/3118)__
-  - 분류: `오프라인`, `온라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 02. 07(화) 19:30 ~ 20:30
-  
+## 23년 02월  
 - __[대구 듀니콘 파티](https://festa.io/events/3130)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 대구 듀니콘 파티
   - 일시: 02. 08(수) 19:00 ~ 21:00
+
 - __[[특별세미나]AI 기초 개념부터 커리어 탐색까지](https://festa.io/events/3119)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -224,6 +220,14 @@
   - 분류: `교육`, `보안`
   - 주최: (주)한국정보보호교육센터
   - 일시: 01. 25(수) ~ 02. 17(금)
+- __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
+  - 분류: `웨비나`, `모니터링`
+  - 주최: Datadog
+  - 일시: 02. 17(금) 14:00
+- __[Cloud Club 3기 지원](httphttps://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
+  - 분류: `교육`, `보안`
+  - 주최: CLOUD CLUB
+  - 접수: 02. 08(수) ~ 02. 19(일)
 - __[AWSKRUG #seongsu 소모임](https://www.meetup.com/awskrug/events/291152634/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
