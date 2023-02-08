@@ -219,7 +219,7 @@
   - 분류: `웨비나`, `모니터링`
   - 주최: Datadog
   - 일시: 02. 17(금) 14:00
-- __[Cloud Club 3기 지원](httphttps://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
+- __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
   - 분류: `교육`, `보안`
   - 주최: CLOUD CLUB
   - 접수: 02. 08(수) ~ 02. 19(일)
