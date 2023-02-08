@@ -26,7 +26,6 @@
 // pev web banner -->
 
 <br />
-</div>
 
 <table>
 <tr>
@@ -204,10 +203,6 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: Technical Communicator Network
   - 접수: 02. 07(화) ~ 02. 15(수)
-- __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
-  - 분류: `웨비나`, `모니터링`
-  - 주최: DATADOG
-  - 일시: 02. 17(금)
 - __[제3회 테크 데이 - KAFKA 서비스 활용 스터디 사례](https://devocean.sk.com/events/view.do?id=155)__
   - 분류: `오프라인`, `개발일반`
   - 주최: SK텔레콤
@@ -224,7 +219,7 @@
   - 분류: `웨비나`, `모니터링`
   - 주최: Datadog
   - 일시: 02. 17(금) 14:00
-- __[Cloud Club 3기 지원](httphttps://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
+- __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
   - 분류: `교육`, `보안`
   - 주최: CLOUD CLUB
   - 접수: 02. 08(수) ~ 02. 19(일)
