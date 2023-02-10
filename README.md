@@ -138,23 +138,11 @@
 <br />
 
 ## 23년 02월  
-- __[[특별세미나]AI 기초 개념부터 커리어 탐색까지](https://festa.io/events/3119)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 02. 09(목) 13:00 ~ 10:00
-
-- __[데이터 속도, 확장성, 유용성, 단순성의 새로운 시대! Elastic Search를 만나보세요.](https://app.livestorm.co/naver-cloud/data-forest-and-amp-ai-forest-2-1)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 02. 09(목) 11:00 ~ 12:00
-- __[소프트웨어 마에스트로 14기 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 소프트웨어 마에스트로
-  - 접수: 01. 09(월) ~ 02. 09(목)
 - __[C++ Korea 2023 2월 Meet-Up](https://festa.io/events/3105)__
   - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
   - 일시: 02. 11(토) 13:00 ~ 17:00
+
 - __[엘리스 SW 4기 모집](https://festa.io/events/3051)__
   - 분류: `온라인`, `교육`
   - 주최: 엘리스 교육
@@ -182,6 +170,10 @@
 - __[모두의 아이디어랩](https://aifactory.space/competition/detail/2263)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: 대전청년내일센터
+  - 접수: 02. 01(수) ~ 02. 14(화)
+- __[한국 블록체인 밋업 #8](https://www.meetup.com/%ED%95%9C%EA%B5%AD-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-meetup/events/291222134/)__
+  - 분류: `오프라인`, `블록체인`
+  - 주최: 한국블록체인 Meetup
   - 접수: 02. 01(수) ~ 02. 14(화)
 - __[[27th Developer Meetup] 애플리케이션 개발 필수 서비스, DevOps 활용하기](https://go.oracle.com/LP=134035)__
   - 분류: `웨비나`, `클라우드`
@@ -223,10 +215,22 @@
   - 분류: `웨비나`, `모니터링`
   - 주최: Datadog
   - 일시: 02. 17(금) 14:00
+- __[2023년 메타버스산업 통합 사업설명회](http://nowcomm.kr/metaverse2023/)__
+  - 분류: `오프라인`, `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 02. 17(금) 14:00
 - __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
   - 분류: `교육`, `보안`
   - 주최: CLOUD CLUB
   - 접수: 02. 08(수) ~ 02. 19(일)
+- __[국내 탑티어 보안 전문가의 사이버 보안 무료 특강](https://okky.kr/articles/1400010)__
+  - 분류: `교육`, `보안`
+  - 주최: 나루시큐리티
+  - 접수: 02. 01(수) ~ 02. 20(월)
+- __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/291455354/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 02. 21(화) 19:00 ~ 21:00
 - __[AWSKRUG #seongsu 소모임](https://www.meetup.com/awskrug/events/291152634/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -239,6 +243,10 @@
   - 분류: `웨비나`, `Github`
   - 주최: Github Korea
   - 일시: 02. 23(목) 14:00 ~ 15:00
+- __[Seoul Web3](https://www.meetup.com/seoulweb3/events/290629855/)__
+  - 분류: `오프라인`, `web3`
+  - 주최: Seoul Web3
+  - 일시: 02. 23(목) 19:00
 - __[ITMONEY 직무 멘토링](https://festa.io/events/3107)__
   - 분류: `모임`, `멘토링`, `유료`
   - 주최: ITMoney
