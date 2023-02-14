@@ -138,19 +138,11 @@
 <br />
 
 ## 23년 02월  
-- __[무료 파이썬 교육](https://festa.io/events/3136)__
-  - 분류: `온라인`, `교육`
-  - 주최: 모두의 연구소
-  - 접수: 02. 06(월) ~ 02. 13(월)
-
-- __[스타트업과 적정기술 : 성공적으로 신기술을 도입하는 법](https://blog.goorm.io/commit_5th/)__
-  - 분류: `웨비나`, `오프라인`, `교육`
-  - 주최: 구름
-  - 접수: 02. 07(화) ~ 02. 13(월) 17:00
 - __[[AWS X 솔트웨어] 솔로 AWS 쓰면 지옥! 입문자 맞춤 교육 웨비나](https://festa.io/events/3108)__
   - 분류: `온라인`, `교육`
   - 주최: 솔트웨어
   - 일시: 02. 14(화) 14:00 ~ 15:35
+
 - __[3rd UMC DemoDay](https://festa.io/events/3067)__
   - 분류: `오프라인`, `커뮤니티`
   - 주최: MakeUs Challenge
@@ -207,6 +199,10 @@
   - 분류: `오프라인`, `메타버스`
   - 주최: 과학기술정보통신부
   - 일시: 02. 17(금) 14:00
+- __[제3회 테크 데이 - KAFKA 서비스 활용 스터디 사례](https://devocean.sk.com/events/view.do?id=155#none)__
+  - 분류: `오프라인`, `카프카`
+  - 주최: DEVOCEAN
+  - 일시: 02. 17(금) 14:00 ~ 17:20
 - __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
   - 분류: `교육`, `보안`
   - 주최: CLOUD CLUB
@@ -215,6 +211,10 @@
   - 분류: `교육`, `보안`
   - 주최: 나루시큐리티
   - 접수: 02. 01(수) ~ 02. 20(월)
+- __[선배가 알려주는 아이펠(AIFFEL) 학습부터 취업까지!](https://festa.io/events/3161)__
+  - 분류: `온라인`, `오프라인`, `보안`
+  - 주최: 모두의연구소
+  - 일시: 02. 20(월) 19:00 ~ 21:00
 - __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/291455354/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -271,6 +271,10 @@
   - 분류: `해커톤`
   - 주최: 프로메테우스
   - 일시: 01. 18(수) ~ 02. 28(화)
+- __[Gitlab Korea 밋업 #14 - 깃랩의 방향성에 대한 리뷰](https://festa.io/events/3164)__
+  - 분류: `웨비나`, `Gitlab`
+  - 주최: Gitlab Korea
+  - 일시: 02. 28(화) 19:00 ~ 21:00
 
 <br />
 
@@ -284,6 +288,19 @@
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
   - 일시: 03. 26(일) 14:00 ~ 20:00
+
+<br />
+
+## 23년 04월
+- __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
+  - 분류: `오프라인`, `vmware`
+  - 주최: vmware
+  - 일시: 04. 06(목) 08:00 ~ 17:00
+
+- __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 일시: 04. 19(수) ~ 04. 20(목)
 
 
 ----------------
