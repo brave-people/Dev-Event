@@ -243,6 +243,10 @@
   - 분류: `오프라인`, `web3`
   - 주최: Seoul Web3
   - 일시: 02. 23(목) 19:00
+- __[2월 Tech 세미나 - 성능 테스트와 K6 도구 소개](https://devocean.sk.com/events/view.do?id=157)__
+  - 분류: `웨비나`, `K6`
+  - 주최: DEVOCEAN
+  - 일시: 02. 23(목) 19:00 ~ 21:00
 - __[ITMONEY 직무 멘토링](https://festa.io/events/3107)__
   - 분류: `모임`, `멘토링`, `유료`
   - 주최: ITMoney
