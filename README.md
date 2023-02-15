@@ -138,27 +138,11 @@
 <br />
 
 ## 23년 02월  
-- __[[AWS X 솔트웨어] 솔로 AWS 쓰면 지옥! 입문자 맞춤 교육 웨비나](https://festa.io/events/3108)__
-  - 분류: `온라인`, `교육`
-  - 주최: 솔트웨어
-  - 일시: 02. 14(화) 14:00 ~ 15:35
-
-- __[3rd UMC DemoDay](https://festa.io/events/3067)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: MakeUs Challenge
-  - 접수: 02. 06(월) ~ 02. 14(화)
-- __[모두의 아이디어랩](https://aifactory.space/competition/detail/2263)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: 대전청년내일센터
-  - 접수: 02. 01(수) ~ 02. 14(화)
-- __[한국 블록체인 밋업 #8](https://www.meetup.com/%ED%95%9C%EA%B5%AD-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-meetup/events/291222134/)__
-  - 분류: `오프라인`, `블록체인`
-  - 주최: 한국블록체인 Meetup
-  - 접수: 02. 01(수) ~ 02. 14(화)
 - __[[27th Developer Meetup] 애플리케이션 개발 필수 서비스, DevOps 활용하기](https://go.oracle.com/LP=134035)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클 클라우드
   - 일시: 02. 15(수)
+
 - __[퇴근길 테크밋업 [2월] : 챗봇 개발자 모임](https://www.ncloud.com/support/edu/614)__
   - 분류: `오프라인`, `교육`
   - 주최: 네이버 클라우드 플랫폼
@@ -223,6 +207,10 @@
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 02. 21(화) 19:30 ~ 21:30
+- __[[MODUPOP] 빨리 뛰어서 딥러닝 속으로](https://festa.io/events/3170)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 02. 21(화) 19:30 ~ 21:00
 - __[Why Slack with 당근페이](https://event.on24.com/wcc/r/4085219/33F5D83EB6EEDD28F7D0718BD09C50F4)__
   - 분류: `웨비나`, `소통`
   - 주최: Slack
@@ -231,6 +219,10 @@
   - 분류: `오프라인`, `에자일`
   - 주최: 에자일 코리아 밋업
   - 일시: 02. 22(수) 20:00 ~ 22:00
+- __[[AWS] 무료 온라인 컨퍼런스 AI/ML 실무 적용까지](https://aws.amazon.com/ko/events/aws-innovate/apj/aiml-data/)__
+  - 분류: `웨비나`, `AWS`
+  - 주최: AWS
+  - 일시: 02. 22(수)
 - __[GitHub Universe Recap Webinar](https://festa.io/events/3139)__
   - 분류: `웨비나`, `Github`
   - 주최: Github Korea
@@ -283,11 +275,23 @@
 <br />
 
 ## 23년 03월
+- __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기 웨비나](https://go.oracle.com/LP=134465)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클
+  - 일시: 03. 03(금) 14:00 ~ 15:30
+
+- __[2023 Global AI Bootcamp - Busan!](https://festa.io/events/3168)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: Global AI Bootcamp organizers
+  - 일시: 03. 03(금) 12:00 ~ 18:00
+- __[제3차 USG AI·데이터 문제해결 제조혁신 경진대회](https://allforyoung.com/posts/25792)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: (재)경남테크노파크
+  - 접수: 02. 20(월) ~ 03. 06(월)
 - __[StableDiffusion과 ChatGPT](https://festa.io/events/3163)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 03. 07(화) 19:30 ~ 21:30
-
 - __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
