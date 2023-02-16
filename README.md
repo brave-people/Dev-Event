@@ -138,31 +138,11 @@
 <br />
 
 ## 23년 02월  
-- __[[27th Developer Meetup] 애플리케이션 개발 필수 서비스, DevOps 활용하기](https://go.oracle.com/LP=134035)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클 클라우드
-  - 일시: 02. 15(수)
-
-- __[퇴근길 테크밋업 [2월] : 챗봇 개발자 모임](https://www.ncloud.com/support/edu/614)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 02. 15(화) 19:00 ~ 21:00
-- __[2023 First100 스타트업 이직 프로그램](https://groupby.oopy.io/program/first100)__
-  - 분류: `채용`
-  - 주최: 그룹바이
-  - 접수: 01. 16(월) ~ 02. 15(수)
-- __[[DDD]Daegu Developer Day](https://festa.io/events/3100)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: Haedal Programming Inc
-  - 접수: 02. 01(수) ~ 02. 15(수)
-- __[TCN meetup 2023.02](https://festa.io/events/3099)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: Technical Communicator Network
-  - 접수: 02. 07(화) ~ 02. 15(수)
 - __[클라우드로 쉽게 만드는 AI 고객센터 CLOVA AiCall](https://festa.io/events/3150)__
   - 분류: `웨비나`, `AI`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 02. 16(목) 11:00 ~ 12:00
+  
 - __[제3회 테크 데이 - KAFKA 서비스 활용 스터디 사례](https://devocean.sk.com/events/view.do?id=155)__
   - 분류: `오프라인`, `개발일반`
   - 주최: SK텔레콤
@@ -211,6 +191,10 @@
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 02. 21(화) 19:30 ~ 21:00
+- __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/291632332/)__
+  - 분류: `오프라인`, `보안`
+  - 주최: AWSKRUG
+  - 일시: 02. 22(화) 19:00 ~ 21:30
 - __[Why Slack with 당근페이](https://event.on24.com/wcc/r/4085219/33F5D83EB6EEDD28F7D0718BD09C50F4)__
   - 분류: `웨비나`, `소통`
   - 주최: Slack
@@ -285,13 +269,17 @@
   - 주최: Global AI Bootcamp organizers
   - 일시: 03. 03(금) 12:00 ~ 18:00
 - __[제3차 USG AI·데이터 문제해결 제조혁신 경진대회](https://allforyoung.com/posts/25792)__
-  - 분류: `온라인`, `오프라인`, `AI`
+  - 분류: `대회`, `AI`
   - 주최: (재)경남테크노파크
   - 접수: 02. 20(월) ~ 03. 06(월)
 - __[StableDiffusion과 ChatGPT](https://festa.io/events/3163)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 03. 07(화) 19:30 ~ 21:30
+- __[SW.AI융합교육강사 안랩샘아카데미 16기 모집](https://festa.io/events/3176)__
+  - 분류: `교육`
+  - 주최: 안랩샘아카데미
+  - 일시: 02. 15(수) ~ 03. 07(화)
 - __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
