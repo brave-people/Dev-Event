@@ -138,35 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[제3회 테크 데이 - KAFKA 서비스 활용 스터디 사례](https://devocean.sk.com/events/view.do?id=155)__
-  - 분류: `오프라인`, `개발일반`
-  - 주최: SK텔레콤
-  - 일시: 02. 17(금)
-
-- __[AI 개발자로 성장할 당신을 위한 AI 교육, 아이펠](https://festa.io/events/3111)__
-  - 분류: `교육`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 02. 01(수) ~ 02. 17(금)
-- __[케이쉴드 주니어 10기 교육](http://www.kshieldjr.org/application/application.php)__
-  - 분류: `교육`, `보안`
-  - 주최: (주)한국정보보호교육센터
-  - 일시: 01. 25(수) ~ 02. 17(금)
-- __[데모와 함께하는 Datadog APM의 새로운 기능 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/apm-webinar-korea/)__
-  - 분류: `웨비나`, `모니터링`
-  - 주최: Datadog
-  - 일시: 02. 17(금) 14:00
-- __[2023년 메타버스산업 통합 사업설명회](http://nowcomm.kr/metaverse2023/)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 02. 17(금) 14:00
-- __[제3회 테크 데이 - KAFKA 서비스 활용 스터디 사례](https://devocean.sk.com/events/view.do?id=155#none)__
-  - 분류: `오프라인`, `카프카`
-  - 주최: DEVOCEAN
-  - 일시: 02. 17(금) 14:00 ~ 17:20
 - __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
   - 분류: `교육`, `보안`
   - 주최: CLOUD CLUB
   - 접수: 02. 08(수) ~ 02. 19(일)
+  
 - __[국내 탑티어 보안 전문가의 사이버 보안 무료 특강](https://okky.kr/articles/1400010)__
   - 분류: `교육`, `보안`
   - 주최: 나루시큐리티
