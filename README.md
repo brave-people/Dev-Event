@@ -138,15 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[Cloud Club 3기 지원](https://docs.google.com/forms/d/e/1FAIpQLSd_WPx-x2gNPmjLwJ3z78e99vOPnmXNQLLeg8SPbOAj1k5LNA/viewform)__
-  - 분류: `교육`, `보안`
-  - 주최: CLOUD CLUB
-  - 접수: 02. 08(수) ~ 02. 19(일)
-  
 - __[국내 탑티어 보안 전문가의 사이버 보안 무료 특강](https://okky.kr/articles/1400010)__
   - 분류: `교육`, `보안`
   - 주최: 나루시큐리티
   - 접수: 02. 01(수) ~ 02. 20(월)
+  
 - __[선배가 알려주는 아이펠(AIFFEL) 학습부터 취업까지!](https://festa.io/events/3161)__
   - 분류: `온라인`, `오프라인`, `보안`
   - 주최: 모두의연구소
@@ -191,10 +187,18 @@
   - 분류: `오프라인`, `web3`
   - 주최: Seoul Web3
   - 일시: 02. 23(목) 19:00
+- __[AWSKRUG 아키텍처 #architecture 39번째 소모임](https://www.meetup.com/awskrug/events/291551474/)__
+  - 분류: `오프라인`, `아키텍처`
+  - 주최: AWSKRUG
+  - 일시: 02. 23(목) 19:30 ~ 21:30
 - __[2월 Tech 세미나 - 성능 테스트와 K6 도구 소개](https://devocean.sk.com/events/view.do?id=157)__
   - 분류: `웨비나`, `K6`
   - 주최: DEVOCEAN
   - 일시: 02. 23(목) 19:00 ~ 21:00
+- __[게임 개발자와 이용자 모두를 위한 모바일 게임 보안 서비스, 앱실링](https://festa.io/events/3175)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 02. 23(목) 11:00 ~ 12:00
 - __[4th 패스핵 : 메이커스페이스와 함께 하는 메이커톤](https://event-us.kr/pathfinder/event/56739)__
   - 분류: `오프라인`, `모임`
   - 주최: 패스핵
@@ -239,11 +243,23 @@
 <br />
 
 ## 23년 03월
+- __[프리온보딩 백엔드 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_5)__
+  - 분류: `교육`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 02. 15(수) ~ 03. 02(목) 
+
+- __[프리온보딩 iOS 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_ios_2)__
+  - 분류: `교육`, `iOS`
+  - 주최: 원티드
+  - 접수: 02. 15(수) ~ 03. 02(목) 
+- __[프리온보딩 데이터 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_data_1)__
+  - 분류: `교육`, `데이터`
+  - 주최: 원티드
+  - 접수: 02. 15(수) ~ 03. 02(목) 
 - __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기 웨비나](https://go.oracle.com/LP=134465)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 03. 03(금) 14:00 ~ 15:30
-
 - __[2023 Global AI Bootcamp - Busan!](https://festa.io/events/3168)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: Global AI Bootcamp organizers
