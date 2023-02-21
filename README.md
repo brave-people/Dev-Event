@@ -138,19 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[국내 탑티어 보안 전문가의 사이버 보안 무료 특강](https://okky.kr/articles/1400010)__
-  - 분류: `교육`, `보안`
-  - 주최: 나루시큐리티
-  - 접수: 02. 01(수) ~ 02. 20(월)
-  
-- __[선배가 알려주는 아이펠(AIFFEL) 학습부터 취업까지!](https://festa.io/events/3161)__
-  - 분류: `온라인`, `오프라인`, `보안`
-  - 주최: 모두의연구소
-  - 일시: 02. 20(월) 19:00 ~ 21:00
 - __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/291455354/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 02. 21(화) 19:00 ~ 21:00
+
 - __[AWSKRUG #seongsu 소모임](https://www.meetup.com/awskrug/events/291152634/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -280,6 +272,14 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 03. 09(목)
+- __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
+  - 분류: `오프라인`, `모임`
+  - 주최: GDG 인천
+  - 일시: 03. 18(토) 13:00 ~ 19:30
+- __[4주 완성 기술 블로그 챌린지 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeNpuQ9cwxKq6rnBSVMORzqpImEch1miOwcqG55qTas8michw/viewform)__
+  - 분류: `스터디`, `프론트엔드`
+  - 주최: 유데미
+  - 접수: 02. 20(월) ~ 03. 19(일)
 - __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
