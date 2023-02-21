@@ -239,6 +239,10 @@
   - 분류: `웨비나`, `Gitlab`
   - 주최: Gitlab Korea
   - 일시: 02. 28(화) 19:00 ~ 21:00
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/291284183/)__
+  - 분류: `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 02. 28(화) 19:30 ~ 21:30
 
 <br />
 
