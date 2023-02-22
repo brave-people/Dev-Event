@@ -138,23 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[AWSKRUG 판교 소모임](https://www.meetup.com/awskrug/events/291455354/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 02. 21(화) 19:00 ~ 21:00
-
-- __[AWSKRUG #seongsu 소모임](https://www.meetup.com/awskrug/events/291152634/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 02. 21(화) 19:30 ~ 21:30
-- __[[MODUPOP] 빨리 뛰어서 딥러닝 속으로](https://festa.io/events/3170)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 02. 21(화) 19:30 ~ 21:00
 - __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/291632332/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSKRUG
   - 일시: 02. 22(화) 19:00 ~ 21:30
+
 - __[Why Slack with 당근페이](https://event.on24.com/wcc/r/4085219/33F5D83EB6EEDD28F7D0718BD09C50F4)__
   - 분류: `웨비나`, `소통`
   - 주최: Slack
@@ -227,6 +215,10 @@
   - 분류: `해커톤`
   - 주최: 프로메테우스
   - 일시: 01. 18(수) ~ 02. 28(화)
+- __[개발자도 알아두면 좋은 DB 운영 노하우의 모든 것](https://cloudon.nhn.com/webinar?idx=14&utm_source=okky&utm_medium=post&utm_campaign=nhncloudon&utm_content=on13)__
+  - 분류: `웨비나`, `데이터베이스`
+  - 주최: NHN Cloud
+  - 일시: 02. 28(화) 14:00
 - __[Gitlab Korea 밋업 #14 - 깃랩의 방향성에 대한 리뷰](https://festa.io/events/3164)__
   - 분류: `웨비나`, `Gitlab`
   - 주최: Gitlab Korea
