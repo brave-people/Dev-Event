@@ -138,27 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[AWSKRUG 보안 모임](https://www.meetup.com/awskrug/events/291632332/)__
-  - 분류: `오프라인`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 02. 22(화) 19:00 ~ 21:30
-
-- __[Why Slack with 당근페이](https://event.on24.com/wcc/r/4085219/33F5D83EB6EEDD28F7D0718BD09C50F4)__
-  - 분류: `웨비나`, `소통`
-  - 주최: Slack
-  - 접수: 02. 06(월) ~ 02. 21(화)
-- __[애자일 코리아 밋업 2월 "애자일 프레이밍(Agile Framing)"](https://festa.io/events/3157)__
-  - 분류: `오프라인`, `에자일`
-  - 주최: 에자일 코리아 밋업
-  - 일시: 02. 22(수) 20:00 ~ 22:00
-- __[[AWS] 무료 온라인 컨퍼런스 AI/ML 실무 적용까지](https://aws.amazon.com/ko/events/aws-innovate/apj/aiml-data/)__
-  - 분류: `웨비나`, `AWS`
-  - 주최: AWS
-  - 일시: 02. 22(수)
 - __[GitHub Universe Recap Webinar](https://festa.io/events/3139)__
   - 분류: `웨비나`, `Github`
   - 주최: Github Korea
   - 일시: 02. 23(목) 14:00 ~ 15:00
+
 - __[NGINX, 기술 부채가 되지 않으려면?](https://okky.kr/articles/1401074)__
   - 분류: `웨비나`, `nginx`
   - 주최: 라인
@@ -191,6 +175,10 @@
   - 분류: `모임`
   - 주최: 달랩
   - 일시: 02. 27(월) 17:30 ~ 21:30
+- __[[SI 탈출용 백엔드 학습 공략집](https://festa.io/events/3194)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 02. 27(월) 19:30 ~ 21:00
 - __[[OKKY 2월 세미나] AI사용으로 개발 속도 2배 높이기](https://okky.kr/articles/1403073)__
   - 분류: `웨비나`, `AI`
   - 주최: OKKY
