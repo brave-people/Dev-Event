@@ -138,35 +138,11 @@
 <br />
 
 ## 23년 02월    
-- __[GitHub Universe Recap Webinar](https://festa.io/events/3139)__
-  - 분류: `웨비나`, `Github`
-  - 주최: Github Korea
-  - 일시: 02. 23(목) 14:00 ~ 15:00
-
-- __[NGINX, 기술 부채가 되지 않으려면?](https://okky.kr/articles/1401074)__
-  - 분류: `웨비나`, `nginx`
-  - 주최: 라인
-  - 일시: 02. 23(목) 16:00 ~ 17:00
-- __[Seoul Web3](https://www.meetup.com/seoulweb3/events/290629855/)__
-  - 분류: `오프라인`, `web3`
-  - 주최: Seoul Web3
-  - 일시: 02. 23(목) 19:00
-- __[AWSKRUG 아키텍처 #architecture 39번째 소모임](https://www.meetup.com/awskrug/events/291551474/)__
-  - 분류: `오프라인`, `아키텍처`
-  - 주최: AWSKRUG
-  - 일시: 02. 23(목) 19:30 ~ 21:30
-- __[2월 Tech 세미나 - 성능 테스트와 K6 도구 소개](https://devocean.sk.com/events/view.do?id=157)__
-  - 분류: `웨비나`, `K6`
-  - 주최: DEVOCEAN
-  - 일시: 02. 23(목) 19:00 ~ 21:00
-- __[게임 개발자와 이용자 모두를 위한 모바일 게임 보안 서비스, 앱실링](https://festa.io/events/3175)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 02. 23(목) 11:00 ~ 12:00
 - __[4th 패스핵 : 메이커스페이스와 함께 하는 메이커톤](https://event-us.kr/pathfinder/event/56739)__
   - 분류: `오프라인`, `모임`
   - 주최: 패스핵
   - 일시: 02. 24(금) ~ 02. 25(토)
+
 - __[ITMONEY 직무 멘토링](https://festa.io/events/3107)__
   - 분류: `모임`, `멘토링`, `유료`
   - 주최: ITMoney
@@ -252,10 +228,18 @@
   - 분류: `교육`
   - 주최: 안랩샘아카데미
   - 일시: 02. 15(수) ~ 03. 07(화)
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/291635141/)__
+  - 분류: `오프라인`, `모임`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 03. 08(수)
 - __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/291680108)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 03. 09(목)
+- __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
+  - 분류: `웨비나`, `인프라`
+  - 주최: 메가존클라우드
+  - 일시: 03. 14(화)
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
