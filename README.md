@@ -216,6 +216,10 @@
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: Global AI Bootcamp organizers
   - 일시: 03. 03(금) 12:00 ~ 18:00
+- __[Unity 인증 단체: 서울대학교 기반 메타버스 학회 XREAL 4기 리크루팅](https://www.xreal.info/recruiting/3)__
+  - 분류: `동아리`, `모임`, `XR`
+  - 주최: XREAL
+  - 접수: 02. 20(월) ~ 03. 04(토)
 - __[제3차 USG AI·데이터 문제해결 제조혁신 경진대회](https://allforyoung.com/posts/25792)__
   - 분류: `대회`, `AI`
   - 주최: (재)경남테크노파크
