@@ -137,43 +137,6 @@
 
 <br />
 
-## 23년 02월    
-- __[네이버 DEVIEW 2023](https://deview.kr/2023)__
-  - 분류: `오프라인`, `개발일반`
-  - 주최: 네이버
-  - 일시: 02. 27(월) ~ 02. 28(화)
-
-- __[비전공자를 위한 자바스크립트 풀스택 개발자 무료 교육과정](https://festa.io/events/3106)__
-  - 분류: `오프라인`, `교육`, `nodejs`
-  - 주최: 지니공공아카데미
-  - 일시: 02. 06(월) 14:00 ~ 02. 28(화) 17:30
-- __[소주콘 Shot 3 : 처음처럼 새로 소주 - 2023에 새로 한잔!](https://festa.io/events/3151)__
-  - 분류: `오프라인`, `커뮤니티`
-  - 주최: 소문난 주니어 콘퍼런스
-  - 일시: 02. 28(화) 19:00
-- __[[Codeit Prize] 코딩 교육 콘텐츠 만들기](https://www.codeit-prize.codeit.com/)__
-  - 분류: `교육`
-  - 주최: 코드잇
-  - 일시: 11. 09(수) ~ 02. 28(화)
-- __[프로메테우스 스타트업 해커톤](https://aifactory.space/competition/detail/2241)__
-  - 분류: `해커톤`
-  - 주최: 프로메테우스
-  - 일시: 01. 18(수) ~ 02. 28(화)
-- __[개발자도 알아두면 좋은 DB 운영 노하우의 모든 것](https://cloudon.nhn.com/webinar?idx=14&utm_source=okky&utm_medium=post&utm_campaign=nhncloudon&utm_content=on13)__
-  - 분류: `웨비나`, `데이터베이스`
-  - 주최: NHN Cloud
-  - 일시: 02. 28(화) 14:00
-- __[Gitlab Korea 밋업 #14 - 깃랩의 방향성에 대한 리뷰](https://festa.io/events/3164)__
-  - 분류: `웨비나`, `Gitlab`
-  - 주최: Gitlab Korea
-  - 일시: 02. 28(화) 19:00 ~ 21:00
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/291284183/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 02. 28(화) 19:30 ~ 21:30
-
-<br />
-
 ## 23년 03월
 - __[프리온보딩 백엔드 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_5)__
   - 분류: `교육`, `벡엔드`
@@ -208,6 +171,10 @@
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 03. 07(화) 19:30 ~ 21:30
+- __[토스페이먼츠 PO와의 LIVE TALK](https://okky.kr/articles/1408771)__
+  - 분류: `온라인`, `기획`
+  - 주최: 토스페이먼츠
+  - 일시: 03. 07(화) 20:00
 - __[SW.AI융합교육강사 안랩샘아카데미 16기 모집](https://festa.io/events/3176)__
   - 분류: `교육`
   - 주최: 안랩샘아카데미
@@ -224,6 +191,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 03. 09(목)
+- __[프라이버시 강화 기술 세미나 '2nd PET MEETUP'](https://okky.kr/articles/1408617)__
+  - 분류: `오프라인`, `보안`
+  - 주최: PETKorea
+  - 일시: 03. 10(금) 14:00 ~ 18:00
 - __[CloudCon in GO](https://festa.io/events/3199)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
