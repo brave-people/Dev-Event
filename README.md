@@ -138,23 +138,11 @@
 <br />
 
 ## 23년 03월
-- __[프리온보딩 백엔드 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_5)__
-  - 분류: `교육`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 02. 15(수) ~ 03. 02(목) 
-
-- __[프리온보딩 iOS 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_ios_2)__
-  - 분류: `교육`, `iOS`
-  - 주최: 원티드
-  - 접수: 02. 15(수) ~ 03. 02(목) 
-- __[프리온보딩 데이터 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_data_1)__
-  - 분류: `교육`, `데이터`
-  - 주최: 원티드
-  - 접수: 02. 15(수) ~ 03. 02(목) 
 - __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기 웨비나](https://go.oracle.com/LP=134465)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
   - 일시: 03. 03(금) 14:00 ~ 15:30
+
 - __[2023 Global AI Bootcamp - Busan!](https://festa.io/events/3168)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: Global AI Bootcamp organizers
@@ -199,10 +187,22 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 03. 11(토) 14:00 ~ 18:00
+- __[How To Achieve More: 일이 되게 하는 법](https://www.wanted.co.kr/events/git_it_achievemore)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 마이크로소프트
+  - 일시: 03. 11(토) 10:00
 - __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
   - 분류: `웨비나`, `인프라`
   - 주최: 메가존클라우드
   - 일시: 03. 14(화)
+- __[AWSKRUG 스타트업 #Beginner 소모임](https://www.meetup.com/awskrug/events/291974630/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 03. 15(수) 19:00
+- __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 원티드
+  - 일시: 02. 28(화) ~ 03. 16(목)
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
