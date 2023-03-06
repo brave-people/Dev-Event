@@ -138,23 +138,11 @@
 <br />
 
 ## 23년 03월
-- __[오라클 클라우드 입문자들을 위한 OCI 기초 마스터하기 웨비나](https://go.oracle.com/LP=134465)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클
-  - 일시: 03. 03(금) 14:00 ~ 15:30
-
-- __[2023 Global AI Bootcamp - Busan!](https://festa.io/events/3168)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: Global AI Bootcamp organizers
-  - 일시: 03. 03(금) 12:00 ~ 18:00
-- __[Unity 인증 단체: 서울대학교 기반 메타버스 학회 XREAL 4기 리크루팅](https://www.xreal.info/recruiting/3)__
-  - 분류: `동아리`, `모임`, `XR`
-  - 주최: XREAL
-  - 접수: 02. 20(월) ~ 03. 04(토)
 - __[제3차 USG AI·데이터 문제해결 제조혁신 경진대회](https://allforyoung.com/posts/25792)__
   - 분류: `대회`, `AI`
   - 주최: (재)경남테크노파크
   - 접수: 02. 20(월) ~ 03. 06(월)
+
 - __[StableDiffusion과 ChatGPT](https://festa.io/events/3163)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -179,6 +167,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 03. 09(목)
+- __[SI 탈출용 백엔드 학습 공략집 - 1차](https://festa.io/events/3224)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 03. 09(목) 19:30 ~ 21:00
 - __[프라이버시 강화 기술 세미나 '2nd PET MEETUP'](https://okky.kr/articles/1408617)__
   - 분류: `오프라인`, `보안`
   - 주최: PETKorea
@@ -191,6 +183,14 @@
   - 분류: `오프라인`, `커리어`
   - 주최: 마이크로소프트
   - 일시: 03. 11(토) 10:00
+- __[디프만 13th 모집](https://www.depromeet.com/)__
+  - 분류: `동아리`
+  - 주최: 디프만
+  - 접수: 03. 06(월) ~ 03. 12(일)
+- __[SI 탈출용 백엔드 학습 공략집 - 2차](https://festa.io/events/3224)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 03. 13(월) 19:30 ~ 21:00
 - __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
   - 분류: `웨비나`, `인프라`
   - 주최: 메가존클라우드
@@ -203,14 +203,30 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
   - 일시: 02. 28(화) ~ 03. 16(목)
+- __[오늘의집 개발자 대규모 경력 채용설명회](https://docs.google.com/forms/d/e/1FAIpQLSdLTRFqROIlKVcLzx9wX-vwkHDK1vOqZdlBRyGVu-PnvASWgg/viewform)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 오늘의집
+  - 일시: 03. 16(목) 19:00 ~ 21:00
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
   - 일시: 03. 18(토) 13:00 ~ 19:30
+- __[파이토치 한국 사용자 모임 제2회 세미나](https://festa.io/events/3220)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 파이토치 한국 사용자 모임
+  - 일시: 03. 18(토) 13:30 ~ 18:00
 - __[4주 완성 기술 블로그 챌린지 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeNpuQ9cwxKq6rnBSVMORzqpImEch1miOwcqG55qTas8michw/viewform)__
   - 분류: `스터디`, `프론트엔드`
   - 주최: 유데미
   - 접수: 02. 20(월) ~ 03. 19(일)
+- __[핵테온 세종(HackTheon Sejong) 국제 대학생 사이버보안 경진대회](https://www.hacktheon.org/)__
+  - 분류: `대회`, `보안`
+  - 주최: 세종특별시
+  - 접수: 03. 06(월) ~ 03. 22(수)
+- __[우분투한국커뮤니티 2023 정기총회(겸 세미나)](https://event.ubuntu-kr.org/2022/05/21/2023-general-assembly/)__
+  - 분류: `오프라인`, `리눅스`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 03. 26(일) 14:00 ~ 17:30
 - __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
@@ -224,6 +240,10 @@
   - 주최: vmware
   - 일시: 04. 06(목) 08:00 ~ 17:00
 
+- __[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: 참 in 스위프트
+  - 일시: 04. 08(토) 14:00 ~ 17:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
