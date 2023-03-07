@@ -203,6 +203,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 오늘의집
   - 일시: 03. 16(목) 19:00 ~ 21:00
+- __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
+  - 분류: `온라인`, `클라우드`, `오픈소스`
+  - 주최: 한국 Microsoft
+  - 일시: 03. 17(금) 13:30 ~ 17:30
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
