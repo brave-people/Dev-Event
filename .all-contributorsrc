@@ -744,6 +744,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "HoJin9622",
+      "name": "이호진",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57439651?v=4",
+      "profile": "http://velog.io/@hojin9622",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
