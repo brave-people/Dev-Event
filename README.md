@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-82-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -500,6 +500,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://green1052.com"><img src="https://avatars.githubusercontent.com/u/34261355?v=4?s=100" width="100px;" alt="green1052"/><br /><sub><b>green1052</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=green1052" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jessi68"><img src="https://avatars.githubusercontent.com/u/47855517?v=4?s=100" width="100px;" alt="jessi68"/><br /><sub><b>jessi68</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jessi68" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://hyesungoh.xyz"><img src="https://avatars.githubusercontent.com/u/26461307?v=4?s=100" width="100px;" alt="hyesung oh"/><br /><sub><b>hyesung oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyesungoh" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://velog.io/@hojin9622"><img src="https://avatars.githubusercontent.com/u/57439651?v=4?s=100" width="100px;" alt="이호진"/><br /><sub><b>이호진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HoJin9622" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
