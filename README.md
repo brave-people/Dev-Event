@@ -138,15 +138,11 @@
 <br />
 
 ## 23년 03월
-- __[제3차 USG AI·데이터 문제해결 제조혁신 경진대회](https://allforyoung.com/posts/25792)__
-  - 분류: `대회`, `AI`
-  - 주최: (재)경남테크노파크
-  - 접수: 02. 20(월) ~ 03. 06(월)
-
 - __[StableDiffusion과 ChatGPT](https://festa.io/events/3163)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 03. 07(화) 19:30 ~ 21:30
+  
 - __[토스페이먼츠 PO와의 LIVE TALK](https://okky.kr/articles/1408771)__
   - 분류: `온라인`, `기획`
   - 주최: 토스페이먼츠
@@ -231,8 +227,12 @@
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
   - 일시: 03. 26(일) 14:00 ~ 20:00
+- __[AWSKRUG [아키텍처 #architecture x 구디 #gudi] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 03. 30(목) 19:30 ~ 21:30
 - __[kakao x goorm제주에서 펼쳐지는 해커톤](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`
+  - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 일시: 03. 28(화) ~ 03. 31(금)
 
