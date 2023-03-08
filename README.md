@@ -197,6 +197,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 오늘의집
   - 일시: 03. 16(목) 19:00 ~ 21:00
+- __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
+  - 분류: `커리어`
+  - 주최: 원티드
+  - 일시: 02. 28(화) ~ 03. 16(목)
 - __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
   - 분류: `온라인`, `클라우드`, `오픈소스`
   - 주최: 한국 Microsoft
@@ -213,6 +217,10 @@
   - 분류: `스터디`, `프론트엔드`
   - 주최: 유데미
   - 접수: 02. 20(월) ~ 03. 19(일)
+- __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
+  - 분류: `웨비나`, `기술일반`
+  - 주최: 엔비디아
+  - 일시: 03. 20(월) ~ 03. 24(금)
 - __[핵테온 세종(HackTheon Sejong) 국제 대학생 사이버보안 경진대회](https://www.hacktheon.org/)__
   - 분류: `대회`, `보안`
   - 주최: 세종특별시
