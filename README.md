@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -119,6 +119,8 @@
             <td>2023년</td>
             <td>
               <a href="./2023/23_01.md"> 01월 </a>
+              <a href="./2023/23_02.md"> 02월 </a>
+              <a href="./2023/23_03.md"> 03월 </a>
             </td>
         </tr>
         <tr>
@@ -138,23 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[StableDiffusion과 ChatGPT](https://festa.io/events/3163)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 03. 07(화) 19:30 ~ 21:30
-  
-- __[토스페이먼츠 PO와의 LIVE TALK](https://okky.kr/articles/1408771)__
-  - 분류: `온라인`, `기획`
-  - 주최: 토스페이먼츠
-  - 일시: 03. 07(화) 20:00
-- __[SW.AI융합교육강사 안랩샘아카데미 16기 모집](https://festa.io/events/3176)__
-  - 분류: `교육`
-  - 주최: 안랩샘아카데미
-  - 일시: 02. 15(수) ~ 03. 07(화)
 - __[기술 부채를 바라보는 다른 시각](https://vrn68.app.goo.gl/EDTk5)__
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 구름
   - 일시: 03. 08(수) 19:00 ~ 20:30
+  
 - __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/291635141/)__
   - 분류: `오프라인`, `모임`, `프론트엔드`
   - 주최: AWSKRUG
@@ -207,6 +197,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: 오늘의집
   - 일시: 03. 16(목) 19:00 ~ 21:00
+- __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
+  - 분류: `커리어`
+  - 주최: 원티드
+  - 일시: 02. 28(화) ~ 03. 16(목)
 - __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
   - 분류: `온라인`, `클라우드`, `오픈소스`
   - 주최: 한국 Microsoft
@@ -223,6 +217,10 @@
   - 분류: `스터디`, `프론트엔드`
   - 주최: 유데미
   - 접수: 02. 20(월) ~ 03. 19(일)
+- __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
+  - 분류: `웨비나`, `기술일반`
+  - 주최: 엔비디아
+  - 일시: 03. 20(월) ~ 03. 24(금)
 - __[핵테온 세종(HackTheon Sejong) 국제 대학생 사이버보안 경진대회](https://www.hacktheon.org/)__
   - 분류: `대회`, `보안`
   - 주최: 세종특별시
@@ -235,10 +233,18 @@
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
   - 일시: 03. 26(일) 14:00 ~ 20:00
+- __[개발자, 한 달에 책 한 권 읽기 2023년 3월 모임](https://festa.io/events/3230)__
+  - 분류: `오프라인`, `스터디`
+  - 주최: 코딩의 신
+  - 일시: 03. 27(월) 19:00 ~ 21:30
 - __[AWSKRUG [아키텍처 #architecture x 구디 #gudi] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 03. 30(목) 19:30 ~ 21:30
+- __[NGINX Unit 커뮤니티](https://nginxstore.com/nginx-unit-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%96%89%EC%82%AC-%ED%8E%98%EC%9D%B4%EC%A7%80/)__
+  - 분류: `오프라인`, `nginx`
+  - 주최: 아이티언
+  - 일시: 03. 30(목) 14:00 ~ 17:00
 - __[kakao x goorm제주에서 펼쳐지는 해커톤](https://9oormthon.goorm.io/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
@@ -516,6 +522,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jessi68"><img src="https://avatars.githubusercontent.com/u/47855517?v=4?s=100" width="100px;" alt="jessi68"/><br /><sub><b>jessi68</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jessi68" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://hyesungoh.xyz"><img src="https://avatars.githubusercontent.com/u/26461307?v=4?s=100" width="100px;" alt="hyesung oh"/><br /><sub><b>hyesung oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyesungoh" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://velog.io/@hojin9622"><img src="https://avatars.githubusercontent.com/u/57439651?v=4?s=100" width="100px;" alt="이호진"/><br /><sub><b>이호진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HoJin9622" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://about.mele.kr"><img src="https://avatars.githubusercontent.com/u/76844285?v=4?s=100" width="100px;" alt="Me1e"/><br /><sub><b>Me1e</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Me1e" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
