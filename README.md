@@ -213,6 +213,10 @@
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 03. 22(수) 19:30 ~ 21:30
+- __[Microsoft Digital Native Summit - 스타트업/게임사 대상](https://msevents.microsoft.com/event?id=952813087&wt.mc_id=AID3057852_QSG_EML_638237)__
+  - 분류: `오프라인`, `스타트업`, `클라우드`
+  - 주최: 한국 마이크로소프트
+  - 일시: 03. 22(수) 14:00 ~ 17:30
 - __[핵테온 세종(HackTheon Sejong) 국제 대학생 사이버보안 경진대회](https://www.hacktheon.org/)__
   - 분류: `대회`, `보안`
   - 주최: 세종특별시
