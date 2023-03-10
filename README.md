@@ -140,19 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/291680108)__
-  - 분류: `오프라인`, `모임`
-  - 주최: AWSKRUG
-  - 일시: 03. 09(목)
-
-- __[SI 탈출용 백엔드 학습 공략집 - 1차](https://festa.io/events/3224)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 03. 09(목) 19:30 ~ 21:00
 - __[프라이버시 강화 기술 세미나 '2nd PET MEETUP'](https://okky.kr/articles/1408617)__
   - 분류: `오프라인`, `보안`
   - 주최: PETKorea
   - 일시: 03. 10(금) 14:00 ~ 18:00
+
 - __[CloudCon in GO](https://festa.io/events/3199)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
@@ -209,6 +201,10 @@
   - 분류: `스터디`, `프론트엔드`
   - 주최: 유데미
   - 접수: 02. 20(월) ~ 03. 19(일)
+- __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클
+  - 일시: 03. 22(수) 14:00 ~ 15:00
 - __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292125866/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
