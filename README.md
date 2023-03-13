@@ -140,35 +140,19 @@
 <br />
 
 ## 23년 03월
-- __[프라이버시 강화 기술 세미나 '2nd PET MEETUP'](https://okky.kr/articles/1408617)__
-  - 분류: `오프라인`, `보안`
-  - 주최: PETKorea
-  - 일시: 03. 10(금) 14:00 ~ 18:00
-
-- __[CloudCon in GO](https://festa.io/events/3199)__
-  - 분류: `오프라인`, `Go`
-  - 주최: Golang Korea
-  - 일시: 03. 11(토) 14:00 ~ 18:00
-- __[How To Achieve More: 일이 되게 하는 법](https://www.wanted.co.kr/events/git_it_achievemore)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 마이크로소프트
-  - 일시: 03. 11(토) 10:00
-- __[디프만 13th 모집](https://www.depromeet.com/)__
-  - 분류: `동아리`
-  - 주최: 디프만
-  - 접수: 03. 06(월) ~ 03. 12(일)
-- __[SOPT 32기 YB 모집](https://sopt-recruiting.web.app/recruiting/apply/yb)__
-  - 분류: `동아리`
-  - 주최: SOPT
-  - 접수: 03. 06(월) ~ 03. 11(토)
 - __[SI 탈출용 백엔드 학습 공략집 - 2차](https://festa.io/events/3224)__
   - 분류: `웨비나`, `커리어`
   - 주최: 메가테라
   - 일시: 03. 13(월) 19:30 ~ 21:00
+  
 - __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
   - 분류: `웨비나`, `인프라`
   - 주최: 메가존클라우드
   - 일시: 03. 14(화)
+- __[[챗GPT 러닝데이] 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/2308/discussion/196)__
+  - 분류: `웨비나`, `AI`
+  - 주최: AIF ACTORY
+  - 일시: 03. 14(화) 20:00
 - __[AWSKRUG 스타트업 #Beginner 소모임](https://www.meetup.com/awskrug/events/291974630/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -249,11 +233,15 @@
 <br />
 
 ## 23년 04월
+- __[Flutter Forward Extended Korea](https://festa.io/events/3201)__
+  - 분류: `오프라인`, `Flutter`
+  - 주최: Flutter Seoul
+  - 일시: 04. 01(토) 13:00 ~ 18:00
+
 - __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
   - 분류: `오프라인`, `vmware`
   - 주최: vmware
   - 일시: 04. 06(목) 08:00 ~ 17:00
-
 - __[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)__
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
