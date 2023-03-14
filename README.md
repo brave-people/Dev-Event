@@ -140,15 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[SI 탈출용 백엔드 학습 공략집 - 2차](https://festa.io/events/3224)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 03. 13(월) 19:30 ~ 21:00
-  
 - __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
   - 분류: `웨비나`, `인프라`
   - 주최: 메가존클라우드
   - 일시: 03. 14(화)
+
 - __[[챗GPT 러닝데이] 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/2308/discussion/196)__
   - 분류: `웨비나`, `AI`
   - 주최: AIF ACTORY
@@ -169,6 +165,10 @@
   - 분류: `커리어`
   - 주최: 원티드
   - 일시: 02. 28(화) ~ 03. 16(목)
+- __[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3252)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 메가테라
+  - 일시: 03. 16(목) 19:30 ~ 21:00
 - __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
   - 분류: `온라인`, `클라우드`, `오픈소스`
   - 주최: 한국 Microsoft
@@ -184,6 +184,10 @@
 - __[4주 완성 기술 블로그 챌린지 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeNpuQ9cwxKq6rnBSVMORzqpImEch1miOwcqG55qTas8michw/viewform)__
   - 분류: `스터디`, `프론트엔드`
   - 주최: 유데미
+  - 접수: 02. 20(월) ~ 03. 19(일)
+- __[글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://festa.io/events/3255)__
+  - 분류: `웨비나`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
   - 접수: 02. 20(월) ~ 03. 19(일)
 - __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
   - 분류: `웨비나`, `클라우드`
