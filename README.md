@@ -258,7 +258,11 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 04. 19(수) ~ 04. 20(목)
-  
+- __[Data+AI World Tour](https://pages.databricks.com/202304-APJ-FE-KOREA-DAIWT_DAIWT-2023-APJ-Reg-Page---SEOUL-KOREA.html)__
+  - 분류: `오프라인`, `Data`, `AI`
+  - 주최: Databricks
+  - 일시: 04. 25(화) 09:00 ~ 16:45
+
 <br />
 
 ## 23년 05월
