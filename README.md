@@ -140,19 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[제로트러스트로 백프로 안전한 사내 인프라 구축하기](https://www.megazone.com/applicationform_zerotrustwebinar/)__
-  - 분류: `웨비나`, `인프라`
-  - 주최: 메가존클라우드
-  - 일시: 03. 14(화)
-
-- __[[챗GPT 러닝데이] 초급 - CNN, RNN, Seq2Seq, Attention](https://aifactory.space/learning/2308/discussion/196)__
-  - 분류: `웨비나`, `AI`
-  - 주최: AIF ACTORY
-  - 일시: 03. 14(화) 20:00
 - __[AWSKRUG 스타트업 #Beginner 소모임](https://www.meetup.com/awskrug/events/291974630/)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 03. 15(수) 19:00
+
 - __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
@@ -233,6 +225,10 @@
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 일시: 03. 28(화) ~ 03. 31(금)
+- __[2023 채용전환형 구글 클라우드 엔지니어(GCP) 교육생 모집](https://xmukacmt.ninehire.site/job_posting/XEczC5rx)__
+  - 분류: `교육`, `클라우드`
+  - 주최: 메가존소프트
+  - 접수: 02. 27(월) ~ 03. 31(금)
 
 <br />
 
@@ -250,6 +246,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
   - 일시: 04. 08(토) 14:00 ~ 17:00
+- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 하시코프
+  - 일시: 04. 01(화) 14:00 ~ 17:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
