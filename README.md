@@ -181,6 +181,10 @@
   - 분류: `웨비나`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 접수: 02. 20(월) ~ 03. 19(일)
+- __[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)__
+  - 분류: `온라인`, `워크숍`
+  - 주최: Apple Korea
+  - 일시: 03. 20(월) 10:00 ~ 03. 21(화) 15:00
 - __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
