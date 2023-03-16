@@ -140,15 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[AWSKRUG 스타트업 #Beginner 소모임](https://www.meetup.com/awskrug/events/291974630/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 03. 15(수) 19:00
-
 - __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
   - 분류: `웨비나`, `커리어`
   - 주최: 원티드
   - 일시: 02. 28(화) ~ 03. 16(목)
+  
 - __[오늘의집 개발자 대규모 경력 채용설명회](https://docs.google.com/forms/d/e/1FAIpQLSdLTRFqROIlKVcLzx9wX-vwkHDK1vOqZdlBRyGVu-PnvASWgg/viewform)__
   - 분류: `웨비나`, `커리어`
   - 주최: 오늘의집
@@ -185,6 +181,14 @@
   - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 20(월) 10:00 ~ 03. 21(화) 15:00
+- __[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)__
+  - 분류: `온라인`, `워크숍`
+  - 주최: Apple Korea
+  - 일시: 03. 20(월) 10:00 ~ 03. 21(화) 15:00
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/292066382/)__
+  - 분류: `오프라인`, `모임`
+  - 주최: AWSKRUG
+  - 일시: 03. 21(화) 19:00 ~ 21:00
 - __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
@@ -201,10 +205,18 @@
   - 분류: `대회`, `보안`
   - 주최: 세종특별시
   - 접수: 03. 06(월) ~ 03. 22(수)
+- __[실리콘밸리 데이터 엔지니어의 Career Talk](https://festa.io/events/3264)__
+  - 분류: `웨비나`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 접수: 03. 16(목) ~ 03. 23(목)
 - __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
   - 분류: `웨비나`, `기술일반`
   - 주최: 엔비디아
   - 일시: 03. 20(월) ~ 03. 24(금)
+- __[GDG Daejeon 주간 코드랩](https://www.nvidia.com/ko-kr/gtc/)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: GDG 대전
+  - 일시: 03. 25(토) 14:00 ~ 17:00
 - __[우분투한국커뮤니티 2023 정기총회(겸 세미나)](https://event.ubuntu-kr.org/2022/05/21/2023-general-assembly/)__
   - 분류: `오프라인`, `리눅스`
   - 주최: 우분투한국커뮤니티
@@ -217,6 +229,14 @@
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
   - 일시: 03. 27(월) 19:00 ~ 21:30
+- __[Elixir: 대용량 분산 웹개발의 혁명](https://forms.gle/qHFHiQJ5HVh2m8px9)__
+  - 분류: `웨비나`, `Elixir`
+  - 주최: OKKY
+  - 일시: 03. 27(월) 20:00 ~ 21:00
+- __[클라우드 개념부터 시나리오에 기반한 데모까지, 한 번에 정복!](https://forms.gle/qHFHiQJ5HVh2m8px9)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: NHN 클라우드
+  - 일시: 03. 28(화) 14:00
 - __[AWSKRUG [아키텍처 #architecture x 구디 #gudi] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -238,7 +258,7 @@
 
 ## 23년 04월
 - __[Women Techmakers Korea 2023](https://festa.io/events/3233)__
-  - 분류: `오프라인`, `기술일반`, `여성`
+  - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Women Techmakers Korea
   - 일시: 04. 01(토) 13:00 ~ 17:30
   
