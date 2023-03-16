@@ -771,6 +771,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kdomo",
+      "name": "도모",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64088250?v=4",
+      "profile": "https://velog.io/@domo",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
