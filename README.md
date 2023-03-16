@@ -237,11 +237,15 @@
 <br />
 
 ## 23년 04월
+- __[Women Techmakers Korea 2023](https://festa.io/events/3233)__
+  - 분류: `오프라인`, `기술일반`, `여성`
+  - 주최: Women Techmakers Korea
+  - 일시: 04. 01(토) 13:00 ~ 17:30
+  
 - __[Flutter Forward Extended Korea](https://festa.io/events/3201)__
   - 분류: `오프라인`, `Flutter`
   - 주최: Flutter Seoul
   - 일시: 04. 01(토) 13:00 ~ 18:00
-
 - __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
   - 분류: `오프라인`, `vmware`
   - 주최: vmware
