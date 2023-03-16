@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-84-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-85-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -519,6 +519,9 @@
       <td align="center" valign="top" width="14.28%"><a href="http://hyesungoh.xyz"><img src="https://avatars.githubusercontent.com/u/26461307?v=4?s=100" width="100px;" alt="hyesung oh"/><br /><sub><b>hyesung oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyesungoh" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://velog.io/@hojin9622"><img src="https://avatars.githubusercontent.com/u/57439651?v=4?s=100" width="100px;" alt="이호진"/><br /><sub><b>이호진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HoJin9622" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://about.mele.kr"><img src="https://avatars.githubusercontent.com/u/76844285?v=4?s=100" width="100px;" alt="Me1e"/><br /><sub><b>Me1e</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Me1e" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://minny27.tistory.com/"><img src="https://avatars.githubusercontent.com/u/68800789?v=4?s=100" width="100px;" alt="Will"/><br /><sub><b>Will</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Minny27" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
