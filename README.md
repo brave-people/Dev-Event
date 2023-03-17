@@ -140,27 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 원티드
-  - 일시: 02. 28(화) ~ 03. 16(목)
-  
-- __[오늘의집 개발자 대규모 경력 채용설명회](https://docs.google.com/forms/d/e/1FAIpQLSdLTRFqROIlKVcLzx9wX-vwkHDK1vOqZdlBRyGVu-PnvASWgg/viewform)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 오늘의집
-  - 일시: 03. 16(목) 19:00 ~ 21:00
-- __[프리온보딩 커리어 킥오프 2023 Spring](https://www.wanted.co.kr/events/pre_kickoff_2023_spring)__
-  - 분류: `커리어`
-  - 주최: 원티드
-  - 일시: 02. 28(화) ~ 03. 16(목)
-- __[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우](https://festa.io/events/3252)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 메가테라
-  - 일시: 03. 16(목) 19:30 ~ 21:00
 - __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
   - 분류: `온라인`, `클라우드`, `오픈소스`
   - 주최: 한국 Microsoft
   - 일시: 03. 17(금) 13:30 ~ 17:30
+
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
@@ -221,6 +205,10 @@
   - 분류: `오프라인`, `리눅스`
   - 주최: 우분투한국커뮤니티
   - 일시: 03. 26(일) 14:00 ~ 17:30
+- __[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기](https://event-us.kr/cs/event/58735)__
+  - 분류: `웨비나`, `스위프트`
+  - 주최: 코드스테이츠
+  - 일시: 03. 26(일) 13:30 ~ 17:30
 - __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
@@ -261,7 +249,11 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Women Techmakers Korea
   - 일시: 04. 01(토) 13:00 ~ 17:30
-  
+
+- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 하시코프
+  - 일시: 04. 01(화) 14:00 ~ 17:00
 - __[Flutter Forward Extended Korea](https://festa.io/events/3201)__
   - 분류: `오프라인`, `Flutter`
   - 주최: Flutter Seoul
@@ -274,14 +266,14 @@
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
   - 일시: 04. 08(토) 14:00 ~ 17:00
-- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 하시코프
-  - 일시: 04. 01(화) 14:00 ~ 17:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
   - 일시: 02. 20(화) ~ 04. 14(금)
+- __[아이펠 교육생 모집](https://www.aiffel.io/)__
+  - 분류: `교육`, `AI`
+  - 주최: 모두의 연구소
+  - 접수: 03. 17(금) ~ 04. 14(금)
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
