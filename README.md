@@ -118,8 +118,8 @@
             <!-- <td> 종료 행사 </td> -->
             <td>2023년</td>
             <td>
-              <a href="./2023/23_01.md"> 01월 </a>
-              <a href="./2023/23_02.md"> 02월 </a>
+              <a href="./2023/23_01.md"> 01월 </a>,
+              <a href="./2023/23_02.md"> 02월 </a>,
               <a href="./2023/23_03.md"> 03월 </a>
             </td>
         </tr>
@@ -140,15 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[Microsoft Open Source Day 2023 in Seoul](https://msevents.microsoft.com/event?id=4171030101)__
-  - 분류: `온라인`, `클라우드`, `오픈소스`
-  - 주최: 한국 Microsoft
-  - 일시: 03. 17(금) 13:30 ~ 17:30
-
 - __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
   - 분류: `오프라인`, `모임`
   - 주최: GDG 인천
   - 일시: 03. 18(토) 13:00 ~ 19:30
+
 - __[파이토치 한국 사용자 모임 제2회 세미나](https://festa.io/events/3220)__
   - 분류: `오프라인`, `AI`
   - 주최: 파이토치 한국 사용자 모임
@@ -189,6 +185,10 @@
   - 분류: `웨비나`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 접수: 03. 16(목) ~ 03. 23(목)
+- __[3월 Tech 세미나 - Datadog의 FrontEnd에서 BackEnd까지의 여정](https://devocean.sk.com/events/view.do?id=159)__
+  - 분류: `웨비나`, `Datadob`
+  - 주최: DEVOCEAN
+  - 일시: 03. 23(목) 19:00 ~ 21:00
 - __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
   - 분류: `웨비나`, `기술일반`
   - 주최: 엔비디아
@@ -209,6 +209,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: iOS Daejeon Club
   - 일시: 03. 26(일) 14:00 ~ 20:00
+- __[청년IT전문가 아카데미 5기 교육생 선발](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=45212228&view_type=list)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 포스코ICT
+  - 일시: 03. 18(토) ~ 03. 26(일) 23:59
 - __[개발자, 한 달에 책 한 권 읽기 2023년 3월 모임](https://festa.io/events/3230)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
