@@ -250,10 +250,6 @@
   - 주최: Women Techmakers Korea
   - 일시: 04. 01(토) 13:00 ~ 17:30
 
-- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 하시코프
-  - 일시: 04. 01(화) 14:00 ~ 17:00
 - __[Flutter Forward Extended Korea](https://festa.io/events/3201)__
   - 분류: `오프라인`, `Flutter`
   - 주최: Flutter Seoul
@@ -266,6 +262,10 @@
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
   - 일시: 04. 08(토) 14:00 ~ 17:00
+- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 하시코프
+  - 일시: 04. 11(화) 14:00 ~ 17:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
