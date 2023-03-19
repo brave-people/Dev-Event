@@ -338,6 +338,7 @@
 | 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
 | 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
+| 메타버스 아카데미 | [Homepage](https://mtvs.kr) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
