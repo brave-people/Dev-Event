@@ -140,27 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[HelloWorld. 23 in Incheon](https://festa.io/events/3182)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG 인천
-  - 일시: 03. 18(토) 13:00 ~ 19:30
-
-- __[파이토치 한국 사용자 모임 제2회 세미나](https://festa.io/events/3220)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 파이토치 한국 사용자 모임
-  - 일시: 03. 18(토) 13:30 ~ 18:00
-- __[4주 완성 기술 블로그 챌린지 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeNpuQ9cwxKq6rnBSVMORzqpImEch1miOwcqG55qTas8michw/viewform)__
-  - 분류: `스터디`, `프론트엔드`
-  - 주최: 유데미
-  - 접수: 02. 20(월) ~ 03. 19(일)
-- __[글로벌 MLOps 트렌드와 한국형 MLOps 전략](https://festa.io/events/3255)__
-  - 분류: `웨비나`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 02. 20(월) ~ 03. 19(일)
 - __[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)__
   - 분류: `온라인`, `워크숍`
   - 주최: Apple Korea
   - 일시: 03. 20(월) 10:00 ~ 03. 21(화) 15:00
+
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/292066382/)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
@@ -258,10 +242,22 @@
   - 분류: `오프라인`, `Flutter`
   - 주최: Flutter Seoul
   - 일시: 04. 01(토) 13:00 ~ 18:00
+- __[메타버스 아카데미 2기](https://mtvs.kr/user/custom/edu/info/2)__
+  - 분류: `오프라인`, `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 03. 10(금) ~ 04. 02(일)
+- __[토스 스터디 클럽](https://toss.im/career/toss-study-club?utm_source=github_dev_event&utm_medium=post&utm_campaign=tossstudyclub23)__
+  - 분류: `오프라인`, `스터디`, `서버`, `프론트`
+  - 주최: 토스
+  - 접수: 03. 20(월) ~ 04. 05(수)
 - __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
   - 분류: `오프라인`, `vmware`
   - 주최: vmware
   - 일시: 04. 06(목) 08:00 ~ 17:00
+- __[성능 전문가가 알려주는 성능 튜닝 이야기](https://festa.io/events/3285)__
+  - 분류: `오프라인`, `QA`
+  - 주최: IMQA
+  - 일시: 04. 07(금) 14:00 ~ 16:30
 - __[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)__
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
