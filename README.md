@@ -225,6 +225,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 03. 28(화) 14:00
+- __[Microsoft + OpenAI Conference](https://msevents.microsoft.com/event?id=3208776300)__
+  - 분류: `온라인`, `클라우드`, `AI`
+  - 주최: 한국 마이크로소프트
+  - 일시: 03. 30(목) 9:30 ~ 11:30
 - __[AWSKRUG [아키텍처 #architecture x 구디 #gudi] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
