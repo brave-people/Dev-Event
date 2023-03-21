@@ -140,15 +140,15 @@
 <br />
 
 ## 23년 03월
-- __[Design Challenge (Asia Pacific) - Part 2](https://developer.apple.com/events/view/2C68444T22/dashboard)__
-  - 분류: `온라인`, `워크숍`
-  - 주최: Apple Korea
-  - 일시: 03. 20(월) 10:00 ~ 03. 21(화) 15:00
-
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/292066382/)__
   - 분류: `오프라인`, `모임`
   - 주최: AWSKRUG
   - 일시: 03. 21(화) 19:00 ~ 21:00
+
+- __[GTC 2023 키노트](https://www.nvidia.com/ko-kr/gtc/keynote/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVIDIA
+  - 일시: 03. 22(수) 00:00
 - __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
@@ -172,6 +172,10 @@
 - __[3월 Tech 세미나 - Datadog의 FrontEnd에서 BackEnd까지의 여정](https://devocean.sk.com/events/view.do?id=159)__
   - 분류: `웨비나`, `Datadob`
   - 주최: DEVOCEAN
+  - 일시: 03. 23(목) 19:00 ~ 21:00
+- __[BNB Chain Innovation Roadshow - Seoul](https://lu.ma/1mclbqmo)__
+  - 분류: `모임`, `블록체인`
+  - 주최: BNB Chain
   - 일시: 03. 23(목) 19:00 ~ 21:00
 - __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
   - 분류: `웨비나`, `기술일반`
@@ -278,6 +282,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 04. 19(수) ~ 04. 20(목)
+- __[제4회 2023 연구개발특구 AI SPARK 챌린지](https://aifactory.space/competition/detail/2299)__
+  - 분류: `대회`, `AI`
+  - 주최: SPACE-S
+  - 접수: 03. 17(금) ~ 04. 21(금)
 - __[Data+AI World Tour](https://pages.databricks.com/202304-APJ-FE-KOREA-DAIWT_DAIWT-2023-APJ-Reg-Page---SEOUL-KOREA.html)__
   - 분류: `오프라인`, `Data`, `AI`
   - 주최: Databricks
