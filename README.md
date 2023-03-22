@@ -140,15 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/292066382/)__
-  - 분류: `오프라인`, `모임`
-  - 주최: AWSKRUG
-  - 일시: 03. 21(화) 19:00 ~ 21:00
-
 - __[GTC 2023 키노트](https://www.nvidia.com/ko-kr/gtc/keynote/)__
   - 분류: `웨비나`, `AI`
   - 주최: NVIDIA
   - 일시: 03. 22(수) 00:00
+
 - __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 오라클
@@ -201,6 +197,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 포스코ICT
   - 일시: 03. 18(토) ~ 03. 26(일) 23:59
+- __[3월 우아한테크세미나 참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfdm8NXSKoAXNZAjab-jHv22-pldCdi-XSjhc-GlJhtVQr6gw/viewform)__
+  - 분류: `온라인`, `오프라인`, `기술일반`
+  - 주최: 우아한형제들
+  - 일시: 03. 22(수) ~ 03. 29(수) 19:00
 - __[개발자, 한 달에 책 한 권 읽기 2023년 3월 모임](https://festa.io/events/3230)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
@@ -254,6 +254,10 @@
   - 분류: `오프라인`, `스터디`, `서버`, `프론트`
   - 주최: 토스
   - 접수: 03. 20(월) ~ 04. 05(수)
+- __[2023 블록체인 밋업 컨퍼런스](https://event-us.kr/ConventionSOOP/event/58637)__
+  - 분류: `온라인`, `오프라인`, `블록체인`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 15(수) ~ 04. 05(수) 18:00
 - __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
   - 분류: `오프라인`, `vmware`
   - 주최: vmware
@@ -270,6 +274,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 하시코프
   - 일시: 04. 11(화) 14:00 ~ 17:00
+- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/292399333/)__
+  - 분류: `오프라인`, `데이터`
+  - 주최: AWSKRUG
+  - 일시: 04. 13(목) 19:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
