@@ -140,47 +140,15 @@
 <br />
 
 ## 23년 03월
-- __[GTC 2023 키노트](https://www.nvidia.com/ko-kr/gtc/keynote/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVIDIA
-  - 일시: 03. 22(수) 00:00
-
-- __[폭주하는 트래픽을 오라클 클라우드로 안정적으로 처리한 올리브영 사례 알아보기](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x823746abcd)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클
-  - 일시: 03. 22(수) 14:00 ~ 15:00
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292125866/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 03. 22(수) 19:30 ~ 21:30
-- __[Microsoft Digital Native Summit - 스타트업/게임사 대상](https://msevents.microsoft.com/event?id=952813087&wt.mc_id=AID3057852_QSG_EML_638237)__
-  - 분류: `오프라인`, `스타트업`, `클라우드`
-  - 주최: 한국 마이크로소프트
-  - 일시: 03. 22(수) 14:00 ~ 17:30
-- __[핵테온 세종(HackTheon Sejong) 국제 대학생 사이버보안 경진대회](https://www.hacktheon.org/)__
-  - 분류: `대회`, `보안`
-  - 주최: 세종특별시
-  - 접수: 03. 06(월) ~ 03. 22(수)
-- __[실리콘밸리 데이터 엔지니어의 Career Talk](https://festa.io/events/3264)__
-  - 분류: `웨비나`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 03. 16(목) ~ 03. 23(목)
-- __[3월 Tech 세미나 - Datadog의 FrontEnd에서 BackEnd까지의 여정](https://devocean.sk.com/events/view.do?id=159)__
-  - 분류: `웨비나`, `Datadob`
-  - 주최: DEVOCEAN
-  - 일시: 03. 23(목) 19:00 ~ 21:00
-- __[BNB Chain Innovation Roadshow - Seoul](https://lu.ma/1mclbqmo)__
-  - 분류: `모임`, `블록체인`
-  - 주최: BNB Chain
-  - 일시: 03. 23(목) 19:00 ~ 21:00
-- __[ChatGPT와 엔비디아, 그리고 AI](https://www.nvidia.com/ko-kr/gtc/)__
-  - 분류: `웨비나`, `기술일반`
-  - 주최: 엔비디아
-  - 일시: 03. 20(월) ~ 03. 24(금)
 - __[GDG Daejeon 주간 코드랩](https://www.nvidia.com/ko-kr/gtc/)__
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG 대전
   - 일시: 03. 25(토) 14:00 ~ 17:00
+
+- __[제 7회 와글와글 iOS](https://leeo75.notion.site/7-iOS-2023-3-25-13880c4f2afd4a1c8cdab3ce68ed14fd)__
+  - 분류: `온라인`, `iOS`
+  - 주최: 와글와글 iOS
+  - 일시: 03. 25(토) 20:30 ~ 21:30
 - __[우분투한국커뮤니티 2023 정기총회(겸 세미나)](https://event.ubuntu-kr.org/2022/05/21/2023-general-assembly/)__
   - 분류: `오프라인`, `리눅스`
   - 주최: 우분투한국커뮤니티
@@ -213,6 +181,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 03. 28(화) 14:00
+- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/292200230/)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 03. 29(수) 19:00 ~ 20:30
 - __[Microsoft + OpenAI Conference](https://msevents.microsoft.com/event?id=3208776300)__
   - 분류: `온라인`, `클라우드`, `AI`
   - 주최: 한국 마이크로소프트
@@ -258,10 +230,18 @@
   - 분류: `온라인`, `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
   - 접수: 03. 15(수) ~ 04. 05(수) 18:00
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/292358230)__
+  - 분류: `온라인`, `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 04. 05(수) 19:30 ~ 21:30
 - __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
   - 분류: `오프라인`, `vmware`
   - 주최: vmware
   - 일시: 04. 06(목) 08:00 ~ 17:00
+- __[제4회 테크 데이 - Kubernetes Korea Group 커뮤니티 기술 세미나](https://devocean.sk.com/events/view.do?id=160)__
+  - 분류: `오프라인`, `쿠버네티스`
+  - 주최: DEVOCEAN
+  - 일시: 04. 06(목) 14:00 ~ 17:20
 - __[성능 전문가가 알려주는 성능 튜닝 이야기](https://festa.io/events/3285)__
   - 분류: `오프라인`, `QA`
   - 주최: IMQA
@@ -274,6 +254,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 하시코프
   - 일시: 04. 11(화) 14:00 ~ 17:00
+- __[GDG: 수수한밤 첫번째](https://gdg.community.dev/events/details/google-gdg-seoul-presents-susuhanbam-ceosbeonjjae/)__
+  - 분류: `온라인`, `커뮤니티`
+  - 주최: GDG Seoul
+  - 일시: 04. 12(수) 20:00
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/292399333/)__
   - 분류: `오프라인`, `데이터`
   - 주최: AWSKRUG
@@ -290,6 +274,14 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 04. 19(수) ~ 04. 20(목)
+- __[AI 심화 스터디](https://m.post.naver.com/viewer/postView.naver?volumeNo=35664080&memberNo=34635212)__
+  - 분류: `스터디`, `AI`
+  - 주최: 커넥츠재단
+  - 일시: 03. 23(목) ~ 04. 20(목)
+- __[Cloud · AI 일타 강사와 함께하는 IT 기업 비개발자 모임](https://navercloud.typeform.com/to/v0lK6TE4)__
+  - 분류: `스터디`, `클라우드`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 04. 20(목) 19:00 ~ 21:00
 - __[제4회 2023 연구개발특구 AI SPARK 챌린지](https://aifactory.space/competition/detail/2299)__
   - 분류: `대회`, `AI`
   - 주최: SPACE-S
@@ -306,6 +298,11 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: AWS
   - 일시: 05. 03(수) ~ 05. 04(목)
+
+- __[2023 찰스의 안드로이드 컨퍼런스](https://festa.io/events/3287)__
+  - 분류: `유료`, `오프라인`, `안드로이드`
+  - 주최: 찰스의 안드로이드
+  - 일시: 05. 21(일) 13:00 ~ 17:30
 
 ----------------
 
@@ -355,6 +352,7 @@
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
 | 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
 | 메타버스 아카데미 | [Homepage](https://mtvs.kr) |
+| 모두의 연구소: 풀잎스쿨 | [Homepage](https://modulabs.co.kr/apply-flip/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -412,6 +410,9 @@
 | Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
 | 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
 | JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
+| 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
+| Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
+
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
