@@ -225,7 +225,7 @@
 - __[토스 스터디 클럽](https://toss.im/career/toss-study-club?utm_source=github_dev_event&utm_medium=post&utm_campaign=tossstudyclub23)__
   - 분류: `오프라인`, `스터디`, `서버`, `프론트`
   - 주최: 토스
-  - 접수: 03. 20(월) ~ 04. 05(수)
+  - 접수: 03. 20(월) ~ 03. 31(금)
 - __[2023 블록체인 밋업 컨퍼런스](https://event-us.kr/ConventionSOOP/event/58637)__
   - 분류: `온라인`, `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
