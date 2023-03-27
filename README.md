@@ -140,35 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[GDG Daejeon 주간 코드랩](https://www.nvidia.com/ko-kr/gtc/)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: GDG 대전
-  - 일시: 03. 25(토) 14:00 ~ 17:00
-
-- __[제 7회 와글와글 iOS](https://leeo75.notion.site/7-iOS-2023-3-25-13880c4f2afd4a1c8cdab3ce68ed14fd)__
-  - 분류: `온라인`, `iOS`
-  - 주최: 와글와글 iOS
-  - 일시: 03. 25(토) 20:30 ~ 21:30
-- __[우분투한국커뮤니티 2023 정기총회(겸 세미나)](https://event.ubuntu-kr.org/2022/05/21/2023-general-assembly/)__
-  - 분류: `오프라인`, `리눅스`
-  - 주최: 우분투한국커뮤니티
-  - 일시: 03. 26(일) 14:00 ~ 17:30
-- __[Swift로 일상생활에서 쓸 수 있는 iOS앱 만들기](https://event-us.kr/cs/event/58735)__
-  - 분류: `웨비나`, `스위프트`
-  - 주최: 코드스테이츠
-  - 일시: 03. 26(일) 13:30 ~ 17:30
-- __[제 1회 정기 세미나 by iOS Daejeon Club](https://festa.io/events/3063)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: iOS Daejeon Club
-  - 일시: 03. 26(일) 14:00 ~ 20:00
-- __[청년IT전문가 아카데미 5기 교육생 선발](https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=45212228&view_type=list)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 포스코ICT
-  - 일시: 03. 18(토) ~ 03. 26(일) 23:59
 - __[3월 우아한테크세미나 참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfdm8NXSKoAXNZAjab-jHv22-pldCdi-XSjhc-GlJhtVQr6gw/viewform)__
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 우아한형제들
   - 일시: 03. 22(수) ~ 03. 29(수) 19:00
+
 - __[개발자, 한 달에 책 한 권 읽기 2023년 3월 모임](https://festa.io/events/3230)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
@@ -181,6 +157,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 03. 28(화) 14:00
+- __[ChatGPT 기반 나만의 챗봇 서비스 개발](https://aifactory.space/learning/detail/2307)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 인공지능팩토리
+  - 일시: 03. 28(화) 19:00 ~ 20:00
+- __[ChatGPT로 똑똑하게 일하기](https://aifactory.space/learning/detail/2297)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 인공지능팩토리
+  - 일시: 03. 28(화) 20:00 ~ 21:00
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/292200230/)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -270,11 +254,15 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의 연구소
   - 접수: 03. 17(금) ~ 04. 14(금)
+- __[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: Swift Coding Club
+  - 일시: 04. 15(토) 16:00 ~ 19:00
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 04. 19(수) ~ 04. 20(목)
-- __[AI 심화 스터디](https://m.post.naver.com/viewer/postView.naver?volumeNo=35664080&memberNo=34635212)__
+- __[네이버 커넥트재단 코칭스터디 10기: AI 심화 스터디](https://m.post.naver.com/viewer/postView.naver?volumeNo=35664080&memberNo=34635212)__
   - 분류: `스터디`, `AI`
   - 주최: 커넥츠재단
   - 일시: 03. 23(목) ~ 04. 20(목)
@@ -282,6 +270,10 @@
   - 분류: `스터디`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 04. 20(목) 19:00 ~ 21:00
+- __[한국 SAFe 커뮤니티 4월 밋업](https://festa.io/events/3312)__
+  - 분류: `오프라인`, `모임`
+  - 주최: 한국 SAFe 커뮤니티
+  - 일시: 04. 20(목) 19:30 ~ 21:30
 - __[제4회 2023 연구개발특구 AI SPARK 챌린지](https://aifactory.space/competition/detail/2299)__
   - 분류: `대회`, `AI`
   - 주최: SPACE-S
