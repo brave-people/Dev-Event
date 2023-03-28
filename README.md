@@ -140,23 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[3월 우아한테크세미나 참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfdm8NXSKoAXNZAjab-jHv22-pldCdi-XSjhc-GlJhtVQr6gw/viewform)__
-  - 분류: `온라인`, `오프라인`, `기술일반`
-  - 주최: 우아한형제들
-  - 일시: 03. 22(수) ~ 03. 29(수) 19:00
-
-- __[개발자, 한 달에 책 한 권 읽기 2023년 3월 모임](https://festa.io/events/3230)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 코딩의 신
-  - 일시: 03. 27(월) 19:00 ~ 21:30
-- __[Elixir: 대용량 분산 웹개발의 혁명](https://forms.gle/qHFHiQJ5HVh2m8px9)__
-  - 분류: `웨비나`, `Elixir`
-  - 주최: OKKY
-  - 일시: 03. 27(월) 20:00 ~ 21:00
 - __[클라우드 개념부터 시나리오에 기반한 데모까지, 한 번에 정복!](https://festa.io/events/3266)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN 클라우드
   - 일시: 03. 28(화) 14:00
+
 - __[ChatGPT 기반 나만의 챗봇 서비스 개발](https://aifactory.space/learning/detail/2307)__
   - 분류: `오프라인`, `AI`
   - 주최: 인공지능팩토리
@@ -165,6 +153,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 인공지능팩토리
   - 일시: 03. 28(화) 20:00 ~ 21:00
+- __[3월 우아한테크세미나 참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfdm8NXSKoAXNZAjab-jHv22-pldCdi-XSjhc-GlJhtVQr6gw/viewform)__
+  - 분류: `온라인`, `오프라인`, `기술일반`
+  - 주최: 우아한형제들
+  - 일시: 03. 22(수) ~ 03. 29(수) 19:00
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/292200230/)__
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -181,6 +173,10 @@
   - 분류: `오프라인`, `nginx`
   - 주최: 아이티언
   - 일시: 03. 30(목) 14:00 ~ 17:00
+- __[Druid Meetup in 판교](https://www.meetup.com/druid-seoul/events/292084258/)__
+  - 분류: `오프라인`, `드루이드`
+  - 주최: 드루이드
+  - 일시: 03. 30(목) 18:30
 - __[kakao x goorm제주에서 펼쳐지는 해커톤](https://9oormthon.goorm.io/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
