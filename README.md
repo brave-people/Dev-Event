@@ -140,19 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[3월 우아한테크세미나 참가 신청](https://docs.google.com/forms/d/e/1FAIpQLSfdm8NXSKoAXNZAjab-jHv22-pldCdi-XSjhc-GlJhtVQr6gw/viewform)__
-  - 분류: `온라인`, `오프라인`, `기술일반`
-  - 주최: 우아한형제들
-  - 일시: 03. 22(수) ~ 03. 29(수) 19:00
-
-- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/292200230/)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 03. 29(수) 19:00 ~ 20:30
 - __[아마존웹서비스 스타트업 위크 2023](https://event-us.kr/awsSUP/event/58860)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWS KOREA
   - 일시: 03. 30(목) 9:00 ~ 18:00
+
 - __[Microsoft + OpenAI Conference](https://msevents.microsoft.com/event?id=3208776300)__
   - 분류: `온라인`, `클라우드`, `AI`
   - 주최: 한국 마이크로소프트
@@ -234,6 +226,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: 하시코프
   - 일시: 04. 11(화) 14:00 ~ 17:00
+- __[비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://go.oracle.com/LP=135629)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: Oracle
+  - 일시: 04. 12(수) 17:00 ~ 18:00
 - __[GDG: 수수한밤 첫번째](https://gdg.community.dev/events/details/google-gdg-seoul-presents-susuhanbam-ceosbeonjjae/)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: GDG Seoul
@@ -274,10 +270,22 @@
   - 분류: `대회`, `AI`
   - 주최: SPACE-S
   - 접수: 03. 17(금) ~ 04. 21(금)
+- __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
+  - 분류: `교육`, `AI`
+  - 주최: 엘리스
+  - 일시: 03. 27(월) ~ 04. 24(월)
+- __[앨리스 AI 8기 모집](https://festa.io/events/3328)__
+  - 분류: `교육`, `AI`
+  - 주최: 엘리스
+  - 일시: 03. 27(월) ~ 04. 24(월)
 - __[Data+AI World Tour](https://pages.databricks.com/202304-APJ-FE-KOREA-DAIWT_DAIWT-2023-APJ-Reg-Page---SEOUL-KOREA.html)__
   - 분류: `오프라인`, `Data`, `AI`
   - 주최: Databricks
   - 일시: 04. 25(화) 09:00 ~ 16:45
+- __[캐시엔진을 활용하여 빅쿼리(BigQuery) 200% 활용하기](https://chontv.com/event/899)__
+  - 분류: `웨비나`, `빅쿼리`
+  - 주최: 클라우드메이트
+  - 일시: 04. 26(수) 14:00 ~ 15:00
 - __[Dev 토크콘서트](https://festa.io/events/3306)__
   - 분류: `오프라인`, `기술 일반`
   - 주최: GDSC KNU
@@ -299,6 +307,14 @@
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
   - 일시: 05. 21(일) 13:00 ~ 17:30
+
+<br />
+
+## 23년 06월
+- __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: Apple
+  - 일시: 06. 05(월) ~ 06. 09(금)
 
 ----------------
 
