@@ -140,35 +140,11 @@
 <br />
 
 ## 23년 03월
-- __[아마존웹서비스 스타트업 위크 2023](https://event-us.kr/awsSUP/event/58860)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWS KOREA
-  - 일시: 03. 30(목) 9:00 ~ 18:00
-
-- __[Microsoft + OpenAI Conference](https://msevents.microsoft.com/event?id=3208776300)__
-  - 분류: `온라인`, `클라우드`, `AI`
-  - 주최: 한국 마이크로소프트
-  - 일시: 03. 30(목) 9:30 ~ 11:30
-- __[AWSKRUG [아키텍처 #architecture x 구디 #gudi] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 03. 30(목) 19:30 ~ 21:30
-- __[NGINX Unit 커뮤니티](https://nginxstore.com/nginx-unit-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%ED%96%89%EC%82%AC-%ED%8E%98%EC%9D%B4%EC%A7%80/)__
-  - 분류: `오프라인`, `nginx`
-  - 주최: 아이티언
-  - 일시: 03. 30(목) 14:00 ~ 17:00
-- __[Druid Meetup in 판교](https://www.meetup.com/druid-seoul/events/292084258/)__
-  - 분류: `오프라인`, `드루이드`
-  - 주최: 드루이드
-  - 일시: 03. 30(목) 18:30
-- __[AWSKRUG [아키텍처 x 구디] 40번째 소모임](https://www.meetup.com/awskrug/events/292066662/)__
-  - 분류: `오프라인`, `온라인`, `아키텍처`
-  - 주최: AWSKRUG
-  - 일시: 03. 30(목) 19:30 ~ 21:30
 - __[kakao x goorm제주에서 펼쳐지는 해커톤](https://9oormthon.goorm.io/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 일시: 03. 28(화) ~ 03. 31(금)
+  
 - __[2023 채용전환형 구글 클라우드 엔지니어(GCP) 교육생 모집](https://xmukacmt.ninehire.site/job_posting/XEczC5rx)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존소프트
@@ -246,10 +222,18 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의 연구소
   - 접수: 03. 17(금) ~ 04. 14(금)
+- __[네이버클라우드 기반 Spark 기초 무료 강의 홍보](https://festa.io/events/3327)__
+  - 분류: `오프라인`, `Spark`
+  - 주최: 지니공공아카데미
+  - 일시: 04. 15(토) 10:00 ~ 17:00
 - __[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)__
   - 분류: `오프라인`, `iOS`
   - 주최: Swift Coding Club
   - 일시: 04. 15(토) 16:00 ~ 19:00
+- __[챗GPT MS애저톤](https://aifactory.space/competition/detail/2290)__
+  - 분류: `해커톤`, `AI`
+  - 주최: AI Factory
+  - 일시: 03. 31(금) ~ 04. 18(화)
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -270,6 +254,10 @@
   - 분류: `대회`, `AI`
   - 주최: SPACE-S
   - 접수: 03. 17(금) ~ 04. 21(금)
+- __[스프링캠프 2023](https://www.inflearn.com/course/springcamp2023#program)__
+  - 분류: `오프라인`, `스프링`
+  - 주최: 스프링캠프
+  - 접수: 04. 06(목) 14:00 ~ 04. 21(금) 23:59
 - __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
@@ -282,6 +270,10 @@
   - 분류: `오프라인`, `Data`, `AI`
   - 주최: Databricks
   - 일시: 04. 25(화) 09:00 ~ 16:45
+- __[NVIDIA OMNIVERSE SEMINAR(M&E)](https://festa.io/events/3332)__
+  - 분류: `오프라인`, `3D`
+  - 주최: NVIDIA
+  - 일시: 04. 25(화) 14:00 ~ 18:00
 - __[캐시엔진을 활용하여 빅쿼리(BigQuery) 200% 활용하기](https://chontv.com/event/899)__
   - 분류: `웨비나`, `빅쿼리`
   - 주최: 클라우드메이트
