@@ -140,19 +140,7 @@
 <br />
 
 ## 23년 03월
-- __[kakao x goorm제주에서 펼쳐지는 해커톤](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름
-  - 일시: 03. 28(화) ~ 03. 31(금)
-  
-- __[2023 채용전환형 구글 클라우드 엔지니어(GCP) 교육생 모집](https://xmukacmt.ninehire.site/job_posting/XEczC5rx)__
-  - 분류: `교육`, `클라우드`
-  - 주최: 메가존소프트
-  - 접수: 02. 27(월) ~ 03. 31(금)
-- __[토스 스터디 클럽](https://toss.im/career/toss-study-club?utm_source=github_dev_event&utm_medium=post&utm_campaign=tossstudyclub23)__
-  - 분류: `오프라인`, `스터디`, `서버`, `프론트`
-  - 주최: 토스
-  - 접수: 03. 20(월) ~ 03. 31(금)
+
 
 <br />
 
@@ -174,6 +162,10 @@
   - 분류: `오프라인`, `메타버스`
   - 주최: 모두의 연구소
   - 일시: 04. 04(화) 19:30 ~ 20:30
+- __[챗GPT MS애저톤](https://aifactory.space/competition/2290/discussion/224)__
+  - 분류: `웨비나`, `AI`
+  - 주최: AI Factory
+  - 일시: 04. 04(화) 20:00 ~ 21:00
 - __[2023 블록체인 밋업 컨퍼런스](https://event-us.kr/ConventionSOOP/event/58637)__
   - 분류: `온라인`, `오프라인`, `블록체인`
   - 주최: 과학기술정보통신부
@@ -210,6 +202,10 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: Oracle
   - 일시: 04. 12(수) 17:00 ~ 18:00
+- __[Go 언어, 어디에 써야 할까?](https://blog.goorm.io/commit_7th/)__
+  - 분류: `오프라인`, `온라인`, `Go`
+  - 주최: 구름
+  - 일시: 04. 12(수) 19:00
 - __[GDG: 수수한밤 첫번째](https://gdg.community.dev/events/details/google-gdg-seoul-presents-susuhanbam-ceosbeonjjae/)__
   - 분류: `온라인`, `커뮤니티`
   - 주최: GDG Seoul
@@ -218,6 +214,10 @@
   - 분류: `오프라인`, `데이터`
   - 주최: AWSKRUG
   - 일시: 04. 13(목) 19:00
+- __[Hyperledger Meetup Korea #35 - ChatGPT, ESG](https://festa.io/events/3336)__
+  - 분류: `오프라인`, `AI`
+  - 주최: Hyperledger Korea User Group
+  - 일시: 04. 13(목) 19:00 ~ 21:00
 - __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
   - 분류: `대회`, `AI`
   - 주최: 한국전자통신연구원
@@ -238,6 +238,10 @@
   - 분류: `해커톤`, `AI`
   - 주최: AI Factory
   - 일시: 03. 31(금) ~ 04. 18(화)
+- __[프리온보딩 프론트엔드 인턴십 (4월)](https://www.wanted.co.kr/events/pre_ob_fe_10)__
+  - 분류: `채용`
+  - 주최: 원티드
+  - 일시: 03. 29(수) ~ 04. 19(수)
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
