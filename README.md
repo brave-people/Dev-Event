@@ -201,7 +201,7 @@
 - __[YAPP 22기 모집](https://www.yapp.co.kr/recruit)__
   - 분류: `동아리`
   - 주최: YAPP
-  - 접수: 03. 31(금) ~ 04. 08(토) 23:00
+  - 접수: 03. 31(금) ~ 04. 09() 23:00
 - __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 하시코프
