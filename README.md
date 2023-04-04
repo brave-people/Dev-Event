@@ -139,29 +139,12 @@
 
 <br />
 
-## 23년 03월
-
-
-<br />
-
 ## 23년 04월
-- __[Women Techmakers Korea 2023](https://festa.io/events/3233)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: Women Techmakers Korea
-  - 일시: 04. 01(토) 13:00 ~ 17:30
-
-- __[Flutter Forward Extended Korea](https://festa.io/events/3201)__
-  - 분류: `오프라인`, `Flutter`
-  - 주최: Flutter Seoul
-  - 일시: 04. 01(토) 13:00 ~ 18:00
-- __[메타버스 아카데미 2기](https://mtvs.kr/user/custom/edu/info/2)__
-  - 분류: `오프라인`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 03. 10(금) ~ 04. 02(일)
 - __[ML+QC](https://festa.io/events/3325)__
   - 분류: `오프라인`, `메타버스`
   - 주최: 모두의 연구소
   - 일시: 04. 04(화) 19:30 ~ 20:30
+
 - __[챗GPT MS애저톤](https://aifactory.space/competition/2290/discussion/224)__
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
@@ -242,6 +225,14 @@
   - 분류: `채용`
   - 주최: 원티드
   - 일시: 03. 29(수) ~ 04. 19(수)
+- __[개발자를 위한 DevOps/DevSecOps 대상 교육/실습 세션](https://pages.awscloud.com/aws-builders-online-building-block-23q2-reg.html)__
+  - 분류: `온라인`, `오프라인`, `클라우드`
+  - 주최: AWS
+  - 일시: 04. 18(화) ~ 04. 19(수)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292659453)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 04. 19(수) 19:00 ~ 21:00
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
