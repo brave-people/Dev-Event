@@ -140,19 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[VMware Explore 2023 Korea](https://www.vmware.com/explore/kr.html)__
-  - 분류: `오프라인`, `vmware`
-  - 주최: vmware
-  - 일시: 04. 06(목) 08:00 ~ 17:00
-
-- __[제4회 테크 데이 - Kubernetes Korea Group 커뮤니티 기술 세미나](https://devocean.sk.com/events/view.do?id=160)__
-  - 분류: `오프라인`, `쿠버네티스`
-  - 주최: DEVOCEAN
-  - 일시: 04. 06(목) 14:00 ~ 17:20
 - __[성능 전문가가 알려주는 성능 튜닝 이야기](https://festa.io/events/3285)__
   - 분류: `오프라인`, `QA`
   - 주최: IMQA
   - 일시: 04. 07(금) 14:00 ~ 16:30
+
 - __[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!](https://festa.io/events/3218)__
   - 분류: `오프라인`, `iOS`
   - 주최: 참 in 스위프트
@@ -302,10 +294,23 @@
 <br />
 
 ## 23년 06월
+- __[Go To Busan 2023](https://festa.io/events/3363)__
+  - 분류: `오프라인`, `Go`
+  - 주최: Golang Korea
+  - 일시: 06. 03(토) 13:00 ~ 19:00
+
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 05(월) ~ 06. 09(금)
+
+<br />
+
+## 23년 07월
+- __[Go To Songdo 2023](https://festa.io/events/3364)__
+  - 분류: `오프라인`, `Go`
+  - 주최: Golang Korea
+  - 일시: 07. 15(토) 13:00 ~ 19:00
 
 ----------------
 
