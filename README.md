@@ -140,23 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[HashiCorp 창업자와 함께하는 HashiCorp Strategy Day 2023](https://events.hashicorp.com/KRstrategyday2023)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 하시코프
-  - 일시: 04. 11(화) 14:00 ~ 17:00
-  
-- __[Flutter 2023년 전략과 로드맵](https://festa.io/events/3358)__
-  - 분류: `온라인`, `오프라인`, `플러터`
-  - 주최: 모두의 연구소
-  - 일시: 04. 11(화) 19:30 ~ 20:30
-- __[챗GPT에 날개를 달아줄 랭체인!](https://aifactory.space/learning/2359/discussion/215)__
-  - 분류: `온라인`, `AI`
-  - 주최: 인공지능 팩토리
-  - 일시: 04. 11(화) 19:00 ~ 20:00
 - __[비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://go.oracle.com/LP=135629)__
   - 분류: `웨비나`, `클라우드`
   - 주최: Oracle
   - 일시: 04. 12(수) 17:00 ~ 18:00
+
 - __[Go 언어, 어디에 써야 할까?](https://blog.goorm.io/commit_7th/)__
   - 분류: `오프라인`, `온라인`, `Go`
   - 주최: 구름
@@ -197,10 +185,18 @@
   - 분류: `해커톤`, `AI`
   - 주최: AI Factory
   - 일시: 03. 31(금) ~ 04. 18(화)
+- __[오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)__
+  - 분류: `웨비나`, `AI`
+  - 주최: AI Factory
+  - 일시: 04. 18(화) 20:00 ~ 21:00
 - __[[MODUPOPxFlutter Seoul] Anatomy of Riverpod](https://festa.io/events/3375)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 04. 18(화) 19:30 ~ 20:30
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292659453)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 04. 19(수) 19:00 ~ 21:00
 - __[프리온보딩 프론트엔드 인턴십 (4월)](https://www.wanted.co.kr/events/pre_ob_fe_10)__
   - 분류: `채용`
   - 주최: 원티드
@@ -209,10 +205,18 @@
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWS
   - 일시: 04. 18(화) ~ 04. 19(수)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292659453)__
-  - 분류: `오프라인`, `클라우드`
+- __[앞서가는 개발자들의 3가지 비밀](https://www.wanted.co.kr/events/git_it_03)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 걸스인텍
+  - 모집: 04. 07(목) ~ 04. 19(수)
+- __[표준프레임워크 오픈커뮤니티 세미나 참여](https://form.office.naver.com/form/responseView.cmd?formkey=ZGFkMDUyZWQtZGE0NS00MjQ3LWFiZmMtYzU2YjkzMWI5NWMx&sourceId=urlshare)__
+  - 분류: `웨비나`, `벡엔드`
+  - 주최: 오픈플랫폼개발자커뮤니티
+  - 일시: 04. 19(수) 19:00
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/292841999)__
+  - 분류: `오프라인`, `보안`
   - 주최: AWSKRUG
-  - 일시: 04. 19(수) 19:00 ~ 21:00
+  - 일시: 04. 20(목) 19:00 ~ 21:00
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -241,10 +245,6 @@
   - 분류: `오프라인`, `스프링`
   - 주최: 스프링캠프
   - 접수: 04. 06(목) 14:00 ~ 04. 21(금) 23:59
-- __[앞서가는 개발자들의 3가지 비밀](https://www.wanted.co.kr/events/git_it_03)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 걸스인텍
-  - 모집: 04. 07(목) ~ 04. 19(수)
 - __[C++ Korea 2023 2월 Meet-Up](https://festa.io/events/3380)__
   - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
@@ -269,6 +269,14 @@
   - 분류: `오프라인`, `모임`
   - 주최: GDG 대구
   - 일시: 04. 25(화) 19:00 ~ 21:00
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/292744560)__
+  - 분류: `오프라인`, `Imply`
+  - 주최: AWSKRUG
+  - 일시: 04. 25(화) 19:30 ~ 21:30
+ __[애자일 코리아 밋업 4월 "워터폴 PM이 애자일을 만났을 때"](https://festa.io/events/3385)__
+  - 분류: `오프라인`, `에자일`
+  - 주최: 에자일 코리아 밋업
+  - 일시: 04. 25(화) 20:00 ~ 22:00
 - __[캐시엔진을 활용하여 빅쿼리(BigQuery) 200% 활용하기](https://chontv.com/event/899)__
   - 분류: `웨비나`, `빅쿼리`
   - 주최: 클라우드메이트
@@ -298,6 +306,10 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: AWS
   - 일시: 05. 03(수) ~ 05. 04(목)
+- __[Google I/O](https://io.google/2023/intl/ko/)__
+  - 분류: `웨비나`, `컨퍼런스`
+  - 주최: Google
+  - 일시: 05. 10(수)
 - __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
