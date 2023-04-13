@@ -140,23 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[비전문가도 쉽게 활용 가능한 오라클 자율운영 데이터베이스에서 머신러닝하기](https://go.oracle.com/LP=135629)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: Oracle
-  - 일시: 04. 12(수) 17:00 ~ 18:00
-
-- __[Go 언어, 어디에 써야 할까?](https://blog.goorm.io/commit_7th/)__
-  - 분류: `오프라인`, `온라인`, `Go`
-  - 주최: 구름
-  - 일시: 04. 12(수) 19:00
-- __[GDG: 수수한밤 첫번째](https://gdg.community.dev/events/details/google-gdg-seoul-presents-susuhanbam-ceosbeonjjae/)__
-  - 분류: `온라인`, `커뮤니티`
-  - 주최: GDG Seoul
-  - 일시: 04. 12(수) 20:00
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/292399333/)__
   - 분류: `오프라인`, `데이터`
   - 주최: AWSKRUG
   - 일시: 04. 13(목) 19:00
+
 - __[Hyperledger Meetup Korea #35 - ChatGPT, ESG](https://festa.io/events/3336)__
   - 분류: `오프라인`, `AI`
   - 주최: Hyperledger Korea User Group
@@ -181,6 +169,10 @@
   - 분류: `스터디`, `쿠버네티스`
   - 주최: Google Cloud
   - 접수: 04. 11(화) ~ 04. 16(일) 23:00
+- __[Gitlab Korea 밋업 #15 - 깃랩이 옵저버빌리티를 만드는 방식](https://festa.io/events/3388)__
+  - 분류: `웨비나`, `DevOps`
+  - 주최: Gitlab Korea
+  - 접수: 04. 28(목) 19:00 ~ 21:00
 - __[챗GPT MS애저톤](https://aifactory.space/competition/detail/2290)__
   - 분류: `해커톤`, `AI`
   - 주최: AI Factory
@@ -205,6 +197,10 @@
   - 분류: `온라인`, `오프라인`, `클라우드`
   - 주최: AWS
   - 일시: 04. 18(화) ~ 04. 19(수)
+- __[2023 오픈 프런티어 모집](https://www.oss.kr/notice/show/78b17edf-1344-46ba-b13b-136eaa9296b5)__
+  - 분류: `대회`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 모집: 03. 30(목) ~ 04. 19(목)
 - __[앞서가는 개발자들의 3가지 비밀](https://www.wanted.co.kr/events/git_it_03)__
   - 분류: `오프라인`, `커리어`
   - 주최: 걸스인텍
@@ -249,6 +245,10 @@
   - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
   - 일시: 04. 22(토) 13:00 ~ 17:00
+- __[점핏 프론트엔드](https://www.jumpit.co.kr/book-concert/12?utm_source=github_dev_event&utm_medium=conma&utm_campaign=book_concert_23fe&utm_term=20230413)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: 점핏
+  - 일시: 04. 06(목) ~ 04. 23(일)
 - __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
@@ -261,6 +261,10 @@
   - 분류: `오프라인`, `Data`, `AI`
   - 주최: Databricks
   - 일시: 04. 25(화) 09:00 ~ 16:45
+- __[NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://cloudon.nhn.com/webinar?idx=15&utm_source=github_dev_event&utm_medium=post&utm_campaign=nhncloudon&utm_content=on14&utm_term=cta_button)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: NHN Cloud
+  - 일시: 04. 25(화) 14:00 ~ 15:00
 - __[NVIDIA OMNIVERSE SEMINAR(M&E)](https://festa.io/events/3332)__
   - 분류: `오프라인`, `3D`
   - 주최: NVIDIA
@@ -281,10 +285,18 @@
   - 분류: `웨비나`, `빅쿼리`
   - 주최: 클라우드메이트
   - 일시: 04. 26(수) 14:00 ~ 15:00
+- __[AWSKRUG #magok 마곡 소모임 - 세번째 모임](https://www.meetup.com/awskrug/events/292857479)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 04. 26(수) 19:00 ~ 20:30
 - __[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임](https://festa.io/events/3376)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
   - 일시: 04. 27(목) 19:30 ~ 21:30
+- __[[MODUPOP x AI NODAJI]2023 봄 트렌드와 AI](https://festa.io/events/3391)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 04. 27(목) 19:00 ~ 22:00
 - __[Dev 토크콘서트](https://festa.io/events/3306)__
   - 분류: `오프라인`, `기술 일반`
   - 주최: GDSC KNU
@@ -314,6 +326,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
   - 일시: 05. 10(수) ~ 05. 12(금)
+- __[제주도민 모두를 위한 실시간 웹기술과 데이터활용 기술세미나](https://festa.io/events/3371)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: 지니공아카데미
+  - 일시: 05. 13(토) ~ 05. 14(일)
 - __[2023 찰스의 안드로이드 컨퍼런스](https://festa.io/events/3287)__
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
