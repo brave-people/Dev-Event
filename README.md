@@ -140,27 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/292399333/)__
-  - 분류: `오프라인`, `데이터`
-  - 주최: AWSKRUG
-  - 일시: 04. 13(목) 19:00
-
-- __[Hyperledger Meetup Korea #35 - ChatGPT, ESG](https://festa.io/events/3336)__
-  - 분류: `오프라인`, `AI`
-  - 주최: Hyperledger Korea User Group
-  - 일시: 04. 13(목) 19:00 ~ 21:00
-- __[제2회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/competition/detail/2234)__
-  - 분류: `대회`, `AI`
-  - 주최: 한국전자통신연구원
-  - 일시: 02. 20(화) ~ 04. 14(금)
-- __[아이펠 교육생 모집](https://www.aiffel.io/)__
-  - 분류: `교육`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 03. 17(금) ~ 04. 14(금)
 - __[네이버클라우드 기반 Spark 기초 무료 강의 홍보](https://festa.io/events/3327)__
   - 분류: `오프라인`, `Spark`
   - 주최: 지니공공아카데미
   - 일시: 04. 15(토) 10:00 ~ 17:00
+
 - __[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)__
   - 분류: `오프라인`, `iOS`
   - 주최: Swift Coding Club
@@ -229,6 +213,10 @@
   - 분류: `웨비나`, `AI`
   - 주최: DEVOCEAN
   - 일시: 04. 20(목) 10:00 ~ 12:00
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/292841999/)__
+  - 분류: `웨비나`, `보안`
+  - 주최: AWSKRUG
+  - 일시: 04. 20(목) 19:00 ~ 21:00
 - __[한국 SAFe 커뮤니티 4월 밋업](https://festa.io/events/3312)__
   - 분류: `오프라인`, `모임`
   - 주최: 한국 SAFe 커뮤니티
