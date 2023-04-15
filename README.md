@@ -310,6 +310,10 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: AWS
   - 일시: 05. 03(수) ~ 05. 04(목)
+- __[INFCON 2023: 발표자 모집 상세 안내](https://aws.amazon.com/ko/events/summits/seoul/)__
+  - 분류: `오프라인`, `컨퍼런스`
+  - 주최: AWS
+  - 일시: 05. 03(수) ~ 05. 04(목)
 - __[Google I/O](https://io.google/2023/intl/ko/)__
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
