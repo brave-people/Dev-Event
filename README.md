@@ -140,27 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[네이버클라우드 기반 Spark 기초 무료 강의 홍보](https://festa.io/events/3327)__
-  - 분류: `오프라인`, `Spark`
-  - 주최: 지니공공아카데미
-  - 일시: 04. 15(토) 10:00 ~ 17:00
-
-- __[제 1회 Swift Coding Club 오프라인 모임](https://festa.io/events/3316)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: Swift Coding Club
-  - 일시: 04. 15(토) 16:00 ~ 19:00
-- __[클라우드 스터디 잼: 쿠버네티스 입문](https://sites.google.com/view/2023-study-jam)__
-  - 분류: `스터디`, `쿠버네티스`
-  - 주최: Google Cloud
-  - 접수: 04. 11(화) ~ 04. 16(일) 23:00
-- __[Gitlab Korea 밋업 #15 - 깃랩이 옵저버빌리티를 만드는 방식](https://festa.io/events/3388)__
-  - 분류: `웨비나`, `DevOps`
-  - 주최: Gitlab Korea
-  - 접수: 04. 28(목) 19:00 ~ 21:00
 - __[챗GPT MS애저톤](https://aifactory.space/competition/detail/2290)__
   - 분류: `해커톤`, `AI`
   - 주최: AI Factory
   - 일시: 03. 31(금) ~ 04. 18(화)
+
 - __[오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)__
   - 분류: `웨비나`, `AI`
   - 주최: AI Factory
@@ -277,6 +261,10 @@
   - 분류: `웨비나`, `빅쿼리`
   - 주최: 클라우드메이트
   - 일시: 04. 26(수) 14:00 ~ 15:00
+- __[NVIDIA X EHWA AIX DAY](https://docs.google.com/forms/d/e/1FAIpQLScQwk6VkXT2NOQrCIfODmu3Z0OtNIxbVs9R_4X1_IGPKrlcrw/viewform)__
+  - 분류: `웨비나`, `AI`
+  - 주최: NVDIA
+  - 일시: 04. 26(수) 14:00 ~ 17:00
 - __[AWSKRUG #magok 마곡 소모임 - 세번째 모임](https://www.meetup.com/awskrug/events/292857479)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -293,6 +281,14 @@
   - 분류: `오프라인`, `기술 일반`
   - 주최: GDSC KNU
   - 일시: 04. 28(금) 18:30 ~ 21:30
+- __[Gitlab Korea 밋업 #15 - 깃랩이 옵저버빌리티를 만드는 방식](https://festa.io/events/3388)__
+  - 분류: `웨비나`, `DevOps`
+  - 주최: Gitlab Korea
+  - 접수: 04. 28(목) 19:00 ~ 21:00
+- __[Women Techmakers Korea 2023](https://festa.io/events/3401)__
+  - 분류: `오프라인`, `기술 일반`
+  - 주최: Women Techmakers Korea
+  - 일시: 04. 28(금) 18:30 ~ 04. 29(토) 17:30
 - __[Dev대전 개발자 컨퍼런스 (4월)](https://festa.io/events/3377)__
   - 분류: `오프라인`, `기술 일반`
   - 주최: 씨앗 개발자 커뮤니티
