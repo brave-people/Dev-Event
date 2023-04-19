@@ -140,23 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[챗GPT MS애저톤](https://aifactory.space/competition/detail/2290)__
-  - 분류: `해커톤`, `AI`
-  - 주최: AI Factory
-  - 일시: 03. 31(금) ~ 04. 18(화)
-
-- __[오프라인 리테일 기업의 ChatGPT 실무 사용기](https://aifactory.space/learning/2364/discussion/233)__
-  - 분류: `웨비나`, `AI`
-  - 주최: AI Factory
-  - 일시: 04. 18(화) 20:00 ~ 21:00
-- __[[MODUPOPxFlutter Seoul] Anatomy of Riverpod](https://festa.io/events/3375)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 04. 18(화) 19:30 ~ 20:30
 - __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292659453)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 04. 19(수) 19:00 ~ 21:00
+  
 - __[프리온보딩 프론트엔드 인턴십 (4월)](https://www.wanted.co.kr/events/pre_ob_fe_10)__
   - 분류: `채용`
   - 주최: 원티드
@@ -297,11 +285,15 @@
 <br />
 
 ## 23년 05월
+- __[FLY AI CHALENGER 3기 모집](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `오프라인`, `교육`
+  - 주최: SKT
+  - 접수: 04. 10(월) ~ 05. 02(화)
+
 - __[2023 디지털노마드 in 나주](https://dsumaker.com/page/menu06/page01_view.php?id=notice&no=2293&page=1)__
   - 분류: `오프라인`, `모임`
   - 주최: 중소벤처기업부
   - 접수: 04. 03(월) ~ 05. 03(수)
-
 - __[AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: AWS
@@ -318,6 +310,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
   - 일시: 05. 10(수) ~ 05. 12(금)
+- __[KotlinConf'23 Global in Songdo](https://festa.io/events/3416)__
+  - 분류: `오프라인`, `코틀린`
+  - 주최: GDG Songdo
+  - 일시: 05. 13(토) 13:00 ~ 18:00
 - __[우분투 한국어 번역 워크샵](https://festa.io/events/3410)__
   - 분류: `오프라인`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
