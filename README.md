@@ -140,35 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/292659453)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 04. 19(수) 19:00 ~ 21:00
-  
-- __[프리온보딩 프론트엔드 인턴십 (4월)](https://www.wanted.co.kr/events/pre_ob_fe_10)__
-  - 분류: `채용`
-  - 주최: 원티드
-  - 일시: 03. 29(수) ~ 04. 19(수)
-- __[개발자를 위한 DevOps/DevSecOps 대상 교육/실습 세션](https://pages.awscloud.com/aws-builders-online-building-block-23q2-reg.html)__
-  - 분류: `온라인`, `오프라인`, `클라우드`
-  - 주최: AWS
-  - 일시: 04. 18(화) ~ 04. 19(수)
-- __[2023 오픈 프런티어 모집](https://www.oss.kr/notice/show/78b17edf-1344-46ba-b13b-136eaa9296b5)__
-  - 분류: `대회`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 모집: 03. 30(목) ~ 04. 19(목)
-- __[앞서가는 개발자들의 3가지 비밀](https://www.wanted.co.kr/events/git_it_03)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 걸스인텍
-  - 모집: 04. 07(목) ~ 04. 19(수)
-- __[표준프레임워크 오픈커뮤니티 세미나 참여](https://form.office.naver.com/form/responseView.cmd?formkey=ZGFkMDUyZWQtZGE0NS00MjQ3LWFiZmMtYzU2YjkzMWI5NWMx&sourceId=urlshare)__
-  - 분류: `웨비나`, `벡엔드`
-  - 주최: 오픈플랫폼개발자커뮤니티
-  - 일시: 04. 19(수) 19:00
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/292841999)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSKRUG
   - 일시: 04. 20(목) 19:00 ~ 21:00
+
 - __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -241,6 +217,10 @@
   - 분류: `오프라인`, `Kotlin`
   - 주최: 인프런
   - 일시: 04. 25(화) 16:30 ~ 21:30
+- __[Open API를 활용한 연구원의 업무 효율화 -이제현](https://aifactory.space/learning/detail/2361)__
+  - 분류: `오프라인`, `AI`
+  - 주최: AIFactory
+  - 일시: 04. 25(화) 19:00 ~ 20:00
 - __[애자일 코리아 밋업 4월 "워터폴 PM이 애자일을 만났을 때"](https://festa.io/events/3385)__
   - 분류: `오프라인`, `에자일`
   - 주최: 에자일 코리아 밋업
@@ -253,10 +233,18 @@
   - 분류: `웨비나`, `AI`
   - 주최: NVDIA
   - 일시: 04. 26(수) 14:00 ~ 17:00
+- __[1st DX Forum - ChatGPT 활용 사례로 보는 인공지능과 데이터의 미래](https://www.dxchallenge.co.kr/events/23forum1)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 부산광역시
+  - 일시: 04. 26(수) 18:00
 - __[AWSKRUG #magok 마곡 소모임 - 세번째 모임](https://www.meetup.com/awskrug/events/292857479)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 04. 26(수) 19:00 ~ 20:30
+- __[Pycon US 2023](https://us.pycon.org/2023/)__
+  - 분류: `오프라인`, `스터디`
+  - 주최: Pycon
+  - 일시: 04. 19(수) ~ 04. 27(목)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임](https://festa.io/events/3376)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
@@ -306,6 +294,10 @@
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
   - 일시: 05. 10(수)
+- __[kakao tech meet](https://festa.io/events/3324)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: 카카오
+  - 일시: 05. 11(목) 19:00 ~ 21:00
 - __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
