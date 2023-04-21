@@ -140,39 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/292841999)__
-  - 분류: `오프라인`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 04. 20(목) 19:00 ~ 21:00
-
-- __[World IT Show 2023 (2023 월드IT쇼)](https://www.worlditshow.co.kr/main/main.php)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 일시: 04. 19(수) ~ 04. 20(목)
-- __[네이버 커넥트재단 코칭스터디 10기: AI 심화 스터디](https://m.post.naver.com/viewer/postView.naver?volumeNo=35664080&memberNo=34635212)__
-  - 분류: `스터디`, `AI`
-  - 주최: 커넥츠재단
-  - 일시: 03. 23(목) ~ 04. 20(목)
-- __[Cloud · AI 일타 강사와 함께하는 IT 기업 비개발자 모임](https://navercloud.typeform.com/to/v0lK6TE4)__
-  - 분류: `스터디`, `클라우드`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 04. 20(목) 19:00 ~ 21:00
-- __[ChatGPT로 인한 새로운 패러다임](https://devocean.sk.com/vlog/view.do?id=419&vcode=A03)__
-  - 분류: `웨비나`, `AI`
-  - 주최: DEVOCEAN
-  - 일시: 04. 20(목) 10:00 ~ 12:00
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/292841999/)__
-  - 분류: `웨비나`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 04. 20(목) 19:00 ~ 21:00
-- __[한국 SAFe 커뮤니티 4월 밋업](https://festa.io/events/3312)__
-  - 분류: `오프라인`, `모임`
-  - 주최: 한국 SAFe 커뮤니티
-  - 일시: 04. 20(목) 19:30 ~ 21:30
 - __[제4회 2023 연구개발특구 AI SPARK 챌린지](https://aifactory.space/competition/detail/2299)__
   - 분류: `대회`, `AI`
   - 주최: SPACE-S
   - 접수: 03. 17(금) ~ 04. 21(금)
+  
 - __[스프링캠프 2023](https://www.inflearn.com/course/springcamp2023#program)__
   - 분류: `오프라인`, `스프링`
   - 주최: 스프링캠프
@@ -248,6 +220,10 @@
 - __[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임](https://festa.io/events/3376)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
+  - 일시: 04. 27(목) 19:30 ~ 21:30
+- __[AWSKRUG [구디 #gudi x 아키텍처 #architecture] 41번째 소모임](https://www.meetup.com/awskrug/events/292914169/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWKRUG
   - 일시: 04. 27(목) 19:30 ~ 21:30
 - __[[MODUPOP x AI NODAJI]2023 봄 트렌드와 AI](https://festa.io/events/3391)__
   - 분류: `온라인`, `오프라인`, `AI`
@@ -343,6 +319,10 @@
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 04. 28(금) ~ 06. 12(월)
+- __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
+  - 분류: `오프라인`, `Ceph`
+  - 주최: Korea Ceph User Group
+  - 일시: 06. 14(수)
 
 <br />
 
