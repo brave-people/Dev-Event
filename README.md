@@ -140,23 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[제4회 2023 연구개발특구 AI SPARK 챌린지](https://aifactory.space/competition/detail/2299)__
-  - 분류: `대회`, `AI`
-  - 주최: SPACE-S
-  - 접수: 03. 17(금) ~ 04. 21(금)
-  
-- __[스프링캠프 2023](https://www.inflearn.com/course/springcamp2023#program)__
-  - 분류: `오프라인`, `스프링`
-  - 주최: 스프링캠프
-  - 접수: 04. 06(목) 14:00 ~ 04. 21(금) 23:59
-- __[C++ Korea 2023 2월 Meet-Up](https://festa.io/events/3380)__
-  - 분류: `오프라인`, `C++`
-  - 주최: C++ Korea
-  - 일시: 04. 22(토) 13:00 ~ 17:00
 - __[점핏 프론트엔드](https://www.jumpit.co.kr/book-concert/12?utm_source=github_dev_event&utm_medium=conma&utm_campaign=book_concert_23fe&utm_term=20230413)__
   - 분류: `웨비나`, `프론트엔드`
   - 주최: 점핏
   - 일시: 04. 06(목) ~ 04. 23(일)
+  
 - __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
