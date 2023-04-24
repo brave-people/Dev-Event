@@ -140,15 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[점핏 프론트엔드](https://www.jumpit.co.kr/book-concert/12?utm_source=github_dev_event&utm_medium=conma&utm_campaign=book_concert_23fe&utm_term=20230413)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: 점핏
-  - 일시: 04. 06(목) ~ 04. 23(일)
-  
 - __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
   - 일시: 03. 27(월) ~ 04. 24(월)
+
 - __[앨리스 AI 8기 모집](https://festa.io/events/3328)__
   - 분류: `교육`, `AI`
   - 주최: 엘리스
@@ -254,6 +250,10 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 접수: 04. 10(월) ~ 05. 07(일)
+- __[Softeer Tech Meetup](https://meetup.softeer.ai/)__
+  - 분류: `오프라인`, `컨퍼런스`, `벡엔드`
+  - 주최: 현대 자동차 그룹
+  - 접수: 04. 24(월) ~ 05. 08(일)
 - __[Google I/O](https://io.google/2023/intl/ko/)__
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
@@ -294,6 +294,10 @@
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
   - 일시: 05. 21(일) 13:00 ~ 17:30
+- __[Flutter in Songdo 맥주파티!](https://festa.io/events/3430)__
+  - 분류: `유료`, `오프라인`, `플러터`
+  - 주최: GDG 송도
+  - 일시: 05. 27(토) 17:00 ~ 20:00
 
 <br />
 
