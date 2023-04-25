@@ -140,19 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[앨리스 SW 엔지니어 트랙 8기 모집](https://festa.io/events/3329)__
-  - 분류: `교육`, `AI`
-  - 주최: 엘리스
-  - 일시: 03. 27(월) ~ 04. 24(월)
-
-- __[앨리스 AI 8기 모집](https://festa.io/events/3328)__
-  - 분류: `교육`, `AI`
-  - 주최: 엘리스
-  - 일시: 03. 27(월) ~ 04. 24(월)
 - __[Data+AI World Tour](https://pages.databricks.com/202304-APJ-FE-KOREA-DAIWT_DAIWT-2023-APJ-Reg-Page---SEOUL-KOREA.html)__
   - 분류: `오프라인`, `Data`, `AI`
   - 주최: Databricks
   - 일시: 04. 25(화) 09:00 ~ 16:45
+
 - __[NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://cloudon.nhn.com/webinar?idx=15&utm_source=github_dev_event&utm_medium=post&utm_campaign=nhncloudon&utm_content=on14&utm_term=cta_button)__
   - 분류: `웨비나`, `클라우드`
   - 주최: NHN Cloud
@@ -262,6 +254,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: 카카오
   - 일시: 05. 11(목) 19:00 ~ 21:00
+- __[서울 R 미트업](https://www.meetup.com/seoul-r-meetup/events/292966674/)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: Seoul R Meetup Group
+  - 일시: 05. 11(목) 19:00 ~ 21:00
 - __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
@@ -290,6 +286,10 @@
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
   - 일시: 04. 11(화) ~ 05. 18(목)
+- __[SciPy Korea 2023](https://festa.io/events/3432)__
+  - 분류: `오프라인`, `유료`, `데이터`
+  - 주최: SciPy Korea
+  - 일시: 05. 20(토) 13:00 ~ 17:20
 - __[2023 찰스의 안드로이드 컨퍼런스](https://festa.io/events/3287)__
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
