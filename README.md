@@ -294,6 +294,10 @@
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
   - 일시: 05. 21(일) 13:00 ~ 17:30
+- __[Microsoft Build 2023](https://build.microsoft.com/en-US/home)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: Microsoft
+  - 일시: 05. 23(화) ~ 05. 24(수)
 - __[Flutter in Songdo 맥주파티!](https://festa.io/events/3430)__
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
