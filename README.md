@@ -286,6 +286,10 @@
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
   - 일시: 04. 11(화) ~ 05. 18(목)
+- __[Trino KR meetup](https://www.meetup.com/trino-kr/events/293093490)__
+  - 분류: `오프라인`, `오픈소스`, `데이터`, `Trino`
+  - 주최: Trino KR 사용자 그룹
+  - 일시: 05. 18(목) 19:00 ~ 21:00
 - __[SciPy Korea 2023](https://festa.io/events/3432)__
   - 분류: `오프라인`, `유료`, `데이터`
   - 주최: SciPy Korea
