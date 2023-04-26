@@ -140,43 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[Data+AI World Tour](https://pages.databricks.com/202304-APJ-FE-KOREA-DAIWT_DAIWT-2023-APJ-Reg-Page---SEOUL-KOREA.html)__
-  - 분류: `오프라인`, `Data`, `AI`
-  - 주최: Databricks
-  - 일시: 04. 25(화) 09:00 ~ 16:45
-
-- __[NHN Cloud를 여행하는 히치하이커를 위한 안내서](https://cloudon.nhn.com/webinar?idx=15&utm_source=github_dev_event&utm_medium=post&utm_campaign=nhncloudon&utm_content=on14&utm_term=cta_button)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: NHN Cloud
-  - 일시: 04. 25(화) 14:00 ~ 15:00
-- __[NVIDIA OMNIVERSE SEMINAR(M&E)](https://festa.io/events/3332)__
-  - 분류: `오프라인`, `3D`
-  - 주최: NVIDIA
-  - 일시: 04. 25(화) 14:00 ~ 18:00
-- __[창업가 X 개발자 네트워킹](https://festa.io/events/3355)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG 대구
-  - 일시: 04. 25(화) 19:00 ~ 21:00
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/292744560)__
-  - 분류: `오프라인`, `Imply`
-  - 주최: AWSKRUG
-  - 일시: 04. 25(화) 19:30 ~ 21:30
-- __[인프런 퇴근길 밋업 with KotlinConf 2023](https://www.inflearn.com/course/kotlinconf-2023-global)__
-  - 분류: `오프라인`, `Kotlin`
-  - 주최: 인프런
-  - 일시: 04. 25(화) 16:30 ~ 21:30
-- __[Open API를 활용한 연구원의 업무 효율화 -이제현](https://aifactory.space/learning/detail/2361)__
-  - 분류: `오프라인`, `AI`
-  - 주최: AIFactory
-  - 일시: 04. 25(화) 19:00 ~ 20:00
-- __[애자일 코리아 밋업 4월 "워터폴 PM이 애자일을 만났을 때"](https://festa.io/events/3385)__
-  - 분류: `오프라인`, `에자일`
-  - 주최: 에자일 코리아 밋업
-  - 일시: 04. 25(화) 20:00 ~ 22:00
 - __[캐시엔진을 활용하여 빅쿼리(BigQuery) 200% 활용하기](https://chontv.com/event/899)__
   - 분류: `웨비나`, `빅쿼리`
   - 주최: 클라우드메이트
   - 일시: 04. 26(수) 14:00 ~ 15:00
+  
 - __[NVIDIA X EHWA AIX DAY](https://docs.google.com/forms/d/e/1FAIpQLScQwk6VkXT2NOQrCIfODmu3Z0OtNIxbVs9R_4X1_IGPKrlcrw/viewform)__
   - 분류: `웨비나`, `AI`
   - 주최: NVDIA
@@ -302,6 +270,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
   - 일시: 05. 23(화) ~ 05. 24(수)
+- __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
+  - 분류: `대회`, `해커톤`
+  - 주최: 보건복지부
+  - 일시: 05. 01(월) ~ 05. 26(금)
 - __[Flutter in Songdo 맥주파티!](https://festa.io/events/3430)__
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
