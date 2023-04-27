@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-89-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-90-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -572,6 +572,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://winterflower.tistory.com/"><img src="https://avatars.githubusercontent.com/u/76653033?v=4?s=100" width="100px;" alt="Minseon Kim"/><br /><sub><b>Minseon Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minseonkkim" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jihyunmoon16"><img src="https://avatars.githubusercontent.com/u/87014797?v=4?s=100" width="100px;" alt="문지현"/><br /><sub><b>문지현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jihyunmoon16" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://capelladev.com"><img src="https://avatars.githubusercontent.com/u/16485236?v=4?s=100" width="100px;" alt="Inseo Lee"/><br /><sub><b>Inseo Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Capella87" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sn-Kinos"><img src="https://avatars.githubusercontent.com/u/26380261?v=4?s=100" width="100px;" alt="Yoo Dongryul"/><br /><sub><b>Yoo Dongryul</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Sn-Kinos" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
