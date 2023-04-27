@@ -311,14 +311,18 @@
 <br />
 
 ## 23년 08월
-- __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
-  - 분류: `교육`, `iOS`
-  - 주최: Apple 디벨로퍼 아카데미
-  - 일시: 08. 04(금) ~ 09. 04(월)
 - __[INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 일시: 08. 15(화) 10:00 ~ 18:00
+
+<br />
+
+## 23년 09월
+- __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
+  - 분류: `교육`, `iOS`
+  - 주최: Apple 디벨로퍼 아카데미
+  - 일시: 08. 04(금) ~ 09. 04(월)
 
 
 ----------------
