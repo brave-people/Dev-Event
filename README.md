@@ -315,6 +315,10 @@
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
+- __[INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)__
+  - 분류: `오프라인`, `컨퍼런스`
+  - 주최: 인프런
+  - 일시: 08. 15(화) 10:00 ~ 18:00
 
 
 ----------------
@@ -366,6 +370,8 @@
 | 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
 | 메타버스 아카데미 | [Homepage](https://mtvs.kr) |
 | 모두의 연구소: 풀잎스쿨 | [Homepage](https://modulabs.co.kr/apply-flip/) |
+| 우아한테크코스 | [Homepage](https://woowacourse.github.io) |
+| 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
