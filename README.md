@@ -140,27 +140,11 @@
 <br />
 
 ## 23년 04월
-- __[캐시엔진을 활용하여 빅쿼리(BigQuery) 200% 활용하기](https://chontv.com/event/899)__
-  - 분류: `웨비나`, `빅쿼리`
-  - 주최: 클라우드메이트
-  - 일시: 04. 26(수) 14:00 ~ 15:00
-  
-- __[NVIDIA X EHWA AIX DAY](https://docs.google.com/forms/d/e/1FAIpQLScQwk6VkXT2NOQrCIfODmu3Z0OtNIxbVs9R_4X1_IGPKrlcrw/viewform)__
-  - 분류: `웨비나`, `AI`
-  - 주최: NVDIA
-  - 일시: 04. 26(수) 14:00 ~ 17:00
-- __[1st DX Forum - ChatGPT 활용 사례로 보는 인공지능과 데이터의 미래](https://www.dxchallenge.co.kr/events/23forum1)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 부산광역시
-  - 일시: 04. 26(수) 18:00
-- __[AWSKRUG #magok 마곡 소모임 - 세번째 모임](https://www.meetup.com/awskrug/events/292857479)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 04. 26(수) 19:00 ~ 20:30
 - __[Pycon US 2023](https://us.pycon.org/2023/)__
   - 분류: `오프라인`, `스터디`
   - 주최: Pycon
   - 일시: 04. 19(수) ~ 04. 27(목)
+
 - __[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임](https://festa.io/events/3376)__
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
@@ -299,6 +283,10 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
   - 일시: 06. 14(수)
+- __[METAVERSE EXPO 2023 (2023 메타버스 엑스포)](https://metavexpo.com/exhibitor/participation/)__
+  - 분류: `오프라인`, `Ceph`
+  - 주최: MESSE ESANG
+  - 일시: 06. 14(수) ~ 06. 16(금)
 
 <br />
 
