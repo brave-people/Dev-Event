@@ -8,6 +8,10 @@
 
 </div>
 <br />
+<div align="right">
+   문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
+</div>
+<br />
 
 <!-- pev web banner
 <br />
@@ -120,7 +124,9 @@
             <td>
               <a href="./end_event/2023/23_01.md"> 01월 </a>,
               <a href="./end_event/2023/23_02.md"> 02월 </a>,
-              <a href="./end_event/2023/23_03.md"> 03월 </a>
+              <a href="./end_event/2023/23_03.md"> 03월 </a>,
+              <a href="./end_event/2023/23_04.md"> 04월 </a>,
+              <a href="./end_event/2023/23_05.md"> 05월 </a>
             </td>
         </tr>
         <tr>
@@ -139,49 +145,16 @@
 
 <br />
 
-## 23년 04월
-- __[Pycon US 2023](https://us.pycon.org/2023/)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: Pycon
-  - 일시: 04. 19(수) ~ 04. 27(목)
-
-- __[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임](https://festa.io/events/3376)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 코딩의 신
-  - 일시: 04. 27(목) 19:30 ~ 21:30
-- __[AWSKRUG [구디 #gudi x 아키텍처 #architecture] 41번째 소모임](https://www.meetup.com/awskrug/events/292914169/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWKRUG
-  - 일시: 04. 27(목) 19:30 ~ 21:30
-- __[[MODUPOP x AI NODAJI]2023 봄 트렌드와 AI](https://festa.io/events/3391)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 04. 27(목) 19:00 ~ 22:00
-- __[Dev 토크콘서트](https://festa.io/events/3306)__
-  - 분류: `오프라인`, `기술 일반`
-  - 주최: GDSC KNU
-  - 일시: 04. 28(금) 18:30 ~ 21:30
-- __[Gitlab Korea 밋업 #15 - 깃랩이 옵저버빌리티를 만드는 방식](https://festa.io/events/3388)__
-  - 분류: `웨비나`, `DevOps`
-  - 주최: Gitlab Korea
-  - 접수: 04. 28(목) 19:00 ~ 21:00
-- __[Women Techmakers Korea 2023](https://festa.io/events/3401)__
-  - 분류: `오프라인`, `기술 일반`
-  - 주최: Women Techmakers Korea
-  - 일시: 04. 28(금) 18:30 ~ 04. 29(토) 17:30
-- __[Dev대전 개발자 컨퍼런스 (4월)](https://festa.io/events/3377)__
-  - 분류: `오프라인`, `기술 일반`
-  - 주최: 씨앗 개발자 커뮤니티
-  - 일시: 04. 29(토) 14:00 ~ 15:00
-
-<br />
-
 ## 23년 05월
 - __[FLY AI CHALENGER 3기 모집](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `오프라인`, `교육`
   - 주최: SKT
   - 접수: 04. 10(월) ~ 05. 02(화)
 
+- __[Meta가 쏘아올린 작은 공 LLaMA에 대해 알아보자](https://aifactory.space/learning/2414/discussion/327)__
+  - 분류: `온라인`, `AI`
+  - 주최: NLP-KR
+  - 일시: 05. 02(화) 19:30 ~ 20:#0
 - __[2023 디지털노마드 in 나주](https://dsumaker.com/page/menu06/page01_view.php?id=notice&no=2293&page=1)__
   - 분류: `오프라인`, `모임`
   - 주최: 중소벤처기업부
@@ -194,10 +167,22 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 접수: 04. 10(월) ~ 05. 07(일)
+- __[2023 오픈소스 플레이그라운드 멘토단 모집](https://www.oss.kr/notice/show/eac6d5c8-01c1-4cc0-b2d1-1a88e96942e2?page=1)__
+  - 분류: `오프라인`, `오픈소스`
+  - 주최:  과학기술정보통신부
+  - 접수: 03. 30(목) ~ 05. 07(일)
 - __[Softeer Tech Meetup](https://meetup.softeer.ai/)__
   - 분류: `오프라인`, `컨퍼런스`, `벡엔드`
   - 주최: 현대 자동차 그룹
   - 접수: 04. 24(월) ~ 05. 08(일)
+- __[주니어 개발자, DevOps 면접을 위한 온라인 면접톡](https://okky.kr/articles/1433806)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: Drill
+  - 접수: 05. 02(월) ~ 05. 08(일)
+- __[도심에서 열리는 해커톤, 새싹톤 참가팀 모집!](https://sesacthon-apply.goorm.io/)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 서울경제진흥원
+  - 접수: 04. 26(수) ~ 05. 09(월)
 - __[부스트캠프 웹·모바일 8기 ＜온라인 설명회＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=NDhmYTgzYTMtMDQ2Ni00ZTA1LWFhMDItZWNlYTY5YTNiNDg5&sourceId=urlshare)__
   - 분류: `웨비나`, `교육`
   - 주최: 커넥츠재단
@@ -214,6 +199,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: Seoul R Meetup Group
   - 일시: 05. 11(목) 19:00 ~ 21:00
+- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/3447)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: 클라우드 유량단
+  - 일시: 05. 12(금) 19:00 ~ 20:30
 - __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
@@ -254,6 +243,10 @@
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
   - 일시: 05. 21(일) 13:00 ~ 17:30
+- __[10주 완성! 프로젝트 캠프: 프론트엔드(리액트)](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2305_projectcamp&utm_content=react&utm_term=230502)__
+  - 분류: `온라인`, `오프라인`, `교육`, `프론트엔드`
+  - 주최: 스나이퍼팩토리
+  - 일시: 05. 01(월) ~ 05. 23(화)
 - __[Microsoft Build 2023](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
@@ -274,6 +267,11 @@
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
   - 일시: 05. 27(토) 17:00 ~ 20:00
+- __[2023 프론트엔드 트렌드 따라잡기](https://festa.io/events/3446)__
+  - 분류: `유료(1만원)`, `오프라인`, `프론트엔드`
+  - 주최: GDG Korea WebTech
+  - 일시: 05. 31(수) 19:00 ~ 21:30
+
 
 <br />
 
@@ -439,6 +437,7 @@
 | JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
 | 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
 | Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
+| NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
 
 
 > :arrow_double_up: [Top](#지난-행사-기록)
