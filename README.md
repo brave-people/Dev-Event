@@ -146,15 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[2023 디지털노마드 in 나주](https://dsumaker.com/page/menu06/page01_view.php?id=notice&no=2293&page=1)__
-  - 분류: `오프라인`, `모임`
-  - 주최: 중소벤처기업부
-  - 접수: 04. 03(월) ~ 05. 03(수)
-
 - __[AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: AWS
   - 일시: 05. 03(수) ~ 05. 04(목)
+
 - __[INFCON 2023: 발표자 모집 상세 안내](https://www.inflearn.com/infcon-2023/teaser/speaker)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
@@ -179,10 +175,14 @@
   - 분류: `웨비나`, `교육`
   - 주최: 커넥츠재단
   - 접수: 04. 28(금) ~ 05. 10(수)
-- __[Google I/O](https://festa.io/events/3456)__
+- __[GDG Cloud Korea 모임 #1](https://festa.io/events/3456)__
   - 분류: `오프라인`, `클라우드`
   - 주최: GDG Cloud KR
   - 일시: 05. 10(수) 19:00 ~ 22:00
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/292866390/)__
+  - 분류: `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 05. 10(수) 19:30 ~ 21:30
 - __[Google I/O](https://io.google/2023/intl/ko/)__
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
@@ -227,6 +227,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 한국 마이크로소프트
   - 일시: 05. 15(월) 13:00 ~ 17:30
+- __[처음 배우는 NHN Cloud](https://festa.io/events/3464)__
+  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
+  - 주최: NHN Cloud
+  - 일시: 05. 15(월) ~ 05. 17(수) 
 - __[2023 관광데이터 활용공모전](https://okky.kr/articles/1428862)__
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
