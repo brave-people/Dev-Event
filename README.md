@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-91-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-92-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -609,6 +609,9 @@
       <td align="center" valign="top" width="14.28%"><a href="http://capelladev.com"><img src="https://avatars.githubusercontent.com/u/16485236?v=4?s=100" width="100px;" alt="Inseo Lee"/><br /><sub><b>Inseo Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Capella87" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sn-Kinos"><img src="https://avatars.githubusercontent.com/u/26380261?v=4?s=100" width="100px;" alt="Yoo Dongryul"/><br /><sub><b>Yoo Dongryul</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Sn-Kinos" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://dream-and-develop.tistory.com/"><img src="https://avatars.githubusercontent.com/u/71310074?v=4?s=100" width="100px;" alt="Yebin Lee "/><br /><sub><b>Yebin Lee </b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YebinLeee" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kalelpark"><img src="https://avatars.githubusercontent.com/u/86551201?v=4?s=100" width="100px;" alt="Wongi Park"/><br /><sub><b>Wongi Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kalelpark" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
