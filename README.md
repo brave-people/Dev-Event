@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[INFCON 2023: 발표자 모집 상세 안내](https://www.inflearn.com/infcon-2023/teaser/speaker)__
-  - 분류: `오프라인`, `컨퍼런스`
-  - 주최: 인프런
-  - 접수: 04. 10(월) ~ 05. 07(일)
-  
-- __[2023 오픈소스 플레이그라운드 멘토단 모집](https://www.oss.kr/notice/show/eac6d5c8-01c1-4cc0-b2d1-1a88e96942e2?page=1)__
-  - 분류: `오프라인`, `오픈소스`
-  - 주최:  과학기술정보통신부
-  - 접수: 03. 30(목) ~ 05. 07(일)
 - __[Softeer Tech Meetup](https://meetup.softeer.ai/)__
   - 분류: `오프라인`, `컨퍼런스`, `벡엔드`
   - 주최: 현대 자동차 그룹
   - 접수: 04. 24(월) ~ 05. 08(일)
+
 - __[주니어 개발자, DevOps 면접을 위한 온라인 면접톡](https://okky.kr/articles/1433806)__
   - 분류: `웨비나`, `커리어`
   - 주최: Drill
@@ -183,6 +175,10 @@
   - 분류: `웨비나`, `컨퍼런스`
   - 주최: Google
   - 일시: 05. 10(수)
+- __[Google I/O Extended 2023 Watch Party](https://festa.io/events/3472)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: Golang Korea
+  - 일시: 05. 11(목) 14:00 ~ 18:00
 - __[kakao tech meet](https://festa.io/events/3324)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 카카오
@@ -235,6 +231,10 @@
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
   - 일시: 04. 11(화) ~ 05. 18(목)
+- __[.NET L!VE 2023 Spring](https://onoffmix.com/event/274427)__
+  - 분류: `온라인`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 05. 18(목) 13:00 ~ 18:00
 - __[Trino KR meetup](https://www.meetup.com/trino-kr/events/293093490)__
   - 분류: `오프라인`, `오픈소스`, `데이터`, `Trino`
   - 주최: Trino KR 사용자 그룹
@@ -301,6 +301,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 05(월) ~ 06. 09(금)
+- __[아이펠 교육생 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github_dev_event)__
+  - 분류: `교육`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 05. 08(월) ~ 06. 09(금)
 - __[애플 디벨로퍼 아카데미 모집 Batch 1](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
@@ -308,7 +312,7 @@
 - __[부스트캠프 웹·모바일 8기 모집](https://boostcamp.connect.or.kr/guide_wm.html)__
   - 분류: `교육` , `Web` , `iOS`, `android`
   - 주최: 네이버 커넥트재단
-  - 일시: 05. 02(화) ~ 06.12(월) 11:00
+  - 일시: 05. 02(화) ~ 06. 12(월) 11:00
 - __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
