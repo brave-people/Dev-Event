@@ -287,6 +287,10 @@
   - 분류: `유료(1만원)`, `오프라인`, `프론트엔드`
   - 주최: GDG Korea WebTech
   - 일시: 05. 31(수) 19:00 ~ 21:30
+- __[6th PseudoCon](https://pseudocon.cargo.site/)__
+  - 분류: `오프라인`, `무료`, `컨퍼런스`
+  - 주최: [가짜연구소](https://pseudo-lab.com/)
+  - 일시: 05. 20(토) 14:00 ~ 18:00
 
 
 <br />
@@ -458,6 +462,7 @@
 | 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
 | Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
 | NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
+| 가짜연구소 | [homepage](https://pseudo-lab.com/) | [discord](https://discord.gg/EPurkHVtp2) |
 
 
 > :arrow_double_up: [Top](#지난-행사-기록)
