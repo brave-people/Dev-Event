@@ -158,7 +158,7 @@
 - __[도심에서 열리는 해커톤, 새싹톤 참가팀 모집!](https://sesacthon-apply.goorm.io/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 서울경제진흥원
-  - 접수: 04. 26(수) ~ 05. 09(월)
+  - 접수: 04. 26(수) ~ 05. 14(일)
 - __[부스트캠프 웹·모바일 8기 ＜온라인 설명회＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=NDhmYTgzYTMtMDQ2Ni00ZTA1LWFhMDItZWNlYTY5YTNiNDg5&sourceId=urlshare)__
   - 분류: `웨비나`, `교육`
   - 주최: 커넥츠재단
