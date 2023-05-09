@@ -239,18 +239,18 @@
   - 분류: `오프라인`, `오픈소스`, `데이터`, `Trino`
   - 주최: Trino KR 사용자 그룹
   - 일시: 05. 18(목) 19:00 ~ 21:00
-- __[6th PseudoCon 2023](https://pseudocon.cargo.site/)__
-  - 분류: `오프라인`, `무료`, `AI`, `데이터`
-  - 주최: Pseudo Lab
-  - 일시: 05. 20(토) 14:00 ~ 18:00  
+- __[TEOConf](https://www.teoconf.com/)__
+  - 분류: `오프라인`, `유료`, `컨퍼런스`
+  - 주최: TEOConf
+  - 일시: 05. 20(토) 13:00 ~ 17:00  
 - __[SciPy Korea 2023](https://festa.io/events/3432)__
   - 분류: `오프라인`, `유료`, `데이터`
   - 주최: SciPy Korea
   - 일시: 05. 20(토) 13:00 ~ 17:20
-- __[TEOConf](https://www.teoconf.com/)__
-  - 분류: `오프라인`, `유료`, `컨퍼런스`
-  - 주최: TEOConf
-  - 일시: 05. 20(토) 13:00 ~ 17:00
+- __[6th PseudoCon 2023](https://pseudocon.cargo.site/)__
+  - 분류: `오프라인`, `무료`, `AI`, `데이터`
+  - 주최: Pseudo Lab
+  - 일시: 05. 20(토) 14:00 ~ 18:00
 - __[2023 찰스의 안드로이드 컨퍼런스](https://festa.io/events/3287)__
   - 분류: `유료`, `오프라인`, `안드로이드`
   - 주최: 찰스의 안드로이드
