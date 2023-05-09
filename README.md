@@ -219,6 +219,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 한국 마이크로소프트
   - 일시: 05. 15(월) 13:00 ~ 17:30
+- __[2023 SOFTEER BOOTCAMP](https://www.softeerbootcamp.com/)__
+  - 분류: `교육`,
+  - 주최: 현대자동차
+  - 모집: 05. 03(수) ~ 05. 16(화)
 - __[처음 배우는 NHN Cloud](https://festa.io/events/3464)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: NHN Cloud
@@ -301,6 +305,10 @@
   - 주최: Golang Korea
   - 일시: 06. 03(토) 13:00 ~ 19:00
 
+- __[스마일게이트멤버십 AI 부문 3기 창작팀(개인) 모집](https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=704)__
+  - 분류: `모임`, `AI`
+  - 주최: 스마일게이트
+  - 모집: 05. 09(화) ~ 06. 04(일)
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
