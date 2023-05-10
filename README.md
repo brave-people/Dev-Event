@@ -220,9 +220,13 @@
   - 주최: 한국 마이크로소프트
   - 일시: 05. 15(월) 13:00 ~ 17:30
 - __[2023 SOFTEER BOOTCAMP](https://www.softeerbootcamp.com/)__
-  - 분류: `교육`,
+  - 분류: `교육`
   - 주최: 현대자동차
   - 모집: 05. 03(수) ~ 05. 16(화)
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/293273818/)__
+  - 분류: `교육`
+  - 주최: AWSKRUG
+  - 일시: 05. 16(화) 19:00 ~ 21:00
 - __[처음 배우는 NHN Cloud](https://festa.io/events/3464)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: NHN Cloud
