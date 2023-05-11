@@ -146,39 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[Softeer Tech Meetup](https://meetup.softeer.ai/)__
-  - 분류: `오프라인`, `컨퍼런스`, `벡엔드`
-  - 주최: 현대 자동차 그룹
-  - 접수: 04. 24(월) ~ 05. 08(일)
-
-- __[주니어 개발자, DevOps 면접을 위한 온라인 면접톡](https://okky.kr/articles/1433806)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: Drill
-  - 접수: 05. 02(월) ~ 05. 08(일)
-- __[도심에서 열리는 해커톤, 새싹톤 참가팀 모집!](https://sesacthon-apply.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 서울경제진흥원
-  - 접수: 04. 26(수) ~ 05. 14(일)
-- __[부스트캠프 웹·모바일 8기 ＜온라인 설명회＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=NDhmYTgzYTMtMDQ2Ni00ZTA1LWFhMDItZWNlYTY5YTNiNDg5&sourceId=urlshare)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 커넥츠재단
-  - 접수: 04. 28(금) ~ 05. 10(수)
-- __[GDG Cloud Korea 모임 #1](https://festa.io/events/3456)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: GDG Cloud KR
-  - 일시: 05. 10(수) 19:00 ~ 22:00
-- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/292866390/)__
-  - 분류: `오프라인`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 일시: 05. 10(수) 19:30 ~ 21:30
-- __[Google I/O](https://io.google/2023/intl/ko/)__
-  - 분류: `웨비나`, `컨퍼런스`
-  - 주최: Google
-  - 일시: 05. 10(수)
 - __[Google I/O Extended 2023 Watch Party](https://festa.io/events/3472)__
   - 분류: `오프라인`, `기술일반`
   - 주최: Golang Korea
   - 일시: 05. 11(목) 14:00 ~ 18:00
+
 - __[kakao tech meet](https://festa.io/events/3324)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 카카오
@@ -207,6 +179,10 @@
   - 분류: `오프라인`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 05. 13(토)
+- __[도심에서 열리는 해커톤, 새싹톤 참가팀 모집!](https://sesacthon-apply.goorm.io/)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 서울경제진흥원
+  - 접수: 04. 26(수) ~ 05. 14(일)
 - __[제주도민 모두를 위한 실시간 웹기술과 데이터활용 기술세미나](https://festa.io/events/3371)__
   - 분류: `오프라인`, `기술일반`
   - 주최: 지니공아카데미
@@ -234,7 +210,11 @@
 - __[우아한스터디 2023 여름시즌](https://techblog.woowahan.com/11528/)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 우아한형제들
-  - 일시: 05. 04(목) ~ 05. 17(수) 
+  - 일시: 05. 04(목) ~ 05. 17(수)
+- __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-nginx)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 네이버클라우드
+  - 일시: 05. 18(목) 11:00 ~ 12:00
 - __[2023 관광데이터 활용공모전](https://okky.kr/articles/1428862)__
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
@@ -370,6 +350,13 @@
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
 
+<br />
+
+## 23년 11월
+- __[GitHub Universe](https://githubuniverse.com/)__
+  - 분류: `모임`, `기술일반`
+  - 주최: Github
+  - 일시: 11. 08(수) ~ 11. 09(목)
 
 ----------------
 
