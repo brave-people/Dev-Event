@@ -146,27 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[Google I/O Extended 2023 Watch Party](https://festa.io/events/3472)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 05. 11(목) 14:00 ~ 18:00
-
-- __[kakao tech meet](https://festa.io/events/3324)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 카카오
-  - 일시: 05. 11(목) 19:00 ~ 21:00
-- __[서울 R 미트업](https://www.meetup.com/seoul-r-meetup/events/292966674/)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: Seoul R Meetup Group
-  - 일시: 05. 11(목) 19:00 ~ 21:00
-- __[제7회 AI Security Day 세미나](https://event-us.kr/aisec/event/62200)__
-  - 분류: `오프라인`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 04. 28(금) ~ 05. 11(목)
 - __[클라우드 유랑단 x 진주유랑](https://festa.io/events/3447)__
   - 분류: `오프라인`, `클라우드`
   - 주최: 클라우드 유량단
   - 일시: 05. 12(금) 19:00 ~ 20:30
+
 - __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
   - 분류: `오프라인`, `AI`
   - 주최: 한국인공지능협회
@@ -199,6 +183,10 @@
   - 분류: `교육`
   - 주최: 현대자동차
   - 모집: 05. 03(수) ~ 05. 16(화)
+- __[딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 인공지능팩토리
+  - 일시: 05. 16(화) 19:30 ~ 20:30
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/293273818/)__
   - 분류: `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -283,6 +271,10 @@
   - 분류: `유료(1만원)`, `오프라인`, `프론트엔드`
   - 주최: GDG Korea WebTech
   - 일시: 05. 31(수) 19:00 ~ 21:30
+- __[GCP 입문을 위한 hands-on Labs day 2023 seanson2 웨비나](https://gc.hosting.kr/gcp_labsday-2023_2/?utm_source=community&utm_medium=github_dev_event&utm_campaign=gcpfund)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: Google Cloud
+  - 접수: 05. 12(금) ~ 05. 31(수) 17:00
 
 
 <br />
