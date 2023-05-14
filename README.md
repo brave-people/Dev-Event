@@ -325,6 +325,10 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
+  - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
+  - 주최: OpenStack Korea Group, Kubernetes Korea Group
+  - 일시: 07.03(월) ~ 07.04(화)
 
 <br />
 
