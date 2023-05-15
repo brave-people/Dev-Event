@@ -324,7 +324,8 @@
 - __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
-  - 일시: 07.03(월) ~ 07.04(화)
+  - 일시: 07. 03(월) ~ 07. 04(화)
+
 - __[Go To Songdo 2023](https://festa.io/events/3364)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
