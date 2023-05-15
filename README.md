@@ -146,39 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[클라우드 유랑단 x 진주유랑](https://festa.io/events/3447)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: 클라우드 유량단
-  - 일시: 05. 12(금) 19:00 ~ 20:30
-
-- __[AI EXPO KOREA 2023 (국제인공지능대전)](http://www.aiexpo.co.kr/home/)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 한국인공지능협회
-  - 일시: 05. 10(수) ~ 05. 12(금)
-- __[KotlinConf'23 Global in Songdo](https://festa.io/events/3416)__
-  - 분류: `오프라인`, `코틀린`
-  - 주최: GDG Songdo
-  - 일시: 05. 13(토) 13:00 ~ 18:00
-- __[우분투 한국어 번역 워크샵](https://festa.io/events/3410)__
-  - 분류: `오프라인`, `오픈소스`
-  - 주최: 우분투 한국커뮤니티
-  - 일시: 05. 13(토)
-- __[도심에서 열리는 해커톤, 새싹톤 참가팀 모집!](https://sesacthon-apply.goorm.io/)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 서울경제진흥원
-  - 접수: 04. 26(수) ~ 05. 14(일)
-- __[제주도민 모두를 위한 실시간 웹기술과 데이터활용 기술세미나](https://festa.io/events/3371)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 지니공아카데미
-  - 일시: 05. 13(토) ~ 05. 14(일)
-- __[혁신공공서비스 발굴을 위한 서울시 생성 AI 해커톤](https://aifactory.space/competition/detail/2374)__
-  - 분류: `대회`, `AI`
-  - 주최: 인공지능팩토리
-  - 접수: 04. 12(수) ~ 05. 14(일)
 - __[Microsoft X Github Roadshow - 깃헙 코파일럿 & 코드 스페이스 레벨업](https://msevents.microsoft.com/event?id=362729998)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: 한국 마이크로소프트
   - 일시: 05. 15(월) 13:00 ~ 17:30
+
 - __[2023 SOFTEER BOOTCAMP](https://www.softeerbootcamp.com/)__
   - 분류: `교육`
   - 주최: 현대자동차
@@ -186,6 +158,10 @@
 - __[딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)__
   - 분류: `웨비나`, `AI`
   - 주최: 인공지능팩토리
+  - 일시: 05. 16(화) 19:30 ~ 20:30
+- __[[MODUPOP X 어센트코리아] 모두의 SEO 글쓰기](https://festa.io/events/3433)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의연구소
   - 일시: 05. 16(화) 19:30 ~ 20:30
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/293273818/)__
   - 분류: `모임`, `클라우드`
@@ -196,7 +172,7 @@
   - 주최: NHN Cloud
   - 일시: 05. 15(월) ~ 05. 17(수)
 - __[우아한스터디 2023 여름시즌](https://techblog.woowahan.com/11528/)__
-  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
+  - 분류: `오프라인`, `스터디`
   - 주최: 우아한형제들
   - 일시: 05. 04(목) ~ 05. 17(수)
 - __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-nginx)__
@@ -215,6 +191,10 @@
   - 분류: `오프라인`, `오픈소스`, `데이터`, `Trino`
   - 주최: Trino KR 사용자 그룹
   - 일시: 05. 18(목) 19:00 ~ 21:00
+- __[가짜연구소 컨퍼런스 - 6th PseudoCon](https://devocean.sk.com/events/view.do?id=164)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 가짜연구소
+  - 일시: 05. 20(토) 14:00 ~ 18:00
 - __[TEOConf](https://www.teoconf.com/)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: TEOConf
@@ -243,6 +223,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
   - 일시: 05. 23(화) ~ 05. 24(수)
+- __[5월 Tech 세미나 - 클라우드 비용 최적화](https://devocean.sk.com/events/view.do?id=165)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: DEVOCEAN
+  - 접수: 05. 24(수) 19:00 ~ 21:00
 - __[부스트캠프 웹·모바일 8기 ＜수료생과의 MeetUP＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=ZTY2NTZiM2EtZmY2Ni00OTBiLTlhOGMtMDlhNGNiZmMwZmIz&sourceId=urlshare)__
   - 분류: `웨비나`, `교육`
   - 주최: 커넥츠재단
@@ -263,6 +247,14 @@
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
   - 일시: 05. 01(월) ~ 05. 26(금)
+- __[Microsoft Build 2023](https://build.microsoft.com/en-US/sessions)__
+  - 분류: `온라인`, `오프라인`, `기술일반`
+  - 주최: 마이크로소프트
+  - 일시: 05. 24(수) ~ 05. 26(금)
+- __[오월엔 데브콘 in DAEJEON](https://festa.io/events/3430)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: K-DEVCON
+  - 일시: 05. 27(토) 13:00 ~ 17:00
 - __[Flutter in Songdo 맥주파티!](https://festa.io/events/3430)__
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
@@ -285,6 +277,10 @@
   - 주최: Golang Korea
   - 일시: 06. 03(토) 13:00 ~ 19:00
 
+- __[AUSGCON (아우쓱콘)](https://festa.io/events/3504)__
+  - 분류: `오프라인`, `유료`, `클라우드`
+  - 주최: AWSKRUG 대학생모임
+  - 일시: 06. 03(토) 14:00 ~ 18:00
 - __[스마일게이트멤버십 AI 부문 3기 창작팀(개인) 모집](https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=704)__
   - 분류: `모임`, `AI`
   - 주최: 스마일게이트
@@ -313,6 +309,10 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: MESSE ESANG
   - 일시: 06. 14(수) ~ 06. 16(금)
+- __[iOS 아이가](https://festa.io/events/3506)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: iOS 아이가
+  - 일시: 05. 21 ~ 06. 30(금)
 - __[AI & BIG DATA SHOW(2023 인공지능 & 빅데이터쇼)](https://aibigdatashow.com/)__
   - 분류: `오프라인`, `AI`, `빅데이터`
   - 주최: 지능정보산업협회
