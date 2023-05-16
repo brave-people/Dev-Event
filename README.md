@@ -146,15 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[Microsoft X Github Roadshow - 깃헙 코파일럿 & 코드 스페이스 레벨업](https://msevents.microsoft.com/event?id=362729998)__
-  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
-  - 주최: 한국 마이크로소프트
-  - 일시: 05. 15(월) 13:00 ~ 17:30
-
 - __[2023 SOFTEER BOOTCAMP](https://www.softeerbootcamp.com/)__
   - 분류: `교육`
   - 주최: 현대자동차
   - 모집: 05. 03(수) ~ 05. 16(화)
+
 - __[딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)__
   - 분류: `웨비나`, `AI`
   - 주최: 인공지능팩토리
@@ -175,6 +171,10 @@
   - 분류: `오프라인`, `스터디`
   - 주최: 우아한형제들
   - 일시: 05. 04(목) ~ 05. 17(수)
+- __[테라폼을 품은 OCI Resource Manager 알아보기](https://go.oracle.com/LP=136293)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 오라클
+  - 일시: 05. 17(수) 17:00 ~ 18:00
 - __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-nginx)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버클라우드
@@ -223,6 +223,10 @@
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
   - 일시: 05. 23(화) ~ 05. 24(수)
+- __[명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://festa.io/events/3517)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 구름
+  - 접수: 05. 24(수) 19:00 ~ 20:30
 - __[5월 Tech 세미나 - 클라우드 비용 최적화](https://devocean.sk.com/events/view.do?id=165)__
   - 분류: `웨비나`, `클라우드`
   - 주최: DEVOCEAN
@@ -231,6 +235,10 @@
   - 분류: `웨비나`, `교육`
   - 주최: 커넥츠재단
   - 접수: 04. 28(금) ~ 05. 24(수)
+- __[개발자, 한 달에 책 한 권 읽기 2023년 5월 모임](https://festa.io/events/3457)__
+  - 분류: `오프라인`, `스터디`
+  - 주최: 코딩의 신
+  - 접수: 05. 16(화) ~ 05. 24(수)
 - __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 한국인터넷전문가협회
@@ -243,6 +251,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: 코딩의 신
   - 일시: 05. 25(목) 19:30 ~ 21:30
+- __[[GDG] 사람을 찾습니다](https://festa.io/events/3454)__
+  - 분류: `오프라인`, `모임`
+  - 주최: GDG Campus Korea
+  - 접수: 05. 16(화) ~ 05. 25(일)
 - __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
