@@ -146,27 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[2023 SOFTEER BOOTCAMP](https://www.softeerbootcamp.com/)__
-  - 분류: `교육`
-  - 주최: 현대자동차
-  - 모집: 05. 03(수) ~ 05. 16(화)
-
-- __[딥러닝 병렬처리 및 Polyglot 언어모델](https://aifactory.space/learning/2416/discussion/352)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 인공지능팩토리
-  - 일시: 05. 16(화) 19:30 ~ 20:30
-- __[[MODUPOP X 어센트코리아] 모두의 SEO 글쓰기](https://festa.io/events/3433)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 05. 16(화) 19:30 ~ 20:30
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/293273818/)__
-  - 분류: `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 05. 16(화) 19:00 ~ 21:00
 - __[처음 배우는 NHN Cloud](https://festa.io/events/3464)__
   - 분류: `오프라인`, `컨퍼런스`, `클라우드`
   - 주최: NHN Cloud
   - 일시: 05. 15(월) ~ 05. 17(수)
+
 - __[우아한스터디 2023 여름시즌](https://techblog.woowahan.com/11528/)__
   - 분류: `오프라인`, `스터디`
   - 주최: 우아한형제들
@@ -239,10 +223,18 @@
   - 분류: `오프라인`, `스터디`
   - 주최: 코딩의 신
   - 접수: 05. 16(화) ~ 05. 24(수)
+- __[[OKKY 5월 세미나] 독립개발자로 살아가는 법](https://okky.kr/articles/1437884)__
+  - 분류: `온라인`, `기술일반`
+  - 주최: OKKY
+  - 접수: 05. 17(수) ~ 05. 24(수)
 - __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 한국인터넷전문가협회
   - 일시: 05. 24(수) ~ 05. 25(목)
+- __[삼2023년 K-디지털플랫폼 디지털확산 세미나](https://sites.google.com/thewise.biz/k-dp-seminar/%ED%99%88)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 고용노동부
+  - 일시: 05. 25(목) 13:00 ~ 17:40
 - __[삼성SDS Brity RPA Meetup](https://okky.kr/articles/1434421)__
   - 분류: `오프라인`, `AI`
   - 주최: 삼성 SDS
@@ -259,6 +251,10 @@
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
   - 일시: 05. 01(월) ~ 05. 26(금)
+- __[제 3회 KOPIS 빅데이터 공모전](https://www.all-con.co.kr/view/contest/497249)__
+  - 분류: `대회`, `빅데이터`
+  - 주최: 문화체육관광부
+  - 일시: 05. 15(월) ~ 05. 26(금)
 - __[Microsoft Build 2023](https://build.microsoft.com/en-US/sessions)__
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 마이크로소프트
