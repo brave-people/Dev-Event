@@ -146,23 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[처음 배우는 NHN Cloud](https://festa.io/events/3464)__
-  - 분류: `오프라인`, `컨퍼런스`, `클라우드`
-  - 주최: NHN Cloud
-  - 일시: 05. 15(월) ~ 05. 17(수)
-
-- __[우아한스터디 2023 여름시즌](https://techblog.woowahan.com/11528/)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 우아한형제들
-  - 일시: 05. 04(목) ~ 05. 17(수)
-- __[테라폼을 품은 OCI Resource Manager 알아보기](https://go.oracle.com/LP=136293)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 오라클
-  - 일시: 05. 17(수) 17:00 ~ 18:00
 - __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-nginx)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버클라우드
   - 일시: 05. 18(목) 11:00 ~ 12:00
+  
 - __[2023 관광데이터 활용공모전](https://okky.kr/articles/1428862)__
   - 분류: `대회`, `데이터`
   - 주최: 한국관광공사
@@ -203,6 +191,10 @@
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 소문난 주니어 콘퍼런스
   - 일시: 05. 23(화) 18:30 ~ 21:00
+- __[LoRA로 빠르게 나만의 모델을 만들어보자](https://aifactory.space/learning/2433/discussion/358)__
+  - 분류: `온라인`, `AI`
+  - 주최: AIFactory
+  - 일시: 05. 23(화) 19:30 ~ 20:30
 - __[Microsoft Build 2023](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
@@ -247,6 +239,10 @@
   - 분류: `오프라인`, `모임`
   - 주최: GDG Campus Korea
   - 접수: 05. 16(화) ~ 05. 25(일)
+- __[글로벌 Top 외국계 IT 회사 이직을 꿈꾸는 개발자를 위한 면접Tip](https://tally.so/r/wvrMpl)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: Drill
+  - 일시: 05. 26(금) 20:00 ~ 21:00
 - __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
@@ -280,11 +276,15 @@
 <br />
 
 ## 23년 06월
+- __[2023 인디크래프트](https://onoffmix.com/event/275382)__
+  - 분류: `오프라인`, `게임`
+  - 주최: 성남시
+  - 일시: 05. 31(수) ~ 06. 01(목)
+
 - __[Go To Busan 2023](https://festa.io/events/3363)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 06. 03(토) 13:00 ~ 19:00
-
 - __[AUSGCON (아우쓱콘)](https://festa.io/events/3504)__
   - 분류: `오프라인`, `유료`, `클라우드`
   - 주최: AWSKRUG 대학생모임
@@ -301,6 +301,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의 연구소
   - 일시: 05. 08(월) ~ 06. 09(금)
+- __[Google I/O Extended Daejeon 2023](https://festa.io/events/3537)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: GDG 대전
+  - 일시: 06. 10(토) 13:00 ~ 16:30
 - __[애플 디벨로퍼 아카데미 모집 Batch 1](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
