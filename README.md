@@ -146,27 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-nginx)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 네이버클라우드
-  - 일시: 05. 18(목) 11:00 ~ 12:00
-  
-- __[2023 관광데이터 활용공모전](https://okky.kr/articles/1428862)__
-  - 분류: `대회`, `데이터`
-  - 주최: 한국관광공사
-  - 일시: 04. 11(화) ~ 05. 18(목)
-- __[.NET L!VE 2023 Spring](https://onoffmix.com/event/274427)__
-  - 분류: `온라인`, `.net`
-  - 주최: 닷넷데브
-  - 일시: 05. 18(목) 13:00 ~ 18:00
-- __[Trino KR meetup](https://www.meetup.com/trino-kr/events/293093490)__
-  - 분류: `오프라인`, `오픈소스`, `데이터`, `Trino`
-  - 주최: Trino KR 사용자 그룹
-  - 일시: 05. 18(목) 19:00 ~ 21:00
 - __[가짜연구소 컨퍼런스 - 6th PseudoCon](https://devocean.sk.com/events/view.do?id=164)__
   - 분류: `오프라인`, `AI`
   - 주최: 가짜연구소
   - 일시: 05. 20(토) 14:00 ~ 18:00
+
 - __[TEOConf](https://www.teoconf.com/)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: TEOConf
@@ -223,7 +207,7 @@
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 한국인터넷전문가협회
   - 일시: 05. 24(수) ~ 05. 25(목)
-- __[삼2023년 K-디지털플랫폼 디지털확산 세미나](https://sites.google.com/thewise.biz/k-dp-seminar/%ED%99%88)__
+- __[2023년 K-디지털플랫폼 디지털확산 세미나](https://sites.google.com/thewise.biz/k-dp-seminar/%ED%99%88)__
   - 분류: `오프라인`, `AI`
   - 주최: 고용노동부
   - 일시: 05. 25(목) 13:00 ~ 17:40
@@ -243,6 +227,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: Drill
   - 일시: 05. 26(금) 20:00 ~ 21:00
+- __[코드 아일렌드 그로잉데이](https://codestates-community.oopy.io/203ecf71-653e-40b8-90f2-18cc7f91b0af?utm_source=github_dev_event&utm_medium=post&utm_campaign=5_growing_day)__
+  - 분류: `오프라인`, `커리어`
+  - 주최: 코드아일랜드
+  - 접수: 05. 19(금) ~ 05. 26(금)
 - __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
   - 분류: `대회`, `해커톤`
   - 주최: 보건복지부
@@ -281,6 +269,22 @@
   - 주최: 성남시
   - 일시: 05. 31(수) ~ 06. 01(목)
 
+- __[개발자 글로벌 커리어 컨퍼런스](https://festa.io/events/3529)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: F-lab
+  - 일시: 06. 03(토) 13:00 ~ 15:00
+- __[프리온보딩 벡엔드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_be_8)__
+  - 분류: `온라인`, `교육`, `벡엔드`
+  - 주최: 원티드
+  - 일시: 05. 17(수) ~ 06. 03(토)
+- __[프리온보딩 프론트엔드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_fe_10)__
+  - 분류: `온라인`, `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 일시: 05. 17(수) ~ 06. 03(토)
+- __[프리온보딩 안드로이드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_android_3)__
+  - 분류: `온라인`, `교육`, `안드로이드`
+  - 주최: 원티드
+  - 일시: 05. 17(수) ~ 06. 03(토)
 - __[Go To Busan 2023](https://festa.io/events/3363)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
