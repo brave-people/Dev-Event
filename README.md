@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[가짜연구소 컨퍼런스 - 6th PseudoCon](https://devocean.sk.com/events/view.do?id=164)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 가짜연구소
-  - 일시: 05. 20(토) 14:00 ~ 18:00
-
-- __[TEOConf](https://www.teoconf.com/)__
-  - 분류: `오프라인`, `유료`, `컨퍼런스`
-  - 주최: TEOConf
-  - 일시: 05. 20(토) 13:00 ~ 17:00  
-- __[SciPy Korea 2023](https://festa.io/events/3432)__
-  - 분류: `오프라인`, `유료`, `데이터`
-  - 주최: SciPy Korea
-  - 일시: 05. 20(토) 13:00 ~ 17:20
-- __[6th PseudoCon 2023](https://pseudocon.cargo.site/)__
-  - 분류: `오프라인`, `무료`, `AI`, `데이터`
-  - 주최: Pseudo Lab
-  - 일시: 05. 20(토) 14:00 ~ 18:00
-- __[2023 찰스의 안드로이드 컨퍼런스](https://festa.io/events/3287)__
-  - 분류: `유료`, `오프라인`, `안드로이드`
-  - 주최: 찰스의 안드로이드
-  - 일시: 05. 21(일) 13:00 ~ 17:30
 - __[10주 완성! 프로젝트 캠프: 프론트엔드(리액트)](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2305_projectcamp&utm_content=react&utm_term=230502)__
   - 분류: `온라인`, `오프라인`, `교육`, `프론트엔드`
   - 주최: 스나이퍼팩토리
   - 일시: 05. 01(월) ~ 05. 23(화)
+
 - __[소주콘](https://festa.io/events/3470)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 소문난 주니어 콘퍼런스
@@ -203,6 +183,10 @@
   - 분류: `온라인`, `기술일반`
   - 주최: OKKY
   - 접수: 05. 17(수) ~ 05. 24(수)
+- __[수료생에게 직접 듣는 부스트캠프 웹·모바일 8기 지원 꿀팁](https://form.office.naver.com/form/responseView.cmd?formkey=ZTY2NTZiM2EtZmY2Ni00OTBiLTlhOGMtMDlhNGNiZmMwZmIz&sourceId=urlshare)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 부스트캠프
+  - 접수: 05. 22(월) ~ 05. 24(수)
 - __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 한국인터넷전문가협회
@@ -243,7 +227,7 @@
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 마이크로소프트
   - 일시: 05. 24(수) ~ 05. 26(금)
-- __[오월엔 데브콘 in DAEJEON](https://festa.io/events/3430)__
+- __[오월엔 데브콘 in DAEJEON](https://festa.io/events/3467)__
   - 분류: `오프라인`, `기술일반`
   - 주최: K-DEVCON
   - 일시: 05. 27(토) 13:00 ~ 17:00
@@ -317,6 +301,10 @@
   - 분류: `교육` , `Web` , `iOS`, `android`
   - 주최: 네이버 커넥트재단
   - 일시: 05. 02(화) ~ 06. 12(월) 11:00
+- __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
+  - 분류: `대회`, `AI`
+  - 주최: 교원
+  - 일시: 05. 18(목) ~ 06. 13(화)
 - __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
