@@ -347,7 +347,7 @@
   - 주최: 인프런
   - 일시: 08. 15(화) 10:00 ~ 18:00
 
-- __[INFCON 2023](https://cloud.withgoogle.com/next)__
+- __[Google Cloud Next](https://cloud.withgoogle.com/next)__
   - 분류: `오프라인`, `클라우드`
   - 주최: Google
   - 일시: 08. 29(화) ~ 08. 31(목)
