@@ -146,23 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[10주 완성! 프로젝트 캠프: 프론트엔드(리액트)](https://udemy.wjtb.co.kr/event/id/168?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2305_projectcamp&utm_content=react&utm_term=230502)__
-  - 분류: `온라인`, `오프라인`, `교육`, `프론트엔드`
-  - 주최: 스나이퍼팩토리
-  - 일시: 05. 01(월) ~ 05. 23(화)
-
-- __[소주콘](https://festa.io/events/3470)__
-  - 분류: `오프라인`, `유료`, `컨퍼런스`
-  - 주최: 소문난 주니어 콘퍼런스
-  - 일시: 05. 23(화) 18:30 ~ 21:00
-- __[LoRA로 빠르게 나만의 모델을 만들어보자](https://aifactory.space/learning/2433/discussion/358)__
-  - 분류: `온라인`, `AI`
-  - 주최: AIFactory
-  - 일시: 05. 23(화) 19:30 ~ 20:30
 - __[Microsoft Build 2023](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Microsoft
   - 일시: 05. 23(화) ~ 05. 24(수)
+
 - __[명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://festa.io/events/3517)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 구름
@@ -227,6 +215,10 @@
   - 분류: `온라인`, `오프라인`, `기술일반`
   - 주최: 마이크로소프트
   - 일시: 05. 24(수) ~ 05. 26(금)
+- __[사회복지 현장에 적용하기 위한 인공지능에게 올바르게 말하는 방법](https://festa.io/events/3424)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 지니공공아카데미
+  - 일시: 05. 26(금) ~ 05. 27(토)
 - __[오월엔 데브콘 in DAEJEON](https://festa.io/events/3467)__
   - 분류: `오프라인`, `기술일반`
   - 주최: K-DEVCON
@@ -235,6 +227,14 @@
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
   - 일시: 05. 27(토) 17:00 ~ 20:00
+- __[한국어 LLM 민주화의 시작 KoAlpaca!](https://aifactory.space/learning/2415/discussion/383)__
+  - 분류: `오프라인`, `네트워크`
+  - 주최: AIFactory
+  - 일시: 05. 30(화) 19:30 ~ 20:30
+- __[5월 우아한테크세미나: 사례별로 알아보는 안전한 S3 보안 가이드](https://docs.google.com/forms/d/e/1FAIpQLSf46cMiaDNL45hBM2ls723XlC7AsIEeQSdFT0bgOiiibH2i3Q/viewform)__
+  - 분류: `온라인`, `네트워크`
+  - 주최: 우아한형제들
+  - 일시: 05. 30(화) 19:00 ~ 20:30
 - __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/ko-KR/awskrug/events/293564459/)__
   - 분류: `오프라인`, `네트워크`
   - 주최: AWSKRUG
@@ -261,6 +261,10 @@
   - 분류: `웨비나`, `커리어`
   - 주최: F-lab
   - 일시: 06. 03(토) 13:00 ~ 15:00
+- __[파이콘 US 2023 후기 공유 세미나](https://festa.io/events/3554)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 파이콘
+  - 일시: 06. 03(토) 14:00 ~ 19:30
 - __[프리온보딩 벡엔드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_be_8)__
   - 분류: `온라인`, `교육`, `벡엔드`
   - 주최: 원티드
@@ -285,6 +289,10 @@
   - 분류: `모임`, `AI`
   - 주최: 스마일게이트
   - 모집: 05. 09(화) ~ 06. 04(일)
+- __[WWDC23](https://festa.io/events/3547)__
+  - 분류: `오프라인`, `컨퍼런스`, `iOS`
+  - 주최: AsyncSwift
+  - 접수: 05. 24(수) ~ 06. 04(월)
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
