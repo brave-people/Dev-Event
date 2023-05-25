@@ -146,39 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[Microsoft Build 2023](https://build.microsoft.com/en-US/home)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: Microsoft
-  - 일시: 05. 23(화) ~ 05. 24(수)
-
-- __[명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기](https://festa.io/events/3517)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 구름
-  - 접수: 05. 24(수) 19:00 ~ 20:30
-- __[5월 Tech 세미나 - 클라우드 비용 최적화](https://devocean.sk.com/events/view.do?id=165)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: DEVOCEAN
-  - 접수: 05. 24(수) 19:00 ~ 21:00
-- __[부스트캠프 웹·모바일 8기 ＜수료생과의 MeetUP＞ 신청](https://form.office.naver.com/form/responseView.cmd?formkey=ZTY2NTZiM2EtZmY2Ni00OTBiLTlhOGMtMDlhNGNiZmMwZmIz&sourceId=urlshare)__
-  - 분류: `웨비나`, `교육`
-  - 주최: 커넥츠재단
-  - 접수: 04. 28(금) ~ 05. 24(수)
-- __[개발자, 한 달에 책 한 권 읽기 2023년 5월 모임](https://festa.io/events/3457)__
-  - 분류: `오프라인`, `스터디`
-  - 주최: 코딩의 신
-  - 접수: 05. 16(화) ~ 05. 24(수)
-- __[[OKKY 5월 세미나] 독립개발자로 살아가는 법](https://okky.kr/articles/1437884)__
-  - 분류: `온라인`, `기술일반`
-  - 주최: OKKY
-  - 접수: 05. 17(수) ~ 05. 24(수)
-- __[수료생에게 직접 듣는 부스트캠프 웹·모바일 8기 지원 꿀팁](https://form.office.naver.com/form/responseView.cmd?formkey=ZTY2NTZiM2EtZmY2Ni00OTBiLTlhOGMtMDlhNGNiZmMwZmIz&sourceId=urlshare)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 부스트캠프
-  - 접수: 05. 22(월) ~ 05. 24(수)
 - __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: 한국인터넷전문가협회
   - 일시: 05. 24(수) ~ 05. 25(목)
+
 - __[2023년 K-디지털플랫폼 디지털확산 세미나](https://sites.google.com/thewise.biz/k-dp-seminar/%ED%99%88)__
   - 분류: `오프라인`, `AI`
   - 주최: 고용노동부
@@ -247,7 +219,14 @@
   - 분류: `웨비나`, `클라우드`
   - 주최: Google Cloud
   - 접수: 05. 12(금) ~ 05. 31(수) 17:00
-
+- __[패스트캠퍼스X야놀자 : 프론트엔드 개발 부트캠프](https://fastcampus.co.kr/b2g_MegabyteSchool_frontend)__
+  - 분류: `교육`, `프론트엔드`
+  - 주최: 패스트캠퍼스, 야놀자
+  - 접수: 05. 25(목) ~ 05. 31(수)
+- __[패스트캠퍼스X야놀자 : 백엔드 개발 부트캠프](https://fastcampus.co.kr/b2g_MegabyteSchool_backend)__
+  - 분류: `교육`, `백엔드`
+  - 주최: 패스트캠퍼스, 야놀자
+  - 접수: 05. 25(목) ~ 05. 31(수)
 
 <br />
 
@@ -325,6 +304,10 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: MESSE ESANG
   - 일시: 06. 14(수) ~ 06. 16(금)
+- __[2023 adiOS Summore](https://festa.io/events/3556)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: adiOS
+  - 일시: 06. 24(금) 11:00 ~ 17:00
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
