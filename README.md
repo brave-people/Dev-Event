@@ -307,7 +307,7 @@
 - __[2023 adiOS Summore](https://festa.io/events/3556)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
-  - 일시: 06. 24(금) 11:00 ~ 17:00
+  - 일시: 06. 24(토) 11:00 ~ 17:00
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
