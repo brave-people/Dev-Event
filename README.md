@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[2023 i-AWARDS(WEB/APP/iECO) TREND CONFERENCE(아이어워즈 트렌드 컨퍼런스)](https://build.microsoft.com/en-US/home)__
-  - 분류: `오프라인`, `유료`, `컨퍼런스`
-  - 주최: 한국인터넷전문가협회
-  - 일시: 05. 24(수) ~ 05. 25(목)
-
-- __[2023년 K-디지털플랫폼 디지털확산 세미나](https://sites.google.com/thewise.biz/k-dp-seminar/%ED%99%88)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 고용노동부
-  - 일시: 05. 25(목) 13:00 ~ 17:40
-- __[삼성SDS Brity RPA Meetup](https://okky.kr/articles/1434421)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 삼성 SDS
-  - 일시: 05. 25(목) 13:30 ~ 18:00
-- __[개발자, 한 달에 책 한 권 읽기 2023년 5월 모임](https://festa.io/events/3457)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 코딩의 신
-  - 일시: 05. 25(목) 19:30 ~ 21:30
-- __[[GDG] 사람을 찾습니다](https://festa.io/events/3454)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Campus Korea
-  - 접수: 05. 16(화) ~ 05. 25(일)
 - __[글로벌 Top 외국계 IT 회사 이직을 꿈꾸는 개발자를 위한 면접Tip](https://tally.so/r/wvrMpl)__
   - 분류: `웨비나`, `커리어`
   - 주최: Drill
   - 일시: 05. 26(금) 20:00 ~ 21:00
+
 - __[코드 아일렌드 그로잉데이](https://codestates-community.oopy.io/203ecf71-653e-40b8-90f2-18cc7f91b0af?utm_source=github_dev_event&utm_medium=post&utm_campaign=5_growing_day)__
   - 분류: `오프라인`, `커리어`
   - 주최: 코드아일랜드
@@ -199,6 +179,10 @@
   - 분류: `유료`, `오프라인`, `플러터`
   - 주최: GDG 송도
   - 일시: 05. 27(토) 17:00 ~ 20:00
+- __[AWSKRUG #magok 마곡 소모임 -네번째 모임](https://www.meetup.com/awskrug/events/293542908/)__
+  - 분류: `오프라인`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 05. 30(화) 19:00 ~ 20:30
 - __[한국어 LLM 민주화의 시작 KoAlpaca!](https://aifactory.space/learning/2415/discussion/383)__
   - 분류: `오프라인`, `네트워크`
   - 주최: AIFactory
@@ -272,6 +256,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `iOS`
   - 주최: AsyncSwift
   - 접수: 05. 24(수) ~ 06. 04(월)
+- __[처음 배우는 NHN Cloud](https://www.nhncloud.com/kr/edu/attend/detail/8d6c7b01-626e-4270-a931-bbda15a8cd66?utm_source=github_dev_event&utm_medium=post&utm_campaign=edu&utm_content=0526_authorclass)__
+  - 분류: `오프라인`, `교육`, `클라우드`
+  - 주최: NHN 클라우드
+  - 접수: 05. 26(금) ~ 06. 06(화) 17:00
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
@@ -280,6 +268,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의 연구소
   - 일시: 05. 08(월) ~ 06. 09(금)
+- __[토스 Slash 2023](https://toss.im/slash-23)__
+  - 분류: `온라인`, `기술일반`
+  - 주최: 토스
+  - 일시: 06. 08(목) ~ 06. 09(금)
 - __[Google I/O Extended Daejeon 2023](https://festa.io/events/3537)__
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG 대전
@@ -296,6 +288,10 @@
   - 분류: `대회`, `AI`
   - 주최: 교원
   - 일시: 05. 18(목) ~ 06. 13(화)
+- __[Microsoft Build 2023 After Party with MVPs](https://festa.io/events/3574)__
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 06. 13(화) 19:30 ~ 21:30
 - __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
@@ -304,10 +300,18 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: MESSE ESANG
   - 일시: 06. 14(수) ~ 06. 16(금)
+- __[양자머신러닝 국내외 연구동향](https://festa.io/events/3576)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 06. 20(화) 19:30 ~ 20:30
 - __[2023 adiOS Summore](https://festa.io/events/3556)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
   - 일시: 06. 24(토) 11:00 ~ 17:00
+- __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 06. 27(화) 19:30 ~ 21:30
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
