@@ -146,55 +146,11 @@
 <br />
 
 ## 23년 05월
-- __[글로벌 Top 외국계 IT 회사 이직을 꿈꾸는 개발자를 위한 면접Tip](https://tally.so/r/wvrMpl)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: Drill
-  - 일시: 05. 26(금) 20:00 ~ 21:00
-
-- __[코드 아일렌드 그로잉데이](https://codestates-community.oopy.io/203ecf71-653e-40b8-90f2-18cc7f91b0af?utm_source=github_dev_event&utm_medium=post&utm_campaign=5_growing_day)__
-  - 분류: `오프라인`, `커리어`
-  - 주최: 코드아일랜드
-  - 접수: 05. 19(금) ~ 05. 26(금)
-- __[2023년 장애인 분야 해커톤 대회 : 장애 플러스 기술](https://www.herbnanum.org/load.asp?subPage=411.View&idx=2748)__
-  - 분류: `대회`, `해커톤`
-  - 주최: 보건복지부
-  - 일시: 05. 01(월) ~ 05. 26(금)
-- __[제 3회 KOPIS 빅데이터 공모전](https://www.all-con.co.kr/view/contest/497249)__
-  - 분류: `대회`, `빅데이터`
-  - 주최: 문화체육관광부
-  - 일시: 05. 15(월) ~ 05. 26(금)
-- __[Microsoft Build 2023](https://build.microsoft.com/en-US/sessions)__
-  - 분류: `온라인`, `오프라인`, `기술일반`
-  - 주최: 마이크로소프트
-  - 일시: 05. 24(수) ~ 05. 26(금)
-- __[사회복지 현장에 적용하기 위한 인공지능에게 올바르게 말하는 방법](https://festa.io/events/3424)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 지니공공아카데미
-  - 일시: 05. 26(금) ~ 05. 27(토)
-- __[오월엔 데브콘 in DAEJEON](https://festa.io/events/3467)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: K-DEVCON
-  - 일시: 05. 27(토) 13:00 ~ 17:00
-- __[Flutter in Songdo 맥주파티!](https://festa.io/events/3430)__
-  - 분류: `유료`, `오프라인`, `플러터`
-  - 주최: GDG 송도
-  - 일시: 05. 27(토) 17:00 ~ 20:00
-- __[AWSKRUG #magok 마곡 소모임 -네번째 모임](https://www.meetup.com/awskrug/events/293542908/)__
-  - 분류: `오프라인`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 05. 30(화) 19:00 ~ 20:30
-- __[한국어 LLM 민주화의 시작 KoAlpaca!](https://aifactory.space/learning/2415/discussion/383)__
-  - 분류: `오프라인`, `네트워크`
-  - 주최: AIFactory
-  - 일시: 05. 30(화) 19:30 ~ 20:30
-- __[5월 우아한테크세미나: 사례별로 알아보는 안전한 S3 보안 가이드](https://docs.google.com/forms/d/e/1FAIpQLSf46cMiaDNL45hBM2ls723XlC7AsIEeQSdFT0bgOiiibH2i3Q/viewform)__
-  - 분류: `온라인`, `네트워크`
-  - 주최: 우아한형제들
-  - 일시: 05. 30(화) 19:00 ~ 20:30
 - __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/ko-KR/awskrug/events/293564459/)__
   - 분류: `오프라인`, `네트워크`
   - 주최: AWSKRUG
   - 일시: 05. 31(수) 19:00 ~ 21:30
+
 - __[2023 프론트엔드 트렌드 따라잡기](https://festa.io/events/3446)__
   - 분류: `유료(1만원)`, `오프라인`, `프론트엔드`
   - 주최: GDG Korea WebTech
@@ -272,6 +228,10 @@
   - 분류: `온라인`, `기술일반`
   - 주최: 토스
   - 일시: 06. 08(목) ~ 06. 09(금)
+- __[2023 한-아세안 ICT 융합 포험 & 메타버스 컨퍼런스](http://www.busan-metaverse.com/)__
+  - 분류: `온라인`, `메타버스`
+  - 주최: 과학기술정보통신부
+  - 일시: 06. 09(금) 10:00 ~ 18:00
 - __[Google I/O Extended Daejeon 2023](https://festa.io/events/3537)__
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG 대전
@@ -296,6 +256,18 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
   - 일시: 06. 14(수)
+- __[야너두 NestJS!](https://festa.io/events/3585)__
+  - 분류: `오프라인`, `NextJS`
+  - 주최: NextJS Korea Group
+  - 일시: 06. 15(목) 19:00 ~ 22:00
+- __[한국 SAFe 커뮤니티 6월 밋업](https://festa.io/events/3584)__
+  - 분류: `오프라인`, `오픈소스`
+  - 주최: 한국 SAFe 커뮤니티
+  - 일시: 06. 15(목) 19:30 ~ 21:30
+- __[DX CAMP - 최고의 전문가와 함께하는 데이터 인재 인큐베이팅 프로그램](https://www.dxchallenge.co.kr/events/dx-camp-2023-1)__
+  - 분류: `오프라인`, `스타트업`
+  - 주최: 부산광역시
+  - 일시: 05. 09(화) ~ 06. 16(금)
 - __[METAVERSE EXPO 2023 (2023 메타버스 엑스포)](https://metavexpo.com/exhibitor/participation/)__
   - 분류: `오프라인`, `Ceph`
   - 주최: MESSE ESANG
@@ -312,6 +284,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 27(화) 19:30 ~ 21:30
+- __[파이썬 & 자바개발자 양성과정](https://acornedu.co.kr/kdigital/java_python.html)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 에이콘아카데미
+  - 일시: 05. 30(화) ~ 06. 28(수)
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
@@ -329,10 +305,18 @@
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
 
+- __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
+  - 분류: `대회`, `AI`
+  - 주최: 교원
+  - 일시: 05. 18(목) ~ 07. 14(금)
 - __[Go To Songdo 2023](https://festa.io/events/3364)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
+  - 분류: `온라인`, `웨비나`, `QA`
+  - 주최: QA Korea
+  - 일시: 05. 28(일) ~ 07. 28(금)
 
 <br />
 
