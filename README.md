@@ -261,8 +261,8 @@
   - 주최: Korea Ceph User Group
   - 일시: 06. 14(수)
 - __[야너두 NestJS!](https://festa.io/events/3585)__
-  - 분류: `오프라인`, `NextJS`
-  - 주최: NextJS Korea Group
+  - 분류: `오프라인`, `NestJS`
+  - 주최: NestJS Korea Group
   - 일시: 06. 15(목) 19:00 ~ 22:00
 - __[한국 SAFe 커뮤니티 6월 밋업](https://festa.io/events/3584)__
   - 분류: `오프라인`, `오픈소스`
