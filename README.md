@@ -145,31 +145,6 @@
 
 <br />
 
-## 23년 05월
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/ko-KR/awskrug/events/293564459/)__
-  - 분류: `오프라인`, `네트워크`
-  - 주최: AWSKRUG
-  - 일시: 05. 31(수) 19:00 ~ 21:30
-
-- __[2023 프론트엔드 트렌드 따라잡기](https://festa.io/events/3446)__
-  - 분류: `유료(1만원)`, `오프라인`, `프론트엔드`
-  - 주최: GDG Korea WebTech
-  - 일시: 05. 31(수) 19:00 ~ 21:30
-- __[GCP 입문을 위한 hands-on Labs day 2023 seanson2 웨비나](https://gc.hosting.kr/gcp_labsday-2023_2/?utm_source=community&utm_medium=github_dev_event&utm_campaign=gcpfund)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: Google Cloud
-  - 접수: 05. 12(금) ~ 05. 31(수) 17:00
-- __[패스트캠퍼스X야놀자 : 프론트엔드 개발 부트캠프](https://fastcampus.co.kr/b2g_MegabyteSchool_frontend)__
-  - 분류: `교육`, `프론트엔드`
-  - 주최: 패스트캠퍼스, 야놀자
-  - 접수: 05. 25(목) ~ 05. 31(수)
-- __[패스트캠퍼스X야놀자 : 백엔드 개발 부트캠프](https://fastcampus.co.kr/b2g_MegabyteSchool_backend)__
-  - 분류: `교육`, `백엔드`
-  - 주최: 패스트캠퍼스, 야놀자
-  - 접수: 05. 25(목) ~ 05. 31(수)
-
-<br />
-
 ## 23년 06월
 - __[2023 인디크래프트](https://onoffmix.com/event/275382)__
   - 분류: `오프라인`, `게임`
@@ -220,6 +195,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `iOS`
   - 주최: AsyncSwift
   - 접수: 05. 24(수) ~ 06. 04(월)
+- __[WWDC Watch Party 2023](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/293796757/)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: WWDC Watch Party 2023
+  - 일시: 06. 05(월)
 - __[처음 배우는 NHN Cloud](https://www.nhncloud.com/kr/edu/attend/detail/8d6c7b01-626e-4270-a931-bbda15a8cd66?utm_source=github_dev_event&utm_medium=post&utm_campaign=edu&utm_content=0526_authorclass)__
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: NHN 클라우드
@@ -248,6 +227,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG 대전
   - 일시: 06. 10(토) 13:00 ~ 16:30
+- __[Build After Party 2023 x .NET Dev](https://festa.io/events/3605)__
+  - 분류: `오프라인`, `.net`
+  - 주최: 닷넷데브
+  - 일시: 06. 10(토) 13:00 ~ 17:50
 - __[애플 디벨로퍼 아카데미 모집 Batch 1](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
@@ -312,6 +295,11 @@
 <br />
 
 ## 23년 07월
+- [KWDC](https://kwdc.dev/)
+  - 분류: 오프라인, Apple platform developer
+  - 주최: 한국애플커뮤니티연합
+  - 일시: 07. 18(화) 10:00 ~ 18:00
+
 - __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
