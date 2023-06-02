@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[2023 인디크래프트](https://onoffmix.com/event/275382)__
-  - 분류: `오프라인`, `게임`
-  - 주최: 성남시
-  - 일시: 05. 31(수) ~ 06. 01(목)
-
-- __[프리온보딩 태블로(데이터) 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_tableau_1)__
-  - 분류: `온라인`, `교육`, `데이터`
-  - 주최: 원티드
-  - 일시: 05. 17(수) ~ 06. 01(목)
 - __[SIPE 1기 모집](https://sipe.team/)__
   - 분류: `동아리`
   - 주최: SIPE
   - 접수: 05. 19(금) ~ 06. 02(금)
+
 - __[개발자 글로벌 커리어 컨퍼런스](https://festa.io/events/3529)__
   - 분류: `웨비나`, `커리어`
   - 주최: F-lab
@@ -203,6 +195,14 @@
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: NHN 클라우드
   - 접수: 05. 26(금) ~ 06. 06(화) 17:00
+- __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/293608432/)__
+  - 분류: `오프라인`, `교육`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 02(금) ~ 06. 07(수)
+- __[챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)__
+  - 분류: `온라인`, `교육`
+  - 주최: 모두의 연구소
+  - 일시: 06. 08(목) 19:30 ~ 20:20
 - __[파이썬으로 쉽게 웹이든 데스크탑이든 GUI를 만들어봐요!](https://festa.io/events/3587)__
   - 분류: `오프라인`, `교육`
   - 주최: 모두의 연구소
@@ -247,10 +247,18 @@
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 13(화) 19:30 ~ 21:30
+- __[올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향'](https://docs.google.com/forms/d/e/1FAIpQLSfi4Mf77GudK_CTK-oR_2sibn9x5j5jhEpWDnGa9Oa7ujOlbw/viewform)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 스타트런
+  - 접수: 06. 02(금) ~ 06. 14(수)
 - __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
   - 일시: 06. 14(수)
+- __[오라클과 엔비디아의 특별한 만남 : AI 가속화를 위한 파트너쉽](https://go.oracle.com/LP=136594)__
+  - 분류: `오프라인`, `Ceph`
+  - 주최: 엔비디아
+  - 일시: 06. 14(수) 14:00 ~ 15:30
 - __[야너두 NestJS!](https://festa.io/events/3585)__
   - 분류: `오프라인`, `NestJS`
   - 주최: NestJS Korea Group
@@ -271,6 +279,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 20(화) 19:30 ~ 20:30
+- __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
+  - 분류: `대회`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 일시: 06. 02(금) ~ 06. 21(수)
 - __[2023 adiOS Summore](https://festa.io/events/3556)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
@@ -286,7 +298,11 @@
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
-  - 일시: 05. 21 ~ 06. 30(금)
+  - 일시: 05. 21(일) ~ 06. 30(금)
+- __[서울 웹 3.0 페스티벌 해커톤, 데모데이 참여 팀 모집](https://www.seoulweb3festival.com/)__
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 서울시
+  - 모집: 05. 23(화) ~ 06. 30(금)
 - __[AI & BIG DATA SHOW(2023 인공지능 & 빅데이터쇼)](https://aibigdatashow.com/)__
   - 분류: `오프라인`, `AI`, `빅데이터`
   - 주최: 지능정보산업협회
