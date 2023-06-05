@@ -146,50 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[SIPE 1기 모집](https://sipe.team/)__
-  - 분류: `동아리`
-  - 주최: SIPE
-  - 접수: 05. 19(금) ~ 06. 02(금)
-- __[개발자 글로벌 커리어 컨퍼런스](https://festa.io/events/3529)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: F-lab
-  - 일시: 06. 03(토) 13:00 ~ 15:00
-- __[파이콘 US 2023 후기 공유 세미나](https://festa.io/events/3554)__
-  - 분류: `웨비나`, `커리어`
-  - 주최: 파이콘
-  - 일시: 06. 03(토) 14:00 ~ 19:30
-- __[프리온보딩 벡엔드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_be_8)__
-  - 분류: `온라인`, `교육`, `벡엔드`
-  - 주최: 원티드
-  - 일시: 05. 17(수) ~ 06. 03(토)
-- __[프리온보딩 프론트엔드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_fe_10)__
-  - 분류: `온라인`, `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 일시: 05. 17(수) ~ 06. 03(토)
-- __[프리온보딩 안드로이드 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_android_3)__
-  - 분류: `온라인`, `교육`, `안드로이드`
-  - 주최: 원티드
-  - 일시: 05. 17(수) ~ 06. 03(토)
-- __[Go To Busan 2023](https://festa.io/events/3363)__
-  - 분류: `오프라인`, `Go`
-  - 주최: Golang Korea
-  - 일시: 06. 03(토) 13:00 ~ 19:00
-- __[AUSGCON (아우쓱콘)](https://festa.io/events/3504)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG 대학생모임
-  - 일시: 06. 03(토) 14:00 ~ 18:00
-- __[스마일게이트멤버십 AI 부문 3기 창작팀(개인) 모집](https://futurelab.center/front/program/program-view?G_MENU_SEQ=&contSeq=704)__
-  - 분류: `모임`, `AI`
-  - 주최: 스마일게이트
-  - 모집: 05. 09(화) ~ 06. 04(일)
-- __[WWDC23](https://festa.io/events/3547)__
-  - 분류: `오프라인`, `컨퍼런스`, `iOS`
-  - 주최: AsyncSwift
-  - 접수: 05. 24(수) ~ 06. 04(월)
 - __[WWDC Watch Party 2023](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/293796757/)__
   - 분류: `오프라인`, `iOS`
   - 주최: WWDC Watch Party 2023
   - 일시: 06. 05(월)
+
 - __[처음 배우는 NHN Cloud](https://www.nhncloud.com/kr/edu/attend/detail/8d6c7b01-626e-4270-a931-bbda15a8cd66?utm_source=github_dev_event&utm_medium=post&utm_campaign=edu&utm_content=0526_authorclass)__
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: NHN 클라우드
@@ -198,6 +159,14 @@
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 06. 02(금) ~ 06. 07(수)
+- __[프리온보딩 프론트엔드 인턴십 사전설명회](https://www.wanted.co.kr/events/pre_apply_23_06)__
+  - 분류: `온라인`, `커리어`
+  - 주최: 원티드
+  - 접수: 05. 31(수) ~ 06. 07(수)
+- __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-api-gateway-nginx-plus2)__
+  - 분류: `온라인`, `nginx`
+  - 주최: 네이버 클라우드 플랫폼
+  - 일시: 06. 08(목) 11:00 ~ 12:00
 - __[챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)__
   - 분류: `온라인`, `교육`
   - 주최: 모두의 연구소
@@ -314,16 +283,15 @@
 <br />
 
 ## 23년 07월
-- [KWDC](https://kwdc.dev/)
-  - 분류: 오프라인, Apple platform developer
-  - 주최: 한국애플커뮤니티연합
-  - 일시: 07. 18(화) 10:00 ~ 18:00
-
 - __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
 
+- [iOS meets ML](https://festa.io/events/3615)
+  - 분류: `유료`, `오프라인`, `iOS`
+  - 주최: iOS 아이가
+  - 일시: 07. 08(토) 14:00 ~ 21:30
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
@@ -332,6 +300,10 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- [KWDC](https://kwdc.dev/)
+  - 분류: `오프라인`, `Apple platform developer`
+  - 주최: 한국애플커뮤니티연합
+  - 일시: 07. 18(화) 10:00 ~ 18:00
 - __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
