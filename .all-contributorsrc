@@ -843,6 +843,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mokhs00",
+      "name": "Hansu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72328687?v=4",
+      "profile": "https://rnokhs.tistory.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -851,5 +860,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
