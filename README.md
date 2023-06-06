@@ -146,15 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[WWDC Watch Party 2023](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/293796757/)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: WWDC Watch Party 2023
-  - 일시: 06. 05(월)
-
 - __[처음 배우는 NHN Cloud](https://www.nhncloud.com/kr/edu/attend/detail/8d6c7b01-626e-4270-a931-bbda15a8cd66?utm_source=github_dev_event&utm_medium=post&utm_campaign=edu&utm_content=0526_authorclass)__
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: NHN 클라우드
   - 접수: 05. 26(금) ~ 06. 06(화) 17:00
+  
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/293608432/)__
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: AWSKRUG
@@ -255,6 +251,14 @@
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 일시: 06. 02(금) ~ 06. 21(수)
+- __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
+  - 분류: `대회`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 일시: 06. 02(금) ~ 06. 21(수)
+- __[NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023?utm_source=github_dev_event&utm_medium=da&utm_campaign=makeit2023&utm_content=da_d&utm_term=pc_olod)__
+  - 분류: `컨퍼런스`, `클라우드`
+  - 주최: NHN Cloud
+  - 접수: 06. 06(화) ~ 06. 21(수)
 - __[2023 adiOS Summore](https://festa.io/events/3556)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
@@ -267,6 +271,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
   - 일시: 05. 30(화) ~ 06. 28(수)
+- __[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임](https://festa.io/events/3624)__
+  - 분류: `유료`, `교육`
+  - 주최: 코딩의 신
+  - 일시: 06. 29(목) 19:30 ~ 21:30
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
