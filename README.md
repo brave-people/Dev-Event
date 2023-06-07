@@ -146,15 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[처음 배우는 NHN Cloud](https://www.nhncloud.com/kr/edu/attend/detail/8d6c7b01-626e-4270-a931-bbda15a8cd66?utm_source=github_dev_event&utm_medium=post&utm_campaign=edu&utm_content=0526_authorclass)__
-  - 분류: `오프라인`, `교육`, `클라우드`
-  - 주최: NHN 클라우드
-  - 접수: 05. 26(금) ~ 06. 06(화) 17:00
-  
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/293608432/)__
   - 분류: `오프라인`, `교육`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 06. 02(금) ~ 06. 07(수)
+
 - __[프리온보딩 프론트엔드 인턴십 사전설명회](https://www.wanted.co.kr/events/pre_apply_23_06)__
   - 분류: `온라인`, `커리어`
   - 주최: 원티드
@@ -171,6 +167,14 @@
   - 분류: `오프라인`, `교육`
   - 주최: 모두의 연구소
   - 일시: 06. 08(목) 13:00 ~ 18:00
+- __[구름톤 트레이닝 - 쿠버네티스 과정](https://kdt.goorm.io/?utm_source=github_dev_event)__
+  - 분류: `온라인`, `교육`
+  - 주최: 구름
+  - 접수: 06. 01(목) ~ 06. 08(목)
+- __[구름톤 트레이닝 - AI 자연어 처리 과정](https://kdt.goorm.io/?utm_source=github_dev_event)__
+  - 분류: `온라인`, `교육`
+  - 주최: 구름
+  - 접수: 06. 01(목) ~ 06. 08(목)
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
@@ -219,10 +223,18 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: Korea Ceph User Group
   - 일시: 06. 14(수)
+- __[표준프레임워크 오픈커뮤니티 세미나 참여](https://form.office.naver.com/form/responseView.cmd?formkey=NDIxODE5ZTMtMTMzZC00MTFkLTgzZTctYzcxMjI4YzRmNzFm&sourceId=urlshare)__
+  - 분류: `온라인`, `스프링`
+  - 주최: 오픈소스개발자커뮤니티
+  - 접수: 06. 07(수) ~ 06. 14(수)
 - __[오라클과 엔비디아의 특별한 만남 : AI 가속화를 위한 파트너쉽](https://go.oracle.com/LP=136594)__
   - 분류: `오프라인`, `Ceph`
   - 주최: 엔비디아
   - 일시: 06. 14(수) 14:00 ~ 15:30
+- __[당근 SRE 밋업 제3회](https://festa.io/events/3600)__
+  - 분류: `오프라인`, `SRE`
+  - 주최: 당근마켓
+  - 일시: 06. 15(목) 14:00 ~ 16:00
 - __[야너두 NestJS!](https://festa.io/events/3585)__
   - 분류: `오프라인`, `NestJS`
   - 주최: NestJS Korea Group
