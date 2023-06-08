@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/293608432/)__
-  - 분류: `오프라인`, `교육`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 02(금) ~ 06. 07(수)
-
-- __[프리온보딩 프론트엔드 인턴십 사전설명회](https://www.wanted.co.kr/events/pre_apply_23_06)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 원티드
-  - 접수: 05. 31(수) ~ 06. 07(수)
 - __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-api-gateway-nginx-plus2)__
   - 분류: `온라인`, `nginx`
   - 주최: 네이버 클라우드 플랫폼
   - 일시: 06. 08(목) 11:00 ~ 12:00
+
 - __[챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)__
   - 분류: `온라인`, `교육`
   - 주최: 모두의 연구소
@@ -215,6 +207,10 @@
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 13(화) 19:30 ~ 21:30
+- __['요금 폭탄 없이, 가성비 있게 AWS 쓰는 쉬운 방법' 웨비나 신청](https://answer.moaform.com/answers/EKBK28)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: 아마존웹서비스 코리아
+  - 접수: 06. 14(수) 14:00 ~ 15:00
 - __[올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향'](https://docs.google.com/forms/d/e/1FAIpQLSfi4Mf77GudK_CTK-oR_2sibn9x5j5jhEpWDnGa9Oa7ujOlbw/viewform)__
   - 분류: `오프라인`, `AI`
   - 주최: 스타트런
@@ -259,10 +255,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 20(화) 19:30 ~ 20:30
-- __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
-  - 분류: `대회`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 일시: 06. 02(금) ~ 06. 21(수)
+- __[우리는 왜 ChatGPT에 열광할까?](https://techtalk.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=techtalk&utm_content=dev_event&utm_term=2nd)__
+  - 분류: `온라인`, `AI`
+  - 주최: 구름
+  - 일시: 06. 21(수) 19:00 ~ 21:00
 - __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
