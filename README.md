@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[무중단 배포가 가능한 API Gateway, NGINX Plus](https://app.livestorm.co/naver-cloud/solutions-showcase-api-gateway-nginx-plus2)__
-  - 분류: `온라인`, `nginx`
-  - 주최: 네이버 클라우드 플랫폼
-  - 일시: 06. 08(목) 11:00 ~ 12:00
-
-- __[챗GPT 점메추 메뉴판, 예산입력하고 점심 메뉴 추천받자](https://aifactory.space/competition/2374/discussion/368)__
-  - 분류: `온라인`, `교육`
-  - 주최: 모두의 연구소
-  - 일시: 06. 08(목) 19:30 ~ 20:20
-- __[파이썬으로 쉽게 웹이든 데스크탑이든 GUI를 만들어봐요!](https://festa.io/events/3587)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 모두의 연구소
-  - 일시: 06. 08(목) 13:00 ~ 18:00
-- __[구름톤 트레이닝 - 쿠버네티스 과정](https://kdt.goorm.io/?utm_source=github_dev_event)__
-  - 분류: `온라인`, `교육`
-  - 주최: 구름
-  - 접수: 06. 01(목) ~ 06. 08(목)
-- __[구름톤 트레이닝 - AI 자연어 처리 과정](https://kdt.goorm.io/?utm_source=github_dev_event)__
-  - 분류: `온라인`, `교육`
-  - 주최: 구름
-  - 접수: 06. 01(목) ~ 06. 08(목)
 - __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: Apple
   - 일시: 06. 05(월) ~ 06. 09(금)
+
 - __[아이펠 교육생 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github_dev_event)__
   - 분류: `교육`, `AI`
   - 주최: 모두의 연구소
@@ -251,6 +231,10 @@
   - 분류: `오프라인`, `Ceph`
   - 주최: MESSE ESANG
   - 일시: 06. 14(수) ~ 06. 16(금)
+- __[포스코DX 청년IT전문가 아카데미 6기 교육생 선발](https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=45865231)__
+  - 분류: `교육`, `무료`
+  - 주최: 포스코DX
+  - 접수: 06. 09(금) ~ 06. 18(일)
 - __[양자머신러닝 국내외 연구동향](https://festa.io/events/3576)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
