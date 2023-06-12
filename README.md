@@ -146,35 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[WWDC23](https://developer.apple.com/kr/wwdc23/)__
-  - 분류: `온라인`, `컨퍼런스`
-  - 주최: Apple
-  - 일시: 06. 05(월) ~ 06. 09(금)
-
-- __[아이펠 교육생 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github_dev_event)__
-  - 분류: `교육`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 05. 08(월) ~ 06. 09(금)
-- __[토스 Slash 2023](https://toss.im/slash-23)__
-  - 분류: `온라인`, `기술일반`
-  - 주최: 토스
-  - 일시: 06. 08(목) ~ 06. 09(금)
-- __[2023 한-아세안 ICT 융합 포험 & 메타버스 컨퍼런스](http://www.busan-metaverse.com/)__
-  - 분류: `온라인`, `메타버스`
-  - 주최: 과학기술정보통신부
-  - 일시: 06. 09(금) 10:00 ~ 18:00
-- __[Google I/O Extended Daejeon 2023](https://festa.io/events/3537)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: GDG 대전
-  - 일시: 06. 10(토) 13:00 ~ 16:30
-- __[Build After Party 2023 x .NET Dev](https://festa.io/events/3605)__
-  - 분류: `오프라인`, `.net`
-  - 주최: 닷넷데브
-  - 일시: 06. 10(토) 13:00 ~ 17:50
 - __[애플 디벨로퍼 아카데미 모집 Batch 1](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 04. 28(금) ~ 06. 12(월)
+
 - __[부스트캠프 웹·모바일 8기 모집](https://boostcamp.connect.or.kr/guide_wm.html)__
   - 분류: `교육` , `Web` , `iOS`, `android`
   - 주최: 네이버 커넥트재단
@@ -235,8 +211,16 @@
   - 분류: `교육`, `무료`
   - 주최: 포스코DX
   - 접수: 06. 09(금) ~ 06. 18(일)
+- __[해커그라운드 컨퍼런스](https://festa.io/events/3645)__
+  - 분류: `커리어`, `무료`
+  - 주최: 해커그라운드
+  - 접수: 06. 11(일) ~ 06. 19(월)
 - __[양자머신러닝 국내외 연구동향](https://festa.io/events/3576)__
   - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 06. 20(화) 19:30 ~ 20:30
+- __[의도대로 사용하는 스테이블디퓨전 사용법과 AI생성이미지의 이해](https://aifactory.space/competition/2202/discussion/430)__
+  - 분류: `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 20(화) 19:30 ~ 20:30
 - __[우리는 왜 ChatGPT에 열광할까?](https://techtalk.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=techtalk&utm_content=dev_event&utm_term=2nd)__
@@ -251,6 +235,10 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: NHN Cloud
   - 접수: 06. 06(화) ~ 06. 21(수)
+- __[제주도민 모두를 위한 제주를 커밋하다!](https://festa.io/events/3647)__
+  - 분류: `오프라인`, `교육`, `Git`
+  - 주최: 제주공공아카데미
+  - 일시: 06. 24(토) 12:00 ~ 18:00
 - __[2023 adiOS Summore](https://festa.io/events/3556)__
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
@@ -288,6 +276,10 @@
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
 
+- [방구석인디게임쇼 BIGS 2023](https://festa.io/events/3615)
+  - 분류: `대회`, `오프라인`, `게임`
+  - 주최: 방구석인디게임쇼
+  - 접수: 05. 31(수) ~ 07. 06(목)
 - [iOS meets ML](https://festa.io/events/3615)
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
@@ -337,6 +329,14 @@
   - 분류: `모임`, `기술일반`
   - 주최: Github
   - 일시: 11. 08(수) ~ 11. 09(목)
+
+<br />
+
+## 23년 12월
+- __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
+  - 분류: `교육`, `MongoDB`
+  - 주최: MongoDB
+  - 일시: 06. 01(목) ~ 12. 31(일)
 
 ----------------
 
