@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[애플 디벨로퍼 아카데미 모집 Batch 1](https://developeracademy.postech.ac.kr/)__
-  - 분류: `교육`, `iOS`
-  - 주최: Apple 디벨로퍼 아카데미
-  - 일시: 04. 28(금) ~ 06. 12(월)
-
-- __[부스트캠프 웹·모바일 8기 모집](https://boostcamp.connect.or.kr/guide_wm.html)__
-  - 분류: `교육` , `Web` , `iOS`, `android`
-  - 주최: 네이버 커넥트재단
-  - 일시: 05. 02(화) ~ 06. 12(월) 11:00
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
   - 일시: 05. 18(목) ~ 06. 13(화)
+
 - __[Microsoft Build 2023 After Party with MVPs](https://festa.io/events/3574)__
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
@@ -235,6 +227,10 @@
   - 분류: `컨퍼런스`, `클라우드`
   - 주최: NHN Cloud
   - 접수: 06. 06(화) ~ 06. 21(수)
+- __[6월 Tech 세미나 - 웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://devocean.sk.com/events/view.do?id=168)__
+  - 분류: `웨비나`, `프론트엔드`
+  - 주최: DEVOCEAN
+  - 접수: 06. 13(화) ~ 06. 21(수)
 - __[제주도민 모두를 위한 제주를 커밋하다!](https://festa.io/events/3647)__
   - 분류: `오프라인`, `교육`, `Git`
   - 주최: 제주공공아카데미
@@ -280,6 +276,10 @@
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
 
+- [AI 서비스 완성! AI+웹 개발 취업캠프](https://nipaaiswcamp2023.oopy.io/?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2306_aicamp&utm_content=nipa&utm_term=230613)
+  - 분류: `온라인`, `교육`
+  - 주최: 스나이퍼팩토리
+  - 일시: 06. 08(목) ~ 07. 04(화)
 - [방구석인디게임쇼 BIGS 2023](https://festa.io/events/3615)
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
