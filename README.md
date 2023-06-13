@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-94-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-95-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -614,6 +614,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kalelpark"><img src="https://avatars.githubusercontent.com/u/86551201?v=4?s=100" width="100px;" alt="Wongi Park"/><br /><sub><b>Wongi Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kalelpark" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://solution-is-here.tistory.com/"><img src="https://avatars.githubusercontent.com/u/104314593?v=4?s=100" width="100px;" alt="YongJun"/><br /><sub><b>YongJun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yongjun-hong" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://rnokhs.tistory.com/"><img src="https://avatars.githubusercontent.com/u/72328687?v=4?s=100" width="100px;" alt="Hansu Kim"/><br /><sub><b>Hansu Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mokhs00" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/haeunkim.on/"><img src="https://avatars.githubusercontent.com/u/76644652?v=4?s=100" width="100px;" alt="Hani Kim"/><br /><sub><b>Hani Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chamroro" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
