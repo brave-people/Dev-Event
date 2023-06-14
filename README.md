@@ -291,7 +291,7 @@
 - __[대한민국 인공지능 위크 AI for Korea 2023](https://rsvp.withgoogle.com/events/aiforkorea2023)__
   - 분류: `오프라인`, `AI`
   - 주최: Google, 과학기술정보통신부
-  - 일시: 07 .13(목) ~ 07 .15(토)
+  - 일시: 07. 13(목) ~ 07. 15(토)
 - __[Go To Songdo 2023](https://festa.io/events/3364)__
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
