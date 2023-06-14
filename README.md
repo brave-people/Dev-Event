@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
-  - 분류: `대회`, `AI`
-  - 주최: 교원
-  - 일시: 05. 18(목) ~ 06. 13(화)
-
-- __[Microsoft Build 2023 After Party with MVPs](https://festa.io/events/3574)__
-  - 분류: `오프라인`, `온라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 06. 13(화) 19:30 ~ 21:30
 - __['요금 폭탄 없이, 가성비 있게 AWS 쓰는 쉬운 방법' 웨비나 신청](https://answer.moaform.com/answers/EKBK28)__
   - 분류: `온라인`, `클라우드`
   - 주최: 아마존웹서비스 코리아
   - 접수: 06. 14(수) 14:00 ~ 15:00
+
 - __[올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향'](https://docs.google.com/forms/d/e/1FAIpQLSfi4Mf77GudK_CTK-oR_2sibn9x5j5jhEpWDnGa9Oa7ujOlbw/viewform)__
   - 분류: `오프라인`, `AI`
   - 주최: 스타트런
@@ -239,14 +231,30 @@
   - 분류: `오프라인`, `iOS`
   - 주최: adiOS
   - 일시: 06. 24(토) 11:00 ~ 17:00
+- __[유월엔 아키텍처](https://festa.io/events/3655)__
+  - 분류: `오프라인`, `아키택쳐`
+  - 주최: 씨앗 개발자 커뮤니티
+  - 일시: 06. 24(토) 14:00 ~ 17:30
 - __[영남권 대학 연합 해커톤](https://hguazit.notion.site/2023-HGU-SUMMER-HACKATHON-d048b946ab774730869c87b7ec4f4621)__
   - 분류: `해커톤`, `AI`
   - 주최: 교육부, 한국연구재단
   - 접수: 06. 12(월) ~ 06. 24(토)
+- __[iOS : Toy Project](https://festa.io/events/3629)__
+  - 분류: `해커톤`, `iOS`
+  - 주최: iOS Daejeon Club
+  - 접수: 06. 14(수) ~ 06. 23(금)
 - __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 27(화) 19:30 ~ 21:30
+- __[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기](https://cloudtype.io/)__
+  - 분류: `온라인`, `GitLab`
+  - 주최: 클라우드타입
+  - 일시: 06. 27(월) 14:00 ~ 15:00
+- __[GitLab Korea Meetup #16 - GitLab + AI로 개발 생산성 높이기](https://festa.io/events/3656)__
+  - 분류: `온라인`, `GitLab`
+  - 주최: GitLab Korea
+  - 일시: 06. 27(월) 19:30 ~ 21:00
 - __[파이썬 & 자바개발자 양성과정](https://acornedu.co.kr/kdigital/java_python.html)__
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
@@ -462,7 +470,7 @@
 | 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
 | Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
 | NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
-
+| 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
