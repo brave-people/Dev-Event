@@ -477,7 +477,6 @@
 |------------|-----------|
 | TeamH4C | [facebook](https://www.facebook.com/teamh4c/) |
 | Angel Hack Seoul | [angelhackseoul.kr](https://angelhackseoul.kr/) |
-| Google HashCode | [codingcompetitions.withgoogle.com](https://codingcompetitions.withgoogle.com/hashcode/) |
 | Codeengn | [codeengn.com](https://codeengn.com/conference/) |
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
 | 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) |
