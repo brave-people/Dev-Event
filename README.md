@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 06월
-- __['요금 폭탄 없이, 가성비 있게 AWS 쓰는 쉬운 방법' 웨비나 신청](https://answer.moaform.com/answers/EKBK28)__
-  - 분류: `온라인`, `클라우드`
-  - 주최: 아마존웹서비스 코리아
-  - 접수: 06. 14(수) 14:00 ~ 15:00
-
-- __[올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향'](https://docs.google.com/forms/d/e/1FAIpQLSfi4Mf77GudK_CTK-oR_2sibn9x5j5jhEpWDnGa9Oa7ujOlbw/viewform)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 스타트런
-  - 접수: 06. 02(금) ~ 06. 14(수)
-- __[Ceph Days Korea](https://ceph.io/en/community/events/2023/ceph-days-korea/)__
-  - 분류: `오프라인`, `Ceph`
-  - 주최: Korea Ceph User Group
-  - 일시: 06. 14(수)
-- __[표준프레임워크 오픈커뮤니티 세미나 참여](https://form.office.naver.com/form/responseView.cmd?formkey=NDIxODE5ZTMtMTMzZC00MTFkLTgzZTctYzcxMjI4YzRmNzFm&sourceId=urlshare)__
-  - 분류: `온라인`, `스프링`
-  - 주최: 오픈소스개발자커뮤니티
-  - 접수: 06. 07(수) ~ 06. 14(수)
-- __[오라클과 엔비디아의 특별한 만남 : AI 가속화를 위한 파트너쉽](https://go.oracle.com/LP=136594)__
-  - 분류: `오프라인`, `Ceph`
-  - 주최: 엔비디아
-  - 일시: 06. 14(수) 14:00 ~ 15:30
 - __[당근 SRE 밋업 제3회](https://festa.io/events/3600)__
   - 분류: `오프라인`, `SRE`
   - 주최: 당근마켓
   - 일시: 06. 15(목) 14:00 ~ 16:00
+
 - __[야너두 NestJS!](https://festa.io/events/3585)__
   - 분류: `오프라인`, `NestJS`
   - 주최: NestJS Korea Group
@@ -251,10 +231,18 @@
   - 분류: `온라인`, `GitLab`
   - 주최: 클라우드타입
   - 일시: 06. 27(월) 14:00 ~ 15:00
+- __[Cisco Connect Korea 2023](https://www.cisco.com/c/m/ko_kr/ciscoconnect.html)__
+  - 분류: `온라인`, `보안`
+  - 주최: CISCO
+  - 일시: 06. 27(월) 12:00 ~ 18:00
 - __[GitLab Korea Meetup #16 - GitLab + AI로 개발 생산성 높이기](https://festa.io/events/3656)__
   - 분류: `온라인`, `GitLab`
   - 주최: GitLab Korea
   - 일시: 06. 27(월) 19:30 ~ 21:00
+- __[SpringOne Tour Korea 2023](https://connect.tanzu.vmware.com/Event_Spring_One_Tour_Q224_KR.html)__
+  - 분류: `오프라인`, `Spring`
+  - 주최: vmware
+  - 일시: 06. 28(수) 14:00 ~ 17:00
 - __[파이썬 & 자바개발자 양성과정](https://acornedu.co.kr/kdigital/java_python.html)__
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
