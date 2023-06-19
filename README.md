@@ -146,27 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[DX CAMP - 최고의 전문가와 함께하는 데이터 인재 인큐베이팅 프로그램](https://www.dxchallenge.co.kr/events/dx-camp-2023-1)__
-  - 분류: `오프라인`, `스타트업`
-  - 주최: 부산광역시
-  - 일시: 05. 09(화) ~ 06. 16(금)
-
-- __[AUSG 7기 모집](https://ausg.me/)__
-  - 분류: `동아리`, `클라우드`
-  - 주최: AUSG
-  - 접수: 06. 05(월) ~ 06. 16(금) 23:59
-- __[METAVERSE EXPO 2023 (2023 메타버스 엑스포)](https://metavexpo.com/exhibitor/participation/)__
-  - 분류: `오프라인`, `Ceph`
-  - 주최: MESSE ESANG
-  - 일시: 06. 14(수) ~ 06. 16(금)
-- __[포스코DX 청년IT전문가 아카데미 6기 교육생 선발](https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=45865231)__
-  - 분류: `교육`, `무료`
-  - 주최: 포스코DX
-  - 접수: 06. 09(금) ~ 06. 18(일)
 - __[해커그라운드 컨퍼런스](https://festa.io/events/3645)__
   - 분류: `커리어`, `무료`
   - 주최: 해커그라운드
   - 접수: 06. 11(일) ~ 06. 19(월)
+  
 - __[구글 엔지니어는 이렇게 일한다](https://festa.io/events/3659)__
   - 분류: `온라인`, `기술일반`
   - 주최: 구름
@@ -223,7 +207,7 @@
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 27(화) 19:30 ~ 21:30
-- __[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기](https://cloudtype.io/)__
+- __[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기](https://festa.io/events/3653)__
   - 분류: `온라인`, `GitLab`
   - 주최: 클라우드타입
   - 일시: 06. 27(월) 14:00 ~ 15:00
@@ -263,11 +247,15 @@
 <br />
 
 ## 23년 07월
+- __[AI 서비스 완성! AI+웹개발 취업캠프(프론트엔드&백엔드) ](https://nipaaiswcamp2023.oopy.io/)__
+  - 분류: `오프라인`, `교육`, `AI`
+  - 주최: 정보통신산업진흥원(NIPA)
+  - 일시: 06. 08(월) ~ 07. 04(화)
+
 - __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
-
 - [AI 서비스 완성! AI+웹 개발 취업캠프](https://nipaaiswcamp2023.oopy.io/?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2306_aicamp&utm_content=nipa&utm_term=230613)
   - 분류: `온라인`, `교육`
   - 주최: 스나이퍼팩토리
@@ -280,6 +268,10 @@
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
   - 접수: 05. 31(수) ~ 07. 06(목)
+- [[카카오X구름] 올 여름, 해커톤을 제주도에서!? 구름톤 참가자 모집](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event_github&utm_campaign=goormthon&utm_content=viral&utm_term=6th)
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 구름
+  - 접수: 06. 07(수) ~ 07. 07(금)
 - [iOS meets ML](https://festa.io/events/3615)
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
@@ -296,6 +288,10 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- [블록체인·핀테크 경진대회 『BEST Challenge』](https://kwdc.dev/)
+  - 분류: `오프라인`, `대회`, `블록체인`
+  - 주최: 과학기술정보통신부
+  - 모집: 05. 30(화) ~ 07. 17(월)
 - [KWDC](https://kwdc.dev/)
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: 한국애플커뮤니티연합
@@ -308,11 +304,15 @@
 <br />
 
 ## 23년 08월
+- __[Seoul Web 3.0 Festival](https://www.seoulweb3festival.com/)__
+  - 분류: `오프라인`, `컨퍼런스`
+  - 주최: 서울특별시
+  - 일시: 07. 31(월) ~ 08. 02(수)
+
 - __[파이콘 한국 2023](https://2023.pycon.kr/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 파이콘 한국 준비위원회
   - 일시: 08. 11(금) ~ 08. 13(일)
-
 - __[INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
@@ -330,6 +330,14 @@
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
+
+<br />
+
+## 23년 10월
+- __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
+  - 분류: `오프라인`, `커뮤니티`, `기술일반`
+  - 주최: 마커스 에반스
+  - 일시: 10. 24(화) ~ 10. 25(수)
 
 <br />
 
