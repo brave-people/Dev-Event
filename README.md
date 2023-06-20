@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[해커그라운드 컨퍼런스](https://festa.io/events/3645)__
-  - 분류: `커리어`, `무료`
-  - 주최: 해커그라운드
-  - 접수: 06. 11(일) ~ 06. 19(월)
-  
-- __[구글 엔지니어는 이렇게 일한다](https://festa.io/events/3659)__
-  - 분류: `온라인`, `기술일반`
-  - 주최: 구름
-  - 접수: 06. 16(토) ~ 06. 19(월)
 - __[양자머신러닝 국내외 연구동향](https://festa.io/events/3576)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 20(화) 19:30 ~ 20:30
+  
 - __[의도대로 사용하는 스테이블디퓨전 사용법과 AI생성이미지의 이해](https://aifactory.space/competition/2202/discussion/430)__
   - 분류: `온라인`, `AI`
   - 주최: 모두의 연구소
@@ -219,6 +211,10 @@
   - 분류: `온라인`, `GitLab`
   - 주최: GitLab Korea
   - 일시: 06. 27(월) 19:30 ~ 21:00
+- __[Microsoft Build Korea](https://mktoevents.com/Microsoft+Event/403198/157-GQE-382)__
+  - 분류: `온라인`, `기술일반`
+  - 주최: Microsoft Event
+  - 접수: 06. 20(화) ~ 06. 27(화)
 - __[SpringOne Tour Korea 2023](https://connect.tanzu.vmware.com/Event_Spring_One_Tour_Q224_KR.html)__
   - 분류: `오프라인`, `Spring`
   - 주최: vmware
@@ -247,11 +243,15 @@
 <br />
 
 ## 23년 07월
-- __[AI 서비스 완성! AI+웹개발 취업캠프(프론트엔드&백엔드) ](https://nipaaiswcamp2023.oopy.io/)__
+- __[어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://festa.io/events/3686)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의연구소
+  - 일시: 07. 04(화) 19:30 ~ 20:30
+
+- __[AI 서비스 완성! AI+웹개발 취업캠프(프론트엔드&백엔드)](https://nipaaiswcamp2023.oopy.io/)__
   - 분류: `오프라인`, `교육`, `AI`
   - 주최: 정보통신산업진흥원(NIPA)
   - 일시: 06. 08(월) ~ 07. 04(화)
-
 - __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
@@ -276,6 +276,10 @@
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
   - 일시: 07. 08(토) 14:00 ~ 21:30
+- [리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)
+  - 분류: `웨비나`, `인프라`
+  - 주최: 리얼리눅스
+  - 일시: 07. 12(수) 20:00 ~ 21:00
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
