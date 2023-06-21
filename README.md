@@ -146,19 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[양자머신러닝 국내외 연구동향](https://festa.io/events/3576)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 06. 20(화) 19:30 ~ 20:30
-  
-- __[의도대로 사용하는 스테이블디퓨전 사용법과 AI생성이미지의 이해](https://aifactory.space/competition/2202/discussion/430)__
-  - 분류: `온라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 06. 20(화) 19:30 ~ 20:30
 - __[우리는 왜 ChatGPT에 열광할까?](https://techtalk.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=techtalk&utm_content=dev_event&utm_term=2nd)__
   - 분류: `온라인`, `AI`
   - 주최: 구름
   - 일시: 06. 21(수) 19:00 ~ 21:00
+  
 - __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -195,6 +187,10 @@
   - 분류: `해커톤`, `iOS`
   - 주최: iOS Daejeon Club
   - 접수: 06. 14(수) ~ 06. 23(금)
+- __[Bootiful Spring in Summer with Josh Long](https://okky.kr/articles/1451357)__
+  - 분류: `웨비나`, `스프링`
+  - 주최: 라인
+  - 접수: 06. 26(월) 15:00 ~ 17:00
 - __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -223,6 +219,10 @@
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
   - 일시: 05. 30(화) ~ 06. 28(수)
+- __[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
+  - 분류: `모임`, `iOS`
+  - 주최: 코딩의 신
+  - 접수: 06. 21(수) ~ 06. 29(목)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임](https://festa.io/events/3624)__
   - 분류: `유료`, `교육`
   - 주최: 코딩의 신
@@ -243,11 +243,15 @@
 <br />
 
 ## 23년 07월
+- __[위성영상을 활용한 정유탱크 탐지](https://aifactory.space/competition/2454/discussion/454)__
+  - 분류: `대회`, `AI`
+  - 주최: AI Factory
+  - 일시: 06. 15(목) ~ 07. 02(일)
+
 - __[어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://festa.io/events/3686)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의연구소
   - 일시: 07. 04(화) 19:30 ~ 20:30
-
 - __[AI 서비스 완성! AI+웹개발 취업캠프(프론트엔드&백엔드)](https://nipaaiswcamp2023.oopy.io/)__
   - 분류: `오프라인`, `교육`, `AI`
   - 주최: 정보통신산업진흥원(NIPA)
@@ -272,6 +276,10 @@
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 접수: 06. 07(수) ~ 07. 07(금)
+- [데브콘: 칠월엔 강남 in Seoul](https://festa.io/events/3687)
+  - 분류: `오프라인`, `벡엔드`
+  - 주최: 모두의 연구소
+  - 접수: 06. 21(수) ~ 07. 07(금)
 - [iOS meets ML](https://festa.io/events/3615)
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
@@ -300,6 +308,10 @@
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: 한국애플커뮤니티연합
   - 일시: 07. 18(화) 10:00 ~ 18:00
+- [제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)
+  - 분류: `대회`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 일시: 06. 15(목) ~ 07. 20(목)
 - __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
