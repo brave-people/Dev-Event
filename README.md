@@ -146,27 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[우리는 왜 ChatGPT에 열광할까?](https://techtalk.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=techtalk&utm_content=dev_event&utm_term=2nd)__
-  - 분류: `온라인`, `AI`
-  - 주최: 구름
-  - 일시: 06. 21(수) 19:00 ~ 21:00
-  
-- __[2023 오픈소스 컨트리뷰션 아카데미](https://www.oss.kr/contribution_academy)__
-  - 분류: `대회`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 일시: 06. 02(금) ~ 06. 21(수)
-- __[NHN Cloud make IT 2023](https://makeit.nhncloud.com/2023?utm_source=github_dev_event&utm_medium=da&utm_campaign=makeit2023&utm_content=da_d&utm_term=pc_olod)__
-  - 분류: `컨퍼런스`, `클라우드`
-  - 주최: NHN Cloud
-  - 접수: 06. 06(화) ~ 06. 21(수)
-- __[6월 Tech 세미나 - 웹 프론트엔드 성능 최적화 방법 및 적용 사례](https://devocean.sk.com/events/view.do?id=168)__
-  - 분류: `웨비나`, `프론트엔드`
-  - 주최: DEVOCEAN
-  - 접수: 06. 13(화) ~ 06. 21(수)
 - __[Google I/O Extended Seoul 2023](https://docs.google.com/forms/d/e/1FAIpQLScnUb_R5Il7MdWLQ8wjoW9Kq9y7kO8UEABzAFHBXhjRus6wkg/viewform?pli=1)__
   - 분류: `오프라인`, `발표`
   - 주최: Google
   - 접수: 06. 16(금) ~ 06. 23(금)
+
 - __[제주도민 모두를 위한 제주를 커밋하다!](https://festa.io/events/3647)__
   - 분류: `오프라인`, `교육`, `Git`
   - 주최: 제주공공아카데미
@@ -219,6 +203,14 @@
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
   - 일시: 05. 30(화) ~ 06. 28(수)
+- __[삼성SDS 2023 하반기 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSev5gl-6IeRyyyErt4wKY12lH_8gT726oA1ocUFA1ZAjt0NVw/viewform)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성SDS
+  - 접수: 06. 21(수) ~ 06. 29(목)
+- __[6월 우아한테크세미나: GenAI의 시대, 치열해진 시장의 미래 전략](https://techblog.woowahan.com/12745/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 우아한형제들
+  - 접수: 06. 22(목) ~ 06. 29(목)
 - __[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
   - 분류: `모임`, `iOS`
   - 주최: 코딩의 신
@@ -268,6 +260,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: AWS
   - 접수: 06. 16(금) ~ 07. 04(화)
+- [Microsoft Azure AI Conference with Gooroomee](https://event-us.kr/gooroomee/event/65002)
+  - 분류: `오프라인`, `AI`
+  - 주최: 구루미
+  - 접수: 06. 22(목) ~ 07. 04(화)
 - [방구석인디게임쇼 BIGS 2023](https://www.bigameshow.com/bigs2023_teasing/)
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
@@ -316,6 +312,10 @@
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
   - 일시: 05. 28(일) ~ 07. 28(금)
+- __[AI Edu Hackathon](https://ai-eduhackathon.imweb.me/?utm_source=community&utm_medium=poster&utm_campaign=aiht&utm_term=github_dev_event)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 엘리스
+  - 일시: 06. 22(월) ~ 07. 31(월)
 
 <br />
 
