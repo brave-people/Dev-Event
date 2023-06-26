@@ -146,35 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[Google I/O Extended Seoul 2023](https://docs.google.com/forms/d/e/1FAIpQLScnUb_R5Il7MdWLQ8wjoW9Kq9y7kO8UEABzAFHBXhjRus6wkg/viewform?pli=1)__
-  - 분류: `오프라인`, `발표`
-  - 주최: Google
-  - 접수: 06. 16(금) ~ 06. 23(금)
-
-- __[제주도민 모두를 위한 제주를 커밋하다!](https://festa.io/events/3647)__
-  - 분류: `오프라인`, `교육`, `Git`
-  - 주최: 제주공공아카데미
-  - 일시: 06. 24(토) 12:00 ~ 18:00
-- __[2023 adiOS Summore](https://festa.io/events/3556)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: adiOS
-  - 일시: 06. 24(토) 11:00 ~ 17:00
-- __[유월엔 아키텍처](https://festa.io/events/3655)__
-  - 분류: `오프라인`, `아키택쳐`
-  - 주최: 씨앗 개발자 커뮤니티
-  - 일시: 06. 24(토) 14:00 ~ 17:30
-- __[영남권 대학 연합 해커톤](https://hguazit.notion.site/2023-HGU-SUMMER-HACKATHON-d048b946ab774730869c87b7ec4f4621)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 교육부, 한국연구재단
-  - 접수: 06. 12(월) ~ 06. 24(토)
-- __[iOS : Toy Project](https://festa.io/events/3629)__
-  - 분류: `해커톤`, `iOS`
-  - 주최: iOS Daejeon Club
-  - 접수: 06. 14(수) ~ 06. 23(금)
 - __[Bootiful Spring in Summer with Josh Long](https://okky.kr/articles/1451357)__
   - 분류: `웨비나`, `스프링`
   - 주최: 라인
   - 접수: 06. 26(월) 15:00 ~ 17:00
+
 - __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -280,6 +256,10 @@
   - 분류: `오프라인`, `벡엔드`
   - 주최: 모두의 연구소
   - 접수: 06. 21(수) ~ 07. 07(금)
+- __[C++ Korea 2023 Meet-Up](https://festa.io/events/3676)__
+  - 분류: `오프라인`, `C++`
+  - 주최: C++ Korea
+  - 일시: 07. 08(토) 13:00 ~ 17:00
 - [iOS meets ML](https://festa.io/events/3615)
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
@@ -288,6 +268,10 @@
   - 분류: `교육`, `AI`
   - 주최: 서울ICT
   - 일시: 06. 23(금) ~ 07. 10(월)
+- [주식 초보를 위한 AI : 금융 특화 언어모델기반 서비스](https://festa.io/events/3702)
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 07. 11(화) 19:30 ~ 20:30
 - [리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)
   - 분류: `웨비나`, `인프라`
   - 주최: 리얼리눅스
@@ -311,6 +295,10 @@
 - [KWDC](https://kwdc.dev/)
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: 한국애플커뮤니티연합
+  - 일시: 07. 18(화) 10:00 ~ 18:00
+- [Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 모두의연구소
   - 일시: 07. 18(화) 10:00 ~ 18:00
 - [제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)
   - 분류: `대회`, `오픈소스`
