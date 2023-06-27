@@ -146,15 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[Bootiful Spring in Summer with Josh Long](https://okky.kr/articles/1451357)__
-  - 분류: `웨비나`, `스프링`
-  - 주최: 라인
-  - 접수: 06. 26(월) 15:00 ~ 17:00
-
 - __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 06. 27(화) 19:30 ~ 21:30
+
 - __[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기](https://festa.io/events/3653)__
   - 분류: `온라인`, `GitLab`
   - 주최: 클라우드타입
@@ -329,7 +325,10 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 일시: 08. 15(화) 10:00 ~ 18:00
-
+- [MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)
+  - 분류: `컨퍼런스`, `MongoDB`
+  - 주최: MongoDB
+  - 접수: 06. 27(화) ~ 08. 30(토)
 - __[Google Cloud Next](https://cloud.withgoogle.com/next)__
   - 분류: `오프라인`, `클라우드`
   - 주최: Google
