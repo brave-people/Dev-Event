@@ -146,6 +146,10 @@
 <br />
 
 ## 23년 06월
+- [[카카오X구름] 올 여름, 해커톤을 제주도에서!? 구름톤 참가자 모집](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event_github&utm_campaign=goormthon&utm_content=viral&utm_term=6th)
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 구름
+  - 접수: 06. 02(금) ~ 06. 19(월)
 - __[Bootiful Spring in Summer with Josh Long](https://okky.kr/articles/1451357)__
   - 분류: `웨비나`, `스프링`
   - 주최: 라인
@@ -248,10 +252,6 @@
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
   - 접수: 05. 31(수) ~ 07. 06(목)
-- [[카카오X구름] 올 여름, 해커톤을 제주도에서!? 구름톤 참가자 모집](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event_github&utm_campaign=goormthon&utm_content=viral&utm_term=6th)
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름
-  - 접수: 06. 07(수) ~ 07. 07(금)
 - [데브콘: 칠월엔 강남 in Seoul](https://festa.io/events/3687)
   - 분류: `오프라인`, `벡엔드`
   - 주최: 모두의 연구소
