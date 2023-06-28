@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-98-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-99-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -634,6 +634,9 @@
       <td align="center" valign="top" width="14.28%"><a href="http://cuspymd.github.io"><img src="https://avatars.githubusercontent.com/u/8870299?v=4?s=100" width="100px;" alt="Myoungdo Park"/><br /><sub><b>Myoungdo Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=cuspymd" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://shiftpsh.com"><img src="https://avatars.githubusercontent.com/u/4417431?v=4?s=100" width="100px;" alt="Suhyun Park"/><br /><sub><b>Suhyun Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=shiftpsh" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ij5"><img src="https://avatars.githubusercontent.com/u/55607202?v=4?s=100" width="100px;" alt="Jaehee Lee"/><br /><sub><b>Jaehee Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ij5" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dmswl98"><img src="https://avatars.githubusercontent.com/u/76807107?v=4?s=100" width="100px;" alt="cje"/><br /><sub><b>cje</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dmswl98" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
