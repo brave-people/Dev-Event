@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[챗GPT MS애저톤 수상작 성과공유회](https://festa.io/events/3577)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 06. 27(화) 19:30 ~ 21:30
-
-- __[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기](https://festa.io/events/3653)__
-  - 분류: `온라인`, `GitLab`
-  - 주최: 클라우드타입
-  - 일시: 06. 27(월) 14:00 ~ 15:00
-- __[Cisco Connect Korea 2023](https://www.cisco.com/c/m/ko_kr/ciscoconnect.html)__
-  - 분류: `온라인`, `보안`
-  - 주최: CISCO
-  - 일시: 06. 27(월) 12:00 ~ 18:00
-- __[GitLab Korea Meetup #16 - GitLab + AI로 개발 생산성 높이기](https://festa.io/events/3656)__
-  - 분류: `온라인`, `GitLab`
-  - 주최: GitLab Korea
-  - 일시: 06. 27(월) 19:30 ~ 21:00
-- __[Microsoft Build Korea](https://mktoevents.com/Microsoft+Event/403198/157-GQE-382)__
-  - 분류: `온라인`, `기술일반`
-  - 주최: Microsoft Event
-  - 접수: 06. 20(화) ~ 06. 27(화)
 - __[SpringOne Tour Korea 2023](https://connect.tanzu.vmware.com/Event_Spring_One_Tour_Q224_KR.html)__
   - 분류: `오프라인`, `Spring`
   - 주최: vmware
   - 일시: 06. 28(수) 14:00 ~ 17:00
+
 - __[파이썬 & 자바개발자 양성과정](https://acornedu.co.kr/kdigital/java_python.html)__
   - 분류: `오프라인`, `교육`
   - 주최: 에이콘아카데미
@@ -187,6 +167,10 @@
   - 분류: `모임`, `iOS`
   - 주최: 코딩의 신
   - 접수: 06. 21(수) ~ 06. 29(목)
+- __[AWSKRUG 아키텍처 #architecture 43번째 소모임](https://www.meetup.com/awskrug/events/294199401/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 06. 29(목) 19:30 ~ 21:30
 - __[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임](https://festa.io/events/3624)__
   - 분류: `유료`, `교육`
   - 주최: 코딩의 신
@@ -240,6 +224,10 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 접수: 06. 23(금) ~ 07. 04(화)
+- [쿠팡 개발 리더가 일하는 방법 - 쿠팡의 개발자와 개발 프로세스](https://event-us.kr/supercoder/event/64839)
+  - 분류: `온라인`, `오프라인`, `게임`
+  - 주최: 슈퍼코더
+  - 접수: 06. 16(금) ~ 07. 06(목) 15:00
 - [방구석인디게임쇼 BIGS 2023](https://www.bigameshow.com/bigs2023_teasing/)
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
@@ -300,6 +288,10 @@
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 일시: 06. 15(목) ~ 07. 20(목)
+- [실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github)
+  - 분류: `교육`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 06. 28(수) ~ 07. 21(금)
 - __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
