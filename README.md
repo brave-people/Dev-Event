@@ -146,24 +146,11 @@
 <br />
 
 ## 23년 06월
-- [[카카오X구름] 올 여름, 해커톤을 제주도에서!? 구름톤 참가자 모집](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event_github&utm_campaign=goormthon&utm_content=viral&utm_term=6th)
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름
-  - 접수: 06. 02(금) ~ 06. 19(월)
-
-- __[SpringOne Tour Korea 2023](https://connect.tanzu.vmware.com/Event_Spring_One_Tour_Q224_KR.html)__
-  - 분류: `오프라인`, `Spring`
-  - 주최: vmware
-  - 일시: 06. 28(수) 14:00 ~ 17:00
-
-- __[파이썬 & 자바개발자 양성과정](https://acornedu.co.kr/kdigital/java_python.html)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 에이콘아카데미
-  - 일시: 05. 30(화) ~ 06. 28(수)
 - __[삼성SDS 2023 하반기 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSev5gl-6IeRyyyErt4wKY12lH_8gT726oA1ocUFA1ZAjt0NVw/viewform)__
   - 분류: `교육`, `알고리즘`
   - 주최: 삼성SDS
   - 접수: 06. 21(수) ~ 06. 29(목)
+
 - __[6월 우아한테크세미나: GenAI의 시대, 치열해진 시장의 미래 전략](https://techblog.woowahan.com/12745/)__
   - 분류: `웨비나`, `AI`
   - 주최: 우아한형제들
@@ -201,6 +188,10 @@
   - 주최: AI Factory
   - 일시: 06. 15(목) ~ 07. 02(일)
 
+- __[WWDC23 요약](https://developer.apple.com/kr/events/schedule)__
+  - 분류: `온라인`, `iOS`
+  - 주최: Apple
+  - 일시: 07. 04(화) 10:00 ~ 17:00
 - __[어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://festa.io/events/3686)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의연구소
@@ -261,6 +252,10 @@
   - 분류: `웨비나`, `인프라`
   - 주최: 리얼리눅스
   - 일시: 07. 12(수) 20:00 ~ 21:00
+- [TensorFlow Korea LLM Day with Google AI Week](https://festa.io/events/3717)
+  - 분류: `웨비나`, `AI`
+  - 주최: TensorFlow User Group
+  - 일시: 06. 29(목) ~ 07. 12(수)
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
@@ -273,13 +268,17 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- __[Seoul iOS Meetup](https://www.meetup.com/seoul-ios-meetup/events/294368177)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 일시: 07. 15(토) 14:00 ~ 17:00
 - [블록체인·핀테크 경진대회 『BEST Challenge』](https://litt.ly/2023best)
   - 분류: `오프라인`, `대회`, `블록체인`
   - 주최: 과학기술정보통신부
   - 모집: 05. 30(화) ~ 07. 17(월)
 - [KWDC](https://kwdc.dev/)
   - 분류: `오프라인`, `Apple platform developer`
-  - 주최: 한국애플커뮤니티연합
+  - 주최: KWDC 준비위원회
   - 일시: 07. 18(화) 10:00 ~ 18:00
 - [Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)
   - 분류: `오프라인`, `온라인`, `AI`
@@ -339,6 +338,10 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 09. 09(토) 10:00 ~ 17:40
+- [MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)
+  - 분류: `오프라인`, `MongoDB`
+  - 주최: MongoDB
+  - 일시: 09. 13(토) 10:00 ~ 17:40
 
 <br />
 
