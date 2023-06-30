@@ -146,31 +146,11 @@
 <br />
 
 ## 23년 06월
-- __[삼성SDS 2023 하반기 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSev5gl-6IeRyyyErt4wKY12lH_8gT726oA1ocUFA1ZAjt0NVw/viewform)__
-  - 분류: `교육`, `알고리즘`
-  - 주최: 삼성SDS
-  - 접수: 06. 21(수) ~ 06. 29(목)
-
-- __[6월 우아한테크세미나: GenAI의 시대, 치열해진 시장의 미래 전략](https://techblog.woowahan.com/12745/)__
-  - 분류: `웨비나`, `AI`
-  - 주최: 우아한형제들
-  - 접수: 06. 22(목) ~ 06. 29(목)
-- __[스위프트 코딩클럽 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
-  - 분류: `모임`, `iOS`
-  - 주최: 코딩의 신
-  - 접수: 06. 21(수) ~ 06. 29(목)
-- __[AWSKRUG 아키텍처 #architecture 43번째 소모임](https://www.meetup.com/awskrug/events/294199401/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 06. 29(목) 19:30 ~ 21:30
-- __[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임](https://festa.io/events/3624)__
-  - 분류: `유료`, `교육`
-  - 주최: 코딩의 신
-  - 일시: 06. 29(목) 19:30 ~ 21:30
 - __[iOS 아이가](https://festa.io/events/3506)__
   - 분류: `오프라인`, `iOS`
   - 주최: iOS 아이가
   - 일시: 05. 21(일) ~ 06. 30(금)
+  
 - __[서울 웹 3.0 페스티벌 해커톤, 데모데이 참여 팀 모집](https://www.seoulweb3festival.com/)__
   - 분류: `오프라인`, `해커톤`
   - 주최: 서울시
@@ -228,6 +208,10 @@
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
   - 접수: 05. 31(수) ~ 07. 06(목)
+- [숨고 CTO가 알려주는 "개발자 잘 채용하는 방법"](https://festa.io/events/3720)
+  - 분류: `오프라인`, `커리어`
+  - 주최: 모두의연구소
+  - 접수: 07. 07(금) 19:00 ~ 20:00
 - [데브콘: 칠월엔 강남 in Seoul](https://festa.io/events/3687)
   - 분류: `오프라인`, `벡엔드`
   - 주최: 모두의 연구소
@@ -248,12 +232,16 @@
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 07. 11(화) 19:30 ~ 20:30
+- [대한민국 인공지능위크 2023](https://rsvp.withgoogle.com/events/aiweek2023)
+  - 분류: `오프라인`, `AI`
+  - 주최: Google
+  - 일시:06. 30(금) ~ 07. 12(수)
 - [리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)
   - 분류: `웨비나`, `인프라`
   - 주최: 리얼리눅스
   - 일시: 07. 12(수) 20:00 ~ 21:00
 - [TensorFlow Korea LLM Day with Google AI Week](https://festa.io/events/3717)
-  - 분류: `웨비나`, `AI`
+  - 분류: `웨비나`, `네트워크`, `AI`
   - 주최: TensorFlow User Group
   - 일시: 06. 29(목) ~ 07. 12(수)
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
@@ -296,6 +284,10 @@
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
   - 일시: 05. 28(일) ~ 07. 28(금)
+- __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
+  - 분류: `교육`, `커리어`
+  - 주최: 이스트소프트
+  - 접수: 06. 30(금) ~ 07. 31(월)
 - __[AI Edu Hackathon](https://ai-eduhackathon.imweb.me/?utm_source=community&utm_medium=poster&utm_campaign=aiht&utm_term=github_dev_event)__
   - 분류: `해커톤`, `AI`
   - 주최: 엘리스
