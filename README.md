@@ -184,35 +184,35 @@
   - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
   - 주최: OpenStack Korea Group, Kubernetes Korea Group
   - 일시: 07. 03(월) ~ 07. 04(화)
-- [AI 서비스 완성! AI+웹 개발 취업캠프](https://nipaaiswcamp2023.oopy.io/?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2306_aicamp&utm_content=nipa&utm_term=230613)
+- __[AI 서비스 완성! AI+웹 개발 취업캠프](https://nipaaiswcamp2023.oopy.io/?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2306_aicamp&utm_content=nipa&utm_term=230613)__
   - 분류: `온라인`, `교육`
   - 주최: 스나이퍼팩토리
   - 일시: 06. 08(목) ~ 07. 04(화)
-- [AWS 부산 클라우드데이 2023](https://pages.awscloud.com/busan-cloud-day-2023-reg.html)
+- __[AWS 부산 클라우드데이 2023](https://pages.awscloud.com/busan-cloud-day-2023-reg.html)__
   - 분류: `오프라인`, `클라우드`
   - 주최: AWS
   - 접수: 06. 16(금) ~ 07. 04(화)
-- [Microsoft Azure AI Conference with Gooroomee](https://event-us.kr/gooroomee/event/65002)
+- __[Microsoft Azure AI Conference with Gooroomee](https://event-us.kr/gooroomee/event/65002)__
   - 분류: `오프라인`, `AI`
   - 주최: 구루미
   - 접수: 06. 22(목) ~ 07. 04(화)
-- [UbuCon Korea 2023 발표자 지원](https://2023.ubuntu-kr.org/ko/)
+- __[UbuCon Korea 2023 발표자 지원](https://2023.ubuntu-kr.org/ko/)__
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 접수: 06. 23(금) ~ 07. 04(화)
-- [쿠팡 개발 리더가 일하는 방법 - 쿠팡의 개발자와 개발 프로세스](https://event-us.kr/supercoder/event/64839)
+- __[쿠팡 개발 리더가 일하는 방법 - 쿠팡의 개발자와 개발 프로세스](https://event-us.kr/supercoder/event/64839)__
   - 분류: `온라인`, `오프라인`, `게임`
   - 주최: 슈퍼코더
   - 접수: 06. 16(금) ~ 07. 06(목) 15:00
-- [방구석인디게임쇼 BIGS 2023](https://www.bigameshow.com/bigs2023_teasing/)
+- __[방구석인디게임쇼 BIGS 2023](https://www.bigameshow.com/bigs2023_teasing/)__
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
   - 접수: 05. 31(수) ~ 07. 06(목)
-- [숨고 CTO가 알려주는 "개발자 잘 채용하는 방법"](https://festa.io/events/3720)
+- __[숨고 CTO가 알려주는 "개발자 잘 채용하는 방법"](https://festa.io/events/3720)__
   - 분류: `오프라인`, `커리어`
   - 주최: 모두의연구소
   - 접수: 07. 07(금) 19:00 ~ 20:00
-- [데브콘: 칠월엔 강남 in Seoul](https://festa.io/events/3687)
+- __[데브콘: 칠월엔 강남 in Seoul](https://festa.io/events/3687)__
   - 분류: `오프라인`, `벡엔드`
   - 주최: 모두의 연구소
   - 접수: 06. 21(수) ~ 07. 07(금)
@@ -220,27 +220,27 @@
   - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
   - 일시: 07. 08(토) 13:00 ~ 17:00
-- [iOS meets ML](https://festa.io/events/3615)
+- __[iOS meets ML](https://festa.io/events/3615)__
   - 분류: `유료`, `오프라인`, `iOS`
   - 주최: iOS 아이가
   - 일시: 07. 08(토) 14:00 ~ 21:30
-- [[CJ올리브네트웍스] AI/DATA 심화 교육생 모집](https://festa.io/events/3697)
+- __[[CJ올리브네트웍스] AI/DATA 심화 교육생 모집](https://festa.io/events/3697)__
   - 분류: `교육`, `AI`
   - 주최: 서울ICT
   - 일시: 06. 23(금) ~ 07. 10(월)
-- [주식 초보를 위한 AI : 금융 특화 언어모델기반 서비스](https://festa.io/events/3702)
+- __[주식 초보를 위한 AI : 금융 특화 언어모델기반 서비스](https://festa.io/events/3702)__
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 07. 11(화) 19:30 ~ 20:30
-- [대한민국 인공지능위크 2023](https://rsvp.withgoogle.com/events/aiweek2023)
+- __[대한민국 인공지능위크 2023](https://rsvp.withgoogle.com/events/aiweek2023)__
   - 분류: `오프라인`, `AI`
   - 주최: Google
   - 일시:06. 30(금) ~ 07. 12(수)
-- [리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)
+- __[리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)__
   - 분류: `웨비나`, `인프라`
   - 주최: 리얼리눅스
   - 일시: 07. 12(수) 20:00 ~ 21:00
-- [TensorFlow Korea LLM Day with Google AI Week](https://festa.io/events/3717)
+- __[TensorFlow Korea LLM Day with Google AI Week](https://festa.io/events/3717)__
   - 분류: `웨비나`, `네트워크`, `AI`
   - 주최: TensorFlow User Group
   - 일시: 06. 29(목) ~ 07. 12(수)
@@ -260,23 +260,23 @@
   - 분류: `오프라인`, `iOS`
   - 주최: Seoul iOS Meetup
   - 일시: 07. 15(토) 14:00 ~ 17:00
-- [블록체인·핀테크 경진대회 『BEST Challenge』](https://litt.ly/2023best)
+- __[블록체인·핀테크 경진대회 『BEST Challenge』](https://litt.ly/2023best)__
   - 분류: `오프라인`, `대회`, `블록체인`
   - 주최: 과학기술정보통신부
   - 모집: 05. 30(화) ~ 07. 17(월)
-- [KWDC](https://kwdc.dev/)
+- __[KWDC](https://kwdc.dev/)__
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: KWDC 준비위원회
   - 일시: 07. 18(화) 10:00 ~ 18:00
-- [Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)
+- __[Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)__
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의연구소
   - 일시: 07. 18(화) 10:00 ~ 18:00
-- [제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)
+- __[제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 일시: 06. 15(목) ~ 07. 20(목)
-- [실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github)
+- __[실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github)__
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 06. 28(수) ~ 07. 21(금)
@@ -309,7 +309,7 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 일시: 08. 15(화) 10:00 ~ 18:00
-- [MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)
+- __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
   - 접수: 06. 27(화) ~ 08. 30(토)
@@ -326,11 +326,11 @@
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
 
-- [UbuCon Korea 2023 발표자](https://2023.ubuntu-kr.org/ko/)
+- __[UbuCon Korea 2023 발표자](https://2023.ubuntu-kr.org/ko/)__
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 09. 09(토) 10:00 ~ 17:40
-- [MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)
+- __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `오프라인`, `MongoDB`
   - 주최: MongoDB
   - 일시: 09. 13(토) 10:00 ~ 17:40
