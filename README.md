@@ -237,6 +237,10 @@
   - 분류: `웨비나`, `네트워크`, `AI`
   - 주최: TensorFlow User Group
   - 일시: 06. 29(목) ~ 07. 12(수)
+- __[kakao tech meet #2](https://tech.kakao.com/2023/07/04/kakao-tech-meet-2/)__
+  - 분류: `오프라인`, `벡엔드`
+  - 주최: 카카오
+  - 접수: 07. 04(화) ~ 07. 12(수)
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
@@ -273,6 +277,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 06. 28(수) ~ 07. 21(금)
+- __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
+  - 분류: `오프라인`, `빅데이터`
+  - 주최: BOAZ
+  - 일시: 07. 04(일) ~ 07. 28(금)
 - __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
