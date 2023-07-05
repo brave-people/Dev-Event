@@ -762,6 +762,141 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Minny27",
+      "name": "Will",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68800789?v=4",
+      "profile": "https://minny27.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kdomo",
+      "name": "도모",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64088250?v=4",
+      "profile": "https://velog.io/@domo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "minseonkkim",
+      "name": "Minseon Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76653033?v=4",
+      "profile": "https://winterflower.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jihyunmoon16",
+      "name": "문지현",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87014797?v=4",
+      "profile": "https://github.com/jihyunmoon16",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Capella87",
+      "name": "Inseo Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16485236?v=4",
+      "profile": "http://capelladev.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Sn-Kinos",
+      "name": "Yoo Dongryul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26380261?v=4",
+      "profile": "https://github.com/Sn-Kinos",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "YebinLeee",
+      "name": "Yebin Lee ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71310074?v=4",
+      "profile": "https://dream-and-develop.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kalelpark",
+      "name": "Wongi Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86551201?v=4",
+      "profile": "https://github.com/kalelpark",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yongjun-hong",
+      "name": "YongJun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104314593?v=4",
+      "profile": "https://solution-is-here.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mokhs00",
+      "name": "Hansu Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72328687?v=4",
+      "profile": "https://rnokhs.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "chamroro",
+      "name": "Hani Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76644652?v=4",
+      "profile": "https://www.instagram.com/haeunkim.on/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cuspymd",
+      "name": "Myoungdo Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8870299?v=4",
+      "profile": "http://cuspymd.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shiftpsh",
+      "name": "Suhyun Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4417431?v=4",
+      "profile": "https://shiftpsh.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ij5",
+      "name": "Jaehee Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55607202?v=4",
+      "profile": "https://github.com/ij5",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dmswl98",
+      "name": "cje",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76807107?v=4",
+      "profile": "https://github.com/dmswl98",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -770,5 +905,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }
