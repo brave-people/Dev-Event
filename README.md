@@ -148,43 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[WWDC23 요약](https://developer.apple.com/kr/events/schedule)__
-  - 분류: `온라인`, `iOS`
-  - 주최: Apple
-  - 일시: 07. 04(화) 10:00 ~ 17:00
-
-- __[어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래](https://festa.io/events/3686)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 07. 04(화) 19:30 ~ 20:30
-- __[AI 서비스 완성! AI+웹개발 취업캠프(프론트엔드&백엔드)](https://nipaaiswcamp2023.oopy.io/)__
-  - 분류: `오프라인`, `교육`, `AI`
-  - 주최: 정보통신산업진흥원(NIPA)
-  - 일시: 06. 08(월) ~ 07. 04(화)
-- __[OpenInfra Community Days Korea 2023](https://2023.openinfradays.kr/)__
-  - 분류: `오프라인`, `OpenInfra`, `Cloud Native`
-  - 주최: OpenStack Korea Group, Kubernetes Korea Group
-  - 일시: 07. 03(월) ~ 07. 04(화)
-- __[AI 서비스 완성! AI+웹 개발 취업캠프](https://nipaaiswcamp2023.oopy.io/?utm_medium=earned&utm_source=github_dev_event&utm_campaign=2306_aicamp&utm_content=nipa&utm_term=230613)__
-  - 분류: `온라인`, `교육`
-  - 주최: 스나이퍼팩토리
-  - 일시: 06. 08(목) ~ 07. 04(화)
-- __[AWS 부산 클라우드데이 2023](https://pages.awscloud.com/busan-cloud-day-2023-reg.html)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWS
-  - 접수: 06. 16(금) ~ 07. 04(화)
-- __[Microsoft Azure AI Conference with Gooroomee](https://event-us.kr/gooroomee/event/65002)__
-  - 분류: `오프라인`, `AI`
-  - 주최: 구루미
-  - 접수: 06. 22(목) ~ 07. 04(화)
-- __[UbuCon Korea 2023 발표자 지원](https://2023.ubuntu-kr.org/ko/)__
-  - 분류: `컨퍼런스`, `오픈소스`
-  - 주최: 우분투 한국커뮤니티
-  - 접수: 06. 23(금) ~ 07. 04(화)
 - __[BiG Data Hackathon](https://www.dxchallenge.co.kr/events/BDHackathon)__
   - 분류: `대회`, `빅데이터`
   - 주최: 부산광역시
   - 접수: 07. 05(수)
+
 - __[쿠팡 개발 리더가 일하는 방법 - 쿠팡의 개발자와 개발 프로세스](https://event-us.kr/supercoder/event/64839)__
   - 분류: `온라인`, `오프라인`, `게임`
   - 주최: 슈퍼코더
@@ -281,6 +249,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 06. 28(수) ~ 07. 21(금)
+- __[2023 AI 대학원 챌린지 with kt 믿:음](https://aifactory.space/competition/2482/discussion/490)__
+  - 분류: `교육`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 07. 03(월) ~ 07. 23(일)
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
   - 분류: `오프라인`, `빅데이터`
   - 주최: BOAZ
@@ -289,6 +261,10 @@
   - 분류: `온라인`, `웨비나`, `QA`
   - 주최: QA Korea
   - 일시: 05. 28(일) ~ 07. 28(금)
+- __[I/O Extended 2023 Seoul](https://festa.io/events/3683)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: GDG SEOUL
+  - 접수: 07. 05(수) ~ 07. 28(금)
 - __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
   - 분류: `교육`, `커리어`
   - 주최: 이스트소프트
@@ -306,6 +282,10 @@
   - 주최: 서울특별시
   - 일시: 07. 31(월) ~ 08. 02(수)
 
+- __[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!](httpshttps://festa.io/events/3688)__
+  - 분류: `오프라인`, `컨퍼런스`
+  - 주최: IMPACT
+  - 일시: 08. 04(수) 13:00 ~ 20:00
 - __[파이콘 한국 2023](https://2023.pycon.kr/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 파이콘 한국 준비위원회
