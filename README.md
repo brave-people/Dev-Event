@@ -148,15 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[BiG Data Hackathon](https://www.dxchallenge.co.kr/events/BDHackathon)__
-  - 분류: `대회`, `빅데이터`
-  - 주최: 부산광역시
-  - 접수: 07. 05(수)
-
 - __[쿠팡 개발 리더가 일하는 방법 - 쿠팡의 개발자와 개발 프로세스](https://event-us.kr/supercoder/event/64839)__
   - 분류: `온라인`, `오프라인`, `게임`
   - 주최: 슈퍼코더
   - 접수: 06. 16(금) ~ 07. 06(목) 15:00
+
 - __[방구석인디게임쇼 BIGS 2023](https://www.bigameshow.com/bigs2023_teasing/)__
   - 분류: `대회`, `오프라인`, `게임`
   - 주최: 방구석인디게임쇼
@@ -193,6 +189,10 @@
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 07. 11(화) 19:30 ~ 20:30
+- __[SAM(Segment Anything Model)과 친해지기](https://aifactory.space/learning/2504/discussion/486)__
+  - 분류: `온라인`, `AI`
+  - 주최: AIFactory
+  - 일시: 07. 11(화) 19:30 ~ 21:00
 - __[대한민국 인공지능위크 2023](https://rsvp.withgoogle.com/events/aiweek2023)__
   - 분류: `오프라인`, `AI`
   - 주최: Google
@@ -250,7 +250,7 @@
   - 주최: 모두의연구소
   - 접수: 06. 28(수) ~ 07. 21(금)
 - __[2023 AI 대학원 챌린지 with kt 믿:음](https://aifactory.space/competition/2482/discussion/490)__
-  - 분류: `교육`, `AI`
+  - 분류: `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 07. 03(월) ~ 07. 23(일)
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
