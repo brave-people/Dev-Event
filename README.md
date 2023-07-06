@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-99-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-100-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -627,6 +627,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dmswl98"><img src="https://avatars.githubusercontent.com/u/76807107?v=4?s=100" width="100px;" alt="cje"/><br /><sub><b>cje</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dmswl98" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.pigno.se"><img src="https://avatars.githubusercontent.com/u/7090315?v=4?s=100" width="100px;" alt="Sungmin Han"/><br /><sub><b>Sungmin Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=KennethanCeyer" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
