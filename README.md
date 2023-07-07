@@ -209,6 +209,10 @@
   - 분류: `오프라인`, `벡엔드`
   - 주최: 카카오
   - 접수: 07. 04(화) ~ 07. 12(수)
+- __[Seoul MLOps Community](https://www.meetup.com/seoul-mlops-meetup/events/294511180/)__
+  - 분류: `오프라인`, `AI`
+  - 주최: MLOps Community
+  - 일시: 07. 12(수) 19:00 ~ 22:00
 - __[Swift Coding Club 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
   - 분류: `모임`, `iOS`, `Swift`
   - 주최: 스위프트 코딩클럽
