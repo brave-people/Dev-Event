@@ -148,31 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[대한민국 인공지능위크 2023](https://rsvp.withgoogle.com/events/aiweek2023)__
-  - 분류: `오프라인`, `AI`
-  - 주최: Google
-  - 일시: 06. 30(금) ~ 07. 12(수)
-  
-- __[리얼리눅스 무료세미나: 서버엔지니어(SRE, Devops, Infra 등) 리눅스, 제대로 알고 있나요 ?](https://festa.io/events/3679)__
-  - 분류: `웨비나`, `인프라`
-  - 주최: 리얼리눅스
-  - 일시: 07. 12(수) 20:00 ~ 21:00
-- __[TensorFlow Korea LLM Day with Google AI Week](https://festa.io/events/3717)__
-  - 분류: `웨비나`, `네트워크`, `AI`
-  - 주최: TensorFlow User Group
-  - 일시: 06. 29(목) ~ 07. 12(수)
-- __[kakao tech meet #2](https://tech.kakao.com/2023/07/04/kakao-tech-meet-2/)__
-  - 분류: `오프라인`, `벡엔드`
-  - 주최: 카카오
-  - 접수: 07. 04(화) ~ 07. 12(수)
-- __[Seoul MLOps Community](https://www.meetup.com/seoul-mlops-meetup/events/294511180/)__
-  - 분류: `오프라인`, `AI`
-  - 주최: MLOps Community
-  - 일시: 07. 12(수) 19:00 ~ 22:00
 - __[Swift Coding Club 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
   - 분류: `모임`, `iOS`, `Swift`
   - 주최: 스위프트 코딩클럽
   - 접수: 07. 01(토) ~ 07. 13(목) 19:00
+
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
@@ -201,6 +181,10 @@
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: KWDC 준비위원회
   - 일시: 07. 18(화) 10:00 ~ 18:00
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/294467700/)__
+  - 분류: `오프라인`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 07. 13(목) ~ 07. 18(화)
 - __[Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)__
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의연구소
@@ -217,6 +201,10 @@
   - 분류: `온라인`, `AI`
   - 주최: DEVOCEAN
   - 접수: 07. 11(화) ~ 07. 19(수)
+- __[[SD러닝데이] AI야 배경 좀 그려줘](https://aifactory.space/learning/2515/discussion/499)__
+  - 분류: `온라인`, `AI`
+  - 주최: 스테이블디퓨전
+  - 접수: 07. 13(목) ~ 07. 19(수)
 - __[제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -229,6 +217,10 @@
   - 분류: `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 07. 03(월) ~ 07. 23(일)
+- __[[MODUPOP] (머신러닝)의사결정나무에서 부스팅까지](https://festa.io/events/3758)__
+  - 분류: `온라인`, `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 접수: 07. 13(목) ~ 07. 25(화)
 - __[성동구 청년정책 해커톤](https://forms.gle/SVatsaMWeADJkpvK9)__
   - 분류: `대회`, `해커톤`
   - 주최: 킹십리
