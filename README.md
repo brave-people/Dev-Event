@@ -148,15 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[Swift Coding Club 2023 하반기 활동멤버 모집](https://festa.io/events/3672)__
-  - 분류: `모임`, `iOS`, `Swift`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 07. 01(토) ~ 07. 13(목) 19:00
-
 - __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
   - 분류: `대회`, `AI`
   - 주최: 교원
   - 일시: 05. 18(목) ~ 07. 14(금)
+
 - __[대한민국 인공지능 위크 AI for Korea 2023](https://rsvp.withgoogle.com/events/aiforkorea2023)__
   - 분류: `오프라인`, `AI`
   - 주최: Google, 과학기술정보통신부
@@ -169,6 +165,10 @@
   - 분류: `오프라인`, `Go`
   - 주최: Golang Korea
   - 일시: 07. 15(토) 13:00 ~ 19:00
+- __[DX Sprint 2023](https://www.dxchallenge.co.kr/events/dxsprint2023)__
+  - 분류: `오프라인`, `기술일반`
+  - 주최: 부산광역시
+  - 접수: 07. 11(화) ~ 07. 16(일)
 - __[Seoul iOS Meetup](https://www.meetup.com/seoul-ios-meetup/events/294368177)__
   - 분류: `오프라인`, `iOS`
   - 주최: Seoul iOS Meetup
@@ -237,10 +237,6 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG SEOUL
   - 접수: 07. 05(수) ~ 07. 28(금)
-- __[DX Sprint 2023](https://www.dxchallenge.co.kr/events/dxsprint2023)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 부산광역시
-  - 접수: 07. 11(화) ~ 07. 16(일)
 - __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
   - 분류: `교육`, `커리어`
   - 주최: 이스트소프트
@@ -270,6 +266,10 @@
   - 분류: `온/오프라인 하이브리드`, `고언어`, `컨퍼런스`
   - 주최: Golang Korea
   - 일시: 08. 05(토) ~ 08. 06(일)
+- __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
+  - 분류: `교육`, `AI`
+  - 주최: Google
+  - 접수: 07. 13(목) ~ 08. 13(일)
 - __[파이콘 한국 2023](https://2023.pycon.kr/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 파이콘 한국 준비위원회
@@ -282,6 +282,10 @@
   - 분류: `대회`, `AI`
   - 주최: 국민은행
   - 접수: 07. 10(월) ~ 08. 15(일)
+- __[네이버 AI RUSH 2023](https://campaign.naver.com/airush_2023/)__
+  - 분류: `대회`, `AI`
+  - 주최: 네이버
+  - 접수: 08. 01(화) ~ 08. 20(일)
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
