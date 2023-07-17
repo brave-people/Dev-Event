@@ -148,35 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[제2회 교원그룹 AI 챌린지 - 생성 AI기반 에듀테크 사업 제안 대회](https://aifactory.space/competition/detail/2202)__
-  - 분류: `대회`, `AI`
-  - 주최: 교원
-  - 일시: 05. 18(목) ~ 07. 14(금)
-
-- __[대한민국 인공지능 위크 AI for Korea 2023](https://rsvp.withgoogle.com/events/aiforkorea2023)__
-  - 분류: `오프라인`, `AI`
-  - 주최: Google, 과학기술정보통신부
-  - 일시: 07. 13(목) ~ 07. 15(토)
-- __[Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA](https://festa.io/events/3709)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: MLSA(Microsoft Learn Student Ambassadors)
-  - 일시: 07. 15(토) 13:00 ~ 18:00
-- __[Go To Songdo 2023](https://festa.io/events/3364)__
-  - 분류: `오프라인`, `Go`
-  - 주최: Golang Korea
-  - 일시: 07. 15(토) 13:00 ~ 19:00
-- __[DX Sprint 2023](https://www.dxchallenge.co.kr/events/dxsprint2023)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: 부산광역시
-  - 접수: 07. 11(화) ~ 07. 16(일)
-- __[Seoul iOS Meetup](https://www.meetup.com/seoul-ios-meetup/events/294368177)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 일시: 07. 15(토) 14:00 ~ 17:00
 - __[블록체인·핀테크 경진대회 『BEST Challenge』](https://litt.ly/2023best)__
   - 분류: `오프라인`, `대회`, `블록체인`
   - 주최: 과학기술정보통신부
   - 모집: 05. 30(화) ~ 07. 17(월)
+
 - __[KWDC](https://kwdc.dev/)__
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: KWDC 준비위원회
@@ -225,6 +201,10 @@
   - 분류: `대회`, `해커톤`
   - 주최: 킹십리
   - 접수: 07. 12(수) ~ 07. 26(수)
+- __[블록체인 기술과 가상자산 시장](https://okky.kr/articles/1458641)__
+  - 분류: `웨비나`, `블록체인`
+  - 주최: ICT콤플렉스
+  - 접수: 07. 17(월) ~ 07. 26(수)
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
   - 분류: `오프라인`, `빅데이터`
   - 주최: BOAZ
@@ -249,6 +229,10 @@
   - 분류: `해커톤`, `보안`
   - 주최: 행정안전부
   - 접수: 06. 19(월) ~ 07. 31(월)
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/ko-KR/awskrug/events/294649654/)__
+  - 분류: `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 17(월) ~ 07. 30(일)
 
 <br />
 
