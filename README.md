@@ -148,15 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[블록체인·핀테크 경진대회 『BEST Challenge』](https://litt.ly/2023best)__
-  - 분류: `오프라인`, `대회`, `블록체인`
-  - 주최: 과학기술정보통신부
-  - 모집: 05. 30(화) ~ 07. 17(월)
-
 - __[KWDC](https://kwdc.dev/)__
   - 분류: `오프라인`, `Apple platform developer`
   - 주최: KWDC 준비위원회
   - 일시: 07. 18(화) 10:00 ~ 18:00
+
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/294467700/)__
   - 분류: `오프라인`, `보안`
   - 주최: AWSKRUG
@@ -205,6 +201,10 @@
   - 분류: `웨비나`, `블록체인`
   - 주최: ICT콤플렉스
   - 접수: 07. 17(월) ~ 07. 26(수)
+- __[개발자, 한 달에 책 한 권 읽기 2023년 7월 모임](https://festa.io/events/3779)__
+  - 분류: `오프라인`, `교육`
+  - 주최: 코딩의 신
+  - 접수: 07. 18(월) ~ 07. 27(목)
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
   - 분류: `오프라인`, `빅데이터`
   - 주최: BOAZ
@@ -217,6 +217,10 @@
   - 분류: `오프라인`, `기술일반`
   - 주최: GDG SEOUL
   - 접수: 07. 05(수) ~ 07. 28(금)
+- __[구름톤 트레이닝](https://kdt.goorm.io/?_gl=1*1to6mxq*_gcl_au*MTAyNjY2MzMyLjE2ODcxNzA2OTU.)__
+  - 분류: `교육`, `웹`
+  - 주최: 구름
+  - 접수: 07. 18(화) ~ 07. 29(토)
 - __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
   - 분류: `교육`, `커리어`
   - 주최: 이스트소프트
@@ -266,10 +270,18 @@
   - 분류: `대회`, `AI`
   - 주최: 국민은행
   - 접수: 07. 10(월) ~ 08. 15(일)
+- __[NYPC](https://www.nypc.co.kr/introduce/nypcIntroduce.do)__
+  - 분류: `대회`
+  - 주최: 넥슨
+  - 접수: 07. 10(월) ~ 08. 07(월)
 - __[네이버 AI RUSH 2023](https://campaign.naver.com/airush_2023/)__
   - 분류: `대회`, `AI`
   - 주최: 네이버
   - 접수: 08. 01(화) ~ 08. 20(일)
+- __[제7회 삼성 보안 기술 포럼](https://research.samsung.com/sstf)__
+  - 분류: `컨퍼런스`, `보안`
+  - 주최: 삼성전자
+  - 접수: 07. 17(월) ~ 08. 22(화)
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
@@ -321,6 +333,11 @@
 <br />
 
 ## 23년 12월
+- __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
+  - 분류: `보안`, `대회`
+  - 주최: 토스
+  - 접수: 07. 13(목) ~ 12. 15(금)
+
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
