@@ -148,23 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[KWDC](https://kwdc.dev/)__
-  - 분류: `오프라인`, `Apple platform developer`
-  - 주최: KWDC 준비위원회
-  - 일시: 07. 18(화) 10:00 ~ 18:00
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/294467700/)__
-  - 분류: `오프라인`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 07. 13(목) ~ 07. 18(화)
-- __[Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래](https://festa.io/events/3703/)__
-  - 분류: `오프라인`, `온라인`, `AI`
-  - 주최: 모두의연구소
-  - 일시: 07. 18(화) 10:00 ~ 18:00
 - __[오라클x올리브영 디벨로퍼 밋업](https://go.oracle.com/LP=137197)__
   - 분류: `온라인`, `클라우드`
   - 주최: 오라클
   - 일시: 07. 19(수) 17:00 ~ 18:00
+  
 - __[데이터로 고객을 움직이는 팀이 되어가는 여정](http://vrn68.app.goo.gl/4GPTN)__
   - 분류: `온라인`, `오프라인`, `데이터`
   - 주최: 구름
@@ -251,9 +239,13 @@
   - 주최: IMPACT
   - 일시: 08. 04(수) 13:00 ~ 20:00
 - __[GopherCon Korea 2023](https://festa.io/events/3435)__
-  - 분류: `온/오프라인 하이브리드`, `고언어`, `컨퍼런스`
+  - 분류: `온라인`, `오프라인`, `고언어`, `컨퍼런스`
   - 주최: Golang Korea
   - 일시: 08. 05(토) ~ 08. 06(일)
+- __[제 8회 부산 ICT융합 해카톤 대회](https://onoffmix.com/event/279454)__
+  - 분류: `대회`
+  - 주최: 부산광역시
+  - 일시: 07. 17(월) ~ 07. 28(금)
 - __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
   - 분류: `교육`, `AI`
   - 주최: Google
@@ -290,6 +282,10 @@
   - 분류: `오프라인`, `클라우드`
   - 주최: Google
   - 일시: 08. 29(화) ~ 08. 31(목)
+- __[2023년 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1880)__
+  - 분류: `온라인`, `오픈소스`
+  - 주최: 오픈플랫폼개발자커뮤니티
+  - 일시: 04. 10(월) ~ 08. 31(목)
 
 <br />
 
