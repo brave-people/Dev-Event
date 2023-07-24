@@ -148,27 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[제17회 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
-  - 분류: `대회`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 일시: 06. 15(목) ~ 07. 20(목)
-
-- __[실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_05&utm_content=m_camp_aiffelapply_github)__
-  - 분류: `교육`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 06. 28(수) ~ 07. 21(금)
-- __[2023 AI 대학원 챌린지 with kt 믿:음](https://aifactory.space/competition/2482/discussion/490)__
-  - 분류: `대회`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 07. 03(월) ~ 07. 23(일)
-- __[잔디콘 : 시즌8](https://festa.io/events/3790)__
-  - 분류: `모임`
-  - 주최: GDG Pangyo
-  - 접수: 07. 20(목) ~ 07. 23(일)
 - __[[MODUPOP] (머신러닝)의사결정나무에서 부스팅까지](https://festa.io/events/3758)__
   - 분류: `온라인`, `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 접수: 07. 13(목) ~ 07. 25(화)
+
 - __[성동구 청년정책 해커톤](https://forms.gle/SVatsaMWeADJkpvK9)__
   - 분류: `대회`, `해커톤`
   - 주최: 킹십리
@@ -181,6 +165,26 @@
   - 분류: `오프라인`, `교육`
   - 주최: 코딩의 신
   - 접수: 07. 18(월) ~ 07. 27(목)
+- __[MLOps를 활용한 AI 서비스 개발 스토리](https://docs.google.com/forms/d/e/1FAIpQLScrWyOMQmE4Gf6ubukL6ytkmbkn6fSM624IIhJZtdJC4KA6Ug/viewform)__
+  - 분류: `온라인`, `AI`
+  - 주최: 우아한형제들
+  - 접수: 07. 24(월) ~ 07. 27(목)
+- __[SwiftUI 공식문서 파헤치기 | 프리온보딩 iOS 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_ios_4)__
+  - 분류: `온라인`, `교육`, `iOS`
+  - 주최: 원티드
+  - 접수: 07. 12(수) ~ 07. 27(목)
+- __[리액트 리팩토링, 테스트부터 최적화까지 | 프리온보딩 프론트엔드 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_ios_4)__
+  - 분류: `온라인`, `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 07. 12(수) ~ 07. 27(목)
+- __[도커 이미지 제작부터 클라우드 배포까지 | 프리온보딩 백엔드 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_be_10)__
+  - 분류: `온라인`, `교육`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 07. 12(수) ~ 07. 27(목)
+- __[크래프톤 정글 3기 모집](https://www.wanted.co.kr/events/krafton_jungle)__
+  - 분류: `유료`, `교육`
+  - 주최: 크래프톤
+  - 일시: 07. 24(월) ~ 07. 28(금)
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
   - 분류: `오프라인`, `빅데이터`
   - 주최: BOAZ
@@ -197,6 +201,10 @@
   - 분류: `대회`
   - 주최: 부산광역시
   - 일시: 07. 17(월) ~ 07. 28(금)
+- __[I/O Extended 2023 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-2023-seoul/)__
+  - 분류: `오프라인`, `모임`
+  - 주최: GDG Seoul
+  - 접수: 07. 24(월) ~ 07. 28(금)
 - __[구름톤 트레이닝](https://kdt.goorm.io/?_gl=1*1to6mxq*_gcl_au*MTAyNjY2MzMyLjE2ODcxNzA2OTU.)__
   - 분류: `교육`, `웹`
   - 주최: 구름
@@ -238,6 +246,10 @@
   - 분류: `온라인`, `오프라인`, `고언어`, `컨퍼런스`
   - 주최: Golang Korea
   - 일시: 08. 05(토) ~ 08. 06(일)
+- __[KAFKA 한국 사용자 모임 밋업](https://devocean.sk.com/events/view.do?id=175)__
+  - 분류: `오프라인`, `카프카`
+  - 주최: KAFKA 한국 사용자 모임
+  - 접수: 07. 24(월) ~ 08. 06(일)
 - __[AWS re/Start 교육생 3기](https://www.megazone.com/awsrestart/)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
@@ -266,6 +278,10 @@
   - 분류: `대회`, `AI`
   - 주최: 한국철도기술연구원
   - 접수: 07. 17(월) ~ 08. 18(금)
+- __[제2회 통신망 안정성 확보를 위한 인공지능 해커톤](https://aifactory.space/competition/2513/discussion/508)__
+  - 분류: `대회`, `AI`
+  - 주최: ETRI, KT
+  - 접수: 07. 24(월) ~ 08. 18(금)
 - __[네이버 AI RUSH 2023](https://campaign.naver.com/airush_2023/)__
   - 분류: `대회`, `AI`
   - 주최: 네이버
