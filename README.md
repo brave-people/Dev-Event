@@ -254,6 +254,10 @@
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
   - 접수: 07. 20(목) ~ 08. 10(목)
+- __[Microsoft AI 900 자격증 시험 준비 핸즈온](https://festa.io/events/3797)__
+  - 분류: `오프라인`, `교육`, `AI`
+  - 주최: Microsoft MVP Community
+  - 접수: 07. 25(화) ~ 08. 11(금)
 - __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
   - 분류: `교육`, `AI`
   - 주최: Google
