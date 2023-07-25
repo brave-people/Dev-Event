@@ -315,6 +315,10 @@
   - 분류: `오프라인`, `MongoDB`
   - 주최: MongoDB
   - 일시: 09. 13(토) 10:00 ~ 17:40
+- __[AI Summit Seoul](https://aisummit.co.kr/)__
+  - 분류: `오프라인`, `AI`
+  - 주최: DMK Global
+  - 일시: 09. 13(수) ~ 09. 14(목)
 
 <br />
 
