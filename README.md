@@ -327,11 +327,15 @@
 <br />
 
 ## 23년 10월
+- __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
+  - 분류: `오프라인`, `유니티`
+  - 주최: 유니티
+  - 일시: 10. 05(목)
+
 - __[데이터야놀자 2023](https://datayanolja.kr/)__
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
   - 일시: 10. 21(토)
-
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
