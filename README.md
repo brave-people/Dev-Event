@@ -290,6 +290,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
   - 접수: 07. 17(월) ~ 08. 22(화)
+- __[I/O Extended 2023 Incheon](https://festa.io/events/3780)__
+  - 분류: `오프라인`, `컨퍼런스`
+  - 주최: GDG INCHEON
+  - 일시: 08. 26(토) 13:00 ~ 19:00
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
