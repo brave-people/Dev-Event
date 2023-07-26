@@ -290,6 +290,10 @@
   - 분류: `대회`, `AI`
   - 주최: 네이버
   - 접수: 08. 01(화) ~ 08. 20(일)
+- __[Junction Asia 2023](https://asia.hackjunction.com/home/)__
+  - 분류: `오프라인`, `대회`
+  - 주최: 부산광역시
+  - 일시: 06. 28(수) ~ 08. 20(일)
 - __[제7회 삼성 보안 기술 포럼](https://research.samsung.com/sstf)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
@@ -306,11 +310,6 @@
   - 분류: `온라인`, `오픈소스`
   - 주최: 오픈플랫폼개발자커뮤니티
   - 일시: 04. 10(월) ~ 08. 31(목)
-- __[Junction Asia 2023]([https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1880](https://asia.hackjunction.com/home/))__
-  - 분류: `오프라인`, `대회`
-  - 주최: 부산광역시
-  - 일시: 06. 28(수) ~ 08. 20(일)
-
 
 <br />
 
