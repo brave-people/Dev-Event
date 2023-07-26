@@ -148,15 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[[MODUPOP] (머신러닝)의사결정나무에서 부스팅까지](https://festa.io/events/3758)__
-  - 분류: `온라인`, `오프라인`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 07. 13(목) ~ 07. 25(화)
-
 - __[성동구 청년정책 해커톤](https://forms.gle/SVatsaMWeADJkpvK9)__
   - 분류: `대회`, `해커톤`
   - 주최: 킹십리
   - 접수: 07. 12(수) ~ 07. 26(수)
+  
 - __[블록체인 기술과 가상자산 시장](https://okky.kr/articles/1458641)__
   - 분류: `웨비나`, `블록체인`
   - 주최: ICT콤플렉스
@@ -201,10 +197,6 @@
   - 분류: `대회`
   - 주최: 부산광역시
   - 일시: 07. 17(월) ~ 07. 28(금)
-- __[I/O Extended 2023 Seoul](https://gdg.community.dev/events/details/google-gdg-seoul-presents-io-extended-2023-seoul/)__
-  - 분류: `오프라인`, `모임`
-  - 주최: GDG Seoul
-  - 접수: 07. 24(월) ~ 07. 28(금)
 - __[구름톤 트레이닝](https://kdt.goorm.io/?_gl=1*1to6mxq*_gcl_au*MTAyNjY2MzMyLjE2ODcxNzA2OTU.)__
   - 분류: `교육`, `웹`
   - 주최: 구름
@@ -250,6 +242,10 @@
   - 분류: `오프라인`, `카프카`
   - 주최: KAFKA 한국 사용자 모임
   - 접수: 07. 24(월) ~ 08. 06(일)
+- __[SSS급 의료인은 AI연구원으로 전직했습니다: 흔들리지 않고 제대로 피봇팅하는 법](https://festa.io/events/3809)__
+  - 분류: `오프라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 08. 08(화) 19:30 ~ 21:00
 - __[AWS re/Start 교육생 3기](https://www.megazone.com/awsrestart/)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
@@ -298,6 +294,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
   - 접수: 07. 17(월) ~ 08. 22(화)
+- __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
+  - 분류: `교육`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 08. 29(화) 19:30 ~ 21:30
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
