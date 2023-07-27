@@ -148,19 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[성동구 청년정책 해커톤](https://forms.gle/SVatsaMWeADJkpvK9)__
-  - 분류: `대회`, `해커톤`
-  - 주최: 킹십리
-  - 접수: 07. 12(수) ~ 07. 26(수)
-  
-- __[블록체인 기술과 가상자산 시장](https://okky.kr/articles/1458641)__
-  - 분류: `웨비나`, `블록체인`
-  - 주최: ICT콤플렉스
-  - 접수: 07. 17(월) ~ 07. 26(수)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 7월 모임](https://festa.io/events/3779)__
   - 분류: `오프라인`, `교육`
   - 주최: 코딩의 신
   - 접수: 07. 18(월) ~ 07. 27(목)
+
 - __[MLOps를 활용한 AI 서비스 개발 스토리](https://docs.google.com/forms/d/e/1FAIpQLScrWyOMQmE4Gf6ubukL6ytkmbkn6fSM624IIhJZtdJC4KA6Ug/viewform)__
   - 분류: `온라인`, `AI`
   - 주최: 우아한형제들
@@ -221,11 +213,15 @@
 <br />
 
 ## 23년 08월
+- __[실무자에게 직접듣는 인공지능&AI](http://koreaitsecurity.co.kr/renewal2021/community/seminar_view.asp?idxnum=265&clkMater=&txtMenu=&GoTopage=1&selMater=)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 코리아아카데미
+  - 접수: 07. 27(목) ~ 08. 02(수)
+
 - __[Seoul Web 3.0 Festival](https://www.seoulweb3festival.com/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 서울특별시
   - 일시: 07. 31(월) ~ 08. 02(수)
-
 - __[한빛N MSA - #1 Debugger](https://festa.io/events/3760)__
   - 분류: `오프라인`, `벡엔드`
   - 주최: 한빛N
@@ -274,6 +270,10 @@
   - 분류: `대회`
   - 주최: 넥슨
   - 접수: 07. 10(월) ~ 08. 07(월)
+- __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: GDG 대구
+  - 접수: 07. 27(목) ~ 08. 17(월)
 - __[2023 제1회 철도 인공지능 경진대회](https://aifactory.space/competition/2511/discussion/504)__
   - 분류: `대회`, `AI`
   - 주최: 한국철도기술연구원
@@ -294,6 +294,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
   - 접수: 07. 17(월) ~ 08. 22(화)
+- __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
+  - 분류: `교육`, `온라인`, `AI`
+  - 주최: 모두의 연구소
+  - 접수: 07. 27(목) ~ 08. 25(금)
 - __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
