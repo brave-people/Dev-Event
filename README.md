@@ -314,11 +314,14 @@
 <br />
 
 ## 23년 09월
+- __[Unreal Fest 2023 Seoul](https://epiclounge.co.kr/unrealfest.php)__
+  - 분류: `컨퍼런스`, `언리얼`, `오프라인`, `온라인`
+  - 주최: 에픽게임즈
+  - 일시: 08. 29(화) ~ 09. 01(금)
 - __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
-
 - __[UbuCon Korea 2023 발표자](https://2023.ubuntu-kr.org/ko/)__
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
