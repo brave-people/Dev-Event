@@ -148,31 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[개발자, 한 달에 책 한 권 읽기 2023년 7월 모임](https://festa.io/events/3779)__
-  - 분류: `오프라인`, `교육`
-  - 주최: 코딩의 신
-  - 접수: 07. 18(월) ~ 07. 27(목)
-
-- __[MLOps를 활용한 AI 서비스 개발 스토리](https://docs.google.com/forms/d/e/1FAIpQLScrWyOMQmE4Gf6ubukL6ytkmbkn6fSM624IIhJZtdJC4KA6Ug/viewform)__
-  - 분류: `온라인`, `AI`
-  - 주최: 우아한형제들
-  - 접수: 07. 24(월) ~ 07. 27(목)
-- __[SwiftUI 공식문서 파헤치기 | 프리온보딩 iOS 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_ios_4)__
-  - 분류: `온라인`, `교육`, `iOS`
-  - 주최: 원티드
-  - 접수: 07. 12(수) ~ 07. 27(목)
-- __[리액트 리팩토링, 테스트부터 최적화까지 | 프리온보딩 프론트엔드 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_fe_12)__
-  - 분류: `온라인`, `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 07. 12(수) ~ 07. 27(목)
-- __[도커 이미지 제작부터 클라우드 배포까지 | 프리온보딩 백엔드 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_be_10)__
-  - 분류: `온라인`, `교육`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 07. 12(수) ~ 07. 27(목)
 - __[크래프톤 정글 3기 모집](https://www.wanted.co.kr/events/krafton_jungle)__
   - 분류: `유료`, `교육`
   - 주최: 크래프톤
   - 일시: 07. 24(월) ~ 07. 28(금)
+
 - __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
   - 분류: `오프라인`, `빅데이터`
   - 주최: BOAZ
@@ -238,10 +218,18 @@
   - 분류: `오프라인`, `카프카`
   - 주최: KAFKA 한국 사용자 모임
   - 접수: 07. 24(월) ~ 08. 06(일)
+- __[NYPC](https://www.nypc.co.kr/introduce/nypcIntroduce.do)__
+  - 분류: `대회`
+  - 주최: 넥슨
+  - 접수: 07. 10(월) ~ 08. 07(월)
 - __[SSS급 의료인은 AI연구원으로 전직했습니다: 흔들리지 않고 제대로 피봇팅하는 법](https://festa.io/events/3809)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 08. 08(화) 19:30 ~ 21:00
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/294944079/)__
+  - 분류: `무료`, `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 07. 28(금) ~ 08. 08(화)
 - __[AWS re/Start 교육생 3기](https://www.megazone.com/awsrestart/)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
@@ -266,10 +254,14 @@
   - 분류: `대회`, `AI`
   - 주최: 국민은행
   - 접수: 07. 10(월) ~ 08. 15(일)
-- __[NYPC](https://www.nypc.co.kr/introduce/nypcIntroduce.do)__
-  - 분류: `대회`
-  - 주최: 넥슨
-  - 접수: 07. 10(월) ~ 08. 07(월)
+- __[백엔드 | 프리온보딩 인턴십 8월](https://www.wanted.co.kr/events/pre_ob_be_6)__
+  - 분류: `온라인`, `무료`, `취업`, `교육`
+  - 주최: 원티드
+  - 접수: 07. 26(수) ~ 08. 16(월)
+- __[한빛N MSA - #2 TDD](https://festa.io/events/3791)__
+  - 분류: `온라인`, `무료`, `테스트`
+  - 주최: 한빛N MSA
+  - 접수: 07. 28(금) ~ 08. 16(월)
 - __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
