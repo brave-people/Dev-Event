@@ -148,39 +148,11 @@
 <br />
 
 ## 23년 07월
-- __[크래프톤 정글 3기 모집](https://www.wanted.co.kr/events/krafton_jungle)__
-  - 분류: `유료`, `교육`
-  - 주최: 크래프톤
-  - 일시: 07. 24(월) ~ 07. 28(금)
-
-- __[제 18회 빅데이터 컨퍼런스](https://festa.io/events/3728)__
-  - 분류: `오프라인`, `빅데이터`
-  - 주최: BOAZ
-  - 일시: 07. 04(일) ~ 07. 28(금)
-- __[2023 2nd QA Korea Conference](https://festa.io/events/3572)__
-  - 분류: `온라인`, `웨비나`, `QA`
-  - 주최: QA Korea
-  - 일시: 05. 28(일) ~ 07. 28(금)
-- __[I/O Extended 2023 Seoul](https://festa.io/events/3683)__
-  - 분류: `오프라인`, `기술일반`
-  - 주최: GDG SEOUL
-  - 접수: 07. 05(수) ~ 07. 28(금)
-- __[제 8회 부산 ICT융합 해카톤 대회](https://onoffmix.com/event/279454)__
-  - 분류: `대회`
-  - 주최: 부산광역시
-  - 일시: 07. 17(월) ~ 07. 28(금)
-- __[구름톤 트레이닝](https://kdt.goorm.io/?_gl=1*1to6mxq*_gcl_au*MTAyNjY2MzMyLjE2ODcxNzA2OTU.)__
-  - 분류: `교육`, `웹`
-  - 주최: 구름
-  - 접수: 07. 18(화) ~ 07. 29(토)
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/ko-KR/awskrug/events/294649654/)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 07. 17(월) ~ 07. 30(일)
 - __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
   - 분류: `교육`, `커리어`
   - 주최: 이스트소프트
   - 접수: 06. 30(금) ~ 07. 31(월)
+  
 - __[AI Edu Hackathon](https://ai-eduhackathon.imweb.me/?utm_source=community&utm_medium=poster&utm_campaign=aiht&utm_term=github_dev_event)__
   - 분류: `해커톤`, `AI`
   - 주최: 엘리스
@@ -286,6 +258,10 @@
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
   - 접수: 07. 17(월) ~ 08. 22(화)
+- __[[CJ올리브네트웍스] 해커톤 프로젝트 AI / Data 과정](https://festa.io/events/3823)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 서울ICT-CJ
+  - 접수: 07. 31(월) ~ 08. 22(화)
 - __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
   - 분류: `교육`, `온라인`, `AI`
   - 주최: 모두의 연구소
@@ -310,11 +286,15 @@
 <br />
 
 ## 23년 09월
+- __[I/O Extended 2023 Cloud Busan & Busan](https://festa.io/events/3820)__
+  - 분류: `컨퍼런스`, `클라우드`, `오프라인`
+  - 주최: GDG Cloud Busan
+  - 접수: 07. 31(월) ~ 09. 01(금)
+
 - __[Unreal Fest 2023 Seoul](https://epiclounge.co.kr/unrealfest.php)__
   - 분류: `컨퍼런스`, `언리얼`, `오프라인`, `온라인`
   - 주최: 에픽게임즈
   - 일시: 08. 29(화) ~ 09. 01(금)
-
 - __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
