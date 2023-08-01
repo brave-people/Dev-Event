@@ -147,23 +147,6 @@
 
 <br />
 
-## 23년 07월
-- __[백엔드 개발자 부트캠프 오르미 3기 모집](https://estfamily.career.greetinghr.com/o/81126)__
-  - 분류: `교육`, `커리어`
-  - 주최: 이스트소프트
-  - 접수: 06. 30(금) ~ 07. 31(월)
-  
-- __[AI Edu Hackathon](https://ai-eduhackathon.imweb.me/?utm_source=community&utm_medium=poster&utm_campaign=aiht&utm_term=github_dev_event)__
-  - 분류: `해커톤`, `AI`
-  - 주최: 엘리스
-  - 일시: 06. 22(월) ~ 07. 31(월)
-- __[SW 개발보안 경진대회](https://securecoding.software/)__
-  - 분류: `해커톤`, `보안`
-  - 주최: 행정안전부
-  - 접수: 06. 19(월) ~ 07. 31(월)
-
-<br />
-
 ## 23년 08월
 - __[실무자에게 직접듣는 인공지능&AI](http://koreaitsecurity.co.kr/renewal2021/community/seminar_view.asp?idxnum=265&clkMater=&txtMenu=&GoTopage=1&selMater=)__
   - 분류: `오프라인`, `무료`, `AI`
@@ -202,6 +185,10 @@
   - 분류: `무료`, `오프라인`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 07. 28(금) ~ 08. 08(화)
+- __[KAFKA 한국 사용자 모임 밋업](https://devocean.sk.com/events/view.do?id=175)__
+  - 분류: `무료`, `온라인`, `벡엔드`
+  - 주최: DEVOCEAN
+  - 접수: 08. 01(화) ~ 08. 08(화)
 - __[AWS re/Start 교육생 3기](https://www.megazone.com/awsrestart/)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
@@ -265,6 +252,10 @@
 - __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
   - 분류: `교육`, `온라인`, `AI`
   - 주최: 모두의 연구소
+  - 접수: 07. 27(목) ~ 08. 25(금)
+- __[C++ Korea 2023 격월 Meet-Up(8월)](https://festa.io/events/3821)__
+  - 분류: `오프라인`, `C++`
+  - 주최: C++ Korea
   - 접수: 07. 27(목) ~ 08. 25(금)
 - __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
   - 분류: `교육`, `AI`
