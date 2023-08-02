@@ -197,6 +197,10 @@
   - 분류: `오프라인`, `교육`, `AI`
   - 주최: Microsoft MVP Community
   - 접수: 07. 25(화) ~ 08. 11(금)
+- __[AI x Robotics "CHAT"](https://festa.io/events/3755)__
+  - 분류: `오프라인`, `모임`, `유료`, `AI`
+  - 주최: AI Robotics KR
+  - 접수: 08. 02(수) ~ 08. 11(금)
 - __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
   - 분류: `교육`, `AI`
   - 주최: Google
@@ -249,6 +253,10 @@
   - 분류: `해커톤`, `AI`
   - 주최: 서울ICT-CJ
   - 접수: 07. 31(월) ~ 08. 22(화)
+- __[월간 닷넷 - 2023년 8월](https://onoffmix.com/event/279776)__
+  - 분류: `오프라인`, `무료`, `.net`
+  - 주최: 월간 닷넷
+  - 접수: 08. 02(수) ~ 08. 23(수)
 - __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
   - 분류: `교육`, `온라인`, `AI`
   - 주최: 모두의 연구소
@@ -257,6 +265,10 @@
   - 분류: `오프라인`, `C++`
   - 주최: C++ Korea
   - 접수: 07. 27(목) ~ 08. 25(금)
+- __[MIND23 : 오늘도 멈추지 않는 IT인들](https://event-us.kr/sopt/event/67959)__
+  - 분류: `오프라인`, `컨퍼런스`, `모임`
+  - 주최: SPOT
+  - 접수: 07. 27(월) ~ 08. 26(토)
 - __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
