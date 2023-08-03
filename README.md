@@ -157,10 +157,6 @@
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 서울특별시
   - 일시: 07. 31(월) ~ 08. 02(수)
-- __[Cloud Club 4기 모집](https://cloudclub.oopy.io/)__
-  - 분류: `동아리`, `클라우드`
-  - 주최: Cloud Club
-  - 일시: 08. 02(수) ~ 08. 13(일)
 - __[한빛N MSA - #1 Debugger](https://festa.io/events/3760)__
   - 분류: `오프라인`, `벡엔드`
   - 주최: 한빛N
@@ -205,6 +201,10 @@
   - 분류: `오프라인`, `모임`, `유료`, `AI`
   - 주최: AI Robotics KR
   - 접수: 08. 02(수) ~ 08. 11(금)
+- __[Cloud Club 4기 모집](https://cloudclub.oopy.io/)__
+  - 분류: `동아리`, `클라우드`
+  - 주최: Cloud Club
+  - 일시: 08. 02(수) ~ 08. 13(일)
 - __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
   - 분류: `교육`, `AI`
   - 주최: Google
