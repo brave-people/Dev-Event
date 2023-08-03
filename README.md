@@ -362,6 +362,7 @@
 
 | 이름 | 활동                                            | 링크 |
 |------------|-----------------------------------------------|-----------|
+| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
 | 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
