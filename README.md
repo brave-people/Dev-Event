@@ -185,6 +185,10 @@
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
   - 접수: 07. 20(목) ~ 08. 10(목)
+- __[5th 패스핵 : Makers meet AI](https://event-us.kr/pathfinder/event/67642)__
+  - 분류: `유료`, `오프라인`, `모임`
+  - 주최: 패스파인더
+  - 접수: 07. 27(목) ~ 08. 10(목)
 - __[Microsoft AI 900 자격증 시험 준비 핸즈온](https://festa.io/events/3797)__
   - 분류: `오프라인`, `교육`, `AI`
   - 주최: Microsoft MVP Community
