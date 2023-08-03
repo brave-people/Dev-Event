@@ -362,7 +362,6 @@
 
 | 이름 | 활동                                            | 링크 |
 |------------|-----------------------------------------------|-----------|
-| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
 | 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
@@ -380,7 +379,7 @@
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
-
+| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
