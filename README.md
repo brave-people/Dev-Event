@@ -148,19 +148,11 @@
 <br />
 
 ## 23년 08월
-- __[실무자에게 직접듣는 인공지능&AI](http://koreaitsecurity.co.kr/renewal2021/community/seminar_view.asp?idxnum=265&clkMater=&txtMenu=&GoTopage=1&selMater=)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 코리아아카데미
-  - 접수: 07. 27(목) ~ 08. 02(수)
-
-- __[Seoul Web 3.0 Festival](https://www.seoulweb3festival.com/)__
-  - 분류: `오프라인`, `컨퍼런스`
-  - 주최: 서울특별시
-  - 일시: 07. 31(월) ~ 08. 02(수)
 - __[한빛N MSA - #1 Debugger](https://festa.io/events/3760)__
   - 분류: `오프라인`, `벡엔드`
   - 주최: 한빛N
   - 일시: 08. 03(목) 18:30 ~ 20:00
+
 - __[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!](https://festa.io/events/3688)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: IMPACT
@@ -233,6 +225,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
   - 접수: 07. 27(목) ~ 08. 17(월)
+- __[I/O Extended Pangyo 2023](https://festa.io/events/3833)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: GDG 판교
+  - 접수: 08. 03(목) ~ 08. 18(금)
 - __[2023 제1회 철도 인공지능 경진대회](https://aifactory.space/competition/2511/discussion/504)__
   - 분류: `대회`, `AI`
   - 주최: 한국철도기술연구원
