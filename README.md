@@ -128,7 +128,8 @@
               <a href="./end_event/2023/23_04.md"> 04월 </a>,
               <a href="./end_event/2023/23_05.md"> 05월 </a>,
               <a href="./end_event/2023/23_06.md"> 06월 </a>,
-              <a href="./end_event/2023/23_07.md"> 07월 </a>
+              <a href="./end_event/2023/23_07.md"> 07월 </a>,
+              <a href="./end_event/2023/23_08.md"> 08월 </a>
             </td>
         </tr>
         <tr>
@@ -148,15 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[한빛N MSA - #1 Debugger](https://festa.io/events/3760)__
-  - 분류: `오프라인`, `벡엔드`
-  - 주최: 한빛N
-  - 일시: 08. 03(목) 18:30 ~ 20:00
-
 - __[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!](https://festa.io/events/3688)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: IMPACT
   - 일시: 08. 04(수) 13:00 ~ 20:00
+
 - __[GopherCon Korea 2023](https://festa.io/events/3435)__
   - 분류: `온라인`, `오프라인`, `고언어`, `컨퍼런스`
   - 주최: Golang Korea
@@ -181,6 +178,10 @@
   - 분류: `무료`, `온라인`, `벡엔드`
   - 주최: DEVOCEAN
   - 접수: 08. 01(화) ~ 08. 08(화)
+- __[파이콘 한국 2023 튜토리얼](https://event-us.kr/pyconkr/event/66004)__
+  - 분류: `무료`, `오프라인`, `파이썬`
+  - 주최: 파이콘
+  - 접수: 07. 17(월) ~ 08. 09(수) 23:30
 - __[AWS re/Start 교육생 3기](https://www.megazone.com/awsrestart/)__
   - 분류: `교육`, `클라우드`
   - 주최: 메가존클라우드
