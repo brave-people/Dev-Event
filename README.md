@@ -423,7 +423,7 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 스프린트 서울 | [sprintseoul.org](https://sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) |
+| 스프린트 서울 | [채팅방](https://gitter.im/sprintseoul/community) |
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
@@ -433,7 +433,6 @@
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) |
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) |
-| CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) |
 | SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
 | FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
@@ -441,7 +440,6 @@
 | Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
 | Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
 | NextJS Korea | [facebook](https://www.facebook.com/groups/nestjs-kr) |
-| Django Girls Seoul | [djangogirls.org](https://djangogirls.org/seoul/) |
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
@@ -457,7 +455,6 @@
 | Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
 | Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
 | 구글 Flutter 한국 사용자 그룹 | [facebook](https://www.facebook.com/groups/flutterkorea/) |
-| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
 | 걸스인텍 코리아(Girls In Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/) |
@@ -472,7 +469,6 @@
 | 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
 | JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
 | 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
-| Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
 | NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
 | 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
 
