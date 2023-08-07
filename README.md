@@ -149,23 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!](https://festa.io/events/3688)__
-  - 분류: `오프라인`, `컨퍼런스`
-  - 주최: IMPACT
-  - 일시: 08. 04(수) 13:00 ~ 20:00
-
-- __[GopherCon Korea 2023](https://festa.io/events/3435)__
-  - 분류: `온라인`, `오프라인`, `고언어`, `컨퍼런스`
-  - 주최: Golang Korea
-  - 일시: 08. 05(토) ~ 08. 06(일)
-- __[KAFKA 한국 사용자 모임 밋업](https://devocean.sk.com/events/view.do?id=175)__
-  - 분류: `오프라인`, `카프카`
-  - 주최: KAFKA 한국 사용자 모임
-  - 접수: 07. 24(월) ~ 08. 06(일)
 - __[NYPC](https://www.nypc.co.kr/introduce/nypcIntroduce.do)__
   - 분류: `대회`
   - 주최: 넥슨
   - 접수: 07. 10(월) ~ 08. 07(월)
+
 - __[SSS급 의료인은 AI연구원으로 전직했습니다: 흔들리지 않고 제대로 피봇팅하는 법](https://festa.io/events/3809)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
@@ -226,6 +214,10 @@
   - 분류: `온라인`, `무료`, `테스트`
   - 주최: 한빛N MSA
   - 접수: 07. 28(금) ~ 08. 16(월)
+- __[AWS Step Functions를 이용하여 복잡한 API 쉽고 빠르게 만들기](https://pages.awscloud.com/kr-builders-step-function-webinar.html?trk=5e9d6608-881f-4235-9a2c-443525f882a9&sc_channel=el)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 접수: 08. 07(월) ~ 08. 16(월)
 - __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
@@ -234,6 +226,10 @@
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG 판교
   - 접수: 08. 03(목) ~ 08. 18(금)
+- __[[GDG Campus Korea] Whatever you make - 6주 프로덕트 메이커 챌린지](https://festa.io/events/3733)__
+  - 분류: `오프라인`, `모임`
+  - 주최:  GDG Campus Korea
+  - 접수: 08. 07(월) ~ 08. 18(금)
 - __[2023 제1회 철도 인공지능 경진대회](https://aifactory.space/competition/2511/discussion/504)__
   - 분류: `대회`, `AI`
   - 주최: 한국철도기술연구원
@@ -258,6 +254,18 @@
   - 분류: `해커톤`, `AI`
   - 주최: 서울ICT-CJ
   - 접수: 07. 31(월) ~ 08. 22(화)
+- __[2023 KOPIS 공연예술 데이터 포럼개최](https://festa.io/events/3843)__
+  - 분류: `무료`, `오프라인`, `데이터`
+  - 주최: KOPIS 공연예술 데이터 포럼
+  - 접수: 08. 07(월) ~ 08. 22(화)
+- __[KOPIS 공연예술 데이터 포럼](https://event-us.kr/peace/event/67958)__
+  - 분류: `오프라인`, `무료`, `데이터`
+  - 주최: FILLTHEFEEL
+  - 접수: 08. 07(월) ~ 08. 22(화)
+- __[차세대 고성능 자바 GraalVM의 멀티 클라우드 확장: GraalVM Cloud Native](https://go.oracle.com/LP=137925)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 오라클
+  - 접수: 08. 07(월) ~ 08. 22(화)
 - __[월간 닷넷 - 2023년 8월](https://onoffmix.com/event/279776)__
   - 분류: `오프라인`, `무료`, `.net`
   - 주최: 월간 닷넷
@@ -282,6 +290,10 @@
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
   - 접수: 06. 27(화) ~ 08. 30(토)
+- __[한국 SAFe 커뮤니티 8월 밋업](https://festa.io/events/3822)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 한국 SAFe 커뮤니티
+  - 일시: 08. 07(월) ~ 08. 31(목)
 - __[Google Cloud Next](https://cloud.withgoogle.com/next)__
   - 분류: `오프라인`, `클라우드`
   - 주최: Google
