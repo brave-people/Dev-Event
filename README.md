@@ -149,15 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[NYPC](https://www.nypc.co.kr/introduce/nypcIntroduce.do)__
-  - 분류: `대회`
-  - 주최: 넥슨
-  - 접수: 07. 10(월) ~ 08. 07(월)
-
 - __[SSS급 의료인은 AI연구원으로 전직했습니다: 흔들리지 않고 제대로 피봇팅하는 법](https://festa.io/events/3809)__
   - 분류: `오프라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 08. 08(화) 19:30 ~ 21:00
+
 - __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/294944079/)__
   - 분류: `무료`, `오프라인`, `프론트엔드`
   - 주최: AWSKRUG
@@ -194,6 +190,10 @@
   - 분류: `교육`, `AI`
   - 주최: Google
   - 접수: 07. 13(목) ~ 08. 13(일)
+- __[[Girls in Tech X AWS] Mentoring Program 멘티 모집](https://www.wanted.co.kr/events/git_it_05)__
+  - 분류: `오프라인`, `교육`, `커리어`
+  - 주최: Girls in Tech
+  - 일시: 07. 31(월) ~ 08. 13(일)
 - __[파이콘 한국 2023](https://2023.pycon.kr/)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 파이콘 한국 준비위원회
@@ -209,19 +209,23 @@
 - __[백엔드 | 프리온보딩 인턴십 8월](https://www.wanted.co.kr/events/pre_ob_be_6)__
   - 분류: `온라인`, `무료`, `취업`, `교육`
   - 주최: 원티드
-  - 접수: 07. 26(수) ~ 08. 16(월)
+  - 접수: 07. 26(수) ~ 08. 16(수)
+- __[프론트엔드 | 프리온보딩 인턴십 8월](https://www.wanted.co.kr/events/pre_ob_be_6)__
+  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 07. 26(수) ~ 08. 16(수)
 - __[한빛N MSA - #2 TDD](https://festa.io/events/3791)__
   - 분류: `온라인`, `무료`, `테스트`
   - 주최: 한빛N MSA
-  - 접수: 07. 28(금) ~ 08. 16(월)
+  - 접수: 07. 28(금) ~ 08. 16(수)
 - __[AWS Step Functions를 이용하여 복잡한 API 쉽고 빠르게 만들기](https://pages.awscloud.com/kr-builders-step-function-webinar.html?trk=5e9d6608-881f-4235-9a2c-443525f882a9&sc_channel=el)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
-  - 접수: 08. 07(월) ~ 08. 16(월)
+  - 접수: 08. 07(월) ~ 08. 16(수)
 - __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
-  - 접수: 07. 27(목) ~ 08. 17(월)
+  - 접수: 07. 27(목) ~ 08. 17(목)
 - __[I/O Extended Pangyo 2023](https://festa.io/events/3833)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG 판교
@@ -254,10 +258,6 @@
   - 분류: `해커톤`, `AI`
   - 주최: 서울ICT-CJ
   - 접수: 07. 31(월) ~ 08. 22(화)
-- __[2023 KOPIS 공연예술 데이터 포럼개최](https://festa.io/events/3843)__
-  - 분류: `무료`, `오프라인`, `데이터`
-  - 주최: KOPIS 공연예술 데이터 포럼
-  - 접수: 08. 07(월) ~ 08. 22(화)
 - __[KOPIS 공연예술 데이터 포럼](https://event-us.kr/peace/event/67958)__
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: FILLTHEFEEL
@@ -290,6 +290,10 @@
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
   - 접수: 06. 27(화) ~ 08. 30(토)
+- __[17기 안랩샘아카데미 교육생 모집](https://www.momjobgo.com/board/stories/1975)__
+  - 분류: `무료`, `오프라인`, `교육`
+  - 주최: 안랩
+  - 접수: 08. 03(목) ~ 08. 30(수)
 - __[한국 SAFe 커뮤니티 8월 밋업](https://festa.io/events/3822)__
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 한국 SAFe 커뮤니티
@@ -323,6 +327,10 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 09. 09(토) 10:00 ~ 17:40
+- __[국내 최대 규모 데이터 분석 경진대회 2023 빅콘테스트](https://www.bigcontest.or.kr/points/data.php)__
+  - 분류: `대회`, `무료`, `데이터`
+  - 주최: 과학기술정보통신부
+  - 일시: 07. 31(월) ~ 09. 11(월)
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `오프라인`, `MongoDB`
   - 주최: MongoDB
