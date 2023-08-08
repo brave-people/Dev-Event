@@ -323,6 +323,10 @@
 <br />
 
 ## 23년 10월
+- __[Feature Store Summit 2023](https://www.featurestoresummit.com/)__
+  - 분류: `온라인`, `Feature Store` 
+  - 주최: Hopsworks
+  - 일시: 10. 11(수)
 - __[데이터야놀자 2023](https://datayanolja.kr/)__
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
