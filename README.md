@@ -149,15 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[파이콘 한국 2023 튜토리얼](https://event-us.kr/pyconkr/event/66004)__
-  - 분류: `무료`, `오프라인`, `파이썬`
-  - 주최: 파이콘
-  - 접수: 07. 17(월) ~ 08. 09(수) 23:30
-
 - __[통신망 안정성 확보를 위한 인공지능 해커톤 온라인 세미나](https://aifactory.space/task/2513/discussion/570)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: ETRI
   - 일시: 08. 10(목) 17:00
+
 - __[서울 R 미트업 (8월)](https://www.meetup.com/seoul-r-meetup/events/294651161/)__
   - 분류: `오프라인`, `무료`, `R`
   - 주최: Seoul R
@@ -238,6 +234,10 @@
   - 분류: `대회`, `AI`
   - 주최: ETRI, KT
   - 접수: 07. 24(월) ~ 08. 18(금)
+- __[테크 리드로 자라기 with 곰코치, 꽌코치](https://blog.goorm.io/commit_11th/?utm_source=community&utm_medium=social&utm_campaign=commit&utm_content=github_dev_event)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 구름
+  - 접수: 08. 10(목) ~ 08. 18(금) 17:00
 - __[네이버 AI RUSH 2023](https://campaign.naver.com/airush_2023/)__
   - 분류: `대회`, `AI`
   - 주최: 네이버
@@ -266,6 +266,14 @@
   - 분류: `오프라인`, `무료`, `.net`
   - 주최: 월간 닷넷
   - 접수: 08. 02(수) ~ 08. 23(수)
+- __[생성형 AI가 바꾸는 금융/보험의 미래](https://www.upstage.ai/webinar/fintech-insuretech-genai)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 08. 10(목) ~ 08. 23(수)
+- __[실패 사례 분석을 통한 AI 성공 열쇠](https://info.superb-ai.com/superbai-kr-202308-key-for-ai-success-through-ai-casestudy-analysis-webinar?utm_campaign=KR_2023_Curate-V1-Webinar&utm_source=github_dev_event&utm_medium=social&utm_content=event-us-promotion)__
+  - 분류: `오프라인`, `무료`, `웨비나`
+  - 주최: Superb AI
+  - 접수: 08. 10(목) ~ 08. 23(수)
 - __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
   - 분류: `교육`, `온라인`, `AI`
   - 주최: 모두의 연구소
