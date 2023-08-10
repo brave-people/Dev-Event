@@ -344,6 +344,10 @@
   - 주최: 유니티
   - 일시: 10. 05(목)
 
+- __[Feature Store Summit 2023](https://www.featurestoresummit.com/)__
+  - 분류: `온라인`, `Feature Store` 
+  - 주최: Hopsworks
+  - 일시: 10. 11(수)
 - __[FEConf 2023](https://2023.feconf.kr/)__
   - 분류: `오프라인`, `프론트엔드`, `컨퍼런스`
   - 주최: FEConf
