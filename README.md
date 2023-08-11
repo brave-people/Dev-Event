@@ -290,6 +290,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 08. 29(화) 19:30 ~ 21:30
+- __[JUMPIT TO BACK-END (2023 두번째 개취콘, 백앤드 개발자 이야기)](https://www.jumpit.co.kr/book-concert/22)__
+  - 분류: `오프라인`, `온라인`, `BACK-END`
+  - 주최: 점핏, 교보문고
+  - 일시: 08. 27(일)
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
