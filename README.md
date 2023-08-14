@@ -149,35 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[Microsoft AI 900 자격증 시험 준비 핸즈온](https://festa.io/events/3797)__
-  - 분류: `오프라인`, `교육`, `AI`
-  - 주최: Microsoft MVP Community
-  - 접수: 07. 25(화) ~ 08. 11(금)
-
-- __[AI x Robotics "CHAT"](https://festa.io/events/3755)__
-  - 분류: `오프라인`, `모임`, `유료`, `AI`
-  - 주최: AI Robotics KR
-  - 접수: 08. 02(수) ~ 08. 11(금)
-- __[Cloud Club 4기 모집](https://cloudclub.oopy.io/)__
-  - 분류: `동아리`, `클라우드`
-  - 주최: Cloud Club
-  - 일시: 08. 02(수) ~ 08. 13(일)
-- __[Google for Developers Machine Learning Bootcamp](https://developers-kr.googleblog.com/2023/07/machine-learning-bootcamp-fourth-season-2023_01905680144.html)__
-  - 분류: `교육`, `AI`
-  - 주최: Google
-  - 접수: 07. 13(목) ~ 08. 13(일)
-- __[[Girls in Tech X AWS] Mentoring Program 멘티 모집](https://www.wanted.co.kr/events/git_it_05)__
-  - 분류: `오프라인`, `교육`, `커리어`
-  - 주최: Girls in Tech
-  - 일시: 07. 31(월) ~ 08. 13(일)
-- __[파이콘 한국 2023](https://2023.pycon.kr/)__
-  - 분류: `오프라인`, `컨퍼런스`
-  - 주최: 파이콘 한국 준비위원회
-  - 일시: 08. 11(금) ~ 08. 13(일)
 - __[INFCON 2023](https://www.inflearn.com/infcon-2023/teaser)__
   - 분류: `오프라인`, `컨퍼런스`
   - 주최: 인프런
   - 일시: 08. 15(화) 10:00 ~ 18:00
+
 - __[제5회 Future Finance A.I. Challenge](http://www.kbdatory.com/)__
   - 분류: `대회`, `AI`
   - 주최: 국민은행
@@ -198,10 +174,18 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 08. 07(월) ~ 08. 16(수)
+- __[YOUTHCON'23](https://frost-witch-afb.notion.site/YOUTHCON-23-a026c94d997e46db9396283ed869a922)__
+  - 분류: `오프라인`, `무료`, `개발일반`
+  - 주최: 유스콘
+  - 접수: 08. 11(금) ~ 08. 16(수)
 - __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
   - 접수: 07. 27(목) ~ 08. 17(목)
+- __[개발자 물경력 위기 극복 노하우](https://megaptera-webinar.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=2023_03_webinar)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 메가테라
+  - 접수: 08. 14(월) ~ 08. 17(목)
 - __[I/O Extended Pangyo 2023](https://festa.io/events/3833)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG 판교
@@ -278,6 +262,10 @@
   - 분류: `오프라인`, `컨퍼런스`, `모임`
   - 주최: SPOT
   - 접수: 07. 27(월) ~ 08. 26(토)
+- __[금융도메인에서의 생성형 언어모델의 역할과 미래](https://festa.io/events/3886)__
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 모두의 연구소
+  - 일시: 08. 27(일) 16:00 ~ 17:30
 - __[JUMPIT TO BACK-END (2023 두번째 개취콘, 백앤드 개발자 이야기)](https://www.jumpit.co.kr/book-concert/22)__
   - 분류: `오프라인`, `온라인`, `BACK-END`
   - 주최: 점핏, 교보문고
@@ -310,15 +298,23 @@
   - 분류: `온라인`, `오픈소스`
   - 주최: 오픈플랫폼개발자커뮤니티
   - 일시: 04. 10(월) ~ 08. 31(목)
+- __[8월 Tech 세미나 - 업무 생산성 향상을 위한 생성형 AI 사용](https://devocean.sk.com/events/view.do?id=176)__
+  - 분류: `온라인`, `무료`,  `AI`
+  - 주최: DEVOCEAN
+  - 접수: 08. 01(화) ~ 08. 31(목)
 
 <br />
 
 ## 23년 09월
+- __[소주톤 : 얼레벌레바캉스](https://sojuton.vercel.app/)__
+  - 분류: `오프라인`, `유료`, `커뮤니티`
+  - 주최: 소주톤
+  - 접수: 08. 14(월) ~ 09. 01(금)
+
 - __[I/O Extended 2023 Cloud Busan & Busan](https://festa.io/events/3820)__
   - 분류: `컨퍼런스`, `클라우드`, `오프라인`
   - 주최: GDG Cloud Busan
   - 접수: 07. 31(월) ~ 09. 01(금)
-
 - __[Unreal Fest 2023 Seoul](https://epiclounge.co.kr/unrealfest.php)__
   - 분류: `컨퍼런스`, `언리얼`, `오프라인`, `온라인`
   - 주최: 에픽게임즈
