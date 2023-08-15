@@ -446,6 +446,7 @@
 | 모두의 연구소: 풀잎스쿨 | [Homepage](https://modulabs.co.kr/apply-flip/) |
 | 우아한테크코스 | [Homepage](https://woowacourse.github.io) |
 | 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
+| Kernel360 | [Homepage](https://kernel360.co.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
