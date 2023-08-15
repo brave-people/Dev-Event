@@ -456,7 +456,7 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 스프린트 서울 | [sprintseoul.org](https://sprintseoul.org/), [채팅방](https://gitter.im/sprintseoul/community) |
+| 스프린트 서울 | [채팅방](https://gitter.im/sprintseoul/community) |
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
@@ -466,7 +466,6 @@
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) |
 | 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) |
-| CNCG Seoul | [cncg-kr.net](https://cncg-kr.net/) |
 | SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
 | FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
@@ -474,7 +473,6 @@
 | Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
 | Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
 | NextJS Korea | [facebook](https://www.facebook.com/groups/nestjs-kr) |
-| Django Girls Seoul | [djangogirls.org](https://djangogirls.org/seoul/) |
 | OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
