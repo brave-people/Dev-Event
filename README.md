@@ -327,6 +327,10 @@
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
+- __[Best of Data+AI Summit 2023](https://events.databricks.com/fy24q3-he-bestofdataaisummitkoreawebinar/registration)__
+  - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
+  - 주최: databricks
+  - 일시: 09. 06(수) 14:00 ~ 17:00
 - __[Ahnlab iSF 2023](https://aisf.co.kr/2023/)__
   - 분류: `오프라인`, `컨퍼런스`, `보안`
   - 주최: 안랩
