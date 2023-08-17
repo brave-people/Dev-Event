@@ -149,31 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[백엔드 | 프리온보딩 인턴십 8월](https://www.wanted.co.kr/events/pre_ob_be_6)__
-  - 분류: `온라인`, `무료`, `취업`, `교육`
-  - 주최: 원티드
-  - 접수: 07. 26(수) ~ 08. 16(수)
-
-- __[프론트엔드 | 프리온보딩 인턴십 8월](https://www.wanted.co.kr/events/pre_ob_fe_12)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 07. 26(수) ~ 08. 16(수)
-- __[한빛N MSA - #2 TDD](https://festa.io/events/3791)__
-  - 분류: `온라인`, `무료`, `테스트`
-  - 주최: 한빛N MSA
-  - 접수: 07. 28(금) ~ 08. 16(수)
-- __[AWS Step Functions를 이용하여 복잡한 API 쉽고 빠르게 만들기](https://pages.awscloud.com/kr-builders-step-function-webinar.html?trk=5e9d6608-881f-4235-9a2c-443525f882a9&sc_channel=el)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 08. 07(월) ~ 08. 16(수)
-- __[YOUTHCON'23](https://frost-witch-afb.notion.site/YOUTHCON-23-a026c94d997e46db9396283ed869a922)__
-  - 분류: `오프라인`, `무료`, `개발일반`
-  - 주최: 유스콘
-  - 접수: 08. 11(금) ~ 08. 16(수)
 - __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDG 대구
   - 접수: 07. 27(목) ~ 08. 17(목)
+  
 - __[개발자 물경력 위기 극복 노하우](https://megaptera-webinar.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=2023_03_webinar)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 메가테라
@@ -230,6 +210,10 @@
   - 분류: `오프라인`, `유료`, `커뮤니티`
   - 주최: UMC
   - 접수: 08. 16(수) ~ 08. 22(화)
+- __[무신사 시니어 개발자가 말하는 커리어 성장 노하우](https://docs.google.com/forms/d/1NCQ5Dekttg4xvui3Gyi77r1AURVS3RxMA1in63EGteM/viewform?edit_requested=true)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: 팀스파르타
+  - 접수: 08. 17(목) ~ 08. 22(화)
 - __[월간 닷넷 - 2023년 8월](https://onoffmix.com/event/279776)__
   - 분류: `오프라인`, `무료`, `.net`
   - 주최: 월간 닷넷
@@ -242,6 +226,10 @@
   - 분류: `오프라인`, `무료`, `웨비나`
   - 주최: Superb AI
   - 접수: 08. 10(목) ~ 08. 23(수)
+- __[디자인시스템 관심있는 개발자는 CVA(Class Variance Authority)를 한다.](https://festa.io/events/3900)__
+  - 분류: `오프라인`, `무료`, `프론트엔드`
+  - 주최: 모두의연구소
+  - 접수: 08. 17(목) ~ 08. 23(수)
 - __[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기](https://app.livestorm.co/naver-cloud/1)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
@@ -250,6 +238,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: 카카오뱅크
   - 접수: 08. 11(금) ~ 08. 24(목)
+- __[코드게이트 2023](https://codegate.org/)__
+  - 분류: `오프라인`, `무료`, `보안`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 24(목) ~ 08. 25(금)
 - __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
   - 분류: `교육`, `온라인`, `AI`
   - 주최: 모두의 연구소
@@ -266,10 +258,18 @@
   - 분류: `오프라인`, `온라인`, `AI`
   - 주최: 모두의 연구소
   - 일시: 08. 27(일) 16:00 ~ 17:30
+- __[10주 완성! 프로젝트 캠프 : 유니티(unity, 게임개발)](https://udemy.wjtb.co.kr/event/id/182?utm_medium=earned&utm_source=dev-event&utm_campaign=2308_unity&utm_content=unity&utm_term=230814)__
+  - 분류: `오프라인`, `온라인`, `AI`
+  - 주최: 유데미 x 웅진씽크빅
+  - 일시: 08. 07(월) ~ 08. 27(일)
 - __[JUMPIT TO BACK-END (2023 두번째 개취콘, 백앤드 개발자 이야기)](https://www.jumpit.co.kr/book-concert/22)__
   - 분류: `오프라인`, `온라인`, `BACK-END`
   - 주최: 점핏, 교보문고
   - 일시: 08. 27(일)
+- __[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기](https://festa.io/events/3899)__
+  - 분류: `무료`, `온라인`, `클라우드`
+  - 주최: 클라우드타임
+  - 접수: 08. 17(목) ~ 08. 28(월)
 - __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
@@ -347,6 +347,10 @@
   - 분류: `대회`, `무료`, `데이터`
   - 주최: 과학기술정보통신부
   - 일시: 07. 31(월) ~ 09. 11(월)
+- __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
+  - 분류: `무료`, `오프라인`, `리눅스`
+  - 주최: 한국 리눅스 커널 개발자 모임
+  - 접수: 08. 17(목) ~ 09. 13(토)
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `오프라인`, `MongoDB`
   - 주최: MongoDB
