@@ -149,19 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]](https://festa.io/events/3814)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: GDG 대구
-  - 접수: 07. 27(목) ~ 08. 17(목)
-  
-- __[개발자 물경력 위기 극복 노하우](https://megaptera-webinar.oopy.io/?utm_source=github_dev_event&utm_medium=social&utm_campaign=2023_03_webinar)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 메가테라
-  - 접수: 08. 14(월) ~ 08. 17(목)
 - __[I/O Extended Pangyo 2023](https://festa.io/events/3833)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG 판교
   - 접수: 08. 03(목) ~ 08. 18(금)
+
 - __[[GDG Campus Korea] Whatever you make - 6주 프로덕트 메이커 챌린지](https://festa.io/events/3733)__
   - 분류: `오프라인`, `모임`
   - 주최:  GDG Campus Korea
@@ -214,6 +206,10 @@
   - 분류: `오프라인`, `무료`, `커리어`
   - 주최: 팀스파르타
   - 접수: 08. 17(목) ~ 08. 22(화)
+- __[주니어 개발자 생존위기 극복 노하우 웨비나](https://seedwhale-webinar.oopy.io/webinar-b)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 메가테라
+  - 접수: 08. 18(금) ~ 08. 22(화)
 - __[월간 닷넷 - 2023년 8월](https://onoffmix.com/event/279776)__
   - 분류: `오프라인`, `무료`, `.net`
   - 주최: 월간 닷넷
@@ -274,10 +270,10 @@
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 08. 29(화) 19:30 ~ 21:30
-- __[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기](https://festa.io/events/3899)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 클라우드타입
-  - 일시: 08. 29(화) 14:00 ~ 15:00
+- __[Softeer Tech Meet-up](https://meetup.softeer.ai/)__
+  - 분류: `오프라인`, `무료`, `모바일`
+  - 주최: 현대자동차
+  - 접수: 08. 16(수) ~ 08. 29(화)
 - __[데이터 인사이트 세미나 2023](https://onoffmix.com/event/282144)__
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: 중앙대학교 HIKE 연구실
@@ -347,6 +343,10 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 09. 09(토) 10:00 ~ 17:40
+- __[AWS Builders Korea Program 클라우드 실습 A to Z](https://pages.awscloud.com/aws-builders-online-seminar-reg.html?trk=843ced49-7f38-4129-bc3b-5303a1238e67&sc_channel=em)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: AWS Korea
+  - 접수: 08, 18(금) ~ 09. 10(일)
 - __[DroidKnights 2023](https://festa.io/events/3635)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: DroidKnights Community
