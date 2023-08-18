@@ -290,7 +290,7 @@
   - 분류: `무료`, `오프라인`, `교육`
   - 주최: 안랩
   - 접수: 08. 03(목) ~ 08. 30(수)
-- __[한빛N MSA - #3 Code Review](https://cloud.withgoogle.com/next)__
+- __[한빛N MSA - #3 Code Review](https://festa.io/events/3819)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 한빛미디어
   - 접수: 08. 11(금) ~ 08. 30(목)
@@ -399,7 +399,7 @@
 - __[데이터야놀자 2023](https://datayanolja.kr/)__
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
-  - 일시: 10. 21(토)
+  - 일시: 10. 14(토)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
