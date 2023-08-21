@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-104-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-105-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -693,6 +693,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://www.youtube.com/c/todaycode"><img src="https://avatars.githubusercontent.com/u/1324021?v=4?s=100" width="100px;" alt="Joeun Park"/><br /><sub><b>Joeun Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=corazzon" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://zpxlffjrm.github.io"><img src="https://avatars.githubusercontent.com/u/53068121?v=4?s=100" width="100px;" alt="chanyoung song"/><br /><sub><b>chanyoung song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zpxlffjrm" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.ggingmin.com/"><img src="https://avatars.githubusercontent.com/u/24824279?v=4?s=100" width="100px;" alt="KYEONGMIN CHO"/><br /><sub><b>KYEONGMIN CHO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ggingmin" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/jphan32/"><img src="https://avatars.githubusercontent.com/u/7111986?v=4?s=100" width="100px;" alt="Sangjoon Han"/><br /><sub><b>Sangjoon Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jphan32" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
