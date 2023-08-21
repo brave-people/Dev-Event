@@ -149,43 +149,11 @@
 <br />
 
 ## 23년 08월
-- __[I/O Extended Pangyo 2023](https://festa.io/events/3833)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: GDG 판교
-  - 접수: 08. 03(목) ~ 08. 18(금)
-
-- __[[GDG Campus Korea] Whatever you make - 6주 프로덕트 메이커 챌린지](https://festa.io/events/3733)__
-  - 분류: `오프라인`, `모임`
-  - 주최:  GDG Campus Korea
-  - 접수: 08. 07(월) ~ 08. 18(금)
-- __[2023 제1회 철도 인공지능 경진대회](https://aifactory.space/competition/2511/discussion/504)__
-  - 분류: `대회`, `AI`
-  - 주최: 한국철도기술연구원
-  - 접수: 07. 17(월) ~ 08. 18(금)
-- __[제2회 통신망 안정성 확보를 위한 인공지능 해커톤](https://aifactory.space/competition/2513/discussion/508)__
-  - 분류: `대회`, `AI`
-  - 주최: ETRI, KT
-  - 접수: 07. 24(월) ~ 08. 18(금)
-- __[테크 리드로 자라기 with 곰코치, 꽌코치](https://blog.goorm.io/commit_11th/?utm_source=community&utm_medium=social&utm_campaign=commit&utm_content=github_dev_event)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 구름
-  - 접수: 08. 10(목) ~ 08. 18(금) 17:00
-- __[2023년 SW테스트 경진대회 호남권 참가자 모집](https://onoffmix.com/event/278047)__
-  - 분류: `무료`, `오프라인`, `테스트`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 15(화) ~ 08. 18(금)
-- __[네이버 AI RUSH 2023](https://campaign.naver.com/airush_2023/)__
-  - 분류: `대회`, `AI`
-  - 주최: 네이버
-  - 접수: 08. 01(화) ~ 08. 20(일)
-- __[Junction Asia 2023](https://asia.hackjunction.com/home/)__
-  - 분류: `오프라인`, `대회`
-  - 주최: 부산광역시
-  - 일시: 06. 28(수) ~ 08. 20(일)
 - __[제7회 삼성 보안 기술 포럼](https://research.samsung.com/sstf)__
   - 분류: `컨퍼런스`, `보안`
   - 주최: 삼성전자
   - 접수: 07. 17(월) ~ 08. 22(화)
+  
 - __[[CJ올리브네트웍스] 해커톤 프로젝트 AI / Data 과정](https://festa.io/events/3823)__
   - 분류: `해커톤`, `AI`
   - 주최: 서울ICT-CJ
@@ -310,6 +278,10 @@
   - 분류: `온라인`, `무료`,  `AI`
   - 주최: DEVOCEAN
   - 접수: 08. 01(화) ~ 08. 31(목)
+- __[웹에서 앱으로, 앱에서 앰비언트로 - 포스트 스마트폰 시대의 비즈니스](https://techtalk.oopy.io/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
+  - 분류: `오프라인`, `무료`,  `기술일반`
+  - 주최: 구름
+  - 접수: 08. 21(월) ~ 08. 31(목)
 
 <br />
 
@@ -327,6 +299,10 @@
   - 분류: `컨퍼런스`, `언리얼`, `오프라인`, `온라인`
   - 주최: 에픽게임즈
   - 일시: 08. 29(화) ~ 09. 01(금)
+- __[AWS 리/스타트 중급 1기 Associate 자격증 취득 과정](https://www.megazone.com/awsrestart/associate/)__
+  - 분류: `온라인`, `무료`, `교육`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 08. 21(월) ~ 09. 01(금)
 - __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
@@ -375,6 +351,10 @@
   - 분류: `오프라인`, `유료`, `GO`
   - 주최: Golang Korea
   - 접수: 08. 15(화) ~ 09. 15(금)
+- __[웹3 해커톤](https://festa.io/events/3890)__
+  - 분류: `오프라인`, `대회`, `웹3`
+  - 주최: Ludium
+  - 접수: 08. 21(월) ~ 09. 23(수)
 - __[제1회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236127/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국화학연구원
