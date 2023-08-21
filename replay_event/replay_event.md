@@ -5,9 +5,271 @@
 
 <h2> 바로가기 </h2>
 
+- [2023년](#-2023년-)
 - [2022년](#-2022년-)
 - [2021년](#-2021년-)
 - [2020년](#-2020년-)
+
+<br />
+<br />
+
+<!-- 
+- OKKY 세미나: https://www.youtube.com/playlist?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut
+- POP POP 터지는 API 세미나: https://www.youtube.com/playlist?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim
+- 매달 만나는 기술 이야기: https://www.youtube.com/playlist?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew
+
+삼성 테크토닉
+-->
+
+<!-- 
+
+<tr>
+  <td> 
+    <a href="">  </a> 
+  </td>
+  <td> 
+    <a href=""> 유튜브 </a> 
+  </td>
+  <td> 
+    <code>  </code> 
+  </td>
+  <td>  </td>
+  <td>  </td>
+</tr>
+
+-->
+
+<h2> 2023년 </h2>
+
+<table>
+  <tr>
+    <th style="text-align: center"> 행사명 </th>
+    <th style="text-align: center"> 다시보기 </th>
+    <th style="text-align: center"> 구분 </th>
+    <th style="text-align: center"> 주최/주관 </th>
+    <th style="text-align: center"> 일시 </th>
+  </tr>
+  <!-- 4월 -->
+  <tr>
+    <td> 
+      <a href="https://festa.io/events/3201"> Flutter Forward Extended Korea </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL6RQwUkx6VTRLPlCimOmv8UeLKC9FAlzf"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 앱 </code> 
+    </td>
+    <td> Flutter Seoul </td>
+    <td> 04. 01 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3"> SpringCamp 2023 </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3">유튜브  </a> 
+    </td>
+    <td> 
+      <code> 벡엔드 </code> 
+    </td>
+    <td> SpringCamp </td>
+    <td> 04. 22 </td>
+  </tr>
+<!-- 5월-->
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f"> kakao tech meet 1회 </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f"> 카카오 </a> 
+    </td>
+    <td> 
+      <code> AI </code> 
+    </td>
+    <td> 카카오 </td>
+    <td> 05. 11 </td>
+  </tr>
+<!-- 6월-->
+  <tr>
+    <td> 
+      <a href="https://makeit.nhncloud.com"> NHN Cloud make IT 2023 </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 클라우드 </code> 
+    </td>
+    <td> NHN Cloud </td>
+    <td> 06. 22 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://youtu.be/LQj9v57zuaw?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut"> OKKY 6월 세미나 | How To Work In Socar </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/LQj9v57zuaw?list=PLhSAACiXcoKIxl_lzk0u22hiXUY0f5yut"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 기술일반 </code> 
+    </td>
+    <td> OKKY </td>
+    <td> 06. 28 </td>
+  </tr>
+<!-- 7월 -->
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv"> 2023 CodeEngn Conference 19 </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLscYqoBID5Z4ZmgDyuAApOyDKkA0u8Cqv"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 보안 </code> 
+    </td>
+    <td> 코드엔진 </td>
+    <td> 07. 03 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 어도비 디렉터가 본 Generative AI의 과거, 현재 그리고 미래 </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/PknT8NhidaQ?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 인공지능 </code> 
+    </td>
+    <td> 모두팝 </td>
+    <td> 07. 04 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw"> React Native Webview를 사용해서 React로만 앱 만들기 </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/Ecg52wAlYus?list=PLX2fs3661XpNfRSZ9TD_xyQdegvtNDsdw"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 앱 </code> 
+    </td>
+    <td> AWSKRUG </td>
+    <td> 07. 12 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u"> 제2회 kakao tech meet </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 기술일반 </code> 
+    </td>
+    <td> 카카오 </td>
+    <td> 07. 18 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 블록체인과 AI가 만드는 스마트한 미래 </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/UA81qJz-Gt0?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> AI </code> 
+    </td>
+    <td> 모두팝 </td>
+    <td> 07. 18 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS"> 데보션 7월 Tech 세미나 | 다가오는 Automated AI 시대, 그 기반 기술과 적용사례  </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/75G1XiXHyew?list=PLxMQvxfkXLNmbZAB6THj_RQyCrc6Ok5eS"> 홈페이지 </a> 
+    </td>
+    <td> 
+      <code> AI </code> 
+    </td>
+    <td> DEVOCEAN </td>
+    <td> 07. 20 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/RdYsQ7HOQbI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 의사결정나무에서 부스팅까지 변천사 살펴보기 </a> </td>
+    <td> <a href="https://youtu.be/RdYsQ7HOQbI?list=PLv6H9ngYdJbKcGl2VrVBr8YAClPcVrrim"> 유튜브 </a> </td>
+    <td> <code> AI </code> </td>
+    <td> 모두팝 </td>
+    <td> 07. 25 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/cGkqvDfSMZo?list=PLudxIRsX4I3QHQJ41sU-jwcN7vB2_MTmW"> Microsoft의 이미지 생성 AI, Bing Image Creator </a> </td>
+    <td> <a href="https://youtu.be/cGkqvDfSMZo?list=PLudxIRsX4I3QHQJ41sU-jwcN7vB2_MTmW"> 유튜브 </a> </td>
+    <td> <code> AI </code> </td>
+    <td> INNOPOLIS AI </td>
+    <td> 07. 26 </td>
+  </tr>
+  <tr>
+    <td> <a href="https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew"> MLOps를 활용한 AI 서비스 개발 스토리 </a> </td>
+    <td> <a href="https://youtu.be/MA5A7Xqb-7U?list=PLgXGHBqgT2TtGi82mCZWuhMu-nQy301ew"> 유튜브 </a> </td>
+    <td> <code> AI </code> </td>
+    <td> 우아한형제들 </td>
+    <td> 07. 27 </td>
+  </tr>
+  <tr>
+    <td> <a href=""> 보아즈(BOAZ) 빅데이터 컨퍼런스 </a> </td>
+    <td> <a href="https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6"> 유튜브 </a> </td>
+    <td> <code> 빅데이터 </code> </td>
+    <td>  </td>
+    <td> 07. 29 </td>
+  </tr>
+  <tr>
+    <td> <a href=""> GopherCon Korea 2023 </a> </td>
+    <td>
+       <a href="https://youtu.be/WZthMW0BaNA?t=1322"> 유튜브1 </a><br />
+       <a href=""> 유튜브2 </a> 
+    </td>
+    <td> <code> Go </code> </td>
+    <td> Golang Korea </td>
+    <td> 08. 05 ~ 08. 06 </td>
+  </tr>
+</table>
+
+> :arrow_double_up:[Top](#-바로가기-)
+
+
+<!-- 
+  <tr>
+    <td> 
+      <a href="">  </a> 
+    </td>
+    <td> 
+      <a href="">  </a> 
+    </td>
+    <td> 
+      <code>  </code> 
+    </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+
+  <tr>
+    <td> 
+      <a href="">  </a> 
+    </td>
+    <td> 
+      <a href="">  </a> 
+    </td>
+    <td> 
+      <code>  </code> 
+    </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+-->
+
+
 
 <br />
 <br />
@@ -121,6 +383,32 @@
     <td> 06. 07 ~ 06. 11 </td>
   </tr>
   <tr>
+    <td> 
+      <a href="https://youtu.be/2zNYDTOLkzU?list=PL6RQwUkx6VTT49sWkCaWqb__6fEcc7AkH&t=1788"> Flutter I/O Extended Korea </a> 
+    </td>
+    <td> 
+      <a href="https://youtu.be/2zNYDTOLkzU?list=PL6RQwUkx6VTT49sWkCaWqb__6fEcc7AkH&t=1788"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 앱 </code> 
+    </td>
+    <td> Flutter Seoul </td>
+    <td> 06. 26 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0"> NHN Cloud make IT 2022 </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL42XJKPNDepZLj8ZtktFJ6MsF4IdhcQB0"> NHN Cloud </a> 
+    </td>
+    <td> 
+      <code> 클라우드 </code> 
+    </td>
+    <td> NHN Cloud </td>
+    <td> 06. 28 </td>
+  </tr>
+  <tr>
     <td> <a href="https://devocean.sk.com/events/view.do?id=12"> 깃허브 코파일럿(GitHub Copilot) 제품 데모와 로드맵 </a> </td>
     <td> <a href="https://devocean.sk.com/vlog/view.do?id=325&vcode=A03"> 홈페이지 </a> </td>
     <td> <code> Github </code> </td>
@@ -218,17 +506,6 @@
 <br />
 <br />
 
-<!-- 
-  <tr>
-    <td> <a href=""> 개발자 밋업 04.15 </a> </td>
-    <td> <a href="">  </a> </td>
-    <td> <code>  </code> </td>
-    <td>  </td>
-    <td>  </td>
-  </tr>
--->
-
-
 <h2> 2021년 </h2>
 <table>
   <tr>
@@ -265,6 +542,19 @@
     <td> <code> 개발일반 </code> </td>
     <td> OKKY </td>
     <td> 03. 06 </td>
+  </tr>
+  <tr>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg"> Flutter Day Extended Korea </a> 
+    </td>
+    <td> 
+      <a href="https://www.youtube.com/playlist?list=PL6RQwUkx6VTSmCR632XO0_cGVN7JjeMHg"> 유튜브 </a> 
+    </td>
+    <td> 
+      <code> 앱 </code> 
+    </td>
+    <td> Flutter Seoul </td>
+    <td> 04. 04 </td>
   </tr>
   <tr>
     <td> <a href="https://toss.im/slash-21"> Toss 개발자 컨퍼런스 | SLASH21 </a> </td>
