@@ -355,7 +355,7 @@
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
   - 일시: 09. 23(토)
-- __[웹3 해커톤](https://festa.io/events/3890)__
+- __[웹3 해커톤](https://ludium.world/views/I0WJPXWPH?groupId=G0Q4664D0B&postId=T3H2NKDR2)__
   - 분류: `오프라인`, `대회`, `웹3`
   - 주최: Ludium
   - 접수: 08. 21(월) ~ 09. 23(수)
