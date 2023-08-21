@@ -486,6 +486,7 @@
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
 | GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
+| GDG Incheon & Songdo with Flutter Songdo | [homepage](http://gdgincheon.com/), [instagram](https://www.instagram.com/gdg_songdo/), [facebook](https://www.facebook.com/groups/gdgsongdo/) |
 | Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
