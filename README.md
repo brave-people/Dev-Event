@@ -351,6 +351,10 @@
   - 분류: `오프라인`, `유료`, `GO`
   - 주최: Golang Korea
   - 접수: 08. 15(화) ~ 09. 15(금)
+- __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
+  - 분류: `오프라인`, `유료`, `컨퍼런스`
+  - 주최: GDG Songdo
+  - 일시: 09. 23(토)
 - __[웹3 해커톤](https://festa.io/events/3890)__
   - 분류: `오프라인`, `대회`, `웹3`
   - 주최: Ludium
