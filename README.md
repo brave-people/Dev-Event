@@ -343,6 +343,10 @@
   - 분류: `오프라인`, `MongoDB`
   - 주최: MongoDB
   - 일시: 09. 13(토) 10:00 ~ 17:40
+- __[한빛N MSA - #4 Copilot](https://festa.io/events/3923)__
+  - 분류: `유료`, `오프라인`, `AI`
+  - 주최: 한빛N MSA
+  - 접수: 08. 22(화) ~ 09. 13(토)
 - __[AI Summit Seoul](https://aisummit.co.kr/)__
   - 분류: `오프라인`, `AI`
   - 주최: DMK Global
@@ -355,6 +359,10 @@
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
   - 일시: 09. 23(토)
+- __[JNPMEDI 1st TechMeetup](https://festa.io/events/3918)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: JNPMEDI
+  - 접수: 08. 22(화) ~ 09. 23(토)
 - __[웹3 해커톤](https://ludium.world/views/I0WJPXWPH?groupId=G0Q4664D0B&postId=T3H2NKDR2)__
   - 분류: `오프라인`, `대회`, `웹3`
   - 주최: Ludium
