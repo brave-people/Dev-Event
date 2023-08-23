@@ -13,23 +13,9 @@
 </div>
 <br />
 
-<!-- pev web banner
-<br />
-<br />
-
-## 🎈 데브 이벤트 웹에서 만나요!
-
-<div align=center>
-<img src="./static/dev-event-new-web.png?raw=true">
-
-<br />
-<br />
-
-👉 [데브 이벤트 웹 바로가기](https://dev-event.vercel.app/events)
-
-// pev web banner -->
-
-<br />
+<a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
+<img src="./static/android_banner.png?raw=true">
+</a>
 
 <table>
 <tr>
