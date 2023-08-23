@@ -13,7 +13,9 @@
 </div>
 <br />
 
+<a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
 <img src="./static/android_banner.png?raw=true">
+</a>
 
 <table>
 <tr>
