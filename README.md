@@ -212,8 +212,8 @@
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 한국 SAFe 커뮤니티
   - 일시: 08. 07(월) ~ 08. 31(목)
-   __[Unity 인증 단체: 서울대학교 기반 XR 중심 메타버스 학회 XREAL 5기 리크루팅](https://www.xreal.info/recruiting/3)__
-  - 분류: `동아리`, `모임`, `XR`, `메타버스`
+- __[서울대학교 기반 XR 중심 메타버스 학회 XREAL 5기 리크루팅](https://www.xreal.info/recruiting/3)__
+  - 분류: `무료`, `모임`, `오프라인`, `XR`, `메타버스`
   - 주최: XREAL
   - 접수: 08. 22(화) ~ 08. 31(목)
 - __[Google Cloud Next](https://cloud.withgoogle.com/next)__
