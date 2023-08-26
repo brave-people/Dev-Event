@@ -240,7 +240,7 @@
   - 분류: `오프라인`, `무료`, `프론트엔드`
   - 주최: 원티드
   - 접수: 8. 16(수) ~ 08. 31(목)
-- __[프리온보딩 FE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_11)__
+- __[프리온보딩 BE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_11)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 원티드
   - 접수: 8. 16(수) ~ 08. 31(목)
