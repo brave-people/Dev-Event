@@ -135,43 +135,11 @@
 <br />
 
 ## 23년 08월
-- __[코드게이트 2023](https://codegate.org/)__
-  - 분류: `오프라인`, `무료`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 24(목) ~ 08. 25(금)
-
-- __[AI 첫 시작부터 논문 작성까지 눈높이에 맞춰 공부하세요!](https://festa.io/events/3815)__
-  - 분류: `교육`, `온라인`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 07. 27(목) ~ 08. 25(금)
-- __[C++ Korea 2023 격월 Meet-Up(8월)](https://festa.io/events/3821)__
-  - 분류: `오프라인`, `C++`
-  - 주최: C++ Korea
-  - 접수: 07. 27(목) ~ 08. 25(금)
-- __[MIND23 : 오늘도 멈추지 않는 IT인들](https://event-us.kr/sopt/event/67959)__
-  - 분류: `오프라인`, `컨퍼런스`, `모임`
-  - 주최: SPOT
-  - 접수: 07. 27(월) ~ 08. 26(토)
-- __[I/O Extended 2023 Incheon](https://festa.io/events/3780)__
-  - 분류: `오프라인`, `컨퍼런스`
-  - 주최: GDG INCHEON
-  - 일시: 08. 26(토) 13:00 ~ 19:00
-- __[금융도메인에서의 생성형 언어모델의 역할과 미래](https://festa.io/events/3886)__
-  - 분류: `오프라인`, `온라인`, `AI`
-  - 주최: 모두의 연구소
-  - 일시: 08. 27(일) 16:00 ~ 17:30
-- __[10주 완성! 프로젝트 캠프 : 유니티(unity, 게임개발)](https://udemy.wjtb.co.kr/event/id/182?utm_medium=earned&utm_source=dev-event&utm_campaign=2308_unity&utm_content=unity&utm_term=230814)__
-  - 분류: `오프라인`, `온라인`, `AI`
-  - 주최: 유데미 x 웅진씽크빅
-  - 일시: 08. 07(월) ~ 08. 27(일)
-- __[JUMPIT TO BACK-END (2023 두번째 개취콘, 백앤드 개발자 이야기)](https://www.jumpit.co.kr/book-concert/22)__
-  - 분류: `오프라인`, `온라인`, `BACK-END`
-  - 주최: 점핏, 교보문고
-  - 일시: 08. 27(일)
 - __[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기](https://festa.io/events/3899)__
   - 분류: `무료`, `온라인`, `클라우드`
   - 주최: 클라우드타임
   - 접수: 08. 17(목) ~ 08. 28(월)
+
 - __[2023년 5차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/282754)__
   - 분류: `무료`, `온라인`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
@@ -301,6 +269,10 @@
   - 분류: `대회`, `무료`, `데이터`
   - 주최: 과학기술정보통신부
   - 일시: 07. 31(월) ~ 09. 11(월)
+- __[OpenTRS: 프론트엔드 개발자라면 지금 바로 알아야 할 Front-End 취약점 극복 방안](httpshttps://event-us.kr/theori/event/69964?utm_source=github_dev_event&utm_medium=cardnews&utm_campaign=vasyqggayw)__
+  - 분류: `대회`, `무료`, `데이터`
+  - 주최: 티오리
+  - 접수: 08. 28(월) ~ 09. 11(월)
 - __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
   - 분류: `무료`, `오프라인`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
@@ -317,6 +289,10 @@
   - 분류: `온라인`, `대회`, `AI`
   - 주최: 농림축산식품부
   - 접수: 08. 24(목) ~ 09. 13(토)
+- __[Kakao Tech Meet #3](https://festa.io/events/3940)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 카카오
+  - 접수: 08. 28(월) ~ 09. 13(토)
 - __[AI Summit Seoul](https://aisummit.co.kr/)__
   - 분류: `오프라인`, `AI`
   - 주최: DMK Global
