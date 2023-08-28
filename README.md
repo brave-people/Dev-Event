@@ -176,6 +176,10 @@
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 한국 SAFe 커뮤니티
   - 일시: 08. 07(월) ~ 08. 31(목)
+- __[서울대학교 기반 XR 중심 메타버스 학회 XREAL 5기 리크루팅](https://www.xreal.info/recruiting/3)__
+  - 분류: `무료`, `모임`, `오프라인`, `XR`, `메타버스`
+  - 주최: XREAL
+  - 접수: 08. 22(화) ~ 08. 31(목)
 - __[Google Cloud Next](https://cloud.withgoogle.com/next)__
   - 분류: `오프라인`, `클라우드`
   - 주최: Google
@@ -204,7 +208,7 @@
   - 분류: `오프라인`, `무료`, `프론트엔드`
   - 주최: 원티드
   - 접수: 8. 16(수) ~ 08. 31(목)
-- __[프리온보딩 FE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_11)__
+- __[프리온보딩 BE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_11)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 원티드
   - 접수: 8. 16(수) ~ 08. 31(목)
