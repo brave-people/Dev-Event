@@ -274,7 +274,7 @@
   - 주최: 과학기술정보통신부
   - 일시: 07. 31(월) ~ 09. 11(월)
 - __[OpenTRS: 프론트엔드 개발자라면 지금 바로 알아야 할 Front-End 취약점 극복 방안](httpshttps://event-us.kr/theori/event/69964?utm_source=github_dev_event&utm_medium=cardnews&utm_campaign=vasyqggayw)__
-  - 분류: `대회`, `무료`, `데이터`
+  - 분류: `오프라인`, `무료`, `보안`, `프론트엔드`
   - 주최: 티오리
   - 접수: 08. 28(월) ~ 09. 11(월)
 - __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
