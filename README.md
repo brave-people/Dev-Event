@@ -135,15 +135,11 @@
 <br />
 
 ## 23년 08월
-- __[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기](https://festa.io/events/3899)__
-  - 분류: `무료`, `온라인`, `클라우드`
-  - 주최: 클라우드타임
-  - 접수: 08. 17(목) ~ 08. 28(월)
-
 - __[2023년 5차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/282754)__
   - 분류: `무료`, `온라인`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 접수: 08. 24(목) ~ 08. 29(화)
+  
 - __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
   - 분류: `교육`, `AI`
   - 주최: 모두의연구소
@@ -171,6 +167,10 @@
 - __[한빛N MSA - #3 Code Review](https://festa.io/events/3819)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 한빛미디어
+  - 접수: 08. 11(금) ~ 08. 30(목)
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/295065329/)__
+  - 분류: `오프라인`, `유료`, `게임`
+  - 주최: AWSKRUG
   - 접수: 08. 11(금) ~ 08. 30(목)
 - __[한국 SAFe 커뮤니티 8월 밋업](https://festa.io/events/3822)__
   - 분류: `온라인`, `무료`, `모임`
@@ -237,6 +237,10 @@
   - 분류: `오프라인`, `무료`, `커뮤니티`
   - 주최: 광전 IT
   - 일시: 08. 30(수) ~ 09. 01(금)
+- __[Prompter Day Seoul 2023 SKT 해커톤](https://www.prompterday.com/main)__
+  - 분류: `오프라인`, `무료`, `AI`, `대회`
+  - 주최: SKT
+  - 일시: 08. 16(수) ~ 09. 03(일)
 - __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
@@ -273,6 +277,10 @@
   - 분류: `컨퍼런스`, `오픈소스`
   - 주최: 우분투 한국커뮤니티
   - 일시: 09. 09(토) 10:00 ~ 17:40
+- __[머신러닝 입문자를 위한 9주 스터디](https://festa.io/events/3963)__
+  - 분류: `온라인`, `무료`, `AI`, `스터디`
+  - 주최: GDG Daejeon
+  - 접수: 08. 29(화) ~ 09. 09(토)
 - __[AWS Builders Korea Program 클라우드 실습 A to Z](https://pages.awscloud.com/aws-builders-online-seminar-reg.html?trk=843ced49-7f38-4129-bc3b-5303a1238e67&sc_channel=em)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS Korea
@@ -289,6 +297,10 @@
   - 분류: `오프라인`, `무료`, `보안`, `프론트엔드`
   - 주최: 티오리
   - 접수: 08. 28(월) ~ 09. 11(월)
+- __[2023 마이데이터 컨퍼런스](https://www.kdata.or.kr/mydata/www/board/notice_09/boardList.do)__
+  - 분류: `오프라인`, `무료`, `마이데이터`
+  - 주최: 과학기술정보통신부
+  - 일시: 08. 29(화) ~ 09. 11(월)
 - __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
   - 분류: `무료`, `오프라인`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
@@ -313,6 +325,10 @@
   - 분류: `오프라인`, `AI`
   - 주최: DMK Global
   - 일시: 09. 13(수) ~ 09. 14(목)
+- __[오픈 테크넷 서밋 2023](https://www.ddaily.co.kr/seminar/view?idx=273?utm_source=github_dev_event&utm_medium=okky&utm_camapaign=opentechnetsummit&utm_content=ownwebinar0829&utm_term=%EC%98%A4%ED%94%88%ED%85%8C%ED%81%AC%EB%84%B7%EC%84%9C%EB%B0%8B)__
+  - 분류: `오프라인`, `유료`, `오픈소스`
+  - 주최: 디지털 데일리
+  - 일시: 08. 29(화) ~ 09. 14(목)
 - __[Go To Daejeon 2023](https://festa.io/events/3890)__
   - 분류: `오프라인`, `유료`, `GO`
   - 주최: Golang Korea
@@ -341,11 +357,15 @@
 <br />
 
 ## 23년 10월
+- __[MEDICAL HACK 2023](https://unitysquare.co.kr/growwith/industrysummit)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 부산광역시
+  - 접수: 08. 18(금) ~ 10.02(월)
+
 - __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
   - 일시: 10. 05(목)
-
 - __[Feature Store Summit 2023](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `Feature Store` 
   - 주최: Hopsworks
