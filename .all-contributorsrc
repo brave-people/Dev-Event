@@ -933,6 +933,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ggingmin",
+      "name": "KYEONGMIN CHO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24824279?v=4",
+      "profile": "https://www.ggingmin.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jphan32",
+      "name": "Sangjoon Han",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7111986?v=4",
+      "profile": "https://www.linkedin.com/in/jphan32/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
