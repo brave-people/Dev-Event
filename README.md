@@ -135,27 +135,11 @@
 <br />
 
 ## 23년 08월
-- __[2023년 5차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/282754)__
-  - 분류: `무료`, `온라인`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 08. 24(목) ~ 08. 29(화)
-  
-- __[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석](https://festa.io/events/3810)__
-  - 분류: `교육`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 08. 29(화) 19:30 ~ 21:30
-- __[Softeer Tech Meet-up](https://meetup.softeer.ai/)__
-  - 분류: `오프라인`, `무료`, `모바일`
-  - 주최: 현대자동차
-  - 접수: 08. 16(수) ~ 08. 29(화)
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/295065329/)__
-  - 분류: `오프라인`, `무료`, `게임`
-  - 주최: AWSKRUG
-  - 접수: 08. 25(금) ~ 08. 29(화)
 - __[데이터 인사이트 세미나 2023](https://onoffmix.com/event/282144)__
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: 중앙대학교 HIKE 연구실
   - 접수: 08. 15(화) ~ 08. 30(토)
+
 - __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
   - 분류: `컨퍼런스`, `MongoDB`
   - 주최: MongoDB
@@ -249,6 +233,18 @@
   - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
   - 주최: databricks
   - 일시: 09. 06(수) 14:00 ~ 17:00
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/295755827/)__
+  - 분류: `유료`, `오프라인`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 08. 30(수) ~ 09. 06(수)
+- __[서울 R 미트업 (9월)](https://www.meetup.com/awskrug/events/295755827/)__
+  - 분류: `무료`, `오프라인`, `데이터`
+  - 주최: Seoul R Meetup
+  - 접수: 08. 30(수) ~ 09. 06(수)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/295729974/)__
+  - 분류: `유료`, `오프라인`, `클라우드`
+  - 주최: Seoul R Meetup
+  - 접수: 08. 30(수) ~ 09. 06(수)
 - __[Ahnlab iSF 2023](https://aisf.co.kr/2023/)__
   - 분류: `오프라인`, `컨퍼런스`, `보안`
   - 주최: 안랩
@@ -337,6 +333,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `블록체인`
   - 주최: 컴투스
   - 접수: 08. 07(월) ~ 09. 17(일)
+- __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 데이터독
+  - 접수: 08. 30(수) ~ 09. 21(목)
 - __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
@@ -357,10 +357,10 @@
 <br />
 
 ## 23년 10월
-- __[MEDICAL HACK 2023](https://unitysquare.co.kr/growwith/industrysummit)__
+- __[MEDICAL HACK 2023](https://cmit.pnuh.or.kr/TCF/cb/contents/view.do?menuIdx=47&id=18)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 부산광역시
-  - 접수: 08. 18(금) ~ 10.02(월)
+  - 접수: 08. 18(금) ~ 10. 02(월)
 
 - __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
   - 분류: `오프라인`, `유니티`
