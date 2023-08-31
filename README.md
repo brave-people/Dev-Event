@@ -135,31 +135,11 @@
 <br />
 
 ## 23년 08월
-- __[데이터 인사이트 세미나 2023](https://onoffmix.com/event/282144)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: 중앙대학교 HIKE 연구실
-  - 접수: 08. 15(화) ~ 08. 30(토)
-
-- __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
-  - 분류: `컨퍼런스`, `MongoDB`
-  - 주최: MongoDB
-  - 접수: 06. 27(화) ~ 08. 30(토)
-- __[17기 안랩샘아카데미 교육생 모집](https://www.momjobgo.com/board/stories/1975)__
-  - 분류: `무료`, `오프라인`, `교육`
-  - 주최: 안랩
-  - 접수: 08. 03(목) ~ 08. 30(수)
-- __[한빛N MSA - #3 Code Review](https://festa.io/events/3819)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: 한빛미디어
-  - 접수: 08. 11(금) ~ 08. 30(목)
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/295065329/)__
-  - 분류: `오프라인`, `유료`, `게임`
-  - 주최: AWSKRUG
-  - 접수: 08. 11(금) ~ 08. 30(목)
 - __[한국 SAFe 커뮤니티 8월 밋업](https://festa.io/events/3822)__
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 한국 SAFe 커뮤니티
   - 일시: 08. 07(월) ~ 08. 31(목)
+
 - __[서울대학교 기반 XR 중심 메타버스 학회 XREAL 5기 리크루팅](https://www.xreal.info/recruiting/3)__
   - 분류: `무료`, `모임`, `오프라인`, `XR`, `메타버스`
   - 주최: XREAL
@@ -325,10 +305,18 @@
   - 분류: `오프라인`, `무료`, `교육`, `블록체인`
   - 주최: 컴투스
   - 접수: 08. 07(월) ~ 09. 17(일)
+- __[Switch ON! Your Network 네트워크 과정 2기 모집](https://festa.io/events/3975)__
+  - 분류: `오프라인`, `무료`, `교육`, `네트워크`
+  - 주최: 서울 ICT
+  - 접수: 08. 31(목) ~ 09. 17(일)
 - __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 데이터독
   - 접수: 08. 30(수) ~ 09. 21(목)
+- __[DevOps에서 DevSecOps로: Application Security 관리 자동화](https://www.ddtube.co.kr/d2035/)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 디지털데일리
+  - 접수: 08. 31(목) ~ 09. 20(수)
 - __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
