@@ -134,51 +134,6 @@
 
 <br />
 
-## 23년 08월
-- __[한국 SAFe 커뮤니티 8월 밋업](https://festa.io/events/3822)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 한국 SAFe 커뮤니티
-  - 일시: 08. 07(월) ~ 08. 31(목)
-
-- __[서울대학교 기반 XR 중심 메타버스 학회 XREAL 5기 리크루팅](https://www.xreal.info/recruiting/3)__
-  - 분류: `무료`, `모임`, `오프라인`, `XR`, `메타버스`
-  - 주최: XREAL
-  - 접수: 08. 22(화) ~ 08. 31(목)
-- __[Google Cloud Next](https://cloud.withgoogle.com/next)__
-  - 분류: `오프라인`, `클라우드`
-  - 주최: Google
-  - 일시: 08. 29(화) ~ 08. 31(목)
-- __[2023년 표준프레임워크 컨트리뷰션](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1880)__
-  - 분류: `온라인`, `오픈소스`
-  - 주최: 오픈플랫폼개발자커뮤니티
-  - 일시: 04. 10(월) ~ 08. 31(목)
-- __[8월 Tech 세미나 - 업무 생산성 향상을 위한 생성형 AI 사용](https://devocean.sk.com/events/view.do?id=176)__
-  - 분류: `온라인`, `무료`,  `AI`
-  - 주최: DEVOCEAN
-  - 접수: 08. 01(화) ~ 08. 31(목)
-- __[웹에서 앱으로, 앱에서 앰비언트로 - 포스트 스마트폰 시대의 비즈니스](https://techtalk.oopy.io/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
-  - 분류: `오프라인`, `무료`,  `기술일반`
-  - 주최: 구름
-  - 접수: 08. 21(월) ~ 08. 31(목)
-- __[네오 해커톤 - 서울 Gas Station](https://hackathon.neo.org/station/seoul/)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 네오
-  - 접수: 08. 23(수) ~ 08. 31(목)
-- __[MWU KOREA AWARD 2023](http://www.unitysquare.co.kr/madewith/mwu)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 유니티
-  - 접수: 07. 01(토) ~ 08. 31(목)
-- __[프리온보딩 FE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_fe_13)__
-  - 분류: `오프라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 8. 16(수) ~ 08. 31(목)
-- __[프리온보딩 BE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_11)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 8. 16(수) ~ 08. 31(목)
-
-<br />
-
 ## 23년 09월
 - __[소주톤 : 얼레벌레바캉스](https://sojuton.vercel.app/)__
   - 분류: `오프라인`, `유료`, `커뮤니티`
@@ -309,10 +264,18 @@
   - 분류: `오프라인`, `무료`, `교육`, `네트워크`
   - 주최: 서울 ICT
   - 접수: 08. 31(목) ~ 09. 17(일)
+- __[AWSKRUG 데이터모임](https://www.meetup.com/ko-KR/awskrug/events/295604795/)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 09 .01(금) ~ 09. 20(수)
 - __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 데이터독
   - 접수: 08. 30(수) ~ 09. 21(목)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/ko-KR/awskrug/events/295708787/)__
+  - 분류: `온라인`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 09 .01(금) ~ 09. 21(목)
 - __[DevOps에서 DevSecOps로: Application Security 관리 자동화](https://www.ddtube.co.kr/d2035/)__
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: 디지털데일리
@@ -362,6 +325,10 @@
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
   - 일시: 10. 14(토)
+- __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `데이터` 
+  - 주최: NH 투자증권
+  - 일시: 09. 04(토) ~ 10. 16()
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
