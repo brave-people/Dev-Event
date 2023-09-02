@@ -328,7 +328,7 @@
 - __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `데이터` 
   - 주최: NH 투자증권
-  - 일시: 09. 04(토) ~ 10. 16()
+  - 일시: 09. 04(월) ~ 10. 16(월)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
