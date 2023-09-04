@@ -135,35 +135,15 @@
 <br />
 
 ## 23년 09월
-- __[소주톤 : 얼레벌레바캉스](https://sojuton.vercel.app/)__
-  - 분류: `오프라인`, `유료`, `커뮤니티`
-  - 주최: 소주톤
-  - 접수: 08. 14(월) ~ 09. 01(금)
-  
-- __[I/O Extended 2023 Cloud Busan & Busan](https://festa.io/events/3820)__
-  - 분류: `컨퍼런스`, `클라우드`, `오프라인`
-  - 주최: GDG Cloud Busan
-  - 접수: 07. 31(월) ~ 09. 01(금)
-- __[Unreal Fest 2023 Seoul](https://epiclounge.co.kr/unrealfest.php)__
-  - 분류: `컨퍼런스`, `언리얼`, `오프라인`, `온라인`
-  - 주최: 에픽게임즈
-  - 일시: 08. 29(화) ~ 09. 01(금)
-- __[AWS 리/스타트 중급 1기 Associate 자격증 취득 과정](https://www.megazone.com/awsrestart/associate/)__
-  - 분류: `온라인`, `무료`, `교육`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 08. 21(월) ~ 09. 01(금)
-- __[광주 전남 개발자 대회](https://gjit.kr/)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: 광전 IT
-  - 일시: 08. 30(수) ~ 09. 01(금)
-- __[Prompter Day Seoul 2023 SKT 해커톤](https://www.prompterday.com/main)__
-  - 분류: `오프라인`, `무료`, `AI`, `대회`
-  - 주최: SKT
-  - 일시: 08. 16(수) ~ 09. 03(일)
 - __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
   - 분류: `교육`, `iOS`
   - 주최: Apple 디벨로퍼 아카데미
   - 일시: 08. 04(금) ~ 09. 04(월)
+
+- __[애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://modulabs.im/popdetail/64ef2d92e07987cc2d2348b6)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 모두의 연구소
+  - 접수: 09. 04(월) 09. 05(화)
 - __[Best of Data+AI Summit 2023](https://events.databricks.com/fy24q3-he-bestofdataaisummitkoreawebinar/registration)__
   - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
   - 주최: databricks
@@ -244,6 +224,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 카카오
   - 접수: 08. 28(월) ~ 09. 13(토)
+- __[부스트캠프 AI Tech 6기 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20009497)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 커넥츠재단
+  - 접수: 09. 04(월) ~ 09. 14(목)
 - __[AI Summit Seoul](https://aisummit.co.kr/)__
   - 분류: `오프라인`, `AI`
   - 주최: DMK Global
@@ -267,7 +251,11 @@
 - __[AWSKRUG 데이터모임](https://www.meetup.com/ko-KR/awskrug/events/295604795/)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: AWSKRUG
-  - 접수: 09 .01(금) ~ 09. 20(수)
+  - 접수: 09. 01(금) ~ 09. 20(수)
+- __[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임](https://festa.io/events/3980)__
+  - 분류: `오프라인`, `유료`, `스터디`
+  - 주최: 코딩의 신
+  - 접수: 09. 01(금) ~ 09. 21(목)
 - __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 데이터독
