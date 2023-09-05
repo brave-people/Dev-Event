@@ -135,15 +135,11 @@
 <br />
 
 ## 23년 09월
-- __[애플 디벨로퍼 아카데미 모집 Batch 2](https://developeracademy.postech.ac.kr/)__
-  - 분류: `교육`, `iOS`
-  - 주최: Apple 디벨로퍼 아카데미
-  - 일시: 08. 04(금) ~ 09. 04(월)
-
 - __[애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://modulabs.im/popdetail/64ef2d92e07987cc2d2348b6)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 모두의 연구소
   - 접수: 09. 04(월) 09. 05(화)
+
 - __[Best of Data+AI Summit 2023](https://events.databricks.com/fy24q3-he-bestofdataaisummitkoreawebinar/registration)__
   - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
   - 주최: databricks
@@ -164,6 +160,14 @@
   - 분류: `오프라인`, `컨퍼런스`, `보안`
   - 주최: 안랩
   - 일시: 08. 11(금) ~ 09. 07(목)
+- __[NE(O)RDINARY DEMODAY](https://event-us.kr/neordinary/event/68943)__
+  - 분류: `오프라인`, `무료`, `컨퍼런스`, `모임`
+  - 주최: 너디너리
+  - 일시: 08. 14(월) ~ 09. 07(목)
+- __[생활코딩과 함께하는 원데이 특강 - Web 개발 입문](https://festa.io/events/3986)__
+  - 분류: `오프라인`, `무료`, `프론트엔드`
+  - 주최: 생활코딩
+  - 일시: 09. 05(화) ~ 09. 08(금)
 - __[2023 K-ICT WEEK in BUSAN](https://www.ictweek.kr/ko/)__
   - 분류: `오프라인`, `무료`, `ICT`, `AI`, `클라우드`
   - 주최: 과학기술정보통신부
