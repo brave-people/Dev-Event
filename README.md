@@ -244,6 +244,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `블록체인`
   - 주최: 컴투스
   - 접수: 08. 07(월) ~ 09. 17(일)
+- __[Unity Education Day 2023](https://unitysquare.co.kr/event/communityevent/view?id=43)__
+  - 분류: `오프라인`, `무료`, `Unity`, `온라인`
+  - 주최: Unity
+  - 접수: 09. 15(금)
 - __[Switch ON! Your Network 네트워크 과정 2기 모집](https://festa.io/events/3975)__
   - 분류: `오프라인`, `무료`, `교육`, `네트워크`
   - 주최: 서울 ICT
