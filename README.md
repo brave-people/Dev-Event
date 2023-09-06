@@ -14,6 +14,7 @@
    문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
 <br />
+<br />
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
