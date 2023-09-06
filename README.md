@@ -7,42 +7,34 @@
 ![img](https://github.com/brave-people/Dev-Event/blob/master/static/title-v3-lg.png?raw=true)
 
 </div>
+
 <br />
+
 <div align="right">
    문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
 <br />
 
-<a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
-<img src="./static/android_banner.png?raw=true">
-</a>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
+    <img src="./static/display_banner/event.png?raw=true" width="84%">
+    </a>
+</p>
 
-<table>
-<tr>
-  <td valign="top" width="50%">
+<p align="center">
     <a href="https://dev-event.vercel.app/events">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner5.png?raw=true" align="left" style="width: 98%" />
+      <img src="./static/display_banner/web.png?raw=true" width="21%" />
     </a>
-  </td>
-  <td valign="top" width="50%">
+    <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
+      <img src="./static/display_banner/android.png?raw=true" width="21%" />
+    </a>
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner1.png?raw=true" align="left" style="width: 98%" />
+      <img src="./static/display_banner/email.png?raw=true" width="21%" />
     </a>
-  </td>
-</tr>
-<tr>
-  <td valign="top" width="50%">
-    <a href="https://github.com/brave-people/Dev-Event-Android">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner2.png?raw=true" align="left" style="width: 98%" />
-    </a>
-  </td>
-  <td valign="top" width="50%">
     <a href="https://github.com/brave-people/Dev-Event#contributors-">
-      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/banner/banner3.png?raw=true" align="left" style="width: 98%" />
+      <img src="./static/display_banner/contributors.png?raw=true" width="21%" />
     </a>
-  </td>
-</tr>
-</table>  
+</p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
 
