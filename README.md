@@ -346,6 +346,11 @@
   - 주최: 삼성전자
   - 일시: 11. 14(화) ~ 11. 15(수)
 
+- __[.NET Conf 2023](https://www.dotnetconf.net/)__
+  - 분류: `온라인`, `컨퍼런스`
+  - 주최: 마이크로소프트
+  - 일시: 11. 15(수) ~ 11. 16(목)
+
 - __[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)__
   - 분류: `온라인`, `컨퍼런스`
   - 주최: 마이크로소프트
