@@ -8,8 +8,6 @@
 
 </div>
 
-<br />
-
 <div align="right">
    문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
