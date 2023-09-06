@@ -135,15 +135,11 @@
 <br />
 
 ## 23년 09월
-- __[애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼](https://modulabs.im/popdetail/64ef2d92e07987cc2d2348b6)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 모두의 연구소
-  - 접수: 09. 04(월) 09. 05(화)
-
 - __[Best of Data+AI Summit 2023](https://events.databricks.com/fy24q3-he-bestofdataaisummitkoreawebinar/registration)__
   - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
   - 주최: databricks
   - 일시: 09. 06(수) 14:00 ~ 17:00
+
 - __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/295755827/)__
   - 분류: `유료`, `오프라인`, `프론트엔드`
   - 주최: AWSKRUG
@@ -256,6 +252,14 @@
   - 분류: `오프라인`, `무료`, `교육`, `네트워크`
   - 주최: 서울 ICT
   - 접수: 08. 31(목) ~ 09. 17(일)
+- __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 오라클
+  - 접수: 09. 06(수) ~ 09. 20(수)
+- __[17회 국제 시큐리티 컨퍼런스](https://www.isecconference.org/kor/intro01.html)__
+  - 분류: `오프라인`, `유료`, `보안`
+  - 주최: 한국인터넷진흥원
+  - 일시: 09. 19(화) ~ 09. 20(수)
 - __[AWSKRUG 데이터모임](https://www.meetup.com/ko-KR/awskrug/events/295604795/)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -325,6 +329,10 @@
   - 분류: `온라인`, `무료`, `대회`, `데이터` 
   - 주최: NH 투자증권
   - 일시: 09. 04(월) ~ 10. 16(월)
+- __[KOREA METAVERSE FESTIVAL](https://www.kmfexpo.com/)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 일시: 10. 16(월) ~ 10. 18(수)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
@@ -342,6 +350,10 @@
   - 주최: Github
   - 일시: 11. 08(수) ~ 11. 09(목)
 
+- __[SDC23 Korea](https://www.sdc-korea.com/)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 삼성전자
+  - 일시: 11. 14(화) ~ 11. 15(수)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
