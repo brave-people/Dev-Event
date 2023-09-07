@@ -126,27 +126,11 @@
 <br />
 
 ## 23년 09월
-- __[Best of Data+AI Summit 2023](https://events.databricks.com/fy24q3-he-bestofdataaisummitkoreawebinar/registration)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`, `클라우드`
-  - 주최: databricks
-  - 일시: 09. 06(수) 14:00 ~ 17:00
-
-- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/295755827/)__
-  - 분류: `유료`, `오프라인`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 08. 30(수) ~ 09. 06(수)
-- __[서울 R 미트업 (9월)](https://www.meetup.com/awskrug/events/295755827/)__
-  - 분류: `무료`, `오프라인`, `데이터`
-  - 주최: Seoul R Meetup
-  - 접수: 08. 30(수) ~ 09. 06(수)
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/295729974/)__
-  - 분류: `유료`, `오프라인`, `클라우드`
-  - 주최: Seoul R Meetup
-  - 접수: 08. 30(수) ~ 09. 06(수)
 - __[Ahnlab iSF 2023](https://aisf.co.kr/2023/)__
   - 분류: `오프라인`, `컨퍼런스`, `보안`
   - 주최: 안랩
   - 일시: 08. 11(금) ~ 09. 07(목)
+
 - __[NE(O)RDINARY DEMODAY](https://event-us.kr/neordinary/event/68943)__
   - 분류: `오프라인`, `무료`, `컨퍼런스`, `모임`
   - 주최: 너디너리
@@ -195,6 +179,10 @@
   - 분류: `오프라인`, `무료`, `마이데이터`
   - 주최: 과학기술정보통신부
   - 일시: 08. 29(화) ~ 09. 11(월)
+- __[Apple Event Watch Party](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/295819810/)__
+  - 분류: `온라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 09. 07(목) ~ 09. 12(화)
 - __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
   - 분류: `무료`, `오프라인`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
@@ -243,6 +231,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `네트워크`
   - 주최: 서울 ICT
   - 접수: 08. 31(목) ~ 09. 17(일)
+- __[NCUC 제 3회 Online MeetUp](https://www.meetup.com/ko-KR/navercloud-user-community/events/295793299/)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: NaverCloud User Community
+  - 접수: 08. 31(목) ~ 09. 19(화)
 - __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 오라클
@@ -271,6 +263,10 @@
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: 디지털데일리
   - 접수: 08. 31(목) ~ 09. 20(수)
+- __[Charming Swift: 스유가 왔스유~](https://festa.io/events/3898)__
+  - 분류: `오프라인`, `유료`, `iOS`
+  - 주최: Charming Swift
+  - 접수: 09. 07(목) ~ 09. 22(금)
 - __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
@@ -324,6 +320,10 @@
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 10. 16(월) ~ 10. 18(수)
+- __[AI 첫시작부터 논문까지, 내 눈높이에 맞춰 배우세요](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 아이펠
+  - 접수: 09. 07(목) ~ 10. 20(금)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
