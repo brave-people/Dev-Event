@@ -127,43 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[제10회 IT 커뮤니티 연합 해커톤, UNITHON 10TH](https://unit.center/unithon)__
-  - 분류: `무료`, `오프라인`, `해커톤`
-  - 주최: UNIT
-  - 접수: 09. 08(금) ~ 09. 17(일)
-
-- __[생활코딩과 함께하는 원데이 특강 - Web 개발 입문](https://festa.io/events/3986)__
-  - 분류: `오프라인`, `무료`, `프론트엔드`
-  - 주최: 생활코딩
-  - 일시: 09. 05(화) ~ 09. 08(금)
-- __[2023 K-ICT WEEK in BUSAN](https://www.ictweek.kr/ko/)__
-  - 분류: `오프라인`, `무료`, `ICT`, `AI`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 일시: 09. 06(수) ~ 09. 08(금)
-- __[네모 2023](https://nemo.kakaomobility.com/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 카카오 모빌리티
-  - 접수: 08. 24(목) ~ 09. 07(목)
-- __[SEF2023(소프트웨어 교육 페스티벌)](https://sef.connect.or.kr/2023)__
-  - 분류: `온라인`, `교육`, `컨퍼런스`
-  - 주최: 네이버 커넥트재단
-  - 일시: 09. 06(수) ~ 09. 08(금)
-- __[UbuCon Korea 2023 발표자](https://2023.ubuntu-kr.org/ko/)__
-  - 분류: `컨퍼런스`, `오픈소스`
-  - 주최: 우분투 한국커뮤니티
-  - 일시: 09. 09(토) 10:00 ~ 17:40
-- __[머신러닝 입문자를 위한 9주 스터디](https://festa.io/events/3963)__
-  - 분류: `온라인`, `무료`, `AI`, `스터디`
-  - 주최: GDG Daejeon
-  - 접수: 08. 29(화) ~ 09. 09(토)
-- __[AWS Builders Korea Program 클라우드 실습 A to Z](https://pages.awscloud.com/aws-builders-online-seminar-reg.html?trk=843ced49-7f38-4129-bc3b-5303a1238e67&sc_channel=em)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: AWS Korea
-  - 접수: 08, 18(금) ~ 09. 10(일)
 - __[DroidKnights 2023](https://festa.io/events/3635)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: DroidKnights Community
   - 일시: 08. 11(금) ~ 09. 11(월)
+
 - __[국내 최대 규모 데이터 분석 경진대회 2023 빅콘테스트](https://www.bigcontest.or.kr/points/data.php)__
   - 분류: `대회`, `무료`, `데이터`
   - 주최: 과학기술정보통신부
@@ -200,6 +168,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 카카오
   - 접수: 08. 28(월) ~ 09. 13(토)
+- __[Trino KR meetup](https://www.meetup.com/ko-KR/trino-kr/events/295576745/)__
+  - 분류: `오프라인`, `무료`, `데이터`
+  - 주최: SKT
+  - 일시: 09. 13(토) 19:00 ~ 21:00
 - __[부스트캠프 AI Tech 6기 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20009497)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 커넥츠재단
@@ -220,6 +192,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `블록체인`
   - 주최: 컴투스
   - 접수: 08. 07(월) ~ 09. 17(일)
+- __[제10회 IT 커뮤니티 연합 해커톤, UNITHON 10TH](https://unit.center/unithon)__
+  - 분류: `무료`, `오프라인`, `해커톤`
+  - 주최: UNIT
+  - 접수: 09. 08(금) ~ 09. 17(일)
 - __[Unity Education Day 2023](https://unitysquare.co.kr/event/communityevent/view?id=43)__
   - 분류: `오프라인`, `온라인`, `무료`, `Unity`
   - 주최: Unity
@@ -244,6 +220,10 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 09. 01(금) ~ 09. 20(수)
+- __[In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://devocean.sk.com/events/view.do?id=178)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: DEVOCEAN
+  - 접수: 09. 11(월) ~ 09. 20(수)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임](https://festa.io/events/3980)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
@@ -280,6 +260,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국화학연구원
   - 접수: 08. 07(월) ~ 09. 25(월)
+- __[D:CHAMPS 개발자 경진대회](https://www.jobda.im/event/dchamps2309)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 잡다
+  - 일시: 09. 01(금) ~ 09. 27(수)
 
 <br />
 
