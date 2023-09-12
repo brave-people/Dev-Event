@@ -197,9 +197,9 @@
   - 주최: NaverCloud User Community
   - 접수: 08. 31(목) ~ 09. 19(화)
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/295997505/)__
-  - 분류: `유료`, `오프라인`, `AI`
+  - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 08. 30(수) ~ 09. 06(수)
+  - 접수: 09. 12(화) ~ 09. 19(화)
 - __[생성형 AI와 오픈데이터](https://onoffmix.com/event/284533)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오픈데이터포럼
