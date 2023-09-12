@@ -127,27 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[DroidKnights 2023](https://festa.io/events/3635)__
-  - 분류: `오프라인`, `유료`, `안드로이드`
-  - 주최: DroidKnights Community
-  - 일시: 08. 11(금) ~ 09. 11(월)
-
-- __[국내 최대 규모 데이터 분석 경진대회 2023 빅콘테스트](https://www.bigcontest.or.kr/points/data.php)__
-  - 분류: `대회`, `무료`, `데이터`
-  - 주최: 과학기술정보통신부
-  - 일시: 07. 31(월) ~ 09. 11(월)
-- __[OpenTRS: 프론트엔드 개발자라면 지금 바로 알아야 할 Front-End 취약점 극복 방안](https://event-us.kr/theori/event/69964?utm_source=github_dev_event&utm_medium=cardnews&utm_campaign=vasyqggayw)__
-  - 분류: `오프라인`, `무료`, `보안`, `프론트엔드`
-  - 주최: 티오리
-  - 접수: 08. 28(월) ~ 09. 11(월)
-- __[2023 마이데이터 컨퍼런스](https://www.kdata.or.kr/mydata/www/board/notice_09/boardList.do)__
-  - 분류: `오프라인`, `무료`, `마이데이터`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 29(화) ~ 09. 11(월)
 - __[Apple Event Watch Party](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/295819810/)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 09. 07(목) ~ 09. 12(화)
+
 - __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
   - 분류: `무료`, `오프라인`, `리눅스`
   - 주최: 한국 리눅스 커널 개발자 모임
@@ -204,10 +188,22 @@
   - 분류: `오프라인`, `무료`, `교육`, `네트워크`
   - 주최: 서울 ICT
   - 접수: 08. 31(목) ~ 09. 17(일)
+- __[[구름 COMMIT] 관찰 가능성을 찾아 떠나는 SRE의 여정](https://blog.goorm.io/commit_12th/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 09. 11(월) ~ 09. 18(월)
 - __[NCUC 제 3회 Online MeetUp](https://www.meetup.com/ko-KR/navercloud-user-community/events/295793299/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 08. 31(목) ~ 09. 19(화)
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/295997505/)__
+  - 분류: `유료`, `오프라인`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 08. 30(수) ~ 09. 06(수)
+- __[생성형 AI와 오픈데이터](https://onoffmix.com/event/284533)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 오픈데이터포럼
+  - 접수: 09. 12(화) ~ 09. 19(화)
 - __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 오라클
@@ -264,6 +260,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 잡다
   - 일시: 09. 01(금) ~ 09. 27(수)
+- __[WASSUP 이스트소프트 AI 모델 개발자 1기 모집](https://estfamily.career.greetinghr.com/o/88070)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 이스트소프트
+  - 접수: 09. 12(화) ~ 09. 27(수)
 
 <br />
 
