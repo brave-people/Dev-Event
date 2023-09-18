@@ -127,71 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[Apple Event Watch Party](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/295819810/)__
-  - 분류: `온라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 09. 07(목) ~ 09. 12(화)
-
-- __[제8회 한국 리눅스 커널 개발자 모임](https://festa.io/events/3901)__
-  - 분류: `무료`, `오프라인`, `리눅스`
-  - 주최: 한국 리눅스 커널 개발자 모임
-  - 접수: 08. 17(목) ~ 09. 13(수)
-- __[MongoDB.local Seoul](https://events.mongodb.com/mongodb-local-seoul/MKTG)__
-  - 분류: `오프라인`, `MongoDB`
-  - 주최: MongoDB
-  - 일시: 09. 13(수) 10:00 ~ 17:40
-- __[한빛N MSA - #4 Copilot](https://festa.io/events/3923)__
-  - 분류: `유료`, `오프라인`, `AI`
-  - 주최: 한빛N MSA
-  - 접수: 08. 22(화) ~ 09. 13(수)
-- __[2023 스마트농업 AI 경진대회](https://saaicontest.com/)__
-  - 분류: `온라인`, `대회`, `AI`
-  - 주최: 농림축산식품부
-  - 접수: 08. 24(목) ~ 09. 13(수)
-- __[Kakao Tech Meet #3](https://festa.io/events/3940)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 카카오
-  - 접수: 08. 28(월) ~ 09. 13(수)
-- __[Trino KR meetup](https://www.meetup.com/ko-KR/trino-kr/events/295576745/)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: SKT
-  - 일시: 09. 13(수) 19:00 ~ 21:00
-- __[부스트캠프 AI Tech 6기 모집](https://apply.connect.or.kr/connect/applyDetail?annoId=20009497)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 커넥츠재단
-  - 접수: 09. 04(월) ~ 09. 14(목)
-- __[AI Summit Seoul](https://aisummit.co.kr/)__
-  - 분류: `오프라인`, `AI`
-  - 주최: DMK Global
-  - 일시: 09. 13(수) ~ 09. 14(목)
-- __[오픈 테크넷 서밋 2023](https://www.ddaily.co.kr/seminar/view?idx=273?utm_source=github_dev_event&utm_medium=okky&utm_camapaign=opentechnetsummit&utm_content=ownwebinar0829&utm_term=%EC%98%A4%ED%94%88%ED%85%8C%ED%81%AC%EB%84%B7%EC%84%9C%EB%B0%8B)__
-  - 분류: `오프라인`, `유료`, `오픈소스`
-  - 주최: 디지털 데일리
-  - 일시: 08. 29(화) ~ 09. 14(목)
-- __[Go To Daejeon 2023](https://festa.io/events/3890)__
-  - 분류: `오프라인`, `유료`, `GO`
-  - 주최: Golang Korea
-  - 접수: 08. 15(화) ~ 09. 15(금)
-- __[컴투스 블록체인과 게임 서버 캠프](https://festa.io/events/3933)__
-  - 분류: `오프라인`, `무료`, `교육`, `블록체인`
-  - 주최: 컴투스
-  - 접수: 08. 07(월) ~ 09. 17(일)
-- __[제10회 IT 커뮤니티 연합 해커톤, UNITHON 10TH](https://unit.center/unithon)__
-  - 분류: `무료`, `오프라인`, `해커톤`
-  - 주최: UNIT
-  - 접수: 09. 08(금) ~ 09. 17(일)
-- __[Unity Education Day 2023](https://unitysquare.co.kr/event/communityevent/view?id=43)__
-  - 분류: `오프라인`, `온라인`, `무료`, `Unity`
-  - 주최: Unity
-  - 일시: 09. 15(금) 10:00 ~ 17:30
-- __[Switch ON! Your Network 네트워크 과정 2기 모집](https://festa.io/events/3975)__
-  - 분류: `오프라인`, `무료`, `교육`, `네트워크`
-  - 주최: 서울 ICT
-  - 접수: 08. 31(목) ~ 09. 17(일)
 - __[[구름 COMMIT] 관찰 가능성을 찾아 떠나는 SRE의 여정](https://blog.goorm.io/commit_12th/)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 구름
   - 접수: 09. 11(월) ~ 09. 18(월)
+
 - __[NCUC 제 3회 Online MeetUp](https://www.meetup.com/ko-KR/navercloud-user-community/events/295793299/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
@@ -204,6 +144,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오픈데이터포럼
   - 접수: 09. 12(화) ~ 09. 19(화)
+- __[관찰 가능성을 찾아 떠나는 SRE의 여정](https://blog.goorm.io/commit_12th/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
+  - 분류: `온라인`, `오프라인`, `무료`, `SRE`
+  - 주최: 구름
+  - 접수: 09. 18(월) ~ 09. 19(화)
+- __[현직자에게 듣는 리얼 개발자의 하루](https://yagom.net/courses/techcast-16/)__
+  - 분류: `온라인`, `무료`, `iOS`
+  - 주최: 야곰
+  - 일시: 09. 19(화) 20:00 ~ 22:00
 - __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 오라클
@@ -220,6 +168,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: DEVOCEAN
   - 접수: 09. 11(월) ~ 09. 20(수)
+- __[DevOps에서 DevSecOps로: Application Security 관리 자동화](https://www.ddtube.co.kr/d2035/)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 디지털데일리
+  - 접수: 08. 31(목) ~ 09. 20(수)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임](https://festa.io/events/3980)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
@@ -231,11 +183,7 @@
 - __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/ko-KR/awskrug/events/295708787/)__
   - 분류: `온라인`, `유료`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 09 .01(금) ~ 09. 21(목)
-- __[DevOps에서 DevSecOps로: Application Security 관리 자동화](https://www.ddtube.co.kr/d2035/)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 디지털데일리
-  - 접수: 08. 31(목) ~ 09. 20(수)
+  - 접수: 09. 01(금) ~ 09. 21(목)
 - __[Charming Swift: 스유가 왔스유~](https://festa.io/events/3898)__
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Charming Swift
@@ -252,6 +200,10 @@
   - 분류: `오프라인`, `대회`, `웹3`
   - 주최: Ludium
   - 접수: 08. 21(월) ~ 09. 23(수)
+- __[제1회 신약개발 AI 경진대회](https://festa.io/events/4031)__
+  - 분류: `오프라인`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 09. 18(월) ~ 09. 25(월)
 - __[제1회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236127/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국화학연구원
@@ -277,6 +229,14 @@
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
   - 일시: 10. 05(목)
+- __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
+  - 분류: `오프라인`, `무료`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 18(월) ~ 10. 08(일)
+- __[2023년 금산군 데이터기반행정 아이디어 공모전](https://www.all-con.co.kr/view/contest/503530?device=pc)__
+  - 분류: `오프라인`, `무료`, `데이터`, `공모전`
+  - 주최: 금산구
+  - 접수: 09. 01(금) ~ 10. 10(일)
 - __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
@@ -285,6 +245,10 @@
   - 분류: `온라인`, `Feature Store` 
   - 주최: Hopsworks
   - 일시: 10. 11(수)
+- __[Let'Swift 2023](https://festa.io/events/3860)__
+  - 분류: `오프라인`, `유료`, `iOS` 
+  - 주최: Let'Swift
+  - 접수: 09. 18(월) ~ 10. 12(목)
 - __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
   - 분류: `온라인`, `무료`, `빅데이터` 
   - 주최: NH 투자증권
@@ -305,10 +269,18 @@
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 아이펠
   - 접수: 09. 07(목) ~ 10. 20(금)
+- __[Machine Learning Meetup In Songdo](https://festa.io/events/4014)__
+  - 분류: `무료`, `오프라인`, `AI`
+  - 주최: GDG 송도
+  - 접수: 09. 18(월) ~ 10. 20(금)
 - __[FEConf 2023](https://2023.feconf.kr/)__
   - 분류: `오프라인`, `프론트엔드`, `컨퍼런스`
   - 주최: FEConf
   - 일시: 10. 21(토)
+- __[자바 개발자 밋업](https://festa.io/events/4028)__
+  - 분류: `오프라인`, `유료`, `벡엔드`
+  - 주최: 흔한 백엔드 모임
+  - 접수: 09. 27(수) ~ 10. 22(일)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
