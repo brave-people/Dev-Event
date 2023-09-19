@@ -196,7 +196,7 @@
   - 분류: `오프라인`, `대회`, `웹3`
   - 주최: Ludium
   - 접수: 08. 21(월) ~ 09. 23(수)
-- __[제1회 신약개발 AI 경진대회](https://festa.io/events/4031)__
+- __[Seoul iOS Meetup](https://festa.io/events/4031)__
   - 분류: `오프라인`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 09. 18(월) ~ 09. 25(월)
