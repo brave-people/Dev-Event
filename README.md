@@ -127,15 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[[구름 COMMIT] 관찰 가능성을 찾아 떠나는 SRE의 여정](https://blog.goorm.io/commit_12th/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 09. 11(월) ~ 09. 18(월)
-
 - __[NCUC 제 3회 Online MeetUp](https://www.meetup.com/ko-KR/navercloud-user-community/events/295793299/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 08. 31(목) ~ 09. 19(화)
+
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/295997505/)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
@@ -229,6 +225,10 @@
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
   - 일시: 10. 05(목)
+- __[숭실대학교 GPT 세미나](https://docs.google.com/forms/d/e/1FAIpQLScSMXbC7DhiMiessHxc_oE5QWQvNtX7JGxA9gAR2uJHDBgcIQ/viewform)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 숭실대학교
+  - 접수: 09. 18(월) ~ 10. 06(목)
 - __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -285,6 +285,10 @@
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
   - 일시: 10. 24(화) ~ 10. 25(수)
+- __[HD현대 AI Challenge](https://dacon.io/competitions/official/236158/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: HD현대
+  - 일시: 09. 25(월) ~ 10. 30(월)
 - __[학교안전사고 데이터분석 활용 경진대회](https://www.xn--289axkt9l0mao04fs9c7wrl7hfxc.com/summary/summary.php)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 교육부
