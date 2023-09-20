@@ -127,31 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[NCUC 제 3회 Online MeetUp](https://www.meetup.com/ko-KR/navercloud-user-community/events/295793299/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: NaverCloud User Community
-  - 접수: 08. 31(목) ~ 09. 19(화)
-
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/295997505/)__
-  - 분류: `유료`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 09. 12(화) ~ 09. 19(화)
-- __[생성형 AI와 오픈데이터](https://onoffmix.com/event/284533)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 오픈데이터포럼
-  - 접수: 09. 12(화) ~ 09. 19(화)
-- __[관찰 가능성을 찾아 떠나는 SRE의 여정](https://blog.goorm.io/commit_12th/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
-  - 분류: `온라인`, `오프라인`, `무료`, `SRE`
-  - 주최: 구름
-  - 접수: 09. 18(월) ~ 09. 19(화)
-- __[현직자에게 듣는 리얼 개발자의 하루](https://yagom.net/courses/techcast-16/)__
-  - 분류: `온라인`, `무료`, `iOS`
-  - 주최: 야곰
-  - 일시: 09. 19(화) 20:00 ~ 22:00
 - __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 오라클
   - 접수: 09. 06(수) ~ 09. 20(수)
+
 - __[17회 국제 시큐리티 컨퍼런스](https://www.isecconference.org/kor/intro01.html)__
   - 분류: `오프라인`, `유료`, `보안`
   - 주최: 한국인터넷진흥원
@@ -220,6 +200,7 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 부산광역시
   - 접수: 08. 18(금) ~ 10. 02(월)
+  
 - __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
@@ -244,6 +225,10 @@
   - 분류: `온라인`, `Feature Store` 
   - 주최: Hopsworks
   - 일시: 10. 11(수)
+- __[Red Hat Summit: Connect 2023](https://www.redhat.com/ko/summit/connect/apac/seoul-2023)__
+  - 분류: `오프라인`, `무료`, `기술일반` 
+  - 주최: 레드햇
+  - 일시: 10. 12(목) 09:00 ~ 15:50
 - __[Let'Swift 2023](https://festa.io/events/3860)__
   - 분류: `오프라인`, `유료`, `iOS` 
   - 주최: Let'Swift
@@ -260,6 +245,10 @@
   - 분류: `온라인`, `무료`, `대회`, `데이터` 
   - 주최: NH 투자증권
   - 일시: 09. 04(월) ~ 10. 16(월)
+- __[.NET L!VE 2023 Fall](https://www.dotnetconf.kr/live/2023/fall)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 닷넷데브
+  - 접수: 09. 20(수) ~ 10. 18(수)
 - __[KOREA METAVERSE FESTIVAL](https://www.kmfexpo.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
