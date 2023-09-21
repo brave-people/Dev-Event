@@ -127,31 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[데이터 파이프라인, 데이터 실시간 동기화 알아보기](https://go.oracle.com/LP=138425)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 오라클
-  - 접수: 09. 06(수) ~ 09. 20(수)
-
-- __[17회 국제 시큐리티 컨퍼런스](https://www.isecconference.org/kor/intro01.html)__
-  - 분류: `오프라인`, `유료`, `보안`
-  - 주최: 한국인터넷진흥원
-  - 일시: 09. 19(화) ~ 09. 20(수)
-- __[AWSKRUG 데이터모임](https://www.meetup.com/ko-KR/awskrug/events/295604795/)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 09. 01(금) ~ 09. 20(수)
-- __[In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례](https://devocean.sk.com/events/view.do?id=178)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: DEVOCEAN
-  - 접수: 09. 11(월) ~ 09. 20(수)
-- __[DevOps에서 DevSecOps로: Application Security 관리 자동화](https://www.ddtube.co.kr/d2035/)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 디지털데일리
-  - 접수: 08. 31(목) ~ 09. 20(수)
 - __[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임](https://festa.io/events/3980)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
   - 접수: 09. 01(금) ~ 09. 21(목)
+
 - __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 데이터독
@@ -221,6 +201,10 @@
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
   - 접수: 09. 08(금) ~ 10. 11(수)
+- __[2023 구글 클라우드 NEXT Recap in Seoul](https://forms.monday.com/forms/ea9b7119fc86a0dd6f823257544f7d57?r=use1)__
+  - 분류: `온라인`, `오프라인`, `무료`, `클라우드` 
+  - 주최: SPH
+  - 접수: 09. 21(목) ~ 10. 11(수)
 - __[Feature Store Summit 2023](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `Feature Store` 
   - 주최: Hopsworks
