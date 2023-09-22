@@ -127,23 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임](https://festa.io/events/3980)__
-  - 분류: `오프라인`, `유료`, `스터디`
-  - 주최: 코딩의 신
-  - 접수: 09. 01(금) ~ 09. 21(목)
-
-- __[애플리케이션과 DB 연계 분석을 통한 모니터링 Best Practice](https://www.datadoghq.com/ko/dg/webinars/dbm-korea-2023/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 데이터독
-  - 접수: 08. 30(수) ~ 09. 21(목)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/ko-KR/awskrug/events/295708787/)__
-  - 분류: `온라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 09. 01(금) ~ 09. 21(목)
 - __[Charming Swift: 스유가 왔스유~](https://festa.io/events/3898)__
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Charming Swift
   - 접수: 09. 07(목) ~ 09. 22(금)
+
 - __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
   - 분류: `오프라인`, `유료`, `컨퍼런스`
   - 주최: GDG Songdo
@@ -164,6 +152,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국화학연구원
   - 접수: 08. 07(월) ~ 09. 25(월)
+- __[쉽게 만드는 AI 스트리머: 버추얼 휴먼과 실시간 인터랙션까지](https://modulabs.im/popdetail/65080caa83d1e31c0f16c2f7)__
+  - 분류: `온라인`, `오프라인`, `무료`, `AI`
+  - 주최: 모두의 연구소
+  - 접수: 09. 22(금) ~ 09. 26(화)
 - __[D:CHAMPS 개발자 경진대회](https://www.jobda.im/event/dchamps2309)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 잡다
@@ -181,6 +173,18 @@
   - 주최: 부산광역시
   - 접수: 08. 18(금) ~ 10. 02(월)
   
+- __[Kick-Quick-start! Python : 파이썬 기초 교육](https://festa.io/events/4063)__
+  - 분류: `오프라인(대전)`, `무료`, `기술일반`
+  - 주최: 모두의 연구소
+  - 접수: 09. 22(금) ~ 10. 04(수)
+- __[우아한테크코스 2024 입학설명회 사전 신청](https://unitysquare.co.kr/growwith/industrysummit)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: 우아한테크코스
+  - 접수: 09. 22(금) ~ 10. 04(수)
+- __[우아한테크코스 2024 입학설명회](https://www.woowacourse.io/apply)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: 우아한테크코스
+  - 일시: 10. 05(목) 18:00 ~ 20:30
 - __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
