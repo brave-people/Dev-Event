@@ -127,35 +127,11 @@
 <br />
 
 ## 23년 09월
-- __[Charming Swift: 스유가 왔스유~](https://festa.io/events/3898)__
-  - 분류: `오프라인`, `유료`, `iOS`
-  - 주최: Charming Swift
-  - 접수: 09. 07(목) ~ 09. 22(금)
-
-- __[Flutter MeetUp - In Songdo](https://festa.io/events/3887)__
-  - 분류: `오프라인`, `유료`, `컨퍼런스`
-  - 주최: GDG Songdo
-  - 일시: 09. 23(토)
-- __[JNPMEDI 1st TechMeetup](https://festa.io/events/3918)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: JNPMEDI
-  - 접수: 08. 22(화) ~ 09. 23(토)
-- __[웹3 해커톤](https://ludium.world/views/I0WJPXWPH?groupId=G0Q4664D0B&postId=T3H2NKDR2)__
-  - 분류: `오프라인`, `대회`, `웹3`
-  - 주최: Ludium
-  - 접수: 08. 21(월) ~ 09. 23(수)
-- __[Seoul iOS Meetup](https://festa.io/events/4031)__
-  - 분류: `오프라인`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 09. 18(월) ~ 09. 25(월)
-- __[제1회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236127/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 한국화학연구원
-  - 접수: 08. 07(월) ~ 09. 25(월)
 - __[쉽게 만드는 AI 스트리머: 버추얼 휴먼과 실시간 인터랙션까지](https://modulabs.im/popdetail/65080caa83d1e31c0f16c2f7)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`
   - 주최: 모두의 연구소
   - 접수: 09. 22(금) ~ 09. 26(화)
+  
 - __[D:CHAMPS 개발자 경진대회](https://www.jobda.im/event/dchamps2309)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 잡다
@@ -205,14 +181,18 @@
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 09. 18(월) ~ 10. 08(일)
+- __[AWSKRUG Women In Cloud 1st meet up](https://festa.io/events/4026)__
+  - 분류: `유료`, `무료`, `클라우드`
+  - 주최: AWSKRUG Women In Cloud
+  - 접수: 09. 26(화) ~ 10. 09(월)
 - __[2023년 금산군 데이터기반행정 아이디어 공모전](https://www.all-con.co.kr/view/contest/503530?device=pc)__
   - 분류: `오프라인`, `무료`, `데이터`, `공모전`
   - 주최: 금산구
-  - 접수: 09. 01(금) ~ 10. 10(일)
+  - 접수: 09. 01(금) ~ 10. 10(화)
 - __[ICP x 코드스테이츠 블록체인 해커톤](https://codestates.oopy.io/coz-icp-01)__
   - 분류: `오프라인`, `무료`, `대회`, `블록체인`
   - 주최: 코드스테이츠
-  - 접수: 09. 25(월) ~ 10. 10(일)
+  - 접수: 09. 25(월) ~ 10. 10(화)
 - __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
@@ -225,6 +205,14 @@
   - 분류: `온라인`, `Feature Store` 
   - 주최: Hopsworks
   - 일시: 10. 11(수)
+- __[Cloud Native Sustainability Week in Seoul](https://festa.io/events/3916)__
+  - 분류: `오프라인`, `유료`, `클라우드` 
+  - 주최: IT 인프라 엔지니어 그룹
+  - 접수: 09. 26(화) ~ 10. 12(목)
+- __[오픈 테크넷 서밋(Open Technet Summit) 2023](https://www.ddtube.co.kr/d2039/)__
+  - 분류: `온라인`, `무료`, `오픈소스`
+  - 주최: DD튜브
+  - 접수: 09. 26(화) ~ 10. 11(수)
 - __[한빛N MSA - #4 Re-Search](https://festa.io/events/4050)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 한빛 N MSA
