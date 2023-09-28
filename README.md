@@ -149,6 +149,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 항해
   - 일시: 09. 28(목) ~ 10. 03(화)
+- __[YAPP 23기 모집](https://www.yapp.co.kr/recruit)__
+  - 분류: `동아리`
+  - 주최: YAPP
+  - 접수: 09. 25(월) ~ 10. 01(일) 23:59
 - __[Kick-Quick-start! Python : 파이썬 기초 교육](https://festa.io/events/4063)__
   - 분류: `오프라인(대전)`, `무료`, `기술일반`
   - 주최: 모두의 연구소
@@ -340,7 +344,7 @@
 | DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
 | 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
-| YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/) |
+| YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/), [instagram](https://www.instagram.com/about.yapp/) |
 | Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹                                    | [ausg.me](https://ausg.me/) |
 | D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
