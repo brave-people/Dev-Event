@@ -140,19 +140,19 @@
 <br />
 
 ## 23년 10월
-- __[MEDICAL HACK 2023](https://cmit.pnuh.or.kr/TCF/cb/contents/view.do?menuIdx=47&id=18)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 부산광역시
-  - 접수: 08. 18(금) ~ 10. 02(월)
-  
-- __[항해 플러스: 제1회 코육대](https://hanghaeplus-coyukdae.oopy.io/)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 항해
-  - 일시: 09. 28(목) ~ 10. 03(화)
 - __[YAPP 23기 모집](https://www.yapp.co.kr/recruit)__
   - 분류: `동아리`
   - 주최: YAPP
   - 접수: 09. 25(월) ~ 10. 01(일) 23:59
+  
+- __[MEDICAL HACK 2023](https://cmit.pnuh.or.kr/TCF/cb/contents/view.do?menuIdx=47&id=18)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 부산광역시
+  - 접수: 08. 18(금) ~ 10. 02(월)
+- __[항해 플러스: 제1회 코육대](https://hanghaeplus-coyukdae.oopy.io/)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 항해
+  - 일시: 09. 28(목) ~ 10. 03(화)
 - __[Kick-Quick-start! Python : 파이썬 기초 교육](https://festa.io/events/4063)__
   - 분류: `오프라인(대전)`, `무료`, `기술일반`
   - 주최: 모두의 연구소
