@@ -237,16 +237,12 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 09. 26(화) ~ 10. 13(금)
-- __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
-  - 분류: `온라인`, `무료`, `빅데이터` 
-  - 주최: NH 투자증권
-  - 일시: 09. 04(월) ~ 10. 16(월)
 - __[데이터야놀자 2023](https://datayanolja.kr/)__
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
   - 일시: 10. 14(토)
 - __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터` 
+  - 분류: `온라인`, `무료`, `빅데이터` 
   - 주최: NH 투자증권
   - 일시: 09. 04(월) ~ 10. 16(월)
 - __[.NET L!VE 2023 Fall](https://www.dotnetconf.kr/live/2023/fall)__
