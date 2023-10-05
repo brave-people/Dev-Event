@@ -127,19 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[Kick-Quick-start! Python : 파이썬 기초 교육](https://festa.io/events/4063)__
-  - 분류: `오프라인(대전)`, `무료`, `기술일반`
-  - 주최: 모두의 연구소
-  - 접수: 09. 22(금) ~ 10. 04(수)
-
-- __[우아한테크코스 2024 입학설명회 사전 신청](https://forms.gle/t2nWjCCWU9ZH9WDU9)__
-  - 분류: `오프라인`, `무료`, `커리어`
-  - 주최: 우아한테크코스
-  - 접수: 09. 22(금) ~ 10. 04(수)
 - __[우아한테크코스 2024 입학설명회](https://www.woowacourse.io/apply)__
   - 분류: `오프라인`, `무료`, `커리어`
   - 주최: 우아한테크코스
   - 일시: 10. 05(목) 18:00 ~ 20:30
+  
 - __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
   - 분류: `오프라인`, `유니티`
   - 주최: 유니티
@@ -184,6 +176,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: DX Challenge
   - 접수: 09. 27(수) ~ 10. 10(화) 16:00
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/296202175/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 10. 05(목) ~ 10. 10(화)
 - __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
@@ -280,6 +276,14 @@
   - 분류: `오프라인`, `커뮤니티`, `스터디`
   - 주최: 코딩의 신
   - 일시: 10. 04(수) ~ 10. 25(수)
+- __[Seoul iOS Meetup](https://festa.io/events/4108)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 10. 05(목) ~ 10. 25(수)
+- __[AWS Community Day 2023](https://event-us.kr/awskrug/event/71783)__
+  - 분류: `오프라인`, `유료`, `커뮤니티`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 09. 27(수) ~ 10. 26(목)
 - __[Swift Coding Club 2023 하반기 중간 행사](https://festa.io/events/4068)__
   - 분류: `오프라인`, `커뮤니티`, `iOS`
   - 주최: 스위프트 코딩클럽
