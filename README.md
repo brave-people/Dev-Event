@@ -127,27 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[우아한테크코스 2024 입학설명회](https://www.woowacourse.io/apply)__
-  - 분류: `오프라인`, `무료`, `커리어`
-  - 주최: 우아한테크코스
-  - 일시: 10. 05(목) 18:00 ~ 20:30
-  
-- __[UNITY APAC INDUSTRY SUMMIT 2023](https://unitysquare.co.kr/growwith/industrysummit)__
-  - 분류: `오프라인`, `유니티`
-  - 주최: 유니티
-  - 일시: 10. 05(목)
-- __[숭실대학교 GPT 세미나](https://docs.google.com/forms/d/e/1FAIpQLScSMXbC7DhiMiessHxc_oE5QWQvNtX7JGxA9gAR2uJHDBgcIQ/viewform)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 숭실대학교
-  - 접수: 09. 18(월) ~ 10. 06(목)
-- __[9월 회고 모임](https://festa.io/events/4100)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: 코딩의 신
-  - 접수: 10. 04(수) ~ 10. 06(금)
 - __[파이콘 한국 부산 세미나](https://event-us.kr/pyconkr/event/71494)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 파이콘 한국 준비위원회
   - 일시: 10. 08(일) 13:00 ~ 18:00
+
 - __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -280,6 +264,10 @@
   - 분류: `오프라인`, `커뮤니티`, `스터디`
   - 주최: 코딩의 신
   - 일시: 10. 04(수) ~ 10. 25(수)
+- __[퓨리오사 AI 해커톤](https://furiosa-aihackathon.imweb.me/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 퓨리오사
+  - 접수: 10. 04(수) ~ 10. 25(수)
 - __[Seoul iOS Meetup](https://festa.io/events/4108)__
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
