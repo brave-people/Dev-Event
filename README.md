@@ -256,6 +256,10 @@
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: GDG 송도
   - 접수: 09. 18(월) ~ 10. 20(금)
+- __[lab | up > /conf/3 - Make AI Accessible with Lablup](https://festa.io/events/4070)__
+  - 분류: `오프라인`, `유료`, `AI`
+  - 주최: 래블업
+  - 접수: 10. 07(토) ~ 10. 20(금)
 - __[FEConf 2023](https://2023.feconf.kr/)__
   - 분류: `오프라인`, `프론트엔드`, `컨퍼런스`
   - 주최: FEConf
