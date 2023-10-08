@@ -132,10 +132,6 @@
   - 주최: 파이콘 한국 준비위원회
   - 일시: 10. 08(일) 13:00 ~ 18:00
 
-- __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 09. 18(월) ~ 10. 08(일)
 - __[AWSKRUG Women In Cloud 1st meet up](https://festa.io/events/4026)__
   - 분류: `유료`, `무료`, `클라우드`
   - 주최: AWSKRUG Women In Cloud
@@ -164,6 +160,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 10. 05(목) ~ 10. 10(화)
+- __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
+  - 분류: `오프라인`, `무료`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 18(월) ~ 10. 11(수)
 - __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
@@ -192,10 +192,6 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 한빛 N MSA
   - 접수: 09. 25(월) ~ 10. 11(수)
-- __[ETRI Open Source Tech Day 2023](https://onoffmix.com/event/284527)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: 오픈소스센터
-  - 일시: 10. 11(수) 10:00 ~ 17:30
 - __[Red Hat Summit: Connect 2023](https://www.redhat.com/ko/summit/connect/apac/seoul-2023)__
   - 분류: `오프라인`, `무료`, `기술일반` 
   - 주최: 레드햇
