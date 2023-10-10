@@ -127,19 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[파이콘 한국 부산 세미나](https://event-us.kr/pyconkr/event/71494)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 파이콘 한국 준비위원회
-  - 일시: 10. 08(일) 13:00 ~ 18:00
-
-- __[AWSKRUG Women In Cloud 1st meet up](https://festa.io/events/4026)__
-  - 분류: `유료`, `무료`, `클라우드`
-  - 주최: AWSKRUG Women In Cloud
-  - 접수: 09. 26(화) ~ 10. 09(월)
 - __[2023년 금산군 데이터기반행정 아이디어 공모전](https://www.all-con.co.kr/view/contest/503530?device=pc)__
   - 분류: `오프라인`, `무료`, `데이터`, `공모전`
   - 주최: 금산구
   - 접수: 09. 01(금) ~ 10. 10(화)
+
 - __[10th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://festa.io/events/4084)__
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: DX Challenge
@@ -228,6 +220,10 @@
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 10. 16(월) ~ 10. 18(수)
+- __[GitLab AI in DevSecOps 핸즈온 웨비나](https://page.gitlab.com/webinar_october19_aiwebinarkr.html)__
+  - 분류: `무료`, `온라인`, `기술일반`
+  - 주최: Gitlab
+  - 접수: 10. 10(화) ~ 10. 18(수)
 - __[DEVOCEAN 5TH TECH DAY](https://devocean.sk.com/events/view.do?id=181)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 데보션
@@ -276,6 +272,14 @@
   - 분류: `오프라인`, `유료`, `커뮤니티`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 27(수) ~ 10. 26(목)
+- __[TCN meetup 2023.10](https://festa.io/events/4118)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 09. 27(수) ~ 10. 26(목)
+- __[C++ Korea 2023 격월 Meet-Up](https://festa.io/events/4117)__
+  - 분류: `오프라인`, `유료`, `C++`
+  - 주최: C++ Korea
+  - 접수: 10. 10(화) ~ 10. 27(금)
 - __[Swift Coding Club 2023 하반기 중간 행사](https://festa.io/events/4068)__
   - 분류: `오프라인`, `커뮤니티`, `iOS`
   - 주최: 스위프트 코딩클럽
@@ -284,6 +288,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: HD현대
   - 일시: 09. 25(월) ~ 10. 30(월)
+- __[소프트웨어 공급망 공격 대응 방안과 오픈소스 거버넌스 자동화 전략](https://www.ddtube.co.kr/d2041/)__
+  - 분류: `온라인`, `무료`, `오픈소스`
+  - 주최: 디지털데일리
+  - 접수: 10. 10(화) ~ 10. 30(월)
 - __[학교안전사고 데이터분석 활용 경진대회](https://www.xn--289axkt9l0mao04fs9c7wrl7hfxc.com/summary/summary.php)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 교육부
@@ -300,11 +308,15 @@
 <br />
 
 ## 23년 11월
+- __[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>](https://festa.io/events/4125)__
+  - 분류: `오프라인`,`모임`, `기술일반`
+  - 주최: 네이버 클라우드 플랫폼
+  - 접수: 10. 10(화) ~ 11. 02(목)
+
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
   - 일시: 11. 08(수) ~ 11. 09(목)
-
 - __[SDC23 Korea](https://www.sdc-korea.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
