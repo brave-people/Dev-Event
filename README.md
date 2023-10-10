@@ -228,6 +228,10 @@
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 10. 16(월) ~ 10. 18(수)
+- __[DEVOCEAN 5TH TECH DAY](https://devocean.sk.com/events/view.do?id=181)__
+  - 분류: `무료`, `오프라인`, `기술일반`
+  - 주최: 데보션
+  - 접수: 10. 10(화) ~ 10. 19(목)
 - __[AI 첫시작부터 논문까지, 내 눈높이에 맞춰 배우세요](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 아이펠
