@@ -127,35 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[2023년 금산군 데이터기반행정 아이디어 공모전](https://www.all-con.co.kr/view/contest/503530?device=pc)__
-  - 분류: `오프라인`, `무료`, `데이터`, `공모전`
-  - 주최: 금산구
-  - 접수: 09. 01(금) ~ 10. 10(화)
-
-- __[10th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://festa.io/events/4084)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: DX Challenge
-  - 접수: 10. 04(화) ~ 10. 10(화)
-- __[ICP x 코드스테이츠 블록체인 해커톤](https://codestates.oopy.io/coz-icp-01)__
-  - 분류: `오프라인`, `무료`, `대회`, `블록체인`
-  - 주최: 코드스테이츠
-  - 접수: 09. 25(월) ~ 10. 10(화)
-- __[프리온보딩 백엔드 인턴십 사전설명회](https://www.wanted.co.kr/events/pre_apply_23_10)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 09. 27(수) ~ 10. 10(화)
-- __[10th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://www.dxchallenge.co.kr/events/10th-dx-forum)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: DX Challenge
-  - 접수: 09. 27(수) ~ 10. 10(화) 16:00
-- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/296202175/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 10. 05(목) ~ 10. 10(화)
 - __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 09. 18(월) ~ 10. 11(수)
+
 - __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
   - 분류: `온라인`, `교육`, `AI` 
   - 주최: 서울 ICT
@@ -204,6 +180,10 @@
   - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
   - 주최: 데이터야놀자
   - 일시: 10. 14(토)
+- __[데이터야놀자 2023](https://www.inflearn.com/course/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-03-flutter)__
+  - 분류: `오프라인`, `무료`, `플러터` 
+  - 주최: 인프런
+  - 접수: 10. 12(목) ~ 10. 15(일)
 - __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
   - 분류: `온라인`, `무료`, `빅데이터` 
   - 주최: NH 투자증권
@@ -252,6 +232,14 @@
   - 분류: `오프라인`, `유료`, `벡엔드`
   - 주최: 흔한 백엔드 모임
   - 접수: 09. 27(수) ~ 10. 22(일)
+- __[흔한 백엔드 개발자 모임](https://festa.io/events/4028)__
+  - 분류: `오프라인`, `유료`, `벡엔드`
+  - 주최: 흔한 백엔드 모임
+  - 접수: 10. 11(수) ~ 10. 22(일)
+- __[OCI Data Platform 시리즈 2: 데이터 시각화 & AI/ML 알아보기](https://go.oracle.com/LP=138912?elqCampaignId=484021)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 오라클
+  - 접수: 10. 11(수) ~ 10. 24(화)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
@@ -280,6 +268,10 @@
   - 분류: `오프라인`, `유료`, `C++`
   - 주최: C++ Korea
   - 접수: 10. 10(화) ~ 10. 27(금)
+- __[Deep Learning Day 2023 : "AI In Your Area"](https://event-us.kr/mdstech/event/66124)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: MDS테크
+  - 접수: 07. 31(월) ~ 10. 27(금)
 - __[Swift Coding Club 2023 하반기 중간 행사](https://festa.io/events/4068)__
   - 분류: `오프라인`, `커뮤니티`, `iOS`
   - 주최: 스위프트 코딩클럽
@@ -308,11 +300,15 @@
 <br />
 
 ## 23년 11월
+- __[2023 BDIA Dev Contest](https://www.wanted.co.kr/events/2023_BDIA)__
+  - 분류: `오프라인`,`대회`, `기술일반`
+  - 주최: BDIA
+  - 접수: 09. 25(월) ~ 11. 01(수)
+
 - __[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>](https://festa.io/events/4125)__
   - 분류: `오프라인`,`모임`, `기술일반`
   - 주최: 네이버 클라우드 플랫폼
   - 접수: 10. 10(화) ~ 11. 02(목)
-
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
@@ -341,11 +337,15 @@
 <br />
 
 ## 23년 12월
+- __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
+  - 분류: `무료`, `대회`, `클라우드`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 24(목) ~ 12. 13(수)
+
 - __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
   - 분류: `보안`, `대회`
   - 주최: 토스
   - 접수: 07. 13(목) ~ 12. 15(금)
-
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
