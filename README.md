@@ -127,39 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[EOST2023, ETRI 오픈소스 테크데이 2023](https://eostday.kr/)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 09. 18(월) ~ 10. 11(수)
-
-- __[CRUSH ON AI 프로젝트 교육생 모집](https://www.featurestoresummit.com/)__
-  - 분류: `온라인`, `교육`, `AI` 
-  - 주최: 서울 ICT
-  - 접수: 09. 08(금) ~ 10. 11(수)
-- __[2023 구글 클라우드 NEXT Recap in Seoul](https://forms.monday.com/forms/ea9b7119fc86a0dd6f823257544f7d57?r=use1)__
-  - 분류: `온라인`, `오프라인`, `무료`, `클라우드` 
-  - 주최: SPH
-  - 접수: 09. 21(목) ~ 10. 11(수)
-- __[Feature Store Summit 2023](https://www.featurestoresummit.com/)__
-  - 분류: `온라인`, `Feature Store` 
-  - 주최: Hopsworks
-  - 일시: 10. 11(수)
-- __[2023년 6차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/285523)__
-  - 분류: `온라인`, `무료`, `클라우드` 
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 10. 04(수) ~ 10. 11(수)
 - __[Cloud Native Sustainability Week in Seoul](https://festa.io/events/3916)__
   - 분류: `오프라인`, `유료`, `클라우드` 
   - 주최: IT 인프라 엔지니어 그룹
   - 접수: 09. 26(화) ~ 10. 12(목)
-- __[오픈 테크넷 서밋(Open Technet Summit) 2023](https://www.ddtube.co.kr/d2039/)__
-  - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최: DD튜브
-  - 접수: 09. 26(화) ~ 10. 11(수)
-- __[한빛N MSA - #4 Re-Search](https://festa.io/events/4050)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: 한빛 N MSA
-  - 접수: 09. 25(월) ~ 10. 11(수)
+
 - __[Red Hat Summit: Connect 2023](https://www.redhat.com/ko/summit/connect/apac/seoul-2023)__
   - 분류: `오프라인`, `무료`, `기술일반` 
   - 주최: 레드햇
@@ -256,6 +228,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 10. 05(목) ~ 10. 25(수)
+- __[사랑의 컨설턴트 챗GPT(챗GPT를 활용한 연애상담)](https://aifactory.space/task/2566/discussion/659)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AIF 커뮤니티
+  - 접수: 10. 12(목) ~ 10. 26(목)
 - __[AWS Community Day 2023](https://event-us.kr/awskrug/event/71783)__
   - 분류: `오프라인`, `유료`, `커뮤니티`, `클라우드`
   - 주최: AWSKRUG
@@ -268,6 +244,10 @@
   - 분류: `오프라인`, `유료`, `C++`
   - 주최: C++ Korea
   - 접수: 10. 10(화) ~ 10. 27(금)
+- __[2023 Devfest WebTech](https://festa.io/events/4069)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: GDG Korea WebTech
+  - 접수: 10. 12(목) ~ 10. 27(금)
 - __[Deep Learning Day 2023 : "AI In Your Area"](https://event-us.kr/mdstech/event/66124)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: MDS테크
