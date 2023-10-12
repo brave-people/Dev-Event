@@ -276,6 +276,10 @@
   - 분류: `오프라인`, `커뮤니티`, `iOS`
   - 주최: 스위프트 코딩클럽
   - 접수: 10. 04(수) ~ 10. 28(토)
+- __[HMG DEVELOPER CONFERENCE](https://devcon.hyundaimotorgroup.com/)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 현대자동차그룹
+  - 접수: 10. 11(수) ~ 10. 29(일)
 - __[HD현대 AI Challenge](https://dacon.io/competitions/official/236158/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: HD현대
