@@ -176,6 +176,10 @@
   - 분류: `무료`, `온라인`, `기술일반`
   - 주최: Gitlab
   - 접수: 10. 10(화) ~ 10. 18(수)
+- __[Netlify Compose 2023](https://www.netlify.com/conference/)__
+  - 분류: `무료`, `온라인`, `컨퍼런스`
+  - 주최: Netlify
+  - 일시: 10. 18(수) ~ 10. 19(목)
 - __[DEVOCEAN 5TH TECH DAY](https://devocean.sk.com/events/view.do?id=181)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 데보션
