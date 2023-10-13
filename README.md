@@ -460,10 +460,9 @@
 | 이름 | 링크 |
 |------------|-----------|
 | TeamH4C | [facebook](https://www.facebook.com/teamh4c/) |
-| Angel Hack Seoul | [angelhackseoul.kr](https://angelhackseoul.kr/) |
 | Codeengn | [codeengn.com](https://codeengn.com/conference/) |
 | CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
-| 스프링 캠프 | [springcamp.io/2019](https://www.springcamp.io/2019/) |
+| 스프링 캠프 | [springcamp.ksug.org/2023](https://springcamp.ksug.org/2023/) |
 | DACON | [dacon.io](https://dacon.io) |
 | FEConf | [feconf.kr](https://feconf.kr/)|
 | JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)|
