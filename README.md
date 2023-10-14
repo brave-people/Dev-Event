@@ -478,6 +478,7 @@
 | DACON | [dacon.io](https://dacon.io) |
 | FEConf | [feconf.kr](https://feconf.kr/)|
 | JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)|
+| 파이콘 한국 / PyCon Korea | [pycon.kr](https://pycon.kr/)
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
