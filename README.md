@@ -127,39 +127,11 @@
 <br />
 
 ## 23년 10월
-- __[Cloud Native Sustainability Week in Seoul](https://festa.io/events/3916)__
-  - 분류: `오프라인`, `유료`, `클라우드` 
-  - 주최: IT 인프라 엔지니어 그룹
-  - 접수: 09. 26(화) ~ 10. 12(목)
-
-- __[Red Hat Summit: Connect 2023](https://www.redhat.com/ko/summit/connect/apac/seoul-2023)__
-  - 분류: `오프라인`, `무료`, `기술일반` 
-  - 주최: 레드햇
-  - 일시: 10. 12(목) 09:00 ~ 15:50
-- __[Let'Swift 2023](https://festa.io/events/3860)__
-  - 분류: `오프라인`, `유료`, `iOS` 
-  - 주최: Let'Swift
-  - 접수: 09. 18(월) ~ 10. 12(목)
-- __[2023 오픈데이터포럼 해커톤](https://onoffmix.com/event/284280)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 오픈데이터포럼
-  - 접수: 09. 15(금) ~ 10. 13(금)
-- __[제 23회 ICPC 대학생 프로그래밍 경시대회](https://okky.kr/articles/1470866)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 09. 26(화) ~ 10. 13(금)
-- __[데이터야놀자 2023](https://datayanolja.kr/)__
-  - 분류: `오프라인`, `커뮤니티`, `데이터`, `컨퍼런스` 
-  - 주최: 데이터야놀자
-  - 일시: 10. 14(토)
-- __[데이터야놀자 2023](https://www.inflearn.com/course/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-03-flutter)__
-  - 분류: `오프라인`, `무료`, `플러터` 
-  - 주최: 인프런
-  - 접수: 10. 12(목) ~ 10. 15(일)
 - __[2023 NH 투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236145/overview/description)__
   - 분류: `온라인`, `무료`, `빅데이터` 
   - 주최: NH 투자증권
   - 일시: 09. 04(월) ~ 10. 16(월)
+
 - __[.NET L!VE 2023 Fall](https://www.dotnetconf.kr/live/2023/fall)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 닷넷데브
@@ -305,6 +277,10 @@
   - 분류: `오프라인`,`모임`, `기술일반`
   - 주최: 네이버 클라우드 플랫폼
   - 접수: 10. 10(화) ~ 11. 02(목)
+- __[크래프톤 정글 4기 모집](https://jungle.krafton.com/)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤
+  - 접수: 10. 16(월) ~ 11. 02(목)
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
