@@ -240,6 +240,10 @@
   - 분류: `오프라인`, `커뮤니티`, `iOS`
   - 주최: 스위프트 코딩클럽
   - 접수: 10. 04(수) ~ 10. 28(토)
+- __[2023 TEOConf2](https://www.jumpit.co.kr/contents/428)__
+  - 분류: `오프라인`, `무료`, `컨퍼런스`
+  - 주최: TEOConf
+  - 일시: 10. 28(토) 13:00 ~ 18:30
 - __[HMG DEVELOPER CONFERENCE](https://devcon.hyundaimotorgroup.com/)__
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 현대자동차그룹
