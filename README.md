@@ -127,31 +127,15 @@
 <br />
 
 ## 23년 10월
-- __[.NET L!VE 2023 Fall](https://www.dotnetconf.kr/live/2023/fall)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 닷넷데브
-  - 접수: 09. 20(수) ~ 10. 18(수)
-
-- __[개발자를 위한, 개발자 튜터의 모든 것을 알려드립니다.](https://tutor-webinar.oopy.io/)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 스파르타코딩클럽
-  - 접수: 10. 13(금) ~ 10. 17(화)
-- __[백엔드 | 프리온보딩 인턴십 10월](https://www.wanted.co.kr/events/pre_ob_be_7)__
-  - 분류: `무료`, `커리어`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 09. 26(화) ~ 10. 18(수)
-- __[KOREA METAVERSE FESTIVAL](https://www.kmfexpo.com/)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 일시: 10. 16(월) ~ 10. 18(수)
-- __[GitLab AI in DevSecOps 핸즈온 웨비나](https://page.gitlab.com/webinar_october19_aiwebinarkr.html)__
-  - 분류: `무료`, `온라인`, `기술일반`
-  - 주최: Gitlab
-  - 접수: 10. 10(화) ~ 10. 18(수)
 - __[Netlify Compose 2023](https://www.netlify.com/conference/)__
   - 분류: `무료`, `온라인`, `컨퍼런스`
   - 주최: Netlify
   - 일시: 10. 18(수) ~ 10. 19(목)
+
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/296616895/)__
+  - 분류: `오프라인`, `무료`, `보안`
+  - 주최: AWSKRUG
+  - 일시: 10. 19(수) 19:00 ~ 21:00
 - __[DEVOCEAN 5TH TECH DAY](https://devocean.sk.com/events/view.do?id=181)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 데보션
@@ -188,6 +172,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: 이스트소프트
   - 접수: 10. 13(금) ~ 10. 22(일)
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/296686660/)__
+  - 분류: `오프라인`, `무료`, `네트워크`
+  - 주최: AWSKRUG
+  - 접수: 10. 18(수) ~ 10. 22(일)
 - __[OCI Data Platform 시리즈 2: 데이터 시각화 & AI/ML 알아보기](https://go.oracle.com/LP=138912?elqCampaignId=484021)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오라클
@@ -282,9 +270,17 @@
   - 접수: 09. 25(월) ~ 11. 01(수)
 
 - __[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>](https://festa.io/events/4125)__
-  - 분류: `오프라인`,`모임`, `기술일반`
+  - 분류: `오프라인`, `모임`, `기술일반`
   - 주최: 네이버 클라우드 플랫폼
   - 접수: 10. 10(화) ~ 11. 02(목)
+- __[신입 개발자를 위한 백엔드 아키텍쳐 설계 | 프리온보딩 BE 챌린지 11월](https://www.wanted.co.kr/events/pre_challenge_be_13)__
+  - 분류: `오프라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 10. 18(수) ~ 11. 02(목)
+- __[클린 코드 프론트엔드 | 프리온보딩 FE 챌린지 11월](https://www.wanted.co.kr/events/pre_challenge_fe_15)__
+  - 분류: `오프라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 10. 18(수) ~ 11. 02(목)
 - __[크래프톤 정글 4기 모집](https://jungle.krafton.com/)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
