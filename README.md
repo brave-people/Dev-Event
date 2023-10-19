@@ -184,6 +184,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `기술일반`
   - 주최: 구름
   - 접수: 10. 17(화) ~ 10. 24(화)
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/296552318/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 10. 19(목) ~ 10. 24(화)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
