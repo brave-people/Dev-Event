@@ -107,7 +107,8 @@
               <a href="./end_event/2023/23_06.md"> 06월 </a>,
               <a href="./end_event/2023/23_07.md"> 07월 </a>,
               <a href="./end_event/2023/23_08.md"> 08월 </a>,
-              <a href="./end_event/2023/23_09.md"> 09월 </a>
+              <a href="./end_event/2023/23_09.md"> 09월 </a>,
+              <a href="./end_event/2023/23_10.md"> 10월 </a>
             </td>
         </tr>
         <tr>
@@ -127,23 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[Netlify Compose 2023](https://www.netlify.com/conference/)__
-  - 분류: `무료`, `온라인`, `컨퍼런스`
-  - 주최: Netlify
-  - 일시: 10. 18(수) ~ 10. 19(목)
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/296616895/)__
-  - 분류: `오프라인`, `무료`, `보안`
-  - 주최: AWSKRUG
-  - 일시: 10. 19(수) 19:00 ~ 21:00
-- __[DEVOCEAN 5TH TECH DAY](https://devocean.sk.com/events/view.do?id=181)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 데보션
-  - 접수: 10. 10(화) ~ 10. 19(목)
 - __[AI 첫시작부터 논문까지, 내 눈높이에 맞춰 배우세요](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 아이펠
   - 접수: 09. 07(목) ~ 10. 20(금)
+
 - __[Machine Learning Meetup In Songdo](https://festa.io/events/4014)__
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: GDG 송도
@@ -188,6 +177,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 10. 19(목) ~ 10. 24(화)
+- __[10월 Tech 세미나 - 2023년의 딥러닝과 LLM 생태계](https://devocean.sk.com/events/view.do?id=182)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: DEVOCEAN
+  - 접수: 10. 20(금) ~ 10. 24(화)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
@@ -293,6 +286,10 @@
   - 분류: `모임`, `기술일반`
   - 주최: Github
   - 일시: 11. 08(수) ~ 11. 09(목)
+- __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
+  - 분류: `온라인`, `오프라인`, `무료`, `보안`
+  - 주최: 행전안전부
+  - 일시: 10. 20(금) ~ 11. 13(월)
 - __[SDC23 Korea](https://www.sdc-korea.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
