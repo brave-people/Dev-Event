@@ -128,47 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[AI 첫시작부터 논문까지, 내 눈높이에 맞춰 배우세요](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 아이펠
-  - 접수: 09. 07(목) ~ 10. 20(금)
-
-- __[Machine Learning Meetup In Songdo](https://festa.io/events/4014)__
-  - 분류: `무료`, `오프라인`, `AI`
-  - 주최: GDG 송도
-  - 접수: 09. 18(월) ~ 10. 20(금)
-- __[lab | up > /conf/3 - Make AI Accessible with Lablup](https://festa.io/events/4070)__
-  - 분류: `오프라인`, `유료`, `AI`
-  - 주최: 래블업
-  - 접수: 10. 07(토) ~ 10. 20(금)
-- __[FEConf 2023](https://2023.feconf.kr/)__
-  - 분류: `오프라인`, `프론트엔드`, `컨퍼런스`
-  - 주최: FEConf
-  - 일시: 10. 21(토)
-- __[SyncSwift 2023](https://asyncswift.org/)__
-  - 분류: `오프라인`, `유료`, `iOS`, `컨퍼런스`, `기술일반`
-  - 주최: AsyncSwift
-  - 일시: 10. 21(토)
-- __[자바 개발자 밋업](https://festa.io/events/4028)__
-  - 분류: `오프라인`, `유료`, `벡엔드`
-  - 주최: 흔한 백엔드 모임
-  - 접수: 09. 27(수) ~ 10. 22(일)
-- __[흔한 백엔드 개발자 모임](https://festa.io/events/4028)__
-  - 분류: `오프라인`, `유료`, `벡엔드`
-  - 주최: 흔한 백엔드 모임
-  - 접수: 10. 11(수) ~ 10. 22(일)
-- __[AI 서비스 기획자 1기 , AI 모델 개발자 1기 교육 과정 모집](https://estfamily.career.greetinghr.com/kdt-develop-1)__
-  - 분류: `오프라인`, `무료`, `교육`, `AI`
-  - 주최: 이스트소프트
-  - 접수: 10. 13(금) ~ 10. 22(일)
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/296686660/)__
-  - 분류: `오프라인`, `무료`, `네트워크`
-  - 주최: AWSKRUG
-  - 접수: 10. 18(수) ~ 10. 22(일)
 - __[OCI Data Platform 시리즈 2: 데이터 시각화 & AI/ML 알아보기](https://go.oracle.com/LP=138912?elqCampaignId=484021)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오라클
   - 접수: 10. 11(수) ~ 10. 24(화)
+  
 - __[리그 오브 레전드가 성공한 이유, 플레이어 중심주의](http://vrn68.app.goo.gl/fmHzt)__
   - 분류: `온라인`, `오프라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -282,6 +246,14 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
   - 접수: 10. 16(월) ~ 11. 02(목)
+- __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `오프라인`, `무료`, `교육`, `AI`
+  - 주최: SKT
+  - 접수: 10. 11(수) ~ 11. 06(월)
+- __[한빛N MSA - #7 Documentation](https://festa.io/events/4198)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: 한빛N MSA
+  - 접수: 10. 23(월) ~ 11. 08(수)
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
@@ -290,6 +262,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `보안`
   - 주최: 행전안전부
   - 일시: 10. 20(금) ~ 11. 13(월)
+- __[실무에 꼭 필요한 쿠버네티스 200% 활용방안](https://www.devmento.co.kr/seminas/developer_insight_seminar.html)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: 데브멘토
+  - 접수: 10. 23(월) ~ 11. 13(월)
 - __[SDC23 Korea](https://www.sdc-korea.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
