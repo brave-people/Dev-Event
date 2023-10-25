@@ -128,27 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[OCI Data Platform 시리즈 2: 데이터 시각화 & AI/ML 알아보기](https://go.oracle.com/LP=138912?elqCampaignId=484021)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 오라클
-  - 접수: 10. 11(수) ~ 10. 24(화)
-  
-- __[리그 오브 레전드가 성공한 이유, 플레이어 중심주의](http://vrn68.app.goo.gl/fmHzt)__
-  - 분류: `온라인`, `오프라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 10. 17(화) ~ 10. 24(화)
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/296552318/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 10. 19(목) ~ 10. 24(화)
-- __[10월 Tech 세미나 - 2023년의 딥러닝과 LLM 생태계](https://devocean.sk.com/events/view.do?id=182)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 10. 20(금) ~ 10. 24(화)
 - __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
   - 분류: `오프라인`, `커뮤니티`, `기술일반`
   - 주최: 마커스 에반스
   - 일시: 10. 24(화) ~ 10. 25(수)
+
 - __[개발자, 한 달에 책 한 권 읽기 2023년 10월 모임](https://festa.io/events/4101)__
   - 분류: `오프라인`, `커뮤니티`, `스터디`
   - 주최: 코딩의 신
@@ -258,6 +242,10 @@
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: 한빛N MSA
   - 접수: 10. 23(월) ~ 11. 08(수)
+- __[Flutter Developer Meetup - Seoul](https://festa.io/events/4202)__
+  - 분류: `무료`, `모임`, `안드로이드`, `iOS`
+  - 주최: Flutter Seoul
+  - 접수: 10. 25(수) ~ 11. 09(목)
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
@@ -278,6 +266,10 @@
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
   - 일시: 11. 14(화) ~ 11. 15(수)
+- __[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)__
+  - 분류: `무료`, `오프라인`, `AI`
+  - 주최: 엘리스
+  - 접수: 10. 25(수) ~ 11. 15(수)
 - __[.NET Conf 2023](https://www.dotnetconf.net/)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
