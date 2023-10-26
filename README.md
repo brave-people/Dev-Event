@@ -128,27 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[CIO Korea Summit 2023](https://events.marcusevans-events.com/cio-korea-summit-2023/)__
-  - 분류: `오프라인`, `커뮤니티`, `기술일반`
-  - 주최: 마커스 에반스
-  - 일시: 10. 24(화) ~ 10. 25(수)
-
-- __[개발자, 한 달에 책 한 권 읽기 2023년 10월 모임](https://festa.io/events/4101)__
-  - 분류: `오프라인`, `커뮤니티`, `스터디`
-  - 주최: 코딩의 신
-  - 일시: 10. 04(수) ~ 10. 25(수)
-- __[퓨리오사 AI 해커톤](https://furiosa-aihackathon.imweb.me/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 퓨리오사
-  - 접수: 10. 04(수) ~ 10. 25(수)
-- __[Seoul iOS Meetup](https://festa.io/events/4108)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 10. 05(목) ~ 10. 25(수)
 - __[사랑의 컨설턴트 챗GPT(챗GPT를 활용한 연애상담)](https://aifactory.space/task/2566/discussion/659)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: AIF 커뮤니티
   - 접수: 10. 12(목) ~ 10. 26(목)
+
 - __[AWS Community Day 2023](https://event-us.kr/awskrug/event/71783)__
   - 분류: `오프라인`, `유료`, `커뮤니티`, `클라우드`
   - 주최: AWSKRUG
@@ -238,14 +222,26 @@
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: SKT
   - 접수: 10. 11(수) ~ 11. 06(월)
+- __[iDC(i Dance with Code)](https://event-us.kr/idc/event/72325)__
+  - 분류: `오프라인`, `유료`, `iOS`
+  - 주최: iOS Daejeon Club
+  - 접수: 10. 23(월) ~ 11. 07(화)
 - __[한빛N MSA - #7 Documentation](https://festa.io/events/4198)__
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: 한빛N MSA
   - 접수: 10. 23(월) ~ 11. 08(수)
+- __[[2023 제3회 K-water AI 경진대회] 어종(魚種) 식별 및 분류 알고리즘](https://aifactory.space/task/2600/discussion/703)__
+  - 분류: `온라인`, `대회`, `AI`
+  - 주최: 한국수자원공사
+  - 접수: 10. 26(목) ~ 11. 08(수)
 - __[Flutter Developer Meetup - Seoul](https://festa.io/events/4202)__
   - 분류: `무료`, `모임`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
   - 접수: 10. 25(수) ~ 11. 09(목)
+- __[GDSC DGU 11월 Open Seminar](https://festa.io/events/4233)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: GDSC DGU
+  - 접수: 10. 26(목) ~ 11. 09(목)
 - __[GitHub Universe](https://githubuniverse.com/)__
   - 분류: `모임`, `기술일반`
   - 주최: Github
