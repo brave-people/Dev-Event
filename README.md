@@ -128,23 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[사랑의 컨설턴트 챗GPT(챗GPT를 활용한 연애상담)](https://aifactory.space/task/2566/discussion/659)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIF 커뮤니티
-  - 접수: 10. 12(목) ~ 10. 26(목)
-
-- __[AWS Community Day 2023](https://event-us.kr/awskrug/event/71783)__
-  - 분류: `오프라인`, `유료`, `커뮤니티`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 09. 27(수) ~ 10. 26(목)
-- __[TCN meetup 2023.10](https://festa.io/events/4118)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 09. 27(수) ~ 10. 26(목)
 - __[C++ Korea 2023 격월 Meet-Up](https://festa.io/events/4117)__
   - 분류: `오프라인`, `유료`, `C++`
   - 주최: C++ Korea
   - 접수: 10. 10(화) ~ 10. 27(금)
+
 - __[2023 Devfest WebTech](https://festa.io/events/4069)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG Korea WebTech
@@ -218,6 +206,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
   - 접수: 10. 16(월) ~ 11. 02(목)
+- __[생성 AI 시장의 발전과 혁신](https://techtalk.oopy.io/?utm_source=marketingdb&utm_medium=dev_event&utm_content=open_4th)__
+  - 분류: `오프라인`, `온라인`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 10. 27(금) ~ 11. 03(월)
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: SKT
@@ -282,6 +274,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `앱`
   - 주최: 스나이퍼팩토리
   - 일시: 09. 18(월) ~ 11. 17(금)
+- __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
+  - 분류: `온라인`, `무료`, `대회`, `백엔드`
+  - 주최: 엘리스
+  - 접수: 10. 26(목) ~ 11. 24(금)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
