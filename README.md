@@ -242,6 +242,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 부산광역시
   - 일시: 11. 08(수) ~ 11. 09(목)
+- __[Hugging Face KREW Hackathon 2023: 일상에서의 AI](https://pseudo-lab.github.io/huggingface-hackathon23/ko/)__
+  - 분류: `온라인`, `오프라인`, `무료`, `AI`, `오픈소스`
+  - 주최: Hugging Face KREW
+  - 접수: 10. 20(금) ~ 11. 10(금)
 - __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
   - 분류: `온라인`, `오프라인`, `무료`, `보안`
   - 주최: 행전안전부
