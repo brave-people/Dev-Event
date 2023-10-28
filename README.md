@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-110-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-111-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -590,6 +590,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hanlee55"><img src="https://avatars.githubusercontent.com/u/76910100?v=4?s=100" width="100px;" alt="Han Lee &#124; 이한결"/><br /><sub><b>Han Lee &#124; 이한결</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hanlee55" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.huni.kr/"><img src="https://avatars.githubusercontent.com/u/13290706?v=4?s=100" width="100px;" alt="PENEKhun"/><br /><sub><b>PENEKhun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PENEKhun" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@junhopportunity"><img src="https://avatars.githubusercontent.com/u/89464762?v=4?s=100" width="100px;" alt="JunHo Kim"/><br /><sub><b>JunHo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JunhOpportunity" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0525hhgus"><img src="https://avatars.githubusercontent.com/u/47289574?v=4?s=100" width="100px;" alt="Hyeonseo Yun"/><br /><sub><b>Hyeonseo Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=0525hhgus" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
