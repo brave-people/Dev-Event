@@ -420,6 +420,7 @@
 | Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
 | NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
 | 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
+| 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
