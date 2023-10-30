@@ -128,35 +128,11 @@
 <br />
 
 ## 23년 10월
-- __[C++ Korea 2023 격월 Meet-Up](https://festa.io/events/4117)__
-  - 분류: `오프라인`, `유료`, `C++`
-  - 주최: C++ Korea
-  - 접수: 10. 10(화) ~ 10. 27(금)
-
-- __[2023 Devfest WebTech](https://festa.io/events/4069)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: GDG Korea WebTech
-  - 접수: 10. 12(목) ~ 10. 27(금)
-- __[Deep Learning Day 2023 : "AI In Your Area"](https://event-us.kr/mdstech/event/66124)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: MDS테크
-  - 접수: 07. 31(월) ~ 10. 27(금)
-- __[Swift Coding Club 2023 하반기 중간 행사](https://festa.io/events/4068)__
-  - 분류: `오프라인`, `커뮤니티`, `iOS`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 10. 04(수) ~ 10. 28(토)
-- __[2023 TEOConf2](https://www.jumpit.co.kr/contents/428)__
-  - 분류: `오프라인`, `무료`, `컨퍼런스`
-  - 주최: TEOConf
-  - 일시: 10. 28(토) 13:00 ~ 18:30
-- __[HMG DEVELOPER CONFERENCE](https://devcon.hyundaimotorgroup.com/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 현대자동차그룹
-  - 접수: 10. 11(수) ~ 10. 29(일)
 - __[HD현대 AI Challenge](https://dacon.io/competitions/official/236158/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: HD현대
   - 일시: 09. 25(월) ~ 10. 30(월)
+
 - __[소프트웨어 공급망 공격 대응 방안과 오픈소스 거버넌스 자동화 전략](https://www.ddtube.co.kr/d2041/)__
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: 디지털데일리
@@ -230,6 +206,10 @@
   - 분류: `무료`, `모임`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
   - 접수: 10. 25(수) ~ 11. 09(목)
+- __[모두해유 | 도커(Docker) 실습으로 배우는 컴퓨터 시스템](https://event-us.kr/modu/event/73298)__
+  - 분류: `오프라인`, `무료`, `인프라`
+  - 주최: 모두의 연구소
+  - 접수: 10. 25(수) ~ 11. 09(목)
 - __[GDSC DGU 11월 Open Seminar](https://festa.io/events/4233)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: GDSC DGU
@@ -244,6 +224,10 @@
   - 일시: 11. 08(수) ~ 11. 09(목)
 - __[Hugging Face KREW Hackathon 2023: 일상에서의 AI](https://pseudo-lab.github.io/huggingface-hackathon23/ko/)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`, `오픈소스`
+  - 주최: Hugging Face KREW
+  - 접수: 10. 20(금) ~ 11. 10(금)
+- __[일상에서의 AI 해커톤](https://event-us.kr/huggingfacekrew/event/72612)__
+  - 분류: `오프라인`, `무료`, `AI`
   - 주최: Hugging Face KREW
   - 접수: 10. 20(금) ~ 11. 10(금)
 - __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
@@ -266,6 +250,10 @@
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: 엘리스
   - 접수: 10. 25(수) ~ 11. 15(수)
+- __[Oracle Cloud Night @G-star](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x846603abcd)__
+  - 분류: `온라인`, `무료`, `컨퍼런스`
+  - 주최: 오라클
+  - 접수: 10. 30(일) ~ 11. 15(수)
 - __[.NET Conf 2023](https://www.dotnetconf.net/)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
