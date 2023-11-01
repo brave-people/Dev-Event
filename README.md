@@ -127,27 +127,6 @@
 
 <br />
 
-## 23년 10월
-- __[학교안전사고 데이터분석 활용 경진대회](https://www.xn--289axkt9l0mao04fs9c7wrl7hfxc.com/summary/summary.php)__
-  - 분류: `오프라인`, `커뮤니티`, `기술일반`
-  - 주최: 교육부
-  - 일시: 08. 21(월) ~ 10. 31(화)
-
-- __[Next.js Conf](https://nextjs.org/conf)__
-  - 분류: `온라인`, `오프라인`, `프론트엔드`, `컨퍼런스`, `기술일반`
-  - 주최: Vercel
-  - 일시: 08. 21(월) ~ 10. 31(화)
-- __[임팩트캠퍼스 IT서비스 공모전](https://www.2023impactcontest-ic.com/)__
-  - 분류: `오프라인`, `무료`, `공모전`
-  - 주최: Root Impace, impact.campus
-  - 일시: 09. 25(월) ~ 10. 31(화)
-- __[2023 ABB Hackathon](https://festa.io/events/4177)__
-  - 분류: `오프라인`, `무료`, `대회`, `AI`, `보안`
-  - 주최: 대구광역시
-  - 접수: 10. 17(화) ~ 10. 31(화)
-
-<br />
-
 ## 23년 11월
 - __[2023 BDIA Dev Contest](https://www.wanted.co.kr/events/2023_BDIA)__
   - 분류: `오프라인`, `대회`, `기술일반`
@@ -238,6 +217,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `벡엔드`, `프론트엔드`
   - 주최: 지니공공아카데미
   - 접수: 10. 31(화) ~ 11. 14(화)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/297044308/)__
+  - 분류: `오프라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 01(수) ~ 11. 14(화)
 - __[SDC23 Korea](https://www.sdc-korea.com/)__
   - 분류: `무료`, `오프라인`, `기술일반`
   - 주최: 삼성전자
@@ -270,6 +253,14 @@
   - 분류: `온라인`, `오프라인`, `무료`, `앱`
   - 주최: 스나이퍼팩토리
   - 일시: 09. 18(월) ~ 11. 17(금)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
+  - 분류: `오프라인`, `무료`, `모임`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 11. 01(수) ~ 11. 20(월)
+- __[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Cochl
+  - 접수: 11. 01(수) ~ 11. 20(월)
 - __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
