@@ -331,6 +331,7 @@
 
 | 이름 | 링크 |
 |------------|-----------|
+| codeit 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
 | 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
 | 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
