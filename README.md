@@ -149,12 +149,6 @@
 <br />
 
 ## 23년 11월
-
-- __[2023 코드잇 Codeit 스프린트 프론트엔드 트랙 3기 부트캠트](https://sprint.codeit.kr/)__
-   - 분류: `온라인`, `부트캠프`, `프론트엔드`, `오프라인`, `무료`, `교육`, `취업`
-   - 주최: 코드잇 codeit
-   - 접수: 10. 12(목) ~ 11. 05(일)
-  
 - __[2023 BDIA Dev Contest](https://www.wanted.co.kr/events/2023_BDIA)__
   - 분류: `오프라인`, `대회`, `기술일반`
   - 주최: BDIA
@@ -184,6 +178,10 @@
   - 분류: `오프라인`, `온라인`, `무료`, `AI`
   - 주최: 구름
   - 접수: 10. 27(금) ~ 11. 03(월)
+- __[2023 코드잇 스프린트 프론트엔드 트랙 3기 부트캠트](https://sprint.codeit.kr/)__
+   - 분류: `온라인`, `오프라인`, `무료`, `교육`, `프론트엔드`
+   - 주최: 코드잇 codeit
+   - 접수: 10. 12(목) ~ 11. 05(일)
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: SKT
