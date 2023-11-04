@@ -129,31 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>](https://festa.io/events/4125)__
-  - 분류: `오프라인`, `모임`, `기술일반`
-  - 주최: 네이버 클라우드 플랫폼
-  - 접수: 10. 10(화) ~ 11. 02(목)
+- __[Paytalks with KREW : FE 에 초대합니다](https://docs.google.com/forms/d/e/1FAIpQLScwJNQDzNcTjuR0HJs9XS4pK2N3w_eTXGhW5zkhNE1X3ABDwQ/viewform)__
+   - 분류: `오프라인`, `무료`, `프론트엔드`
+   - 주최: 카카오페이
+   - 접수: 11. 02(목) ~ 11. 05(일)
 
-- __[신입 개발자를 위한 백엔드 아키텍쳐 설계 | 프리온보딩 BE 챌린지 11월](https://www.wanted.co.kr/events/pre_challenge_be_13)__
-  - 분류: `오프라인`, `무료`, `교육`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 10. 18(수) ~ 11. 02(목)
-- __[비즈니스 데이터 전처리 및 시각화 가이드 | 프리온보딩 데이터 챌린지 11월](https://www.wanted.co.kr/events/pre_challenge_data_3)__
-  - 분류: `오프라인`, `무료`, `교육`, `데이터`
-  - 주최: 원티드
-  - 접수: 10. 18(수) ~ 11. 02(목)
-- __[클린 코드 프론트엔드 | 프리온보딩 FE 챌린지 11월](https://www.wanted.co.kr/events/pre_challenge_fe_15)__
-  - 분류: `오프라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 10. 18(수) ~ 11. 02(목)
-- __[크래프톤 정글 4기 모집](https://jungle.krafton.com/)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤
-  - 접수: 10. 16(월) ~ 11. 02(목)
-- __[생성 AI 시장의 발전과 혁신](https://techtalk.oopy.io/?utm_source=marketingdb&utm_medium=dev_event&utm_content=open_4th)__
-  - 분류: `오프라인`, `온라인`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 10. 27(금) ~ 11. 03(월)
 - __[2023 코드잇 스프린트 프론트엔드 트랙 3기 부트캠트](https://sprint.codeit.kr/)__
    - 분류: `온라인`, `오프라인`, `무료`, `교육`, `프론트엔드`
    - 주최: 코드잇 codeit
@@ -210,6 +190,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `AI`, `오픈소스`
   - 주최: Hugging Face KREW
   - 접수: 10. 20(금) ~ 11. 10(금)
+- __[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)__
+  - 분류: `오프라인`, `무료`, `프론트엔드`
+  - 주최: TRIDGE x GraphQL
+  - 접수: 11. 01(수) ~ 11. 15(수)
 - __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
   - 분류: `온라인`, `오프라인`, `무료`, `보안`
   - 주최: 행전안전부
@@ -286,6 +270,7 @@
   - 분류: `유료`, `모임`, `기술일반`
   - 주최: GDG Busan
   - 접수: 10. 31(화) ~ 12. 01(금)
+
 - __[DevFest Songdo 2023](https://festa.io/events/4246)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: GDG Songdo
