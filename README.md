@@ -149,7 +149,7 @@
   - 분류: `오프라인`, `무료`, `교육`, `데이터`
   - 주최: 지니공공아카데미
   - 접수: 10. 26(목) ~ 11. 08(수)
-- **[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/ko-KR/awskrug/events/297110060)**
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/ko-KR/awskrug/events/297110060)__
   - 분류: `오프라인`, `무료`, `프론트엔드`
   - 주최: AWSKRUG
   - 일시: 11. 08(수)
@@ -213,7 +213,7 @@
   - 분류: `무료`, `오프라인`, `컨퍼런스`
   - 주최: 우아한형제들
   - 일시: 11. 15(수)
-- **[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)**
+- __[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 11. 15(수)
