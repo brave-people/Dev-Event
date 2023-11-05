@@ -129,19 +129,6 @@
 <br />
 
 ## 23년 11월
-- __[Paytalks with KREW : FE 에 초대합니다](https://docs.google.com/forms/d/e/1FAIpQLScwJNQDzNcTjuR0HJs9XS4pK2N3w_eTXGhW5zkhNE1X3ABDwQ/viewform)__
-   - 분류: `오프라인`, `무료`, `프론트엔드`
-   - 주최: 카카오페이
-   - 접수: 11. 02(목) ~ 11. 05(일)
-
-- __[2023 코드잇 스프린트 프론트엔드 트랙 3기 부트캠트](https://sprint.codeit.kr/)__
-   - 분류: `온라인`, `오프라인`, `무료`, `교육`, `프론트엔드`
-   - 주최: 코드잇 codeit
-   - 접수: 10. 12(목) ~ 11. 05(일)
-- __[2023 글로벌 AI보안 컨퍼런스](https://onoffmix.com/event/285898/)__
-   - 분류: `온라인`, `오프라인`, `보안`, `AI`
-   - 주최: 과학기술정보통신부
-   - 접수: 11. 02(목) ~ 11. 05(일)
 - __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: SKT
@@ -162,6 +149,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `데이터`
   - 주최: 지니공공아카데미
   - 접수: 10. 26(목) ~ 11. 08(수)
+- **[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/ko-KR/awskrug/events/297110060)**
+  - 분류: `오프라인`, `무료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 일시: 11. 08(수)
 - __[Flutter Developer Meetup - Seoul](https://festa.io/events/4202)__
   - 분류: `무료`, `모임`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
@@ -221,6 +212,10 @@
 - __[우아한테크콘퍼런스 2023](https://woowacon.com/)__
   - 분류: `무료`, `오프라인`, `컨퍼런스`
   - 주최: 우아한형제들
+  - 일시: 11. 15(수)
+- **[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)**
+  - 분류: `유료`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
   - 일시: 11. 15(수)
 - __[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)__
   - 분류: `무료`, `오프라인`, `AI`
