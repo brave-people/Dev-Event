@@ -181,6 +181,14 @@
   - 분류: `온라인`, `오프라인`, `무료`, `AI`, `오픈소스`
   - 주최: Hugging Face KREW
   - 접수: 10. 20(금) ~ 11. 10(금)
+- __[GraphQL: Inevitable Next Wave](https://docs.google.com/forms/d/e/1FAIpQLSdAHJOYTqO-cUGNQ3dD-kA9XP-V6jnXB7SDGnJwnjCBf1706Q/viewform)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: TRIDGE x GraphQL
+  - 접수: 11. 06(월) ~ 11. 12(일)
+- __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
+  - 분류: `오프라인`, `무료`, `해커톤`
+  - 주최: TRIDGE x GraphQL
+  - 접수: 11. 06(월) ~ 11. 12(일)
 - __[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)__
   - 분류: `오프라인`, `무료`, `프론트엔드`
   - 주최: TRIDGE x GraphQL
@@ -253,6 +261,10 @@
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
   - 접수: 10. 26(목) ~ 11. 24(금)
+- __[SIPE Meetup - 사담콘](https://festa.io/events/4230)__
+  - 분류: `오프라인`, `무료`, `커뮤니티`
+  - 주최: SIPE Team
+  - 접수: 11. 06(월) ~ 11. 24(금)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
@@ -310,6 +322,7 @@
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
+| SIPE | IT 커뮤니티 |[공식 홈페이지](https://pirogramming.com/)|
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
