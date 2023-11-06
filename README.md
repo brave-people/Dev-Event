@@ -187,8 +187,8 @@
   - 접수: 11. 06(월) ~ 11. 12(일)
 - __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
   - 분류: `오프라인`, `무료`, `해커톤`
-  - 주최: TRIDGE x GraphQL
-  - 접수: 11. 06(월) ~ 11. 12(일)
+  - 주최: 스나이퍼팩토리
+  - 접수: 11. 06(월) ~ 11. 14(화)
 - __[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)__
   - 분류: `오프라인`, `무료`, `프론트엔드`
   - 주최: TRIDGE x GraphQL
