@@ -216,7 +216,7 @@
 - __[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)__
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
-  - 일시: 11. 15(수)
+  - 접수: 11. 06(월) ~ 11. 13(월)
 - __[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)__
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: 엘리스
