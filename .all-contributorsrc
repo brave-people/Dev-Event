@@ -1032,6 +1032,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "danmin20",
+      "name": "이정민 Jeongmin Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50590192?v=4",
+      "profile": "https://www.jeong-min.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
