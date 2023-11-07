@@ -129,14 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[SK telecom FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
-  - 분류: `오프라인`, `무료`, `교육`, `AI`
-  - 주최: SKT
-  - 접수: 10. 11(수) ~ 11. 06(월)
 - __[iDC(i Dance with Code)](https://event-us.kr/idc/event/72325)__
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: iOS Daejeon Club
   - 접수: 10. 23(월) ~ 11. 07(화)
+
 - __[한빛N MSA - #7 Documentation](https://festa.io/events/4198)__
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: 한빛N MSA
@@ -177,6 +174,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 부산광역시
   - 일시: 11. 08(수) ~ 11. 09(목)
+- __[데보션 전문가에게 1:1 커피챗 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdMlFXq8_4UXTJYU_57VeJXQdgMlwJwPKTEuzKxdGDWKkB4yQ/viewform)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: DEVOCEAN
+  - 일시: 10. 25(수) ~ 11. 09(목)
 - __[Hugging Face KREW Hackathon 2023: 일상에서의 AI](https://pseudo-lab.github.io/huggingface-hackathon23/ko/)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`, `오픈소스`
   - 주최: Hugging Face KREW
@@ -185,6 +186,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: TRIDGE x GraphQL
   - 접수: 11. 06(월) ~ 11. 12(일)
+- __[쿠버네티스 200% 활용방안 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfROLsR9yK7_zSZAEVwVV9OeNYwgoCeQD4f3PzenK9a67v9mA/viewform)__
+  - 분류: `오프라인`, `무료`, `인프라`
+  - 주최: DevMentor
+  - 접수: 11. 07(화) ~ 11. 13(월)
 - __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
   - 분류: `오프라인`, `무료`, `해커톤`
   - 주최: 스나이퍼팩토리
@@ -237,6 +242,10 @@
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
   - 일시: 11. 15(수) ~ 11. 16(목)
+- __[SK TECH SUMMIT](https://sktechsummit.com/main/main.do)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: SKT
+  - 일시: 11. 15(수) ~ 11. 16(목)
 - __[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
@@ -257,6 +266,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cochl
   - 접수: 11. 01(수) ~ 11. 20(월)
+- __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: DEVOCEAN
+  - 접수: 11. 07(화) ~ 11. 22(수)
 - __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
@@ -265,6 +278,14 @@
   - 분류: `오프라인`, `무료`, `커뮤니티`
   - 주최: SIPE Team
   - 접수: 11. 06(월) ~ 11. 24(금)
+- __[MLSA와 함께하는 대학생 AI & Cloud 러닝 핸즈온 캠프](https://festa.io/events/4292)__
+  - 분류: `오프라인`, `무료`, `클라우드`, `AI`
+  - 주최: Microsoft Learn Student Ambassadors
+  - 접수: 11. 07(화) ~ 11. 24(금)
+- __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
+  - 분류: `오프라인`, `유료`, `스터디`
+  - 주최: 코딩의 신
+  - 접수: 11. 07(화) ~ 11. 29(월)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
