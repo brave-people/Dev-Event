@@ -129,15 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[iDC(i Dance with Code)](https://event-us.kr/idc/event/72325)__
-  - 분류: `오프라인`, `유료`, `iOS`
-  - 주최: iOS Daejeon Club
-  - 접수: 10. 23(월) ~ 11. 07(화)
-
 - __[한빛N MSA - #7 Documentation](https://festa.io/events/4198)__
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: 한빛N MSA
   - 접수: 10. 23(월) ~ 11. 08(수)
+
 - __[[2023 제3회 K-water AI 경진대회] 어종(魚種) 식별 및 분류 알고리즘](https://aifactory.space/task/2600/discussion/703)__
   - 분류: `온라인`, `대회`, `AI`
   - 주최: 한국수자원공사
@@ -206,6 +202,10 @@
   - 분류: `유료`, `오프라인`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 11. 06(월) ~ 11. 13(월)
+- __[11th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://www.dxchallenge.co.kr/events/11th-dx-forum)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: DX Challenge
+  - 접수: 11. 08(수) ~ 11. 13(월)
 - __[실무 웹 풀스택 핸즈온랩 세미나2 : 사용자 인증과 권한 구현하기](https://festa.io/events/4252)__
   - 분류: `오프라인`, `무료`, `교육`, `벡엔드`, `프론트엔드`
   - 주최: 지니공공아카데미
@@ -270,6 +270,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
   - 접수: 11. 07(화) ~ 11. 22(수)
+- __[오픈스택 / 클라우드 / 인프라 기술 대전 세미나](https://festa.io/events/4304)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 오픈스택 한국 커뮤니티
+  - 접수: 11. 08(화) ~ 11. 23(목)
 - __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
@@ -282,6 +286,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`, `AI`
   - 주최: Microsoft Learn Student Ambassadors
   - 접수: 11. 07(화) ~ 11. 24(금)
+- __[2023 SLAM KR Offline Event](https://festa.io/events/4260)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: SLAM KR
+  - 접수: 11. 08(수) ~ 11. 25(토)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
@@ -299,6 +307,10 @@
   - 주최: GDG Busan
   - 접수: 10. 31(화) ~ 12. 01(금)
 
+- __[MODUCON 2023](https://modulabs.im/moducon2023)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 11. 08(수) ~ 12. 08(금)
 - __[DevFest Songdo 2023](https://festa.io/events/4246)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: GDG Songdo
