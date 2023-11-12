@@ -246,7 +246,7 @@
     -   주최: Microsoft Learn Student Ambassadors
     -   접수: 11. 07(화) ~ 11. 24(금)
 -   **[HYPER-WEB 2023](https://festa.io/events/4126)**
-    -   분류: `오프라인`, `유료`, `벡엔드`, `프론트엔드`
+    -   분류: `오프라인`, `유료`, `벡엔드`, `프론트엔드`, `웹`
     -   주최: KSDC 한국 학생 개발자 클럽
     -   접수: 11. 09(목) ~ 11. 24(금)
 -   **[2023 SLAM KR Offline Event](https://festa.io/events/4260)**
