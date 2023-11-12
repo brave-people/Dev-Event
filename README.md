@@ -1,6 +1,7 @@
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-115-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -51,7 +52,7 @@
         <tr>
             <td rowspan="4"> 종료 행사 </td>
             <td>2020년</td>
-            <td> 
+            <td>
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
               <a href="./end_event/2020/20_09.md"> 09월 </a>,
               <a href="./end_event/2020/20_10.md"> 10월 </a>,
@@ -120,7 +121,7 @@
         </tr>
         <tr>
           <td> 행사 참여 후기 </td>
-          <td colspan="2"> 
+          <td colspan="2">
             <a href="./review/review.md"> 바로가기 </a>
           </td>
         </tr>
@@ -129,201 +130,205 @@
 <br />
 
 ## 23년 11월
-- __[GraphQL: Inevitable Next Wave](https://docs.google.com/forms/d/e/1FAIpQLSdAHJOYTqO-cUGNQ3dD-kA9XP-V6jnXB7SDGnJwnjCBf1706Q/viewform)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: TRIDGE x GraphQL
-  - 접수: 11. 06(월) ~ 11. 12(일)
 
-- __[쿠버네티스 200% 활용방안 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfROLsR9yK7_zSZAEVwVV9OeNYwgoCeQD4f3PzenK9a67v9mA/viewform)__
-  - 분류: `오프라인`, `무료`, `인프라`
-  - 주최: DevMentor
-  - 접수: 11. 07(화) ~ 11. 13(월)
-- __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
-  - 분류: `오프라인`, `무료`, `해커톤`
-  - 주최: 스나이퍼팩토리
-  - 접수: 11. 06(월) ~ 11. 14(화)
-- __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
-  - 분류: `온라인`, `오프라인`, `무료`, `보안`
-  - 주최: 행전안전부
-  - 일시: 10. 20(금) ~ 11. 13(월)
-- __[실무에 꼭 필요한 쿠버네티스 200% 활용방안](https://www.devmento.co.kr/seminas/developer_insight_seminar.html)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: 데브멘토
-  - 접수: 10. 23(월) ~ 11. 13(월)
-- __[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)__
-  - 분류: `유료`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 06(월) ~ 11. 13(월)
-- __[11th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://www.dxchallenge.co.kr/events/11th-dx-forum)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: DX Challenge
-  - 접수: 11. 08(수) ~ 11. 13(월)
-- __[2023 업비트 컨퍼런스](https://udc.upbit.com/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `기술일반`
-  - 주최: 두나무
-  - 접수: 11. 13(월) 10:30 ~ 20:30
-- __[실무 웹 풀스택 핸즈온랩 세미나2 : 사용자 인증과 권한 구현하기](https://festa.io/events/4252)__
-  - 분류: `오프라인`, `무료`, `교육`, `벡엔드`, `프론트엔드`
-  - 주최: 지니공공아카데미
-  - 접수: 10. 31(화) ~ 11. 14(화)
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/297044308/)__
-  - 분류: `오프라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 01(수) ~ 11. 14(화)
-- __[개발자 성장 기본기 : 문제해결 준비 가이드](https://festa.io/events/4263)__
-  - 분류: `오프라인`, `무료`, `모임`, `커리어`
-  - 주최: 모두의연구소
-  - 접수: 11. 02(목) ~ 11. 14(화) 23:59
-- __[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)__
-  - 분류: `오프라인`, `무료`, `프론트엔드`
-  - 주최: TRIDGE x GraphQL
-  - 접수: 11. 01(수) ~ 11. 15(수)
-- __[SDC23 Korea](https://www.sdc-korea.com/)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 삼성전자
-  - 일시: 11. 14(화) ~ 11. 15(수)
-- __[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)__
-  - 분류: `무료`, `오프라인`, `AI`
-  - 주최: 엘리스
-  - 접수: 10. 25(수) ~ 11. 15(수)
-- __[Oracle Cloud Night @G-star](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x846603abcd)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 오라클
-  - 접수: 10. 30(일) ~ 11. 15(수)
-- __[우아한테크콘퍼런스 2023](https://woowacon.com/)__
-  - 분류: `무료`, `오프라인`, `컨퍼런스`
-  - 주최: 우아한형제들
-  - 일시: 11. 15(수)
-- __[.NET Conf 2023](https://www.dotnetconf.net/)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 마이크로소프트
-  - 일시: 11. 15(수) ~ 11. 16(목)
-- __[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 마이크로소프트
-  - 일시: 11. 15(수) ~ 11. 16(목)
-- __[SK TECH SUMMIT 2023](https://sktechsummit.com/main/main.do)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: SK
-  - 일시: 11. 16(목) ~ 11. 17(금)
-- __[프로젝트 캠프: 플러터(Flutter, 웹/앱 개발)](https://festa.io/events/3999)__
-  - 분류: `온라인`, `오프라인`, `무료`, `앱`
-  - 주최: 스나이퍼팩토리
-  - 일시: 09. 18(월) ~ 11. 17(금)
-- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
-  - 분류: `오프라인`, `무료`, `모임`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 11. 01(수) ~ 11. 20(월)
-- __[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Cochl
-  - 접수: 11. 01(수) ~ 11. 20(월)
-- __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 11. 07(화) ~ 11. 22(수)
-- __[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 카카오뱅크
-  - 접수: 11. 09(목) ~ 11. 23(목)
-- __[오픈스택 / 클라우드 / 인프라 기술 대전 세미나](https://festa.io/events/4304)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 오픈스택 한국 커뮤니티
-  - 접수: 11. 08(화) ~ 11. 23(목)
-- __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
-  - 분류: `온라인`, `무료`, `대회`, `백엔드`
-  - 주최: 엘리스
-  - 접수: 10. 26(목) ~ 11. 24(금)
-- __[SIPE Meetup - 사담콘](https://festa.io/events/4230)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: SIPE Team
-  - 접수: 11. 06(월) ~ 11. 24(금)
-- __[MLSA와 함께하는 대학생 AI & Cloud 러닝 핸즈온 캠프](https://festa.io/events/4292)__
-  - 분류: `오프라인`, `무료`, `클라우드`, `AI`
-  - 주최: Microsoft Learn Student Ambassadors
-  - 접수: 11. 07(화) ~ 11. 24(금)
-- __[HYPER-WEB 2023](https://festa.io/events/4126)__
-  - 분류: `오프라인`, `무료`, `벡엔드`, `프론트엔드`
-  - 주최: KSDC 한국 학생 개발자 클럽
-  - 접수: 11. 09(목) ~ 11. 24(금)
-- __[2023 SLAM KR Offline Event](https://festa.io/events/4260)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: SLAM KR
-  - 접수: 11. 08(수) ~ 11. 25(토)
-- __[Seoul iOS Meetup [November 2023]](https://festa.io/events/4314)__
-  - 분류: `오프라인`, `온라인`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 11. 09(목) ~ 11. 27(월)
-- __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
-  - 분류: `오프라인`, `유료`, `스터디`
-  - 주최: 코딩의 신
-  - 접수: 11. 07(화) ~ 11. 29(월)
-- __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 한국저작권위원회
-  - 접수: 08. 16(수) ~ 11. 30(목)
+-   **[GraphQL: Inevitable Next Wave](https://docs.google.com/forms/d/e/1FAIpQLSdAHJOYTqO-cUGNQ3dD-kA9XP-V6jnXB7SDGnJwnjCBf1706Q/viewform)**
+
+    -   분류: `오프라인`, `무료`, `기술일반`
+    -   주최: TRIDGE x GraphQL
+    -   접수: 11. 06(월) ~ 11. 12(일)
+
+-   **[쿠버네티스 200% 활용방안 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfROLsR9yK7_zSZAEVwVV9OeNYwgoCeQD4f3PzenK9a67v9mA/viewform)**
+    -   분류: `오프라인`, `무료`, `인프라`
+    -   주최: DevMentor
+    -   접수: 11. 07(화) ~ 11. 13(월)
+-   **[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)**
+    -   분류: `오프라인`, `무료`, `해커톤`
+    -   주최: 스나이퍼팩토리
+    -   접수: 11. 06(월) ~ 11. 14(화)
+-   **[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)**
+    -   분류: `온라인`, `오프라인`, `무료`, `보안`
+    -   주최: 행전안전부
+    -   일시: 10. 20(금) ~ 11. 13(월)
+-   **[실무에 꼭 필요한 쿠버네티스 200% 활용방안](https://www.devmento.co.kr/seminas/developer_insight_seminar.html)**
+    -   분류: `오프라인`, `유료`, `인프라`
+    -   주최: 데브멘토
+    -   접수: 10. 23(월) ~ 11. 13(월)
+-   **[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)**
+    -   분류: `유료`, `오프라인`, `클라우드`
+    -   주최: AWSKRUG
+    -   접수: 11. 06(월) ~ 11. 13(월)
+-   **[11th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://www.dxchallenge.co.kr/events/11th-dx-forum)**
+    -   분류: `온라인`, `무료`, `데이터`
+    -   주최: DX Challenge
+    -   접수: 11. 08(수) ~ 11. 13(월)
+-   **[2023 업비트 컨퍼런스](https://udc.upbit.com/)**
+    -   분류: `온라인`, `오프라인`, `무료`, `기술일반`
+    -   주최: 두나무
+    -   접수: 11. 13(월) 10:30 ~ 20:30
+-   **[실무 웹 풀스택 핸즈온랩 세미나2 : 사용자 인증과 권한 구현하기](https://festa.io/events/4252)**
+    -   분류: `오프라인`, `무료`, `교육`, `벡엔드`, `프론트엔드`
+    -   주최: 지니공공아카데미
+    -   접수: 10. 31(화) ~ 11. 14(화)
+-   **[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/297044308/)**
+    -   분류: `오프라인`, `무료`, `모임`, `클라우드`
+    -   주최: AWSKRUG
+    -   접수: 11. 01(수) ~ 11. 14(화)
+-   **[개발자 성장 기본기 : 문제해결 준비 가이드](https://festa.io/events/4263)**
+    -   분류: `오프라인`, `무료`, `모임`, `커리어`
+    -   주최: 모두의연구소
+    -   접수: 11. 02(목) ~ 11. 14(화) 23:59
+-   **[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)**
+    -   분류: `오프라인`, `무료`, `프론트엔드`
+    -   주최: TRIDGE x GraphQL
+    -   접수: 11. 01(수) ~ 11. 15(수)
+-   **[SDC23 Korea](https://www.sdc-korea.com/)**
+    -   분류: `무료`, `오프라인`, `기술일반`
+    -   주최: 삼성전자
+    -   일시: 11. 14(화) ~ 11. 15(수)
+-   **[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)**
+    -   분류: `무료`, `오프라인`, `AI`
+    -   주최: 엘리스
+    -   접수: 10. 25(수) ~ 11. 15(수)
+-   **[Oracle Cloud Night @G-star](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x846603abcd)**
+    -   분류: `온라인`, `무료`, `컨퍼런스`
+    -   주최: 오라클
+    -   접수: 10. 30(일) ~ 11. 15(수)
+-   **[우아한테크콘퍼런스 2023](https://woowacon.com/)**
+    -   분류: `무료`, `오프라인`, `컨퍼런스`
+    -   주최: 우아한형제들
+    -   일시: 11. 15(수)
+-   **[.NET Conf 2023](https://www.dotnetconf.net/)**
+    -   분류: `온라인`, `무료`, `컨퍼런스`
+    -   주최: 마이크로소프트
+    -   일시: 11. 15(수) ~ 11. 16(목)
+-   **[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)**
+    -   분류: `온라인`, `무료`, `컨퍼런스`
+    -   주최: 마이크로소프트
+    -   일시: 11. 15(수) ~ 11. 16(목)
+-   **[SK TECH SUMMIT 2023](https://sktechsummit.com/main/main.do)**
+    -   분류: `무료`, `오프라인`, `기술일반`
+    -   주최: SK
+    -   일시: 11. 16(목) ~ 11. 17(금)
+-   **[프로젝트 캠프: 플러터(Flutter, 웹/앱 개발)](https://festa.io/events/3999)**
+    -   분류: `온라인`, `오프라인`, `무료`, `앱`
+    -   주최: 스나이퍼팩토리
+    -   일시: 09. 18(월) ~ 11. 17(금)
+-   **[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)**
+    -   분류: `오프라인`, `무료`, `모임`, `인프라`
+    -   주최: AWSKRUG
+    -   접수: 11. 01(수) ~ 11. 20(월)
+-   **[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)**
+    -   분류: `오프라인`, `무료`, `AI`
+    -   주최: Cochl
+    -   접수: 11. 01(수) ~ 11. 20(월)
+-   **[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)**
+    -   분류: `온라인`, `무료`, `AI`
+    -   주최: DEVOCEAN
+    -   접수: 11. 07(화) ~ 11. 22(수)
+-   **[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)**
+    -   분류: `오프라인`, `무료`, `벡엔드`
+    -   주최: 카카오뱅크
+    -   접수: 11. 09(목) ~ 11. 23(목)
+-   **[오픈스택 / 클라우드 / 인프라 기술 대전 세미나](https://festa.io/events/4304)**
+    -   분류: `온라인`, `무료`, `인프라`
+    -   주최: 오픈스택 한국 커뮤니티
+    -   접수: 11. 08(화) ~ 11. 23(목)
+-   **[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)**
+    -   분류: `온라인`, `무료`, `대회`, `백엔드`
+    -   주최: 엘리스
+    -   접수: 10. 26(목) ~ 11. 24(금)
+-   **[SIPE Meetup - 사담콘](https://festa.io/events/4230)**
+    -   분류: `오프라인`, `무료`, `커뮤니티`
+    -   주최: SIPE Team
+    -   접수: 11. 06(월) ~ 11. 24(금)
+-   **[MLSA와 함께하는 대학생 AI & Cloud 러닝 핸즈온 캠프](https://festa.io/events/4292)**
+    -   분류: `오프라인`, `무료`, `클라우드`, `AI`
+    -   주최: Microsoft Learn Student Ambassadors
+    -   접수: 11. 07(화) ~ 11. 24(금)
+-   **[HYPER-WEB 2023](https://festa.io/events/4126)**
+    -   분류: `오프라인`, `유료`, `벡엔드`, `프론트엔드`
+    -   주최: KSDC 한국 학생 개발자 클럽
+    -   접수: 11. 09(목) ~ 11. 24(금)
+-   **[2023 SLAM KR Offline Event](https://festa.io/events/4260)**
+    -   분류: `오프라인`, `유료`, `인프라`
+    -   주최: SLAM KR
+    -   접수: 11. 08(수) ~ 11. 25(토)
+-   **[Seoul iOS Meetup [November 2023]](https://festa.io/events/4314)**
+    -   분류: `오프라인`, `온라인`, `iOS`
+    -   주최: Seoul iOS Meetup
+    -   접수: 11. 09(목) ~ 11. 27(월)
+-   **[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)**
+    -   분류: `오프라인`, `유료`, `스터디`
+    -   주최: 코딩의 신
+    -   접수: 11. 07(화) ~ 11. 29(월)
+-   **[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)**
+    -   분류: `오프라인`, `무료`, `오픈소스`
+    -   주최: 한국저작권위원회
+    -   접수: 08. 16(수) ~ 11. 30(목)
 
 <br />
 
 ## 23년 12월
-- __[DevFest Busan 2023](https://festa.io/events/4248)__
-  - 분류: `유료`, `모임`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 10. 31(화) ~ 12. 01(금)
 
-- __[MODUCON 2023](https://modulabs.im/moducon2023)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 11. 08(수) ~ 12. 08(금)
-- __[DevFest Songdo 2023](https://festa.io/events/4246)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: GDG Songdo
-  - 접수: 11. 02(목) ~ 12. 08(금)
-- __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
-  - 분류: `무료`, `대회`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 24(목) ~ 12. 13(수)
-- __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
-  - 분류: `보안`, `대회`
-  - 주최: 토스
-  - 접수: 07. 13(목) ~ 12. 15(금)
-- __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: 유데미
-  - 접수: 11. 01(수) ~ 12. 21(목)
-- __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
-  - 분류: `교육`, `MongoDB`
-  - 주최: MongoDB
-  - 일시: 06. 01(목) ~ 12. 31(일)
+-   **[DevFest Busan 2023](https://festa.io/events/4248)**
 
-----------------
+    -   분류: `유료`, `모임`, `기술일반`
+    -   주최: GDG Busan
+    -   접수: 10. 31(화) ~ 12. 01(금)
+
+-   **[MODUCON 2023](https://modulabs.im/moducon2023)**
+    -   분류: `오프라인`, `무료`, `AI`
+    -   주최: 모두의연구소
+    -   접수: 11. 08(수) ~ 12. 08(금)
+-   **[DevFest Songdo 2023](https://festa.io/events/4246)**
+    -   분류: `오프라인`, `유료`, `모임`, `기술일반`
+    -   주최: GDG Songdo
+    -   접수: 11. 02(목) ~ 12. 08(금)
+-   **[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)**
+    -   분류: `무료`, `대회`, `클라우드`
+    -   주최: 과학기술정보통신부
+    -   접수: 08. 24(목) ~ 12. 13(수)
+-   **[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)**
+    -   분류: `보안`, `대회`
+    -   주최: 토스
+    -   접수: 07. 13(목) ~ 12. 15(금)
+-   **[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)**
+    -   분류: `온라인`, `유료`, `기술일반`
+    -   주최: 유데미
+    -   접수: 11. 01(수) ~ 12. 21(목)
+-   **[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)**
+    -   분류: `교육`, `MongoDB`
+    -   주최: MongoDB
+    -   일시: 06. 01(목) ~ 12. 31(일)
+
+---
 
 <br />
 
 ## 개발자 동아리
 
-| 이름 | 활동                                            | 링크 |
-|------------|-----------------------------------------------|-----------|
-| DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
-| 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
-| 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
-| YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/), [instagram](https://www.instagram.com/about.yapp/) |
-| Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
-| AUSG | AWS 대학생 그룹                                    | [ausg.me](https://ausg.me/) |
-| D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
-| SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
-| 멋쟁이사자처럼 | 대학생 연합 동아리                                    | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
-| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리         | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
-| 디프만 | 디자이너와 프로그래머가 만났을 때                            | [depromeet.com](https://www.depromeet.com/) |
-| 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임                         | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
-| CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
-| Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/) |
-| University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
-| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
-| XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
-| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
-| 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
-| SIPE | 현직 개발자들이 모여 함께 학습하고 소통하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
+| 이름                                        | 활동                                                                          | 링크                                                                                                                                                     |
+| ------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DDD                                         | 개발자와 디자이너가 함께하는 사이드 프로젝트                                  | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)                              |
+| 한이음                                      | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 | [www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do)                                                                           |
+| 넥스터즈                                    | 개발자와 디자이너 연합 동아리                                                 | [teamnexters.com](http://teamnexters.com/)                                                                                                               |
+| YAPP                                        | 대학생 연합 기업형 IT 동아리                                                  | [yapp.co.kr](http://yapp.co.kr/), [instagram](https://www.instagram.com/about.yapp/)                                                                     |
+| Mash-Up                                     | 성장의 즐거움을 아는 친구들                                                   | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/)                                                                 |
+| AUSG                                        | AWS 대학생 그룹                                                               | [ausg.me](https://ausg.me/)                                                                                                                              |
+| D&D                                         | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체                 | [dnd.ac](https://dnd.ac/)                                                                                                                                |
+| SOPT                                        | 대학생 연합 IT벤처 창업 동아리                                                | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt)                                                                           |
+| 멋쟁이사자처럼                              | 대학생 연합 동아리                                                            | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/)                                                                |
+| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리                          | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
+| 디프만                                      | 디자이너와 프로그래머가 만났을 때                                             | [depromeet.com](https://www.depromeet.com/)                                                                                                              |
+| 프로그라피                                  | 세상에 필요한 IT서비스를 만드는 모임                                          | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)                                                               |
+| CEOS                                        | 신촌 연합 IT 창업 동아리                                                      | [공식 홈페이지](https://www.ceos.or.kr/)                                                                                                                 |
+| Central MakeUs Challenge(CMC)               | 수익형 앱 런칭 동아리                                                         | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/)                                                        |
+| University MakeUs Challenge(UMC)            | 대학교 연합 앱런칭 동아리                                                     | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/)                                                    |
+| UPF                                         | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                               | [upf.kr](https://upf.kr)                                                                                                                                 |
+| XREAL                                       | 세계 최고의 메타버스 학회, XREAL                                              | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/)                                                              |
+| Cloud Club                                  | 폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리                            | [공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)            |
+| 피로그래밍                                  | 비전공자를 위한 웹프로그래밍 동아리                                           | [공식 홈페이지](https://pirogramming.com/), [Instagram](https://www.instagram.com/pirogramming_official/)                                                |
+| SIPE                                        | 현직 개발자들이 모여 함께 학습하고 소통하는 IT 커뮤니티                       | [공식 홈페이지](https://sipe.team/), [Instagram](https://www.instagram.com/sipe_team/)                                                                   |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -331,26 +336,26 @@
 
 ## 개발 교육
 
-| 이름 | 링크 |
-|------------|-----------|
-| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
-| 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
-| CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
-| 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
-| 엘리스 | [Homepage](https://elice.io/home) |
-| 라이징 캠프 | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
-| 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
-| SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
-| 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
-| 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
-| 42 SEOUL | [Homepage](https://42seoul.kr/) |
-| 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
-| 메타버스 아카데미 | [Homepage](https://mtvs.kr) |
-| 모두의 연구소: 풀잎스쿨 | [Homepage](https://modulabs.co.kr/apply-flip/) |
-| 우아한테크코스 | [Homepage](https://woowacourse.github.io) |
-| 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
-| Kernel360 | [Homepage](https://kernel360.co.kr/) |
-| 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
+| 이름                      | 링크                                                                                                            |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 양재동 코드랩             | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg)       |
+| 모두의 연구소             | [Homepage](https://modulabs.co.kr/)                                                                             |
+| CCCR 아카데미             | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp)                                                           |
+| 인공지능혁신학교 AIFFEL   | [Homepage](https://aiffel.io/)                                                                                  |
+| 엘리스                    | [Homepage](https://elice.io/home)                                                                               |
+| 라이징 캠프               | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
+| 알고리즘 캠프             | [Homepage](https://algorithmcamp.oopy.io/)                                                                      |
+| SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/)                                                                               |
+| 크래프톤 정글             | [Homepage](https://jungle.krafton.com/)                                                                         |
+| 네이버 부스트캠프         | [Homepage](https://boostcamp.connect.or.kr/)                                                                    |
+| 42 SEOUL                  | [Homepage](https://42seoul.kr/)                                                                                 |
+| 카카오 테크 캠퍼스        | [Homepage](https://www.kakaotechcampus.com/user/index.do/)                                                      |
+| 메타버스 아카데미         | [Homepage](https://mtvs.kr)                                                                                     |
+| 모두의 연구소: 풀잎스쿨   | [Homepage](https://modulabs.co.kr/apply-flip/)                                                                  |
+| 우아한테크코스            | [Homepage](https://woowacourse.github.io)                                                                       |
+| 우아한테크캠프            | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프)                                                     |
+| Kernel360                 | [Homepage](https://kernel360.co.kr/)                                                                            |
+| 코드잇 스프린트           | [Homepage](https://sprint.codeit.kr/)                                                                           |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -358,64 +363,63 @@
 
 ## 개발자 모임
 
-| 이름 | 링크 |
-|------------|-----------|
-| 스프린트 서울 | [채팅방](https://gitter.im/sprintseoul/community) |
-| DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
-| Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
-| Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
-| GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
+| 이름                                     | 링크                                                                                                                                           |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 스프린트 서울                            | [채팅방](https://gitter.im/sprintseoul/community)                                                                                              |
+| DevOps Korea                             | [facebook](https://www.facebook.com/groups/TeAnE/)                                                                                             |
+| Serverless Korea                         | [event-us](https://event-us.kr/bsBxCcQJioWM/event)                                                                                             |
+| Google Developers Experts                | [developers.google.com](https://developers.google.com/community/experts)                                                                       |
+| GDG Golang korea                         | [facebook](https://www.facebook.com/gdggo/)                                                                                                    |
 | GDG Incheon & Songdo with Flutter Songdo | [homepage](http://gdgincheon.com/), [instagram](https://www.instagram.com/gdg_songdo/), [facebook](https://www.facebook.com/groups/gdgsongdo/) |
-| Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
-| IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
-| GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
-| OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) |
-| 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) |
-| SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
-| FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
-| 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
-| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
-| Vuejs Korea | [facebook](https://vuejs-kr.github.io/) |
-| Node.js Korea | [facebook](https://www.facebook.com/groups/nodejskr) |
-| NextJS Korea | [facebook](https://www.facebook.com/groups/nestjs-kr) |
-| OSXDev.org | [facebook](https://www.facebook.com/groups/osxdevorg/) |
-| GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
-| KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
-| devocean | [devocean.sk.com](https://devocean.sk.com/)
-| OpenStack Korea 커뮤니티 | [facebook](https://www.facebook.com/groups/openstack.kr) |
-| Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
-| Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
-| 표준프레임워크 오픈커뮤니티 | [open.egovframe.org](https://open.egovframe.org/) |
-| 게임 서버 개발자 모임 | [facebook](https://www.facebook.com/groups/207844736374114/) |
-| Kubernetes Korea | [facebook](https://www.facebook.com/groups/k8skr/) |
-| PostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
-| 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/) |
-| Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
-| Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
-| 구글 Flutter 한국 사용자 그룹 | [facebook](https://www.facebook.com/groups/flutterkorea/) |
-| React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
-| Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
-| 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-| 걸스인텍 코리아(Girls In Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/) |
-| OKKY (Java,Spring) | [homepage](https://okky.kr/) |
-| 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
-| 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
-| 안드로이드개발 | [facebook](https://www.facebook.com/groups/androidcode/) |
-| 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
-| GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
-| Tensorflow KR | [facebook](https://www.facebook.com/groups/TensorFlowKR/about) |
-| Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
-| 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
-| JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
-| 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
-| Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
-| NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
-| 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
-| 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
-| Flutter Seoul | [discord](https://www.flutter-seoul.com) |
+| Data Scientist Meetup in Seoul           | [meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/)                                                                         |
+| IT인프라 엔지니어 그룹                   | [facebook](https://www.facebook.com/groups/InfraEngineer/)                                                                                     |
+| GDG DevFest Seoul                        | [facebook](https://www.facebook.com/devfest.seoul.2019/)                                                                                       |
+| OSS 개발자 포럼                          | [facebook](https://www.facebook.com/groups/ossdevforum)                                                                                        |
+| 오픈 인프라                              | [oidc.co.kr](http://oidc.co.kr/)                                                                                                               |
+| SK 개발자 모임                           | [thub.sk.com](https://thub.sk.com/)                                                                                                            |
+| FinOps Korea                             | [facebook](https://www.facebook.com/groups/finops.community1)                                                                                  |
+| 스사모(한국 스파크 사용자 모임)          | [facebook](https://www.facebook.com/groups/sparkkoreauser/)                                                                                    |
+| React Korea                              | [facebook](https://www.facebook.com/groups/react.ko/)                                                                                          |
+| Vuejs Korea                              | [facebook](https://vuejs-kr.github.io/)                                                                                                        |
+| Node.js Korea                            | [facebook](https://www.facebook.com/groups/nodejskr)                                                                                           |
+| NextJS Korea                             | [facebook](https://www.facebook.com/groups/nestjs-kr)                                                                                          |
+| OSXDev.org                               | [facebook](https://www.facebook.com/groups/osxdevorg/)                                                                                         |
+| GDG Korea WebTech                        | [facebook](https://www.facebook.com/groups/webTechKR/)                                                                                         |
+| KSUG - 한국 스프링 사용자 모임           | [facebook](https://www.ksug.org/)                                                                                                              |
+| devocean                                 | [devocean.sk.com](https://devocean.sk.com/)                                                                                                    |
+| OpenStack Korea 커뮤니티                 | [facebook](https://www.facebook.com/groups/openstack.kr)                                                                                       |
+| Ceph 한국 커뮤니티                       | [facebook](https://www.facebook.com/groups/620899444961207)                                                                                    |
+| Open Compute Project 한국 커뮤니티       | [facebook](https://www.facebook.com/groups/ocpkorea/)                                                                                          |
+| 표준프레임워크 오픈커뮤니티              | [open.egovframe.org](https://open.egovframe.org/)                                                                                              |
+| 게임 서버 개발자 모임                    | [facebook](https://www.facebook.com/groups/207844736374114/)                                                                                   |
+| Kubernetes Korea                         | [facebook](https://www.facebook.com/groups/k8skr/)                                                                                             |
+| PostgreSQL Korea                         | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea)                                         |
+| 한국 리눅스 사용자 그룹                  | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/)                                               |
+| Korea Elasticsearch User Group           | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug)                                             |
+| Kotlin Korea                             | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/)                                                           |
+| 구글 Flutter 한국 사용자 그룹            | [facebook](https://www.facebook.com/groups/flutterkorea/)                                                                                      |
+| React Korea                              | [facebook](https://www.facebook.com/groups/react.ko/)                                                                                          |
+| Kaggle Korea                             | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)                                                                              |
+| 파이토치 한국 사용자 모임                | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/)                                                        |
+| 걸스인텍 코리아(Girls In Tech Korea)     | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/)                                           |
+| OKKY (Java,Spring)                       | [homepage](https://okky.kr/)                                                                                                                   |
+| 남궁성의 코드초보 스터디 (Java,C)        | [homepage](https://cafe.naver.com/javachobostudy)                                                                                              |
+| 우분투 한국 커뮤니티                     | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko)                                                       |
+| 안드로이드개발                           | [facebook](https://www.facebook.com/groups/androidcode/)                                                                                       |
+| 닷넷데브                                 | [homepage](https://www.dotnetconf.kr/history)                                                                                                  |
+| GraphQL Korea                            | [facebook](https://www.facebook.com/groups/graphql.kr)                                                                                         |
+| Tensorflow KR                            | [facebook](https://www.facebook.com/groups/TensorFlowKR/about)                                                                                 |
+| Google Study Jams in Korea               | [facebook](https://www.facebook.com/groups/studyjamkorea/)                                                                                     |
+| 가짜연구소                               | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab)                                                     |
+| JetBrains 코리아                         | [facebook](https://www.facebook.com/jetbrainsKR/)                                                                                              |
+| 스위프트 코딩클럽                        | [discord](https://discord.com/invite/w4T2zgvbPv)                                                                                               |
+| Kubernetes Korea Group                   | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR)                                                                                |
+| NLP Korea                                | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR)                                                                                |
+| 음성 오픈데이터셋 아카이브 SODA          | [notion](https://soda.oopy.io/)                                                                                                                |
+| 리눅스 커널 스터디 그룹 iamroot          | [homepage](http://www.iamroot.org/xe/)                                                                                                         |
+| Flutter Seoul                            | [discord](https://www.flutter-seoul.com)                                                                                                       |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
-
 
 <br />
 
@@ -423,16 +427,16 @@
 
 > 정규적으로 열리는 개발자 행사입니다.
 
-| 이름 | 링크 |
-|------------|-----------|
-| TeamH4C | [facebook](https://www.facebook.com/teamh4c/) |
-| Codeengn | [codeengn.com](https://codeengn.com/conference/) |
-| CTF Time | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
-| 스프링 캠프 | [springcamp.ksug.org/2023](https://springcamp.ksug.org/2023/) |
-| DACON | [dacon.io](https://dacon.io) |
-| FEConf | [feconf.kr](https://feconf.kr/)|
-| JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)|
-| PyCon Korea | [pycon.kr](https://pycon.kr/)
+| 이름            | 링크                                                                                                    |
+| --------------- | ------------------------------------------------------------------------------------------------------- |
+| TeamH4C         | [facebook](https://www.facebook.com/teamh4c/)                                                           |
+| Codeengn        | [codeengn.com](https://codeengn.com/conference/)                                                        |
+| CTF Time        | [ctftime.org](http://ctftime.org/?fbclid=IwAR26fXW5aM0YTfSYOdVE34LJuQZnUQSJry54ORvkB5XZGAbi3_LdC-ACOaU) |
+| 스프링 캠프     | [springcamp.ksug.org/2023](https://springcamp.ksug.org/2023/)                                           |
+| DACON           | [dacon.io](https://dacon.io)                                                                            |
+| FEConf          | [feconf.kr](https://feconf.kr/)                                                                         |
+| JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)                                                    |
+| PyCon Korea     | [pycon.kr](https://pycon.kr/)                                                                           |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
