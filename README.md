@@ -129,15 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[GraphQL: Inevitable Next Wave](https://docs.google.com/forms/d/e/1FAIpQLSdAHJOYTqO-cUGNQ3dD-kA9XP-V6jnXB7SDGnJwnjCBf1706Q/viewform)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: TRIDGE x GraphQL
-  - 접수: 11. 06(월) ~ 11. 12(일)
-
 - __[쿠버네티스 200% 활용방안 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfROLsR9yK7_zSZAEVwVV9OeNYwgoCeQD4f3PzenK9a67v9mA/viewform)__
   - 분류: `오프라인`, `무료`, `인프라`
   - 주최: DevMentor
   - 접수: 11. 07(화) ~ 11. 13(월)
+
 - __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
   - 분류: `오프라인`, `무료`, `해커톤`
   - 주최: 스나이퍼팩토리
@@ -222,6 +218,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
   - 접수: 11. 07(화) ~ 11. 22(수)
+- __[eGovFrame X K-PaaS 콜라보 세미나](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1884)__
+  - 분류: `온라인`, `무료`, `오픈소스`
+  - 주최: NIA한국지능정보사회진흥원
+  - 접수: 11. 22(수) 19:00
 - __[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 카카오뱅크
@@ -271,6 +271,14 @@
   - 주최: GDG Busan
   - 접수: 10. 31(화) ~ 12. 01(금)
 
+- __[Everyone can Swift!](https://festa.io/events/4326)__
+  - 분류: `유료`, `모임`, `iOS`
+  - 주최: 스위프트 코딩클럽
+  - 접수: 11. 13(월) ~ 12. 01(금)
+- __[Merry Developermas](https://festa.io/events/4319)__
+  - 분류: `유료`, `오프라인`, `모임`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 11. 13(월) ~ 12. 02(토)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -279,6 +287,14 @@
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: GDG Songdo
   - 접수: 11. 02(목) ~ 12. 08(금)
+- __[대전 개발자 END OF YEAR PARTY !](https://festa.io/events/4320)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 11. 13(월) ~ 12. 08(금)
+- __[Devfest Songdo 2023](https://festa.io/events/4246)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: GDG Songdo
+  - 접수: 11. 13(월) ~ 12. 09(토)
 - __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `무료`, `대회`, `클라우드`
   - 주최: 과학기술정보통신부
