@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-115-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-116-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -595,6 +595,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://yenyen31.tistory.com/"><img src="https://avatars.githubusercontent.com/u/82165728?v=4?s=100" width="100px;" alt="Yen31"/><br /><sub><b>Yen31</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yenyen31" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/suu3"><img src="https://avatars.githubusercontent.com/u/71166763?v=4?s=100" width="100px;" alt="suu3"/><br /><sub><b>suu3</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suu3" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.jeong-min.com/"><img src="https://avatars.githubusercontent.com/u/50590192?v=4?s=100" width="100px;" alt="이정민 Jeongmin Lee"/><br /><sub><b>이정민 Jeongmin Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=danmin20" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bit.ly/seochan"><img src="https://avatars.githubusercontent.com/u/78739194?v=4?s=100" width="100px;" alt="HuiChan Seo"/><br /><sub><b>HuiChan Seo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seochan99" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
