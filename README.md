@@ -129,31 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[쿠버네티스 200% 활용방안 세미나](https://docs.google.com/forms/d/e/1FAIpQLSfROLsR9yK7_zSZAEVwVV9OeNYwgoCeQD4f3PzenK9a67v9mA/viewform)__
-  - 분류: `오프라인`, `무료`, `인프라`
-  - 주최: DevMentor
-  - 접수: 11. 07(화) ~ 11. 13(월)
-
 - __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
   - 분류: `오프라인`, `무료`, `해커톤`
   - 주최: 스나이퍼팩토리
   - 접수: 11. 06(월) ~ 11. 14(화)
-- __[제 13회 소프트웨어 개발보안 컨퍼런스](https://onoffmix.com/event/286390)__
-  - 분류: `온라인`, `오프라인`, `무료`, `보안`
-  - 주최: 행전안전부
-  - 일시: 10. 20(금) ~ 11. 13(월)
-- __[실무에 꼭 필요한 쿠버네티스 200% 활용방안](https://www.devmento.co.kr/seminas/developer_insight_seminar.html)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: 데브멘토
-  - 접수: 10. 23(월) ~ 11. 13(월)
-- __[AWSKRUG Women In Cloud 2nd meet up](https://www.meetup.com/ko-KR/awskrug/events/297088497)__
-  - 분류: `유료`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 06(월) ~ 11. 13(월)
-- __[11th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI](https://www.dxchallenge.co.kr/events/11th-dx-forum)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: DX Challenge
-  - 접수: 11. 08(수) ~ 11. 13(월)
+
 - __[2023 업비트 컨퍼런스](https://udc.upbit.com/)__
   - 분류: `온라인`, `오프라인`, `무료`, `기술일반`
   - 주최: 두나무
@@ -190,6 +170,10 @@
   - 분류: `무료`, `오프라인`, `컨퍼런스`
   - 주최: 우아한형제들
   - 일시: 11. 15(수)
+- __[구름 해커톤](https://9oormthon.goorm.io/)__
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최: 구름
+  - 접수: 11. 02(목) ~ 11. 15(수)
 - __[.NET Conf 2023](https://www.dotnetconf.net/)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
@@ -206,6 +190,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `앱`
   - 주최: 스나이퍼팩토리
   - 일시: 09. 18(월) ~ 11. 17(금)
+- __[AWS GameDay League of Legends Esports Edition](https://pages.awscloud.com/aws-gameday-lol-esports-edition)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: AWS
+  - 접수: 11. 14(화) ~ 11. 18(토)
 - __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
   - 분류: `오프라인`, `무료`, `모임`, `인프라`
   - 주최: AWSKRUG
@@ -214,6 +202,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cochl
   - 접수: 11. 01(수) ~ 11. 20(월)
+- __[개발자 필독서, '클린 코드'에서 놓치고 있는 이야기](https://blog.goorm.io/commit_14th/?utm_source=marketingdb&utm_medium=dev_event&utm_content=commit)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 11. 14(화) ~ 11. 20(월)
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
@@ -262,6 +254,10 @@
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
   - 접수: 08. 16(수) ~ 11. 30(목)
+- __[국회 공공데이터 활용 경진대회](https://www.assembly00data.com/)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 대한민국 국회
+  - 접수: 11. 10(금) ~ 11. 30(목)
 
 <br />
 
