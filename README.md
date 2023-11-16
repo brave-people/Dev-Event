@@ -285,7 +285,7 @@
   - 접수: 07. 13(목) ~ 12. 15(금)
 - __[liftIO 2023](https://festa.io/events/4257)__
   - 분류: `오프라인`, `유료`, `함수형 프로그래밍`
-  - 주최: liftIO
+  - 주최: liftIO 준비위원회 & (주)컨스택츠코리아
   - 접수: 11. 15(수) ~ 12. 15(금)
 - __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
   - 분류: `온라인`, `무료`, `교육`
