@@ -284,7 +284,7 @@
   - 주최: 토스
   - 접수: 07. 13(목) ~ 12. 15(금)
 - __[liftIO 2023](https://festa.io/events/4257)__
-  - 분류: `온라인`, `무료`, `보안`
+  - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
 - __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
