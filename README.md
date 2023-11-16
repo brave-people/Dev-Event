@@ -129,35 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[GraphQL: Inevitable Next Wave](https://festa.io/events/4279)__
-  - 분류: `오프라인`, `무료`, `프론트엔드`
-  - 주최: TRIDGE x GraphQL
-  - 접수: 11. 01(수) ~ 11. 15(수)
-
-- __[SDC23 Korea](https://www.sdc-korea.com/)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: 삼성전자
-  - 일시: 11. 14(화) ~ 11. 15(수)
-- __[INSIGHT CONF : MLOps 오프라인](https://academy.elice.io/courses/79168/info)__
-  - 분류: `무료`, `오프라인`, `AI`
-  - 주최: 엘리스
-  - 접수: 10. 25(수) ~ 11. 15(수)
-- __[Oracle Cloud Night @G-star](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x846603abcd)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 오라클
-  - 접수: 10. 30(일) ~ 11. 15(수)
-- __[우아한테크콘퍼런스 2023](https://woowacon.com/)__
-  - 분류: `무료`, `오프라인`, `컨퍼런스`
-  - 주최: 우아한형제들
-  - 일시: 11. 15(수)
-- __[구름 해커톤](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인`, `유료`, `대회`
-  - 주최: 구름
-  - 접수: 11. 02(목) ~ 11. 15(수)
 - __[.NET Conf 2023](https://www.dotnetconf.net/)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
   - 일시: 11. 15(수) ~ 11. 16(목)
+
 - __[Microsoft Ignite](https://ignite.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 마이크로소프트
@@ -230,6 +206,10 @@
   - 분류: `온라인`, `무료`, `리눅스`
   - 주최: 리얼리눅스
   - 접수: 11. 15(수) ~ 11. 27(월)
+- __[Gitlab Korea 밋업 #18 - VSM으로 완성하는 DevSecOps와 SlackBot 자동화](https://festa.io/events/4332)__
+  - 분류: `오프라인`, `무료`, `인프라`
+  - 주최: GitLab Korea
+  - 접수: 11. 16(목) ~ 11. 28(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
@@ -267,6 +247,10 @@
   - 분류: `온라인`, `유료`, `해커톤`
   - 주최: 비사이드
   - 접수: 11. 13(월) ~ 12. 03(일)
+- __[FIDO 얼라이언스 퍼블릭 세미나](https://devocean.sk.com/events/view.do?id=185)__
+  - 분류: `온라인`, `무료`, `보안`, `기술일반`
+  - 주최: DEVOCEAN
+  - 접수: 11. 16(목) ~ 12. 04(월)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -283,6 +267,14 @@
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: GDG Songdo
   - 접수: 11. 13(월) ~ 12. 09(토)
+- __[클라우드 지식과 경험을 공유하는 NHN Cloud IT Up](https://info.nhncloud.com/itup.html?utm_source=github_dev_event&utm_medium=post&utm_campaign=itup&utm_content=1116_itup_event)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: GDG Songdo
+  - 접수: 11. 16(목) ~ 12. 09(토)
+- __[2023 부산 개발자를 위한 송년회](https://festa.io/events/4360)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: GDG Cloud Busan
+  - 접수: 11. 16(목) ~ 12. 09(토)
 - __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `무료`, `대회`, `클라우드`
   - 주최: 과학기술정보통신부
@@ -295,6 +287,10 @@
   - 분류: `온라인`, `무료`, `보안`
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
+- __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: AIVLE
+  - 접수: 11. 27(월) ~ 12. 18(월)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
