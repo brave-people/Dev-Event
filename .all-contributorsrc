@@ -1050,6 +1050,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "moomin-cho",
+      "name": "무민 조현석",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103555554?v=4",
+      "profile": "https://github.com/moomin-cho",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
