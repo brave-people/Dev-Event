@@ -307,6 +307,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
+- __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
+  - 분류: `오프라인`, `온라인`, `사이드 프로젝트`
+  - 주최: DND
+  - 접수: 11. 20(월) ~ 12. 18(월)
 - __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: AIVLE
@@ -334,7 +338,7 @@
 | YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/), [instagram](https://www.instagram.com/about.yapp/) |
 | Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹                                    | [ausg.me](https://ausg.me/) |
-| D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
+| DND | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
 | SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
 | 멋쟁이사자처럼 | 대학생 연합 동아리                                    | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
 | Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리         | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
