@@ -308,7 +308,7 @@
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
-  - 분류: `오프라인`, `온라인`, `사이드 프로젝트`, `개발자`, `디자이너`
+  - 분류: `오프라인`, `온라인`, `무료`, `모임`
   - 주최: DND
   - 접수: 11. 20(월) ~ 12. 18(월)
 - __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
