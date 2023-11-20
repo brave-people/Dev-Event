@@ -129,23 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[SK TECH SUMMIT 2023](https://sktechsummit.com/main/main.do)__
-  - 분류: `무료`, `오프라인`, `기술일반`
-  - 주최: SK
-  - 일시: 11. 16(목) ~ 11. 17(금)
-
-- __[프로젝트 캠프: 플러터(Flutter, 웹/앱 개발)](https://festa.io/events/3999)__
-  - 분류: `온라인`, `오프라인`, `무료`, `앱`
-  - 주최: 스나이퍼팩토리
-  - 일시: 09. 18(월) ~ 11. 17(금)
-- __[AWS GameDay League of Legends Esports Edition](https://pages.awscloud.com/aws-gameday-lol-esports-edition)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: AWS
-  - 접수: 11. 14(화) ~ 11. 18(토)
 - __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
   - 분류: `오프라인`, `무료`, `모임`, `인프라`
   - 주최: AWSKRUG
   - 접수: 11. 01(수) ~ 11. 20(월)
+  
 - __[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cochl
@@ -154,6 +142,10 @@
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 구름
   - 접수: 11. 14(화) ~ 11. 20(월)
+- __[Docker Overview 웨비나](https://us06web.zoom.us/webinar/register/6816993149124/WN_9brUxe_mSOym_GjVmWsm9g#/registration)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 단군소프트
+  - 접수: 11. 20(월) ~ 11. 21(화)
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
@@ -319,6 +311,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
   - 접수: 11. 01(수) ~ 12. 21(목)
+- __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 이스트소프트
+  - 접수: 11. 20(월) ~ 12. 22(금)
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
