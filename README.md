@@ -136,7 +136,7 @@
 
 - __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/297395088/)__
   - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: DEVOCEAN
+  - 주최: AWSKRUG
   - 접수: 11. 20(월) ~ 11. 22(수)
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
@@ -150,6 +150,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 한국블레이저개발자모임
   - 접수: 11. 17(금) ~ 11. 22(수)
+- __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: DEVOCEAN
+  - 접수: 11. 21(화) ~ 11. 23(목)
 - __[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 카카오뱅크
