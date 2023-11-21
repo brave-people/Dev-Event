@@ -129,23 +129,15 @@
 <br />
 
 ## 23년 11월
-- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/297065221/)__
-  - 분류: `오프라인`, `무료`, `모임`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 11. 01(수) ~ 11. 20(월)
-  
-- __[[Cochl AI Talk] AI 프로덕트의 탄생: 기술에서 제품까지](https://festa.io/events/4103)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Cochl
-  - 접수: 11. 01(수) ~ 11. 20(월)
-- __[개발자 필독서, '클린 코드'에서 놓치고 있는 이야기](https://blog.goorm.io/commit_14th/?utm_source=marketingdb&utm_medium=dev_event&utm_content=commit)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 11. 14(화) ~ 11. 20(월)
 - __[Docker Overview 웨비나](https://us06web.zoom.us/webinar/register/6816993149124/WN_9brUxe_mSOym_GjVmWsm9g#/registration)__
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: 단군소프트
   - 접수: 11. 20(월) ~ 11. 21(화)
+
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/297395088/)__
+  - 분류: `오프라인`, `유료`, `클라우드`
+  - 주최: DEVOCEAN
+  - 접수: 11. 20(월) ~ 11. 22(수)
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
@@ -287,6 +279,14 @@
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG Cloud Busan
   - 접수: 11. 16(목) ~ 12. 09(토)
+- __[UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar](https://festa.io/events/4360)__
+  - 분류: `오프라인`, `무료`, `오픈소스`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 11. 21(화) ~ 12. 09(토)
+- __[Devfest Android x Pangyo 2023](https://festa.io/events/4379)__
+  - 분류: `오프라인`, `유료`, `안드로이드`
+  - 주최: GDG Korea Android
+  - 접수: 11. 21(화) ~ 12. 12(화)
 - __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `무료`, `대회`, `클라우드`
   - 주최: 과학기술정보통신부
