@@ -129,15 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[Docker Overview 웨비나](https://us06web.zoom.us/webinar/register/6816993149124/WN_9brUxe_mSOym_GjVmWsm9g#/registration)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 단군소프트
-  - 접수: 11. 20(월) ~ 11. 21(화)
-
 - __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/297395088/)__
   - 분류: `오프라인`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 11. 20(월) ~ 11. 22(수)
+
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
@@ -271,6 +267,10 @@
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 11. 13(월) ~ 12. 08(금)
+- __[Devfest Cloud 2023](https://festa.io/events/4385)__
+  - 분류: `오프라인`, `유료`, `모임`, `클라우드`
+  - 주최: GDG Cloud KR
+  - 접수: 11. 22(수) ~ 12. 08(금)
 - __[Devfest Songdo 2023](https://festa.io/events/4246)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: GDG Songdo
@@ -319,6 +319,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 11. 20(월) ~ 12. 22(금)
+- __[GDSC DevFest Campus](https://festa.io/events/4368)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: GDSC DevFest Campus
+  - 접수: 11. 22(수) ~ 12. 23(금)
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
