@@ -129,27 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/297395088/)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 20(월) ~ 11. 22(수)
-
-- __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 11. 07(화) ~ 11. 22(수)
-- __[eGovFrame X K-PaaS 콜라보 세미나](https://www.egovframe.go.kr/home/ntt/nttRead.do?menuNo=74&bbsId=6&nttId=1884)__
-  - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최: NIA한국지능정보사회진흥원
-  - 접수: 11. 22(수) 19:00
-- __[.NET Conf 2023 @ Blazor Korea](https://onoffmix.com/event/287327)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 한국블레이저개발자모임
-  - 접수: 11. 17(금) ~ 11. 22(수)
 - __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: DEVOCEAN
   - 접수: 11. 21(화) ~ 11. 23(목)
+
 - __[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 카카오뱅크
@@ -194,6 +178,14 @@
   - 분류: `오프라인`, `무료`, `인프라`
   - 주최: GitLab Korea
   - 접수: 11. 16(목) ~ 11. 28(화)
+- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/297252903/)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 11. 23(목) ~ 11. 28(화)
+- __[AWSKRUG 아키텍처 #architecture x 서버리스 #serverless 45번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/297234132/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 11. 23(목) ~ 11. 28(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
@@ -251,6 +243,10 @@
   - 분류: `온라인`, `무료`, `보안`, `기술일반`
   - 주최: DEVOCEAN
   - 접수: 11. 16(목) ~ 12. 04(월)
+- __[한빛N MSA - #9 Monitoring](https://festa.io/events/4392)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 한빛N MSA
+  - 접수: 11. 23(목) ~ 12. 06(수)
 - __[소주콘 Shot 5 : 느린마을, 느려도 괜찮아나](https://festa.io/events/4190)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: 소문난 주니어 콘퍼런스
@@ -303,6 +299,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
+- __[C++ Korea 2023 연말 Meet-Up(12월)](https://festa.io/events/4391)__
+  - 분류: `오프라인`, `유료`, `C++`
+  - 주최: C++ Korea
+  - 접수: 11. 23(목) ~ 12. 15(금)
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
   - 분류: `오프라인`, `온라인`, `무료`, `모임`
   - 주최: DND
