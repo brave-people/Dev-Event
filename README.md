@@ -279,7 +279,7 @@
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: GDG Cloud Busan
   - 접수: 11. 16(목) ~ 12. 09(토)
-- __[UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar](https://festa.io/events/4360)__
+- __[UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar](https://festa.io/events/4378)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 우분투한국커뮤니티
   - 접수: 11. 21(화) ~ 12. 09(토)
