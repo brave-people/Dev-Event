@@ -129,23 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[11월 Tech 세미나 - Generative AI와 함께하는 프롬프트 마스터 클래스](https://devocean.sk.com/events/view.do?id=186)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 11. 21(화) ~ 11. 23(목)
-
-- __[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자](https://festa.io/events/4307)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 카카오뱅크
-  - 접수: 11. 09(목) ~ 11. 23(목)
-- __[오픈스택 / 클라우드 / 인프라 기술 대전 세미나](https://festa.io/events/4304)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 오픈스택 한국 커뮤니티
-  - 접수: 11. 08(화) ~ 11. 23(목)
 - __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
   - 분류: `온라인`, `무료`, `대회`, `백엔드`
   - 주최: 엘리스
   - 접수: 10. 26(목) ~ 11. 24(금)
+
 - __[SIPE Meetup - 사담콘](https://festa.io/events/4230)__
   - 분류: `오프라인`, `무료`, `커뮤니티`
   - 주최: SIPE Team
@@ -210,6 +198,10 @@
   - 분류: `오프라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 11. 17(금) ~ 11. 29(월)
+- __[AWSKRUG 아키텍처 #architecture x 서버리스 #serverless 45번째 소모임](https://www.meetup.com/awskrug/events/297234132/)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 11. 24(금) ~ 11. 29(월)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
@@ -311,6 +303,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: AIVLE
   - 접수: 11. 27(월) ~ 12. 18(월)
+- __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: OKKY
+  - 접수: 11. 24(금) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
