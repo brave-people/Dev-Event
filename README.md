@@ -129,35 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[Code Challenge For AI Platform Backend](https://code-challenge.elice.io/tracks/4152/promotion)__
-  - 분류: `온라인`, `무료`, `대회`, `백엔드`
-  - 주최: 엘리스
-  - 접수: 10. 26(목) ~ 11. 24(금)
-
-- __[SIPE Meetup - 사담콘](https://festa.io/events/4230)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: SIPE Team
-  - 접수: 11. 06(월) ~ 11. 24(금)
-- __[MLSA와 함께하는 대학생 AI & Cloud 러닝 핸즈온 캠프](https://festa.io/events/4292)__
-  - 분류: `오프라인`, `무료`, `클라우드`, `AI`
-  - 주최: Microsoft Learn Student Ambassadors
-  - 접수: 11. 07(화) ~ 11. 24(금)
-- __[HYPER-WEB 2023](https://festa.io/events/4126)__
-  - 분류: `오프라인`, `무료`, `벡엔드`, `프론트엔드`
-  - 주최: KSDC 한국 학생 개발자 클럽
-  - 접수: 11. 09(목) ~ 11. 24(금)
-- __[엘리스 코드챌린지(백엔드)](https://www.wanted.co.kr/events/elice-code-challenge-backend)__
-  - 분류: `온라인`, `무료`, `벡엔드`, `대회`
-  - 주최: 엘리스
-  - 접수: 11. 09(목) ~ 11. 24(금)
-- __[2023 SLAM KR Offline Event](https://festa.io/events/4260)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: SLAM KR
-  - 접수: 11. 08(수) ~ 11. 25(토)
 - __[Seoul iOS Meetup [November 2023]](https://festa.io/events/4314)__
   - 분류: `오프라인`, `온라인`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 09(목) ~ 11. 27(월)
+
 - __[리얼리눅스 11월 무료세미나: 리눅스 초보자를 위한 문제해결사례 TOP 3](https://festa.io/events/4314)__
   - 분류: `온라인`, `무료`, `리눅스`
   - 주최: 리얼리눅스
@@ -210,6 +186,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대한민국 국회
   - 접수: 11. 10(금) ~ 11. 30(목)
+- __[멋쟁이사자처럼 테킷 앱스쿨 Android 2기 모집](https://www.wanted.co.kr/events/techit-kdt-aos-2nd)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 11. 01(수) ~ 11. 30(목)
 
 <br />
 
@@ -247,6 +227,10 @@
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: 소문난 주니어 콘퍼런스
   - 접수: 11. 17(금) ~ 12. 07(목)
+- __[AWS GenAI 기초 체험 교육 (AWS GenAI Basic)](https://festa.io/events/4403)__
+  - 분류: `무료`, `무료`, `AI`
+  - 주최: 걸스인텍
+  - 접수: 11. 27(월) ~ 12. 07(목)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -294,6 +278,10 @@
 - __[C++ Korea 2023 연말 Meet-Up(12월)](https://festa.io/events/4391)__
   - 분류: `오프라인`, `유료`, `C++`
   - 주최: C++ Korea
+  - 접수: 11. 23(목) ~ 12. 15(금)
+- __[2023 ( ), 그랬구나.](https://smartstore.naver.com/asyncswift/products/9588768076)__
+  - 분류: `오프라인`, `유료`, `iOS`
+  - 주최: AsyncSwift
   - 접수: 11. 23(목) ~ 12. 15(금)
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
   - 분류: `오프라인`, `온라인`, `무료`, `모임`
