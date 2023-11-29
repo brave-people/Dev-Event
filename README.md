@@ -129,35 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[Seoul iOS Meetup [November 2023]](https://festa.io/events/4314)__
-  - 분류: `오프라인`, `온라인`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 11. 09(목) ~ 11. 27(월)
-
-- __[리얼리눅스 11월 무료세미나: 리눅스 초보자를 위한 문제해결사례 TOP 3](https://festa.io/events/4314)__
-  - 분류: `온라인`, `무료`, `리눅스`
-  - 주최: 리얼리눅스
-  - 접수: 11. 15(수) ~ 11. 27(월)
-- __[Gitlab Korea 밋업 #18 - VSM으로 완성하는 DevSecOps와 SlackBot 자동화](https://festa.io/events/4332)__
-  - 분류: `오프라인`, `무료`, `인프라`
-  - 주최: GitLab Korea
-  - 접수: 11. 16(목) ~ 11. 28(화)
-- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/297252903/)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 11. 23(목) ~ 11. 28(화)
-- __[AWSKRUG 아키텍처 #architecture x 서버리스 #serverless 45번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/297234132/)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 11. 23(목) ~ 11. 28(화)
-- __[DEVCON LA Tech Talk!](https://festa.io/events/4386/)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: K-DEVCON
-  - 접수: 11. 23(목) ~ 11. 28(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
   - 분류: `오프라인`, `유료`, `스터디`
   - 주최: 코딩의 신
   - 접수: 11. 07(화) ~ 11. 29(월)
+
 - __[나만의 도커 이미지 만들기 부터, 클라우드 배포까지! | 프리온보딩 BE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_be_14)__
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 원티드
@@ -215,6 +191,10 @@
   - 분류: `온라인`, `유료`, `해커톤`
   - 주최: 비사이드
   - 접수: 11. 13(월) ~ 12. 03(일)
+- __[LLM ASAP: LLM으로 빠르게 개발하기](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4403017&sessionid=1&key=00AD25463B500803D6A2ED56AD875FC3&groupId=5080747&sourcepage=register&ncid=ref-dev-511291)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 엔비디아
+  - 접수: 11. 29(수) ~ 12. 03(일)
 - __[FIDO 얼라이언스 퍼블릭 세미나](https://devocean.sk.com/events/view.do?id=185)__
   - 분류: `온라인`, `무료`, `보안`, `기술일반`
   - 주최: DEVOCEAN
@@ -228,9 +208,13 @@
   - 주최: 소문난 주니어 콘퍼런스
   - 접수: 11. 17(금) ~ 12. 07(목)
 - __[AWS GenAI 기초 체험 교육 (AWS GenAI Basic)](https://festa.io/events/4403)__
-  - 분류: `무료`, `무료`, `AI`
+  - 분류: `무료`, `온라인`, `AI`
   - 주최: 걸스인텍
   - 접수: 11. 27(월) ~ 12. 07(목)
+- __[iOS 앱 개발자 데뷔과정 PLUS](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1654&srchCategoryTypeCd=&courseMasterSeq=378&currentMenuId=900002025)__
+  - 분류: `무료`, `무료`, `AI`
+  - 주최: SSAC
+  - 접수: 10. 06(금) ~ 12. 07(목)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -275,6 +259,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: liftIO
   - 접수: 11. 15(수) ~ 12. 15(금)
+- __[모두의연구소 '인공지능(AI) 모델 활용 백엔드 개발 과정](https://festa.io/events/4427)__
+  - 분류: `오프라인`, `무료`, `벡엔드`
+  - 주최: 모두의연구소
+  - 접수: 11. 22(수) ~ 12. 15(금)
 - __[C++ Korea 2023 연말 Meet-Up(12월)](https://festa.io/events/4391)__
   - 분류: `오프라인`, `유료`, `C++`
   - 주최: C++ Korea
@@ -283,6 +271,10 @@
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: AsyncSwift
   - 접수: 11. 23(목) ~ 12. 15(금)
+- __[2023 Korea MVP AI Conference](https://festa.io/events/4425)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Global AI Bootcamp organizers
+  - 접수: 11. 29(수) ~ 12. 15(금)
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
   - 분류: `오프라인`, `온라인`, `무료`, `모임`
   - 주최: DND
@@ -307,6 +299,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDSC DevFest Campus
   - 접수: 11. 22(수) ~ 12. 23(금)
+- __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: 구름톤 유니브
+  - 접수: 11. 29(수) ~ 12. 29(금)
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
