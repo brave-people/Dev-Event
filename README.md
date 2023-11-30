@@ -129,35 +129,11 @@
 <br />
 
 ## 23년 11월
-- __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4287)__
-  - 분류: `오프라인`, `유료`, `스터디`
-  - 주최: 코딩의 신
-  - 접수: 11. 07(화) ~ 11. 29(월)
-
-- __[나만의 도커 이미지 만들기 부터, 클라우드 배포까지! | 프리온보딩 BE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_be_14)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 11. 15(수) ~ 11. 29(수)
-- __[클린 코드 with 안드로이드 | 프리온보딩 Android 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_android_5)__
-  - 분류: `온라인`, `무료`, `안드로이드`
-  - 주최: 원티드
-  - 접수: 11. 15(수) ~ 11. 29(수)
-- __[실전 스킬: 비즈니스 로직 완전 정복 with React | 프리온보딩 FE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_fe_16)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 11. 15(수) ~ 11. 29(수)
-- __[5년차 이상 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_1)__
-  - 분류: `오프라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 11. 17(금) ~ 11. 29(월)
-- __[AWSKRUG 아키텍처 #architecture x 서버리스 #serverless 45번째 소모임](https://www.meetup.com/awskrug/events/297234132/)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 11. 24(금) ~ 11. 29(월)
 - __[한국저작권위원회 오픈소스SW 라이선스 컨설팅](https://festa.io/events/3894)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 한국저작권위원회
-  - 접수: 08. 16(수) ~ 11. 30(목)
+  - 접수: 08. 16(수) ~ 11. 30(목)\
+
 - __[국회 공공데이터 활용 경진대회](https://www.assembly00data.com/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대한민국 국회
@@ -212,9 +188,17 @@
   - 주최: 걸스인텍
   - 접수: 11. 27(월) ~ 12. 07(목)
 - __[iOS 앱 개발자 데뷔과정 PLUS](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1654&srchCategoryTypeCd=&courseMasterSeq=378&currentMenuId=900002025)__
-  - 분류: `무료`, `무료`, `AI`
+  - 분류: `오프라인`, `무료`, `iOS`
   - 주최: SSAC
   - 접수: 10. 06(금) ~ 12. 07(목)
+- __[AWSKRUG 연말 송년회 연합모임](https://www.meetup.com/ko-KR/awskrug/events/297523993/)__
+  - 분류: `무료`, `오프라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 30(목) ~ 12. 07(목)
+- __[GCP 입문을 위한 hands-on 교육 Getting Started with GKE 웨비나](https://gc.hosting.kr/2023_gcp-fundamentals-season4/?utm_source=github_dev_event&utm_medium=post&utm_campaign=gcpfundamentals4)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: SSAC
+  - 접수: 11. 30(목) ~ 12. 07(목)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -243,6 +227,10 @@
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 우분투한국커뮤니티
   - 접수: 11. 21(화) ~ 12. 09(토)
+- __[[DDD]Daegu Developer Day 컨퍼런스 - 클라우드](https://festa.io/events/4431)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: Daegu Developer Day
+  - 접수: 11. 30(목) ~ 12. 10(일)
 - __[Devfest Android x Pangyo 2023](https://festa.io/events/4379)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: GDG Korea Android
@@ -255,6 +243,10 @@
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 11번가
   - 일시: 12. 12(화) ~ 12. 13(수)
+- __[Adeiu 2023 with MLOps Community](https://www.meetup.com/ko-KR/seoul-mlops-meetup/events/297606052/)__
+  - 분류: `무료`, `오프라인`, `AI`
+  - 주최: Seoul MLOps Meetup
+  - 접수: 11. 30(목) ~ 12. 14(목)
 - __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
   - 분류: `보안`, `대회`
   - 주최: 토스
@@ -291,6 +283,10 @@
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
   - 접수: 11. 24(금) ~ 12. 20(수)
+- __[한빛N MSA - #10 Level Up](https://festa.io/events/4409)__
+  - 분류: `오프라인`, `유료`, `커리어`
+  - 주최: 한빛N MSA
+  - 접수: 11. 30(목) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
