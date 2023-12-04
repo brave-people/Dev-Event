@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-118-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-119-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -601,6 +601,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://bit.ly/seochan"><img src="https://avatars.githubusercontent.com/u/78739194?v=4?s=100" width="100px;" alt="HuiChan Seo"/><br /><sub><b>HuiChan Seo</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seochan99" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/moomin-cho"><img src="https://avatars.githubusercontent.com/u/103555554?v=4?s=100" width="100px;" alt="무민 조현석"/><br /><sub><b>무민 조현석</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=moomin-cho" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wwjoon"><img src="https://avatars.githubusercontent.com/u/46699112?v=4?s=100" width="100px;" alt="JoonYeop Yoon"/><br /><sub><b>JoonYeop Yoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=wwjoon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://github.com/leesj8115"><img src="https://avatars.githubusercontent.com/u/105261571?v=4?s=100" width="100px;" alt="이승주"/><br /><sub><b>이승주</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=leesj8116" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
