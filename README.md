@@ -109,7 +109,8 @@
               <a href="./end_event/2023/23_08.md"> 08월 </a>,
               <a href="./end_event/2023/23_09.md"> 09월 </a>,
               <a href="./end_event/2023/23_10.md"> 10월 </a>,
-              <a href="./end_event/2023/23_11.md"> 11월 </a>
+              <a href="./end_event/2023/23_11.md"> 11월 </a>,
+              <a href="./end_event/2023/23_12.md"> 12월 </a>
             </td>
         </tr>
         <tr>
@@ -129,35 +130,11 @@
 <br />
 
 ## 23년 12월
-- __[DevFest Busan 2023](https://festa.io/events/4248)__
-  - 분류: `유료`, `모임`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 10. 31(화) ~ 12. 01(금)
-
-- __[Mobile App Developer's Conference](https://danielkim88.notion.site/Mobile-App-Developer-s-Conference-c50095910ad0495ba03eaa261c7c6581)__
-  - 분류: `오프라인`, `유료`, `iOS`, `안드로이드`
-  - 주최: Mobile App Developer Conference
-  - 접수: 11. 15(수) ~ 12. 01(금)
-- __[Everyone can Swift!](https://festa.io/events/4326)__
-  - 분류: `유료`, `모임`, `iOS`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 11. 13(월) ~ 12. 01(금)
-- __[Merry Developermas](https://festa.io/events/4319)__
-  - 분류: `유료`, `오프라인`, `모임`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 11. 13(월) ~ 12. 02(토)
-- __[포텐데이 X 클로바 스튜디오](https://bside.best/potenday)__
-  - 분류: `온라인`, `유료`, `해커톤`
-  - 주최: 비사이드
-  - 접수: 11. 13(월) ~ 12. 03(일)
-- __[LLM ASAP: LLM으로 빠르게 개발하기](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&eventid=4403017&sessionid=1&key=00AD25463B500803D6A2ED56AD875FC3&groupId=5080747&sourcepage=register&ncid=ref-dev-511291)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 엔비디아
-  - 접수: 11. 29(수) ~ 12. 03(일)
 - __[FIDO 얼라이언스 퍼블릭 세미나](https://devocean.sk.com/events/view.do?id=185)__
   - 분류: `온라인`, `무료`, `보안`, `기술일반`
   - 주최: DEVOCEAN
   - 접수: 11. 16(목) ~ 12. 04(월)
+  
 - __[한빛N MSA - #9 Monitoring](https://festa.io/events/4392)__
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: 한빛N MSA
@@ -166,6 +143,10 @@
   - 분류: `오프라인`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 12. 01(금) ~ 12. 06(수)
+- __[2023년 최신 보안기술 컨퍼런스](https://www.kisia.or.kr/announcement/association/549/)__
+  - 분류: `오프라인`, `무료`, `보안`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 22(수) ~ 12. 04(월)
 - __[소주콘 Shot 5 : 느린마을, 느려도 괜찮아나](https://festa.io/events/4190)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: 소문난 주니어 콘퍼런스
@@ -234,6 +215,10 @@
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 11번가
   - 일시: 12. 12(화) ~ 12. 13(수)
+- __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
+  - 분류: `무료`, `온라인`, `커리어`
+  - 주최: 원티드
+  - 접수: 11. 30(목) ~ 12. 14(목)
 - __[Adeiu 2023 with MLOps Community](https://www.meetup.com/ko-KR/seoul-mlops-meetup/events/297606052/)__
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: Seoul MLOps Meetup
