@@ -286,7 +286,7 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 11. 20(월) ~ 12. 22(금)
-- __[GDSC DevFest Campus](https://festa.io/events/4368)__
+- __[GDSC DevFest Campus](https://festa.io/events/4397)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDSC DevFest Campus
   - 접수: 11. 22(수) ~ 12. 23(금)
