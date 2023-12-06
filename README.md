@@ -139,10 +139,6 @@
   - 분류: `오프라인`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 12. 01(금) ~ 12. 06(수)
-- __[2023년 최신 보안기술 컨퍼런스](https://www.kisia.or.kr/announcement/association/549/)__
-  - 분류: `오프라인`, `무료`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 22(수) ~ 12. 04(월)
 - __[소주콘 Shot 5 : 느린마을, 느려도 괜찮아나](https://festa.io/events/4190)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: 소문난 주니어 콘퍼런스
@@ -163,6 +159,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: SSAC
   - 접수: 11. 30(목) ~ 12. 07(목)
+- __[AWSKRUG 연말 송년회 연합모임](https://www.meetup.com/ko-KR/awskrug/events/297523993/)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 12. 06(수) ~ 12. 07(목)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -199,6 +199,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: Daegu Developer Day
   - 접수: 11. 30(목) ~ 12. 10(일)
+- __[백엔드 개발자가 되기 위한 로드맵](https://www.wanted.co.kr/events/camp-orm-be-1)__
+  - 분류: `오프라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 12. 06(수) ~ 12. 10(일)
 - __[Devfest Android x Pangyo 2023](https://festa.io/events/4379)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: GDG Korea Android
@@ -219,6 +223,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 모두의연구소
   - 일시: 12. 05(화) ~ 12. 13(수)
+- __[Supabase x Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/297652955/)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 일시: 12. 06(수) ~ 12. 13(수)
 - __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
   - 분류: `무료`, `온라인`, `커리어`
   - 주최: 원티드
@@ -271,6 +279,10 @@
   - 분류: `오프라인`, `유료`, `커리어`
   - 주최: 한빛N MSA
   - 접수: 11. 30(목) ~ 12. 20(수)
+- __[12월 Tech 세미나 - AI 해킹과 보안](https://devocean.sk.com/events/view.do?id=190)__
+  - 분류: `온라인`, `무료`, `AI`, `보안`
+  - 주최: DEVOCEAN
+  - 접수: 12. 06(수) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
