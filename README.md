@@ -130,19 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[한빛N MSA - #9 Monitoring](https://festa.io/events/4392)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 한빛N MSA
-  - 접수: 11. 23(목) ~ 12. 06(수)
-
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/297523957/)__
-  - 분류: `오프라인`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 12. 01(금) ~ 12. 06(수)
 - __[소주콘 Shot 5 : 느린마을, 느려도 괜찮아나](https://festa.io/events/4190)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: 소문난 주니어 콘퍼런스
   - 접수: 11. 17(금) ~ 12. 07(목)
+
 - __[AWS GenAI 기초 체험 교육 (AWS GenAI Basic)](https://festa.io/events/4403)__
   - 분류: `무료`, `온라인`, `AI`
   - 주최: 걸스인텍
@@ -235,6 +227,10 @@
   - 분류: `무료`, `오프라인`, `AI`
   - 주최: Seoul MLOps Meetup
   - 접수: 11. 30(목) ~ 12. 14(목)
+- __[AWSKRUG 컨테이너 모임](https://www.meetup.com/awskrug/events/297785705/)__
+  - 분류: `무료`, `오프라인`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 12. 07(목) ~ 12. 14(목)
 - __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
   - 분류: `보안`, `대회`
   - 주최: 토스
@@ -259,6 +255,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Global AI Bootcamp organizers
   - 접수: 11. 29(수) ~ 12. 15(금)
+- __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: SIPE Team
+  - 접수: 12. 17(목) ~ 12. 15(금)
 - __[LOUNGE23 - 중고등학생 IT/창업 컨퍼런스](https://connect-impact.org/lounge)__
   - 분류: `오프라인`, `무료`, `커뮤니티`
   - 주최: IMPACT
@@ -271,6 +271,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: AIVLE
   - 접수: 11. 27(월) ~ 12. 18(월)
+- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/297536169/)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 12. 07(목) ~ 12. 18(월)
 - __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
@@ -283,6 +287,10 @@
   - 분류: `온라인`, `무료`, `AI`, `보안`
   - 주최: DEVOCEAN
   - 접수: 12. 06(수) ~ 12. 20(수)
+- __[AWSKRUG 핸즈온 모임 - 콘테이너 왕초보를 위한 EKS 실습](https://www.meetup.com/awskrug/events/297495337/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 12. 07(목) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
