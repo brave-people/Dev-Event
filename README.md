@@ -238,7 +238,7 @@
 - __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: SIPE Team
-  - 접수: 12. 17(목) ~ 12. 15(금)
+  - 접수: 12. 07(목) ~ 12. 15(금)
 - __[LOUNGE23 - 중고등학생 IT/창업 컨퍼런스](https://connect-impact.org/lounge)__
   - 분류: `오프라인`, `무료`, `커뮤니티`
   - 주최: IMPACT
