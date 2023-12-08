@@ -130,35 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[소주콘 Shot 5 : 느린마을, 느려도 괜찮아나](https://festa.io/events/4190)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: 소문난 주니어 콘퍼런스
-  - 접수: 11. 17(금) ~ 12. 07(목)
-
-- __[AWS GenAI 기초 체험 교육 (AWS GenAI Basic)](https://festa.io/events/4403)__
-  - 분류: `무료`, `온라인`, `AI`
-  - 주최: 걸스인텍
-  - 접수: 11. 27(월) ~ 12. 07(목)
-- __[iOS 앱 개발자 데뷔과정 PLUS](https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1654&srchCategoryTypeCd=&courseMasterSeq=378&currentMenuId=900002025)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: SSAC
-  - 접수: 10. 06(금) ~ 12. 07(목)
-- __[AWSKRUG 연말 송년회 연합모임](https://www.meetup.com/ko-KR/awskrug/events/297523993/)__
-  - 분류: `무료`, `오프라인`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 30(목) ~ 12. 07(목)
-- __[GCP 입문을 위한 hands-on 교육 Getting Started with GKE 웨비나](https://gc.hosting.kr/2023_gcp-fundamentals-season4/?utm_source=github_dev_event&utm_medium=post&utm_campaign=gcpfundamentals4)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: SSAC
-  - 접수: 11. 30(목) ~ 12. 07(목)
-- __[AWSKRUG 연말 송년회 연합모임](https://www.meetup.com/ko-KR/awskrug/events/297523993/)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 12. 06(수) ~ 12. 07(목)
 - __[MODUCON 2023](https://modulabs.im/moducon2023)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 11. 08(수) ~ 12. 08(금)
+
 - __[대전 개발자 END OF YEAR PARTY !](https://festa.io/events/4320)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: K-DEVCON
@@ -255,6 +231,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Global AI Bootcamp organizers
   - 접수: 11. 29(수) ~ 12. 15(금)
+- __[회고모임은 하고 싶은데 어디에도 끼기 애매한 사람을 위한 송년회](https://festa.io/events/4475)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: 전국 낀 사람 모임
+  - 접수: 12. 08(금) ~ 12. 15(금)
 - __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: SIPE Team
@@ -295,14 +275,26 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
   - 접수: 11. 01(수) ~ 12. 21(목)
+- __[제3회 프라이버시 강화기술 세미나](https://okky.kr/articles/1480440)__
+  - 분류: `오프라인`, `무료`, `보안`
+  - 주최: PET Korea
+  - 접수: 12. 08(금) ~ 12. 21(목)
 - __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 11. 20(월) ~ 12. 22(금)
+- __[애자일 코리아 밋업 12월](https://festa.io/events/4464)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 애자일 코리아 밋업
+  - 접수: 12. 08(금) ~ 12. 22(금)
 - __[GDSC DevFest Campus](https://festa.io/events/4397)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDSC DevFest Campus
   - 접수: 11. 22(수) ~ 12. 23(금)
+- __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
+  - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
+  - 주최: Kernel360 오픈세미나
+  - 접수: 12. 08(금) ~ 12. 26(화)
 - __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 구름톤 유니브
