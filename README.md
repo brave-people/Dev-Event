@@ -130,51 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[MODUCON 2023](https://modulabs.im/moducon2023)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 11. 08(수) ~ 12. 08(금)
-
-- __[대전 개발자 END OF YEAR PARTY !](https://festa.io/events/4320)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 11. 13(월) ~ 12. 08(금)
-- __[Devfest Cloud 2023](https://festa.io/events/4385)__
-  - 분류: `오프라인`, `유료`, `모임`, `클라우드`
-  - 주최: GDG Cloud KR
-  - 접수: 11. 22(수) ~ 12. 08(금)
-- __[Flutter Daegu Meetup](https://festa.io/events/4447)__
-  - 분류: `오프라인`, `무료`, `모임`, `iOS`, `안드로이드`
-  - 주최: 플러터 대구
-  - 접수: 12. 05(화) ~ 12. 08(금)
-- __[Devfest Songdo 2023](https://festa.io/events/4246)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: GDG Songdo
-  - 접수: 11. 13(월) ~ 12. 09(토)
-- __[클라우드 지식과 경험을 공유하는 NHN Cloud IT Up](https://info.nhncloud.com/itup.html?utm_source=github_dev_event&utm_medium=post&utm_campaign=itup&utm_content=1116_itup_event)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: GDG Songdo
-  - 접수: 11. 16(목) ~ 12. 09(토)
-- __[2023 부산 개발자를 위한 송년회](https://festa.io/events/4360)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: GDG Cloud Busan
-  - 접수: 11. 16(목) ~ 12. 09(토)
-- __[UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar](https://festa.io/events/4378)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 11. 21(화) ~ 12. 09(토)
-- __[[DDD]Daegu Developer Day 컨퍼런스 - 클라우드](https://festa.io/events/4431)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: Daegu Developer Day
-  - 접수: 11. 30(목) ~ 12. 10(일)
-- __[백엔드 개발자가 되기 위한 로드맵](https://www.wanted.co.kr/events/camp-orm-be-1)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 12. 06(수) ~ 12. 10(일)
 - __[Devfest Android x Pangyo 2023](https://festa.io/events/4379)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: GDG Korea Android
   - 접수: 11. 21(화) ~ 12. 12(화)
+
 - __[Open cloud Platform PUB 2024](https://www.onoffmix.com/event/290186)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: 과학기술정보통신부
@@ -195,6 +155,14 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 일시: 12. 06(수) ~ 12. 13(수)
+- __[2023 전자정부 표준프레임워크 신규버전(v4.2) 발표회](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20887)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 행정안전부
+  - 일시: 12. 13(수) 14:00 ~ 16:30
+- __[AWSKRUG #magok 마곡 소모임 여섯번째 모임](https://www.meetup.com/awskrug/events/297693988/)__
+  - 분류: `오프라인`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 12. 11(월) ~ 12. 14(목)
 - __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
   - 분류: `무료`, `온라인`, `커리어`
   - 주최: 원티드
@@ -231,10 +199,6 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Global AI Bootcamp organizers
   - 접수: 11. 29(수) ~ 12. 15(금)
-- __[회고모임은 하고 싶은데 어디에도 끼기 애매한 사람을 위한 송년회](https://festa.io/events/4475)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 전국 낀 사람 모임
-  - 접수: 12. 08(금) ~ 12. 15(금)
 - __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: SIPE Team
@@ -255,6 +219,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: AWSKRUG
   - 접수: 12. 07(목) ~ 12. 18(월)
+- __[소프트웨어 장인 정신, 우리가 함께 성장하는 방법](https://blog.goorm.io/commit_15th/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 12. 11(월) ~ 12. 18(월)
 - __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
@@ -347,7 +315,6 @@
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
 | 엘리스 | [Homepage](https://elice.io/home) |
-| 라이징 캠프 | [Homepage](https://risingcamp.com/), [Youtube](https://www.youtube.com/channel/UCkxTr_WrzUBcYeeAfZIQQlA/videos) |
 | 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
