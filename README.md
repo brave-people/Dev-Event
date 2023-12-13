@@ -130,19 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[Devfest Android x Pangyo 2023](https://festa.io/events/4379)__
-  - 분류: `오프라인`, `유료`, `안드로이드`
-  - 주최: GDG Korea Android
-  - 접수: 11. 21(화) ~ 12. 12(화)
-
-- __[Open cloud Platform PUB 2024](https://www.onoffmix.com/event/290186)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 01(금) ~ 12. 12(화)
 - __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `무료`, `대회`, `클라우드`
   - 주최: 과학기술정보통신부
   - 접수: 08. 24(목) ~ 12. 13(수)
+
 - __[11STREET TECH TALK 2023](https://techtalk.11stcorp.com/)__
   - 분류: `온라인`, `무료`, `컨퍼런스`
   - 주최: 11번가
@@ -271,6 +263,10 @@
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 애자일 코리아 밋업
   - 접수: 12. 08(금) ~ 12. 22(금)
+- __[나무톤(NAMUTHON) 2023](https://festa.io/events/4457)__
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최: Google Developer Student Clubs
+  - 접수: 12. 13(수) ~ 12. 22(금) 21:00
 - __[GDSC DevFest Campus](https://festa.io/events/4397)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDSC DevFest Campus
