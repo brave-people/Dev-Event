@@ -235,6 +235,10 @@
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: 오픈데이터포럼
   - 일시: 12. 18(월) 15:00 ~ 17:20
+- __[AI Link의 제1회 Meetup 'Link Up'](https://vvd.bz/cJf3)__
+  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 주최: 오픈데이터포럼
+  - 일시: 12. 18(월) 19:00 ~ 21:00
 - __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
@@ -409,6 +413,7 @@
 | 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
+| AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
