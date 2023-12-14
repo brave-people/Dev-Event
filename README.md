@@ -130,31 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
-  - 분류: `무료`, `대회`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 24(목) ~ 12. 13(수)
-
-- __[11STREET TECH TALK 2023](https://techtalk.11stcorp.com/)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 11번가
-  - 일시: 12. 12(화) ~ 12. 13(수)
-- __[모두해유 | 고독한 개발자의 밤](https://event-us.kr/modu/event/75093)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 모두의연구소
-  - 일시: 12. 05(화) ~ 12. 13(수)
-- __[Supabase x Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/297652955/)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 일시: 12. 06(수) ~ 12. 13(수)
-- __[2023 전자정부 표준프레임워크 신규버전(v4.2) 발표회](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20887)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 행정안전부
-  - 일시: 12. 13(수) 14:00 ~ 16:30
 - __[AWSKRUG #magok 마곡 소모임 여섯번째 모임](https://www.meetup.com/awskrug/events/297693988/)__
   - 분류: `오프라인`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 12. 11(월) ~ 12. 14(목)
+  
 - __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
   - 분류: `무료`, `온라인`, `커리어`
   - 주최: 원티드
@@ -231,6 +211,10 @@
   - 분류: `오프라인`, `무료`, `모임`, `AI`
   - 주최: AI Link
   - 일시: 12. 18(월) 19:00 ~ 21:00
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/297901240/)__
+  - 분류: `오프라인`, `유료`, `모임`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 12. 14(목) ~ 12. 19(화)
 - __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
@@ -255,6 +239,10 @@
   - 분류: `오프라인`, `무료`, `보안`
   - 주최: PET Korea
   - 접수: 12. 08(금) ~ 12. 21(목)
+- __[광고에서의 생성 AI 활용 실무사례 모음집](https://aifactory.space/task/2695/discussion/719)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 인공지능팩토리
+  - 접수: 12. 14(목) ~ 12. 21(목)
 - __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
@@ -286,7 +274,12 @@
 
 <br />
 
-## 24년 01월 
+## 24년 01월
+- __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 스나이퍼팩토리
+  - 접수: 12. 14(목) ~ 01. 02(화)
+
 - __[카이스트 정글 8기 & 크래프톤 정글 5기 모집](https://www.wanted.co.kr/events/swjungle)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 정글
