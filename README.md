@@ -130,27 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[AWSKRUG #magok 마곡 소모임 여섯번째 모임](https://www.meetup.com/awskrug/events/297693988/)__
-  - 분류: `오프라인`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 12. 11(월) ~ 12. 14(목)
-  
-- __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
-  - 분류: `무료`, `온라인`, `커리어`
-  - 주최: 원티드
-  - 접수: 11. 30(목) ~ 12. 14(목)
-- __[Adeiu 2023 with MLOps Community](https://www.meetup.com/ko-KR/seoul-mlops-meetup/events/297606052/)__
-  - 분류: `무료`, `오프라인`, `AI`
-  - 주최: Seoul MLOps Meetup
-  - 접수: 11. 30(목) ~ 12. 14(목)
-- __[AWSKRUG 컨테이너 모임](https://www.meetup.com/awskrug/events/297785705/)__
-  - 분류: `무료`, `오프라인`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 14(목)
 - __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
   - 분류: `보안`, `대회`
   - 주최: 토스
   - 접수: 07. 13(목) ~ 12. 15(금)
+
 - __[liftIO 2023](https://festa.io/events/4257)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: liftIO
@@ -231,6 +215,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 12. 07(목) ~ 12. 20(수)
+- __[AWSKRUG #부산 지역 소모임](https://www.meetup.com/awskrug/events/297896870/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 12. 15(금) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
@@ -263,6 +251,14 @@
   - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
   - 주최: Kernel360 오픈세미나
   - 접수: 12. 08(금) ~ 12. 26(화)
+- __[인공지능(AI) 활용 백엔드 개발 과정 모집](https://www.wanted.co.kr/events/camp-orm-im-backend-1)__
+  - 분류: `온라인`, `무료`, `교육`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 12. 14(목) ~ 12. 26(화)
+- __[실무 사례로 알아보는 Product Analyst | 프리온보딩 데이터 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_data_4)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 원티드
+  - 접수: 12. 15(금) ~ 12. 26(화)
 - __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 구름톤 유니브
