@@ -130,47 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
-  - 분류: `보안`, `대회`
-  - 주최: 토스
-  - 접수: 07. 13(목) ~ 12. 15(금)
-
-- __[liftIO 2023](https://festa.io/events/4257)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: liftIO
-  - 접수: 11. 15(수) ~ 12. 15(금)
-- __[AI학교 아이펠 데이터 사이언티스트 과정 모집](https://www.wanted.co.kr/events/aiffel-data-scientist-1)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 11. 15(수) ~ 12. 15(금)
-- __[모두의연구소 '인공지능(AI) 모델 활용 백엔드 개발 과정](https://festa.io/events/4427)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 모두의연구소
-  - 접수: 11. 22(수) ~ 12. 15(금)
-- __[C++ Korea 2023 연말 Meet-Up(12월)](https://festa.io/events/4391)__
-  - 분류: `오프라인`, `유료`, `C++`
-  - 주최: C++ Korea
-  - 접수: 11. 23(목) ~ 12. 15(금)
-- __[2023 ( ), 그랬구나.](https://smartstore.naver.com/asyncswift/products/9588768076)__
-  - 분류: `오프라인`, `유료`, `iOS`
-  - 주최: AsyncSwift
-  - 접수: 11. 23(목) ~ 12. 15(금)
-- __[2023 Korea MVP AI Conference](https://festa.io/events/4425)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Global AI Bootcamp organizers
-  - 접수: 11. 29(수) ~ 12. 15(금)
-- __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: SIPE Team
-  - 접수: 12. 07(목) ~ 12. 15(금)
-- __[LOUNGE23 - 중고등학생 IT/창업 컨퍼런스](https://connect-impact.org/lounge)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: IMPACT
-  - 접수: 11. 27(월) ~ 12. 16(토)
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
   - 분류: `오프라인`, `온라인`, `무료`, `모임`
   - 주최: DND
   - 접수: 11. 20(월) ~ 12. 18(월)
+
 - __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: AIVLE
@@ -199,6 +163,10 @@
   - 분류: `오프라인`, `유료`, `모임`, `인프라`
   - 주최: AWSKRUG
   - 접수: 12. 14(목) ~ 12. 19(화)
+- __[한국 블록체인 밋업 #18](https://www.meetup.com/ko-KR/korea-blockchain-meetup/events/297881901/)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: 한국 블록체인 밋업
+  - 접수: 12. 18(월) ~ 12. 19(화)
 - __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
   - 분류: `오프라인`, `유료`, `모임`
   - 주최: OKKY
@@ -247,6 +215,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GDSC DevFest Campus
   - 접수: 11. 22(수) ~ 12. 23(금)
+- __[스타트업이 필요한 오픈소스 SaaS 패키지 한 번에 구축하기](https://festa.io/events/4504)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 클라우드타입
+  - 접수: 12. 18(월) ~ 12. 25(월)
 - __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
   - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
   - 주최: Kernel360 오픈세미나
