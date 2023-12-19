@@ -130,39 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `모임`
-  - 주최: DND
-  - 접수: 11. 20(월) ~ 12. 18(월)
-
-- __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: AIVLE
-  - 접수: 11. 27(월) ~ 12. 18(월)
-- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/297536169/)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 18(월)
-- __[소프트웨어 장인 정신, 우리가 함께 성장하는 방법](https://blog.goorm.io/commit_15th/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 12. 11(월) ~ 12. 18(월)
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/297896811/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 12. 12(화) ~ 12. 18(월)
-- __[2023 모두의 오픈데이터포럼](https://onoffmix.com/event/290748)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: 오픈데이터포럼
-  - 일시: 12. 18(월) 15:00 ~ 17:20
-- __[AI Link의 제1회 Meetup 'Link Up'](https://vvd.bz/cJf3)__
-  - 분류: `오프라인`, `무료`, `모임`, `AI`
-  - 주최: AI Link
-  - 일시: 12. 18(월) 19:00 ~ 21:00
 - __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/297901240/)__
   - 분류: `오프라인`, `유료`, `모임`, `인프라`
   - 주최: AWSKRUG
   - 접수: 12. 14(목) ~ 12. 19(화)
+
 - __[한국 블록체인 밋업 #18](https://www.meetup.com/ko-KR/korea-blockchain-meetup/events/297881901/)__
   - 분류: `오프라인`, `무료`, `모임`, `기술일반`
   - 주최: 한국 블록체인 밋업
@@ -199,6 +171,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 인공지능팩토리
   - 접수: 12. 14(목) ~ 12. 21(목)
+- __[[MBTI X 커리어상담] "나 개발자해도 될까?"](https://docs.google.com/forms/d/e/1FAIpQLScsCuBsvoLyrHZJmV0mbv_BVasWrvfxme5d89aRyPMwUpPK7Q/viewform)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 앨리스
+  - 접수: 12. 19(화) ~ 12. 21(목)
 - __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
@@ -252,6 +228,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 정글
   - 접수: 12. 11(월) ~ 01. 04(목)
+- __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: mice forum
+  - 접수: 12. 19(화) ~ 01. 24(수)
 
 ----------------
 
