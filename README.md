@@ -130,31 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: OKKY
-  - 접수: 11. 24(금) ~ 12. 20(수)
-
-- __[한빛N MSA - #10 Level Up](https://festa.io/events/4409)__
-  - 분류: `오프라인`, `유료`, `커리어`
-  - 주최: 한빛N MSA
-  - 접수: 11. 30(목) ~ 12. 20(수)
-- __[12월 Tech 세미나 - AI 해킹과 보안](https://devocean.sk.com/events/view.do?id=190)__
-  - 분류: `온라인`, `무료`, `AI`, `보안`
-  - 주최: DEVOCEAN
-  - 접수: 12. 06(수) ~ 12. 20(수)
-- __[AWSKRUG 핸즈온 모임 - 콘테이너 왕초보를 위한 EKS 실습](https://www.meetup.com/awskrug/events/297495337/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 20(수)
-- __[AWSKRUG #부산 지역 소모임](https://www.meetup.com/awskrug/events/297896870/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 12. 15(금) ~ 12. 20(수)
 - __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 유데미
   - 접수: 11. 01(수) ~ 12. 21(목)
+
 - __[제3회 프라이버시 강화기술 세미나](https://okky.kr/articles/1480440)__
   - 분류: `오프라인`, `무료`, `보안`
   - 주최: PET Korea
@@ -203,6 +183,14 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼
   - 접수: 12. 20(수) ~ 12. 26(화)
+- __[모두의특강 : 챗GPT 연말정산](https://event-us.kr/modoolecture/event/76275?utm_source=httpsgithub_dev_event&utm_campaign=wgeasabbaq)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 모두의 특강
+  - 접수: 12. 19(화) ~ 12. 27(수)
+- __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
+  - 분류: `오프라인`, `무료`, `벡엔드`
+  - 주최: Kernel360
+  - 일시: 12. 27(수) 18:00 ~ 20:00
 - __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 구름톤 유니브
