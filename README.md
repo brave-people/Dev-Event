@@ -130,27 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: 유데미
-  - 접수: 11. 01(수) ~ 12. 21(목)
-
-- __[제3회 프라이버시 강화기술 세미나](https://okky.kr/articles/1480440)__
-  - 분류: `오프라인`, `무료`, `보안`
-  - 주최: PET Korea
-  - 접수: 12. 08(금) ~ 12. 21(목)
-- __[광고에서의 생성 AI 활용 실무사례 모음집](https://aifactory.space/task/2695/discussion/719)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 인공지능팩토리
-  - 접수: 12. 14(목) ~ 12. 21(목)
-- __[[MBTI X 커리어상담] "나 개발자해도 될까?"](https://docs.google.com/forms/d/e/1FAIpQLScsCuBsvoLyrHZJmV0mbv_BVasWrvfxme5d89aRyPMwUpPK7Q/viewform)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 앨리스
-  - 접수: 12. 19(화) ~ 12. 21(목)
 - __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 11. 20(월) ~ 12. 22(금)
+
 - __[애자일 코리아 밋업 12월](https://festa.io/events/4464)__
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 애자일 코리아 밋업
@@ -212,6 +196,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 정글
   - 접수: 12. 11(월) ~ 01. 04(목)
+- __[2024 PROMETHEUS AI HACKATHON](https://prometheus-ai.net/hackathon)__
+  - 분류: `오프라인`, `유료`, `대회`, `AI`
+  - 주최: 프로메테우스
+  - 접수: 12. 18(월) ~ 01. 21(일)
 - __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: mice forum
