@@ -1086,6 +1086,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "usedupnote",
+      "name": "Lee Jeongmyeong [이정명]",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59154924?v=4",
+      "profile": "https://github.com/usedupnote",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
