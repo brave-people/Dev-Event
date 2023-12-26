@@ -130,27 +130,6 @@
 <br />
 
 ## 23년 12월 
-- __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 이스트소프트
-  - 접수: 11. 20(월) ~ 12. 22(금)
-
-- __[애자일 코리아 밋업 12월](https://festa.io/events/4464)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 애자일 코리아 밋업
-  - 접수: 12. 08(금) ~ 12. 22(금)
-- __[나무톤(NAMUTHON) 2023](https://festa.io/events/4457)__
-  - 분류: `오프라인`, `유료`, `대회`
-  - 주최: Google Developer Student Clubs
-  - 접수: 12. 13(수) ~ 12. 22(금) 21:00
-- __[GDSC DevFest Campus](https://festa.io/events/4397)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: GDSC DevFest Campus
-  - 접수: 11. 22(수) ~ 12. 23(금)
-- __[스타트업이 필요한 오픈소스 SaaS 패키지 한 번에 구축하기](https://festa.io/events/4504)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 클라우드타입
-  - 접수: 12. 18(월) ~ 12. 25(월)
 - __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
   - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
   - 주최: Kernel360 오픈세미나
@@ -159,6 +138,7 @@
   - 분류: `온라인`, `무료`, `교육`, `AI`
   - 주최: 모두의연구소
   - 접수: 12. 14(목) ~ 12. 26(화)
+
 - __[실무 사례로 알아보는 Product Analyst | 프리온보딩 데이터 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_data_4)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 원티드
@@ -196,6 +176,18 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 정글
   - 접수: 12. 11(월) ~ 01. 04(목)
+- __[AWS Cloud Club MLAPI Camp in South Korea](https://www.meetup.com/ko-KR/aws-cloud-club-in-south-korea/events/298104583/)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: AWS Cloud Club in South Korea
+  - 접수: 12. 26(화) ~ 01. 06(토)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: AWSKRUG
+  - 접수: 12. 26(화) ~ 01. 09(수)
+- __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: AWSKRUG
+  - 접수: 12. 26(화) ~ 01. 19(금)
 - __[2024 PROMETHEUS AI HACKATHON](https://prometheus-ai.net/hackathon)__
   - 분류: `오프라인`, `유료`, `대회`, `AI`
   - 주최: 프로메테우스
