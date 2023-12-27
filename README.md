@@ -130,27 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
-  - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
-  - 주최: Kernel360 오픈세미나
-  - 접수: 12. 08(금) ~ 12. 26(화)
-- __[인공지능(AI) 활용 백엔드 개발 과정 모집](https://www.wanted.co.kr/events/camp-orm-im-backend-1)__
-  - 분류: `온라인`, `무료`, `교육`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 12. 14(목) ~ 12. 26(화)
-
-- __[실무 사례로 알아보는 Product Analyst | 프리온보딩 데이터 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_data_4)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 원티드
-  - 접수: 12. 15(금) ~ 12. 26(화)
-- __[2023년 7차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/291159)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼
-  - 접수: 12. 20(수) ~ 12. 26(화)
 - __[모두의특강 : 챗GPT 연말정산](https://event-us.kr/modoolecture/event/76275?utm_source=httpsgithub_dev_event&utm_campaign=wgeasabbaq)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 모두의 특강
   - 접수: 12. 19(화) ~ 12. 27(수)
+
 - __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: Kernel360
@@ -167,11 +151,19 @@
 <br />
 
 ## 24년 01월
+- __[서울시 평균 기온 예측 해커톤](https://dacon.io/competitions/official/236200/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 데이콘
+  - 접수: 12. 11(월) ~ 01. 02(화)
+
 - __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 스나이퍼팩토리
   - 접수: 12. 14(목) ~ 01. 02(화)
-
+- __[대학 대항전 : 퍼즐 이미지 AI 경진대회](https://dacon.io/competitions/official/236207/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 데이콘
+  - 접수: 01. 02(화) ~ 02. 05(월)
 - __[카이스트 정글 8기 & 크래프톤 정글 5기 모집](https://www.wanted.co.kr/events/swjungle)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 정글
@@ -184,7 +176,7 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
   - 접수: 12. 26(화) ~ 01. 09(수)
-- __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
+- __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
   - 접수: 12. 26(화) ~ 01. 19(금)
