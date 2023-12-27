@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-121-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-122-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -506,6 +506,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/manu1307"><img src="https://avatars.githubusercontent.com/u/66587876?v=4?s=100" width="100px;" alt="Sung Chul Park"/><br /><sub><b>Sung Chul Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=manu1307" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/usedupnote"><img src="https://avatars.githubusercontent.com/u/59154924?v=4?s=100" width="100px;" alt="Lee Jeongmyeong [이정명]"/><br /><sub><b>Lee Jeongmyeong [이정명]</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=usedupnote" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/joonyong-ji-53a06018b/"><img src="https://avatars.githubusercontent.com/u/98405970?v=4?s=100" width="100px;" alt="Joonyong Ji"/><br /><sub><b>Joonyong Ji</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JUNY0110" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
