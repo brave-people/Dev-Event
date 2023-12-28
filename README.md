@@ -130,19 +130,11 @@
 <br />
 
 ## 23년 12월 
-- __[모두의특강 : 챗GPT 연말정산](https://event-us.kr/modoolecture/event/76275?utm_source=httpsgithub_dev_event&utm_campaign=wgeasabbaq)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 모두의 특강
-  - 접수: 12. 19(화) ~ 12. 27(수)
-
-- __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: Kernel360
-  - 일시: 12. 27(수) 18:00 ~ 20:00
 - __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 구름톤 유니브
   - 접수: 11. 29(수) ~ 12. 29(금)
+
 - __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
   - 분류: `교육`, `MongoDB`
   - 주최: MongoDB
@@ -176,6 +168,10 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
   - 접수: 12. 26(화) ~ 01. 09(수)
+- __[저자 이정주와 함께하는 플러터 튜토리얼](https://docs.google.com/forms/d/e/1FAIpQLSfVaS1AMSQm7jf7rgX4pAxiEot6LE_mJq_b28Xem9oCDbWcEg/viewform)__
+  - 분류: `온라인`, `무료`, `iOS`, `안드로이드`
+  - 주최: 이정주
+  - 일시: 01. 13(토) 14:00 ~ 16:00
 - __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
@@ -188,6 +184,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: mice forum
   - 접수: 12. 19(화) ~ 01. 24(수)
+- __[2024년에는 Go 언어와 더 친해져 보아요!](https://festa.io/events/4517)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 접수: 12. 28(목) ~ 01. 26(금)
 
 ----------------
 
