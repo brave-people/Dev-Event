@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[서울시 평균 기온 예측 해커톤](https://dacon.io/competitions/official/236200/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 데이콘
-  - 접수: 12. 11(월) ~ 01. 02(화)
-
-- __[교육관련 앱/웹 서비스 제작 주니어 해커톤](https://sniperfactory.com/course/j5duwrtxkol7hb2)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 스나이퍼팩토리
-  - 접수: 12. 14(목) ~ 01. 02(화)
-- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/298106517/)__
-  - 분류: `오프라인`, `유료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 12. 29(금) ~ 01. 02(화)
 - __[[리얼리눅스 무료세미나]"코딩없이 IT 취업하려면?"](https://event-us.kr/hcmy8aalnjac/event/75977)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 리얼리눅스
   - 일시: 01. 03(수) 20:00 ~ 21:00
+
 - __[대학 대항전 : 퍼즐 이미지 AI 경진대회](https://dacon.io/competitions/official/236207/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 데이콘
@@ -166,6 +154,10 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWS Cloud Club in South Korea
   - 접수: 12. 26(화) ~ 01. 06(토)
+- __[GDSC Yonsei 2024년 1월 GDSC* fopen()](https://festa.io/events/4578)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: GDSC* fopen()
+  - 접수: 01. 03(수) ~ 01. 08(월)
 - __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
@@ -186,6 +178,14 @@
   - 분류: `오프라인`, `유료`, `대회`, `AI`
   - 주최: 프로메테우스
   - 접수: 12. 18(월) ~ 01. 21(일)
+- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/298295929/)__
+  - 분류: `오프라인`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(수) ~ 01. 23(화)
+- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/298273426/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(수) ~ 01. 23(화)
 - __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: mice forum
