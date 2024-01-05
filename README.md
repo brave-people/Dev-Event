@@ -137,19 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[[리얼리눅스 무료세미나]"코딩없이 IT 취업하려면?"](https://event-us.kr/hcmy8aalnjac/event/75977)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 리얼리눅스
-  - 일시: 01. 03(수) 20:00 ~ 21:00
-
-- __[카이스트 정글 8기 & 크래프톤 정글 5기 모집](https://www.wanted.co.kr/events/swjungle)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 정글
-  - 접수: 12. 11(월) ~ 01. 04(목)
 - __[AWS Cloud Club MLAPI Camp in South Korea](https://www.meetup.com/ko-KR/aws-cloud-club-in-south-korea/events/298104583/)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWS Cloud Club in South Korea
   - 접수: 12. 26(화) ~ 01. 06(토)
+
 - __[GDSC Yonsei 2024년 1월 GDSC* fopen()](https://festa.io/events/4578)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: GDSC* fopen()
@@ -158,6 +150,14 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
   - 접수: 12. 26(화) ~ 01. 09(수)
+- __[[K-하이테크플랫폼 X 모두의연구소 대전] 모두해유 | 생성AI로 15초 광고만들기](https://event-us.kr/modu/event/76538)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 12. 28(목) ~ 01. 09(화)
+- __[개인 데이터셋을 통한 llama2 fine-tune](https://aifactory.space/task/2716/discussion/815)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: AIFactory
+  - 접수: 01. 03(수) ~ 01. 11(목)
 - __[저자 이정주와 함께하는 플러터 튜토리얼](https://docs.google.com/forms/d/e/1FAIpQLSfVaS1AMSQm7jf7rgX4pAxiEot6LE_mJq_b28Xem9oCDbWcEg/viewform)__
   - 분류: `온라인`, `무료`, `iOS`, `안드로이드`
   - 주최: 이정주
