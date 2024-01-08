@@ -137,15 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[AWS Cloud Club MLAPI Camp in South Korea](https://www.meetup.com/ko-KR/aws-cloud-club-in-south-korea/events/298104583/)__
-  - 분류: `오프라인`, `유료`, `교육`
-  - 주최: AWS Cloud Club in South Korea
-  - 접수: 12. 26(화) ~ 01. 06(토)
-
 - __[GDSC Yonsei 2024년 1월 GDSC* fopen()](https://festa.io/events/4578)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: GDSC* fopen()
   - 접수: 01. 03(수) ~ 01. 08(월)
+  
 - __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
@@ -158,6 +154,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: AIFactory
   - 접수: 01. 03(수) ~ 01. 11(목)
+- __[타입으로 견고하게 다형성으로 유연하게](https://festa.io/events/4592)__
+  - 분류: `온라인`, `오프라인`, `무료`, `프론트엔드`
+  - 주최: 구름
+  - 접수: 01. 08(월) ~ 01. 12(금) 17:00
 - __[저자 이정주와 함께하는 플러터 튜토리얼](https://docs.google.com/forms/d/e/1FAIpQLSfVaS1AMSQm7jf7rgX4pAxiEot6LE_mJq_b28Xem9oCDbWcEg/viewform)__
   - 분류: `온라인`, `무료`, `iOS`, `안드로이드`
   - 주최: 이정주
@@ -166,6 +166,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 모두의연구소
   - 접수: 12. 29(금) ~ 01. 15(월)
+- __[SUSC X 한빛미디어 CS101 스터디](https://festa.io/events/4594)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: 한빛미디어
+  - 접수: 01. 08(월) ~ 01. 17(수)
 - __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 이노핏파트너스
@@ -194,6 +198,10 @@
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: BOAZ
   - 접수: 01. 02(화) ~ 01. 26(금)
+- __[테킷 데이터 분석가 양성 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-3rd)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 원티드
+  - 접수: 01. 08(월) ~ 01. 31(목)
 
 <br />
 
