@@ -49,7 +49,7 @@
             <!-- <th scope="col">-</th> -->
         <!-- </tr> -->
         <tr>
-            <td rowspan="4"> 이전 행사 모음 </td>
+            <td rowspan="5"> 이전 행사 모음 </td>
             <td>2020년</td>
             <td> 
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
@@ -137,15 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[GDSC Yonsei 2024년 1월 GDSC* fopen()](https://festa.io/events/4578)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: GDSC* fopen()
-  - 접수: 01. 03(수) ~ 01. 08(월)
-  
 - __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298048627/)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: AWSKRUG
   - 접수: 12. 26(화) ~ 01. 09(수)
+  
 - __[[K-하이테크플랫폼 X 모두의연구소 대전] 모두해유 | 생성AI로 15초 광고만들기](https://event-us.kr/modu/event/76538)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -170,6 +166,14 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 한빛미디어
   - 접수: 01. 08(월) ~ 01. 17(수)
+- __[SUSC X 한빛미디어 CS101 스터디](https://festa.io/events/4594)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: 한빛미디어
+  - 접수: 01. 08(월) ~ 01. 17(수)
+- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/298143591/)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 01. 09(화) ~ 01. 18(목)
 - __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 이노핏파트너스
