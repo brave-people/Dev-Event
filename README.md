@@ -178,6 +178,10 @@
   - 분류: `오프라인`, `유료`, `대회`, `AI`
   - 주최: 프로메테우스
   - 접수: 12. 18(월) ~ 01. 21(일)
+- __[2024 Mobility SW HACKATHON](https://hmg-scholar.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=166305)__
+  - 분류: `오프라인`, `무료`, `대회`, `기술일반`
+  - 주최: 현대모비스
+  - 접수: 01. 03(화) ~ 01. 21(월)
 - __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/298295929/)__
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -202,6 +206,7 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 원티드
   - 접수: 01. 08(월) ~ 01. 31(목)
+
 
 <br />
 
