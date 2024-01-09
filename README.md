@@ -202,6 +202,10 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 원티드
   - 접수: 01. 08(월) ~ 01. 31(목)
+- __[2024 Mobility SW HACKATHON](https://hmg-scholar.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=166305)__
+  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `임베디드`
+  - 주최: 현대모비스
+  - 접수: 01. 03(화) ~ 01. 21(월)
 
 <br />
 
