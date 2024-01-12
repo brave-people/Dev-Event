@@ -137,15 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[개인 데이터셋을 통한 llama2 fine-tune](https://aifactory.space/task/2716/discussion/815)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: AIFactory
-  - 접수: 01. 03(수) ~ 01. 11(목)
-
 - __[타입으로 견고하게 다형성으로 유연하게](https://festa.io/events/4592)__
   - 분류: `온라인`, `오프라인`, `무료`, `프론트엔드`
   - 주최: 구름
   - 접수: 01. 08(월) ~ 01. 12(금) 17:00
+
 - __[저자 이정주와 함께하는 플러터 튜토리얼](https://docs.google.com/forms/d/e/1FAIpQLSfVaS1AMSQm7jf7rgX4pAxiEot6LE_mJq_b28Xem9oCDbWcEg/viewform)__
   - 분류: `온라인`, `무료`, `iOS`, `안드로이드`
   - 주최: 이정주
@@ -166,6 +162,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 01. 09(화) ~ 01. 18(목)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/298348196/)__
+  - 분류: `오프라인`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 01. 12(금) ~ 01. 18(목)
 - __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 이노핏파트너스
@@ -194,6 +194,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 01. 11(목) ~ 01. 24(수)
+- __[AWSKRUG 아키텍처 #architecture 46번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/298273910/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 12(금) ~ 01. 25(목)
 - __[2024년에는 Go 언어와 더 친해져 보아요!](https://festa.io/events/4517)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
