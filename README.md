@@ -394,6 +394,7 @@
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
 | AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
+| 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
