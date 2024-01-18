@@ -117,7 +117,7 @@
             <!-- <td> 종료 행사 </td> -->
             <td>2024년</td>
             <td>
-              <a href="./end_event/2024/24_01.md"> 01월 </a>,
+              <a href="./end_event/2024/24_01.md"> 01월 </a>
             </td>
         </tr>
         <tr>
@@ -137,19 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[SUSC X 한빛미디어 CS101 스터디](https://festa.io/events/4594)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: 한빛미디어
-  - 접수: 01. 08(월) ~ 01. 17(수)
-
-- __[2024 온디바이스 AI 기반 임베디드 최신 기술 동향 세미나](https://www.kessia.kr/eventnedu/event_edu_view.php?idx=8)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 임베디드소프트웨어 시스템산업협회
-  - 일시: 01. 17(수) 14:00 ~ 16:00
 - __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/298143591/)__
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 01. 09(화) ~ 01. 18(목)
+
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/298348196/)__
   - 분류: `오프라인`, `유료`, `보안`
   - 주최: AWSKRUG
@@ -182,6 +174,10 @@
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 01. 03(수) ~ 01. 23(화)
+- __[Prompt-Engineering for Open-Source LLMs](https://www.meetup.com/data-scientist-meetup-in-seoul/events/298409786/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI/ML DeepLearning Meetup in Seoul
+  - 일시: 01. 18(목) ~ 01. 23(화)
 - __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: mice forum
@@ -267,6 +263,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 전자정부 표준프레임워크 센터
   - 접수: 01. 10(수) ~ 02. 05(월)
+- __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 골든래빗
+  - 접수: 01. 18(목) ~ 02. 15(목)
 - __[인공지능사관학교 5기](https://gj-aischool.or.kr/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 과학기술정보통신부
