@@ -376,7 +376,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-| 걸스인텍 코리아(Girls In Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/) |
+| 걸스인텍 코리아(Girls in Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/), [youtube](https://youtube.com/@girlsintech-korea6470) |
 | OKKY (Java,Spring) | [homepage](https://okky.kr/) |
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
@@ -394,6 +394,7 @@
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
 | AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
+| 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
