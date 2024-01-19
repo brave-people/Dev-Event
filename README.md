@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/298143591/)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 01. 09(화) ~ 01. 18(목)
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/298348196/)__
-  - 분류: `오프라인`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 01. 12(금) ~ 01. 18(목)
-- __[[딥러닝러닝데이] AutoML을 활용한 모델 탐색](https://aifactory.space/task/2717/discussion/816)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 인공지능팩토리
-  - 접수: 01. 15(월) ~ 01. 18(목)
 - __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 이노핏파트너스
   - 접수: 12. 26(화) ~ 01. 19(금)
+  
 - __[2024 PROMETHEUS AI HACKATHON](https://prometheus-ai.net/hackathon)__
   - 분류: `오프라인`, `유료`, `대회`, `AI`
   - 주최: 프로메테우스
@@ -198,6 +186,10 @@
   - 분류: `오프라인`, `무료`, `데이터`
   - 주최: BOAZ
   - 접수: 01. 02(화) ~ 01. 26(금)
+- __[리눅스 환경(WSL 포함)에서 C++ 실습하기](https://festa.io/events/4635)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 01. 19(금) ~ 01. 26(금)
 - __[데브콘 대전 : 일월엔 스타트!](https://festa.io/events/4580)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: K-DEVCON
@@ -255,6 +247,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: 스위프트 코딩클럽
   - 접수: 01. 11(목) ~ 02. 03(토)
+- __[2024년 C++ 핵심 가이드라인 스터디 첫 모임](https://festa.io/events/4658)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 01. 19(금) ~ 02. 03(토)
 - __[대학 대항전 : 퍼즐 이미지 AI 경진대회](https://dacon.io/competitions/official/236207/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 데이콘
@@ -263,6 +259,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 전자정부 표준프레임워크 센터
   - 접수: 01. 10(수) ~ 02. 05(월)
+- __[SPARCS Service Hackathon 2024 참가자 모집!](https://event.sparcs.org/ssh24)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 대전광역시
+  - 접수: 01. 19(금) ~ 02. 13(화)
 - __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
