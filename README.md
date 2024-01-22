@@ -243,10 +243,10 @@
   - 주최: 원티드
   - 접수: 01. 17(수) ~ 02. 01(목)
 
-- __[AI Link Beer 🍻 Night](https://vvd.bz/dcUR)__
-  - 분류: `오프라인`, `유료`, `네트워킹`, `AI`
+- __[AI Link Beer Night](https://vvd.bz/dcUR)__
+  - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
-  - 일시: 02. 02(금) 19:00 ~ 21:00
+  - 접수: 01. 22(월) ~ 02. 01(목)
 - __[Coffee with Swift](https://festa.io/events/4627)__
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: 스위프트 코딩클럽
