@@ -243,6 +243,10 @@
   - 주최: 원티드
   - 접수: 01. 17(수) ~ 02. 01(목)
 
+- __[AI Link Beer 🍻 Night](https://vvd.bz/dcUR)__
+  - 분류: `오프라인`, `유료`, `네트워킹`, `AI`
+  - 주최: AI Link
+  - 일시: 02. 02(금) 19:00 ~ 21:00
 - __[Coffee with Swift](https://festa.io/events/4627)__
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: 스위프트 코딩클럽
@@ -345,7 +349,7 @@
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
 | GDG Golang Korea | [facebook](https://www.facebook.com/gdggo/) |
-| GDG Incheon & Songdo with Flutter Songdo | [homepage](http://gdgincheon.com/), [instagram](https://www.instagram.com/gdg_songdo/), [facebook](https://www.facebook.com/groups/gdgsongdo/) |
+| GDG Incheon & Songdo | [homepage](http://gdgincheon.com/), [instagram](https://www.instagram.com/gdg_songdo/), [facebook](https://www.facebook.com/groups/gdgsongdo/) |
 | Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
@@ -393,7 +397,7 @@
 | 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
-| AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
+| AI Link | [homepage](https://ailink.oopy.io/), [채팅방](https://open.kakao.com/o/g60UZDQf) |
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
