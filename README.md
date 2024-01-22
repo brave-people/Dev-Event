@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-120-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-124-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -49,7 +49,7 @@
             <!-- <th scope="col">-</th> -->
         <!-- </tr> -->
         <tr>
-            <td rowspan="4"> 종료 행사 </td>
+            <td rowspan="5"> 이전 행사 모음 </td>
             <td>2020년</td>
             <td> 
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
@@ -114,6 +114,13 @@
             </td>
         </tr>
         <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2024년</td>
+            <td>
+              <a href="./end_event/2024/24_01.md"> 01월 </a>
+            </td>
+        </tr>
+        <tr>
           <td> 행사 녹화 다시보기 </td>
           <td colspan="2">
             <a href="./replay_event/replay_event.md"> 바로가기 </a>
@@ -129,168 +136,143 @@
 
 <br />
 
-## 23년 12월 
-- __[K-PaaS 활용 디지털 사회혁신 서비스 개발, 아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
-  - 분류: `무료`, `대회`, `클라우드`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 24(목) ~ 12. 13(수)
-
-- __[11STREET TECH TALK 2023](https://techtalk.11stcorp.com/)__
-  - 분류: `온라인`, `무료`, `컨퍼런스`
-  - 주최: 11번가
-  - 일시: 12. 12(화) ~ 12. 13(수)
-- __[모두해유 | 고독한 개발자의 밤](https://event-us.kr/modu/event/75093)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 모두의연구소
-  - 일시: 12. 05(화) ~ 12. 13(수)
-- __[Supabase x Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/297652955/)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 일시: 12. 06(수) ~ 12. 13(수)
-- __[2023 전자정부 표준프레임워크 신규버전(v4.2) 발표회](https://open.egovframe.org/oc/support/noticeItem.do?nttId=20887)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 행정안전부
-  - 일시: 12. 13(수) 14:00 ~ 16:30
-- __[AWSKRUG #magok 마곡 소모임 여섯번째 모임](https://www.meetup.com/awskrug/events/297693988/)__
-  - 분류: `오프라인`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 12. 11(월) ~ 12. 14(목)
-- __[프리온보딩 커리어 킥오프 2023 Winter](https://www.wanted.co.kr/events/pre_kickoff_2023_winter)__
-  - 분류: `무료`, `온라인`, `커리어`
-  - 주최: 원티드
-  - 접수: 11. 30(목) ~ 12. 14(목)
-- __[Adeiu 2023 with MLOps Community](https://www.meetup.com/ko-KR/seoul-mlops-meetup/events/297606052/)__
-  - 분류: `무료`, `오프라인`, `AI`
-  - 주최: Seoul MLOps Meetup
-  - 접수: 11. 30(목) ~ 12. 14(목)
-- __[AWSKRUG 컨테이너 모임](https://www.meetup.com/awskrug/events/297785705/)__
-  - 분류: `무료`, `오프라인`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 14(목)
-- __[TOSS BUG BOUNTY CHALLENGE](https://bugbounty.toss.im/)__
-  - 분류: `보안`, `대회`
-  - 주최: 토스
-  - 접수: 07. 13(목) ~ 12. 15(금)
-- __[liftIO 2023](https://festa.io/events/4257)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: liftIO
-  - 접수: 11. 15(수) ~ 12. 15(금)
-- __[AI학교 아이펠 데이터 사이언티스트 과정 모집](https://www.wanted.co.kr/events/aiffel-data-scientist-1)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 11. 15(수) ~ 12. 15(금)
-- __[모두의연구소 '인공지능(AI) 모델 활용 백엔드 개발 과정](https://festa.io/events/4427)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 모두의연구소
-  - 접수: 11. 22(수) ~ 12. 15(금)
-- __[C++ Korea 2023 연말 Meet-Up(12월)](https://festa.io/events/4391)__
-  - 분류: `오프라인`, `유료`, `C++`
-  - 주최: C++ Korea
-  - 접수: 11. 23(목) ~ 12. 15(금)
-- __[2023 ( ), 그랬구나.](https://smartstore.naver.com/asyncswift/products/9588768076)__
-  - 분류: `오프라인`, `유료`, `iOS`
-  - 주최: AsyncSwift
-  - 접수: 11. 23(목) ~ 12. 15(금)
-- __[2023 Korea MVP AI Conference](https://festa.io/events/4425)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Global AI Bootcamp organizers
-  - 접수: 11. 29(수) ~ 12. 15(금)
-- __[SIPE Meetup - 송년회](https://festa.io/events/4444)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: SIPE Team
-  - 접수: 12. 07(목) ~ 12. 15(금)
-- __[LOUNGE23 - 중고등학생 IT/창업 컨퍼런스](https://connect-impact.org/lounge)__
-  - 분류: `오프라인`, `무료`, `커뮤니티`
-  - 주최: IMPACT
-  - 접수: 11. 27(월) ~ 12. 16(토)
-- __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 10기 모집](https://www.dnd.ac/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `모임`
-  - 주최: DND
-  - 접수: 11. 20(월) ~ 12. 18(월)
-- __[KT 에이블스쿨 5기 모집](https://aivle.kt.co.kr/home/brd/bbs/viewAtclMain?mcd=MC00000061&bbsCd=NOTICE&atclSn=8009&pageIndex=1)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: AIVLE
-  - 접수: 11. 27(월) ~ 12. 18(월)
-- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/297536169/)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 18(월)
-- __[소프트웨어 장인 정신, 우리가 함께 성장하는 방법](https://blog.goorm.io/commit_15th/?utm_source=community&utm_medium=social&utm_content=github_dev_event)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 12. 11(월) ~ 12. 18(월)
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/297896811/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 12. 12(화) ~ 12. 18(월)
-- __[2023 모두의 오픈데이터포럼](https://onoffmix.com/event/290748)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: 오픈데이터포럼
-  - 일시: 12. 18(월) 15:00 ~ 17:20
-- __[AI Link의 제1회 Meetup 'Link Up'](https://vvd.bz/cJf3)__
-  - 분류: `오프라인`, `무료`, `모임`, `AI`
-  - 주최: AI Link
-  - 일시: 12. 18(월) 19:00 ~ 21:00
-- __[2023 OKKY 회원과 함께하는 송년회](https://okky.kr/articles/1478507)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: OKKY
-  - 접수: 11. 24(금) ~ 12. 20(수)
-- __[한빛N MSA - #10 Level Up](https://festa.io/events/4409)__
-  - 분류: `오프라인`, `유료`, `커리어`
-  - 주최: 한빛N MSA
-  - 접수: 11. 30(목) ~ 12. 20(수)
-- __[12월 Tech 세미나 - AI 해킹과 보안](https://devocean.sk.com/events/view.do?id=190)__
-  - 분류: `온라인`, `무료`, `AI`, `보안`
-  - 주최: DEVOCEAN
-  - 접수: 12. 06(수) ~ 12. 20(수)
-- __[AWSKRUG 핸즈온 모임 - 콘테이너 왕초보를 위한 EKS 실습](https://www.meetup.com/awskrug/events/297495337/)__
+## 24년 01월
+- __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 이노핏파트너스
+  - 접수: 12. 26(화) ~ 01. 19(금)
+  
+- __[2024 PROMETHEUS AI HACKATHON](https://prometheus-ai.net/hackathon)__
+  - 분류: `오프라인`, `유료`, `대회`, `AI`
+  - 주최: 프로메테우스
+  - 접수: 12. 18(월) ~ 01. 21(일)
+- __[2024 Mobility SW HACKATHON](https://hmg-scholar.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=166305)__
+  - 분류: `오프라인`, `무료`, `대회`, `기술일반`
+  - 주최: 현대모비스
+  - 접수: 01. 03(화) ~ 01. 21(월)
+- __[AWSKRUG 자격증소모임](https://www.meetup.com/awskrug/events/298315375/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 12. 07(목) ~ 12. 20(수)
-- __[Udemy 코딩 페스티벌 2023](https://event-us.kr/udemy/event/73376?utm_source=viral&utm_medium=github_dev_event&utm_campaign=6_sq4mcfko)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: 유데미
-  - 접수: 11. 01(수) ~ 12. 21(목)
-- __[제3회 프라이버시 강화기술 세미나](https://okky.kr/articles/1480440)__
-  - 분류: `오프라인`, `무료`, `보안`
-  - 주최: PET Korea
-  - 접수: 12. 08(금) ~ 12. 21(목)
-- __[이스트소프트 벡엔드/AI 교육과정](https://estfamily.career.greetinghr.com/kdt)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 이스트소프트
-  - 접수: 11. 20(월) ~ 12. 22(금)
-- __[애자일 코리아 밋업 12월](https://festa.io/events/4464)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 애자일 코리아 밋업
-  - 접수: 12. 08(금) ~ 12. 22(금)
-- __[나무톤(NAMUTHON) 2023](https://festa.io/events/4457)__
-  - 분류: `오프라인`, `유료`, `대회`
+  - 접수: 01. 16(화) ~ 01. 23(화)
+- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/298295929/)__
+  - 분류: `오프라인`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(수) ~ 01. 23(화)
+- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/298273426/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(수) ~ 01. 23(화)
+- __[Prompt-Engineering for Open-Source LLMs](https://www.meetup.com/data-scientist-meetup-in-seoul/events/298409786/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI/ML DeepLearning Meetup in Seoul
+  - 일시: 01. 18(목) ~ 01. 23(화)
+- __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: mice forum
+  - 접수: 12. 19(화) ~ 01. 24(수)
+- __[데브콘 서울 : 일월엔 신장개업](https://festa.io/events/4622)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 01. 11(목) ~ 01. 24(수)
+- __[AWSKRUG 아키텍처 #architecture 46번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/298273910/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 12(금) ~ 01. 25(목)
+- __[2024년에는 Go 언어와 더 친해져 보아요!](https://festa.io/events/4517)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 접수: 12. 28(목) ~ 01. 26(금)
+- __[제 19회 빅데이터 컨퍼런스](https://festa.io/events/4569)__
+  - 분류: `오프라인`, `무료`, `데이터`
+  - 주최: BOAZ
+  - 접수: 01. 02(화) ~ 01. 26(금)
+- __[리눅스 환경(WSL 포함)에서 C++ 실습하기](https://festa.io/events/4635)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 01. 19(금) ~ 01. 26(금)
+- __[데브콘 대전 : 일월엔 스타트!](https://festa.io/events/4580)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 01. 09(화) ~ 01. 27(토)
+- __[게으른 개발자 컨퍼런스](https://lazyconf.dev/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 게으른 개발자 모임
+  - 접수: 01. 11(목) ~ 01. 27(토)
+- __[다함께 솔챌톤](https://festa.io/events/4628/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Google Developer Student Clubs
-  - 접수: 12. 13(수) ~ 12. 22(금) 21:00
-- __[GDSC DevFest Campus](https://festa.io/events/4397)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: GDSC DevFest Campus
-  - 접수: 11. 22(수) ~ 12. 23(금)
-- __[Kernel360 : 백엔드 개발 오픈세미나](https://festa.io/events/4461)__
-  - 분류: `오프라인`, `무료`, `모임`, `벡엔드`
-  - 주최: Kernel360 오픈세미나
-  - 접수: 12. 08(금) ~ 12. 26(화)
-- __[GUAP : 구름톤유니브 에프터 파티](https://festa.io/events/4423)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 구름톤 유니브
-  - 접수: 11. 29(수) ~ 12. 29(금)
-- __[MongoDB University & Certification 프로그램](https://events.mongodb.com/mdbkruniversitycertification)__
-  - 분류: `교육`, `MongoDB`
-  - 주최: MongoDB
-  - 일시: 06. 01(목) ~ 12. 31(일)
+  - 접수: 01. 15(월) ~ 01. 21(일)
+- __[IT 커리어 컨퍼런스, 캠프콘](https://okky.kr/articles/1485274)__
+  - 분류: `온라인`, `무료`, `커리어`, `벡엔드`
+  - 주최: 패스트캠퍼스
+  - 접수: 01. 15(월) ~ 01. 29(월)
+- __[성장의 관성을 만드는 조직문화 구축 방법](https://www.wanted.co.kr/events/talk115)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 원티드
+  - 접수: 01. 16(화) ~ 01. 29(월)
+- __[테킷 데이터 분석가 양성 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-3rd)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 원티드
+  - 접수: 01. 08(월) ~ 01. 31(목)
+- __[백엔드 스쿨 : Python 부트캠프](https://www.wanted.co.kr/events/techit-kdt-backendp-9th)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 01. 08(월) ~ 01. 31(수)
+- __[상황에 맞는 프론트엔드 개발 전략 이해하기 | 프리온보딩 FE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_18)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 01. 17(수) ~ 01. 31(수)
+- __[디자인패턴: 이론을 뛰어넘는 with GoF | 프리온보딩 BE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_be_16)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 01. 17(수) ~ 01. 31(수)
+- __[리액트 네이티브, 성능 최적화 이해하기 | 프리온보딩 RN 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_rn_1)__
+  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
+  - 주최: 원티드
+  - 접수: 01. 17(수) ~ 01. 31(수)
+- __[김영한님 온라인 밋업 Live](https://www.inflearn.com/course/30%EB%A7%8C-%EA%B9%80%EC%98%81%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%84%B8%EC%85%98)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 일시: 01. 31(목) 19:00 ~ 21:00
 
 <br />
 
-## 24년 01월 
-- __[카이스트 정글 8기 & 크래프톤 정글 5기 모집](https://www.wanted.co.kr/events/swjungle)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 정글
-  - 접수: 12. 11(월) ~ 01. 04(목)
+## 24년 02월
+- __[5년 차 이상 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_2)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 01. 17(수) ~ 02. 01(목)
+
+- __[Coffee with Swift](https://festa.io/events/4627)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: 스위프트 코딩클럽
+  - 접수: 01. 11(목) ~ 02. 03(토)
+- __[2024년 C++ 핵심 가이드라인 스터디 첫 모임](https://festa.io/events/4658)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 01. 19(금) ~ 02. 03(토)
+- __[대학 대항전 : 퍼즐 이미지 AI 경진대회](https://dacon.io/competitions/official/236207/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 데이콘
+  - 접수: 01. 02(화) ~ 02. 05(월)
+- __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 전자정부 표준프레임워크 센터
+  - 접수: 01. 10(수) ~ 02. 05(월)
+- __[SPARCS Service Hackathon 2024 참가자 모집!](https://event.sparcs.org/ssh24)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 대전광역시
+  - 접수: 01. 19(금) ~ 02. 13(화)
+- __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 골든래빗
+  - 접수: 01. 18(목) ~ 02. 15(목)
+- __[인공지능사관학교 5기](https://gj-aischool.or.kr/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 01. 02(화) ~ 02. 29(목)
+
+<br />
 
 ----------------
 
@@ -337,6 +319,8 @@
 | 엘리스 | [Homepage](https://elice.io/home) |
 | 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
+| Apple Developer Academy @ POSTECH |[Homepage](https://developeracademy.postech.ac.kr/)|
+| 삼성 청년 SW 아카데미(SSAFY) | [Homepage](https://www.ssafy.com/) |
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
 | 네이버 부스트캠프 | [Homepage](https://boostcamp.connect.or.kr/) |
 | 42 SEOUL | [Homepage](https://42seoul.kr/) |
@@ -360,7 +344,7 @@
 | DevOps Korea | [facebook](https://www.facebook.com/groups/TeAnE/) |
 | Serverless Korea | [event-us](https://event-us.kr/bsBxCcQJioWM/event) |
 | Google Developers Experts | [developers.google.com](https://developers.google.com/community/experts) |
-| GDG Golang korea | [facebook](https://www.facebook.com/gdggo/) |
+| GDG Golang Korea | [facebook](https://www.facebook.com/gdggo/) |
 | GDG Incheon & Songdo with Flutter Songdo | [homepage](http://gdgincheon.com/), [instagram](https://www.instagram.com/gdg_songdo/), [facebook](https://www.facebook.com/groups/gdgsongdo/) |
 | Data Scientist Meetup in Seoul |[meetup](https://www.meetup.com/ko-KR/Data-Scientist-Meetup-in-Seoul/) |
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
@@ -392,7 +376,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-| 걸스인텍 코리아(Girls In Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/) |
+| 걸스인텍 코리아(Girls in Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/), [youtube](https://youtube.com/@girlsintech-korea6470) |
 | OKKY (Java,Spring) | [homepage](https://okky.kr/) |
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
@@ -410,6 +394,7 @@
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
 | AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
+| 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -598,6 +583,10 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/manu1307"><img src="https://avatars.githubusercontent.com/u/66587876?v=4?s=100" width="100px;" alt="Sung Chul Park"/><br /><sub><b>Sung Chul Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=manu1307" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/usedupnote"><img src="https://avatars.githubusercontent.com/u/59154924?v=4?s=100" width="100px;" alt="Lee Jeongmyeong [이정명]"/><br /><sub><b>Lee Jeongmyeong [이정명]</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=usedupnote" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/joonyong-ji-53a06018b/"><img src="https://avatars.githubusercontent.com/u/98405970?v=4?s=100" width="100px;" alt="Joonyong Ji"/><br /><sub><b>Joonyong Ji</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JUNY0110" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tommya98"><img src="https://avatars.githubusercontent.com/u/63833290?v=4?s=100" width="100px;" alt="SeokHun"/><br /><sub><b>SeokHun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tommya98" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Yaminyam"><img src="https://avatars.githubusercontent.com/u/31057849?v=4?s=100" width="100px;" alt="Sion Kang"/><br /><sub><b>Sion Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Yaminyam" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
