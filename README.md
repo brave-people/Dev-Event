@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[챗GPT 시대, 인간 중심 인공지능의 A to Z](https://onoffmix.com/event/291340)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 이노핏파트너스
-  - 접수: 12. 26(화) ~ 01. 19(금)
-  
-- __[2024 PROMETHEUS AI HACKATHON](https://prometheus-ai.net/hackathon)__
-  - 분류: `오프라인`, `유료`, `대회`, `AI`
-  - 주최: 프로메테우스
-  - 접수: 12. 18(월) ~ 01. 21(일)
-- __[2024 Mobility SW HACKATHON](https://hmg-scholar.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=166305)__
-  - 분류: `오프라인`, `무료`, `대회`, `기술일반`
-  - 주최: 현대모비스
-  - 접수: 01. 03(화) ~ 01. 21(월)
 - __[AWSKRUG 자격증소모임](https://www.meetup.com/awskrug/events/298315375/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 16(화) ~ 01. 23(화)
+
 - __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/298295929/)__
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -267,6 +255,14 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
   - 접수: 01. 18(목) ~ 02. 15(목)
+- __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 행정안전부
+  - 접수: 01. 18(목) ~ 02. 19(목)
+- __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: 코딩의 신
+  - 접수: 01. 22(월) ~ 02. 28(수)
 - __[인공지능사관학교 5기](https://gj-aischool.or.kr/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 과학기술정보통신부
