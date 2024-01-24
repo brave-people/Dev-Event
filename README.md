@@ -137,27 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[AWSKRUG 자격증소모임](https://www.meetup.com/awskrug/events/298315375/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 16(화) ~ 01. 23(화)
-
-- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/298295929/)__
-  - 분류: `오프라인`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 01. 03(수) ~ 01. 23(화)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/298273426/)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 01. 03(수) ~ 01. 23(화)
-- __[Prompt-Engineering for Open-Source LLMs](https://www.meetup.com/data-scientist-meetup-in-seoul/events/298409786/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AI/ML DeepLearning Meetup in Seoul
-  - 일시: 01. 18(목) ~ 01. 23(화)
 - __[2024 자율주행 및 SDV 기술세미나](https://onoffmix.com/event/291028)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: mice forum
   - 접수: 12. 19(화) ~ 01. 24(수)
+
 - __[데브콘 서울 : 일월엔 신장개업](https://festa.io/events/4622)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: K-DEVCON
@@ -206,6 +190,10 @@
   - 분류: `오프라인(서울강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 01. 23(화) ~ 01. 29(월)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/298626101/)__
+  - 분류: `오프라인(서울구로)`, `유료`, `클라우드`
+  - 주최: 모두의연구소
+  - 접수: 01. 24(수) ~ 01. 29(수)
 - __[모두를 위한 한국어 오픈액세스 언어모델 ━ 못다한 이야기](https://festa.io/events/4665)__
   - 분류: `오프라인(서울강남)`, `유료`, `기술일반`
   - 주최: 모두의연구소
@@ -243,6 +231,10 @@
   - 주최: 원티드
   - 접수: 01. 17(수) ~ 02. 01(목)
 
+- __[보안 및 Observability 통합 관리 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/security-korea-2024/)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: DATADOG
+  - 접수: 01. 24(수) ~ 02. 01(목)
 - __[AI Link Beer Night](https://vvd.bz/dcUR)__
   - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
