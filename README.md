@@ -137,27 +137,11 @@
 <br />
 
 ## 24년 01월
-- __[AWSKRUG 아키텍처 #architecture 46번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/298273910/)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 01. 12(금) ~ 01. 25(목)
-
-- __[2024년에는 Go 언어와 더 친해져 보아요!](https://festa.io/events/4517)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 접수: 12. 28(목) ~ 01. 26(금)
-- __[제 19회 빅데이터 컨퍼런스](https://festa.io/events/4569)__
-  - 분류: `오프라인`, `무료`, `데이터`
-  - 주최: BOAZ
-  - 접수: 01. 02(화) ~ 01. 26(금)
-- __[리눅스 환경(WSL 포함)에서 C++ 실습하기](https://festa.io/events/4635)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 01. 19(금) ~ 01. 26(금)
 - __[데브콘 대전 : 일월엔 스타트!](https://festa.io/events/4580)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 01. 09(화) ~ 01. 27(토)
+
 - __[게으른 개발자 컨퍼런스](https://lazyconf.dev/)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 게으른 개발자 모임
@@ -251,6 +235,18 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 전자정부 표준프레임워크 센터
   - 접수: 01. 10(수) ~ 02. 05(월)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298606250/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 27(토) ~ 02. 06(화)
+- __[Upstage AI Lab 3기 공개 설명회](https://docs.google.com/forms/d/e/1FAIpQLSeEoIKdy6smTFK_YKPyIWzj_A1Nyt3bfLvlkkZ-4_8f8kzwMg/viewform)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 01. 27(토) ~ 02. 06(화)
+- __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 02. 07(수) ~ 03. 13(수)
 - __[SW마에스트로 제15기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: SW마에스트로
