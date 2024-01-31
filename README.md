@@ -251,13 +251,13 @@
   - 분류: `온라인`, `무료`, `백앤드`
   - 주최: 행정안전부
   - 접수: 01. 22(월) ~ 02. 19(월)
-- __[.NET Conf 2024 x Seoul](https://onoffmix.com/event/293225)__
+- __[.NET Conf 2024 x Seoul](https://dotnetconf.kr/2024)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: .NET Conf
-  - 접수: 01. 30(월) ~ 02. 19(월)
-- __[.NET Conf 2024 x Seoul](https://generativeai.kr/)__
+  - 접수: 01. 30(월) ~ 02. 16(금)
+- __[GEN AI SEOUL 2024](https://generativeai.kr/)__
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
-  - 주최: .NET Conf
+  - 주최: DMK GLOBAL
   - 접수: 01. 30(월) ~ 02. 26(월)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
   - 분류: `오프라인`, `유료`, `기술일반`
