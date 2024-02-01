@@ -239,6 +239,10 @@
   - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 01. 31(수) ~ 02. 13(화)
+- __[구름톤 9기](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event&utm_content=open_9th)__
+  - 분류: `오프라인(제주)`, `유료`, `대회`
+  - 주최: 구름
+  - 접수: 02. 01(목) ~ 02. 14(수)
 - __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
