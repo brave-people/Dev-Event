@@ -136,39 +136,6 @@
 
 <br />
 
-## 24년 01월
-- __[테킷 데이터 분석가 양성 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-3rd)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 원티드
-  - 접수: 01. 08(월) ~ 01. 31(수)
-
-- __[백엔드 스쿨 : Python 부트캠프](https://www.wanted.co.kr/events/techit-kdt-backendp-9th)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 01. 08(월) ~ 01. 31(수)
-- __[상황에 맞는 프론트엔드 개발 전략 이해하기 | 프리온보딩 FE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_18)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 01. 17(수) ~ 01. 31(수)
-- __[디자인패턴: 이론을 뛰어넘는 with GoF | 프리온보딩 BE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_be_16)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 01. 17(수) ~ 01. 31(수)
-- __[리액트 네이티브, 성능 최적화 이해하기 | 프리온보딩 RN 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_rn_1)__
-  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
-  - 주최: 원티드
-  - 접수: 01. 17(수) ~ 01. 31(수)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/298629698/)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 25(목) ~ 01. 31(수)
-- __[김영한님 온라인 밋업 Live](https://www.inflearn.com/course/30%EB%A7%8C-%EA%B9%80%EC%98%81%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%84%B8%EC%85%98)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 일시: 01. 31(목) 19:00 ~ 21:00
-
-<br />
-
 ## 24년 02월
 - __[5년 차 이상 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_2)__
   - 분류: `오프라인`, `무료`, `커리어`
@@ -231,6 +198,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: SW마에스트로
   - 접수: 01. 08(월) ~ 02. 07(수)
+- __[시야가 넓은 개발자는 무엇이 다를까](https://blog.goorm.io/commit_17th/?utm_source=community&utm_medium=social&utm_content=dev_event)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 02. 02(금) ~ 02. 09(금)
 - __[SPARCS Service Hackathon 2024 참가자 모집!](https://event.sparcs.org/ssh24)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 대전광역시
@@ -247,10 +218,18 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
   - 접수: 01. 18(목) ~ 02. 15(목)
+- __[AWS Databricks: 더 똑똑한 데이터 플랫폼 구축하기](https://events.databricks.com/AWSDatabricksStartup2024)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: Databricks
+  - 접수: 02. 02(금) ~ 02. 15(목)
 - __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
   - 접수: 01. 18(목) ~ 02. 15(목)
+- __[컴공선배와 함께하는 백엔드 로드맵과 커리어 가이드](https://event-us.kr/gilbutit/event/77828)__
+  - 분류: `오프라인 (서울 강남)`, `유료`, `벡엔드`
+  - 주최: 길벗출판사
+  - 접수: 02. 02(금) ~ 02. 16(금)
 - __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
   - 분류: `온라인`, `무료`, `백앤드`
   - 주최: 행정안전부
