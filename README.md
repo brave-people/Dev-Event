@@ -410,6 +410,8 @@
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
 | AI Link | [homepage](https://ailink.oopy.io/), [채팅방](https://open.kakao.com/o/g60UZDQf) |
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
+| AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
+
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -430,6 +432,8 @@
 | FEConf | [feconf.kr](https://feconf.kr/)|
 | JunctionX Seoul | [facebook](https://www.facebook.com/junctionxseoul/)|
 | PyCon Korea | [pycon.kr](https://pycon.kr/)
+| SyncSwift | [SyncSwift](https://asyncswift.org/)
+
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
