@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-124-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-125-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -606,6 +606,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/joonyong-ji-53a06018b/"><img src="https://avatars.githubusercontent.com/u/98405970?v=4?s=100" width="100px;" alt="Joonyong Ji"/><br /><sub><b>Joonyong Ji</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JUNY0110" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tommya98"><img src="https://avatars.githubusercontent.com/u/63833290?v=4?s=100" width="100px;" alt="SeokHun"/><br /><sub><b>SeokHun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tommya98" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Yaminyam"><img src="https://avatars.githubusercontent.com/u/31057849?v=4?s=100" width="100px;" alt="Sion Kang"/><br /><sub><b>Sion Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Yaminyam" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JJinuk"><img src="https://avatars.githubusercontent.com/u/74299463?v=4?s=100" width="100px;" alt="최진욱"/><br /><sub><b>최진욱</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JJinuk" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
