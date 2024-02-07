@@ -143,6 +143,10 @@
   - 주최: SW마에스트로
   - 접수: 01. 08(월) ~ 02. 07(수)
 
+- __[Flutter Daegu Meetup(플러터 대구 모임)](https://festa.io/events/4735)__
+  - 분류: `오프라인(대구)`, `유료`, `iOS`, `안드로이드`
+  - 주최: 플러터 대구
+  - 접수: 02. 07(수) ~ 02. 08(금)
 - __[시야가 넓은 개발자는 무엇이 다를까](https://blog.goorm.io/commit_17th/?utm_source=community&utm_medium=social&utm_content=dev_event)__
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -171,6 +175,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 골든래빗
   - 접수: 01. 18(목) ~ 02. 15(목)
+- __[AWS | Databricks: 더 똑똑한 데이터 플랫폼 구축하기](https://events.databricks.com/AWSDatabricksStartup2024)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: Databricks
+  - 접수: 02. 07(수) ~ 02. 15(목)
 - __[컴공선배와 함께하는 백엔드 로드맵과 커리어 가이드](https://event-us.kr/gilbutit/event/77828)__
   - 분류: `오프라인 (서울 강남)`, `유료`, `벡엔드`
   - 주최: 길벗출판사
@@ -187,6 +195,10 @@
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
   - 주최: DMK GLOBAL
   - 접수: 01. 30(월) ~ 02. 26(월)
+- __[2024 암호화폐·블록체인 인사이트 컨퍼런스](https://event-us.kr/dtoday/event/77676)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 디지털투데이
+  - 접수: 01. 26(금) ~ 02. 26(월)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 코딩의 신
@@ -203,11 +215,15 @@
 <br />
 
 ## 24년 03월
+- __[한빛N MSA #2-1 운영 환경에 내 웹 서버 첫걸음마 떼주기](https://festa.io/events/4720)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
+  - 주최: 한빛N MSA
+  - 접수: 02. 07(수) ~ 03. 11(월)
+
 - __[도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://dacon.io/competitions/official/236216/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한솔데코
   - 접수: 01. 29(월) ~ 03. 11(월)
-
 - __[MetLife HACK4JOB CODING & SECURITY CHALLENGE - KOREA](https://brand.metlife.co.kr/ep/hack/methack4job.do)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 메트라이프
