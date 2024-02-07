@@ -117,7 +117,8 @@
             <!-- <td> 종료 행사 </td> -->
             <td>2024년</td>
             <td>
-              <a href="./end_event/2024/24_01.md"> 01월 </a>
+              <a href="./end_event/2024/24_01.md"> 01월 </a>,
+              <a href="./end_event/2024/24_02.md"> 02월 </a>
             </td>
         </tr>
         <tr>
@@ -137,67 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[5년 차 이상 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_2)__
-  - 분류: `오프라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 01. 17(수) ~ 02. 01(목)
-
-- __[보안 및 Observability 통합 관리 집중 탐구](https://www.datadoghq.com/ko/dg/webinars/security-korea-2024/)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: DATADOG
-  - 접수: 01. 24(수) ~ 02. 01(목)
-- __[AI Link Beer Night](https://vvd.bz/dcUR)__
-  - 분류: `오프라인`, `유료`, `모임`, `AI`
-  - 주최: AI Link
-  - 접수: 01. 22(월) ~ 02. 01(목)
-- __[웹개발 언어/방법론 스터디 참여신청서](https://docs.google.com/forms/d/e/1FAIpQLSfYhUb16arJJNW8l8P4n2-46twuAUPbLtXoXQpdE92Fxvyn6w/viewform)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: 스파르타코딩클럽
-  - 접수: 01. 30(화) ~ 02. 02(금)
-- __[Coffee with Swift](https://festa.io/events/4627)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: 스위프트 코딩클럽
-  - 접수: 01. 11(목) ~ 02. 03(토)
-- __[2024년 C++ 핵심 가이드라인 스터디 첫 모임](https://festa.io/events/4658)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 01. 19(금) ~ 02. 03(토)
-- __[대학 대항전 : 퍼즐 이미지 AI 경진대회](https://dacon.io/competitions/official/236207/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 데이콘
-  - 접수: 01. 02(화) ~ 02. 05(월)
-- __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 전자정부 표준프레임워크 센터
-  - 접수: 01. 10(수) ~ 02. 05(월)
-- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/298606250/)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 01. 27(토) ~ 02. 06(화)
-- __[Upstage AI Lab 3기 공개 설명회](https://docs.google.com/forms/d/e/1FAIpQLSeEoIKdy6smTFK_YKPyIWzj_A1Nyt3bfLvlkkZ-4_8f8kzwMg/viewform)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 01. 27(토) ~ 02. 06(화)
-- __[모두의특강 : ChatGPT Store 오픈! 유용한 앱 둘러보기](https://event-us.kr/modoolecture/event/77849)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 모두의 특강
-  - 접수: 01. 27(토) ~ 02. 06(화)
-- __[AWSKRUG #magok 마곡 소모임 일곱번째 모임](https://www.meetup.com/awskrug/events/298626385/)__
-  - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 01. 31(수) ~ 02. 06(화)
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/298706548/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 01. 31(수) ~ 02. 06(화)
-- __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 02. 07(수) ~ 03. 13(수)
 - __[SW마에스트로 제15기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: SW마에스트로
   - 접수: 01. 08(월) ~ 02. 07(수)
+
 - __[시야가 넓은 개발자는 무엇이 다를까](https://blog.goorm.io/commit_17th/?utm_source=community&utm_medium=social&utm_content=dev_event)__
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -230,14 +175,14 @@
   - 분류: `오프라인 (서울 강남)`, `유료`, `벡엔드`
   - 주최: 길벗출판사
   - 접수: 02. 02(금) ~ 02. 16(금)
-- __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
-  - 분류: `온라인`, `무료`, `백앤드`
-  - 주최: 행정안전부
-  - 접수: 01. 22(월) ~ 02. 19(월)
 - __[.NET Conf 2024 x Seoul](https://dotnetconf.kr/2024)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: .NET Conf
   - 접수: 01. 30(월) ~ 02. 16(금)
+- __[2024년 1차 전자정부 표준프레임워크 온라인 정기교육](https://onoffmix.com/event/291338)__
+  - 분류: `온라인`, `무료`, `백앤드`
+  - 주최: 행정안전부
+  - 접수: 01. 22(월) ~ 02. 19(월)
 - __[GEN AI SEOUL 2024](https://generativeai.kr/)__
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
   - 주최: DMK GLOBAL
@@ -267,6 +212,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 메트라이프
   - 접수: 01. 30(화) ~ 03. 11(월)
+- __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 02. 07(수) ~ 03. 13(수)
 
 ----------------
 
