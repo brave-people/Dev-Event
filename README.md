@@ -138,15 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[SW마에스트로 제15기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: SW마에스트로
-  - 접수: 01. 08(월) ~ 02. 07(수)
-
 - __[Flutter Daegu Meetup(플러터 대구 모임)](https://festa.io/events/4735)__
   - 분류: `오프라인(대구)`, `유료`, `iOS`, `안드로이드`
   - 주최: 플러터 대구
   - 접수: 02. 07(수) ~ 02. 08(금)
+
 - __[시야가 넓은 개발자는 무엇이 다를까](https://blog.goorm.io/commit_17th/?utm_source=community&utm_medium=social&utm_content=dev_event)__
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -199,6 +195,14 @@
   - 분류: `온라인`, `무료`, `백앤드`
   - 주최: 행정안전부
   - 접수: 01. 22(월) ~ 02. 19(월)
+- __[모두팝 세미나 | Gen AI Safety & Security](https://festa.io/events/4739)__
+  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `백앤드`
+  - 주최: 모두의연구소
+  - 접수: 02. 08(목) ~ 02. 19(월)
+- __[데브콘 서울 : 이월엔 그로스](https://festa.io/events/4736)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `백앤드`
+  - 주최: K-DEVCON
+  - 접수: 02. 08(목) ~ 02. 19(월)
 - __[GEN AI SEOUL 2024](https://generativeai.kr/)__
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
   - 주최: DMK GLOBAL
