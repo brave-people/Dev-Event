@@ -138,19 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[Flutter Daegu Meetup(플러터 대구 모임)](https://festa.io/events/4735)__
-  - 분류: `오프라인(대구)`, `유료`, `iOS`, `안드로이드`
-  - 주최: 플러터 대구
-  - 접수: 02. 07(수) ~ 02. 08(금)
-
-- __[시야가 넓은 개발자는 무엇이 다를까](https://blog.goorm.io/commit_17th/?utm_source=community&utm_medium=social&utm_content=dev_event)__
-  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 02. 02(금) ~ 02. 09(금)
 - __[SPARCS Service Hackathon 2024 참가자 모집!](https://event.sparcs.org/ssh24)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 대전광역시
   - 접수: 01. 19(금) ~ 02. 13(화)
+
 - __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/298730864/)__
   - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
@@ -196,13 +188,25 @@
   - 주최: 행정안전부
   - 접수: 01. 22(월) ~ 02. 19(월)
 - __[모두팝 세미나 | Gen AI Safety & Security](https://festa.io/events/4739)__
-  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `백앤드`
+  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 02. 08(목) ~ 02. 19(월)
+- __[보안 잘하는 기업들이 버그바운티를 선택하는 이유! 버그바운티 200% 활용법](https://event-us.kr/theori/event/78329?utm_source=github_dev_event&utm_medium=cardnews&utm_campaign=geabwaagtg)__
+  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: Theori
+  - 접수: 02. 07(수) ~ 02. 20(화)
 - __[데브콘 서울 : 이월엔 그로스](https://festa.io/events/4736)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 02. 08(목) ~ 02. 21(수)
+- __[2024년 오픈인프라 한국 커뮤니티 2월 세미나](https://www.meetup.com/ko-KR/openstack-and-open-infrastructure-korea/events/298906178/)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `인프라`
+  - 주최: OpenStack and Open Infrastructure Korea
+  - 접수: 02. 13(화) ~ 02. 21(수)
+- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/298855173/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 02. 13(화) ~ 02. 21(수)
 - __[GEN AI SEOUL 2024](https://generativeai.kr/)__
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
   - 주최: DMK GLOBAL
@@ -211,6 +215,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 디지털투데이
   - 접수: 01. 26(금) ~ 02. 26(월)
+- __[제1회 SKT x KAKAO 테크 세미나 - 쿠버네티스 기술 이야기](https://devocean.sk.com/events/view.do?id=193)__
+  - 분류: `오프라인(경기도 판교)`, `무료`, `인프라`
+  - 주최: DEVOCEAN
+  - 접수: 02. 13(화) ~ 02. 27(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 코딩의 신
@@ -231,11 +239,15 @@
 <br />
 
 ## 24년 03월
+- __[2024 Global AI Bootcamp - Busan!](https://festa.io/events/4745)__
+  - 분류: `오프라인(부산 해운대구)`, `무료`, `AI`
+  - 주최: Global AI Bootcamp organizers
+  - 접수: 02. 13(화) ~ 03. 07(목)
+
 - __[한빛N MSA #2-1 운영 환경에 내 웹 서버 첫걸음마 떼주기](https://festa.io/events/4720)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
   - 주최: 한빛N MSA
   - 접수: 02. 07(수) ~ 03. 11(월)
-
 - __[도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://dacon.io/competitions/official/236216/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한솔데코
