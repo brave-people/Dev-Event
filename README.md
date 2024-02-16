@@ -256,7 +256,7 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 16(토) ~ 03. 24(일)
-- __[HelloWorld 24](https://www.wanted.co.kr/events/techit-kdt-ios-5th)__
+- __[HelloWorld 24](https://festa.io/events/4757)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
   - 주최: GDG INCHEON
   - 접수: 02. 13(화) ~ 03. 29(금)
