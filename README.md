@@ -138,31 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 골든래빗
-  - 접수: 01. 18(목) ~ 02. 15(목)
-
-- __[AWS Databricks: 더 똑똑한 데이터 플랫폼 구축하기](https://events.databricks.com/AWSDatabricksStartup2024)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: Databricks
-  - 접수: 02. 02(금) ~ 02. 15(목)
-- __[개발자, 데이터 과학자, 프로덕트 매니저 3자 대면](https://goldenrabbit.co.kr/event/%EB%9E%98%EB%B9%97%ED%86%A12-%EC%9B%90%EC%B9%99%EC%9E%90%EB%93%A4-%EC%82%BC%EC%9E%90%EB%8C%80%EB%A9%B4-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 골든래빗
-  - 접수: 01. 18(목) ~ 02. 15(목)
-- __[AWS | Databricks: 더 똑똑한 데이터 플랫폼 구축하기](https://events.databricks.com/AWSDatabricksStartup2024)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: Databricks
-  - 접수: 02. 07(수) ~ 02. 15(목)
-- __[2024.02 뉴콘텐츠기업지원센터 뉴콘톡데이](https://www.onoffmix.com/event/294047)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `AI`
-  - 주최: 뉴콘텐츠기업지원센터
-  - 접수: 02. 14(수) ~ 02. 15(목)
 - __[컴공선배와 함께하는 백엔드 로드맵과 커리어 가이드](https://event-us.kr/gilbutit/event/77828)__
   - 분류: `오프라인 (서울 강남)`, `유료`, `벡엔드`
   - 주최: 길벗출판사
   - 접수: 02. 02(금) ~ 02. 16(금)
+
 - __[.NET Conf 2024 x Seoul](https://dotnetconf.kr/2024)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: .NET Conf
@@ -199,6 +179,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 02. 13(화) ~ 02. 21(수)
+- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/299045489/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 02. 16(금) ~ 02. 22(목)
+- __[.NET Aspire + Blazor 워크샵](https://onoffmix.com/event/293617)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: 한국블레이저개발자모임
+  - 접수: 02. 16(금) ~ 02. 21(수)
 - __[GEN AI SEOUL 2024](https://generativeai.kr/)__
   - 분류: `오프라인(서울 양재)`, `유료`, `AI`
   - 주최: DMK GLOBAL
@@ -256,10 +244,6 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 메트라이프
   - 접수: 01. 30(화) ~ 03. 11(월)
-- __[도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://dacon.io/competitions/official/236216/overview/description)__
-  - 분류: `오프라인`, `무료`, `대회`, `AI`
-  - 주최: 한솔데코
-  - 접수: 02. 15(목) ~ 03. 11(월)
 - __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
@@ -268,6 +252,10 @@
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: 멋쟁이사자처럼
   - 접수: 02. 13(화) ~ 03. 17(일)
+- __[2024 Open UP 오픈 프런티어(기여형) 모집](https://oss.kr/notice/show/d4821cc8-b80e-4112-80ba-a6e4708f2f34)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 02. 16(토) ~ 03. 24(일)
 - __[HelloWorld 24](https://www.wanted.co.kr/events/techit-kdt-ios-5th)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
   - 주최: GDG INCHEON
