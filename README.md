@@ -138,15 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[보안 잘하는 기업들이 버그바운티를 선택하는 이유! 버그바운티 200% 활용법](https://event-us.kr/theori/event/78329?utm_source=github_dev_event&utm_medium=cardnews&utm_campaign=geabwaagtg)__
-  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: Theori
-  - 접수: 02. 07(수) ~ 02. 20(화)
-  
 - __[데브콘 서울 : 이월엔 그로스](https://festa.io/events/4736)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 02. 08(목) ~ 02. 21(수)
+
 - __[2024년 오픈인프라 한국 커뮤니티 2월 세미나](https://www.meetup.com/ko-KR/openstack-and-open-infrastructure-korea/events/298906178/)__
   - 분류: `오프라인(서울 서초)`, `무료`, `인프라`
   - 주최: OpenStack and Open Infrastructure Korea
@@ -244,6 +240,10 @@
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: 멋쟁이사자처럼
   - 접수: 02. 13(화) ~ 03. 17(일)
+- __[NCUC 제 5회 Online MeetUp](https://www.meetup.com/navercloud-user-community/events/299190207/)__
+  - 분류: `온라인`, `무료`, `iOS`
+  - 주최: NaverCloud User Community
+  - 접수: 02. 21(수) ~ 03. 18(월)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
