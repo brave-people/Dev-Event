@@ -241,7 +241,7 @@
   - 주최: 멋쟁이사자처럼
   - 접수: 02. 13(화) ~ 03. 17(일)
 - __[NCUC 제 5회 Online MeetUp](https://www.meetup.com/navercloud-user-community/events/299190207/)__
-  - 분류: `온라인`, `무료`, `iOS`
+  - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 02. 21(수) ~ 03. 18(월)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
