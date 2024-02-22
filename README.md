@@ -138,23 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[데브콘 서울 : 이월엔 그로스](https://festa.io/events/4736)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 02. 08(목) ~ 02. 21(수)
-
-- __[2024년 오픈인프라 한국 커뮤니티 2월 세미나](https://www.meetup.com/ko-KR/openstack-and-open-infrastructure-korea/events/298906178/)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `인프라`
-  - 주최: OpenStack and Open Infrastructure Korea
-  - 접수: 02. 13(화) ~ 02. 21(수)
-- __[Seoul iOS Meetup](https://www.meetup.com/ko-KR/seoul-ios-meetup/events/298855173/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 02. 13(화) ~ 02. 21(수)
 - __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/299045489/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: AWSKRUG
   - 접수: 02. 16(금) ~ 02. 22(목)
+
 - __[.NET Aspire + Blazor 워크샵](https://onoffmix.com/event/293617)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: 한국블레이저개발자모임
@@ -175,6 +163,10 @@
   - 분류: `오프라인(경기도 판교)`, `무료`, `인프라`
   - 주최: DEVOCEAN
   - 접수: 02. 13(화) ~ 02. 27(화)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/299168074/)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 02. 22(목) ~ 02. 27(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 코딩의 신
@@ -256,6 +248,10 @@
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
   - 주최: GDG INCHEON
   - 접수: 02. 13(화) ~ 03. 29(금)
+- __[소주콘 Shot 6 : 작심삼월](https://festa.io/events/4759)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: 소문난 주니어 콘퍼런스
+  - 접수: 02. 22(화) ~ 03. 28(목)
 
 ----------------
 
