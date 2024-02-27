@@ -138,23 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[AWSKRUG 스타트업 #startup 소모임](https://www.meetup.com/awskrug/events/299045489/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 02. 16(금) ~ 02. 22(목)
-
-- __[GEN AI SEOUL 2024](https://generativeai.kr/)__
-  - 분류: `오프라인(서울 양재)`, `유료`, `AI`
-  - 주최: DMK GLOBAL
-  - 접수: 01. 30(월) ~ 02. 26(월)
-- __[2024 암호화폐·블록체인 인사이트 컨퍼런스](https://event-us.kr/dtoday/event/77676)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 디지털투데이
-  - 접수: 01. 26(금) ~ 02. 26(월)
 - __[제1회 SKT x KAKAO 테크 세미나 - 쿠버네티스 기술 이야기](https://devocean.sk.com/events/view.do?id=193)__
   - 분류: `오프라인(경기도 판교)`, `무료`, `인프라`
   - 주최: DEVOCEAN
   - 접수: 02. 13(화) ~ 02. 27(화)
+
 - __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/299168074/)__
   - 분류: `오프라인(서울 성수)`, `무료`, `인프라`
   - 주최: AWSKRUG
@@ -187,6 +175,10 @@
   - 분류: `오프라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 20(화) ~ 02. 29(목)
+- __[2024 백엔드 개발자 무료 취업 전략 특강](https://okky.kr/articles/1490516?topic=it&page=1)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 02. 27(화) ~ 02. 29(목)
 
 <br />
 
@@ -220,6 +212,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 메트라이프
   - 접수: 01. 30(화) ~ 03. 11(월)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/299455477/)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 27(화) ~ 03. 12(화)
 - __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
