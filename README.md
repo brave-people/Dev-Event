@@ -138,19 +138,11 @@
 <br />
 
 ## 24년 02월
-- __[제1회 SKT x KAKAO 테크 세미나 - 쿠버네티스 기술 이야기](https://devocean.sk.com/events/view.do?id=193)__
-  - 분류: `오프라인(경기도 판교)`, `무료`, `인프라`
-  - 주최: DEVOCEAN
-  - 접수: 02. 13(화) ~ 02. 27(화)
-
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/299168074/)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 22(목) ~ 02. 27(화)
 - __[개발자, 한 달에 책 한 권 읽기](https://festa.io/events/4659)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 코딩의 신
   - 접수: 01. 22(월) ~ 02. 28(수)
+
 - __[AWSKRUG 아키텍처 소모임](https://www.meetup.com/awskrug/events/298921546/)__
   - 분류: `오프라인(서울 센터필드)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -179,6 +171,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 제로베이스
   - 접수: 02. 27(화) ~ 02. 29(목)
+- __[[항해 플러스] 설명회 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdNbsux2GpG2foD0CqDDv56ujSo2uYbTT_iU0n5RsFwoDJ6_g/viewform?viral)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 항해
+  - 접수: 02. 28(수) ~ 02. 29(목)
 
 <br />
 
@@ -220,6 +216,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
   - 접수: 02. 07(수) ~ 03. 13(수)
+- __[AI x Robotics : "ROBOTALK"](https://festa.io/events/4797)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AI Robotics KR
+  - 접수: 02. 28(수) ~ 03. 16(토)
 - __[테킷 앱 스쿨 : iOS 5기 모집](https://www.wanted.co.kr/events/techit-kdt-ios-5th)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: 멋쟁이사자처럼
