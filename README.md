@@ -118,7 +118,8 @@
             <td>2024년</td>
             <td>
               <a href="./end_event/2024/24_01.md"> 01월 </a>,
-              <a href="./end_event/2024/24_02.md"> 02월 </a>
+              <a href="./end_event/2024/24_02.md"> 02월 </a>,
+              <a href="./end_event/2024/24_03.md"> 03월 </a>,
             </td>
         </tr>
         <tr>
@@ -137,48 +138,11 @@
 
 <br />
 
-## 24년 02월
-- __[AWSKRUG 아키텍처 소모임](https://www.meetup.com/awskrug/events/298921546/)__
-  - 분류: `오프라인(서울 센터필드)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 02. 29(목) 19:30 ~ 21:30
-  
-- __[인공지능사관학교 5기](https://gj-aischool.or.kr/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 01. 02(화) ~ 02. 29(목)
-- __[게임 개발자 커뮤니티 '거실' 모집](https://cargold.notion.site/cargold/5c1b5c784cfd40bbba0f762fb2dcbee9)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 거실
-  - 접수: 01. 29(월) ~ 02. 29(목)
-- __[React 실전 가이드: 면접 및 실무 기술 | 프리온보딩 프론트엔드 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_fe_19)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 02. 14(수) ~ 02. 29(목)
-- __[AWS를 활용한 시스템 아키텍처 설계 | 프리온보딩 백엔드 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_17)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 02. 14(수) ~ 02. 29(목)
-- __[AWSKRUG 아키텍처 #architecture 46번째 소모임](https://www.meetup.com/ko-KR/awskrug/events/298921546/)__
-  - 분류: `오프라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 20(화) ~ 02. 29(목)
-- __[2024 백엔드 개발자 무료 취업 전략 특강](https://okky.kr/articles/1490516?topic=it&page=1)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 제로베이스
-  - 접수: 02. 27(화) ~ 02. 29(목)
-- __[[항해 플러스] 설명회 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdNbsux2GpG2foD0CqDDv56ujSo2uYbTT_iU0n5RsFwoDJ6_g/viewform?viral)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 항해
-  - 접수: 02. 28(수) ~ 02. 29(목)
-
-<br />
-
 ## 24년 03월
-- __[#StartHerSuccess:게임 메이커들의 커리어 레벨업](https://festa.io/events/4767)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 걸스인택코리아
-  - 접수: 02. 19(월) ~ 03. 03(일)
+- __[테킷 백엔드 스쿨 : iOS 5기 모집](https://www.wanted.co.kr/events/techit-kdt-backendj-10th)__
+  - 분류: `온라인`, `무료`, `백엔드`
+  - 주최: 원티드
+  - 접수: 02. 13(화) ~ 03. 06(수)
 
 - __[GitLab Korea 밋업 #19 with Google 개발자 생산성 업을 위한 GitLab AI 핸즈온과 옵저버빌리티 데모](https://festa.io/events/4749)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
@@ -216,6 +180,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 02. 29(목) ~ 03. 13(수)
+- __[프리온보딩 커리어 킥오프 2024 Spring](https://www.wanted.co.kr/events/pre_kickoff_2024_spring)__
+  - 분류: `온라인`, `무료`, `커리어`, `기술일반`
+  - 주최: 원티드
+  - 접수: 02. 28(수) ~ 03. 14(목)
 - __[AI x Robotics : "ROBOTALK"](https://festa.io/events/4797)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Robotics KR
@@ -228,10 +196,18 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 02. 21(수) ~ 03. 18(월)
+- __[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기](https://festa.io/events/4830)__
+  - 분류: `오프라인(서울 삼성)`, `유료`, `인프라`
+  - 주최: 한빛미디어
+  - 접수: 03. 04(월) ~ 03. 20(수)
 - __[채널콘 2024 신청](https://channelcon.io/)__
   - 분류: `오프라인(서울 삼성)`, `무료`, `기술일반`
   - 주최: 채널코퍼레이션
   - 접수: 02. 26(월) ~ 03. 21(목)
+- __[Udemy 라이브세션 신청｜주니어 개발자를 위한 커리어 성장 멘토링](https://docs.google.com/forms/d/e/1FAIpQLSfrnd80wFKfmM1BLN0yWFBfhqq5rA1eOTsQIDiC5Bv6Oxtx-Q/viewform)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: Udemy
+  - 접수: 02. 28(수) ~ 03. 22(금)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
