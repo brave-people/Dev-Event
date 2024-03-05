@@ -144,6 +144,10 @@
   - 주최: 원티드
   - 접수: 02. 13(화) ~ 03. 06(수)
 
+- __[GWDC24](https://event-us.kr/gwdc24/event/77961)__
+  - 분류: `오프라인 (강원도)`, `유료`, `기술일반`
+  - 주최: GWDC
+  - 접수: 02. 16(금) ~ 03. 08(금)
 - __[GitLab Korea 밋업 #19 with Google 개발자 생산성 업을 위한 GitLab AI 핸즈온과 옵저버빌리티 데모](https://festa.io/events/4749)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: InfoGrab X GitLabKorea
@@ -196,6 +200,14 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 02. 21(수) ~ 03. 18(월)
+- __[AWSKRUG Women In Cloud](https://www.meetup.com/ko-KR/awskrug/events/299565868/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 21(수) ~ 03. 19(화)
+- __[제 2회 Clojure Korea 밋업](https://www.meetup.com/ko-KR/clojure-korea/events/299328703/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: Clojure Korea
+  - 접수: 03. 05(화) ~ 03. 19(화)
 - __[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기](https://festa.io/events/4830)__
   - 분류: `오프라인(서울 삼성)`, `유료`, `인프라`
   - 주최: 한빛미디어
