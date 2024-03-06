@@ -139,15 +139,15 @@
 <br />
 
 ## 24년 03월
-- __[테킷 백엔드 스쿨 : iOS 5기 모집](https://www.wanted.co.kr/events/techit-kdt-backendj-10th)__
-  - 분류: `온라인`, `무료`, `백엔드`
-  - 주최: 원티드
-  - 접수: 02. 13(화) ~ 03. 06(수)
-
 - __[GWDC24](https://event-us.kr/gwdc24/event/77961)__
   - 분류: `오프라인 (강원도)`, `유료`, `기술일반`
   - 주최: GWDC
   - 접수: 02. 16(금) ~ 03. 08(금)
+
+- __[성장하고 싶은 백엔드 개발자 주목!](https://docs.google.com/forms/d/e/1FAIpQLSdJ1jLmByWjivh-0laE4POjnRae1m1g5eUmVfI4HOv2q5FN5Q/viewform)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 스파르타코딩클럽
+  - 접수: 02. 26(월) ~ 03. 07(목)
 - __[GitLab Korea 밋업 #19 with Google 개발자 생산성 업을 위한 GitLab AI 핸즈온과 옵저버빌리티 데모](https://festa.io/events/4749)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: InfoGrab X GitLabKorea
@@ -184,6 +184,14 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 02. 29(목) ~ 03. 13(수)
+- __[AGI for Work! 디지털 자산화부터 LLM을 통한 비즈니스 가치 창출까지 AI 실제 구축 사례](https://www.upstage.ai/webinar-ai-real-usecase-new?utm_source=github_dev_event&utm_medium=platform&utm_campaign=240305_aiusecase_webinar)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 03. 06(수) ~ 03. 13(수)
+- __[AI로 손쉽게 실현하는 새로운 혁신](https://www.snowflake.com/events/data-for-breakfast/seoul/)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 03. 06(수) ~ 03. 13(수)
 - __[프리온보딩 커리어 킥오프 2024 Spring](https://www.wanted.co.kr/events/pre_kickoff_2024_spring)__
   - 분류: `온라인`, `무료`, `커리어`, `기술일반`
   - 주최: 원티드
@@ -219,6 +227,10 @@
 - __[Udemy 라이브세션 신청｜주니어 개발자를 위한 커리어 성장 멘토링](https://docs.google.com/forms/d/e/1FAIpQLSfrnd80wFKfmM1BLN0yWFBfhqq5rA1eOTsQIDiC5Bv6Oxtx-Q/viewform)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: Udemy
+  - 접수: 02. 28(수) ~ 03. 22(금)
+- __[데브콘 대전 : 삼월엔 데이터](https://festa.io/events/4836)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: K-DEVCON
   - 접수: 02. 28(수) ~ 03. 22(금)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
   - 분류: `온라인`, `무료`, `기술일반`
