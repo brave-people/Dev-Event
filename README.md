@@ -180,10 +180,6 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
   - 접수: 02. 07(수) ~ 03. 13(수)
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/299455477/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 02. 29(목) ~ 03. 13(수)
 - __[AGI for Work! 디지털 자산화부터 LLM을 통한 비즈니스 가치 창출까지 AI 실제 구축 사례](https://www.upstage.ai/webinar-ai-real-usecase-new?utm_source=github_dev_event&utm_medium=platform&utm_campaign=240305_aiusecase_webinar)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
@@ -216,6 +212,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Clojure Korea
   - 접수: 03. 05(화) ~ 03. 19(화)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/299591802)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 03. 07(목) ~ 03. 19(화)
 - __[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기](https://festa.io/events/4830)__
   - 분류: `오프라인(서울 삼성)`, `유료`, `인프라`
   - 주최: 한빛미디어
@@ -229,7 +229,7 @@
   - 주최: Udemy
   - 접수: 02. 28(수) ~ 03. 22(금)
 - __[데브콘 대전 : 삼월엔 데이터](https://festa.io/events/4836)__
-  - 분류: `온라인`, `무료`, `커리어`
+  - 분류: `오프라인(대전 중구)`, `무료`, `데이터`
   - 주최: K-DEVCON
   - 접수: 02. 28(수) ~ 03. 22(금)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
@@ -240,6 +240,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 16(토) ~ 03. 24(일)
+- __[Tuist Night (Xcode 생산성 높이기 with Tuist Team)](https://festa.io/events/4835)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
+  - 주최: Apple Developer Academy @ POSTECH Alumni
+  - 접수: 03. 07(목) ~ 03. 24(일)
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
@@ -252,6 +256,14 @@
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: 소문난 주니어 콘퍼런스
   - 접수: 02. 22(화) ~ 03. 28(목)
+
+<br />
+
+## 24년 04월
+- __[코드 유사성 판단 시즌2 AI 경진대회](https://dacon.io/competitions/official/236228/overview/description)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 데이콘
+  - 접수: 03. 04(월) ~ 04. 01(월)
 
 ----------------
 
