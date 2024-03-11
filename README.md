@@ -278,6 +278,11 @@
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 04. 15(월)
 
+- __[제 11회 IT 커뮤니티 연합 해커톤, UNITHON 11TH(https://www.unit.center/unithon)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `커뮤니티`, `해커톤`
+  - 주최: UNIT(https://www.unit.center)
+  - 접수: 04. 05(금) ~ 04. 7(일)
+
 ----------------
 
 <br />
@@ -301,7 +306,6 @@
 | CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://makeus.in/umc/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
-| UPF | 프로젝트 완성, 고도화를 위한 팀 부스팅 프로그램                   | [upf.kr](https://upf.kr) |
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
