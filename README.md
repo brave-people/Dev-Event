@@ -139,31 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[GWDC24](https://event-us.kr/gwdc24/event/77961)__
-  - 분류: `오프라인 (강원도)`, `유료`, `기술일반`
-  - 주최: GWDC
-  - 접수: 02. 16(금) ~ 03. 08(금)
-
-- __[성장하고 싶은 백엔드 개발자 주목!](https://docs.google.com/forms/d/e/1FAIpQLSdJ1jLmByWjivh-0laE4POjnRae1m1g5eUmVfI4HOv2q5FN5Q/viewform)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 스파르타코딩클럽
-  - 접수: 02. 26(월) ~ 03. 07(목)
-- __[GitLab Korea 밋업 #19 with Google 개발자 생산성 업을 위한 GitLab AI 핸즈온과 옵저버빌리티 데모](https://festa.io/events/4749)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: InfoGrab X GitLabKorea
-  - 접수: 02. 26(월) ~ 03. 07(목)
-- __[TecheerCon](https://festa.io/events/4766)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: Techeer
-  - 접수: 02. 19(월) ~ 03. 08(금)
-- __[2024 Global AI Bootcamp - Busan!](https://festa.io/events/4745)__
-  - 분류: `오프라인(부산 해운대구)`, `무료`, `AI`
-  - 주최: Global AI Bootcamp organizers
-  - 접수: 02. 13(화) ~ 03. 07(목)
 - __[한빛N MSA #2-1 운영 환경에 내 웹 서버 첫걸음마 떼주기](https://festa.io/events/4720)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
   - 주최: 한빛N MSA
   - 접수: 02. 07(수) ~ 03. 11(월)
+
 - __[도배 하자 질의 응답 처리 : 한솔데코 시즌2 AI 경진대회](https://dacon.io/competitions/official/236216/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한솔데코
@@ -180,6 +160,14 @@
   - 분류: `오프라인(서울 중구)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 27(화) ~ 03. 12(화)
+- __[우아한 형제들 송요창 개발자의 포트폴리오 작성 노하우](https://helpschool.typeform.com/to/DBHeeztQ)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 제로베이스
+  - 접수: 03. 11(월) ~ 03. 12(화) 17:00
+- __[백엔드 직무별 취업 준비 전략](https://helpschool.typeform.com/to/oxpgB49A)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 제로베이스
+  - 접수: 03. 11(월) ~ 03. 12(화) 17:00
 - __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
@@ -236,11 +224,19 @@
   - 분류: `오프라인(대전 중구)`, `무료`, `데이터`
   - 주최: K-DEVCON
   - 접수: 02. 28(수) ~ 03. 22(금)
+- __[한입 FE 챌린지](https://onebite-fe-challenge.super.site/?utm_source=github_dev_event&utm_medium=board&utm_campaign=challenge1)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 한입
+  - 접수: 03. 11(월) ~ 03. 22(금)
 - __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 접수: 02. 20(화) ~ 03. 23(토)
 - __[2024 Open UP 오픈 프런티어(기여형) 모집](https://oss.kr/notice/show/d4821cc8-b80e-4112-80ba-a6e4708f2f34)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 02. 16(토) ~ 03. 24(일)
+- __[2024 Open UP 오픈 프런티어(멘토형) 모집](https://www.oss.kr/notice/show/d277cc91-3e51-494c-b8cd-b04626196d7e)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 16(토) ~ 03. 24(일)
@@ -264,6 +260,10 @@
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: 소문난 주니어 콘퍼런스
   - 접수: 02. 22(화) ~ 03. 28(목)
+- __[Build with AI 2024 Seoul](https://festa.io/events/4777)__
+  - 분류: `오프라인(온라인 신촌)`, `유료`, `모임`, `AI`
+  - 주최: GDG SEOUL
+  - 접수: 03. 11(월) ~ 03. 30(토)
 
 <br />
 
