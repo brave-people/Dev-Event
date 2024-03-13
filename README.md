@@ -139,23 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/299455477/)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 27(화) ~ 03. 12(화)
-
-- __[우아한 형제들 송요창 개발자의 포트폴리오 작성 노하우](https://helpschool.typeform.com/to/DBHeeztQ)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 제로베이스
-  - 접수: 03. 11(월) ~ 03. 12(화) 17:00
-- __[백엔드 직무별 취업 준비 전략](https://helpschool.typeform.com/to/oxpgB49A)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 제로베이스
-  - 접수: 03. 11(월) ~ 03. 12(화) 17:00
 - __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
   - 접수: 02. 07(수) ~ 03. 13(수)
+
 - __[AGI for Work! 디지털 자산화부터 LLM을 통한 비즈니스 가치 창출까지 AI 실제 구축 사례](https://www.upstage.ai/webinar-ai-real-usecase-new?utm_source=github_dev_event&utm_medium=platform&utm_campaign=240305_aiusecase_webinar)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 업스테이지
@@ -168,6 +156,10 @@
   - 분류: `온라인`, `무료`, `커리어`, `기술일반`
   - 주최: 원티드
   - 접수: 02. 28(수) ~ 03. 14(목)
+- __[프론트엔드 테스팅과 설계](https://tech.goorm.io/2404_commit/)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `프론트엔드`
+  - 주최: 구름
+  - 접수: 03. 13(수) ~ 03. 15(목)
 - __[AI x Robotics : "ROBOTALK"](https://festa.io/events/4797)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Robotics KR
@@ -212,7 +204,7 @@
   - 분류: `오프라인(대전 중구)`, `무료`, `데이터`
   - 주최: K-DEVCON
   - 접수: 02. 28(수) ~ 03. 22(금)
-- __[제11회 IT 커뮤니티 연합 해커톤, UNITHON 11TH(https://www.unit.center/unithon)__
+- __[제11회 IT 커뮤니티 연합 해커톤, UNITHON 11TH](https://www.unit.center/unithon)__
   - 분류: `오프라인(서울 성수)`, `무료`, `커뮤니티`, `대회`
   - 주최: UNIT
   - 접수: 03. 11(월) ~ 03. 22(금)
@@ -228,6 +220,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 접수: 02. 20(화) ~ 03. 23(토)
+- __[super.init(version=5)](https://festa.io/events/4846)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
+  - 주최: GDG Korea Android
+  - 접수: 02. 20(화) ~ 03. 23(토)
 - __[2024 Open UP 오픈 프런티어(기여형) 모집](https://oss.kr/notice/show/d4821cc8-b80e-4112-80ba-a6e4708f2f34)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -240,6 +236,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
   - 주최: Apple Developer Academy @ POSTECH Alumni
   - 접수: 03. 07(목) ~ 03. 24(일)
+- __[Microsoft Azure Open AI 활용 전략 세미나 사전등록](https://forms.office.com/pages/responsepage.aspx?id=TRJU90H4aEuuxAkvSEvl4R71Oza2e_9KkmeIUO-TrIFURDBMQlg0VUFYWDZEUVBJTFhaTkJSWkRIRi4u)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 비즈니스나우
+  - 접수: 03. 13(수) ~ 03. 24(일)
+- __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
+  - 주최: (사)한국인터넷전문가협회
+  - 접수: 03. 13(수) ~ 03. 26(화)
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
@@ -269,6 +273,10 @@
   - 주최: 데이콘
   - 접수: 03. 04(월) ~ 04. 01(월)
 
+- __[2024 GDSC Gachon Open Meetup: 무한콘](https://gdsc.community.dev/events/details/developer-student-clubs-gachon-university-presents-2024-gdsc-gachon-open-meetup-muhankon/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: GDSC
+  - 접수: 03. 13(수) ~ 04. 03(수)
 - __[[안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP](https://event-us.kr/ted/event/79581)__
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: 테드박의 개발자행사
