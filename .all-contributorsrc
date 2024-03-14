@@ -1131,6 +1131,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kor-Chipmunk",
+      "name": "Seonjae Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16275188?v=4",
+      "profile": "https://itchipmunk.tistory.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
