@@ -264,6 +264,10 @@
   - 분류: `오프라인(온라인 신촌)`, `유료`, `모임`, `AI`
   - 주최: GDG SEOUL
   - 접수: 03. 11(월) ~ 03. 30(토)
+- __[2024 AWS Cloud Club Student Community Day](https://aws-cloud-clubs.github.io/student-community-day/2024/)__
+  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최 : AWS Cloud Club in South Korea
+  - 접수 : 03. 12(화) ~ 03. 31(일)
 
 <br />
 
@@ -289,10 +293,6 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 04. 15(월)
-- __[2024 AWS Cloud Club Student Community Day](https://aws-cloud-clubs.github.io/student-community-day/2024/)__
-  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최 : AWS Cloud Club in South Korea
-  - 접수 : 03.12(화) ~ 03.31(일)
 
 ----------------
 
