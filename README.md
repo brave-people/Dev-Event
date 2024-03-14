@@ -292,7 +292,7 @@
 - __[2024 AWS Cloud Club Student Community Day](https://aws-cloud-clubs.github.io/student-community-day/2024/)__
   - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최 : AWS Cloud Club in South Korea
-  - 접수 : 03.12(화) ~ 04.05(금)
+  - 접수 : 03.12(화) ~ 03.31(일)
 
 ----------------
 
