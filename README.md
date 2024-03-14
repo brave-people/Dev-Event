@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-126-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-127-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -613,6 +613,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Yaminyam"><img src="https://avatars.githubusercontent.com/u/31057849?v=4?s=100" width="100px;" alt="Sion Kang"/><br /><sub><b>Sion Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Yaminyam" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JJinuk"><img src="https://avatars.githubusercontent.com/u/74299463?v=4?s=100" width="100px;" alt="최진욱"/><br /><sub><b>최진욱</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JJinuk" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://itchipmunk.tistory.com"><img src="https://avatars.githubusercontent.com/u/16275188?v=4?s=100" width="100px;" alt="Seonjae Kim"/><br /><sub><b>Seonjae Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kor-Chipmunk" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://ricky-dev.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57624937?v=4?s=100" width="100px;" alt="Seungho Song"/><br /><sub><b>Seungho Song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=SeungHo0422" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
