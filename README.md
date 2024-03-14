@@ -139,23 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[Upstage AI Lab 3기 모집](https://megabyteschool-careersevice.oopy.io/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 02. 07(수) ~ 03. 13(수)
-
-- __[AGI for Work! 디지털 자산화부터 LLM을 통한 비즈니스 가치 창출까지 AI 실제 구축 사례](https://www.upstage.ai/webinar-ai-real-usecase-new?utm_source=github_dev_event&utm_medium=platform&utm_campaign=240305_aiusecase_webinar)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 03. 06(수) ~ 03. 13(수)
-- __[AI로 손쉽게 실현하는 새로운 혁신](https://www.snowflake.com/events/data-for-breakfast/seoul/)__
-  - 분류: `오프라인(서울 잠실)`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 03. 06(수) ~ 03. 13(수)
 - __[프리온보딩 커리어 킥오프 2024 Spring](https://www.wanted.co.kr/events/pre_kickoff_2024_spring)__
   - 분류: `온라인`, `무료`, `커리어`, `기술일반`
   - 주최: 원티드
   - 접수: 02. 28(수) ~ 03. 14(목)
+
 - __[프론트엔드 테스팅과 설계](https://tech.goorm.io/2404_commit/)__
   - 분류: `오프라인(경기 판교)`, `무료`, `프론트엔드`
   - 주최: 구름
@@ -168,6 +156,10 @@
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: 멋쟁이사자처럼
   - 접수: 02. 13(화) ~ 03. 17(일)
+- __[판교 퇴근길 밋업 with 인프런 #01 타입스크립트](https://www.inflearn.com/course/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 인프런
+  - 접수: 03. 14(목) ~ 03. 17(일)
 - __[NCUC 제 5회 Online MeetUp](https://www.meetup.com/navercloud-user-community/events/299190207/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
@@ -285,10 +277,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: 테드박의 개발자행사
   - 접수: 03. 12(화) ~ 04. 03(수)
+- __[소프트웨어 아키텍팅 101 & 거대한 데이터 추정하기](https://festa.io/events/4914)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
+  - 주최: IMQA
+  - 접수: 03. 14(목) ~ 04. 03(수)
 - __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
-  - 분류: `온라인`, `온라인`, `기술일반`
+  - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
   - 접수: 03. 12(화) ~ 04. 11(목)
+- __[2024 Vision Pro XR IDEA Challenge](https://cyan-emails-724482.framer.app/)__
+  - 분류: `온라인`, `무료`, `대회`, `기술일반`
+  - 주최:  2024 Vision Pro XR IDEA Challenge
+  - 접수: 03. 14(목) ~ 04. 11(목)
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
