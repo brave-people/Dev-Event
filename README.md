@@ -346,6 +346,7 @@
 | 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
 | Kernel360 | [Homepage](https://kernel360.co.kr/) |
 | 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
+| 스마일게이트 개발캠프 | [Homepage](https://careers.smilegate.com/student/development-camp) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
