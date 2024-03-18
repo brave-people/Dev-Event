@@ -139,27 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[프론트엔드 테스팅과 설계](https://tech.goorm.io/2404_commit/)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `프론트엔드`
-  - 주최: 구름
-  - 접수: 03. 13(수) ~ 03. 15(목)
-
-- __[AI x Robotics : "ROBOTALK"](https://festa.io/events/4797)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AI Robotics KR
-  - 접수: 02. 28(수) ~ 03. 16(토)
-- __[테킷 앱 스쿨 : iOS 5기 모집](https://www.wanted.co.kr/events/techit-kdt-ios-5th)__
-  - 분류: `온라인`, `무료`, `iOS`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 02. 13(화) ~ 03. 17(일)
-- __[판교 퇴근길 밋업 with 인프런 #01 타입스크립트](https://www.inflearn.com/course/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 인프런
-  - 접수: 03. 14(목) ~ 03. 17(일)
 - __[NCUC 제 5회 Online MeetUp](https://www.meetup.com/navercloud-user-community/events/299190207/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: NaverCloud User Community
   - 접수: 02. 21(수) ~ 03. 18(월)
+
 - __[AWSKRUG Women In Cloud](https://www.meetup.com/ko-KR/awskrug/events/299565868/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -183,6 +167,10 @@
 - __[채널콘 2024 신청](https://channelcon.io/)__
   - 분류: `오프라인(서울 삼성)`, `무료`, `기술일반`
   - 주최: 채널코퍼레이션
+  - 접수: 02. 26(월) ~ 03. 21(목)
+- __[Microsoft X 위민후코드 서울과 함께하는 깃헙 포트폴리오 워크샵](https://festa.io/events/4897)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
+  - 주최: 한빛앤 MSA
   - 접수: 02. 26(월) ~ 03. 21(목)
 - __[Udemy 라이브세션 신청｜주니어 개발자를 위한 커리어 성장 멘토링](https://docs.google.com/forms/d/e/1FAIpQLSfrnd80wFKfmM1BLN0yWFBfhqq5rA1eOTsQIDiC5Bv6Oxtx-Q/viewform)__
   - 분류: `온라인`, `무료`, `커리어`
@@ -228,6 +216,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 비즈니스나우
   - 접수: 03. 13(수) ~ 03. 24(일)
+- __[도둑을 집주인으로 인식한다고? : Adversarial Examples의 소개와 구현](https://festa.io/events/4928)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 03. 18(월) ~ 03. 25(월)
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
@@ -252,6 +244,18 @@
   - 분류: `오프라인(서울 성동구)`, `유료`, `iOS`
   - 주최: AsyncSwift
   - 접수: 02. 13(화) ~ 03. 29(금)
+- __[취업 특강 with SQL, Tableau | 프리온보딩 데이터 챌린지 4월](https://www.wanted.co.kr/events/pre_challenge_data_5)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 원티드
+  - 접수: 03. 13(수) ~ 03. 28(목)
+- __[포트폴리오에 Docker로 배포 경험 더하기 | 프리온보딩 BE 챌린지 4월](https://www.wanted.co.kr/events/pre_challenge_be_18)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 03. 13(수) ~ 03. 28(목)
+- __[실무에서 바로 적용 가능한 리액트 핵심 기술 | 프리온보딩 FE 챌린지 4월](https://www.wanted.co.kr/events/pre_challenge_fe_20)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 03. 13(수) ~ 03. 28(목)
 - __[Build with AI 2024 Seoul](https://festa.io/events/4777)__
   - 분류: `오프라인(온라인 신촌)`, `유료`, `모임`, `AI`
   - 주최: GDG SEOUL
@@ -281,6 +285,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
   - 주최: IMQA
   - 접수: 03. 14(목) ~ 04. 03(수)
+- __[AWS Student Community Day 2024](https://festa.io/events/4828)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWS Cloud Club in South Korea
+  - 접수: 03. 18(월) ~ 04. 05(금)
 - __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
