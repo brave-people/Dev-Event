@@ -139,15 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[NCUC 제 5회 Online MeetUp](https://www.meetup.com/navercloud-user-community/events/299190207/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: NaverCloud User Community
-  - 접수: 02. 21(수) ~ 03. 18(월)
-
 - __[AWSKRUG Women In Cloud](https://www.meetup.com/ko-KR/awskrug/events/299565868/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 21(수) ~ 03. 19(화)
+
 - __[제 2회 Clojure Korea 밋업](https://www.meetup.com/ko-KR/clojure-korea/events/299328703/)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Clojure Korea
@@ -164,6 +160,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 03. 12(화) ~ 03. 20(수)
+- __['신입 개발자, 대기업 커리어 시작하기' 무료 특강 [제로베이스 프론트엔드 취업 스쿨]](https://zero-base.co.kr/event/2024_zerobase_talk?utm_source=github_dev_event&utm_medium=affiliate_organic&utm_campaign=240319_school_FE_affiliate_organic_all)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 제로베이스
+  - 접수: 03. 19(화) ~ 03. 20(수) 18:00
+- __['신입 개발자, 대기업 커리어 시작하기' 무료 특강 [제로베이스 백엔드 취업 스쿨]](https://zero-base.co.kr/event/2024_zerobase_talk?utm_source=github_dev_event&utm_medium=affiliate_organic&utm_campaign=240319_school_BE_affiliate_organic_all)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 제로베이스
+  - 접수: 03. 19(화) ~ 03. 20(수) 18:00
 - __[채널콘 2024 신청](https://channelcon.io/)__
   - 분류: `오프라인(서울 삼성)`, `무료`, `기술일반`
   - 주최: 채널코퍼레이션
@@ -285,6 +289,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
   - 주최: IMQA
   - 접수: 03. 14(목) ~ 04. 03(수)
+- __[생성형 AI 오프라인 밋업, '제2회 Beer Night'](https://vvd.bz/dKSb)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: IMQA
+  - 접수: 03. 19(화) ~ 04. 04(목)
 - __[AWS Student Community Day 2024](https://festa.io/events/4828)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWS Cloud Club in South Korea
