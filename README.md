@@ -139,23 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[AWSKRUG Women In Cloud](https://www.meetup.com/ko-KR/awskrug/events/299565868/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 21(수) ~ 03. 19(화)
-
-- __[제 2회 Clojure Korea 밋업](https://www.meetup.com/ko-KR/clojure-korea/events/299328703/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: Clojure Korea
-  - 접수: 03. 05(화) ~ 03. 19(화)
-- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/ko-KR/awskrug/events/299591802)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 03. 07(목) ~ 03. 19(화)
 - __[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기](https://festa.io/events/4830)__
   - 분류: `오프라인(서울 삼성)`, `유료`, `인프라`
   - 주최: 한빛미디어
   - 접수: 03. 04(월) ~ 03. 20(수)
+  
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/299642049/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
@@ -260,6 +248,10 @@
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 원티드
   - 접수: 03. 13(수) ~ 03. 28(목)
+- __[Kernel360 백엔드 개발 Final Project 최종 발표회](https://festa.io/events/4942)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 패스트캠퍼스
+  - 접수: 03. 20(수) ~ 03. 28(목)
 - __[Build with AI 2024 Seoul](https://festa.io/events/4777)__
   - 분류: `오프라인(온라인 신촌)`, `유료`, `모임`, `AI`
   - 주최: GDG SEOUL
@@ -297,6 +289,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWS Cloud Club in South Korea
   - 접수: 03. 18(월) ~ 04. 05(금)
+- __[Kakao Tech Meet #5](https://festa.io/events/4919)__
+  - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
+  - 주최: 카카오
+  - 접수: 03. 18(월) ~ 04. 10(수)
 - __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
@@ -313,10 +309,29 @@
 <br />
 
 ## 24년 05월
+- __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 한국인공지능협회
+  - 접수: 03. 20(수) ~ 05. 13(월)
+
 - __[Google I/O](https://io.google/2024/intl/ko/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Google
   - 접수: 03. 15(금) ~ 05. 13(월)
+- __[AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
+  - 주최: AWS
+  - 접수: 03. 20(수) ~ 05. 13(월)
+
+<br />
+
+## 24년 07월
+- __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
+  - 주최: Scrum Korea
+  - 접수: 03. 20(수) ~ 07. 04(목)
+
+<br />
 
 ----------------
 
