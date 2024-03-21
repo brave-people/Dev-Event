@@ -139,23 +139,7 @@
 <br />
 
 ## 24년 03월
-- __[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기](https://festa.io/events/4830)__
-  - 분류: `오프라인(서울 삼성)`, `유료`, `인프라`
-  - 주최: 한빛미디어
-  - 접수: 03. 04(월) ~ 03. 20(수)
-  
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/299642049/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 03. 12(화) ~ 03. 20(수)
-- __['신입 개발자, 대기업 커리어 시작하기' 무료 특강 [제로베이스 프론트엔드 취업 스쿨]](https://zero-base.co.kr/event/2024_zerobase_talk?utm_source=github_dev_event&utm_medium=affiliate_organic&utm_campaign=240319_school_FE_affiliate_organic_all)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 제로베이스
-  - 접수: 03. 19(화) ~ 03. 20(수) 18:00
-- __['신입 개발자, 대기업 커리어 시작하기' 무료 특강 [제로베이스 백엔드 취업 스쿨]](https://zero-base.co.kr/event/2024_zerobase_talk?utm_source=github_dev_event&utm_medium=affiliate_organic&utm_campaign=240319_school_BE_affiliate_organic_all)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 제로베이스
-  - 접수: 03. 19(화) ~ 03. 20(수) 18:00
+
 - __[채널콘 2024 신청](https://channelcon.io/)__
   - 분류: `오프라인(서울 삼성)`, `무료`, `기술일반`
   - 주최: 채널코퍼레이션
@@ -281,6 +265,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
   - 주최: IMQA
   - 접수: 03. 14(목) ~ 04. 03(수)
+- __[코딩이 제일 쉬웠어요 - N년차 개발자의 코딩 이외의 경험들](https://festa.io/events/4908)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
+  - 주최: 한빛앤 MSA
+  - 접수: 03. 21(목) ~ 04. 03(수)
 - __[생성형 AI 오프라인 밋업, '제2회 Beer Night'](https://vvd.bz/dKSb)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: IMQA
@@ -301,6 +289,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최:  2024 Vision Pro XR IDEA Challenge
   - 접수: 03. 14(목) ~ 04. 11(목)
+- __[Build With AI in Songdo](https://festa.io/events/4910)__
+  - 분류: `오프라인(서울 송도)`, `유료`, `AI`
+  - 주최:  GDG Songdo
+  - 접수: 03. 21(목) ~ 04. 12(금)
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
