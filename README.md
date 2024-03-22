@@ -139,19 +139,11 @@
 <br />
 
 ## 24년 03월
-
-- __[채널콘 2024 신청](https://channelcon.io/)__
-  - 분류: `오프라인(서울 삼성)`, `무료`, `기술일반`
-  - 주최: 채널코퍼레이션
-  - 접수: 02. 26(월) ~ 03. 21(목)
-- __[Microsoft X 위민후코드 서울과 함께하는 깃헙 포트폴리오 워크샵](https://festa.io/events/4897)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
-  - 주최: 한빛앤 MSA
-  - 접수: 02. 26(월) ~ 03. 21(목)
 - __[Udemy 라이브세션 신청｜주니어 개발자를 위한 커리어 성장 멘토링](https://docs.google.com/forms/d/e/1FAIpQLSfrnd80wFKfmM1BLN0yWFBfhqq5rA1eOTsQIDiC5Bv6Oxtx-Q/viewform)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: Udemy
   - 접수: 02. 28(수) ~ 03. 22(금)
+
 - __[데브콘 대전 : 삼월엔 데이터](https://festa.io/events/4836)__
   - 분류: `오프라인(대전 중구)`, `무료`, `데이터`
   - 주최: K-DEVCON
@@ -273,6 +265,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: IMQA
   - 접수: 03. 19(화) ~ 04. 04(목)
+- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/299883105/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 03. 22(금) ~ 04. 04(목)
+- __[GDSC Konkuk kprintf: print("the core")](https://festa.io/events/4948)__
+  - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
+  - 주최: GDSC Konkuk
+  - 접수: 03. 22(금) ~ 04. 05(금)
 - __[AWS Student Community Day 2024](https://festa.io/events/4828)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWS Cloud Club in South Korea
