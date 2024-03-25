@@ -139,55 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[Udemy 라이브세션 신청｜주니어 개발자를 위한 커리어 성장 멘토링](https://docs.google.com/forms/d/e/1FAIpQLSfrnd80wFKfmM1BLN0yWFBfhqq5rA1eOTsQIDiC5Bv6Oxtx-Q/viewform)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: Udemy
-  - 접수: 02. 28(수) ~ 03. 22(금)
-
-- __[데브콘 대전 : 삼월엔 데이터](https://festa.io/events/4836)__
-  - 분류: `오프라인(대전 중구)`, `무료`, `데이터`
-  - 주최: K-DEVCON
-  - 접수: 02. 28(수) ~ 03. 22(금)
-- __[제11회 IT 커뮤니티 연합 해커톤, UNITHON 11TH](https://www.unit.center/unithon)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `커뮤니티`, `대회`
-  - 주최: UNIT
-  - 접수: 03. 11(월) ~ 03. 22(금)
-- __[한입 FE 챌린지](https://onebite-fe-challenge.super.site/?utm_source=github_dev_event&utm_medium=board&utm_campaign=challenge1)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 한입
-  - 접수: 03. 11(월) ~ 03. 22(금)
-- __[글로벌 AI 부트캠프 2024 대구](https://festa.io/events/4829)__
-  - 분류: `오프라인(대구)`, `무료`, `AI`
-  - 주최: 해커그라운드
-  - 접수: 03. 12(화) ~ 03. 22(금)
-- __[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회](https://festa.io/events/4774)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 02. 20(화) ~ 03. 23(토)
-- __[super.init(version=5)](https://festa.io/events/4846)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
-  - 주최: GDG Korea Android
-  - 접수: 02. 20(화) ~ 03. 23(토)
-- __[2024 Open UP 오픈 프런티어(기여형) 모집](https://oss.kr/notice/show/d4821cc8-b80e-4112-80ba-a6e4708f2f34)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 16(토) ~ 03. 24(일)
-- __[2024 Open UP 오픈 프런티어(멘토형) 모집](https://www.oss.kr/notice/show/d277cc91-3e51-494c-b8cd-b04626196d7e)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 16(토) ~ 03. 24(일)
-- __[Tuist Night (Xcode 생산성 높이기 with Tuist Team)](https://festa.io/events/4835)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
-  - 주최: Apple Developer Academy @ POSTECH Alumni
-  - 접수: 03. 07(목) ~ 03. 24(일)
-- __[Microsoft Azure Open AI 활용 전략 세미나 사전등록](https://forms.office.com/pages/responsepage.aspx?id=TRJU90H4aEuuxAkvSEvl4R71Oza2e_9KkmeIUO-TrIFURDBMQlg0VUFYWDZEUVBJTFhaTkJSWkRIRi4u)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 비즈니스나우
-  - 접수: 03. 13(수) ~ 03. 24(일)
 - __[도둑을 집주인으로 인식한다고? : Adversarial Examples의 소개와 구현](https://festa.io/events/4928)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 03. 18(월) ~ 03. 25(월)
+  
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
@@ -200,6 +156,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 03. 27(수)
+- __[AWSKRUG 성수 #seongsu 소모임 - 3월 27일 (수) [쿠버네티스 GatewayAPI 도입기]](https://www.meetup.com/awskrug/events/299930337)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 03. 25(월) ~ 03. 27(수)
 - __[HelloWorld 24](https://festa.io/events/4757)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
   - 주최: GDG INCHEON
@@ -292,6 +252,10 @@
 - __[Build With AI in Songdo](https://festa.io/events/4910)__
   - 분류: `오프라인(서울 송도)`, `유료`, `AI`
   - 주최:  GDG Songdo
+  - 접수: 03. 21(목) ~ 04. 12(금)
+- __[미트코딩 제1차 IT 세미나](https://festa.io/events/4974)__
+  - 분류: `오프라인(인천 연수구)`, `유료`, `기술일반`
+  - 주최: 미트코딩
   - 접수: 03. 21(목) ~ 04. 12(금)
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
