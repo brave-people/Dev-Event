@@ -139,15 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[도둑을 집주인으로 인식한다고? : Adversarial Examples의 소개와 구현](https://festa.io/events/4928)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 03. 18(월) ~ 03. 25(월)
-  
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
   - 접수: 03. 13(수) ~ 03. 26(화)
+
 - __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
   - 주최: (사)한국인터넷전문가협회
@@ -205,6 +201,10 @@
   - 주최: 데이콘
   - 접수: 03. 04(월) ~ 04. 01(월)
 
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/299998349/)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 03. 26(화) ~ 04. 01(월)
 - __[2024 GDSC Gachon Open Meetup: 무한콘](https://gdsc.community.dev/events/details/developer-student-clubs-gachon-university-presents-2024-gdsc-gachon-open-meetup-muhankon/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
   - 주최: GDSC
@@ -261,6 +261,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 04. 15(월)
+- __[Ubuntu 24.04 InstallFest + Workshop @Busan](https://festa.io/events/4884)__
+  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 03. 26(화) ~ 04. 26(금)
 
 <br />
 
@@ -278,7 +282,6 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 03. 20(수) ~ 05. 13(월)
-
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
