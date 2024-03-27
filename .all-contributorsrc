@@ -1122,6 +1122,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "JJinuk",
+      "name": "최진욱",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74299463?v=4",
+      "profile": "https://github.com/JJinuk",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kor-Chipmunk",
+      "name": "Seonjae Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16275188?v=4",
+      "profile": "https://itchipmunk.tistory.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SeungHo0422",
+      "name": "Seungho Song",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57624937?v=4",
+      "profile": "https://ricky-dev.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hwahyeon",
+      "name": "Janghyeon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46473089?v=4",
+      "profile": "https://github.com/hwahyeon",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
