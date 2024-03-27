@@ -237,6 +237,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWS Cloud Club in South Korea
   - 접수: 03. 18(월) ~ 04. 05(금)
+- __[제2회 Beer 🍻 Night](https://vvd.bz/dKSb)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AI Link
+  - 일시: 04. 05(금) 19:00 ~ 22:00 (3시간)
 - __[Kakao Tech Meet #5](https://festa.io/events/4919)__
   - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
   - 주최: 카카오
@@ -250,7 +254,7 @@
   - 주최:  2024 Vision Pro XR IDEA Challenge
   - 접수: 03. 14(목) ~ 04. 11(목)
 - __[Build With AI in Songdo](https://festa.io/events/4910)__
-  - 분류: `오프라인(서울 송도)`, `유료`, `AI`
+  - 분류: `오프라인(인천 송도)`, `유료`, `AI`
   - 주최:  GDG Songdo
   - 접수: 03. 21(목) ~ 04. 12(금)
 - __[미트코딩 제1차 IT 세미나](https://festa.io/events/4974)__
