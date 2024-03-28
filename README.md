@@ -139,27 +139,11 @@
 <br />
 
 ## 24년 03월
-- __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
-  - 주최: (사)한국인터넷전문가협회
-  - 접수: 03. 13(수) ~ 03. 26(화)
-
-- __[2024 웹 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1431)__
-  - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
-  - 주최: (사)한국인터넷전문가협회
-  - 일시: 03. 27(수) 10:00 ~ 17:00
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/299669794/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 03. 08(금) ~ 03. 27(수)
-- __[AWSKRUG 성수 #seongsu 소모임 - 3월 27일 (수) [쿠버네티스 GatewayAPI 도입기]](https://www.meetup.com/awskrug/events/299930337)__
-  - 분류: `오프라인(서울 성수)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 03. 25(월) ~ 03. 27(수)
 - __[HelloWorld 24](https://festa.io/events/4757)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
   - 주최: GDG INCHEON
   - 접수: 02. 13(화) ~ 03. 29(금)
+
 - __[소주콘 Shot 6 : 작심삼월](https://festa.io/events/4759)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: 소문난 주니어 콘퍼런스
@@ -241,10 +225,22 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Link
   - 일시: 04. 05(금) 19:00 ~ 22:00 (3시간)
+- __[현직 개발자와 코테 스터디 : 99클럽](https://99club.oopy.io/?utm_source=github_dev_event&utm_medium=earned&utm_campaign=%ED%95%AD%ED%95%B4&utm_content=%EB%A6%AC%EB%93%9C%ED%9A%8D%EB%93%9D&utm_term=%EC%9B%8C%EB%8B%88_240319)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `교육`
+  - 주최: 팀스파르타
+  - 접수: 03. 27(수) ~ 04. 07(일)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/300007064/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 03. 07(목) ~ 03. 19(화)
 - __[Kakao Tech Meet #5](https://festa.io/events/4919)__
   - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
   - 주최: 카카오
   - 접수: 03. 18(월) ~ 04. 10(수)
+- __[2024 우아한테크캠프 7기](https://techblog.woowahan.com/16979/)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`, `교육`
+  - 주최: 우아한테크캠프
+  - 접수: 04. 03(수) ~ 04. 10(수)
 - __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
@@ -261,10 +257,26 @@
   - 분류: `오프라인(인천 연수구)`, `유료`, `기술일반`
   - 주최: 미트코딩
   - 접수: 03. 21(목) ~ 04. 12(금)
+- __[실리콘밸리 개발자 한기용 대표님의 커리어 세미나](https://docs.google.com/forms/d/e/1FAIpQLScp0wBoyaGZH27nbkAqFfWnmpRWR6HOfmrAC0PoVcIVbamzgA/viewform)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: eBrain
+  - 접수: 03. 27(수) ~ 04. 12(금)
+- __[크래프론 정글 6기](https://jungle.krafton.com/?utm_source=display&utm_medium=github_dev_event&utm_campaign=junglepromotion6&utm_content=recruitment)__
+  - 분류: `오프라인`, `유료`, `기술일반`, `교육`
+  - 주최: 크래프톤
+  - 접수: 03. 08(금) ~ 04. 15(월)
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 04. 15(월)
+- __[RabbitMQ 컨트리뷰터에게 직접 듣는 RabbitMQ의 현재와 미래](https://connect.tanzu.vmware.com/roadshow-seoul.html)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: VMware
+  - 접수: 03. 28(목) ~ 04. 18(목)
+- __[Women Techmakers Korea 2024](https://festa.io/events/4967)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
+  - 주최: Women Techmakers Korea
+  - 접수: 03. 26(화) ~ 04. 26(금)
 - __[Ubuntu 24.04 InstallFest + Workshop @Busan](https://festa.io/events/4884)__
   - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
   - 주최: AWSKRUG
