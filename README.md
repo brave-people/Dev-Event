@@ -225,6 +225,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `교육`
   - 주최: 팀스파르타
   - 접수: 03. 27(수) ~ 04. 07(일)
+- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/300007064/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 03. 07(목) ~ 03. 19(화)
 - __[Kakao Tech Meet #5](https://festa.io/events/4919)__
   - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
   - 주최: 카카오
@@ -261,6 +265,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 08(금) ~ 04. 15(월)
+- __[RabbitMQ 컨트리뷰터에게 직접 듣는 RabbitMQ의 현재와 미래](https://connect.tanzu.vmware.com/roadshow-seoul.html)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: VMware
+  - 접수: 03. 28(목) ~ 04. 18(목)
+- __[Women Techmakers Korea 2024](https://festa.io/events/4967)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
+  - 주최: Women Techmakers Korea
+  - 접수: 03. 26(화) ~ 04. 26(금)
 - __[Ubuntu 24.04 InstallFest + Workshop @Busan](https://festa.io/events/4884)__
   - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
   - 주최: AWSKRUG
