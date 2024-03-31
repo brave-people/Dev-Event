@@ -8,6 +8,9 @@
 
 </div>
 
+<!-- 일시 미노출 -->
+<!-- 
+
 <div align="right">
    문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
@@ -36,6 +39,8 @@
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
+
+-->
 
 <br />
 
