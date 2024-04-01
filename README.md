@@ -143,31 +143,6 @@
 
 <br />
 
-## 24년 03월
-- __[HelloWorld 24](https://festa.io/events/4757)__
-  - 분류: `오프라인(인천 연수구)`, `유료`, `모임`, `기술일반`
-  - 주최: GDG INCHEON
-  - 접수: 02. 13(화) ~ 03. 29(금)
-
-- __[Let's visionOS Watch Party | AsyncSwift](https://festa.io/events/4794)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `iOS`
-  - 주최: AsyncSwift
-  - 접수: 02. 13(화) ~ 03. 29(금)
-- __[Build with AI 2024 Seoul](https://festa.io/events/4777)__
-  - 분류: `오프라인(온라인 신촌)`, `유료`, `모임`, `AI`
-  - 주최: GDG SEOUL
-  - 접수: 03. 11(월) ~ 03. 30(토)
-- __[2024 AWS Cloud Club Student Community Day](https://aws-cloud-clubs.github.io/student-community-day/2024/)__
-  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최 : AWS Cloud Club in South Korea
-  - 접수 : 03. 12(화) ~ 03. 31(일)
-- __[인공지능사관학교 5기 교육생 모집](https://gj-aischool.or.kr/)__
-  - 분류 : `오프라인(광주 동구)`, `무료`, `AI`
-  - 주최 : 인공지능사관학교
-  - 접수 : 03. 01(금) ~ 03. 31(일)
-
-<br />
-
 ## 24년 04월
 - __[코드 유사성 판단 시즌2 AI 경진대회](https://dacon.io/competitions/official/236228/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
@@ -218,6 +193,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `교육`
   - 주최: 팀스파르타
   - 접수: 03. 27(수) ~ 04. 07(일)
+- __['백준 LIVE! 2024 팀네이버 코딩테스트 문제 해설 ' 무료 특강](https://99club.oopy.io/?utm_source=github_dev_event&utm_medium=earned&utm_campaign=%ED%95%AD%ED%95%B4&utm_content=%EB%A6%AC%EB%93%9C%ED%9A%8D%EB%93%9D&utm_term=%EC%9B%8C%EB%8B%88_240319)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `교육`
+  - 주최: 팀스파르타
+  - 접수: 03. 27(수) ~ 04. 07(일)
 - __[부스트클래스 'AI 엔지니어 기초 다지기' 모집](https://m.post.naver.com/viewer/postView.naver?volumeNo=37399088&memberNo=34635212)__
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 커넥트재단
@@ -254,6 +233,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: eBrain
   - 접수: 03. 27(수) ~ 04. 12(금)
+- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/4968)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: ArtByte
+  - 접수: 04. 01(월) ~ 04. 12(화)
 - __[크래프론 정글 6기](https://jungle.krafton.com/?utm_source=display&utm_medium=github_dev_event&utm_campaign=junglepromotion6&utm_content=recruitment)__
   - 분류: `오프라인`, `유료`, `기술일반`, `교육`
   - 주최: 크래프톤
@@ -286,6 +269,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
   - 접수: 03. 20(수) ~ 05. 13(월)
+- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: ArtByte
+  - 접수: 04. 01(월) ~ 05. 13(월)
 
 - __[Google I/O](https://io.google/2024/intl/ko/)__
   - 분류: `온라인`, `무료`, `기술일반`
@@ -307,6 +294,14 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: Scrum Korea
   - 접수: 03. 20(수) ~ 07. 04(목)
+
+<br />
+
+## 24년 10월
+- __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: K-PaaS
+  - 접수: 04. 01(월) ~ 10. 31(목)
 
 <br />
 
