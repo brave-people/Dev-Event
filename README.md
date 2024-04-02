@@ -144,19 +144,11 @@
 <br />
 
 ## 24년 04월
-- __[코드 유사성 판단 시즌2 AI 경진대회](https://dacon.io/competitions/official/236228/overview/description)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 데이콘
-  - 접수: 03. 04(월) ~ 04. 01(월)
-
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/299998349/)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 03. 26(화) ~ 04. 01(월)
 - __[2024 GDSC Gachon Open Meetup: 무한콘](https://gdsc.community.dev/events/details/developer-student-clubs-gachon-university-presents-2024-gdsc-gachon-open-meetup-muhankon/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
   - 주최: GDSC
   - 접수: 03. 13(수) ~ 04. 03(수)
+
 - __[[안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP](https://event-us.kr/ted/event/79581)__
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: 테드박의 개발자행사
@@ -221,6 +213,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최:  2024 Vision Pro XR IDEA Challenge
   - 접수: 03. 14(목) ~ 04. 11(목)
+- __[JavaScript 기본기 완전 정복 부트캠프](https://www.wanted.co.kr/events/techit-kdt-frontend-10th)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 03. 21(목) ~ 04. 12(금)
 - __[Build With AI in Songdo](https://festa.io/events/4910)__
   - 분류: `오프라인(인천 송도)`, `유료`, `AI`
   - 주최:  GDG Songdo
@@ -249,6 +245,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: VMware
   - 접수: 03. 28(목) ~ 04. 18(목)
+- __[백엔드 개발자 오르미 양성 과정 5기 모집](https://estfamily.career.greetinghr.com/o/104790?&utm_source=github_dev_event&utm_medium=cpc&utm_campaign=&utm_content=%EA%B5%AC%EA%B8%80sa_%EB%B0%B1%EC%97%94%EB%93%9C&gad_source=1)__
+  - 분류: `오프라인`, `무료`, `벡엔드`
+  - 주최: 이스트소프트
+  - 접수: 03. 28(목) ~ 04. 18(목)
 - __[Women Techmakers Korea 2024](https://festa.io/events/4967)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: Women Techmakers Korea
@@ -265,6 +265,11 @@
 <br />
 
 ## 24년 05월
+- __[7TH BNW ACP 월드챔피언쉽 국가대표 선발 경진대회](http://bnwcontest.com/main/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: KOREA EDUCATION GROUP
+  - 접수: 03. 25(월) ~ 05. 05(일)
+
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
@@ -273,7 +278,6 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: ArtByte
   - 접수: 04. 01(월) ~ 05. 13(월)
-
 - __[Google I/O](https://io.google/2024/intl/ko/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Google
