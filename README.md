@@ -125,6 +125,7 @@
               <a href="./end_event/2024/24_01.md"> 01월 </a>,
               <a href="./end_event/2024/24_02.md"> 02월 </a>,
               <a href="./end_event/2024/24_03.md"> 03월 </a>,
+              <a href="./end_event/2024/24_04.md"> 04월 </a>
             </td>
         </tr>
         <tr>
@@ -213,6 +214,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최:  2024 Vision Pro XR IDEA Challenge
   - 접수: 03. 14(목) ~ 04. 11(목)
+- __[빅테크 혁신의 중심 ‘가치 지향 서비스 디자인’](https://www.kosta.or.kr/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=18565845&t=board)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최:  한국소프트웨어기술진흥협회
+  - 접수: 04. 03(수) ~ 04. 11(목)
 - __[JavaScript 기본기 완전 정복 부트캠프](https://www.wanted.co.kr/events/techit-kdt-frontend-10th)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 멋쟁이사자처럼
@@ -249,6 +254,10 @@
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 이스트소프트
   - 접수: 03. 28(목) ~ 04. 18(목)
+- __[2024 SPRi 봄 컨퍼런스](https://bebold.kr/2024_spri)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 04. 03(수) ~ 04. 26(금)
 - __[Women Techmakers Korea 2024](https://festa.io/events/4967)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: Women Techmakers Korea
@@ -261,6 +270,10 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `클라우드`
   - 주최: 한빛앤 MSA
   - 접수: 03. 26(화) ~ 04. 26(금)
+- __[Build with AI United 2024](https://festa.io/events/5026)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `AI`
+  - 주최: GDG Cloud KR
+  - 접수: 04. 03(수) ~ 04. 26(금)
 
 <br />
 
