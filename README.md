@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-128-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-129-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -646,6 +646,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://ricky-dev.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57624937?v=4?s=100" width="100px;" alt="Seungho Song"/><br /><sub><b>Seungho Song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=SeungHo0422" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hwahyeon"><img src="https://avatars.githubusercontent.com/u/46473089?v=4?s=100" width="100px;" alt="Janghyeon"/><br /><sub><b>Janghyeon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hwahyeon" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/downpool"><img src="https://avatars.githubusercontent.com/u/75002493?v=4?s=100" width="100px;" alt="donghyeon choi"/><br /><sub><b>donghyeon choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=downpool" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
