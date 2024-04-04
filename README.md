@@ -8,9 +8,6 @@
 
 </div>
 
-<!-- 일시 미노출 -->
-<!-- 
-
 <div align="right">
    문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
@@ -39,8 +36,6 @@
 </p>
 
 > 배너 클릭시 연관 링크로 이동합니다.
-
--->
 
 <br />
 
@@ -313,6 +308,15 @@
   - 접수: 03. 20(수) ~ 07. 04(목)
 
 <br />
+
+## 24년 08월
+- __[인프콘 2024](https://www.inflearn.com/infcon-2024/teaser)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 일시: 08. 02(금)
+
+<br />
+
 
 ## 24년 10월
 - __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
