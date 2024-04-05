@@ -140,35 +140,11 @@
 <br />
 
 ## 24년 04월
-- __[2024 GDSC Gachon Open Meetup: 무한콘](https://gdsc.community.dev/events/details/developer-student-clubs-gachon-university-presents-2024-gdsc-gachon-open-meetup-muhankon/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: GDSC
-  - 접수: 03. 13(수) ~ 04. 03(수)
-
-- __[[안드로이드 컨퍼런스] Native vs Flutter 그리고 KMP](https://event-us.kr/ted/event/79581)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
-  - 주최: 테드박의 개발자행사
-  - 접수: 03. 12(화) ~ 04. 03(수)
-- __[소프트웨어 아키텍팅 101 & 거대한 데이터 추정하기](https://festa.io/events/4914)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
-  - 주최: IMQA
-  - 접수: 03. 14(목) ~ 04. 03(수)
-- __[코딩이 제일 쉬웠어요 - N년차 개발자의 코딩 이외의 경험들](https://festa.io/events/4908)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
-  - 주최: 한빛앤 MSA
-  - 접수: 03. 21(목) ~ 04. 03(수)
-- __[생성형 AI 오프라인 밋업, '제2회 Beer Night'](https://vvd.bz/dKSb)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: IMQA
-  - 접수: 03. 19(화) ~ 04. 04(목)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/299883105/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 22(금) ~ 04. 04(목)
 - __[GDSC Konkuk kprintf: print("the core")](https://festa.io/events/4948)__
   - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
   - 주최: GDSC Konkuk
   - 접수: 03. 22(금) ~ 04. 05(금)
+
 - __[AWS Student Community Day 2024](https://festa.io/events/4828)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWS Cloud Club in South Korea
@@ -249,6 +225,10 @@
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 이스트소프트
   - 접수: 03. 28(목) ~ 04. 18(목)
+- __[Databricks Data Intelligence Day 한국이벤트](https://d1.eventservice.kr/2024/databricks/00/0423_di_day/0423_databricks_di_day_2nd_edm_idg.html)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: databricks
+  - 접수: 04. 05(금) ~ 04. 23(화)
 - __[2024 SPRi 봄 컨퍼런스](https://bebold.kr/2024_spri)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -269,6 +249,14 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `AI`
   - 주최: GDG Cloud KR
   - 접수: 04. 03(수) ~ 04. 26(금)
+- __[Korea Improv Festival 2024 Workshop](https://festa.io/events/5048)__
+  - 분류: `오프라인(서울 용산구)`, `유료`, `기술일반`
+  - 주최: Korea Improv Festival 2024
+  - 접수: 04. 27(토) ~ 04. 28(일)
+- __[카카오뱅크 기술 밋업 #3 - 퇴근길 기술 한 잔 with 안드로이드 앱 개발자](https://festa.io/events/5041)__
+  - 분류: `오프라인`, `무료`, `벡엔드`
+  - 주최: 카카오뱅크
+  - 접수: 04. 05(목) ~ 04. 29(월)
 
 <br />
 
