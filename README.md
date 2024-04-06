@@ -225,6 +225,10 @@
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 이스트소프트
   - 접수: 03. 28(목) ~ 04. 18(목)
+- __[All-in 코딩 공모전 - 대학 생활 개선 편](https://spartacodingclub.kr/site/all-in-challenge)__
+  - 분류: `온라인`, `무료`, `대학생`
+  - 주최: 스파르타코딩클럽 X 크래프톤 정글
+  - 접수: 03. 25(월) ~ 04. 21(일)
 - __[Databricks Data Intelligence Day 한국이벤트](https://d1.eventservice.kr/2024/databricks/00/0423_di_day/0423_databricks_di_day_2nd_edm_idg.html)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: databricks
