@@ -140,27 +140,11 @@
 <br />
 
 ## 24년 04월
-- __[부스트클래스 'AI 엔지니어 기초 다지기' 모집](https://m.post.naver.com/viewer/postView.naver?volumeNo=37399088&memberNo=34635212)__
-  - 분류: `온라인`, `무료`, `AI`, `교육`
-  - 주최: 커넥트재단
-  - 접수: 03. 29(금) ~ 04. 08(월) 10:00
-
-- __[AWSKRUG 플랫폼엔지니어링모임](https://www.meetup.com/awskrug/events/300007064/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 03. 07(목) ~ 04. 09(화)
-- __[Kakao Tech Meet #5](https://festa.io/events/4919)__
-  - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
-  - 주최: 카카오
-  - 접수: 03. 18(월) ~ 04. 10(수)
-- __[2024 우아한테크캠프 7기](https://techblog.woowahan.com/16979/)__
-  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`, `교육`
-  - 주최: 우아한테크캠프
-  - 접수: 04. 03(수) ~ 04. 10(수)
 - __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
   - 접수: 03. 12(화) ~ 04. 11(목)
+
 - __[2024 Vision Pro XR IDEA Challenge](https://cyan-emails-724482.framer.app/)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최:  2024 Vision Pro XR IDEA Challenge
@@ -213,6 +197,14 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 스파르타코딩클럽 X 크래프톤 정글
   - 접수: 03. 25(월) ~ 04. 21(일)
+- __[부스트캠프 웹・모바일 9기 4월 설명회 #부캠라디오](https://form.naver.com/response/hCKAcHtKUaVSkS_aDhWtTw)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 네이버 커넥트 재단
+  - 접수: 04. 02(화) ~ 04. 22(월)
+- __[AI 시대 성장하는 개발자/엔지니어 전략](https://docs.google.com/forms/d/e/1FAIpQLSd3RfY-4JAw1L31CbrLfieMlkfQoegYHr1l-dbRkKK34Lq9vw/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`, `AI`
+  - 주최: 웅진씽크빅X유데미
+  - 접수: 04. 04(목) ~ 04. 23(화)
 - __[Databricks Data Intelligence Day 한국이벤트](https://d1.eventservice.kr/2024/databricks/00/0423_di_day/0423_databricks_di_day_2nd_edm_idg.html)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: databricks
@@ -262,6 +254,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: KOREA EDUCATION GROUP
   - 접수: 03. 25(월) ~ 05. 05(일)
+- __[2024 관광데이터 활용 공모전](https://www.2024tourapi.com/)__
+  - 분류: `온라인`, `무료`, `데이터`, `대회`
+  - 주최: 한국관광공사
+  - 접수: 04. 03(수) ~ 05. 09(목)
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
@@ -278,6 +274,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 03. 20(수) ~ 05. 13(월)
+- __[2024 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 특허청
+  - 접수: 03. 15(금) ~ 05. 14(화)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
