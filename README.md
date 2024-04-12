@@ -140,23 +140,11 @@
 <br />
 
 ## 24년 04월
-- __[테킷 블록체인 스쿨 : 5기 모집](https://www.wanted.co.kr/events/techit-kdt-blockchain-5th)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 03. 12(화) ~ 04. 11(목)
-
-- __[2024 Vision Pro XR IDEA Challenge](https://cyan-emails-724482.framer.app/)__
-  - 분류: `온라인`, `무료`, `대회`, `기술일반`
-  - 주최:  2024 Vision Pro XR IDEA Challenge
-  - 접수: 03. 14(목) ~ 04. 11(목)
-- __[빅테크 혁신의 중심 ‘가치 지향 서비스 디자인’](https://www.kosta.or.kr/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=18565845&t=board)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최:  한국소프트웨어기술진흥협회
-  - 접수: 04. 03(수) ~ 04. 11(목)
 - __[JavaScript 기본기 완전 정복 부트캠프](https://www.wanted.co.kr/events/techit-kdt-frontend-10th)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 멋쟁이사자처럼
   - 접수: 03. 21(목) ~ 04. 12(금)
+
 - __[Build With AI in Songdo](https://festa.io/events/4910)__
   - 분류: `오프라인(인천 송도)`, `유료`, `AI`
   - 주최:  GDG Songdo
@@ -213,6 +201,10 @@
   - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
   - 주최: 웅진씽크빅X유데미
   - 접수: 04. 08(월) ~ 04. 23(화)
+- __[AWSKRUG 성수 #seongsu 소모임 - 4월 24일](https://www.meetup.com/awskrug/events/300344840)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 04. 12(금) ~ 04. 23(화)
 - __[2024 SPRi 봄 컨퍼런스](https://bebold.kr/2024_spri)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -233,10 +225,18 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `AI`
   - 주최: GDG Cloud KR
   - 접수: 04. 03(수) ~ 04. 26(금)
+- __[SIPE Conference - 두 번째 사담콘](https://festa.io/events/5084)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
+  - 주최: SIPE Team
+  - 접수: 04. 03(수) ~ 04. 26(금)
 - __[Korea Improv Festival 2024 Workshop](https://festa.io/events/5048)__
   - 분류: `오프라인(서울 용산구)`, `유료`, `기술일반`
   - 주최: Korea Improv Festival 2024
   - 접수: 04. 27(토) ~ 04. 28(일)
+- __[GitLab Korea 밋업 #20 데모로 GitLab 더 쉽게 익히기](https://festa.io/events/5070)__
+  - 분류: `온랑린`, `무료`, `기술일반`
+  - 주최: InfoGrab X GitLabKorea
+  - 접수: 04. 12(금) ~ 04. 28(일)
 - __[카카오뱅크 기술 밋업 #3 - 퇴근길 기술 한 잔 with 안드로이드 앱 개발자](https://festa.io/events/5041)__
   - 분류: `오프라인`, `무료`, `안드로이드`
   - 주최: 카카오뱅크
