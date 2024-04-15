@@ -140,35 +140,11 @@
 <br />
 
 ## 24년 04월
-- __[JavaScript 기본기 완전 정복 부트캠프](https://www.wanted.co.kr/events/techit-kdt-frontend-10th)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 03. 21(목) ~ 04. 12(금)
-
-- __[Build With AI in Songdo](https://festa.io/events/4910)__
-  - 분류: `오프라인(인천 송도)`, `유료`, `AI`
-  - 주최:  GDG Songdo
-  - 접수: 03. 21(목) ~ 04. 12(금)
-- __[미트코딩 제1차 IT 세미나](https://festa.io/events/4974)__
-  - 분류: `오프라인(인천 연수구)`, `유료`, `기술일반`
-  - 주최: 미트코딩
-  - 접수: 03. 21(목) ~ 04. 12(금)
-- __[실리콘밸리 개발자 한기용 대표님의 커리어 세미나](https://docs.google.com/forms/d/e/1FAIpQLScp0wBoyaGZH27nbkAqFfWnmpRWR6HOfmrAC0PoVcIVbamzgA/viewform)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: eBrain
-  - 접수: 03. 27(수) ~ 04. 12(금)
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/4968)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: ArtByte
-  - 접수: 04. 01(월) ~ 04. 12(화)
-- __[AI 중심의 오픈 스터디 프로그램 DEVOCEAN OpenLab](https://devocean.sk.com/community/detail.do?ID=165736)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 04. 01(월) ~ 04. 14(일)
 - __[크래프론 정글 6기](https://jungle.krafton.com/?utm_source=display&utm_medium=github_dev_event&utm_campaign=junglepromotion6&utm_content=recruitment)__
   - 분류: `오프라인`, `유료`, `기술일반`, `교육`
   - 주최: 크래프톤
   - 접수: 03. 08(금) ~ 04. 15(월)
+  
 - __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -241,6 +217,10 @@
   - 분류: `오프라인`, `무료`, `안드로이드`
   - 주최: 카카오뱅크
   - 접수: 04. 05(목) ~ 04. 29(월)
+- __[TCN meetup 2024.04](https://festa.io/events/5092)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: Technical Communication Network
+  - 접수: 04. 15(월) ~ 04. 30(화)
 
 <br />
 
@@ -250,6 +230,10 @@
   - 주최: 언리얼
   - 접수: 04. 08(월) ~ 05. 01(수)
 
+- __[삼성 청년 SW 아카데미 12기 모집](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_process=select-content-view&p_menu_cd=M0307&p_content_cd=C0307)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: SSAFY
+  - 접수: 04. 22(월) ~ 05. 07(화)
 - __[7TH BNW ACP 월드챔피언쉽 국가대표 선발 경진대회](http://bnwcontest.com/main/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: KOREA EDUCATION GROUP
@@ -258,6 +242,10 @@
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 한국관광공사
   - 접수: 04. 03(수) ~ 05. 09(목)
+- __[[코칭스터디] Let's AI 2024 신청](https://docs.google.com/forms/d/e/1FAIpQLSd6M76WRwKVFoRvoLn6Xamm4P-iJEcNDwnmG-xoZmj81yceTg/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 부스트코스
+  - 접수: 04. 15(월) ~ 05. 09(목)
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
@@ -278,6 +266,10 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
   - 접수: 03. 15(금) ~ 05. 14(화)
+- __[2024 배리어프리 앱 개발 콘테스트](https://www.autoeverapp.kr/)__
+  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`, `대회`
+  - 주최: 현대오토에버, 서울사회복지공동모금회
+  - 접수: 04. 15(월) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
@@ -303,15 +295,20 @@
 
 
 ## 24년 10월
+- __[GopherCon Korea 2024](https://festa.io/events/5098)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 일시: 04. 01(월) ~ 10. 31(목)
+
 - __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
   - 접수: 04. 01(월) ~ 10. 31(목)
-  
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: APPLE
   - 일시: 10. 25(금)
+
 <br />
 
 ----------------
