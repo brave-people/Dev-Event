@@ -14,11 +14,13 @@
 <br />
 <br />
 
+<!-- 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
     <img src="./static/display_banner/event.png?raw=true" width="84%">
-    </a>
+  </a>
 </p>
+-->
 
 <p align="center">
     <a href="https://dev-event.vercel.app/events">
@@ -140,19 +142,11 @@
 <br />
 
 ## 24년 04월
-- __[크래프론 정글 6기](https://jungle.krafton.com/?utm_source=display&utm_medium=github_dev_event&utm_campaign=junglepromotion6&utm_content=recruitment)__
-  - 분류: `오프라인`, `유료`, `기술일반`, `교육`
-  - 주최: 크래프톤
-  - 접수: 03. 08(금) ~ 04. 15(월)
-  
-- __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/299585424/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 03. 08(금) ~ 04. 15(월)
 - __[RabbitMQ 컨트리뷰터에게 직접 듣는 RabbitMQ의 현재와 미래](https://connect.tanzu.vmware.com/roadshow-seoul.html)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: VMware
   - 접수: 03. 28(목) ~ 04. 18(목)
+
 - __[백엔드 개발자 오르미 양성 과정 5기 모집](https://estfamily.career.greetinghr.com/o/104790?&utm_source=github_dev_event&utm_medium=cpc&utm_campaign=&utm_content=%EA%B5%AC%EA%B8%80sa_%EB%B0%B1%EC%97%94%EB%93%9C&gad_source=1)__
   - 분류: `오프라인`, `무료`, `벡엔드`
   - 주최: 이스트소프트
@@ -181,6 +175,10 @@
   - 분류: `오프라인(서울 성수)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 12(금) ~ 04. 23(화)
+- __[4월 우아한테크세미나 | Java의 미래, Virtual Thread](https://docs.google.com/forms/d/e/1FAIpQLSca-FfmBSMTV5KZlQUp47onZ3I9QfPd2CFsYF1CHHtIjjt0uw/viewform)__
+  - 분류: `온라인(유튜브)`, `무료`, `기술일반`
+  - 주최: 우아한형제들
+  - 접수: 04. 16(화) ~ 04. 23(화)
 - __[2024 SPRi 봄 컨퍼런스](https://bebold.kr/2024_spri)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -266,6 +264,10 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
   - 접수: 03. 15(금) ~ 05. 14(화)
+- __[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집](https://ds.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 아이펠
+  - 접수: 04. 16(화) ~ 05. 17(금)
 - __[2024 배리어프리 앱 개발 콘테스트](https://www.autoeverapp.kr/)__
   - 분류: `온라인`, `무료`, `안드로이드`, `iOS`, `대회`
   - 주최: 현대오토에버, 서울사회복지공동모금회
