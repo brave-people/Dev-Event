@@ -215,10 +215,18 @@
   - 분류: `오프라인`, `무료`, `안드로이드`
   - 주최: 카카오뱅크
   - 접수: 04. 05(목) ~ 04. 29(월)
+- __[AWSKRUG Women In Cloud - 7번째 모임](https://www.meetup.com/awskrug/events/300448152)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 04. 17(수) ~ 04. 29(월)
 - __[TCN meetup 2024.04](https://festa.io/events/5092)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Technical Communication Network
   - 접수: 04. 15(월) ~ 04. 30(화)
+- __[Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990)__
+  - 분류: `오프라인(서울 양재)`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 04. 17(수) ~ 04. 30(화)
 
 <br />
 
