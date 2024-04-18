@@ -451,7 +451,7 @@
 | 안드로이드개발 | [facebook](https://www.facebook.com/groups/androidcode/) |
 | 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
 | GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
-| Tensorflow KR | [facebook](https://www.facebook.com/groups/TensorFlowKR/about) |
+| AGI KR | [facebook](https://www.facebook.com/groups/agikr) |
 | Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
 | 가짜연구소 | [homepage](https://pseudo-lab.com/), [facebook](https://www.facebook.com/groups/pseudolab) |
 | JetBrains 코리아 | [facebook](https://www.facebook.com/jetbrainsKR/) |
