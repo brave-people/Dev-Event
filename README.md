@@ -235,7 +235,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 언리얼
   - 접수: 04. 08(월) ~ 05. 01(수)
-
+- __[2024 DND 해커톤](https://festa.io/events/4978)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
+  - 주최: DND
+  - 접수: 04. 17(수) ~ 05.05(일)
 - __[삼성 청년 SW 아카데미 12기 모집](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_process=select-content-view&p_menu_cd=M0307&p_content_cd=C0307)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SSAFY
