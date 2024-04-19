@@ -259,6 +259,10 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 04. 18(목) ~ 05. 02(목)
+- __[Build with AI Campus Korea: 모두를 위한 AI TOY STORY](https://festa.io/events/5116)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: GDG Campus Korea
+  - 접수: 04. 19(금) ~ 05. 02(목)
 - __[2024 DND 해커톤](https://festa.io/events/4978)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
   - 주최: DND
