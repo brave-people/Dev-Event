@@ -142,27 +142,11 @@
 <br />
 
 ## 24년 04월
-- __[RabbitMQ 컨트리뷰터에게 직접 듣는 RabbitMQ의 현재와 미래](https://connect.tanzu.vmware.com/roadshow-seoul.html)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: VMware
-  - 접수: 03. 28(목) ~ 04. 18(목)
-
-- __[백엔드 개발자 오르미 양성 과정 5기 모집](https://estfamily.career.greetinghr.com/o/104790?&utm_source=github_dev_event&utm_medium=cpc&utm_campaign=&utm_content=%EA%B5%AC%EA%B8%80sa_%EB%B0%B1%EC%97%94%EB%93%9C&gad_source=1)__
-  - 분류: `오프라인`, `무료`, `벡엔드`
-  - 주최: 이스트소프트
-  - 접수: 03. 28(목) ~ 04. 18(목)
-- __[All-in 코딩 공모전 - 대학 생활 개선 편](https://spartacodingclub.kr/site/all-in-challenge)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 스파르타코딩클럽 X 크래프톤 정글
-  - 접수: 03. 25(월) ~ 04. 21(일)
-- __[부스트캠프 웹・모바일 9기 4월 설명회 #부캠라디오](https://form.naver.com/response/hCKAcHtKUaVSkS_aDhWtTw)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 네이버 커넥트 재단
-  - 접수: 04. 02(화) ~ 04. 22(월)
 - __[AI 시대 성장하는 개발자/엔지니어 전략](https://docs.google.com/forms/d/e/1FAIpQLSd3RfY-4JAw1L31CbrLfieMlkfQoegYHr1l-dbRkKK34Lq9vw/viewform)__
   - 분류: `온라인`, `무료`, `기술일반`, `AI`
   - 주최: 웅진씽크빅X유데미
   - 접수: 04. 04(목) ~ 04. 23(화)
+
 - __[Databricks Data Intelligence Day 한국이벤트](https://d1.eventservice.kr/2024/databricks/00/0423_di_day/0423_databricks_di_day_2nd_edm_idg.html)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: databricks
@@ -179,6 +163,10 @@
   - 분류: `온라인(유튜브)`, `무료`, `기술일반`
   - 주최: 우아한형제들
   - 접수: 04. 16(화) ~ 04. 23(화)
+- __[OneAPI/IDC 온라인 라이브 세미나](https://docs.google.com/forms/d/e/1FAIpQLSd4s9wuAL1Qgdslaoh5_RCDsPWGzG2-u7MFKbML2-0ooP7oTg/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 한컴아카데미
+  - 접수: 04. 22(월) ~ 04. 25(목)
 - __[AWSKRUG 보안 #security 소모임](https://bebold.kr/2024_spri)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -235,6 +223,10 @@
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 코드잇
   - 접수: 04. 17(수) ~ 04. 30(화)
+- __[AI 반도체 생태계의 이해와 참여 방법](https://festa.io/events/5113)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 04. 22(월) ~ 04. 30(화)
 
 <br />
 
@@ -243,6 +235,11 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 언리얼
   - 접수: 04. 08(월) ~ 05. 01(수)
+
+- __[전자정부 표준프레임워크 신버전 v4.2 소개](https://docs.google.com/forms/d/e/1FAIpQLSemCGKQ7EZpOvAVlq-VyYuF2cdGDlpQwXQNYCQgMW7mBFD8OA/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 오픈플랫폼개발자커뮤니티
+  - 접수: 04. 22(월) ~ 05. 01(수)
 - __[성장 프레임워크: 주니어를 위한 네 가지 질문 | 프리온보딩 FE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_fe_21)__
   - 분류: `온라인`, `무료`, `커리어`, `프론트엔드`
   - 주최: 원티드
@@ -311,10 +308,28 @@
   - 분류: `온라인`, `무료`, `안드로이드`, `iOS`, `대회`
   - 주최: 현대오토에버, 서울사회복지공동모금회
   - 접수: 04. 15(월) ~ 05. 19(일)
+- __[2024 항해커톤](https://hanghae99.spartacodingclub.kr/hhackathon-ai)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 항해99
+  - 접수: 04. 22(월) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 03. 15(금) ~ 05. 20(월)
+
+
+<br />
+
+## 24년 06월
+- __[제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 한국전자통신연구원
+  - 접수: 04. 18(목) ~ 06. 07(금)
+
+- __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 구글 클라우드
+  - 접수: 04. 22(월) ~ 06. 27(목)
 
 <br />
 
