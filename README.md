@@ -142,31 +142,11 @@
 <br />
 
 ## 24년 04월
-- __[AI 시대 성장하는 개발자/엔지니어 전략](https://docs.google.com/forms/d/e/1FAIpQLSd3RfY-4JAw1L31CbrLfieMlkfQoegYHr1l-dbRkKK34Lq9vw/viewform)__
-  - 분류: `온라인`, `무료`, `기술일반`, `AI`
-  - 주최: 웅진씽크빅X유데미
-  - 접수: 04. 04(목) ~ 04. 23(화)
-
-- __[Databricks Data Intelligence Day 한국이벤트](https://d1.eventservice.kr/2024/databricks/00/0423_di_day/0423_databricks_di_day_2nd_edm_idg.html)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: databricks
-  - 접수: 04. 05(금) ~ 04. 23(화)
-- __[현직 개발자 홍드로이드와 함께하는 플러터 라이브 세션](https://festa.io/events/5049)__
-  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
-  - 주최: 웅진씽크빅X유데미
-  - 접수: 04. 08(월) ~ 04. 23(화)
-- __[AWSKRUG 성수 #seongsu 소모임 - 4월 24일](https://www.meetup.com/awskrug/events/300344840)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 12(금) ~ 04. 23(화)
-- __[4월 우아한테크세미나 | Java의 미래, Virtual Thread](https://docs.google.com/forms/d/e/1FAIpQLSca-FfmBSMTV5KZlQUp47onZ3I9QfPd2CFsYF1CHHtIjjt0uw/viewform)__
-  - 분류: `온라인(유튜브)`, `무료`, `기술일반`
-  - 주최: 우아한형제들
-  - 접수: 04. 16(화) ~ 04. 23(화)
 - __[OneAPI/IDC 온라인 라이브 세미나](https://docs.google.com/forms/d/e/1FAIpQLSd4s9wuAL1Qgdslaoh5_RCDsPWGzG2-u7MFKbML2-0ooP7oTg/viewform)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 한컴아카데미
   - 접수: 04. 22(월) ~ 04. 25(목)
+
 - __[AWSKRUG 보안 #security 소모임](https://bebold.kr/2024_spri)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -244,6 +224,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 오픈플랫폼개발자커뮤니티
   - 접수: 04. 22(월) ~ 05. 01(수)
+- __[제12회 SW개발 공모전(노숙인 생활개선을 위한 SW개발) 참가자 모집](https://ictinnovation.kr/notice_view.asp?idx=56)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 04. 05(금) ~ 05. 01(수)
 - __[성장 프레임워크: 주니어를 위한 네 가지 질문 | 프리온보딩 FE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_fe_21)__
   - 분류: `온라인`, `무료`, `커리어`, `프론트엔드`
   - 주최: 원티드
@@ -268,6 +252,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
   - 주최: SciPy Korea
   - 접수: 04. 23(화) ~ 05. 02(목)
+- __[인프콘 발표자 모집](https://www.inflearn.com/infcon-2024/teaser/speaker?utm_source=github_dev_event&utm_medium=owned&utm_campaign=traffic_infcon_&utm_content=community_&utm_term=240404)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 접수: 04. 03(수) ~ 05. 02(목)
 - __[2024 DND 해커톤](https://festa.io/events/4978)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
   - 주최: DND
@@ -288,6 +276,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 부스트코스
   - 접수: 04. 15(월) ~ 05. 09(목)
+- __[Flutter with AI 2024 Seoul: Flutter와 함께 시작하는 AI 활용](https://festa.io/events/5090)__
+  - 분류: `오프라인(서울 서초구)`, `유료`, `안드로이드`, `iOS`
+  - 주최: Flutter Seoul
+  - 접수: 04. 24(수) ~ 05. 10(금)
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
