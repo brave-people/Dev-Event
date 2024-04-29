@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-131-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-132-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -683,6 +683,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/downpool"><img src="https://avatars.githubusercontent.com/u/75002493?v=4?s=100" width="100px;" alt="donghyeon choi"/><br /><sub><b>donghyeon choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=downpool" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@jcw1031"><img src="https://avatars.githubusercontent.com/u/69714701?v=4?s=100" width="100px;" alt="지찬우"/><br /><sub><b>지찬우</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jcw1031" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/falconlee236"><img src="https://avatars.githubusercontent.com/u/52999093?v=4?s=100" width="100px;" alt="Sangyun_LEE"/><br /><sub><b>Sangyun_LEE</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=falconlee236" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://rovictory.tistory.com"><img src="https://avatars.githubusercontent.com/u/77956808?v=4?s=100" width="100px;" alt="이승로"/><br /><sub><b>이승로</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=lvalentine6" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
