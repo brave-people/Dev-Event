@@ -413,6 +413,7 @@
 | Kernel360 | [Homepage](https://kernel360.co.kr/) |
 | 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
 | 스마일게이트 개발캠프 | [Homepage](https://careers.smilegate.com/student/development-camp) |
+| 코드스쿼드 | [Homepage](https://codesquad.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
