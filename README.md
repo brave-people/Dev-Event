@@ -142,47 +142,11 @@
 <br />
 
 ## 24년 04월
-- __[2024 SPRi 봄 컨퍼런스](https://bebold.kr/2024_spri)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 04. 03(수) ~ 04. 26(금)
-  
-- __[Women Techmakers Korea 2024](https://festa.io/events/4967)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
-  - 주최: Women Techmakers Korea
-  - 접수: 03. 26(화) ~ 04. 26(금)
-- __[Ubuntu 24.04 InstallFest + Workshop @Busan](https://festa.io/events/4884)__
-  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 03. 26(화) ~ 04. 26(금)
-- __[한빛앤 MSA #2-4 스타트업의 클라우드 이용 안내 - 보안과 효율 두마리 토끼 잡기](https://festa.io/events/4994)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `클라우드`
-  - 주최: 한빛앤 MSA
-  - 접수: 03. 26(화) ~ 04. 26(금)
-- __[Build with AI United 2024](https://festa.io/events/5026)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `AI`
-  - 주최: GDG Cloud KR
-  - 접수: 04. 03(수) ~ 04. 26(금)
-- __[SIPE Conference - 두 번째 사담콘](https://festa.io/events/5084)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
-  - 주최: SIPE Team
-  - 접수: 04. 03(수) ~ 04. 26(금)
-- __[오직 초보를 위한 node.js 라이브코딩](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUuVYYOp6d99FrxQpUjHxAwlUQVRUWFFDMjFOUEZOS0NJNzM2Q0pRMVZaSy4u)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `벡엔드`
-  - 주최: 엘리스트랙 KDT
-  - 접수: 04. 23(화) ~ 04. 26(금)
-- __[Korea Improv Festival 2024 Workshop](https://festa.io/events/5048)__
-  - 분류: `오프라인(서울 용산구)`, `유료`, `기술일반`
-  - 주최: Korea Improv Festival 2024
-  - 접수: 04. 27(토) ~ 04. 28(일)
-- __[GitLab Korea 밋업 #20 데모로 GitLab 더 쉽게 익히기](https://festa.io/events/5070)__
-  - 분류: `온랑린`, `무료`, `기술일반`
-  - 주최: InfoGrab X GitLabKorea
-  - 접수: 04. 12(금) ~ 04. 28(일)
 - __[카카오뱅크 기술 밋업 #3 - 퇴근길 기술 한 잔 with 안드로이드 앱 개발자](https://festa.io/events/5041)__
   - 분류: `오프라인`, `무료`, `안드로이드`
   - 주최: 카카오뱅크
   - 접수: 04. 05(목) ~ 04. 29(월)
+
 - __[AWSKRUG Women In Cloud - 7번째 모임](https://www.meetup.com/awskrug/events/300448152)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: AWSKRUG
@@ -248,6 +212,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 인프런
   - 접수: 04. 03(수) ~ 05. 02(목)
+- __[생성형 AI를 활용한 잇기 해커톤](https://event-us.kr/itcreator/event/82313)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`, `AI`
+  - 주최: 잇기
+  - 접수: 04. 29(월) ~ 05. 03(일)
 - __[2024 DND 해커톤](https://festa.io/events/4978)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
   - 주최: DND
@@ -296,6 +264,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 03. 20(수) ~ 05. 13(월)
+- __[Flutter 개발자를 위한 앱 푸시 알림 실전 가이드: 개인화부터 실시간 메시지까지](https://event-us.kr/notifly/event/80892?utm_source=github_dev_event&utm_medium=banner&utm_campaign=event-recommend&pit_id=4342)__
+  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
+  - 주최: 노티플라이
+  - 접수: 04. 29(월) ~ 05. 13(월)
 - __[2024 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
@@ -324,6 +296,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 03. 15(금) ~ 05. 20(월)
+- __[리눅스 기술면접 준비하는 방법](https://festa.io/events/5175)__
+  - 분류: `온라인`, `무료`, `기술일반`, `커리어`
+  - 주최: 리얼리눅스
+  - 접수: 04. 29(월) ~ 05. 21(화)
 - __[대구광역시 공공데이터 활용 창업경진대회 2024](https://dacon.io/competitions/official/236256/overview/description)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대구광역시
