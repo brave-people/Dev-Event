@@ -141,45 +141,12 @@
 
 <br />
 
-## 24년 04월
-- __[TCN meetup 2024.04](https://festa.io/events/5092)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: Technical Communication Network
-  - 접수: 04. 15(월) ~ 04. 30(화)
-
-- __[Microsoft AI Tour in Seoul](https://msevents.microsoft.com/event?id=545609990)__
-  - 분류: `오프라인(서울 양재)`, `무료`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 04. 17(수) ~ 04. 30(화)
-- __[코드잇 스프린트 프론트엔드 트랙 8기](https://sprint.codeit.kr/?utm_source=githubrepo&utm_medium=community&utm_content=frontend)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 코드잇
-  - 접수: 04. 17(수) ~ 04. 30(화)
-- __[AI 반도체 생태계의 이해와 참여 방법](https://festa.io/events/5113)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 04. 22(월) ~ 04. 30(화)
-
-<br />
-
 ## 24년 05월
-- __[시작해요 언리얼 2024](https://www.unrealengine.com/ko/events/let-s-start-unreal-2024)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 언리얼
-  - 접수: 04. 08(월) ~ 05. 01(수)
-
-- __[전자정부 표준프레임워크 신버전 v4.2 소개](https://docs.google.com/forms/d/e/1FAIpQLSemCGKQ7EZpOvAVlq-VyYuF2cdGDlpQwXQNYCQgMW7mBFD8OA/viewform)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 오픈플랫폼개발자커뮤니티
-  - 접수: 04. 22(월) ~ 05. 01(수)
-- __[제12회 SW개발 공모전(노숙인 생활개선을 위한 SW개발) 참가자 모집](https://ictinnovation.kr/notice_view.asp?idx=56)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 04. 05(금) ~ 05. 01(수)
 - __[성장 프레임워크: 주니어를 위한 네 가지 질문 | 프리온보딩 FE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_fe_21)__
   - 분류: `온라인`, `무료`, `커리어`, `프론트엔드`
   - 주최: 원티드
   - 접수: 04. 18(목) ~ 05. 02(목)
+
 - __[컨테이너 기반 서버 관리 경험으로 면접 뽀개기 | 프리온보딩 BE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_be_19)__
   - 분류: `온라인`, `무료`, `커리어`, `벡엔드`
   - 주최: 원티드
@@ -220,6 +187,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 패스파인더
   - 접수: 04. 26(금) ~ 05. 07(화)
+- __[Docker 웨비나: 소프트웨어 개발 및 공급망 내 보안](https://us06web.zoom.us/webinar/register/2017146181493/WN_3zRBZnNIQnChjqRvHD3rDQ#/registration)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: 단군소프트
+  - 접수: 05. 02(목) ~ 05. 07(화)
 - __[7TH BNW ACP 월드챔피언쉽 국가대표 선발 경진대회](http://bnwcontest.com/main/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: KOREA EDUCATION GROUP
@@ -284,6 +255,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 항해99
   - 접수: 04. 22(월) ~ 05. 19(일)
+- __[부스트캠프 웹・모바일 9기 5월 설명회](https://form.naver.com/response/nkAg46cqWwJ5ewKnq1LRpA)__
+  - 분류: `온라인`, `무료`, `웹`, `안드로이드`, `iOS`
+  - 주최: 네이버커넥트
+  - 접수: 05. 02(월) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
