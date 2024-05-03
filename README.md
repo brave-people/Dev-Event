@@ -122,7 +122,8 @@
               <a href="./end_event/2024/24_01.md"> 01월 </a>,
               <a href="./end_event/2024/24_02.md"> 02월 </a>,
               <a href="./end_event/2024/24_03.md"> 03월 </a>,
-              <a href="./end_event/2024/24_04.md"> 04월 </a>
+              <a href="./end_event/2024/24_04.md"> 04월 </a>,
+              <a href="./end_event/2024/24_05.md"> 05월 </a>
             </td>
         </tr>
         <tr>
@@ -131,51 +132,21 @@
             <a href="./replay_event/replay_event.md"> 바로가기 </a>
           </td>
         </tr>
-        <tr>
-          <td> 행사 참여 후기 </td>
-          <td colspan="2"> 
-            <a href="./review/review.md"> 바로가기 </a>
-          </td>
-        </tr>
 </table>
 
 <br />
 
 ## 24년 05월
-- __[성장 프레임워크: 주니어를 위한 네 가지 질문 | 프리온보딩 FE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_fe_21)__
-  - 분류: `온라인`, `무료`, `커리어`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 04. 18(목) ~ 05. 02(목)
-
-- __[컨테이너 기반 서버 관리 경험으로 면접 뽀개기 | 프리온보딩 BE 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_be_19)__
-  - 분류: `온라인`, `무료`, `커리어`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 04. 18(목) ~ 05. 02(목)
-- __[하나의 코드로 Android와 iOS를! | 프리온보딩 Flutter 챌린지 5월](https://www.wanted.co.kr/events/pre_challenge_flutter_1)__
-  - 분류: `온라인`, `무료`, `커리어`, `안드로이드`, `iOS`
-  - 주최: 원티드
-  - 접수: 04. 18(목) ~ 05. 02(목)
-- __[5년 차 이상 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_3)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 04. 18(목) ~ 05. 02(목)
-- __[Build with AI Campus Korea: 모두를 위한 AI TOY STORY](https://festa.io/events/5116)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: GDG Campus Korea
-  - 접수: 04. 19(금) ~ 05. 02(목)
-- __[SciPy Korea 2024](https://festa.io/events/5136)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
-  - 주최: SciPy Korea
-  - 접수: 04. 23(화) ~ 05. 02(목)
-- __[인프콘 발표자 모집](https://www.inflearn.com/infcon-2024/teaser/speaker?utm_source=github_dev_event&utm_medium=owned&utm_campaign=traffic_infcon_&utm_content=community_&utm_term=240404)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 04. 03(수) ~ 05. 02(목)
 - __[생성형 AI를 활용한 잇기 해커톤](https://event-us.kr/itcreator/event/82313)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`, `AI`
   - 주최: 잇기
   - 접수: 04. 29(월) ~ 05. 03(금)
-- __[2024 DND 해커톤](https://festa.io/events/4978)__
+
+- __[SKT AI Fellowship 6기](https://www.sktaifellowship.com/)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: SKT
+  - 접수: 04. 11(목) ~ 05. 06(월)
+ - __[2024 DND 해커톤](https://festa.io/events/4978)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
   - 주최: DND
   - 접수: 04. 17(수) ~ 05. 05(일)
@@ -191,6 +162,10 @@
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: 단군소프트
   - 접수: 05. 02(목) ~ 05. 07(화)
+- __[FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
+  - 분류: `온라인`, `무료`, `교육`, `AI`
+  - 주최: SK텔레콤
+  - 접수: 05. 03(금) ~ 05. 07(화)
 - __[7TH BNW ACP 월드챔피언쉽 국가대표 선발 경진대회](http://bnwcontest.com/main/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: KOREA EDUCATION GROUP
@@ -235,6 +210,10 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
   - 접수: 03. 15(금) ~ 05. 14(화)
+- __[실용주의 기술 블로그 글쓰기](https://devocean.sk.com/events/view.do?id=197)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: DEVOCEAN
+  - 접수: 05. 03(금) ~ 05. 15(수)
 - __[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집](https://ds.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 아이펠
@@ -271,6 +250,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: 한빛앤 MSA
   - 접수: 04. 30(화) ~ 05. 21(화)
+- __[제 3회 Clojure Korea 밋업](https://www.meetup.com/clojure-korea/events/299929522/)__
+  - 분류: `온라인`, `무료`, `기술일반`, `커리어`
+  - 주최: Clojure Korea
+  - 접수: 05. 03(금) ~ 05. 22(수)
 - __[대구광역시 공공데이터 활용 창업경진대회 2024](https://dacon.io/competitions/official/236256/overview/description)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대구광역시
@@ -279,6 +262,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 유데미
   - 접수: 04. 15(월) ~ 05. 24(금)
+- __[스프링캠프 2024](https://springcamp.ksug.org/2024/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `벡엔드`
+  - 주최: 스프링캠프
+  - 접수: 05. 06(월) ~ 05. 24(금)
 - __[.HACK 2024](https://dothack.io/)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `보안`, `기술일반` 
   - 주최: .HACK
