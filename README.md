@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[생성형 AI를 활용한 잇기 해커톤](https://event-us.kr/itcreator/event/82313)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`, `AI`
-  - 주최: 잇기
-  - 접수: 04. 29(월) ~ 05. 03(금)
-
-- __[SKT AI Fellowship 6기](https://www.sktaifellowship.com/)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: SKT
-  - 접수: 04. 11(목) ~ 05. 06(월)
- - __[2024 DND 해커톤](https://festa.io/events/4978)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `해커톤`
-  - 주최: DND
-  - 접수: 04. 17(수) ~ 05. 05(일)
 - __[삼성 청년 SW 아카데미 12기 모집](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_process=select-content-view&p_menu_cd=M0307&p_content_cd=C0307)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SSAFY
   - 접수: 04. 22(월) ~ 05. 07(화)
+
 - __[한 달에 앱 하나! 1mA 챌린지](https://www.pathfinder.camp/event-details/1ma)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 패스파인더
@@ -178,6 +166,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 부스트코스
   - 접수: 04. 15(월) ~ 05. 09(목)
+- __[2024 코드살롱 봄 시즌 IT 개발자 컨퍼런스](https://okky.kr/articles/1499107?topic=it&page=1)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 부스트코스
+  - 접수: 05. 07(화) ~ 05. 09(목)
 - __[Flutter with AI 2024 Seoul: Flutter와 함께 시작하는 AI 활용](https://festa.io/events/5090)__
   - 분류: `오프라인(서울 서초구)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
@@ -238,6 +230,10 @@
   - 분류: `온라인`, `무료`, `웹`, `안드로이드`, `iOS`
   - 주최: 네이버커넥트
   - 접수: 05. 02(월) ~ 05. 19(일)
+- __[노이즈 측정 솔루션 이해 세미나](http://docs.google.com/forms/d/e/1FAIpQLScvyKSQeeVHI59LRt627mECoVmukwQu4HiImph6NPjT4jqvQQ/viewform?usp=send_form)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 크래카
+  - 접수: 05. 07(화) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
@@ -270,6 +266,10 @@
   - 분류: `오프라인(서울 삼성동)`, `무료`, `보안`, `기술일반` 
   - 주최: .HACK
   - 일시: 05. 27(월) ~ 05. 28(화)
+- __[Cloudwave 3기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=214031)__
+  - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
+  - 주최: CJ올리브네트웍스
+  - 일시: 05. 27(월) ~ 05. 28(화)
 - __[파이콘 한국 2024 CFP 발표자 1차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
@@ -283,6 +283,18 @@
   - 주최: 한국전자통신연구원
   - 접수: 04. 18(목) ~ 06. 07(금)
 
+- __[2024 메타버스 개발자 경진대회](https://www.metaversedev.kr/registration)__
+  - 분류: `온라인`, `무료`, `기술일반`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 07(화) ~ 06. 07(금)
+- __[DroidKnights 2024](https://festa.io/events/4990)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
+  - 주최: DroidKnights Community
+  - 접수: 05. 07(화) ~ 06. 10(월)
+- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: ArtByte
+  - 접수: 05. 07(화) ~ 06. 12(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
@@ -307,6 +319,11 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: 인프런
   - 일시: 08. 02(금)
+
+- __[UbuCon Korea 2024](https://2024.ubuntu-kr.org/ko/)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: 우분투 한국커뮤니티
+  - 일시: 04. 17(수) ~ 08. 09(금)
 
 <br />
 
