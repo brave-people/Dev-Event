@@ -137,31 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[삼성 청년 SW 아카데미 12기 모집](https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_process=select-content-view&p_menu_cd=M0307&p_content_cd=C0307)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: SSAFY
-  - 접수: 04. 22(월) ~ 05. 07(화)
-
-- __[한 달에 앱 하나! 1mA 챌린지](https://www.pathfinder.camp/event-details/1ma)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 패스파인더
-  - 접수: 04. 26(금) ~ 05. 07(화)
-- __[Docker 웨비나: 소프트웨어 개발 및 공급망 내 보안](https://us06web.zoom.us/webinar/register/2017146181493/WN_3zRBZnNIQnChjqRvHD3rDQ#/registration)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: 단군소프트
-  - 접수: 05. 02(목) ~ 05. 07(화)
-- __[FLY AI Challenger](https://www.skttechacademy.com/student/main/aiChallenger)__
-  - 분류: `온라인`, `무료`, `교육`, `AI`
-  - 주최: SK텔레콤
-  - 접수: 05. 03(금) ~ 05. 07(화)
-- __[7TH BNW ACP 월드챔피언쉽 국가대표 선발 경진대회](http://bnwcontest.com/main/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: KOREA EDUCATION GROUP
-  - 접수: 03. 25(월) ~ 05. 05(일)
 - __[2024 관광데이터 활용 공모전](https://www.2024tourapi.com/)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 한국관광공사
   - 접수: 04. 03(수) ~ 05. 09(목)
+
 - __[[코칭스터디] Let's AI 2024 신청](https://docs.google.com/forms/d/e/1FAIpQLSd6M76WRwKVFoRvoLn6Xamm4P-iJEcNDwnmG-xoZmj81yceTg/viewform)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 부스트코스
@@ -178,6 +158,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `교육`, `AI`
   - 주최: 마이크로소프트
   - 접수: 04. 15(월) ~ 05. 10(금)
+- __[판교 퇴근길 밋업 with 인프런 #03 개발자커리어](https://www.inflearn.com/course/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%BB%A4%EB%A6%AC%EC%96%B4)__
+  - 분류: `오프라인(경기도 성남)`, `무료`, `모임`
+  - 주최: 인프런
+  - 접수: 05. 08(수) ~ 05. 12(일)
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
@@ -199,6 +183,10 @@
   - 주최: 노티플라이
   - 접수: 04. 29(월) ~ 05. 13(월)
 - __[2024 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 특허청
+  - 접수: 03. 15(금) ~ 05. 14(화)
+- __[우아한스터디 2024 여름시즌](https://techblog.woowahan.com/17328/)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
   - 접수: 03. 15(금) ~ 05. 14(화)
@@ -278,11 +266,15 @@
 <br />
 
 ## 24년 06월
+- __[구글 머신러닝 부트캠프 2024 모집](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 구글코리아
+  - 접수: 05. 08(수) ~ 06. 05(수)
+
 - __[제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국전자통신연구원
   - 접수: 04. 18(목) ~ 06. 07(금)
-
 - __[2024 메타버스 개발자 경진대회](https://www.metaversedev.kr/registration)__
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 과학기술정보통신부
@@ -294,6 +286,15 @@
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: ArtByte
+  - 접수: 05. 07(화) ~ 06. 12(수)
+- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: ArtByte
+  - 접수: 05. 07(화) ~ 06. 12(수)
+- __[I/O Extended Golang Korea 2024](https://festa.io/events/5181)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: 
+Golang Korea
   - 접수: 05. 07(화) ~ 06. 12(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
