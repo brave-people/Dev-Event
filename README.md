@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-133-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-134-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -677,6 +677,9 @@ Golang Korea
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/falconlee236"><img src="https://avatars.githubusercontent.com/u/52999093?v=4?s=100" width="100px;" alt="Sangyun_LEE"/><br /><sub><b>Sangyun_LEE</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=falconlee236" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://rovictory.tistory.com"><img src="https://avatars.githubusercontent.com/u/77956808?v=4?s=100" width="100px;" alt="이승로"/><br /><sub><b>이승로</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=lvalentine6" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mygychoi"><img src="https://avatars.githubusercontent.com/u/68394004?v=4?s=100" width="100px;" alt="Myeonggyu Choi"/><br /><sub><b>Myeonggyu Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mygychoi" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://kwabang.net"><img src="https://avatars.githubusercontent.com/u/43908654?v=4?s=100" width="100px;" alt="Gyeongtaek Kim"/><br /><sub><b>Gyeongtaek Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kwabang" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
