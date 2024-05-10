@@ -305,8 +305,7 @@
   - 접수: 05. 07(화) ~ 06. 12(수)
 - __[I/O Extended Golang Korea 2024](https://festa.io/events/5181)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: 
-Golang Korea
+  - 주최: Golang Korea
   - 접수: 05. 07(화) ~ 06. 12(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
