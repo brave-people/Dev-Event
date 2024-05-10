@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[2024 관광데이터 활용 공모전](https://www.2024tourapi.com/)__
-  - 분류: `온라인`, `무료`, `데이터`, `대회`
-  - 주최: 한국관광공사
-  - 접수: 04. 03(수) ~ 05. 09(목)
-
-- __[[코칭스터디] Let's AI 2024 신청](https://docs.google.com/forms/d/e/1FAIpQLSd6M76WRwKVFoRvoLn6Xamm4P-iJEcNDwnmG-xoZmj81yceTg/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 부스트코스
-  - 접수: 04. 15(월) ~ 05. 09(목)
-- __[2024 코드살롱 봄 시즌 IT 개발자 컨퍼런스](https://okky.kr/articles/1499107?topic=it&page=1)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 코드살롱
-  - 접수: 05. 07(화) ~ 05. 09(목)
 - __[Flutter with AI 2024 Seoul: Flutter와 함께 시작하는 AI 활용](https://festa.io/events/5090)__
   - 분류: `오프라인(서울 서초구)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
   - 접수: 04. 24(수) ~ 05. 10(금)
+
 - __[Microsoft AI School 4기 수강생 모집](https://msaischool.kr/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `교육`, `AI`
   - 주최: 마이크로소프트
@@ -195,7 +183,7 @@
   - 주최: DEVOCEAN
   - 접수: 05. 03(금) ~ 05. 15(수)
 - __[[AI 활용 서비스 개발 해커톤] k-hack](https://interculturalai.notion.site/k-hack-2024-0f528c69a9b4437da916f2cce3d14f1f)__
-  - 분류: `오프라인`, `무료`, `대회`
+  - 분류: `오프라인(고려대학교)`, `무료`, `대회`
   - 주최: 고려대학교 사회공헌원 체인지메이커스 프로그램
   - 접수: 05. 09(목) ~ 05. 16(목)
 - __[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집](https://ds.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
@@ -230,6 +218,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 03. 15(금) ~ 05. 20(월)
+- __[네이버 클라우드 & 디딤365 & 씽킹데이터와 함께하는 Gaming day!](https://form.naver.com/response/-S2mEos2mFcyAU4j3kSk4w)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 네이버클라우드
+  - 접수: 05. 10(금) ~ 05. 20(월)
 - __[리눅스 기술면접 준비하는 방법](https://festa.io/events/5175)__
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: 리얼리눅스
@@ -283,6 +275,10 @@
   - 주최: 구글코리아
   - 접수: 05. 08(수) ~ 06. 05(수)
 
+- __[Tech 우수인재 양성을 위한 MLOps / Full stack 과정](https://festa.io/events/5229)__
+  - 분류: `오프라인`, `무료`, `AI`, `교육`
+  - 주최: 한국경제신문 with toss bank
+  - 접수: 05. 10(금) ~ 06. 05(수)
 - __[제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국전자통신연구원
