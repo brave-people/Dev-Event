@@ -291,6 +291,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 07(화) ~ 06. 07(금)
+- __[WWDC24](https://developer.apple.com/wwdc24/)__
+  - 분류: `온라인`, `무료`, `iOS`
+  - 주최: Apple
+  - 접수: 03. 26(화) ~ 06. 10(월)
 - __[DroidKnights 2024](https://festa.io/events/4990)__
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: DroidKnights Community
