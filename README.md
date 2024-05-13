@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[Flutter with AI 2024 Seoul: Flutter와 함께 시작하는 AI 활용](https://festa.io/events/5090)__
-  - 분류: `오프라인(서울 서초구)`, `유료`, `안드로이드`, `iOS`
-  - 주최: Flutter Seoul
-  - 접수: 04. 24(수) ~ 05. 10(금)
-
-- __[Microsoft AI School 4기 수강생 모집](https://msaischool.kr/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `교육`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 04. 15(월) ~ 05. 10(금)
-- __[판교 퇴근길 밋업 with 인프런 #03 개발자커리어](https://www.inflearn.com/course/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%BB%A4%EB%A6%AC%EC%96%B4)__
-  - 분류: `오프라인(경기도 성남)`, `무료`, `모임`
-  - 주최: 인프런
-  - 접수: 05. 08(수) ~ 05. 12(일)
 - __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국인공지능협회
   - 접수: 03. 20(수) ~ 05. 13(월)
+
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: ArtByte
@@ -222,6 +210,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 네이버클라우드
   - 접수: 05. 10(금) ~ 05. 20(월)
+- __[Gen AI 춘추전국시대, LLM 시장 전망과 기업의 도입 전략 세미나](https://docs.google.com/forms/d/e/1FAIpQLScBHRlnrUero6GND9AvEaN431nf_u-konyitJagAps1v1nv2Q/viewform)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `AI`
+  - 주최: 한국정보산업연합회
+  - 접수: 05. 13(월) ~ 05. 20(월)
 - __[리눅스 기술면접 준비하는 방법](https://festa.io/events/5175)__
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: 리얼리눅스
@@ -230,6 +222,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: 한빛앤 MSA
   - 접수: 04. 30(화) ~ 05. 21(화)
+- __[테크 리드로 자라기: 동기 부여와 피드백](https://tech.goorm.io/ko/2405_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 한빛앤 MSA
+  - 접수: 05. 13(월) ~ 05. 17(금)
 - __[제 3회 Clojure Korea 밋업](https://www.meetup.com/clojure-korea/events/299929522/)__
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: Clojure Korea
@@ -307,6 +303,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: Golang Korea
   - 접수: 05. 07(화) ~ 06. 12(수)
+- __[AI 오디세이](https://festa.io/events/5244)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 해커그라운드
+  - 접수: 05. 13(월) ~ 06. 25(화)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
