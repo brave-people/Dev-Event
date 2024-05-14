@@ -137,31 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[2024 국제인공지능대전](http://www.aiexpo.co.kr/home/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 한국인공지능협회
-  - 접수: 03. 20(수) ~ 05. 13(월)
-
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: ArtByte
-  - 접수: 04. 01(월) ~ 05. 13(월)
-- __[Google I/O](https://io.google/2024/intl/ko/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: Google
-  - 접수: 03. 15(금) ~ 05. 13(월)
-- __[AWS Summit Seoul](https://aws.amazon.com/ko/events/summits/seoul/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 03. 20(수) ~ 05. 13(월)
-- __[Flutter 개발자를 위한 앱 푸시 알림 실전 가이드: 개인화부터 실시간 메시지까지](https://event-us.kr/notifly/event/80892?utm_source=github_dev_event&utm_medium=banner&utm_campaign=event-recommend&pit_id=4342)__
-  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
-  - 주최: 노티플라이
-  - 접수: 04. 29(월) ~ 05. 13(월)
 - __[2024 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 특허청
   - 접수: 03. 15(금) ~ 05. 14(화)
+
 - __[우아한스터디 2024 여름시즌](https://techblog.woowahan.com/17328/)__
   - 분류: `온라인`, `오프라인`, `무료`, `웹`, `인프라`, `기술일반`
   - 주최: 우아한 형제들
@@ -202,6 +182,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 크래카
   - 접수: 05. 07(화) ~ 05. 19(일)
+- __[엔지니어 네트워킹 파티, 빌드라포](https://festa.io/events/5245)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
+  - 주최: 라포랩스
+  - 접수: 05. 14(화) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
@@ -258,6 +242,18 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
   - 주최: CJ올리브네트웍스
   - 일시: 05. 27(월) ~ 05. 28(화)
+- __[실무사례로 보는 정보보안 개념 및 기술 | 프리온보딩 정보보안 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_infosec_2)__
+  - 분류: `온라인`, `무료`, `교육`, `보안` 
+  - 주최: 원티드
+  - 접수: 05. 14(화) ~ 05. 30(목)
+- __[안정적인 서비스를 위한 예외처리와 테스트 전략 | 프리온보딩 BE 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_be_20)__
+  - 분류: `온라인`, `무료`, `교육`, `벡엔드` 
+  - 주최: 원티드
+  - 접수: 05. 14(화) ~ 05. 30(목)
+- __[React Hook과 SPA 실전개발 with Next.js | 프리온보딩 FE 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_fe_22)__
+  - 분류: `온라인`, `무료`, `교육`, `프론트엔드` 
+  - 주최: 원티드
+  - 접수: 05. 14(화) ~ 05. 30(목)
 - __[파이콘 한국 2024 CFP 발표자 1차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
