@@ -206,7 +206,7 @@
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: Clojure Korea
   - 접수: 05. 03(금) ~ 05. 22(수)
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/301052548)__
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/301052548?utm_medium=email)__
   - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 16(목) ~ 05. 22(수)
