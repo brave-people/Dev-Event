@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[2024 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 특허청
-  - 접수: 03. 15(금) ~ 05. 14(화)
-
-- __[우아한스터디 2024 여름시즌](https://techblog.woowahan.com/17328/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `웹`, `인프라`, `기술일반`
-  - 주최: 우아한 형제들
-  - 접수: 05. 08(수) ~ 05. 14(화)
-- __[실용주의 기술 블로그 글쓰기](https://devocean.sk.com/events/view.do?id=197)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: DEVOCEAN
-  - 접수: 05. 03(금) ~ 05. 15(수)
 - __[[AI 활용 서비스 개발 해커톤] k-hack](https://interculturalai.notion.site/k-hack-2024-0f528c69a9b4437da916f2cce3d14f1f)__
   - 분류: `오프라인(고려대학교)`, `무료`, `대회`
   - 주최: 고려대학교 사회공헌원 체인지메이커스 프로그램
   - 접수: 05. 09(목) ~ 05. 16(목)
+
 - __[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집](https://ds.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 아이펠
@@ -206,6 +194,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: 한빛앤 MSA
   - 접수: 04. 30(화) ~ 05. 21(화)
+- __[스킬빌더를 이용한 AWS학습 및 자격증 취득 준비](https://www.meetup.com/awskrug/events/300898964/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드 `
+  - 주최: AWSKRUG
+  - 접수: 05. 16(목) ~ 05. 21(화)
 - __[테크 리드로 자라기: 동기 부여와 피드백](https://tech.goorm.io/ko/2405_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 한빛앤 MSA
@@ -214,6 +206,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `커리어`
   - 주최: Clojure Korea
   - 접수: 05. 03(금) ~ 05. 22(수)
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/301052548)__
+  - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 16(목) ~ 05. 22(수)
 - __[대구광역시 공공데이터 활용 창업경진대회 2024](https://dacon.io/competitions/official/236256/overview/description)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대구광역시
@@ -242,6 +238,10 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
   - 주최: CJ올리브네트웍스
   - 일시: 05. 27(월) ~ 05. 28(화)
+- __[한빛앤 MSA #2-6 기술과 건강을 잇다: 헬스케어 IT 개발자 가이드](https://festa.io/events/5169)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반` 
+  - 주최: 한빛앤 MSA
+  - 접수: 05. 16(목) ~ 05. 30(목)
 - __[실무사례로 보는 정보보안 개념 및 기술 | 프리온보딩 정보보안 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_infosec_2)__
   - 분류: `온라인`, `무료`, `교육`, `보안` 
   - 주최: 원티드
