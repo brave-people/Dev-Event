@@ -137,43 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집](https://ds.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=github_dev_event)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 아이펠
-  - 접수: 04. 16(화) ~ 05. 17(금)
-
-- __[백엔드 개발자 취업 미니 부트캠프 : 스프링 입문 데브코스](https://onoffmix.com/event/298611)__
-  - 분류: `온라인`, `유료`, `벡엔드`
-  - 주최: 유데미 x 웅진씽크빅
-  - 접수: 04. 23(화) ~ 05. 17(금)
-- __[제19회 차세대 테크 리더십포럼](https://festa.io/events/5077)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 리더십 포럼
-  - 접수: 04. 23(화) ~ 05. 17(금)
-- __[2024 배리어프리 앱 개발 콘테스트](https://www.autoeverapp.kr/)__
-  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`, `대회`
-  - 주최: 현대오토에버, 서울사회복지공동모금회
-  - 접수: 04. 15(월) ~ 05. 19(일)
-- __[2024 항해커톤](https://hanghae99.spartacodingclub.kr/hhackathon-ai)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 항해99
-  - 접수: 04. 22(월) ~ 05. 19(일)
-- __[부스트캠프 웹・모바일 9기 5월 설명회](https://form.naver.com/response/nkAg46cqWwJ5ewKnq1LRpA)__
-  - 분류: `온라인`, `무료`, `웹`, `안드로이드`, `iOS`
-  - 주최: 네이버커넥트
-  - 접수: 05. 02(월) ~ 05. 19(일)
-- __[노이즈 측정 솔루션 이해 세미나](http://docs.google.com/forms/d/e/1FAIpQLScvyKSQeeVHI59LRt627mECoVmukwQu4HiImph6NPjT4jqvQQ/viewform?usp=send_form)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 크래카
-  - 접수: 05. 07(화) ~ 05. 19(일)
-- __[엔지니어 네트워킹 파티, 빌드라포](https://festa.io/events/5245)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `벡엔드`
-  - 주최: 라포랩스
-  - 접수: 05. 14(화) ~ 05. 19(일)
 - __[Microsoft Build](https://build.microsoft.com)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 03. 15(금) ~ 05. 20(월)
+
 - __[네이버 클라우드 & 디딤365 & 씽킹데이터와 함께하는 Gaming day!](https://form.naver.com/response/-S2mEos2mFcyAU4j3kSk4w)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 네이버클라우드
@@ -210,6 +178,22 @@
   - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 16(목) ~ 05. 22(수)
+- __[AWSKRUG 자격증소모임 5월 22일(수) #스킬빌더를 이용한 AWS학습 및 자격증 취득 준비](https://www.meetup.com/awskrug/events/300898964/)__
+  - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(월) ~ 05. 22(수)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/301052548/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(월) ~ 05. 23(목)
+- __[증강 인류시대의 서막ㅣGenerative AI ODYSSEY](https://www.saltlux.com/pr/post/sac2024-%EC%A6%9D%EA%B0%95-%EC%9D%B8%EB%A5%98%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%84%9C%EB%A7%89%E3%85%A3generative-ai-odyssey-2/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 솔트록스
+  - 접수: 05. 20(월) ~ 05. 23(목)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/300991894/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(월) ~ 05. 23(목)
 - __[대구광역시 공공데이터 활용 창업경진대회 2024](https://dacon.io/competitions/official/236256/overview/description)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대구광역시
@@ -242,6 +226,14 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
   - 주최: CJ올리브네트웍스
   - 일시: 05. 27(월) ~ 05. 28(화)
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/301011378/)__
+  - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(월) ~ 05. 29(수)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301083060/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(월) ~ 05. 29(수)
 - __[한빛앤 MSA #2-6 기술과 건강을 잇다: 헬스케어 IT 개발자 가이드](https://festa.io/events/5169)__
   - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반` 
   - 주최: 한빛앤 MSA
@@ -258,6 +250,14 @@
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드` 
   - 주최: 원티드
   - 접수: 05. 14(화) ~ 05. 30(목)
+- __[데브콘 서울 : 오월엔 AI](https://festa.io/events/5272)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI` 
+  - 주최: K-DEVCON
+  - 접수: 05. 20(월) ~ 05. 30(목)
+- __[데이터 야놀자 2024](https://datayanolja.kr/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `데이터` 
+  - 주최: K-DEVCON
+  - 접수: 05. 20(월) ~ 05. 30(목)
 - __[파이콘 한국 2024 CFP 발표자 1차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
@@ -287,6 +287,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 07(화) ~ 06. 07(금)
+- __[2024 마이크로소프트 빌드 애프터 파티](https://festa.io/events/5273)__
+  - 분류: `오프라인(서울 종료)`, `무료`, `AI`
+  - 주최: Global AI Bootcamp organizers
+  - 접수: 05. 20(월) ~ 06. 07(금)
 - __[WWDC24](https://developer.apple.com/wwdc24/)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: Apple
