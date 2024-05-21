@@ -502,7 +502,7 @@
 | AI Link | [homepage](https://ailink.oopy.io/), [채팅방](https://open.kakao.com/o/g60UZDQf) |
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 | AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
-
+| C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
