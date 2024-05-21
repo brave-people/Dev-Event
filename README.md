@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-135-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-136-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -712,6 +712,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://kwabang.net"><img src="https://avatars.githubusercontent.com/u/43908654?v=4?s=100" width="100px;" alt="Gyeongtaek Kim"/><br /><sub><b>Gyeongtaek Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kwabang" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yujiniii"><img src="https://avatars.githubusercontent.com/u/50348197?v=4?s=100" width="100px;" alt="유진"/><br /><sub><b>유진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yujiniii" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://molonlabe.tistory.com/"><img src="https://avatars.githubusercontent.com/u/47514338?v=4?s=100" width="100px;" alt="크썸"/><br /><sub><b>크썸</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=twoo0220" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
