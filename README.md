@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[리눅스 기술면접 준비하는 방법](https://festa.io/events/5175)__
-  - 분류: `온라인`, `무료`, `기술일반`, `커리어`
-  - 주최: 리얼리눅스
-  - 접수: 04. 29(월) ~ 05. 21(화)
-
-- __[작은 서비스 조금씩 개선하기(개발 관점)](https://festa.io/events/5164)__
-  - 분류: `온라인`, `무료`, `기술일반`, `커리어`
-  - 주최: 한빛앤 MSA
-  - 접수: 04. 30(화) ~ 05. 21(화)
-- __[스킬빌더를 이용한 AWS학습 및 자격증 취득 준비](https://www.meetup.com/awskrug/events/300898964/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드 `
-  - 주최: AWSKRUG
-  - 접수: 05. 16(목) ~ 05. 21(화)
 - __[AI SEOUL SUMMIT](https://aiseoulsummit.kr/kor/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 05. 21(화) ~ 05. 22(수)
+  
 - __[테크 리드로 자라기: 동기 부여와 피드백](https://tech.goorm.io/ko/2405_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 한빛앤 MSA
@@ -258,6 +246,10 @@
   - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반` 
   - 주최: 부산광역시
   - 접수: 05. 20(월) ~ 05. 30(목)
+- __[개발자, 한 달에 책 한 권 읽기 2024년 5월~2024년 7월 모임](https://festa.io/events/5290)__
+  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반` 
+  - 주최: 코딩의 신
+  - 접수: 05. 22(수) ~ 05. 30(목)
 - __[파이콘 한국 2024 CFP 발표자 1차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
@@ -266,11 +258,19 @@
 <br />
 
 ## 24년 06월
+- __[6월 우아한테크세미나 | 글로벌 개발자로 성장하는 법](https://docs.google.com/forms/d/e/1FAIpQLSccwdF4OS81v1-q6d7MmRXVubMfarUtGuYOMalyZg2Gdc6Erg/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 우아한형제들
+  - 접수: 05. 22(수) ~ 06. 03(월)
+
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/301170960)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 22(수) ~ 06. 03(월)
 - __[구글 머신러닝 부트캠프 2024 모집](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글코리아
   - 접수: 05. 08(수) ~ 06. 05(수)
-
 - __[Tech 우수인재 양성을 위한 MLOps / Full stack 과정](https://festa.io/events/5229)__
   - 분류: `오프라인`, `무료`, `AI`, `교육`
   - 주최: 한국경제신문 with toss bank
