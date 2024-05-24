@@ -254,6 +254,10 @@
   - 분류: `오프라인(서울 서초)`, `유료`, `기술일반` 
   - 주최: 코딩의 신
   - 접수: 05. 22(수) ~ 05. 30(목)
+- __[FEConf 2024 연사 신청](https://docs.google.com/forms/d/e/1FAIpQLSdcp-7HKQnHIg64QQ--dwe07djNzSgTOwvnth7JFLGzhoFc0A/viewform)__
+  - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
+  - 주최: FEConf
+  - 접수: 05. 24(금) ~ 05. 31(금)
 - __[파이콘 한국 2024 CFP 발표자 1차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
