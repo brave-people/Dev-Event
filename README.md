@@ -137,43 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[AI SEOUL SUMMIT](https://aiseoulsummit.kr/kor/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 일시: 05. 21(화) ~ 05. 22(수)
-  
-- __[테크 리드로 자라기: 동기 부여와 피드백](https://tech.goorm.io/ko/2405_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 한빛앤 MSA
-  - 접수: 05. 13(월) ~ 05. 17(금)
-- __[제 3회 Clojure Korea 밋업](https://www.meetup.com/clojure-korea/events/299929522/)__
-  - 분류: `온라인`, `무료`, `기술일반`, `커리어`
-  - 주최: Clojure Korea
-  - 접수: 05. 03(금) ~ 05. 22(수)
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/301052548?utm_medium=email)__
-  - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 16(목) ~ 05. 22(수)
-- __[AWSKRUG 자격증소모임 5월 22일(수) #스킬빌더를 이용한 AWS학습 및 자격증 취득 준비](https://www.meetup.com/awskrug/events/300898964/)__
-  - 분류: `온라인`, `유료`, `기술일반`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 20(월) ~ 05. 22(수)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/301052548/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 05. 20(월) ~ 05. 23(목)
-- __[증강 인류시대의 서막ㅣGenerative AI ODYSSEY](https://www.saltlux.com/pr/post/sac2024-%EC%A6%9D%EA%B0%95-%EC%9D%B8%EB%A5%98%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%84%9C%EB%A7%89%E3%85%A3generative-ai-odyssey-2/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 솔트록스
-  - 접수: 05. 20(월) ~ 05. 23(목)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/300991894/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 05. 20(월) ~ 05. 23(목)
 - __[대구광역시 공공데이터 활용 창업경진대회 2024](https://dacon.io/competitions/official/236256/overview/description)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 대구광역시
   - 접수: 04. 15(월) ~ 05. 24(금)
+
 - __[게임 개발자 취업 성공 포트폴리오 패키지](https://udemy.wjtb.co.kr/event/id/250)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 유데미
@@ -254,6 +222,10 @@
   - 분류: `오프라인(서울 서초)`, `유료`, `기술일반` 
   - 주최: 코딩의 신
   - 접수: 05. 22(수) ~ 05. 30(목)
+- __[IT 커뮤니티/동아리 운영진 밋업](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUq5R3d7-6tpAgg5e5thiS5hUNFJMODFRS1Q5U1BXSk5QOVBEMUVINjRFVC4u)__
+  - 분류: `오프라인(서울 성동)`, `무료`, `기술일반` 
+  - 주최: 고용노동부
+  - 접수: 05. 24(금) ~ 05. 30(목)
 - __[FEConf 2024 연사 신청](https://docs.google.com/forms/d/e/1FAIpQLSdcp-7HKQnHIg64QQ--dwe07djNzSgTOwvnth7JFLGzhoFc0A/viewform)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
