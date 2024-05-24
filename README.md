@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-137-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-138-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -702,6 +702,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yujiniii"><img src="https://avatars.githubusercontent.com/u/50348197?v=4?s=100" width="100px;" alt="유진"/><br /><sub><b>유진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yujiniii" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://molonlabe.tistory.com/"><img src="https://avatars.githubusercontent.com/u/47514338?v=4?s=100" width="100px;" alt="크썸"/><br /><sub><b>크썸</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=twoo0220" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@choo121600"><img src="https://avatars.githubusercontent.com/u/54111883?v=4?s=100" width="100px;" alt="Yeonguk"/><br /><sub><b>Yeonguk</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=choo121600" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/minjj0905"><img src="https://avatars.githubusercontent.com/u/55120738?v=4?s=100" width="100px;" alt="KIM MIN JEONG"/><br /><sub><b>KIM MIN JEONG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minjj0905" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
