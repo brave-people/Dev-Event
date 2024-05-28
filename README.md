@@ -137,23 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[멋쟁이사자처럼 : 유니티 게임 스쿨 1기 모집](https://www.wanted.co.kr/events/techit-kdt-ugm-1st)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 05. 09(목) ~ 05. 27(월)
-
-- __[멋쟁이사자처럼 : 유니티 게임 스쿨 1기 모집](https://www.wanted.co.kr/events/techit-kdt-ugm-1st)__
-  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 05. 21(화) ~ 05. 27(월)
-- __[코드잇 스프린트 Career talk | SW 엔지니어](https://festa.io/events/5266)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 코드잇 스프린트
-  - 접수: 05. 21(화) ~ 05. 27(월)
 - __[.HACK 2024](https://dothack.io/)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `보안`, `기술일반` 
   - 주최: .HACK
   - 일시: 05. 27(월) ~ 05. 28(화)
+  
 - __[Cloudwave 3기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=214031)__
   - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
   - 주최: CJ올리브네트웍스
@@ -288,7 +276,7 @@
   - 주최: 애자일 코리아 밋업
   - 접수: 05. 27(월) ~ 06. 11(화)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
   - 접수: 05. 27(월) ~ 06. 22(토)
 - __[인포그랩 X GitLab 2024 GitLab 유저 컨퍼런스 - 실 유저로부터 듣는 사례 그리고 DevOps의 다양한 모습들](https://festa.io/events/5307)__
@@ -320,6 +308,10 @@
   - 주최: Scrum Korea
   - 접수: 03. 20(수) ~ 07. 04(목)
 
+- __[Go To Jeju 2024](https://festa.io/events/5326)__
+  - 분류: `오프라인(제주)`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 접수: 03. 20(수) ~ 07. 04(목)
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
