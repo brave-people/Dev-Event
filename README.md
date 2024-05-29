@@ -137,27 +137,11 @@
 <br />
 
 ## 24년 05월
-- __[.HACK 2024](https://dothack.io/)__
-  - 분류: `오프라인(서울 삼성동)`, `무료`, `보안`, `기술일반` 
-  - 주최: .HACK
-  - 일시: 05. 27(월) ~ 05. 28(화)
-  
-- __[Cloudwave 3기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=214031)__
-  - 분류: `오프라인(인천 연수구)`, `무료`, `교육`, `인프라` 
-  - 주최: CJ올리브네트웍스
-  - 일시: 05. 27(월) ~ 05. 28(화)
-- __[제2회 쿠버네티스 / 앱 현대화 테크 세미나](https://devocean.sk.com/events/view.do?id=199)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라` 
-  - 주최: DEVOCEAN
-  - 일시: 05. 28(화) 13:30 ~ 17:20
-- __[AWSKRUG 플랫폼엔지니어링x무신사](https://www.meetup.com/awskrug/events/301083060/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라` 
-  - 주최: AWSKRUG
-  - 일시: 05. 23(목) ~ 05. 28(화)
 - __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/301011378/)__
   - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 05. 20(월) ~ 05. 29(수)
+  
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301083060/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -219,6 +203,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 22(수) ~ 06. 03(월)
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/301151895/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 05. 29(수) ~ 06. 03(월)
 - __[구글 머신러닝 부트캠프 2024 모집](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글코리아
