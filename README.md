@@ -137,43 +137,6 @@
 <br />
 
 ## 24년 05월
-- __[한빛앤 MSA #2-6 기술과 건강을 잇다: 헬스케어 IT 개발자 가이드](https://festa.io/events/5169)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반` 
-  - 주최: 한빛앤 MSA
-  - 접수: 05. 16(목) ~ 05. 30(목)
-
-- __[실무사례로 보는 정보보안 개념 및 기술 | 프리온보딩 정보보안 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_infosec_2)__
-  - 분류: `온라인`, `무료`, `교육`, `보안` 
-  - 주최: 원티드
-  - 접수: 05. 14(화) ~ 05. 30(목)
-- __[안정적인 서비스를 위한 예외처리와 테스트 전략 | 프리온보딩 BE 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_be_20)__
-  - 분류: `온라인`, `무료`, `교육`, `벡엔드` 
-  - 주최: 원티드
-  - 접수: 05. 14(화) ~ 05. 30(목)
-- __[React Hook과 SPA 실전개발 with Next.js | 프리온보딩 FE 챌린지 6월](https://www.wanted.co.kr/events/pre_challenge_fe_22)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드` 
-  - 주최: 원티드
-  - 접수: 05. 14(화) ~ 05. 30(목)
-- __[데브콘 서울 : 오월엔 AI](https://festa.io/events/5272)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI` 
-  - 주최: K-DEVCON
-  - 접수: 05. 20(월) ~ 05. 30(목)
-- __[데이터 야놀자 2024](https://datayanolja.kr/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터` 
-  - 주최: K-DEVCON
-  - 접수: 05. 20(월) ~ 05. 30(목)
-- __[7th Code for Busan](https://www.dxchallenge.co.kr/events/7th-code-for-busan)__
-  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반` 
-  - 주최: 부산광역시
-  - 접수: 05. 20(월) ~ 05. 30(목)
-- __[개발자, 한 달에 책 한 권 읽기 2024년 5월~2024년 7월 모임](https://festa.io/events/5290)__
-  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반` 
-  - 주최: 코딩의 신
-  - 접수: 05. 22(수) ~ 05. 30(목)
-- __[IT 커뮤니티/동아리 운영진 밋업](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUq5R3d7-6tpAgg5e5thiS5hUNFJMODFRS1Q5U1BXSk5QOVBEMUVINjRFVC4u)__
-  - 분류: `오프라인(서울 성동)`, `무료`, `기술일반` 
-  - 주최: 고용노동부
-  - 접수: 05. 24(금) ~ 05. 30(목)
 - __[FEConf 2024 연사 신청](https://docs.google.com/forms/d/e/1FAIpQLSdcp-7HKQnHIg64QQ--dwe07djNzSgTOwvnth7JFLGzhoFc0A/viewform)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
@@ -223,6 +186,10 @@
   - 분류: `오프라인(서울 종료)`, `무료`, `AI`
   - 주최: Global AI Bootcamp organizers
   - 접수: 05. 20(월) ~ 06. 07(금)
+- __[WWDC24 Watch Party Korea](https://festa.io/events/5330)__
+  - 분류: `오프라인(서울 홍대)`, `유료`, `iOS`
+  - 주최: Apple Developer Academy Korea Alumni
+  - 접수: 05. 31(금) ~ 06. 09(일)
 - __[WWDC24](https://developer.apple.com/wwdc24/)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: Apple
@@ -247,6 +214,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`, `보안`
   - 주최: SANDS Lab
   - 접수: 05. 30(목) ~ 06. 12(수)
+- __[2024 구글 클라우드 NEXT Recap in 서울](https://forms.monday.com/forms/4ee88b5bc2be073fa08dce2ae09efe0d?r=use1)__
+  - 분류: `오프라인(서울)`, `온라인`, `무료`, `AI`
+  - 주최: SPH
+  - 접수: 05. 31(금) ~ 06. 12(수)
 - __[한빛앤 MSA #2-7 ‘서비스 장애’ 잘 이해하고 대비하기](https://festa.io/events/5260)__
   - 분류: `오프라인(서울 서대문구)`, `무료`, `벡엔드`
   - 주최: 한빛앤 MSA
@@ -255,6 +226,10 @@
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 애자일 코리아 밋업
   - 접수: 05. 27(월) ~ 06. 11(화)
+- __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
+  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 주최: AI Link
+  - 접수: 05. 31(금) ~ 06. 14(금)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
