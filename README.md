@@ -136,14 +136,6 @@
 
 <br />
 
-## 24년 05월
-- __[FEConf 2024 연사 신청](https://docs.google.com/forms/d/e/1FAIpQLSdcp-7HKQnHIg64QQ--dwe07djNzSgTOwvnth7JFLGzhoFc0A/viewform)__
-  - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
-  - 주최: FEConf
-  - 접수: 05. 24(금) ~ 05. 31(금)
-
-<br />
-
 ## 24년 06월
 - __[6월 우아한테크세미나 | 글로벌 개발자로 성장하는 법](https://docs.google.com/forms/d/e/1FAIpQLSccwdF4OS81v1-q6d7MmRXVubMfarUtGuYOMalyZg2Gdc6Erg/viewform)__
   - 분류: `온라인`, `무료`, `기술일반`
@@ -227,13 +219,17 @@
   - 주최: 애자일 코리아 밋업
   - 접수: 05. 27(월) ~ 06. 11(화)
 - __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
-  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
   - 접수: 05. 31(금) ~ 06. 14(금)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
   - 접수: 05. 27(월) ~ 06. 22(토)
+- __[파이콘 한국 2024 CFP 발표자 2차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
+  - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
+  - 주최: 파이콘 한국 준비위원회
+  - 접수: 06. 01(일) ~ 06. 22(일)
 - __[오픈소스 컨트리뷰션 아카데미 2024](https://www.contribution.ac/)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -254,10 +250,7 @@
   - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
   - 주최: 아이참 (iCharm)
   - 접수: 05. 27(월) ~ 06. 28(금)
-- __[파이콘 한국 2024 CFP 발표자 2차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
-  - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
-  - 주최: 파이콘 한국 준비위원회
-  - 접수: 06. 01(일) ~ 06. 22(일)
+
 
 <br />
 
@@ -309,19 +302,19 @@
 
 
 ## 24년 10월
-- __[GopherCon Korea 2024](https://festa.io/events/5098)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 04. 01(월) ~ 10. 31(목)
-
-- __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: K-PaaS
-  - 접수: 04. 01(월) ~ 10. 31(목)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: APPLE
   - 일시: 10. 25(금)
+
+- __[GopherCon Korea 2024](https://festa.io/events/5098)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 일시: 04. 01(월) ~ 10. 31(목)
+- __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: K-PaaS
+  - 접수: 04. 01(월) ~ 10. 31(목)
 
 <br />
 
