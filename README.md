@@ -123,7 +123,8 @@
               <a href="./end_event/2024/24_02.md"> 02월 </a>,
               <a href="./end_event/2024/24_03.md"> 03월 </a>,
               <a href="./end_event/2024/24_04.md"> 04월 </a>,
-              <a href="./end_event/2024/24_05.md"> 05월 </a>
+              <a href="./end_event/2024/24_05.md"> 05월 </a>,
+              <a href="./end_event/2024/24_06.md"> 06월 </a>
             </td>
         </tr>
         <tr>
@@ -137,23 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[6월 우아한테크세미나 | 글로벌 개발자로 성장하는 법](https://docs.google.com/forms/d/e/1FAIpQLSccwdF4OS81v1-q6d7MmRXVubMfarUtGuYOMalyZg2Gdc6Erg/viewform)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 우아한형제들
-  - 접수: 05. 22(수) ~ 06. 03(월)
-
-- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/301170960)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 22(수) ~ 06. 03(월)
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/301151895/)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 05. 29(수) ~ 06. 03(월)
 - __[구글 머신러닝 부트캠프 2024 모집](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글코리아
   - 접수: 05. 08(수) ~ 06. 05(수)
+
 - __[Tech 우수인재 양성을 위한 MLOps / Full stack 과정](https://festa.io/events/5229)__
   - 분류: `오프라인`, `무료`, `AI`, `교육`
   - 주최: 한국경제신문 with toss bank
@@ -226,6 +215,10 @@
   - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
   - 접수: 05. 31(금) ~ 06. 14(금)
+- __[2024 국제 스마트기술컨퍼런스(TechCon)](https://www.boothticket.com/ticket/?idx=11)__
+  - 분류: `오프라인`, `유료`, `AI`
+  - 주최: 스마트테크 코리아
+  - 접수: 06. 04(화) ~ 06. 17(월)
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `데이터`
   - 주최: AWSKRUG
@@ -292,6 +285,14 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 06. 03(월) ~ 07. 10(수)
+- __[프론트엔드 개발자 오르미 양성광정 6기](https://inthiswork.com/archives/126614)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 이스트소프트
+  - 접수: 06. 04(화) ~ 07. 22(월)
+- __[벡엔드 개발자 오르미 양성광정 6기](https://inthiswork.com/archives/126609)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 이스트소프트
+  - 접수: 06. 04(화) ~ 07. 22(월)
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
