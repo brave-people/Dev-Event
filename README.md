@@ -264,11 +264,15 @@
 <br />
 
 ## 24년 07월
+- __[Kafka와 Kafka Connect를 이용한 데이터 흐름 이해](https://docs.google.com/forms/d/e/1FAIpQLSecMOxDvlartQGaE3PVkxGaQ_acw3utwQQwjtb8cOtoI3OPjQ/viewform)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `벡엔드`
+  - 주최: GT Plus
+  - 접수: 06. 05(수) ~ 07. 03(수)
+
 - __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: Scrum Korea
   - 접수: 03. 20(수) ~ 07. 04(목)
-
 - __[2024년 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부
