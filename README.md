@@ -138,23 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 한국전자통신연구원
-  - 접수: 04. 18(목) ~ 06. 07(금)
-
-- __[2024 메타버스 개발자 경진대회](https://www.metaversedev.kr/registration)__
-  - 분류: `온라인`, `무료`, `기술일반`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 07(화) ~ 06. 07(금)
-- __[2024 마이크로소프트 빌드 애프터 파티](https://festa.io/events/5273)__
-  - 분류: `오프라인(서울 종료)`, `무료`, `AI`
-  - 주최: Global AI Bootcamp organizers
-  - 접수: 05. 20(월) ~ 06. 07(금)
 - __[WWDC24 Watch Party Korea](https://festa.io/events/5330)__
   - 분류: `오프라인(서울 홍대)`, `유료`, `iOS`
   - 주최: Apple Developer Academy Korea Alumni
   - 접수: 05. 31(금) ~ 06. 09(일)
+
 - __[WWDC24](https://developer.apple.com/wwdc24/)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: Apple
@@ -163,6 +151,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: DroidKnights Community
   - 접수: 05. 07(화) ~ 06. 10(월)
+- __[애자일 코리아 밋업 6월 "제품주도성장(PLG)과 애자일 코치"](https://festa.io/events/5312)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 애자일 코리아 밋업
+  - 접수: 05. 27(월) ~ 06. 11(화)
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: ArtByte
@@ -187,14 +179,6 @@
   - 분류: `온라인`, `무료`,`커리어`
   - 주최: 원티드
   - 접수: 06. 03(월) ~ 06. 12(수)
-- __[한빛앤 MSA #2-7 ‘서비스 장애’ 잘 이해하고 대비하기](https://festa.io/events/5260)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `벡엔드`
-  - 주최: 한빛앤 MSA
-  - 접수: 05. 21(화) ~ 06. 20(목)
-- __[애자일 코리아 밋업 6월 "제품주도성장(PLG)과 애자일 코치"](https://festa.io/events/5312)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 애자일 코리아 밋업
-  - 접수: 05. 27(월) ~ 06. 11(화)
 - __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
   - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
@@ -206,11 +190,15 @@
 - __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
   - 주최: 구름
-  - 접수: 06. 19(수) 19:00 ~ 20:30
+  - 일시: 06. 19(수) 19:00 ~ 20:30
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 06. 03(월) ~ 06. 20(목)
+- __[한빛앤 MSA #2-7 ‘서비스 장애’ 잘 이해하고 대비하기](https://festa.io/events/5260)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `벡엔드`
+  - 주최: 한빛앤 MSA
+  - 접수: 05. 21(화) ~ 06. 20(목)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
@@ -251,7 +239,7 @@
   - 분류: `오프라인 (서울 강남)`, `유료`, `모임`
   - 주최: GDG Korea WebTech
   - 접수: 06. 07(금) ~ 06. 28(금)
-- __[KotlinConf'24 Global in South Korea](https://festa.io/events/5362)__
+- __[KotlinConf'24 Global in South Korea](https://festa.io/events/5375)__
   - 분류: `오프라인 (서울 강남)`, `뮤료`, `기술일반`
   - 주최: KUG Seoul
   - 접수: 06. 07(금) ~ 06. 28(금)
