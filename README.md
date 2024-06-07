@@ -138,27 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[구글 머신러닝 부트캠프 2024 모집](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글코리아
-  - 접수: 05. 08(수) ~ 06. 05(수)
-
-- __[Tech 우수인재 양성을 위한 MLOps / Full stack 과정](https://festa.io/events/5229)__
-  - 분류: `오프라인`, `무료`, `AI`, `교육`
-  - 주최: 한국경제신문 with toss bank
-  - 접수: 05. 10(금) ~ 06. 05(수)
-- __[Kakao Tech Meet #6](https://festa.io/events/5243)__
-  - 분류: `오프라인(경기도 판교)`, `무료`, `기술일반`
-  - 주최: 카카오
-  - 접수: 05. 10(금) ~ 06. 05(수)
-- __[구글 머신러닝 부트캠프 2024](https://www.wanted.co.kr/events/google-machine-learning-bootcamp-kr-2024)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글
-  - 접수: 04. 29(월) ~ 06. 05(수)
 - __[제3회 ETRI 휴먼이해 인공지능 논문경진대회](https://aifactory.space/task/2790/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 한국전자통신연구원
   - 접수: 04. 18(목) ~ 06. 07(금)
+
 - __[2024 메타버스 개발자 경진대회](https://www.metaversedev.kr/registration)__
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 과학기술정보통신부
@@ -219,6 +203,10 @@
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: 스마트테크 코리아
   - 접수: 06. 04(화) ~ 06. 17(월)
+- __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
+  - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 06. 19(수) 19:00 ~ 20:30
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `데이터`
   - 주최: AWSKRUG
@@ -259,7 +247,14 @@
   - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
   - 주최: 아이참 (iCharm)
   - 접수: 05. 27(월) ~ 06. 28(금)
-
+- __[2024 채용 혹한기에서 살아남기](https://festa.io/events/5362)__
+  - 분류: `오프라인 (서울 강남)`, `유료`, `모임`
+  - 주최: GDG Korea WebTech
+  - 접수: 06. 07(금) ~ 06. 28(금)
+- __[KotlinConf'24 Global in South Korea](https://festa.io/events/5362)__
+  - 분류: `오프라인 (서울 강남)`, `뮤료`, `기술일반`
+  - 주최: KUG Seoul
+  - 접수: 06. 07(금) ~ 06. 28(금)
 
 <br />
 
