@@ -138,15 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[WWDC24 Watch Party Korea](https://festa.io/events/5330)__
-  - 분류: `오프라인(서울 홍대)`, `유료`, `iOS`
-  - 주최: Apple Developer Academy Korea Alumni
-  - 접수: 05. 31(금) ~ 06. 09(일)
-
 - __[WWDC24](https://developer.apple.com/wwdc24/)__
   - 분류: `온라인`, `무료`, `iOS`
   - 주최: Apple
   - 접수: 03. 26(화) ~ 06. 10(월)
+
 - __[DroidKnights 2024](https://festa.io/events/4990)__
   - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
   - 주최: DroidKnights Community
@@ -178,6 +174,10 @@
 - __[프리온보딩 커리어 킥오프 2024 Summer](https://www.wanted.co.kr/events/pre_kickoff_2024_summer)__
   - 분류: `온라인`, `무료`,`커리어`
   - 주최: 원티드
+  - 접수: 06. 03(월) ~ 06. 12(수)
+- __[검색엔진최적화(SEO)의 비젼과 이해 방법](https://okky.kr/articles/1503106?topic=it&page=1)__
+  - 분류: `온라인`, `무료`,`기술일반`
+  - 주최: SEO KOREA 커뮤니티
   - 접수: 06. 03(월) ~ 06. 12(수)
 - __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
   - 분류: `오프라인`, `유료`, `모임`, `AI`
@@ -256,6 +256,10 @@
   - 주최: GT Plus
   - 접수: 06. 05(수) ~ 07. 03(수)
 
+- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 06. 04(화) ~ 07. 01(월)
 - __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: Scrum Korea
@@ -276,6 +280,14 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 06. 03(월) ~ 07. 10(수)
+- __[2024 WASSUP42](https://festa.io/events/5373)__
+  - 분류: `온라인`, `유료`, `기술일반`, `모임`
+  - 주최: 2024 WASSUP42
+  - 접수: 06. 03(월) ~ 07. 12(금)
+- __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
+  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 스나이퍼팩토리
+  - 접수: 06. 10(월) ~ 07. 07(일)
 - __[프론트엔드 개발자 오르미 양성광정 6기](https://inthiswork.com/archives/126614)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 이스트소프트
