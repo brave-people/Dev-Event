@@ -138,39 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: ArtByte
-  - 접수: 05. 07(화) ~ 06. 12(수)
-
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5010)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: ArtByte
-  - 접수: 05. 07(화) ~ 06. 12(수)
-- __[I/O Extended Golang Korea 2024](https://festa.io/events/5181)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: Golang Korea
-  - 접수: 05. 07(화) ~ 06. 12(수)
-- __[SANDS Lab on Azure SEMINAR](https://www.onoffmix.com/event/301426)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`, `보안`
-  - 주최: SANDS Lab
-  - 접수: 05. 30(목) ~ 06. 12(수)
-- __[2024 구글 클라우드 NEXT Recap in 서울](https://forms.monday.com/forms/4ee88b5bc2be073fa08dce2ae09efe0d?r=use1)__
-  - 분류: `오프라인(서울)`, `온라인`, `무료`, `AI`
-  - 주최: SPH
-  - 접수: 05. 31(금) ~ 06. 12(수)
-- __[프리온보딩 커리어 킥오프 2024 Summer](https://www.wanted.co.kr/events/pre_kickoff_2024_summer)__
-  - 분류: `온라인`, `무료`,`커리어`
-  - 주최: 원티드
-  - 접수: 06. 03(월) ~ 06. 12(수)
-- __[검색엔진최적화(SEO)의 비젼과 이해 방법](https://okky.kr/articles/1503106?topic=it&page=1)__
-  - 분류: `온라인`, `무료`,`기술일반`
-  - 주최: SEO KOREA 커뮤니티
-  - 접수: 06. 03(월) ~ 06. 12(수)
 - __[프롬프트 엔지니어링 쉽게 접근해보기](https://www.ncloud.com/support/edu/810)__
   - 분류: `온라인`, `무료`,`AI`
   - 주최: 네이버 클라우드 플랫폼
   - 접수: 06. 12(수) ~ 06. 13(목)
+
 - __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
   - 분류: `오프라인`, `유료`, `모임`, `AI`
   - 주최: AI Link
@@ -191,6 +163,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 06. 12(수) ~ 06. 19(수)
+- __[클라우드바리스타 커뮤니티 제9차 컨퍼런스](https://webinaro.co.kr/Event/287)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
+  - 주최: 클라우드바리스타
+  - 접수: 06. 13(목) ~ 06. 19(수)
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `데이터`
   - 주최: AWSKRUG
@@ -247,6 +223,14 @@
   - 분류: `온라인`, `무료`, `기술일반`, `교육`
   - 주최: 원티드
   - 접수: 05. 27(월) ~ 06. 27(목)
+- __[React 아키텍처: 쉽게 시작하기 | 프리온보딩 FE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_fe_23)__
+  - 분류: `온라인`, `무료`, `프론트엔드`, `교육`
+  - 주최: 원티드
+  - 접수: 06. 12(수) ~ 06. 27(목)
+- __[프로젝트 유연함을 높이는 객체지향 첫걸음 | 프리온보딩 BE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_be_21)__
+  - 분류: `온라인`, `무료`, `벡엔드`, `교육`
+  - 주최: 원티드
+  - 접수: 06. 12(수) ~ 06. 27(목)
 - __[iMac으로 코딩 첫 걸음](https://festa.io/events/5316)__
   - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
   - 주최: 아이참 (iCharm)
@@ -263,11 +247,19 @@
 <br />
 
 ## 24년 07월
+- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 06. 05(수) ~ 07. 03(수)
+
 - __[Kafka와 Kafka Connect를 이용한 데이터 흐름 이해](https://docs.google.com/forms/d/e/1FAIpQLSecMOxDvlartQGaE3PVkxGaQ_acw3utwQQwjtb8cOtoI3OPjQ/viewform)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `벡엔드`
   - 주최: GT Plus
   - 접수: 06. 05(수) ~ 07. 03(수)
-
+- __[한빛앤 MSA #2-9 주니어 개발자를 위한 개발 일정 산출 노하우](https://festa.io/events/5395)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
+  - 주최: 한빛앤 MSA
+  - 접수: 06. 13(목) ~ 07. 03(수)
 - __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 멋쟁이사자처럼
