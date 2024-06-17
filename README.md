@@ -398,7 +398,7 @@
 | Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹                                    | [ausg.me](https://ausg.me/) |
 | DND | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체             | [dnd.ac](https://dnd.ac/) |
-| SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
+| SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](https://www.sopt.org/) |
 | 멋쟁이사자처럼 | 대학생 연합 동아리                                    | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
 | Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리         | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
 | 디프만 | 디자이너와 프로그래머가 만났을 때                            | [depromeet.com](https://www.depromeet.com/) |
