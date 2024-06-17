@@ -178,7 +178,7 @@
 - __[AUSG Public Big-Chat](https://umoh.io/ko/ausg-public-bigchat)__
   - 분류: `오프라인 (서울 강남)`, `무료`, `클라우드`, `백앤드`, `모임`
   - 주최: AWSKRUG University Students Group
-  - 일시: 06.24(월)
+  - 일시: 06. 24(월) 19:30 ~ 21:00
   - 접수: 06. 15(토) ~ 06. 20(금)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
