@@ -175,6 +175,11 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: SEO KOREA
   - 접수: 06. 14(금) ~ 06. 20(목)
+- __[AUSG Public Big-Chat](https://umoh.io/ko/ausg-public-bigchat)__
+  - 분류: `오프라인 (서울 강남)`, `무료`, `클라우드`, `백앤드`, `모임`
+  - 주최: AWSKRUG University Students Group
+  - 일시: 06. 24(월) 19:30 ~ 21:00
+  - 접수: 06. 15(토) ~ 06. 20(금)
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
@@ -231,6 +236,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`, `교육`
   - 주최: 원티드
   - 접수: 06. 12(수) ~ 06. 27(목)
+- __[AUSG 8th 모집](https://ausg.me/)__
+  - 분류: `오프라인 (서울 강남)`, `유료`, `클라우드`, `모임`
+  - 주최: AWSKRUG University Students Group
+  - 접수: 06. 14(금) ~ 06. 27(목)
 - __[iMac으로 코딩 첫 걸음](https://festa.io/events/5316)__
   - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
   - 주최: 아이참 (iCharm)
