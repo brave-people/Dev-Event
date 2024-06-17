@@ -138,15 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[AI Link 오프라인 밋업, '제3회 Beer Night'](https://docs.google.com/forms/d/e/1FAIpQLSdsYae604I-hhWWDnB-M2AfQDghdxb4Hm36HVfQW0dRSrooiQ/viewform)__
-  - 분류: `오프라인`, `유료`, `모임`, `AI`
-  - 주최: AI Link
-  - 접수: 05. 31(금) ~ 06. 14(금)
-
 - __[2024 국제 스마트기술컨퍼런스(TechCon)](https://www.boothticket.com/ticket/?idx=11)__
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: 스마트테크 코리아
   - 접수: 06. 04(화) ~ 06. 17(월)
+
 - __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -208,6 +204,10 @@
   - 분류: `오프라인(부산 중구)`, `유료`, `모임`, `기술일반`
   - 주최: 노이즈메이커
   - 접수: 06. 10(월) ~ 06. 24(월)
+- __[AWSKRUG 자격증소모임 너도 될 수 있어 아키텍트!](https://www.meetup.com/awskrug/events/301433499/)__
+  - 분류: `오프라인`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 17(월) ~ 06. 25(화)
 - __[AI 오디세이](https://festa.io/events/5244)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 해커그라운드
@@ -220,6 +220,14 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `데이터`
   - 주최: 한빛앤 MSA
   - 접수: 06. 12(수) ~ 06. 26(수)
+- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/301612957/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 06. 17(월) ~ 06. 26(수)
+- __[AWSKRUG 아키텍처 #architecture 48번째 소모임](https://www.meetup.com/awskrug/events/301554847/)__
+  - 분류: `오프라인(서울 을지로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 17(월) ~ 06. 26(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
@@ -269,6 +277,10 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
   - 주최: 한빛앤 MSA
   - 접수: 06. 13(목) ~ 07. 03(수)
+- __[Cloud Gaming Day](https://form.naver.com/response/LY1COWgAr8_vuKm9cUcaHg)__
+  - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
+  - 주최: 네이버 클라우드 & 디딤365 & 씽킹데이터
+  - 접수: 06. 17(월) ~ 07. 03(수)
 - __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 멋쟁이사자처럼
