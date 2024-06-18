@@ -9,7 +9,7 @@
 </div>
 
 <div align="right">
-   문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
+   📧 문의: <a href="http://github.com/koeonyack">covenant.ko@kakao.com </a>
 </div>
 <br />
 <br />
@@ -138,15 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[2024 국제 스마트기술컨퍼런스(TechCon)](https://www.boothticket.com/ticket/?idx=11)__
-  - 분류: `오프라인`, `유료`, `AI`
-  - 주최: 스마트테크 코리아
-  - 접수: 06. 04(화) ~ 06. 17(월)
-
 - __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
   - 주최: 구름
   - 일시: 06. 19(수) 19:00 ~ 20:30
+  
 - __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 11기 모집](https://www.dnd.ac/)__
   - 분류: `오프라인`, `온라인`, `무료`, `모임`
   - 주최: DND
@@ -174,8 +170,11 @@
 - __[AUSG Public Big-Chat](https://umoh.io/ko/ausg-public-bigchat)__
   - 분류: `오프라인 (서울 강남)`, `무료`, `클라우드`, `백앤드`, `모임`
   - 주최: AWSKRUG University Students Group
-  - 일시: 06. 24(월) 19:30 ~ 21:00
   - 접수: 06. 15(토) ~ 06. 20(금)
+- __[멀티/분산 클라우드, 차세대 클라우드를 향한 도전과 기회](https://webinaro.co.kr/Event/287)__
+  - 분류: `오프라인 (서울 서초)`, `무료`, `클라우드`
+  - 주최: 클라우드 바리스타 커뮤니티
+  - 일시: 06. 24(월) 16:10 ~ 18:00
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
@@ -333,6 +332,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 이스트소프트
   - 접수: 06. 04(화) ~ 07. 22(월)
+- __[2024 블록체인 경진대회 「BEST Challenge」](https://litt.ly/2024best)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 06. 14(금) ~ 07. 23(화)
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
