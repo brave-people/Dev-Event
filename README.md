@@ -256,9 +256,25 @@
   - 주최: GDG Korea WebTech
   - 접수: 06. 07(금) ~ 06. 28(금)
 - __[KotlinConf'24 Global in South Korea](https://festa.io/events/5375)__
-  - 분류: `오프라인 (서울 강남)`, `뮤료`, `기술일반`
+  - 분류: `오프라인 (서울 강남)`, `무료`, `기술일반`
   - 주최: KUG Seoul
   - 접수: 06. 07(금) ~ 06. 28(금)
+- __[풀스택 개발자 과정](https://k-digital.goorm.io/b2g/kdt/fullstack)__
+  - 분류: `온라인`, `무료`, `프론트엔드`, `백엔드`
+  - 주최: 구름
+  - 접수: 06. 03.(월) ~ 06. 24.(월)
+- __[정보 보안 전문가 과정](https://k-digital.goorm.io/b2g/kdt/cybersecurity)__
+  - 분류: `온라인`, `무료`, `교육`, `정보보안`
+  - 주최: 구름
+  - 접수: 06. 03.(월) ~ 06. 24.(월)
+- __[클라우드 네이티브 엔지니어링 과정](https://k-digital.goorm.io/b2g/kdt/cloud-native)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `클라우드`
+  - 주최: 구름
+  - 접수: 06. 03.(월) ~ 06. 24.(월)
+- __[생성형 AI 응용 서비스 개발자 과정](https://k-digital.goorm.io/b2g/kdt/gen-ai)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `생성형 AI`
+  - 주최: 구름
+  - 접수: 06. 03.(월) ~ 06. 24.(월)
 
 <br />
 
@@ -340,6 +356,22 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
   - 접수: 05. 27(월) ~ 07. 24(수)
+- __[프론트엔드 기반 프로덕트 디자이너 과정](https://k-digital.goorm.io/b2g/kdt/product-design)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `개발`, `UI/UX`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[프로덕트 매니지먼트 과정](https://k-digital.goorm.io/b2g/kdt/product-management)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `기획자`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[백엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/backend)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `Spring`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[프론트엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/frontend)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `React`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
 
 <br />
 
@@ -446,6 +478,7 @@
 | 코드잇 스프린트 | [Homepage](https://sprint.codeit.kr/) |
 | 스마일게이트 개발캠프 | [Homepage](https://careers.smilegate.com/student/development-camp) |
 | 코드스쿼드 | [Homepage](https://codesquad.kr/) |
+| 구름톤 트레이닝(9oormthon TRAINING) | [Homepage](https://kdt.goorm.io/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
