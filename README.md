@@ -231,6 +231,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 06. 17(월) ~ 06. 26(수)
+- __[[토스 프론트엔드 멘토링] Frontend Accelerator 1기](https://form.naver.com/response/WFFh5JnUpkaRFItp3rU0iQ)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 토스
+  - 접수: 06. 19(수) ~ 06. 26(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
