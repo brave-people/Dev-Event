@@ -235,6 +235,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 토스
   - 접수: 06. 19(수) ~ 06. 26(수)
+- __[[원티드X네이버클라우드] 생성형 AI 시대 직장인을 위한 프롬프톤](https://www.wanted.co.kr/events/2024_prompthon)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 06. 17(월) ~ 06. 26(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
