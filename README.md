@@ -332,6 +332,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: QA Korea Conference
   - 접수: 06. 03(월) ~ 07. 05(금)
+- __[2024 스마일게이트 AI 서비스 위클리톤](https://futurelab.center/front/program/program-view/754)__
+  - 분류: `오프라인`, `무료`, `AI`, `대회`
+  - 주최: FUTURE LAB
+  - 접수: 06. 11(화) ~ 07. 07(일)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301414888)__
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
