@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-140-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-141-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -775,6 +775,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/minjj0905"><img src="https://avatars.githubusercontent.com/u/55120738?v=4?s=100" width="100px;" alt="KIM MIN JEONG"/><br /><sub><b>KIM MIN JEONG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minjj0905" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pcsoyeon"><img src="https://avatars.githubusercontent.com/u/59593430?v=4?s=100" width="100px;" alt="소연"/><br /><sub><b>소연</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pcsoyeon" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://seokhun.dev"><img src="https://avatars.githubusercontent.com/u/63833290?v=4?s=100" width="100px;" alt="SeokHun"/><br /><sub><b>SeokHun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=SeokhunEom" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://solution-is-here.tistory.com"><img src="https://avatars.githubusercontent.com/u/104314593?v=4?s=100" width="100px;" alt="Yongjun Hong"/><br /><sub><b>Yongjun Hong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YongGoose" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
