@@ -138,11 +138,6 @@
 <br />
 
 ## 24년 06월
-- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
-  - 분류: `오프라인(SK telecom 삼화타워 3F, Room1)`, `유료`, `C++`
-  - 주최: C++ Korea
-  - 접수: 06.21 (금) ~ 06. 27 (목)
-  - 일시: 06.29 (토) 13:00 ~ 17:00
 - __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
   - 주최: 구름
@@ -240,6 +235,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 토스
   - 접수: 06. 19(수) ~ 06. 26(수)
+- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 06. 21(금) ~ 06. 27(목)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
