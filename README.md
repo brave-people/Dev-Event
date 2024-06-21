@@ -235,6 +235,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 토스
   - 접수: 06. 19(수) ~ 06. 26(수)
+- __[[원티드X네이버클라우드] 생성형 AI 시대 직장인을 위한 프롬프톤](https://www.wanted.co.kr/events/2024_prompthon)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 06. 17(월) ~ 06. 26(수)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
@@ -328,6 +332,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: QA Korea Conference
   - 접수: 06. 03(월) ~ 07. 05(금)
+- __[2024 스마일게이트 AI 서비스 위클리톤](https://futurelab.center/front/program/program-view/754)__
+  - 분류: `오프라인`, `무료`, `AI`, `대회`
+  - 주최: FUTURE LAB
+  - 접수: 06. 11(화) ~ 07. 07(일)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301414888)__
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
