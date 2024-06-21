@@ -138,43 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[더 나은 코드를 위한 켄트 벡의 Tidy First?](https://tech.goorm.io/ko/2406_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
-  - 분류: `온라인`,`오프라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 일시: 06. 19(수) 19:00 ~ 20:30
-  
-- __[사이드 프로젝트 개발자&디자이너 연합 동아리 DND 11기 모집](https://www.dnd.ac/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `모임`
-  - 주최: DND
-  - 접수: 06. 03(월) ~ 06. 19(수)
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 06. 12(수) ~ 06. 19(수)
-- __[클라우드바리스타 커뮤니티 제9차 컨퍼런스](https://webinaro.co.kr/Event/287)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
-  - 주최: 클라우드바리스타
-  - 접수: 06. 13(목) ~ 06. 19(수)
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/301415178)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 06. 03(월) ~ 06. 20(목)
-- __[한빛앤 MSA #2-7 ‘서비스 장애’ 잘 이해하고 대비하기](https://festa.io/events/5260)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `벡엔드`
-  - 주최: 한빛앤 MSA
-  - 접수: 05. 21(화) ~ 06. 20(목)
-- __[SEO KOREA 검색엔진최적화의 이론강의](https://festa.io/events/5400)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: SEO KOREA
-  - 접수: 06. 14(금) ~ 06. 20(목)
-- __[AUSG Public Big-Chat](https://umoh.io/ko/ausg-public-bigchat)__
-  - 분류: `오프라인 (서울 강남)`, `무료`, `클라우드`, `백앤드`, `모임`
-  - 주최: AWSKRUG University Students Group
-  - 접수: 06. 15(토) ~ 06. 20(금)
 - __[멀티/분산 클라우드, 차세대 클라우드를 향한 도전과 기회](https://webinaro.co.kr/Event/287)__
   - 분류: `오프라인 (서울 서초)`, `무료`, `클라우드`
   - 주최: 클라우드 바리스타 커뮤니티
   - 일시: 06. 24(월) 16:10 ~ 18:00
+
 - __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: 레모네이드
@@ -232,7 +200,7 @@
   - 주최: AWSKRUG
   - 접수: 06. 17(월) ~ 06. 26(수)
 - __[[토스 프론트엔드 멘토링] Frontend Accelerator 1기](https://form.naver.com/response/WFFh5JnUpkaRFItp3rU0iQ)__
-  - 분류: `온라인`, `무료`, `클라우드`
+  - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 토스
   - 접수: 06. 19(수) ~ 06. 26(수)
 - __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
@@ -291,6 +259,10 @@
   - 분류: `실시간 비대면`, `무료`, `교육`, `생성형 AI`
   - 주최: 구름
   - 접수: 06. 03.(월) ~ 06. 24.(월)
+- __[채용 불황에도 개발자 중고신입으로 취업하는 법](https://hanghae99.spartacodingclub.kr/webinar/mid-career-transition)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 항해99
+  - 접수: 06. 21(금) ~ 06. 24(월)
 
 <br />
 
@@ -344,6 +316,10 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 06. 03(월) ~ 07. 10(수)
+- __[제로베이스에서 유능한 QA로 성장하는 소프트웨어 테스트의 모든 것](https://event-us.kr/FKH3nHkjmPGh/event/86185)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
+  - 주최: 한빛미디어
+  - 접수: 06. 20(목) ~ 07. 11(목)
 - __[2024 WASSUP42](https://festa.io/events/5373)__
   - 분류: `온라인`, `유료`, `기술일반`, `모임`
   - 주최: 2024 WASSUP42
@@ -392,6 +368,10 @@
   - 분류: `실시간 비대면`, `무료`, `교육`, `React`
   - 주최: 구름
   - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[해커그라운드 해커톤 2024](https://github.com/hackersground-kr/hackers-ground)__
+  - 분류: `오프라인(경북 의성)`, `무료`, `대회`
+  - 주최: 의성군
+  - 접수: 06. 19(수) ~ 07. 28(일)
 
 <br />
 
