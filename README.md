@@ -328,6 +328,10 @@
   - 분류: `온라인`, `유료`, `기술일반`, `모임`
   - 주최: 2024 WASSUP42
   - 접수: 06. 03(월) ~ 07. 12(금)
+- __[with CTO: 2nd meet](https://festa.io/events/5373)__
+  - 분류: `오프라인`, `무료`, `기술일반`, `모임`
+  - 주최: 프루퍼
+  - 접수: 06. 25(화) ~ 07. 12(금)
 - __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 스나이퍼팩토리
@@ -379,6 +383,10 @@
 - __[2024 MeetLab](https://festa.io/events/5460)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Coding Lab
+  - 접수: 06. 24(월) ~ 07. 26(금)
+- __[오라클 클라우드 서비스 웹 어플리케이션 구축 및 유지 관리](https://docs.google.com/forms/d/e/1FAIpQLSdFSrNPtkLOXmgPsQ_bUyZqYNNQw1z46Ismx47p0UAFU3_nTw/viewform)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: GT Plus
   - 접수: 06. 24(월) ~ 07. 26(금)
 - __[해커그라운드 해커톤 2024](https://github.com/hackersground-kr/hackers-ground)__
   - 분류: `오프라인(경북 의성)`, `무료`, `대회`
