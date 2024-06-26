@@ -143,46 +143,6 @@
   - 주최: 클라우드 바리스타 커뮤니티
   - 일시: 06. 24(월) 16:10 ~ 18:00
 
-- __[슈퍼우먼 컨퍼런스](https://lemon.mylight.co.kr/?utm_source=platform&utm_medium=github_dev_event&utm_campaign=womencon)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
-  - 주최: 레모네이드
-  - 접수: 05. 27(월) ~ 06. 22(토)
-- __[파이콘 한국 2024 CFP 발표자 2차 모집](https://docs.google.com/forms/d/e/1FAIpQLSdXXxakv9IZa_Se9DQzG3Kf8qc_ADIlyyTS5h7r20ENSfD6MA/viewform)__
-  - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
-  - 주최: 파이콘 한국 준비위원회
-  - 접수: 06. 01(일) ~ 06. 22(일)
-- __[왓캐스트: 서류탈락 80%, '이것'때문에 떨어진다.](https://festa.io/events/5391)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: Whatever
-  - 접수: 06. 12(수 ) ~ 06. 23(일)
-- __[오픈소스 컨트리뷰션 아카데미 2024](https://www.contribution.ac/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 24(금) ~ 06. 23(일)
-- __[GDSC Ewha 5th Demo Day](https://festa.io/events/5321)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: GDSC Ewha Womans University
-  - 접수: 06. 03(월) ~ 06. 23(일)
-- __[인포그랩 X GitLab 2024 GitLab 유저 컨퍼런스 - 실 유저로부터 듣는 사례 그리고 DevOps의 다양한 모습들](https://festa.io/events/5307)__
-  - 분류: `오프라인(서울 양재)`, `무료`, `인프라`
-  - 주최: InfoGrab X GitLabKorea
-  - 접수: 05. 27(월) ~ 06. 24(월)
-- __[노이즈메이커 오프라인 밋업](https://tally.so/r/mRzV9K)__
-  - 분류: `오프라인(부산 중구)`, `유료`, `모임`, `기술일반`
-  - 주최: 노이즈메이커
-  - 접수: 06. 10(월) ~ 06. 24(월)
-- __[AWSKRUG 자격증소모임 너도 될 수 있어 아키텍트!](https://www.meetup.com/awskrug/events/301433499/)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 25(화)
-- __[AI 오디세이](https://festa.io/events/5244)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 해커그라운드
-  - 접수: 05. 13(월) ~ 06. 25(화)
-- __[2024 현대모비스 알고리즘 경진대회](https://career.programmers.co.kr/competitions/3980)__
-  - 분류: `온라인`, `무료`, `알고리즘`, `대회`
-  - 주최: 현대모비스
-  - 접수: 05. 29(수) ~ 06. 25(화)
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/301414701/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
@@ -203,14 +163,14 @@
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 토스
   - 접수: 06. 19(수) ~ 06. 26(수)
-- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 06. 21(금) ~ 06. 27(목)
 - __[[원티드X네이버클라우드] 생성형 AI 시대 직장인을 위한 프롬프톤](https://www.wanted.co.kr/events/2024_prompthon)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 06. 17(월) ~ 06. 26(수)
+- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 06. 21(금) ~ 06. 27(목)
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
@@ -243,40 +203,23 @@
   - 분류: `오프라인 (서울 강남)`, `무료`, `기술일반`
   - 주최: KUG Seoul
   - 접수: 06. 07(금) ~ 06. 28(금)
-- __[풀스택 개발자 과정](https://k-digital.goorm.io/b2g/kdt/fullstack)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `백엔드`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[정보 보안 전문가 과정](https://k-digital.goorm.io/b2g/kdt/cybersecurity)__
-  - 분류: `온라인`, `무료`, `교육`, `보안`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[클라우드 네이티브 엔지니어링 과정](https://k-digital.goorm.io/b2g/kdt/cloud-native)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `클라우드`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[생성형 AI 응용 서비스 개발자 과정](https://k-digital.goorm.io/b2g/kdt/gen-ai)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `생성형 AI`
-  - 주최: 구름
-  - 접수: 06. 03.(월) ~ 06. 24.(월)
-- __[채용 불황에도 개발자 중고신입으로 취업하는 법](https://hanghae99.spartacodingclub.kr/webinar/mid-career-transition)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 항해99
-  - 접수: 06. 21(금) ~ 06. 24(월)
 
 <br />
 
 ## 24년 07월
+- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 06. 04(화) ~ 07. 01(월)
+
 - __[2024 데이터센터 서밋 코리아](https://www.sek.co.kr/apply.php?sn=571)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 전자신문사
   - 접수: 06. 04(화) ~ 07. 01(월)
-
 - __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 06. 05(수) ~ 07. 03(수)
-
 - __[Kafka와 Kafka Connect를 이용한 데이터 흐름 이해](https://docs.google.com/forms/d/e/1FAIpQLSecMOxDvlartQGaE3PVkxGaQ_acw3utwQQwjtb8cOtoI3OPjQ/viewform)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `벡엔드`
   - 주최: GT Plus
@@ -289,10 +232,6 @@
   - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
   - 주최: 네이버 클라우드 & 디딤365 & 씽킹데이터
   - 접수: 06. 17(월) ~ 07. 03(수)
-- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 06. 04(화) ~ 07. 01(월)
 - __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: Scrum Korea
@@ -321,6 +260,26 @@
   - 분류: `오프라인(경주)`, `무료`, `대회`
   - 주최: 경상북도
   - 접수: 06. 24(화) ~ 07. 07(일)
+- __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
+  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 스나이퍼팩토리
+  - 접수: 06. 10(월) ~ 07. 07(일)
+- __[프론트엔드 기반 프로덕트 디자이너 과정](https://k-digital.goorm.io/b2g/kdt/product-design)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `개발`, `UI/UX`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[프로덕트 매니지먼트 과정](https://k-digital.goorm.io/b2g/kdt/product-management)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `기획자`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[백엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/backend)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `Spring`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
+- __[프론트엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/frontend)__
+  - 분류: `실시간 비대면`, `무료`, `교육`, `React`
+  - 주최: 구름
+  - 접수: 06. 14.(금) ~ 07. 08.(월)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/301414888)__
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -337,10 +296,6 @@
   - 분류: `오프라인`, `무료`, `기술일반`, `모임`
   - 주최: 프루퍼
   - 접수: 06. 25(화) ~ 07. 12(금)
-- __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 스나이퍼팩토리
-  - 접수: 06. 10(월) ~ 07. 07(일)
 - __[프론트엔드 개발자를 위한 풀스택 과정](https://camp.orm.im/js-full-stack)__
   - 분류: `온라인`, `무료`, `프론트엔드`, `벡엔드`
   - 주최: 모두의 연구소
@@ -369,22 +324,6 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
   - 접수: 05. 27(월) ~ 07. 24(수)
-- __[프론트엔드 기반 프로덕트 디자이너 과정](https://k-digital.goorm.io/b2g/kdt/product-design)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `개발`, `UI/UX`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[프로덕트 매니지먼트 과정](https://k-digital.goorm.io/b2g/kdt/product-management)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `기획자`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[백엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/backend)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `Spring`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
-- __[프론트엔드 개발자 과정](https://k-digital.goorm.io/b2g/kdt/frontend)__
-  - 분류: `실시간 비대면`, `무료`, `교육`, `React`
-  - 주최: 구름
-  - 접수: 06. 14.(금) ~ 07. 08.(월)
 - __[2024 MeetLab](https://festa.io/events/5460)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Coding Lab
