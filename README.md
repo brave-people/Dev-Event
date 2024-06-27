@@ -138,39 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[멀티/분산 클라우드, 차세대 클라우드를 향한 도전과 기회](https://webinaro.co.kr/Event/287)__
-  - 분류: `오프라인 (서울 서초)`, `무료`, `클라우드`
-  - 주최: 클라우드 바리스타 커뮤니티
-  - 일시: 06. 24(월) 16:10 ~ 18:00
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/301414701/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 06. 12(수) ~ 06. 26(수)
-- __[한빛앤 MSA #2-8 데이터베이스 활용도 끌어올리기](https://festa.io/events/5332)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `데이터`
-  - 주최: 한빛앤 MSA
-  - 접수: 06. 12(수) ~ 06. 26(수)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/301612957/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 26(수)
-- __[AWSKRUG 아키텍처 #architecture 48번째 소모임](https://www.meetup.com/awskrug/events/301554847/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(월) ~ 06. 26(수)
-- __[[토스 프론트엔드 멘토링] Frontend Accelerator 1기](https://form.naver.com/response/WFFh5JnUpkaRFItp3rU0iQ)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 토스
-  - 접수: 06. 19(수) ~ 06. 26(수)
-- __[[원티드X네이버클라우드] 생성형 AI 시대 직장인을 위한 프롬프톤](https://www.wanted.co.kr/events/2024_prompthon)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 06. 17(월) ~ 06. 26(수)
 - __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
   - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
   - 주최: C++ Korea
   - 접수: 06. 21(금) ~ 06. 27(목)
+
 - __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
@@ -304,6 +276,14 @@
   - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
   - 주최: GDG Busan
   - 접수: 06. 24(월) ~ 07. 12(금)
+- __[새싹 해커톤](https://dacon.io/competitions/official/236293/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 서울경제진흥원
+  - 접수: 06. 27(목) ~ 07. 12(금)
+- __[Autify : AI-Powered Test Automation Platform](https://thefutureinside.lgcns.com/CNSEvent/Detail/192?ibch=et04)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: LG CNS
+  - 접수: 06. 27(목) ~ 07. 16(화)
 - __[알고리즘 코드 챌린지](https://okky.kr/articles/1503884?topic=it&page=1)__
   - 분류: `온라인`, `무료`, `알고리즘`, `대회`
   - 주최: 엘리스
