@@ -138,35 +138,11 @@
 <br />
 
 ## 24년 06월
-- __[C++ Korea 2024 Meet-Up & Hands-On](https://festa.io/events/5296)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 06. 21(금) ~ 06. 27(목)
-
-- __[Google Cloud Summit Seoul ’24](https://cloudonair.withgoogle.com/events/summit-seoul-2024)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 구글 클라우드
-  - 접수: 04. 22(월) ~ 06. 27(목)
-- __[카이스트 정글 9기 & 크래프톤 정글 7기 모집](https://www.wanted.co.kr/events/swjungle)__
-  - 분류: `온라인`, `무료`, `기술일반`, `교육`
-  - 주최: 원티드
-  - 접수: 05. 27(월) ~ 06. 27(목)
-- __[React 아키텍처: 쉽게 시작하기 | 프리온보딩 FE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_fe_23)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `교육`
-  - 주최: 원티드
-  - 접수: 06. 12(수) ~ 06. 27(목)
-- __[프로젝트 유연함을 높이는 객체지향 첫걸음 | 프리온보딩 BE 챌린지 7월](https://www.wanted.co.kr/events/pre_challenge_be_21)__
-  - 분류: `온라인`, `무료`, `벡엔드`, `교육`
-  - 주최: 원티드
-  - 접수: 06. 12(수) ~ 06. 27(목)
-- __[AUSG 8th 모집](https://ausg.me/)__
-  - 분류: `오프라인 (서울 강남)`, `유료`, `클라우드`, `모임`
-  - 주최: AWSKRUG University Students Group
-  - 접수: 06. 14(금) ~ 06. 27(목)
 - __[iMac으로 코딩 첫 걸음](https://festa.io/events/5316)__
   - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
   - 주최: 아이참 (iCharm)
   - 접수: 05. 27(월) ~ 06. 28(금)
+  
 - __[2024 채용 혹한기에서 살아남기](https://festa.io/events/5362)__
   - 분류: `오프라인 (서울 강남)`, `유료`, `모임`
   - 주최: GDG Korea WebTech
@@ -209,7 +185,7 @@
   - 주최: 네이버 클라우드 & 디딤365 & 씽킹데이터
   - 접수: 06. 17(월) ~ 07. 03(수)
 - __[오직 초보를 위한 원데이 파이썬 부트캠프](https://festa.io/events/5503)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `기술일반`
+  - 분류: `오프라인(서울 성수)`, `무료`, `데이터`, `교육`
   - 주최: Scrum Korea
   - 접수: 03. 20(수) ~ 07. 04(목)
 - __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
