@@ -137,23 +137,6 @@
 
 <br />
 
-## 24년 06월
-- __[iMac으로 코딩 첫 걸음](https://festa.io/events/5316)__
-  - 분류: `오프라인 (부산 해운대구)`, `무료`, `교육`
-  - 주최: 아이참 (iCharm)
-  - 접수: 05. 27(월) ~ 06. 28(금)
-  
-- __[2024 채용 혹한기에서 살아남기](https://festa.io/events/5362)__
-  - 분류: `오프라인 (서울 강남)`, `유료`, `모임`
-  - 주최: GDG Korea WebTech
-  - 접수: 06. 07(금) ~ 06. 28(금)
-- __[KotlinConf'24 Global in South Korea](https://festa.io/events/5375)__
-  - 분류: `오프라인 (서울 강남)`, `무료`, `기술일반`
-  - 주최: KUG Seoul
-  - 접수: 06. 07(금) ~ 06. 28(금)
-
-<br />
-
 ## 24년 07월
 - __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
   - 분류: `온라인`, `무료`, `AI`
@@ -248,6 +231,10 @@
   - 분류: `온라인`, `유료`, `기술일반`, `모임`
   - 주최: 2024 WASSUP42
   - 접수: 06. 03(월) ~ 07. 12(금)
+- __[SPARCS AI Startup Hackathon 2024](https://event.sparcs.org/sash24)__
+  - 분류: `오프라인(대전)`, `무료`, `대회`
+  - 주최: KAIST
+  - 접수: 06. 03(월) ~ 07. 12(금)
 - __[with CTO: 2nd meet](https://festa.io/events/5373)__
   - 분류: `오프라인`, `무료`, `기술일반`, `모임`
   - 주최: 프루퍼
@@ -265,6 +252,10 @@
   - 주최: 서울경제진흥원
   - 접수: 06. 27(목) ~ 07. 12(금)
 - __[Autify : AI-Powered Test Automation Platform](https://thefutureinside.lgcns.com/CNSEvent/Detail/192?ibch=et04)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: LG CNS
+  - 접수: 06. 27(목) ~ 07. 16(화)
+- __[멋쟁이사자처럼 프론트엔드 스쿨 11기](https://www.wanted.co.kr/events/techit-kdt-frontend-11th)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: LG CNS
   - 접수: 06. 27(목) ~ 07. 16(화)
