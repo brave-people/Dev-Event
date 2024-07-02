@@ -138,19 +138,11 @@
 <br />
 
 ## 24년 07월
-- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 06. 04(화) ~ 07. 01(월)
-
 - __[부스트캠프 2024 AI](https://boostcamp.connect.or.kr/guide_ai.html)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`, `교육`
   - 주최: 전자신문사
   - 접수: 05. 08(수) ~ 07. 02(화)
-- __[2024 데이터센터 서밋 코리아](https://www.sek.co.kr/apply.php?sn=571)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 전자신문사
-  - 접수: 06. 04(화) ~ 07. 01(월)
+
 - __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
