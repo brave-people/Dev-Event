@@ -1284,6 +1284,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "guesung",
+      "name": "Kuesung Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62178788?v=4",
+      "profile": "https://blog.guesung.site",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
