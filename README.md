@@ -124,7 +124,8 @@
               <a href="./end_event/2024/24_03.md"> 03월 </a>,
               <a href="./end_event/2024/24_04.md"> 04월 </a>,
               <a href="./end_event/2024/24_05.md"> 05월 </a>,
-              <a href="./end_event/2024/24_06.md"> 06월 </a>
+              <a href="./end_event/2024/24_06.md"> 06월 </a>,
+              <a href="./end_event/2024/24_07.md"> 07월 </a>
             </td>
         </tr>
         <tr>
@@ -138,51 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[부스트캠프 2024 AI](https://boostcamp.connect.or.kr/guide_ai.html)__
-  - 분류: `온라인`, `오프라인`, `무료`, `AI`, `교육`
-  - 주최: 전자신문사
-  - 접수: 05. 08(수) ~ 07. 02(화)
-
-- __[AI 웹 서비스 스쿨 1기](https://www.wanted.co.kr/events/techit-kdt-aiw-1st)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 06. 05(수) ~ 07. 03(수)
-- __[Kafka와 Kafka Connect를 이용한 데이터 흐름 이해](https://docs.google.com/forms/d/e/1FAIpQLSecMOxDvlartQGaE3PVkxGaQ_acw3utwQQwjtb8cOtoI3OPjQ/viewform)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `벡엔드`
-  - 주최: GT Plus
-  - 접수: 06. 05(수) ~ 07. 03(수)
-- __[한빛앤 MSA #2-9 주니어 개발자를 위한 개발 일정 산출 노하우](https://festa.io/events/5395)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `벡엔드`
-  - 주최: 한빛앤 MSA
-  - 접수: 06. 13(목) ~ 07. 03(수)
-- __[Cloud Gaming Day](https://form.naver.com/response/LY1COWgAr8_vuKm9cUcaHg)__
-  - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
-  - 주최: 네이버 클라우드 & 디딤365 & 씽킹데이터
-  - 접수: 06. 17(월) ~ 07. 03(수)
-- __[오직 초보를 위한 원데이 파이썬 부트캠프](https://festa.io/events/5503)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `데이터`, `교육`
-  - 주최: Scrum Korea
-  - 접수: 03. 20(수) ~ 07. 04(목)
-- __[Regional Scrum Gathering Seoul 2024](https://scrum-korea.com/rsgseoul24/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
-  - 주최: Scrum Korea
-  - 접수: 03. 20(수) ~ 07. 04(목)
-- __[2024년 공개SW 개발자대회](https://www.oss.kr/dev_competition)__
-  - 분류: `온라인`, `무료`, `대회`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 29(수) ~ 07. 04(목)
-- __[Go To Jeju 2024](https://festa.io/events/5326)__
-  - 분류: `오프라인(제주)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 접수: 03. 20(수) ~ 07. 04(목)
-- __[제10회 대학생 프로그래밍 경진대회](https://bit.ly/4bZTYb2)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 삼성전자
-  - 접수: 06. 04(화) ~ 07. 04(목)
 - __[2024 3rd QA Korea Conference](https://festa.io/events/5301)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: QA Korea Conference
   - 접수: 06. 03(월) ~ 07. 05(금)
+
 - __[2024 스마일게이트 AI 서비스 위클리톤](https://futurelab.center/front/program/program-view/754)__
   - 분류: `오프라인`, `무료`, `AI`, `대회`
   - 주최: FUTURE LAB
@@ -336,6 +297,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 일시: 05. 17(금) ~ 08. 12(토)
+- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/301993194/)__
+  - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 07. 05(금) ~ 08. 14(수)
+- __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/301974601/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 07. 05(금) ~ 09. 19(월)
 - __[FEConf 2024](https://2024.feconf.kr/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
@@ -347,7 +316,7 @@
 ## 24년 10월
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
-  - 주최: APPLE
+  - 주최: KWDC 준비위원회
   - 일시: 10. 25(금)
   
 - __[파이콘 한국 2024](https://2024.pycon.kr/)__
