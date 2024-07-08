@@ -139,27 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[2024 3rd QA Korea Conference](https://festa.io/events/5301)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: QA Korea Conference
-  - 접수: 06. 03(월) ~ 07. 05(금)
-
-- __[2024 스마일게이트 AI 서비스 위클리톤](https://futurelab.center/front/program/program-view/754)__
-  - 분류: `오프라인`, `무료`, `AI`, `대회`
-  - 주최: FUTURE LAB
-  - 접수: 06. 11(화) ~ 07. 07(일)
-- __[JUNCTION ASIA 2024](https://eu.junctionplatform.com/events/junction-asia-2024)__
-  - 분류: `오프라인(경주)`, `무료`, `대회`
-  - 주최: 경상북도
-  - 접수: 06. 24(화) ~ 07. 07(일)
-- __[프로젝트 캠프 : Next.js 과정 2기](https://sniperfactory.com/course/project-camp-nextjs2)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 스나이퍼팩토리
-  - 접수: 06. 10(월) ~ 07. 07(일)
 - __[프론트엔드 기반 프로덕트 디자이너 과정](https://k-digital.goorm.io/b2g/kdt/product-design)__
   - 분류: `실시간 비대면`, `무료`, `교육`, `개발`, `UI/UX`
   - 주최: 구름
   - 접수: 06. 14.(금) ~ 07. 08.(월)
+
 - __[프로덕트 매니지먼트 과정](https://k-digital.goorm.io/b2g/kdt/product-management)__
   - 분류: `실시간 비대면`, `무료`, `교육`, `기획자`
   - 주최: 구름
@@ -220,6 +204,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 레블업
   - 접수: 07. 02(화) ~ 07. 17(수)
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/302096534)__
+  - 분류: `오프라인(경기 판교)`, `유료`, `클라우드`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 07. 08(월) ~ 07. 17(수)
 - __[알고리즘 코드 챌린지](https://okky.kr/articles/1503884?topic=it&page=1)__
   - 분류: `온라인`, `무료`, `알고리즘`, `대회`
   - 주최: 엘리스
@@ -309,6 +297,10 @@
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
   - 일시: 08. 24(토)
+- __[2024년 천안시 데이터 분석 아이디어 경진대회](https://www.code-c.kr/post/contest/514698)__
+  - 분류: `온라인`, `무료`, `데이터`, `대회`
+  - 주최: 천안시
+  - 접수: 07. 03(수) ~ 08. 25(일)
 
 <br />
 
