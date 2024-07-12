@@ -139,15 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[제로베이스에서 유능한 QA로 성장하는 소프트웨어 테스트의 모든 것](https://event-us.kr/FKH3nHkjmPGh/event/86185)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
-  - 주최: 한빛미디어
-  - 접수: 06. 20(목) ~ 07. 11(목)
-
 - __[2024 WASSUP42](https://festa.io/events/5373)__
   - 분류: `온라인`, `유료`, `기술일반`, `모임`
   - 주최: 2024 WASSUP42
   - 접수: 06. 03(월) ~ 07. 12(금)
+
 - __[SPARCS AI Startup Hackathon 2024](https://event.sparcs.org/sash24)__
   - 분류: `오프라인(대전)`, `무료`, `대회`
   - 주최: KAIST
@@ -297,6 +293,10 @@
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 천안시
   - 접수: 07. 03(수) ~ 08. 25(일)
+- __[코드트리 방학 조별과제](https://www.codetree.ai/forum/no-free-lunch/home)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 코드트리
+  - 접수: 07. 12(금) ~ 08. 25(일)
 - __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
@@ -304,6 +304,18 @@
 
 <br />
 
+## 24년 09월
+- __[Open Source Communities in Asia](https://2024.openinfraasia.org/)__
+  - 분류: `오프라인(수원)`, `유료`, `기술일반`
+  - 주최: OpenInfra Summit Asia
+  - 일시: 09. 03(화) ~ 09. 04(수)
+
+- __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
+  - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
+  - 주최: OpenInfra Summit Asia
+  - 일시: 09. 24(화)
+
+<br />
 
 ## 24년 10월
 - __[KWDC24](https://kwdc.dev/2024/)__
