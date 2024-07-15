@@ -139,35 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[2024 WASSUP42](https://festa.io/events/5373)__
-  - 분류: `온라인`, `유료`, `기술일반`, `모임`
-  - 주최: 2024 WASSUP42
-  - 접수: 06. 03(월) ~ 07. 12(금)
-
-- __[SPARCS AI Startup Hackathon 2024](https://event.sparcs.org/sash24)__
-  - 분류: `오프라인(대전)`, `무료`, `대회`
-  - 주최: KAIST
-  - 접수: 06. 03(월) ~ 07. 12(금)
-- __[with CTO: 2nd meet](https://festa.io/events/5373)__
-  - 분류: `오프라인`, `무료`, `기술일반`, `모임`
-  - 주최: 프루퍼
-  - 접수: 06. 25(화) ~ 07. 12(금)
-- __[프론트엔드 개발자를 위한 풀스택 과정](https://camp.orm.im/js-full-stack)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `벡엔드`
-  - 주최: 모두의 연구소
-  - 접수: 06. 14(금) ~ 07. 12(금)
-- __[Google I/O Extended Watch Party Busan 2024](https://festa.io/events/5467)__
-  - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 06. 24(월) ~ 07. 12(금)
-- __[새싹 해커톤](https://dacon.io/competitions/official/236293/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 서울경제진흥원
-  - 접수: 06. 27(목) ~ 07. 12(금)
 - __[Autify : AI-Powered Test Automation Platform](https://thefutureinside.lgcns.com/CNSEvent/Detail/192?ibch=et04)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: LG CNS
   - 접수: 06. 27(목) ~ 07. 16(화)
+
 - __[멋쟁이사자처럼 프론트엔드 스쿨 11기](https://www.wanted.co.kr/events/techit-kdt-frontend-11th)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 멋쟁이사자처럼
@@ -184,6 +160,10 @@
   - 분류: `오프라인(경기 판교)`, `유료`, `클라우드`, `모임`
   - 주최: AWSKRUG
   - 접수: 07. 08(월) ~ 07. 17(수)
+- __[함께 일하고 싶은 개발자 되기](https://tech.goorm.io/ko/2407_commit/)__
+  - 분류: `오프라인(경기 판교)`, `온라인`, `기술일반`
+  - 주최: AWSKRUG
+  - 일시: 07. 17(수) 19:00 ~ 20:30
 - __[모바일 네이티브 플랫폼](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-1)__
   - 분류: `오프라인(서울 성수)`, `유료`, `안드로이드`, `iOS`
   - 주최: 튜링의 사과
@@ -244,6 +224,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: GT Plus
   - 접수: 06. 24(월) ~ 07. 26(금)
+- __[왓캐스트: 내 사이드 프로젝트가 의미 없는 이유](https://festa.io/events/5600)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: Whatever
+  - 접수: 07. 15(월) ~ 07. 27(토)
 - __[해커그라운드 해커톤 2024](https://github.com/hackersground-kr/hackers-ground)__
   - 분류: `오프라인(경북 의성)`, `무료`, `대회`
   - 주최: 의성군
@@ -312,7 +296,7 @@
 
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
-  - 주최: OpenInfra Summit Asia
+  - 주최: Kubernetes Korea
   - 일시: 09. 24(화)
 
 <br />
