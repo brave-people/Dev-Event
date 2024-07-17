@@ -139,19 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[Autify : AI-Powered Test Automation Platform](https://thefutureinside.lgcns.com/CNSEvent/Detail/192?ibch=et04)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: LG CNS
-  - 접수: 06. 27(목) ~ 07. 16(화)
-
-- __[멋쟁이사자처럼 프론트엔드 스쿨 11기](https://www.wanted.co.kr/events/techit-kdt-frontend-11th)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 06. 27(목) ~ 07. 16(화)
 - __[한빛앤 MSA #2-8 데이터베이스 활용도 끌어올리기](https://festa.io/events/5523)__
   - 분류: `오프라인`, `유료`, `데이터베이스`
   - 주최: 한빛앤 MSA
   - 접수: 07. 02(화) ~ 07. 17(수)
+
 - __[Backend.AI Hands-on](https://festa.io/events/5518)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 레블업
@@ -236,6 +228,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: AIFactory
   - 일시: 07. 28(일) 20:30 ~ 21:15
+- __[CampCON](https://fastcampus.co.kr/b2g_campcon)__
+  - 분류: `온라인`, `무료`, `프론트엔드`, `모임`
+  - 주최: 패스트캠퍼스
+  - 접수: 07. 17(수) ~ 07. 29(월)
 - __[구름톤 딥다이브 개발자 과정 모집](https://deepdive.goorm.io/)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 카카오
@@ -261,6 +257,10 @@
   - 분류: `오프라인(국립부경대학교 대연캠퍼스)`, `무료`, `기술일반`
   - 주최: 데비안 프로젝트
   - 일시: 07. 28(일) ~ 08. 04(일)
+- __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 아이펠
+  - 접수: 07. 17(수) ~ 08. 12(월)
 - __[UbuCon Korea 2024](https://2024.ubuntu-kr.org/ko/)__
   - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
   - 주최: 우분투 한국커뮤니티
@@ -276,7 +276,11 @@
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/301974601/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
-  - 접수: 07. 05(금) ~ 09. 19(월)
+  - 접수: 07. 05(금) ~ 08. 19(월)
+- __[2024 제2회 KISIA 정보보호 개발자 해커톤](https://festa.io/events/5627)__
+  - 분류: `오프라인(서울 양재)`, `무료`, `대회`, `보안`
+  - 주최: STEALIEN
+  - 접수: 07. 17(수) ~ 08. 19(월)
 - __[재정정보 AI 검색 알고리즘 경진대회](https://dacon.io/competitions/official/236295/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 한국재정정보원
