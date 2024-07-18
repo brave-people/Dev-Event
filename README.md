@@ -139,27 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[한빛앤 MSA #2-8 데이터베이스 활용도 끌어올리기](https://festa.io/events/5523)__
-  - 분류: `오프라인`, `유료`, `데이터베이스`
-  - 주최: 한빛앤 MSA
-  - 접수: 07. 02(화) ~ 07. 17(수)
-
-- __[Backend.AI Hands-on](https://festa.io/events/5518)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 레블업
-  - 접수: 07. 02(화) ~ 07. 17(수)
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/302096534)__
-  - 분류: `오프라인(경기 판교)`, `유료`, `클라우드`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 07. 08(월) ~ 07. 17(수)
-- __[함께 일하고 싶은 개발자 되기](https://tech.goorm.io/ko/2407_commit/)__
-  - 분류: `오프라인(경기 판교)`, `온라인`, `기술일반`
-  - 주최: AWSKRUG
-  - 일시: 07. 17(수) 19:00 ~ 20:30
 - __[모바일 네이티브 플랫폼](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-1)__
   - 분류: `오프라인(서울 성수)`, `유료`, `안드로이드`, `iOS`
   - 주최: 튜링의 사과
   - 접수: 07. 11(목) ~ 07. 18(목)
+
 - __[데이터사이언티스트 선배가 들려주는 아이펠스토리](https://festa.io/events/5599)__
   - 분류: `온라인`, `유료`, `데이터`
   - 주최: 모두의연구소
@@ -216,6 +200,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: GT Plus
   - 접수: 06. 24(월) ~ 07. 26(금)
+- __[2024 경상북도 한복창작해커톤대회](https://contest.spectory.net/contest/detail?pid=49033&cat=%EB%94%94%EC%9E%90%EC%9D%B8%2F%ED%8C%A8%EC%85%98%2F%EC%A0%9C%ED%92%88&prefix=info-category&searchDate=all)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 한국한복진흥원
+  - 접수: 07. 15(월) ~ 07. 26(금)
+- __[제20회 빅데이터 컨퍼런스](https://festa.io/events/5581)__
+  - 분류: `오프라인(서울)`, `무료`, `빅데이터`
+  - 주최: BOAZ
+  - 접수: 07. 18(목) ~ 07. 26(금)
+- __[I/O Extended 2024 Incheon](https://festa.io/events/5477)__
+  - 분류: `오프라인(인천 송도)`, `무료`, `클라우드`
+  - 주최: GDG INCHEON
+  - 접수: 07. 18(목) ~ 07. 27(토)
 - __[왓캐스트: 내 사이드 프로젝트가 의미 없는 이유](https://festa.io/events/5600)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: Whatever
@@ -232,9 +228,9 @@
   - 분류: `온라인`, `무료`, `프론트엔드`, `모임`
   - 주최: 패스트캠퍼스
   - 접수: 07. 17(수) ~ 07. 29(월)
-- __[구름톤 딥다이브 개발자 과정 모집](https://deepdive.goorm.io/)__
+- __[구름톤 딥다이브 개발자 과정 모집](https://deepdive.goorm.io/?utm_source=community&utm_medium=social)__
   - 분류: `온라인`, `무료`, `교육`
-  - 주최: 카카오
+  - 주최: 구름
   - 접수: 07. 16(화) ~ 07. 30(화)
 - __[2024 블레이버스 MVP 개발 해커톤](https://alkaline-pearl-02a.notion.site/2024-MVP-8386b46f328d4b02b36284f9448fdc1d)__
   - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `대회`
@@ -257,6 +253,10 @@
   - 분류: `오프라인(국립부경대학교 대연캠퍼스)`, `무료`, `기술일반`
   - 주최: 데비안 프로젝트
   - 일시: 07. 28(일) ~ 08. 04(일)
+- __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: 토스뱅크
+  - 일시: 07. 18(목) ~ 08. 09(금)
 - __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
