@@ -139,19 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[프론트엔드 개발자 오르미 양성 과정 6기](https://inthiswork.com/archives/126614)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 이스트소프트
-  - 접수: 06. 04(화) ~ 07. 22(월)
-
-- __[벡엔드 개발자 오르미 양성 과정 6기](https://inthiswork.com/archives/126609)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 이스트소프트
-  - 접수: 06. 04(화) ~ 07. 22(월)
 - __[2024 블록체인 경진대회 「BEST Challenge」](https://litt.ly/2024best)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 06. 14(금) ~ 07. 23(화)
+
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
@@ -253,6 +245,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
   - 접수: 07. 18(목) ~ 08. 09(금)
+- __[Human and AI Robotics "Together"](https://festa.io/events/5589)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AI Robotics KR
+  - 접수: 07. 23(화) ~ 08. 09(금)
 - __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
@@ -265,6 +261,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 일시: 05. 17(금) ~ 08. 12(토)
+- __[2024년 제주 위성데이터 활용 경진대회](https://aifactory.space/task/4394/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 인공지능팩토리
+  - 일시: 07. 24(수) ~ 08. 13(목)
 - __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/301993194/)__
   - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
@@ -293,6 +293,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 코드트리
   - 접수: 07. 12(금) ~ 08. 25(일)
+- __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: MDS테크
+  - 접수: 07. 23(화) ~ 08. 26(월)
 - __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
