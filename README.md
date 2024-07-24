@@ -139,15 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[2024 블록체인 경진대회 「BEST Challenge」](https://litt.ly/2024best)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 06. 14(금) ~ 07. 23(화)
-
 - __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: ArtByte
   - 접수: 05. 27(월) ~ 07. 24(수)
+
 - __[구글 검색 엔진 최적화 집중 총정리](https://festa.io/events/5569)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: SEO KOREA
@@ -241,6 +237,10 @@
   - 분류: `오프라인(국립부경대학교 대연캠퍼스)`, `무료`, `기술일반`
   - 주최: 데비안 프로젝트
   - 일시: 07. 28(일) ~ 08. 04(일)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/302418971)__
+  - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 24(수) ~ 08. 07(수)
 - __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
@@ -297,6 +297,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: MDS테크
   - 접수: 07. 23(화) ~ 08. 26(월)
+- __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
+  - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
+  - 주최: DELL
+  - 접수: 07. 24(수) ~ 08. 27(화)
 - __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
