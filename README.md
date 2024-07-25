@@ -139,27 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[[AI × 독서모임]인공지능 책 함께 읽어요!](https://festa.io/events/5317)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
-  - 주최: ArtByte
-  - 접수: 05. 27(월) ~ 07. 24(수)
-
-- __[구글 검색 엔진 최적화 집중 총정리](https://festa.io/events/5569)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: SEO KOREA
-  - 접수: 07. 09(화) ~ 07. 24(수)
-- __[한빛앤 MSA #2-10 데이터웨어하우스로 효율적인 분석 시스템 만들기](https://festa.io/events/5501)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `기술일반`
-  - 주최: 한빛앤 MSA
-  - 접수: 07. 09(화) ~ 07. 24(수)
-- __[표준프레임워크 MSA 템플릿 & 개방형 클라우드 플랫폼 K-PaaS의 운명적인 만남](https://okky.kr/articles/1508505?topic=it&page=1)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `클라우드`
-  - 주최: 한국지능정보사회진흥원
-  - 접수: 07. 22(월) ~ 07. 24(수)
 - __[2024 MeetLab](https://festa.io/events/5460)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Coding Lab
   - 접수: 06. 24(월) ~ 07. 26(금)
+
 - __[오라클 클라우드 서비스 웹 어플리케이션 구축 및 유지 관리](https://docs.google.com/forms/d/e/1FAIpQLSdFSrNPtkLOXmgPsQ_bUyZqYNNQw1z46Ismx47p0UAFU3_nTw/viewform)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: GT Plus
@@ -241,6 +225,10 @@
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 24(수) ~ 08. 07(수)
+- __[제6회 테크 데이 - OpenLab 성장 스토리](https://devocean.sk.com/events/view.do?id=201)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: DEVOCEAN
+  - 접수: 07. 24(수) ~ 08. 07(수)
 - __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
@@ -314,6 +302,10 @@
   - 주최: OpenInfra Summit Asia
   - 일시: 09. 03(화) ~ 09. 04(수)
 
+- __[고양시 빅데이터 아카데미 및 빅데이터 공모전](https://www.gipa.or.kr/community/01_1.php?admin_mode=read&no=4140)__
+  - 분류: `온라인`, `무료`, `빅데이터`
+  - 주최: 고양특례시
+  - 일시: 07. 24(수) ~ 09. 11(수)
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
   - 주최: Kubernetes Korea
