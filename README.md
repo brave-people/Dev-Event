@@ -268,7 +268,7 @@
 - __[HYPER APP 2024](https://festa.io/events/5274)__
   - 분류: `오프라인(판교)`, `유료`, `프론트엔드`, `앱`
   - 주최: KSDC
-  - 일시: 08. 10(토)
+  - 접수: 07. 26(금) ~ 08. 09(금)
 - __[Gemini API 개발자 대회](https://ai.google.dev/competition?hl=ko)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
