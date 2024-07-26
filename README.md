@@ -313,7 +313,7 @@
 - __[고양시 빅데이터 아카데미 및 빅데이터 공모전](https://www.gipa.or.kr/community/01_1.php?admin_mode=read&no=4140)__
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
-  - 일시: 07. 24(수) ~ 09. 11(수)
+  - 접수: 07. 24(수) ~ 09. 11(수)
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
   - 주최: Kubernetes Korea
