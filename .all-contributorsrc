@@ -1293,6 +1293,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "3boku",
+      "name": "정삼복",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68502584?v=4",
+      "profile": "http://3boku.me",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
