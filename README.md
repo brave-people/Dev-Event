@@ -139,43 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[2024 MeetLab](https://festa.io/events/5460)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: Coding Lab
-  - 접수: 06. 24(월) ~ 07. 26(금)
-
-- __[오라클 클라우드 서비스 웹 어플리케이션 구축 및 유지 관리](https://docs.google.com/forms/d/e/1FAIpQLSdFSrNPtkLOXmgPsQ_bUyZqYNNQw1z46Ismx47p0UAFU3_nTw/viewform)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: GT Plus
-  - 접수: 06. 24(월) ~ 07. 26(금)
-- __[2024 경상북도 한복창작해커톤대회](https://contest.spectory.net/contest/detail?pid=49033&cat=%EB%94%94%EC%9E%90%EC%9D%B8%2F%ED%8C%A8%EC%85%98%2F%EC%A0%9C%ED%92%88&prefix=info-category&searchDate=all)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 한국한복진흥원
-  - 접수: 07. 15(월) ~ 07. 26(금)
-- __[제20회 빅데이터 컨퍼런스](https://festa.io/events/5581)__
-  - 분류: `오프라인(서울)`, `무료`, `빅데이터`
-  - 주최: BOAZ
-  - 접수: 07. 18(목) ~ 07. 26(금)
-- __[I/O Extended 2024 Incheon](https://festa.io/events/5477)__
-  - 분류: `오프라인(인천 송도)`, `무료`, `클라우드`
-  - 주최: GDG INCHEON
-  - 접수: 07. 18(목) ~ 07. 27(토)
-- __[왓캐스트: 내 사이드 프로젝트가 의미 없는 이유](https://festa.io/events/5600)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: Whatever
-  - 접수: 07. 15(월) ~ 07. 27(토)
-- __[해커그라운드 해커톤 2024](https://github.com/hackersground-kr/hackers-ground)__
-  - 분류: `오프라인(경북 의성)`, `무료`, `대회`
-  - 주최: 의성군
-  - 접수: 06. 19(수) ~ 07. 28(일)
-- __[나만의 AI 인플루언서, '예린이'의 탄생과 그 여정](https://aifactory.space/task/4458/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIFactory
-  - 일시: 07. 28(일) 20:30 ~ 21:15
 - __[CampCON](https://fastcampus.co.kr/b2g_campcon)__
   - 분류: `온라인`, `무료`, `프론트엔드`, `모임`
   - 주최: 패스트캠퍼스
   - 접수: 07. 17(수) ~ 07. 29(월)
+
 - __[구름톤 딥다이브 개발자 과정 모집](https://deepdive.goorm.io/?utm_source=community&utm_medium=social)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 구름
@@ -265,6 +233,10 @@
   - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 07. 05(금) ~ 08. 14(수)
+- __[Microsoft AI School](https://msaischool.kr/)__
+  - 분류: `오프라인(서울 광화문)`, `온라인`,  `교육`, `AI`
+  - 주최: Microsoft
+  - 접수: 07. 29(월) ~ 08. 18(일)
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/301974601/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -273,6 +245,10 @@
   - 분류: `오프라인(서울 양재)`, `무료`, `대회`, `보안`
   - 주최: STEALIEN
   - 접수: 07. 17(수) ~ 08. 19(월)
+- __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
+  - 분류: `온라인`, `무료`, `교육`, `데이터`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 07. 22(월) ~ 08. 21(수)
 - __[재정정보 AI 검색 알고리즘 경진대회](https://dacon.io/competitions/official/236295/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 한국재정정보원
@@ -301,6 +277,10 @@
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
   - 접수: 07. 10(수) ~ 08. 30(금)
+- __[컴포즈 정원사](https://festa.io/events/5701)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`, `안드로이드`
+  - 주최: 성빈랜드
+  - 접수: 07. 29(월) ~ 08. 30(금)
 
 <br />
 
