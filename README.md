@@ -139,15 +139,11 @@
 <br />
 
 ## 24년 07월
-- __[CampCON](https://fastcampus.co.kr/b2g_campcon)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `모임`
-  - 주최: 패스트캠퍼스
-  - 접수: 07. 17(수) ~ 07. 29(월)
-
 - __[구름톤 딥다이브 개발자 과정 모집](https://deepdive.goorm.io/?utm_source=community&utm_medium=social)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 구름
   - 접수: 07. 16(화) ~ 07. 30(화)
+
 - __[2024 블레이버스 MVP 개발 해커톤](https://alkaline-pearl-02a.notion.site/2024-MVP-8386b46f328d4b02b36284f9448fdc1d)__
   - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `대회`
   - 주최: 블레이버스
@@ -177,6 +173,14 @@
   - 분류: `온라인`, `무료`,`커리어`
   - 주최: 원티드
   - 접수: 07. 17(수) ~ 08. 01(목)
+- __[SPARCS AI Startup Hackathon 2024](https://festa.io/events/5506)__
+  - 분류: `오프라인(대전 유성구)`, `유료`, `AI`
+  - 주최: SPARCS
+  - 접수: 07. 30(화) ~ 08. 01(금)
+- __['타이리' AI 인플루언서 생성 및 운영 요소](https://aifactory.space/task/4460/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AIFactory
+  - 일시: 08. 01(금) 19:30 ~ 20:15
 - __[인프콘 2024](https://www.inflearn.com/infcon-2024/teaser)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: 인프런
@@ -294,6 +298,18 @@
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
   - 접수: 07. 24(수) ~ 09. 11(수)
+- __[2024 Samsung AI Challenge : Machine Learning Force Fields](https://dacon.io/competitions/official/236322/overview/description)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 삼성전자 SAIT
+  - 일시: 08. 01(수) ~ 09. 13(금)
+- __[2024 Samsung AI Challenge : Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 삼성전자 SAIT
+  - 일시: 08. 01(수) ~ 09. 13(금)
+- __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 한국제약바이오협회
+  - 일시: 08. 05(월) ~ 09. 23(월)
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
   - 주최: Kubernetes Korea
