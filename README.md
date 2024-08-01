@@ -345,7 +345,7 @@
 - __[UNIVERSE 24](https://githubuniverse.com/)__
   - 분류: `오프라인(미국 캘리포니아)`, `유료`, `기술일반`
   - 주최: Github
-  - 일시: 07. 31(수) ~ 10. 30(수)
+  - 접수: 07. 31(수) ~ 10. 30(수)
 - __[GopherCon Korea 2024](https://festa.io/events/5098)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: Golang Korea
