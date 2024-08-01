@@ -138,14 +138,6 @@
 
 <br />
 
-## 24년 07월
-- __[2024 블레이버스 MVP 개발 해커톤](https://alkaline-pearl-02a.notion.site/2024-MVP-8386b46f328d4b02b36284f9448fdc1d)__
-  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: 블레이버스
-  - 접수: 06. 24(월) ~ 07. 31(수)
-
-<br />
-
 ## 24년 08월
 - __[AI개발자 실전커리어 로드맵:취업부터 생존까지 | 프리온보딩 AI 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_ai_3)__
   - 분류: `온라인`, `무료`, `AI`
@@ -212,6 +204,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Robotics KR
   - 접수: 07. 23(화) ~ 08. 09(금)
+- __[코드잇 CEO에게 직접 듣는 IT 커리어와 전망](https://festa.io/events/5724)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 코드잇 스프린트
+  - 접수: 08. 01(목) ~ 08. 11(일)
 - __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
@@ -248,6 +244,14 @@
   - 분류: `오프라인(서울 양재)`, `무료`, `대회`, `보안`
   - 주최: STEALIEN
   - 접수: 07. 17(수) ~ 08. 19(월)
+- __[LG 소프트웨어 개발자 컨퍼런스 대학생 코딩대회 신청자 모집](https://www.lgsdc.com/registration/programming-contest/)__
+  - 분류: `온라인`, `오프라인`, `무료`, `대회`
+  - 주최: LG
+  - 접수: 07. 17(수) ~ 08. 20(화)
+- __[PostgreSQL Meetup Seoul](https://stibee.com/api/v1.0/emails/share/SJFSPFIkGMg9bFYNKhqE1lQSuMfXYQU)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: PostgreSQL Meetup Seoul
+  - 접수: 07. 31(수) ~ 08. 20(화)
 - __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
   - 분류: `온라인`, `무료`, `교육`, `데이터`
   - 주최: 멋쟁이사자처럼
@@ -256,6 +260,10 @@
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 한국재정정보원
   - 접수: 07. 10(수) ~ 08. 23(금)
+- __[생성형AI](https://festa.io/events/5723)__
+  - 분류: `오프라인(서울 서대무눅)`, `무료`, `대회`, `AI`
+  - 주최: 한빛앤
+  - 접수: 08. 01(목) ~ 08. 23(금)
 - __[FEConf 2024](https://2024.feconf.kr/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
