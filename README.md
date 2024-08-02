@@ -139,43 +139,11 @@
 <br />
 
 ## 24년 08월
-- __[AI개발자 실전커리어 로드맵:취업부터 생존까지 | 프리온보딩 AI 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_ai_3)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 07. 17(수) ~ 08. 01(목)
-
-- __[백엔드 포트폴리오 프로젝트와 서류 관리법 | 프리온보딩 BE 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_be_22)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 07. 17(수) ~ 08. 01(목)
-- __[React와 다시 시작하는 취업준비 | 프리온보딩 FE 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_fe_24)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 07. 17(수) ~ 08. 01(목)
-- __[코틀린 기반의 안드로이드 앱 개발 | 프리온보딩 안드로이드 챌린지 8월](https://www.wanted.co.kr/events/pre_challenge_android_7)__
-  - 분류: `온라인`, `무료`, `안드로이드`
-  - 주최: 원티드
-  - 접수: 07. 17(수) ~ 08. 01(목)
-- __[5-7년 차 미들레벨을 위한 | 프리온보딩 커리어점프](https://www.wanted.co.kr/events/pre_jump_4)__
-  - 분류: `온라인`, `무료`,`커리어`
-  - 주최: 원티드
-  - 접수: 07. 17(수) ~ 08. 01(목)
-- __[SPARCS AI Startup Hackathon 2024](https://festa.io/events/5506)__
-  - 분류: `오프라인(대전 유성구)`, `유료`, `AI`
-  - 주최: SPARCS
-  - 접수: 07. 30(화) ~ 08. 01(금)
-- __['타이리' AI 인플루언서 생성 및 운영 요소](https://aifactory.space/task/4460/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIFactory
-  - 일시: 08. 01(금) 19:30 ~ 20:15
-- __[캐릭터 이미지를 AI로 움직이게 해보자](https://aifactory.space/task/4462/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIFactory
-  - 일시: 08. 01(목) 19:30 ~ 20:15
 - __[인프콘 2024](https://www.inflearn.com/infcon-2024/teaser)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `기술일반`
   - 주최: 인프런
   - 일시: 08. 02(금)
+
 - __[2024 제2회 전문가네트워킹](https://eopla.net/magazines/18687)__
   - 분류: `오프라인(서울 마포)`, `무료`, `AI`, `데이터`
   - 주최: 과학기술정보통신부
@@ -196,6 +164,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
   - 주최: DEVOCEAN
   - 접수: 07. 24(수) ~ 08. 07(수)
+- __[2024 사이버보안 AI 데이터셋 실증 참여 설명회](https://sandslab.io/bbs/board.php?bo_table=m07_01&wr_id=57)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 한국인터넷진흥원
+  - 접수: 08. 02(금) ~ 08. 07(수)
 - __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
@@ -280,6 +252,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: MDS테크
   - 접수: 07. 23(화) ~ 08. 26(월)
+- __[코드잇 부트캠프, 스프린트 프론트엔드 11기 모집](https://sprint.codeit.kr/admissions/21/frontend?utm_source=dev_event&utm_medium=community&utm_content=frontend)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 코드잇
+  - 접수: 08. 02(금) ~ 08. 26(월)
 - __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
   - 주최: DELL
