@@ -204,6 +204,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Robotics KR
   - 접수: 07. 23(화) ~ 08. 09(금)
+- __[AUSGCON 2024:try-catch 발표자 모집 (CFS)](https://forms.gle/Z5roqKcSLEC4XHsJ7)__
+  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최 : AUSG (AWSKRUG University Student Group)
+  - 접수 : 07. 27(토) ~ 08. 09(금)
 - __[코드잇 CEO에게 직접 듣는 IT 커리어와 전망](https://festa.io/events/5724)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 코드잇 스프린트
@@ -296,10 +300,6 @@
   - 분류: `오프라인(서울 마포)`, `유료`, `AI`
   - 주최: 중앙정보기술인재개발원
   - 접수: 08. 31(토) 10:00 ~ 13:00
-- __[AUSGCON 2024:try-catch 발표자 모집 (CFS)](https://forms.gle/Z5roqKcSLEC4XHsJ7)__
-  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`, `개발`, `발표자 모집`
-  - 주최 : AUSG (AWSKRUG University Student Group)
-  - 접수 : 07. 27(토) ~ 08. 09(금)
 
 <br />
 
