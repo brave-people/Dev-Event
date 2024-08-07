@@ -125,7 +125,8 @@
               <a href="./end_event/2024/24_04.md"> 04월 </a>,
               <a href="./end_event/2024/24_05.md"> 05월 </a>,
               <a href="./end_event/2024/24_06.md"> 06월 </a>,
-              <a href="./end_event/2024/24_07.md"> 07월 </a>
+              <a href="./end_event/2024/24_07.md"> 07월 </a>,
+              <a href="./end_event/2024/24_08.md"> 08월 </a>
             </td>
         </tr>
         <tr>
@@ -139,15 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[글로벌 PostgreSQL 컨트리뷰터가 설명하는 최적화된 백업 및 복구 방법](https://stibee.com/api/v1.0/emails/share/kW4mJO1EstYm2eryGC67m7w1G2hWPJY)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
-  - 주최: 비트나인
-  - 접수: 07. 26(금) ~ 08. 06(화)
-
 - __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/302418971)__
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 24(수) ~ 08. 07(수)
+
 - __[제6회 테크 데이 - OpenLab 성장 스토리](https://devocean.sk.com/events/view.do?id=201)__
   - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
   - 주최: DEVOCEAN
@@ -228,6 +225,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: PostgreSQL Meetup Seoul
   - 접수: 07. 31(수) ~ 08. 20(화)
+- __[LG Collegiate Programming Contest 2024](https://www.lgsdc.com/registration/programming-contest/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: LGSDC
+  - 접수: 08. 07(수) ~ 08. 20(화)
 - __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
   - 분류: `온라인`, `무료`, `교육`, `데이터`
   - 주최: 멋쟁이사자처럼
@@ -244,6 +245,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: GDSC DGU
   - 접수: 08. 05(월) ~ 08. 23(금)
+- __[Charming Swift: Apple이 관심갖는 주요 기술에 대해](https://festa.io/events/5752)__
+  - 분류: `오프라인(경남 진주)`, `유료`, `iOS`
+  - 주최: Charming Swift
+  - 접수: 08. 07(수) ~ 08. 24(토)
 - __[FEConf 2024](https://2024.feconf.kr/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `프론트엔드`
   - 주최: FEConf
