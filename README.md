@@ -140,23 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/302418971)__
-  - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 07. 24(수) ~ 08. 07(수)
-
-- __[제6회 테크 데이 - OpenLab 성장 스토리](https://devocean.sk.com/events/view.do?id=201)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
-  - 주최: DEVOCEAN
-  - 접수: 07. 24(수) ~ 08. 07(수)
-- __[2024 사이버보안 AI 데이터셋 실증 참여 설명회](https://sandslab.io/bbs/board.php?bo_table=m07_01&wr_id=57)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 한국인터넷진흥원
-  - 접수: 08. 02(금) ~ 08. 07(수)
 - __[Midjourney Cref / Sref seed 를 이용한 AI 인플루언서 제작방법](https://aifactory.space/task/4464/overview)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `AI`
   - 주최: AIFactory
   - 일시: 08. 08(목) 20:30 ~ 21:15
+
 - __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
@@ -226,7 +214,7 @@
   - 주최: PostgreSQL Meetup Seoul
   - 접수: 07. 31(수) ~ 08. 20(화)
 - __[LG Collegiate Programming Contest 2024](https://www.lgsdc.com/registration/programming-contest/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 분류: `온라인`, `무료`, `대회`
   - 주최: LGSDC
   - 접수: 08. 07(수) ~ 08. 20(화)
 - __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
@@ -298,6 +286,14 @@
   - 주최: OpenInfra Summit Asia
   - 일시: 09. 03(화) ~ 09. 04(수)
 
+- __[2024 오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac/)__
+  - 분류: `오프라인(수원)`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 일시: 08. 05(월) ~ 09. 01(일)
+- __[SEF 2024](https://sef.connect.or.kr/2024)__
+  - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
+  - 주최: 네이버 커넥트재단
+  - 일시: 08. 05(월) ~ 09. 04(수)
 - __[제9회 한국 리눅스 커널 개발자 모임](https://festa.io/events/5756)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 한국 리눅스 커널 개발자 모임
