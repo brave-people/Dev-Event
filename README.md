@@ -140,15 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[Midjourney Cref / Sref seed 를 이용한 AI 인플루언서 제작방법](https://aifactory.space/task/4464/overview)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `AI`
-  - 주최: AIFactory
-  - 일시: 08. 08(목) 20:30 ~ 21:15
-
 - __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 토스뱅크
   - 접수: 07. 18(목) ~ 08. 09(금)
+
 - __[Human and AI Robotics "Together"](https://festa.io/events/5589)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AI Robotics KR
@@ -177,6 +173,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 일시: 05. 17(금) ~ 08. 12(토)
+- __[Cloud Club 6기 리크루팅](https://docs.google.com/forms/d/e/1FAIpQLScO6w1Fuy6W-9oand2bR0mdiIKVU3RobbdLAZsxQOsWxqOrBQ/viewform)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: Cloud Club
+  - 접수: 08. 09(금) ~ 08. 12(월)
 - __[2024년 제주 위성데이터 활용 경진대회](https://aifactory.space/task/4394/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 인공지능팩토리
@@ -254,7 +254,7 @@
   - 주최: 코드트리
   - 접수: 07. 12(금) ~ 08. 25(일)
 - __[생성형 AI로 자동화된 블로그 만들기](https://event-us.kr/songdodev/event/89146)__
-  - 분류: `온라인`, `무료`, `AI`
+  - 분류: `오프라인`, `무료`, `AI`
   - 주최: 송도 Dev
   - 접수: 08. 08(목) ~ 08. 25(일)
 - __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
@@ -298,6 +298,10 @@
   - 분류: `오프라인(수원)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 08. 05(월) ~ 09. 01(일)
+- __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `기술일반`
+  - 주최: MongoDB
+  - 접수: 08. 09(금) ~ 09. 02(수)
 - __[SEF 2024](https://sef.connect.or.kr/2024)__
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
