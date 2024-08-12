@@ -140,35 +140,15 @@
 <br />
 
 ## 24년 08월
-- __[토스뱅크의 첫번째 테크 밋업 Tech Picnic, Tech.nic!](https://form.naver.com/response/HnDDxNBFTJFA1UC-ZK24ig)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: 토스뱅크
-  - 접수: 07. 18(목) ~ 08. 09(금)
-
-- __[Human and AI Robotics "Together"](https://festa.io/events/5589)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AI Robotics KR
-  - 접수: 07. 23(화) ~ 08. 09(금)
-- __[AUSGCON 2024:try-catch 발표자 모집 (CFS)](https://forms.gle/Z5roqKcSLEC4XHsJ7)__
-  - 분류 : `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최 : AUSG (AWSKRUG University Student Group)
-  - 접수 : 07. 27(토) ~ 08. 09(금)
 - __[코드잇 CEO에게 직접 듣는 IT 커리어와 전망](https://festa.io/events/5724)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 코드잇 스프린트
   - 접수: 08. 01(목) ~ 08. 11(일)
+
 - __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
   - 접수: 07. 17(수) ~ 08. 12(월)
-- __[UbuCon Korea 2024](https://2024.ubuntu-kr.org/ko/)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
-  - 주최: 우분투 한국커뮤니티
-  - 접수: 04. 17(수) ~ 08. 09(금)
-- __[HYPER APP 2024](https://festa.io/events/5274)__
-  - 분류: `오프라인(판교)`, `유료`, `프론트엔드`, `앱`
-  - 주최: KSDC
-  - 접수: 07. 26(금) ~ 08. 09(금)
 - __[Gemini API 개발자 대회](https://ai.google.dev/competition?hl=ko)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
@@ -281,6 +261,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`, `안드로이드`
   - 주최: 성빈랜드
   - 접수: 07. 29(월) ~ 08. 30(금)
+- __[AI 반도체 기술인재 선발대회](https://www.aichipcon.or.kr/apply/applyInfo)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `AI`
+  - 주최: AIFactory
+  - 일시: 08. 14(수) 19:30 ~ 20:15
 - __[생성형 인공지능 이해와 기초활용 실습 및 토크](https://www.choongang.co.kr/html/sub02_05_n.php)__
   - 분류: `오프라인(서울 마포)`, `유료`, `AI`
   - 주최: 중앙정보기술인재개발원
@@ -302,6 +286,10 @@
   - 분류: `오프라인(서울 송파구)`, `무료`, `기술일반`
   - 주최: MongoDB
   - 접수: 08. 09(금) ~ 09. 02(수)
+- __[모두를 위한 데이터 인텔리전스 온라인 컨퍼런스 2024](https://events.databricks.com/FY250904BestofDataAISummitKoreaRecap)__
+  - 분류: `오프라인(수원)`, `무료`, `데이터`
+  - 주최: databricks
+  - 접수: 08. 12(월) ~ 09. 04(수)
 - __[SEF 2024](https://sef.connect.or.kr/2024)__
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
