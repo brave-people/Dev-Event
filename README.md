@@ -140,27 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[코드잇 CEO에게 직접 듣는 IT 커리어와 전망](https://festa.io/events/5724)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 코드잇 스프린트
-  - 접수: 08. 01(목) ~ 08. 11(일)
-
-- __[AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!](https://www.aiffel.io/?utm_source=github_dev_event&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_camp_festa_9th_0627)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 아이펠
-  - 접수: 07. 17(수) ~ 08. 12(월)
-- __[Gemini API 개발자 대회](https://ai.google.dev/competition?hl=ko)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글
-  - 일시: 05. 17(금) ~ 08. 12(토)
-- __[Cloud Club 6기 리크루팅](https://docs.google.com/forms/d/e/1FAIpQLScO6w1Fuy6W-9oand2bR0mdiIKVU3RobbdLAZsxQOsWxqOrBQ/viewform)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: Cloud Club
-  - 접수: 08. 09(금) ~ 08. 12(월)
 - __[2024년 제주 위성데이터 활용 경진대회](https://aifactory.space/task/4394/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 인공지능팩토리
   - 일시: 07. 24(수) ~ 08. 13(목)
+  
 - __[2024 SPARKLING-THON](https://event-us.kr/gdsckaist/event/89032)__
   - 분류: `오프라인(대전 유성구)`, `무료`, `대회`
   - 주최: GDSC KAIST
@@ -173,6 +157,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: 아이인위(I in We)
   - 접수: 08. 02(금) ~ 08. 14(수)
+- __[플러터 렌더링과 애니메이션 원리](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-2)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `안드로이드`, `iOS`
+  - 주최: 튜링의 사과
+  - 일시: 08. 16(금) 19:30 ~ 21:30
 - __[왓캐스트: 주니어 불시장 이직성공기](https://festa.io/events/5770)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 왓에버
@@ -217,6 +205,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: GDSC DGU
   - 접수: 08. 05(월) ~ 08. 23(금)
+- __[Prometheus AI Demo Day: IGNITE](https://festa.io/events/5780)__
+  - 분류: `오프라인(서울 영등포구)`, `무료`, `AI`, `모임`
+  - 주최: 대학생 인공지능 단체 프로메테우스
+  - 접수: 08. 13(화) ~ 08. 23(금)
 - __[Charming Swift: Apple이 관심갖는 주요 기술에 대해](https://festa.io/events/5752)__
   - 분류: `오프라인(경남 진주)`, `유료`, `iOS`
   - 주최: Charming Swift
@@ -249,6 +241,14 @@
   - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
   - 주최: DELL
   - 접수: 07. 24(수) ~ 08. 27(화)
+- __[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나](https://festa.io/events/5799)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: SEO KOREA
+  - 접수: 08. 13(화) ~ 08. 28(수)
+- __[디지털 원주민 AI기업을 위한 포럼](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x886142abcd)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: SEO KOREA
+  - 접수: 08. 13(화) ~ 08. 28(수)
 - __[CEO 1:1 커리어 상담](https://codeit.notion.site/CEO-1-1-902b03d45ed4420da3cddf7ca245f1f3)__
   - 분류: `온라인`, `무료`, `데이터`, `커리어`
   - 주최: 코드잇 스프린트
