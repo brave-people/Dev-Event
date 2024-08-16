@@ -157,6 +157,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: 아이인위(I in We)
   - 접수: 08. 02(금) ~ 08. 14(수)
+- __[31번째 데비안 데이 (Debian Day)](https://wiki.debian.org/DebianDay/2024/Korea/Busan)__
+  - 분류: `오프라인(부산)`, `무료`, `모임`, `기술일반`
+  - 주최: Debian Korea
+  - 일시: 08. 16(금) 14:00 ~ 17:00
 - __[플러터 렌더링과 애니메이션 원리](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-2)__
   - 분류: `오프라인(서울 성수)`, `무료`, `안드로이드`, `iOS`
   - 주최: 튜링의 사과
