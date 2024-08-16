@@ -140,27 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[2024년 제주 위성데이터 활용 경진대회](https://aifactory.space/task/4394/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 인공지능팩토리
-  - 일시: 07. 24(수) ~ 08. 13(목)
-  
-- __[2024 SPARKLING-THON](https://event-us.kr/gdsckaist/event/89032)__
-  - 분류: `오프라인(대전 유성구)`, `무료`, `대회`
-  - 주최: GDSC KAIST
-  - 일시: 08. 07(수) ~ 08. 13(화)
-- __[AWSKRUG 프론트엔드 소모임](https://www.meetup.com/awskrug/events/301993194/)__
-  - 분류: `오프라인(서울 성수동)`, `유료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 07. 05(금) ~ 08. 14(수)
-- __[Tech Beyond Boundaries: 빅테크 취직부터 승진까지](https://event-us.kr/iinwe/event/88786?utm_source=github_dev_event&utm_medium=organic&utm_campaign=event-recommend)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: 아이인위(I in We)
-  - 접수: 08. 02(금) ~ 08. 14(수)
 - __[플러터 렌더링과 애니메이션 원리](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-2)__
   - 분류: `오프라인(서울 성수)`, `무료`, `안드로이드`, `iOS`
   - 주최: 튜링의 사과
   - 일시: 08. 16(금) 19:30 ~ 21:30
+
 - __[왓캐스트: 주니어 불시장 이직성공기](https://festa.io/events/5770)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 왓에버
@@ -169,6 +153,10 @@
   - 분류: `오프라인(서울 광화문)`, `온라인`,  `교육`, `AI`
   - 주최: Microsoft
   - 접수: 07. 29(월) ~ 08. 18(일)
+- __[판교 퇴근길 밋업 with 인프런 #06 FE 테스트코드](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)__
+  - 분류: `오프라인(경기 성남)`, `모임`, `FE`
+  - 주최: 인프랩
+  - 접수: 08. 16(금) ~ 08. 18(일)
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/301974601/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -229,6 +217,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 송도 Dev
   - 접수: 08. 08(목) ~ 08. 25(일)
+- __[AI 중심의 오픈 스터디 프로그램 데보션 오픈랩 2기 모집](https://devocean.sk.com/blog/techBoardDetail.do?ID=166665)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: DEVOCEAN
+  - 접수: 08. 12(월) ~ 08. 25(일)
 - __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: MDS테크
@@ -237,6 +229,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: 코드잇
   - 접수: 08. 02(금) ~ 08. 26(월)
+- __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
+  - 분류: `오프라인(경기 성남시)`, `무료`, `기술일반`
+  - 주최: (주)MDS테크
+  - 접수: 08. 16(금) ~ 08. 26(월)
 - __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
   - 주최: DELL
@@ -247,12 +243,28 @@
   - 접수: 08. 13(화) ~ 08. 28(수)
 - __[디지털 원주민 AI기업을 위한 포럼](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x886142abcd)__
   - 분류: `온라인`, `무료`, `AI`
-  - 주최: SEO KOREA
+  - 주최: 오라클
   - 접수: 08. 13(화) ~ 08. 28(수)
 - __[CEO 1:1 커리어 상담](https://codeit.notion.site/CEO-1-1-902b03d45ed4420da3cddf7ca245f1f3)__
   - 분류: `온라인`, `무료`, `데이터`, `커리어`
   - 주최: 코드잇 스프린트
   - 접수: 08. 01(목) ~ 08. 29(목)
+- __[2024 MLSA 대학생 IT 러닝 캠프](https://festa.io/events/5815)__
+  - 분류: `오프라인(서울 성북구)`, `무료`, `모임`
+  - 주최: MLSA
+  - 접수: 08. 16(금) ~ 08. 29(목)
+- __[면접 단골 질문 이벤트 루프 다시 돌아보기 | 프리온보딩 FE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_fe_25)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 08. 14(수) ~ 08. 29(목)
+- __[내가 지원한 회사에서 쓰는 AWS | 프리온보딩 BE 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_be_23)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 08. 14(수) ~ 08. 29(목)
+- __[AI 활용: 데이터 분석부터 웹 개발까지 | 프리온보딩 AI 챌린지 9월](https://www.wanted.co.kr/events/pre_challenge_ai_4)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 08. 14(수) ~ 08. 29(목)
 - __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
@@ -261,10 +273,6 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`, `안드로이드`
   - 주최: 성빈랜드
   - 접수: 07. 29(월) ~ 08. 30(금)
-- __[AI 반도체 기술인재 선발대회](https://www.aichipcon.or.kr/apply/applyInfo)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `AI`
-  - 주최: AIFactory
-  - 일시: 08. 14(수) 19:30 ~ 20:15
 - __[생성형 인공지능 이해와 기초활용 실습 및 토크](https://www.choongang.co.kr/html/sub02_05_n.php)__
   - 분류: `오프라인(서울 마포)`, `유료`, `AI`
   - 주최: 중앙정보기술인재개발원
@@ -290,14 +298,26 @@
   - 분류: `오프라인(수원)`, `무료`, `데이터`
   - 주최: databricks
   - 접수: 08. 12(월) ~ 09. 04(수)
+- __[멋쟁이사자처럼 Android 개발 3기](https://www.wanted.co.kr/events/likelion-kdt-aos-3rd)__
+  - 분류: `오프라인(수원)`, `무료`, `안드로이드`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 08. 01(목) ~ 09. 05(목)
 - __[SEF 2024](https://sef.connect.or.kr/2024)__
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
   - 접수: 08. 08(목) ~ 09. 06(금)
+- __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
+  - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `AI`
+  - 주최: NEAR Protocol 재단, BeWater
+  - 접수: 09. 06(금) ~ 09. 07(토)
 - __[제9회 한국 리눅스 커널 개발자 모임](https://festa.io/events/5756)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 한국 리눅스 커널 개발자 모임
   - 일시: 08. 05(월) ~ 09. 04(수)
+- __[프론트엔드 프로젝트 캠프 : next.js 3기](https://festa.io/events/5823)__
+  - 분류: `오프라인(서울 강서구)`, `무료`, `프론트엔드`
+  - 주최: 스나이퍼팩토리
+  - 접수: 08. 16(금) ~ 09. 08(일)
 - __[민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발·아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -326,6 +346,10 @@
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
   - 접수: 08. 01(목) ~ 09. 24(화)
+- __[Future<Flutter>](https://festa.io/events/5704)__
+  - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
+  - 주최: Future<Flutter>
+  - 접수: 08. 16(금) ~ 09. 27(금)
 - __[BICG 2024Q3 LTCP AI인플루언서 생성](https://aifactory.space/task/4418/overview)__
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
