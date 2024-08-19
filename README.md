@@ -346,9 +346,9 @@
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
   - 접수: 08. 01(목) ~ 09. 24(화)
-- __[Future<Flutter>](https://festa.io/events/5704)__
+- __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
-  - 주최: Future<Flutter>
+  - 주최: Future\<Flutter\>
   - 접수: 08. 16(금) ~ 09. 27(금)
 - __[BICG 2024Q3 LTCP AI인플루언서 생성](https://aifactory.space/task/4418/overview)__
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
