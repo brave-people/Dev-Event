@@ -140,35 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[플러터 렌더링과 애니메이션 원리](https://velog.io/@turingapple/%ED%8A%9C%EB%A7%81%EC%9D%98-%EC%82%AC%EA%B3%BC-X-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%84%9C%EC%9A%B8-%EC%9B%94%EA%B0%84-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B0%95%EC%9D%98-2)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `안드로이드`, `iOS`
-  - 주최: 튜링의 사과
-  - 일시: 08. 16(금) 19:30 ~ 21:30
-
-- __[왓캐스트: 주니어 불시장 이직성공기](https://festa.io/events/5770)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 왓에버
-  - 접수: 08. 06(화) ~ 08. 18(일)
-- __[Microsoft AI School](https://msaischool.kr/)__
-  - 분류: `오프라인(서울 광화문)`, `온라인`,  `교육`, `AI`
-  - 주최: Microsoft
-  - 접수: 07. 29(월) ~ 08. 18(일)
-- __[판교 퇴근길 밋업 with 인프런 #06 FE 테스트코드](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)__
-  - 분류: `오프라인(경기 성남)`, `모임`, `FE`
-  - 주최: 인프랩
-  - 접수: 08. 16(금) ~ 08. 18(일)
-- __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/301974601/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 07. 05(금) ~ 08. 19(월)
-- __[2024 제2회 KISIA 정보보호 개발자 해커톤](https://festa.io/events/5627)__
-  - 분류: `오프라인(서울 양재)`, `무료`, `대회`, `보안`
-  - 주최: STEALIEN
-  - 접수: 07. 17(수) ~ 08. 19(월)
 - __[LG 소프트웨어 개발자 컨퍼런스 대학생 코딩대회 신청자 모집](https://www.lgsdc.com/registration/programming-contest/)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`
   - 주최: LG
   - 접수: 07. 17(수) ~ 08. 20(화)
+
 - __[PostgreSQL Meetup Seoul](https://stibee.com/api/v1.0/emails/share/SJFSPFIkGMg9bFYNKhqE1lQSuMfXYQU)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: PostgreSQL Meetup Seoul
@@ -181,6 +157,18 @@
   - 분류: `온라인`, `무료`, `교육`, `데이터`
   - 주최: 멋쟁이사자처럼
   - 접수: 07. 22(월) ~ 08. 21(수)
+- __[[5주완성 집중코스] 2차 세미나 참석 신청](https://open.egovframe.org/oc/support/noticeItem.do;jsessionid=DFC7B8DD3EF2E8BD7E2A362B6F39A395.7b6bbd734c4e06361?nttId=20932)__
+  - 분류: `온라인`, `무료`, `교육`, `기술일반`
+  - 주최: 오픈플랫폼 개발자 커뮤니티
+  - 접수: 08. 16(금) ~ 08. 21(수)
+- __[AI 생성물 상업적 사용을 위한 토론 - 저작권, 초상권 중심으로](https://aifactory.space/task/4466/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI Factory
+  - 일시: 08. 22(목) 19:30 ~ 20:15
+- __[자연스러운 AI](https://aifactory.space/task/4467/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI Factory
+  - 일시: 08. 22(목) 19:30 ~ 20:15
 - __[재정정보 AI 검색 알고리즘 경진대회](https://dacon.io/competitions/official/236295/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 한국재정정보원
@@ -233,6 +221,10 @@
   - 분류: `오프라인(경기 성남시)`, `무료`, `기술일반`
   - 주최: (주)MDS테크
   - 접수: 08. 16(금) ~ 08. 26(월)
+- __[월간 볼트 X 커피챗 : 뜨거운 8월의 네트워킹 데이](https://event-us.kr/boltx/event/89016)__
+  - 분류: `오프라인(서울 선릉)`, `무료`, `기술일반`
+  - 주최: 볼트엑스(boltX)
+  - 접수: 08. 13(화) ~ 08. 26(월)
 - __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
   - 주최: DELL
@@ -245,6 +237,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오라클
   - 접수: 08. 13(화) ~ 08. 28(수)
+- __[ChatGPT를 활용한 쿠버네티스 진입장벽 무너뜨리기](https://docs.google.com/forms/d/e/1FAIpQLSfjlHI3H-FGRCe2UqdhIas4uYqF4nM8Utzmw0FNhNyhfss1kw/viewform)__
+  - 분류: `온라인`, `무료`, `인프라`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 08. 20(화) ~ 08. 28(수)
+- __[AWSKRUG Women In Cloud - 10번째 모임](https://www.meetup.com/awskrug/events/302920041)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 20(화) ~ 08. 29(목)
 - __[CEO 1:1 커리어 상담](https://codeit.notion.site/CEO-1-1-902b03d45ed4420da3cddf7ca245f1f3)__
   - 분류: `온라인`, `무료`, `데이터`, `커리어`
   - 주최: 코드잇 스프린트
@@ -265,6 +265,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 08. 14(수) ~ 08. 29(목)
+- __[DatadogKRUG 1회 밋업](https://datadogkrug.vercel.app/events/1)__
+  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
+  - 주최: Datadog Korea User Group
+  - 접수: 08. 20(화) ~ 08. 29(목)
 - __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 금융보안원
@@ -302,12 +306,16 @@
   - 분류: `오프라인(수원)`, `무료`, `안드로이드`
   - 주최: 멋쟁이사자처럼
   - 접수: 08. 01(목) ~ 09. 05(목)
+- __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: NEAR Protocol 재단, BeWater
+  - 접수: 08. 20(화) ~ 09. 05(목)
 - __[SEF 2024](https://sef.connect.or.kr/2024)__
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
   - 접수: 08. 08(목) ~ 09. 06(금)
 - __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
-  - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `AI`
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: NEAR Protocol 재단, BeWater
   - 접수: 09. 06(금) ~ 09. 07(토)
 - __[제9회 한국 리눅스 커널 개발자 모임](https://festa.io/events/5756)__
@@ -322,6 +330,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 07. 31(수) ~ 09. 10(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/302859860)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 20(화) ~ 09. 10(화)
 - __[고양시 빅데이터 아카데미 및 빅데이터 공모전](https://www.gipa.or.kr/community/01_1.php?admin_mode=read&no=4140)__
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
@@ -334,6 +346,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
   - 일시: 08. 01(수) ~ 09. 13(금)
+- __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
+  - 분류: `온라인`, `무료`, `AI`, `교육`
+  - 주최: 유데미 x 웅진씽크빅
+  - 일시: 08. 19(월) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
@@ -358,11 +374,15 @@
 <br />
 
 ## 24년 10월
+- __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 국방부
+  - 접수: 08. 08(목) ~ 10. 07(월)
+
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
   - 일시: 10. 25(금)
-  
 - __[파이콘 한국 2024](https://2024.pycon.kr/)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
