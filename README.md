@@ -140,23 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[LG 소프트웨어 개발자 컨퍼런스 대학생 코딩대회 신청자 모집](https://www.lgsdc.com/registration/programming-contest/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`
-  - 주최: LG
-  - 접수: 07. 17(수) ~ 08. 20(화)
-
-- __[PostgreSQL Meetup Seoul](https://stibee.com/api/v1.0/emails/share/SJFSPFIkGMg9bFYNKhqE1lQSuMfXYQU)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: PostgreSQL Meetup Seoul
-  - 접수: 07. 31(수) ~ 08. 20(화)
-- __[LG Collegiate Programming Contest 2024](https://www.lgsdc.com/registration/programming-contest/)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: LGSDC
-  - 접수: 08. 07(수) ~ 08. 20(화)
 - __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
   - 분류: `온라인`, `무료`, `교육`, `데이터`
   - 주최: 멋쟁이사자처럼
   - 접수: 07. 22(월) ~ 08. 21(수)
+
 - __[[5주완성 집중코스] 2차 세미나 참석 신청](https://open.egovframe.org/oc/support/noticeItem.do;jsessionid=DFC7B8DD3EF2E8BD7E2A362B6F39A395.7b6bbd734c4e06361?nttId=20932)__
   - 분류: `온라인`, `무료`, `교육`, `기술일반`
   - 주최: 오픈플랫폼 개발자 커뮤니티
@@ -281,6 +269,10 @@
   - 분류: `오프라인(서울 마포)`, `유료`, `AI`
   - 주최: 중앙정보기술인재개발원
   - 접수: 08. 31(토) 10:00 ~ 13:00
+- __[YOUTHCON'24](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78)__
+  - 분류: `온라인` `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 유스콘
+  - 일시: 08. 31(토) 10:00 ~ 18:30
 
 <br />
 
@@ -302,6 +294,10 @@
   - 분류: `오프라인(수원)`, `무료`, `데이터`
   - 주최: databricks
   - 접수: 08. 12(월) ~ 09. 04(수)
+- __[AI로 세상을 바꾸는 혁신 챌린지 "DPG AI Challenge"](https://aifactory.space/task/6649/overview)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: AI Factory
+  - 접수: 08. 21(수) ~ 09. 04(수)
 - __[멋쟁이사자처럼 Android 개발 3기](https://www.wanted.co.kr/events/likelion-kdt-aos-3rd)__
   - 분류: `오프라인(수원)`, `무료`, `안드로이드`
   - 주최: 멋쟁이사자처럼
