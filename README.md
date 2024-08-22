@@ -345,7 +345,7 @@
 - __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
-  - 일시: 08. 19(월) ~ 09. 22(일)
+  - 접수: 08. 19(월) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
