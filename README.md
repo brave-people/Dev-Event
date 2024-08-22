@@ -140,19 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[데이터 분석 스펙업 부트캠프](https://www.wanted.co.kr/events/techit-kdt-dataanalysis-4th)__
-  - 분류: `온라인`, `무료`, `교육`, `데이터`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 07. 22(월) ~ 08. 21(수)
-
-- __[[5주완성 집중코스] 2차 세미나 참석 신청](https://open.egovframe.org/oc/support/noticeItem.do;jsessionid=DFC7B8DD3EF2E8BD7E2A362B6F39A395.7b6bbd734c4e06361?nttId=20932)__
-  - 분류: `온라인`, `무료`, `교육`, `기술일반`
-  - 주최: 오픈플랫폼 개발자 커뮤니티
-  - 접수: 08. 16(금) ~ 08. 21(수)
 - __[AI 생성물 상업적 사용을 위한 토론 - 저작권, 초상권 중심으로](https://aifactory.space/task/4466/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: AI Factory
   - 일시: 08. 22(목) 19:30 ~ 20:15
+
 - __[자연스러운 AI](https://aifactory.space/task/4467/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: AI Factory
@@ -229,6 +221,10 @@
   - 분류: `온라인`, `무료`, `인프라`, `AI`
   - 주최: AWSKRUG
   - 접수: 08. 20(화) ~ 08. 28(수)
+- __[8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법](https://techblog.woowahan.com/19317/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 우아한형제들
+  - 일시: 08. 28(수) ~ 18:00 ~ 19:30
 - __[AWSKRUG Women In Cloud - 10번째 모임](https://www.meetup.com/awskrug/events/302920041)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `클라우드`
   - 주최: AWSKRUG
@@ -310,6 +306,10 @@
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
   - 접수: 08. 08(목) ~ 09. 06(금)
+- __[2024 펜지니어 컨퍼런스 - 2024펜지콘](https://festa.io/events/5672)__
+  - 분류: `오프라인(대전)`, `무료`, `기술일반`
+  - 주최: 펜지니어
+  - 접수: 08. 22(목) ~ 09. 06(금)
 - __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: NEAR Protocol 재단, BeWater
@@ -358,6 +358,10 @@
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
   - 접수: 08. 01(목) ~ 09. 24(화)
+- __[Oracle DB Cloud 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdrnd6AYPFJBt7rjHi4Ad34dC0R3hiKDY4UR5bGhw-58tDo2g/viewform)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
+  - 주최: 지티플러스
+  - 접수: 08. 22(목) ~ 09. 24(화)
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
