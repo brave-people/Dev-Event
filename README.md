@@ -140,47 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[2024년 천안시 데이터 분석 아이디어 경진대회](https://www.code-c.kr/post/contest/514698)__
-  - 분류: `온라인`, `무료`, `데이터`, `대회`
-  - 주최: 천안시
-  - 접수: 07. 03(수) ~ 08. 25(일)
-
-- __[코드트리 방학 조별과제](https://www.codetree.ai/forum/no-free-lunch/home)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 코드트리
-  - 접수: 07. 12(금) ~ 08. 25(일)
-- __[생성형 AI로 자동화된 블로그 만들기](https://event-us.kr/songdodev/event/89146)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 송도 Dev
-  - 접수: 08. 08(목) ~ 08. 25(일)
-- __[AI 중심의 오픈 스터디 프로그램 데보션 오픈랩 2기 모집](https://devocean.sk.com/blog/techBoardDetail.do?ID=166665)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: DEVOCEAN
-  - 접수: 08. 12(월) ~ 08. 25(일)
-- __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: MDS테크
-  - 접수: 07. 23(화) ~ 08. 26(월)
-- __[코드잇 부트캠프, 스프린트 프론트엔드 11기 모집](https://sprint.codeit.kr/admissions/21/frontend?utm_source=dev_event&utm_medium=community&utm_content=frontend)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 코드잇
-  - 접수: 08. 02(금) ~ 08. 26(월)
-- __[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics'](https://festa.io/events/5656)__
-  - 분류: `오프라인(경기 성남시)`, `무료`, `기술일반`
-  - 주최: (주)MDS테크
-  - 접수: 08. 16(금) ~ 08. 26(월)
-- __[월간 볼트 X 커피챗 : 뜨거운 8월의 네트워킹 데이](https://event-us.kr/boltx/event/89016)__
-  - 분류: `오프라인(서울 선릉)`, `무료`, `기술일반`
-  - 주최: 볼트엑스(boltX)
-  - 접수: 08. 13(화) ~ 08. 26(월)
-- __[월간 대기업 기술면접관이 알려주는 개발자 기술 면접 필승 전략>](https://event-us.kr/futureforhrd2021/event/89648)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 패스트캠퍼스
-  - 접수: 08. 23(금) ~ 08. 26(월)
 - __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
   - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
   - 주최: DELL
   - 접수: 07. 24(수) ~ 08. 27(화)
+
 - __[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나](https://festa.io/events/5799)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SEO KOREA
@@ -233,6 +197,10 @@
   - 분류: `오프라인(서울 성북구)`, `무료`, `기술일반`
   - 주최: MLSA
   - 접수: 08. 26(월) ~ 08. 29(목)
+- __[AI 가수 올리비나 마임의 뮤직비디오와 세계관 창조 이야기](https://aifactory.space/task/4468/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AIFactory
+  - 일시: 08. 29(목) 20:30 ~ 21:15
 - __[DASH 2024](https://www.datadoghq.com/ko/dg/webinars/dash-recap-2024/)__
   - 분류: `오프라인(서울 성북구)`, `무료`, `기술일반`
   - 주최: Datadog
@@ -253,6 +221,10 @@
   - 분류: `온라인` `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 유스콘
   - 일시: 08. 31(토) 10:00 ~ 18:30
+- __[[얼리버드 신청] Kubernetes Korea Community Day 2024](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78)__
+  - 분류: `오프라인(서울 용산구)`, `유료`, `인프라`
+  - 주최: Kubernetes Korea
+  - 접수: 08. 01(목) ~ 08. 31(토)
 
 <br />
 
@@ -362,6 +334,10 @@
   - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
   - 주최: 지티플러스
   - 접수: 08. 22(목) ~ 09. 24(화)
+- __[Ahnlab iSF 2024](https://aisf.co.kr/2024/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: 안랩
+  - 일시: 09. 24(화) 10:00 ~ 17:00
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
