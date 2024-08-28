@@ -140,15 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[Dell Technologies Forum Korea 2024](https://events.dell.com/event/f03eb80f-561a-46fd-b5e5-044583046fc2/summary)__
-  - 분류: `오프라인(서울 삼성동)`, `무료`, `AI`
-  - 주최: DELL
-  - 접수: 07. 24(수) ~ 08. 27(화)
-
 - __[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나](https://festa.io/events/5799)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SEO KOREA
   - 접수: 08. 13(화) ~ 08. 28(수)
+
 - __[디지털 원주민 AI기업을 위한 포럼](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x886142abcd)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 오라클
@@ -161,6 +157,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 우아한형제들
   - 일시: 08. 28(수) ~ 18:00 ~ 19:30
+- __[스포티파이에서 데이터직군은 도대체 무슨 일을 하나요?](https://www.inflearn.com/course/offline/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A7%81%EA%B5%B0-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EB%B0%8B%EC%97%85)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 접수: 08. 19(월) ~ 08. 28(수)
 - __[AWSKRUG Women In Cloud - 10번째 모임](https://www.meetup.com/awskrug/events/302920041)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `클라우드`
   - 주최: AWSKRUG
@@ -238,6 +238,10 @@
   - 분류: `오프라인(수원)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 08. 05(월) ~ 09. 01(일)
+- __[판교 퇴근길 밋업 with 인프런 #07 오픈소스](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 접수: 08. 28(수) ~ 09. 01(일)
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
   - 분류: `오프라인(서울 송파구)`, `무료`, `기술일반`
   - 주최: MongoDB
@@ -290,6 +294,10 @@
   - 분류: `오프라인(서울 강서구)`, `무료`, `프론트엔드`
   - 주최: 스나이퍼팩토리
   - 접수: 08. 16(금) ~ 09. 08(일)
+- __[테스트 자동화를 넘어 AI-Augmented Testing으로!](https://events.zoom.us/ev/AmPWLOFpj_X3J_5IxPiGB6w0AP_TGl_wBlNj1m3fVNv-cTy2I-AU~AsGZq-wRf7yWRzFIiF_xtgbetLC1l7AaOuiu88gqsBBN4ej1g5t2QNsVHw)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: LG CNS
+  - 접수: 08. 28(수) ~ 09. 09(월)
 - __[민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발·아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
