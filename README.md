@@ -140,31 +140,11 @@
 <br />
 
 ## 24년 08월
-- __[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나](https://festa.io/events/5799)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: SEO KOREA
-  - 접수: 08. 13(화) ~ 08. 28(수)
-
-- __[디지털 원주민 AI기업을 위한 포럼](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x886142abcd)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 오라클
-  - 접수: 08. 13(화) ~ 08. 28(수)
-- __[ChatGPT를 활용한 쿠버네티스 진입장벽 무너뜨리기](https://docs.google.com/forms/d/e/1FAIpQLSfjlHI3H-FGRCe2UqdhIas4uYqF4nM8Utzmw0FNhNyhfss1kw/viewform)__
-  - 분류: `온라인`, `무료`, `인프라`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 08. 20(화) ~ 08. 28(수)
-- __[8월 우아한테크세미나: 생성AI로 똑똑하게 일하는 법](https://techblog.woowahan.com/19317/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 우아한형제들
-  - 일시: 08. 28(수) ~ 18:00 ~ 19:30
-- __[스포티파이에서 데이터직군은 도대체 무슨 일을 하나요?](https://www.inflearn.com/course/offline/%EC%8A%A4%ED%8F%AC%ED%8B%B0%ED%8C%8C%EC%9D%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A7%81%EA%B5%B0-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EB%B0%8B%EC%97%85)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 08. 19(월) ~ 08. 28(수)
 - __[AWSKRUG Women In Cloud - 10번째 모임](https://www.meetup.com/awskrug/events/302920041)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 20(화) ~ 08. 29(목)
+
 - __[CEO 1:1 커리어 상담](https://codeit.notion.site/CEO-1-1-902b03d45ed4420da3cddf7ca245f1f3)__
   - 분류: `온라인`, `무료`, `데이터`, `커리어`
   - 주최: 코드잇 스프린트
@@ -310,6 +290,10 @@
   - 분류: `오프라인(서울 서초)`, `무료`, `보안`
   - 주최: 삼성전자
   - 접수: 08. 12(월) ~ 09. 10(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/302859860/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 29(목) ~ 09. 10(화)
 - __[고양시 빅데이터 아카데미 및 빅데이터 공모전](https://www.gipa.or.kr/community/01_1.php?admin_mode=read&no=4140)__
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
