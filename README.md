@@ -230,6 +230,10 @@
   - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
   - 주최: 토스
   - 접수: 08. 23(금) ~ 09. 02(월)
+- __[Spring Boot 밋업 with Josh Long](https://www.inflearn.com/course/offline/josh-long-meetup)__
+  - 분류: `오프라인(경기 분당)`, `무료`, `벡엔드`
+  - 주최: 인프런
+  - 접수: 08. 29(목) ~ 09. 02(월)
 - __[모두를 위한 데이터 인텔리전스 온라인 컨퍼런스 2024](https://events.databricks.com/FY250904BestofDataAISummitKoreaRecap)__
   - 분류: `오프라인(수원)`, `무료`, `데이터`
   - 주최: databricks
