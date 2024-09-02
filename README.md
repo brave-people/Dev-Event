@@ -139,49 +139,12 @@
 
 <br />
 
-## 24년 08월
-- __[DASH 2024](https://www.datadoghq.com/ko/dg/webinars/dash-recap-2024/)__
-  - 분류: `오프라인(서울 성북구)`, `무료`, `기술일반`
-  - 주최: Datadog
-  - 접수: 08. 26(월) ~ 08. 30(금)
-
-- __[FSI AIxData Challenge 2024](https://dacon.io/competitions/official/236297/overview/description)__
-  - 분류: `온라인`, `무료`, `데이터`, `대회`
-  - 주최: 금융보안원
-  - 접수: 07. 10(수) ~ 08. 30(금)
-- __[컴포즈 정원사](https://festa.io/events/5701)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`, `안드로이드`
-  - 주최: 성빈랜드
-  - 접수: 07. 29(월) ~ 08. 30(금)
-- __[생성형 인공지능 이해와 기초활용 실습 및 토크](https://www.choongang.co.kr/html/sub02_05_n.php)__
-  - 분류: `오프라인(서울 마포)`, `유료`, `AI`
-  - 주최: 중앙정보기술인재개발원
-  - 접수: 08. 31(토) 10:00 ~ 13:00
-- __[YOUTHCON'24](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78)__
-  - 분류: `온라인` `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 유스콘
-  - 일시: 08. 31(토) 10:00 ~ 18:30
-- __[[얼리버드 신청] Kubernetes Korea Community Day 2024](https://frost-witch-afb.notion.site/YOUTHCON-24-49177aa1b828435f98046912c6debc78)__
-  - 분류: `오프라인(서울 용산구)`, `유료`, `인프라`
-  - 주최: Kubernetes Korea
-  - 접수: 08. 01(목) ~ 08. 31(토)
-
-<br />
-
 ## 24년 09월
 - __[Open Source Communities in Asia](https://2024.openinfraasia.org/)__
   - 분류: `오프라인(수원)`, `유료`, `기술일반`
   - 주최: OpenInfra Summit Asia
   - 일시: 09. 03(화) ~ 09. 04(수)
 
-- __[2024 오픈소스 컨트리뷰션 아카데미](https://www.contribution.ac/)__
-  - 분류: `오프라인(수원)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 일시: 08. 05(월) ~ 09. 01(일)
-- __[판교 퇴근길 밋업 with 인프런 #07 오픈소스](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 08. 28(수) ~ 09. 01(일)
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
   - 분류: `오프라인(서울 송파구)`, `무료`, `기술일반`
   - 주최: MongoDB
@@ -194,6 +157,10 @@
   - 분류: `오프라인(경기 분당)`, `무료`, `벡엔드`
   - 주최: 인프런
   - 접수: 08. 29(목) ~ 09. 02(월)
+- __[PostgreSQL로 대용량 데이터 살펴보기](https://stibee.com/api/v1.0/emails/share/PGIBoVY6jXfuyhu5OaezCEFtY8m_4gs)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 비트나인
+  - 접수: 09. 01(일) ~ 09. 03(화)
 - __[모두를 위한 데이터 인텔리전스 온라인 컨퍼런스 2024](https://events.databricks.com/FY250904BestofDataAISummitKoreaRecap)__
   - 분류: `오프라인(수원)`, `무료`, `데이터`
   - 주최: databricks
@@ -222,6 +189,10 @@
   - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
   - 주최: 한국과학창의재단
   - 접수: 08. 23(금) ~ 09. 06(금)
+- __[표준프레임워크 컨트리뷰션 멘토링에 참여할 멘티 모집](https://okky.kr/articles/1513440?topic=it&page=1)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 오픈플랫폼개발자 커뮤니티
+  - 접수: 08. 30(금) ~ 09. 06(금)
 - __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: NEAR Protocol 재단, BeWater
@@ -234,6 +205,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의 연구소
   - 일시: 09. 07(토) 15:00 ~ 17:30
+- __[한입 FE 챌린지 - 2기](https://winterlood.notion.site/FE-2-69911cc53e8e454ab7574df2c6f76c0a)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 한입
+  - 접수: 09. 01(월) ~ 09. 07(토)
 - __[프론트엔드 프로젝트 캠프 : next.js 3기](https://festa.io/events/5823)__
   - 분류: `오프라인(서울 강서구)`, `무료`, `프론트엔드`
   - 주최: 스나이퍼팩토리
@@ -262,6 +237,10 @@
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
   - 접수: 07. 24(수) ~ 09. 11(수)
+- __[삼성 SDS를 거쳐 스타트업 CTO가 되기까지, 개발자 커리어 성장 노하우](https://nbcamp.spartacodingclub.kr/orientation?track=backend)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 스파르타코딩클럽
+  - 접수: 09. 02(월) ~ 09. 11(수)
 - __[2024 Samsung AI Challenge : Machine Learning Force Fields](https://dacon.io/competitions/official/236322/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
@@ -270,6 +249,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
   - 일시: 08. 01(수) ~ 09. 13(금)
+- __[멋쟁이사자처럼 유니티 게임 개발 부트캠프 2기](https://www.wanted.co.kr/events/likelion-kdt-ugm-2nd)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 08. 13(화) ~ 09. 13(금)
 - __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
@@ -302,6 +285,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: 안랩
   - 일시: 09. 24(화) 10:00 ~ 17:00
+- __[개발자를 위한 필수 보고 & 커뮤니케이션 스킬 업](https://festa.io/events/5844)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `모임`
+  - 주최: 한빛앤
+  - 접수: 09. 02(월) ~ 09. 25(수)
+- __[2024 제3회 전문가네트워킹](https://ictcoc.kr/03_pro_n/pro01_view.asp?idx=124)__
+  - 분류: `오프라인(서울 마포)`, `유료`, `기술일반`
+  - 주최: ICT CoC
+  - 접수: 09. 02(월) ~ 09. 25(수)
+- __[프론트엔드 파이트 클럽 LIVE 온라인 참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsVYcghb1v3DbtrlLIhXn3MaSWPPzww4_0OteuaRV2fA_1jg/viewform)__
+  - 분류: `오프라인(서울 마포)`, `유료`, `프론트엔드`
+  - 주최: 프론트엔드 다이빙 클럽
+  - 접수: 09. 02(월) ~ 09. 26(목)
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
@@ -319,6 +314,10 @@
   - 주최: 국방부
   - 접수: 08. 08(목) ~ 10. 07(월)
 
+- __[[코드잇 스프린트] 8주 단기 심화 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=dev&utm_medium=community&utm_content=frontend)__
+  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
+  - 주최: 코드잇
+  - 접수: 09. 02(월) ~ 10. 14(월)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
