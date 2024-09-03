@@ -314,11 +314,15 @@
 <br />
 
 ## 24년 10월
+- __[2024 당근 테크 밋업](https://tech-meetup.daangn.com/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 당근
+  - 접수: 09. 03(화) ~ 10. 06(일)
+
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
   - 접수: 08. 08(목) ~ 10. 07(월)
-
 - __[[코드잇 스프린트] 8주 단기 심화 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=dev&utm_medium=community&utm_content=frontend)__
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 코드잇
