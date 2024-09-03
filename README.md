@@ -265,6 +265,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: (주)씨피랩스
   - 접수: 09. 02(월) ~ 09. 22(일)
+- __[SIPE 3기 모집](https://sipe.team/)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: SIPE
+  - 접수: 09. 08(일) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
@@ -374,7 +378,7 @@
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
-| SIPE | 현직 개발자들이 모여 함께 학습하고 소통하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
+| SIPE | 개발자들이 함께 교류하며 성장하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
 | 9oormthon Univ | 구름과 시즌톤이 함께하는 대학생 IT연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 
