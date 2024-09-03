@@ -126,7 +126,8 @@
               <a href="./end_event/2024/24_05.md"> 05월 </a>,
               <a href="./end_event/2024/24_06.md"> 06월 </a>,
               <a href="./end_event/2024/24_07.md"> 07월 </a>,
-              <a href="./end_event/2024/24_08.md"> 08월 </a>
+              <a href="./end_event/2024/24_08.md"> 08월 </a>,
+              <a href="./end_event/2024/24_09.md"> 09월 </a>
             </td>
         </tr>
         <tr>
@@ -145,22 +146,6 @@
   - 주최: OpenInfra Summit Asia
   - 일시: 09. 03(화) ~ 09. 04(수)
 
-- __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `기술일반`
-  - 주최: MongoDB
-  - 접수: 08. 09(금) ~ 09. 02(수)
-- __[Slash 24](https://toss.im/slash-24)__
-  - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
-  - 주최: 토스
-  - 접수: 08. 23(금) ~ 09. 02(월)
-- __[Spring Boot 밋업 with Josh Long](https://www.inflearn.com/course/offline/josh-long-meetup)__
-  - 분류: `오프라인(경기 분당)`, `무료`, `벡엔드`
-  - 주최: 인프런
-  - 접수: 08. 29(목) ~ 09. 02(월)
-- __[PostgreSQL로 대용량 데이터 살펴보기](https://stibee.com/api/v1.0/emails/share/PGIBoVY6jXfuyhu5OaezCEFtY8m_4gs)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 비트나인
-  - 접수: 09. 01(일) ~ 09. 03(화)
 - __[모두를 위한 데이터 인텔리전스 온라인 컨퍼런스 2024](https://events.databricks.com/FY250904BestofDataAISummitKoreaRecap)__
   - 분류: `오프라인(수원)`, `무료`, `데이터`
   - 주최: databricks
@@ -169,6 +154,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: AI Factory
   - 접수: 08. 21(수) ~ 09. 04(수)
+- __[AI 컴패니언, 디지털 엔터테인먼트의 새로운 시대를 열다.](https://aifactory.space/task/6728/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI Factory
+  - 일시: 09. 05(목) 19:30 ~ 20:15
 - __[멋쟁이사자처럼 Android 개발 3기](https://www.wanted.co.kr/events/likelion-kdt-aos-3rd)__
   - 분류: `오프라인(수원)`, `무료`, `안드로이드`
   - 주최: 멋쟁이사자처럼
@@ -257,6 +246,10 @@
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
   - 접수: 08. 19(월) ~ 09. 22(일)
+- __[AUSGCON 2024 (아우쓱콘)](https://festa.io/events/5914)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 08. 23(금) ~ 09. 20(금)
 - __[2024년 데이터 분석·활용 공모전](https://www.datacontest.co.kr/main/main.html)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 행정안전부
@@ -293,14 +286,26 @@
   - 분류: `오프라인(서울 마포)`, `유료`, `기술일반`
   - 주최: ICT CoC
   - 접수: 09. 02(월) ~ 09. 25(수)
+- __[AKM: 한의사 아키텍트가 들려주는 "애자일 리더십"](https://festa.io/events/5867)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 에자일 코리아 밋업
+  - 접수: 09. 03(화) ~ 09. 25(수)
 - __[프론트엔드 파이트 클럽 LIVE 온라인 참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsVYcghb1v3DbtrlLIhXn3MaSWPPzww4_0OteuaRV2fA_1jg/viewform)__
   - 분류: `오프라인(서울 마포)`, `유료`, `프론트엔드`
   - 주최: 프론트엔드 다이빙 클럽
   - 접수: 09. 02(월) ~ 09. 26(목)
+- __[위성영상을 활용한 선박 탐지 AI 경진대회](https://aifactory.space/task/4232/overview)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: AI Factory
+  - 접수: 09. 09(월) ~ 09. 26(목)
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
   - 접수: 08. 16(금) ~ 09. 27(금)
+- __[2024 대한민국 소프트웨어 기술대상 및 IT아키텍처상](https://www.kosta.or.kr/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=88081317&t=board)__
+  - 분류: `오프라인`, `유료`, `대회`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 09(월) ~ 09. 29(금)
 - __[BICG 2024Q3 LTCP AI인플루언서 생성](https://aifactory.space/task/4418/overview)__
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
