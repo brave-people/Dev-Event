@@ -141,35 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[Open Source Communities in Asia](https://2024.openinfraasia.org/)__
-  - 분류: `오프라인(수원)`, `유료`, `기술일반`
-  - 주최: OpenInfra Summit Asia
-  - 일시: 09. 03(화) ~ 09. 04(수)
-
-- __[모두를 위한 데이터 인텔리전스 온라인 컨퍼런스 2024](https://events.databricks.com/FY250904BestofDataAISummitKoreaRecap)__
-  - 분류: `오프라인(수원)`, `무료`, `데이터`
-  - 주최: databricks
-  - 접수: 08. 12(월) ~ 09. 04(수)
-- __[AI로 세상을 바꾸는 혁신 챌린지 "DPG AI Challenge"](https://aifactory.space/task/6649/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: AI Factory
-  - 접수: 08. 21(수) ~ 09. 04(수)
-- __[AI 컴패니언, 디지털 엔터테인먼트의 새로운 시대를 열다.](https://aifactory.space/task/6728/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AI Factory
-  - 일시: 09. 05(목) 19:30 ~ 20:15
-- __[멋쟁이사자처럼 Android 개발 3기](https://www.wanted.co.kr/events/likelion-kdt-aos-3rd)__
-  - 분류: `오프라인(수원)`, `무료`, `안드로이드`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 08. 01(목) ~ 09. 05(목)
-- __[BeWater x NEAR HZN AI Alpha Hackathon](https://lu.ma/eb7w3abx)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: NEAR Protocol 재단, BeWater
-  - 접수: 08. 20(화) ~ 09. 05(목)
 - __[SEF 2024](https://sef.connect.or.kr/2024)__
   - 분류: `온라인`, `오프라인(서울 성수동)`, `무료`, `기술일반`
   - 주최: 네이버 커넥트재단
   - 접수: 08. 08(목) ~ 09. 06(금)
+
 - __[2024 펜지니어 컨퍼런스 - 2024펜지콘](https://festa.io/events/5672)__
   - 분류: `오프라인(대전)`, `무료`, `기술일반`
   - 주최: 펜지니어
@@ -190,6 +166,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 한국 리눅스 커널 개발자 모임
   - 일시: 08. 05(월) ~ 09. 04(수)
+- __[Fine-tune or Not to Fine-tune](https://aifactory.space/task/6772/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: AI Factory
+  - 일시: 09. 05(목) 15:00
 - __[플랫폼에 대한 이해 및 AI 효율성 관리 및 내재화 방법, part2](https://festa.io/events/5869)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의 연구소
@@ -218,10 +198,22 @@
   - 분류: `오프라인(서울 서초)`, `무료`, `보안`
   - 주최: 삼성전자
   - 접수: 08. 12(월) ~ 09. 10(화)
+- __[분당서울대학교병원 급성신손상 환자 데이터톤](https://snubh-datathon.imweb.me/)__
+  - 분류: `온라인`, `무료`, `데이터`, `대회`
+  - 주최: 의료인공지능센터
+  - 접수: 08. 25(일) ~ 09. 10(화)
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/302859860/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 구로)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 29(목) ~ 09. 10(화)
+- __[예비 데이터 사이언티스트 선배가 들려주는 아이펠스토리](https://festa.io/events/5909)__
+  - 분류: `오프라인(서울 구로)`, `무료`, `데이터`
+  - 주최: 모두의연구소
+  - 접수: 09. 05(목) ~ 09. 10(화)
+- __[K-ICT X CENDIWEEK](https://festa.io/events/5947)__
+  - 분류: `오프라인(부산 해운대)`, `무료`, `모임`, `기술일반`
+  - 주최: 모두의연구소
+  - 접수: 09. 05(목) ~ 09. 10(화)
 - __[고양시 빅데이터 아카데미 및 빅데이터 공모전](https://www.gipa.or.kr/community/01_1.php?admin_mode=read&no=4140)__
   - 분류: `온라인`, `무료`, `빅데이터`
   - 주최: 고양특례시
@@ -247,9 +239,9 @@
   - 주최: 유데미 x 웅진씽크빅
   - 접수: 08. 19(월) ~ 09. 22(일)
 - __[AUSGCON 2024 (아우쓱콘)](https://festa.io/events/5914)__
-  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 분류: `오프라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 08. 23(금) ~ 09. 20(금)
+  - 접수: 08. 23(금) ~ 09. 21(토)
 - __[2024년 데이터 분석·활용 공모전](https://www.datacontest.co.kr/main/main.html)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 행정안전부
@@ -258,6 +250,10 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: (주)씨피랩스
   - 접수: 09. 02(월) ~ 09. 22(일)
+- __[SIPE 3기 모집](https://sipe.team/)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: SIPE
+  - 접수: 09. 08(일) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
@@ -310,10 +306,10 @@
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
   - 접수: 07. 01(월) ~ 09. 30(월)
-- __[AUSGCON 2024](https://2024.ausg.me/)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `주니어`, `클라우드`
-  - 주최: AUSG (AWSKRUG University Student Group)
-  - 접수: 09. 03(화) ~ 09. 21(토))
+- __[모두의 연구소 데이터 사이언티스트 전문 과정](https://ds.aiffel.io/)__
+  - 분류: `온라인`, `교육`, `데이터`
+  - 주최: 모두의 연구소
+  - 접수: 08. 21(수) ~ 09. 30(월)
 
 <br />
 
@@ -331,6 +327,14 @@
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 코드잇
   - 접수: 09. 02(월) ~ 10. 14(월)
+- __[Red Hat Summit: Connect 2024](https://www.redhat.com/ko/summit/connect/apac/seoul-2024?sc_cid=7015Y0000048PW3QAM)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: 레드햇
+  - 접수: 09. 06(금) ~ 10. 14(월)
+- __[ISEC 2024 (제18회 국제 시큐리티 콘퍼런스)](https://www.isecconference.org/2024/kor/index.html)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 더비엔
+  - 접수: 09. 06(금) ~ 10. 15(화)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
@@ -387,7 +391,7 @@
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://cloudclub.oopy.io/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
-| SIPE | 현직 개발자들이 모여 함께 학습하고 소통하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
+| SIPE | 개발자들이 함께 교류하며 성장하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
 | 9oormthon Univ | 구름과 시즌톤이 함께하는 대학생 IT연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 
