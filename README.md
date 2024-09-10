@@ -141,15 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[테스트 자동화를 넘어 AI-Augmented Testing으로!](https://events.zoom.us/ev/AmPWLOFpj_X3J_5IxPiGB6w0AP_TGl_wBlNj1m3fVNv-cTy2I-AU~AsGZq-wRf7yWRzFIiF_xtgbetLC1l7AaOuiu88gqsBBN4ej1g5t2QNsVHw)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: LG CNS
-  - 접수: 08. 28(수) ~ 09. 09(월)
-
 - __[민관협력 지원 플랫폼 활용 디지털 사회혁신 서비스 개발·아이디어 공모전](https://devcontest-digitalsolveup.kr/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 07. 31(수) ~ 09. 10(화)
+
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/302859860)__
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -202,6 +198,14 @@
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
   - 접수: 08. 19(월) ~ 09. 22(일)
+- __[남궁성의 데브캠프 (백엔드 개발)](https://fastcampus.co.kr/b2g_kdigitaltraining_backend)__
+  - 분류: `온라인`, `무료`, `교육`, `벡엔드`
+  - 주최: 페스트캠퍼스
+  - 접수: 09. 10(화) ~ 09. 18(수)
+- __[남궁성의 데브캠프 (백엔드 개발)](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)__
+  - 분류: `온라인`, `무료`, `교육`, `AI`
+  - 주최: 페스트캠퍼스
+  - 접수: 09. 10(화) ~ 09. 18(수)
 - __[AUSGCON 2024 (아우쓱콘)](https://festa.io/events/5914)__
   - 분류: `오프라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -242,6 +246,10 @@
   - 분류: `오프라인(서울 서대문구)`, `무료`, `모임`
   - 주최: 한빛앤
   - 접수: 09. 02(월) ~ 09. 25(수)
+- __[우아한테크코스 2025 신입생 모집](https://www.woowacourse.io/apply)__
+  - 분류: `오프라인`, `온라인`, `무료`, `교육`
+  - 주최: 우아한테크코스
+  - 접수: 09. 10(화) ~ 09. 25(수)
 - __[2024 제3회 전문가네트워킹](https://ictcoc.kr/03_pro_n/pro01_view.asp?idx=124)__
   - 분류: `오프라인(서울 마포)`, `유료`, `기술일반`
   - 주최: ICT CoC
