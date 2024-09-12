@@ -1302,6 +1302,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dev-Jeenie",
+      "name": "Ha jin Park",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83256772?v=4",
+      "profile": "https://velog.io/@devjeenie",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
