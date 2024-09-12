@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-144-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-145-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -682,6 +682,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/morningB"><img src="https://avatars.githubusercontent.com/u/114423035?v=4?s=100" width="100px;" alt="Joowon_Yun"/><br /><sub><b>Joowon_Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=morningB" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.guesung.site"><img src="https://avatars.githubusercontent.com/u/62178788?v=4?s=100" width="100px;" alt="Kuesung Park"/><br /><sub><b>Kuesung Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=guesung" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://3boku.me"><img src="https://avatars.githubusercontent.com/u/68502584?v=4?s=100" width="100px;" alt="정삼복"/><br /><sub><b>정삼복</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=3boku" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@devjeenie"><img src="https://avatars.githubusercontent.com/u/83256772?v=4?s=100" width="100px;" alt="Ha jin Park"/><br /><sub><b>Ha jin Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dev-Jeenie" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
