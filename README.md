@@ -145,7 +145,7 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
   - 일시: 08. 01(수) ~ 09. 13(금)
-  
+
 - __[2024 Samsung AI Challenge : Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
@@ -174,6 +174,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 인프런
   - 접수: 09. 11(수) ~ 09. 18(수)
+- __[[튜링의 사과 X 플러터 서울] 월간 커뮤니티 강의](https://docs.google.com/forms/d/1_clELk7HY3ufmMNIQk1MqnXZjkor_Xu_G51bHDLr53A/viewform?edit_requested=true)__
+  - 분류: `오프라인(서울 은평구)`, `무료`, `안드로이드`, `iOS`
+  - 주최: 튜링의 사과
+  - 접수: 09. 13(금) ~ 09. 19(목)
 - __[Traxion:// 열망에서, 성취까지](https://festa.io/events/5958)__
   - 분류: `오프라인(서울 은평구)`, `유료`, `모임`, `기술일반`
   - 주최: Traxion by Phylaxis
