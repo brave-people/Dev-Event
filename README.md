@@ -141,15 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[2024 프론트엔드 취업 트렌드](http://forms.gle/9Fsa1k5XBLxgkcCE7)__
-  - 분류: `온라인`, `무료`, `프론트엔드`, `커리어`
-  - 주최: 패스트캠퍼스
-  - 접수: 09. 09(월) ~ 09. 12(목)
-
 - __[2024 Samsung AI Challenge : Machine Learning Force Fields](https://dacon.io/competitions/official/236322/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
   - 일시: 08. 01(수) ~ 09. 13(금)
+  
 - __[2024 Samsung AI Challenge : Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 삼성전자 SAIT
@@ -158,6 +154,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 멋쟁이사자처럼
   - 접수: 08. 13(화) ~ 09. 13(금)
+- __[Pangyo Coding Marathon](https://festa.io/events/5989)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: GDG Pangyo
+  - 접수: 09. 13(금) ~ 09. 15(일)
 - __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
@@ -250,10 +250,18 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: AI Factory
   - 접수: 09. 09(월) ~ 09. 26(목)
+- __[개발자 부부의 사이드 프로젝트 '오픈소스 모바일 청첩장' 만들기](https://event-us.kr/modu/event/90704)__
+  - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
+  - 주최: 모두의 연구소
+  - 접수: 09. 11(수) ~ 09. 26(목) 10:00
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
   - 접수: 08. 16(금) ~ 09. 27(금)
+- __[DevFest Android in Korea 2024](https://festa.io/events/5968)__
+  - 분류: `오프라인`, `유료`, `안드로이드`
+  - 주최: GDG Korea Android
+  - 접수: 09. 13(금) ~ 09. 28(목)
 - __[2024 대한민국 소프트웨어 기술대상 및 IT아키텍처상](https://www.kosta.or.kr/notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=88081317&t=board)__
   - 분류: `오프라인`, `유료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -307,6 +315,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
   - 주최: 테드박의 개발자행사
   - 접수: 09. 10(화) ~ 10. 17(목)
+- __[JNPMEDI 2nd Tech Meetup](https://festa.io/events/5987)__
+  - 분류: `오프라인(인천 연수구)`, `무료`, `기술일반`
+  - 주최: JNPMEDI Tech Meetup
+  - 접수: 09. 13(금) ~ 10. 18(금)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
