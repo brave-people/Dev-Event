@@ -287,6 +287,10 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 09. 09(월) ~ 10. 12(토)
+- __[GopherCon Korea 2024](https://festa.io/events/5098)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 일시: 10. 12(토) ~ 10. 13(일)
 - __[[코드잇 스프린트] 8주 단기 심화 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=dev&utm_medium=community&utm_content=frontend)__
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 코드잇
@@ -327,10 +331,6 @@
   - 분류: `오프라인(미국 캘리포니아)`, `유료`, `기술일반`
   - 주최: Github
   - 접수: 07. 31(수) ~ 10. 30(수)
-- __[GopherCon Korea 2024](https://festa.io/events/5098)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 04. 01(월) ~ 10. 31(목)
 - __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
