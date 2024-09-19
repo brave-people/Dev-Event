@@ -141,43 +141,15 @@
 <br />
 
 ## 24년 09월
-- __[2024 Samsung AI Challenge : Machine Learning Force Fields](https://dacon.io/competitions/official/236322/overview/description)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 삼성전자 SAIT
-  - 일시: 08. 01(수) ~ 09. 13(금)
-
-- __[2024 Samsung AI Challenge : Black-box Optimization](https://dacon.io/competitions/official/236323/overview/description)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 삼성전자 SAIT
-  - 일시: 08. 01(수) ~ 09. 13(금)
-- __[멋쟁이사자처럼 유니티 게임 개발 부트캠프 2기](https://www.wanted.co.kr/events/likelion-kdt-ugm-2nd)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 08. 13(화) ~ 09. 13(금)
-- __[Pangyo Coding Marathon](https://festa.io/events/5989)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: GDG Pangyo
-  - 접수: 09. 13(금) ~ 09. 15(일)
-- __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
-  - 분류: `온라인`, `무료`, `AI`, `교육`
-  - 주최: 유데미 x 웅진씽크빅
-  - 접수: 08. 19(월) ~ 09. 22(일)
-- __[남궁성의 데브캠프 (백엔드 개발)](https://fastcampus.co.kr/b2g_kdigitaltraining_backend)__
-  - 분류: `온라인`, `무료`, `교육`, `벡엔드`
-  - 주최: 페스트캠퍼스
-  - 접수: 09. 10(화) ~ 09. 18(수)
-- __[Upstage AI Lab](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)__
-  - 분류: `온라인`, `무료`, `교육`, `AI`
-  - 주최: 페스트캠퍼스
-  - 접수: 09. 10(화) ~ 09. 18(수)
-- __[판교 퇴근길 밋업 - 가을 특집 with 개발바닥](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%80%EC%9D%84%ED%8A%B9%EC%A7%91-%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 인프런
-  - 접수: 09. 11(수) ~ 09. 18(수)
 - __[[튜링의 사과 X 플러터 서울] 월간 커뮤니티 강의](https://docs.google.com/forms/d/1_clELk7HY3ufmMNIQk1MqnXZjkor_Xu_G51bHDLr53A/viewform?edit_requested=true)__
   - 분류: `오프라인(서울 은평구)`, `무료`, `안드로이드`, `iOS`
   - 주최: 튜링의 사과
   - 접수: 09. 13(금) ~ 09. 19(목)
+
+- __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
+  - 분류: `온라인`, `무료`, `AI`, `교육`
+  - 주최: 유데미 x 웅진씽크빅
+  - 접수: 08. 19(월) ~ 09. 22(일)
 - __[Traxion:// 열망에서, 성취까지](https://festa.io/events/5958)__
   - 분류: `오프라인(서울 은평구)`, `유료`, `모임`, `기술일반`
   - 주최: Traxion by Phylaxis
@@ -202,6 +174,10 @@
   - 분류: `오프라인(서울 마곡)`, `무료`, `기술일반`
   - 주최: 유플러스
   - 접수: 09. 12(목) ~ 09. 22(일)
+- __[코드잇 스프린드 SQl 무료특강](https://sprint.codeit.kr/blog/%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-sql-%EB%AC%B4%EB%A3%8C-%ED%8A%B9%EA%B0%95-29914)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 코드잇
+  - 접수: 09. 19(목) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
@@ -246,6 +222,14 @@
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: I in We & AWS
   - 접수: 09. 11(수) ~ 09. 25(수)
+- __[SW개발자 취업성공 로드맵 완성](https://www.choongang.co.kr/html/sub07_01_n_view.php?idx=176)__
+  - 분류: `오프라인(서울 마포)`, `무료`, `교육`
+  - 주최: 고용노동부
+  - 접수: 09. 12(목) ~ 09. 25(수)
+- __[IT 인프라, 얼마나 알아야 하나요?](https://festa.io/events/6003)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: F-Lab
+  - 접수: 09. 19(목) ~ 09. 26(목)
 - __[프론트엔드 파이트 클럽 LIVE 온라인 참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsVYcghb1v3DbtrlLIhXn3MaSWPPzww4_0OteuaRV2fA_1jg/viewform)__
   - 분류: `오프라인(서울 마포)`, `유료`, `프론트엔드`
   - 주최: 프론트엔드 다이빙 클럽
@@ -262,6 +246,10 @@
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
   - 접수: 08. 16(금) ~ 09. 27(금)
+- __[바로 배워서 써먹는 Swift 활용 IOS 앱개발](https://festa.io/events/6022)__
+  - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`
+  - 주최: 엘리스Lab
+  - 접수: 09. 19(목) ~ 09. 27(금)
 - __[DevFest Android in Korea 2024](https://festa.io/events/5968)__
   - 분류: `오프라인`, `유료`, `안드로이드`
   - 주최: GDG Korea Android
@@ -350,6 +338,11 @@
 
 <br />
 
+## 24년 11월
+- __[홈서버 워크샵](https://festa.io/events/5960)__
+  - 분류: `오프라인(부산 해운대구)`, `유료`, `클라우드`
+  - 주최: SUSC
+  - 접수: 09. 19(월) ~ 11. 01(금)
 
 ----------------
 
