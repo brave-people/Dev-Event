@@ -141,15 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[[튜링의 사과 X 플러터 서울] 월간 커뮤니티 강의](https://docs.google.com/forms/d/1_clELk7HY3ufmMNIQk1MqnXZjkor_Xu_G51bHDLr53A/viewform?edit_requested=true)__
-  - 분류: `오프라인(서울 은평구)`, `무료`, `안드로이드`, `iOS`
-  - 주최: 튜링의 사과
-  - 접수: 09. 13(금) ~ 09. 19(목)
-
 - __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
   - 분류: `온라인`, `무료`, `AI`, `교육`
   - 주최: 유데미 x 웅진씽크빅
   - 접수: 08. 19(월) ~ 09. 22(일)
+
 - __[Traxion:// 열망에서, 성취까지](https://festa.io/events/5958)__
   - 분류: `오프라인(서울 은평구)`, `유료`, `모임`, `기술일반`
   - 주최: Traxion by Phylaxis
@@ -270,11 +266,23 @@
 <br />
 
 ## 24년 10월
+- __[도커·쿠버네티스로 시스템 설계까지 | 프리온보딩 BE 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_be_24)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 09. 20(금) ~ 10. 05(토)
+
+- __[리액트 오픈소스 펼쳐보기 | 프리온보딩 FE 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_fe_26)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 09. 20(금) ~ 10. 05(토)
+- __[궁극의 딥러닝 코드 실무 가이드 | 프리온보딩 AI 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_ai_5)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 09. 20(금) ~ 10. 05(토)
 - __[2024 당근 테크 밋업](https://tech-meetup.daangn.com/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 당근
   - 접수: 09. 03(화) ~ 10. 06(일)
-
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
@@ -311,6 +319,14 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `기술일반`
   - 주최: JNPMEDI Tech Meetup
   - 접수: 09. 13(금) ~ 10. 18(금)
+- __[모두의연구소 AI학교 아이펠 10기](https://www.aiffel.io/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 09. 20(금) ~ 10. 20(일)
+- __[멋쟁이사자처럼 클라우드 엔지니어링 2기 모집](https://www.wanted.co.kr/events/likelion-kdt-cld-2nd)__
+  - 분류: `온라인`, `유료`, `클라우드`, `교육`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 09. 20(금) ~ 10. 22(화)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
