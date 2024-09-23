@@ -141,43 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[유데미 개발 챌린지 : 클론코딩 (프론트엔드/백엔드/게임개발)](https://udemy.wjtb.co.kr/event/id/272?utm_medium=udemyads&utm_source=wj-etc&utm_campaign=devchallenge_viral&utm_content=dev_event&utm_term=240820)__
-  - 분류: `온라인`, `무료`, `AI`, `교육`
-  - 주최: 유데미 x 웅진씽크빅
-  - 접수: 08. 19(월) ~ 09. 22(일)
-
-- __[Traxion:// 열망에서, 성취까지](https://festa.io/events/5958)__
-  - 분류: `오프라인(서울 은평구)`, `유료`, `모임`, `기술일반`
-  - 주최: Traxion by Phylaxis
-  - 접수: 09. 11(수) ~ 09. 20(금)
-- __[2024년 데이터 분석·활용 공모전](https://www.datacontest.co.kr/main/main.html)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 행정안전부
-  - 접수: 08. 23(금) ~ 09. 20(금)
-- __[AUSGCON 2024 (아우쓱콘)](https://festa.io/events/5914)__
-  - 분류: `오프라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 23(금) ~ 09. 21(토)
-- __[ConnecThon(WEB2X 아이디어톤)](https://onoffmix.com/event/307484)__
-  - 분류: `온라인`, `무료`, `대회`, `기술일반`
-  - 주최: (주)씨피랩스
-  - 접수: 09. 02(월) ~ 09. 22(일)
-- __[SIPE 3기 모집](https://sipe.team/)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: SIPE
-  - 접수: 09. 08(일) ~ 09. 22(일)
-- __[2024 LG유플러스 테크 컨퍼런스 '유플텍플'](https://www.careertalk.kr/pin/9449043)__
-  - 분류: `오프라인(서울 마곡)`, `무료`, `기술일반`
-  - 주최: 유플러스
-  - 접수: 09. 12(목) ~ 09. 22(일)
-- __[코드잇 스프린드 SQl 무료특강](https://sprint.codeit.kr/blog/%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-sql-%EB%AC%B4%EB%A3%8C-%ED%8A%B9%EA%B0%95-29914)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 코드잇
-  - 접수: 09. 19(목) ~ 09. 22(일)
 - __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 한국제약바이오협회
   - 일시: 08. 05(월) ~ 09. 23(월)
+
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
   - 주최: Kubernetes Korea
@@ -198,6 +166,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: 안랩
   - 일시: 09. 24(화) 10:00 ~ 17:00
+- __[lab | up > /conf/4 - Make AI Scalable with Lablup](https://festa.io/events/5923)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `AI`
+  - 주최: 래블업
+  - 일시: 09. 24(화) 12:50 ~ 17:50
 - __[개발자를 위한 필수 보고 & 커뮤니케이션 스킬 업](https://festa.io/events/5844)__
   - 분류: `오프라인(서울 서대문구)`, `무료`, `모임`
   - 주최: 한빛앤
@@ -222,6 +194,14 @@
   - 분류: `오프라인(서울 마포)`, `무료`, `교육`
   - 주최: 고용노동부
   - 접수: 09. 12(목) ~ 09. 25(수)
+- __[코드포부산 9월 밋업데이](https://www.dxchallenge.co.kr/events/kodeupobusan-9wol-mis-eobdei)__
+  - 분류: `오프라인(부산 동구)`, `무료`, `보안`
+  - 주최: DX Challenge
+  - 접수: 09. 23(월) ~ 09. 25(수)
+- __[제37차 Tech 세미나 - Docker 활용](https://devocean.sk.com/events/view.do?id=203)__
+  - 분류: `온라인`, `무료`, `보안`, `인프라`
+  - 주최: DEVOCEAN
+  - 일시: 09. 26(수) 19:30 ~ 21:30
 - __[IT 인프라, 얼마나 알아야 하나요?](https://festa.io/events/6003)__
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: F-Lab
@@ -283,6 +263,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 당근
   - 접수: 09. 03(화) ~ 10. 06(일)
+- __[30년 차 개발자 박종천님의 북콘서트 : 챗GPT 시대 ‘생존전략’](https://okky.kr/articles/1515287?topic=it&page=1)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 이브레인
+  - 접수: 09. 23(월) ~ 10. 06(일)
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
@@ -327,6 +311,10 @@
   - 분류: `온라인`, `유료`, `클라우드`, `교육`
   - 주최: 멋쟁이사자처럼
   - 접수: 09. 20(금) ~ 10. 22(화)
+- __[국내 코딩 부트캠프 알아보기 모임](https://festa.io/events/6048)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 국모다it
+  - 접수: 09. 23(월) ~ 10. 22(화)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
