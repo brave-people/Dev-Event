@@ -141,15 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[제2회 신약개발 AI 경진대회](https://dacon.io/competitions/official/236336/overview/description)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 한국제약바이오협회
-  - 일시: 08. 05(월) ~ 09. 23(월)
-
 - __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
   - 주최: Kubernetes Korea
   - 일시: 09. 24(화)
+  
 - __[2024년 Gemma 파인튜닝톤](https://aifactory.space/task/2733/overview)__
   - 분류: `오프라인`, `온라인`, `AI`, `대회`
   - 주최: 인공지능팩토리
@@ -267,6 +263,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 이브레인
   - 접수: 09. 23(월) ~ 10. 06(일)
+- __[금융보안 위협분석 대회 FIESTA 2024](https://fiesta.fsec.or.kr/notice/1)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: 금융보안원
+  - 접수: 10. 04(금) ~ 10. 06(일)
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
@@ -307,6 +307,10 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `기술일반`
   - 주최: JNPMEDI Tech Meetup
   - 접수: 09. 13(금) ~ 10. 18(금)
+- __[제3회 오픈데이터포럼 해커톤](https://www.odf.or.kr/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=109714704&t=board)__
+  - 분류: `온라인`, `무료`, `대회`, `데이터`
+  - 주최: 행정안전부
+  - 접수: 09. 24(화) ~ 10. 19(토)
 - __[모두의연구소 AI학교 아이펠 10기](https://www.aiffel.io/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 모두의연구소
