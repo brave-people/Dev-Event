@@ -141,35 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[Kubernetes Korea Community Day 2024](https://kcd-korea.net/)__
-  - 분류: `오프라인(서울 용산)`, `유료`, `인프라`
-  - 주최: Kubernetes Korea
-  - 일시: 09. 24(화)
-  
-- __[2024년 Gemma 파인튜닝톤](https://aifactory.space/task/2733/overview)__
-  - 분류: `오프라인`, `온라인`, `AI`, `대회`
-  - 주최: 인공지능팩토리
-  - 접수: 08. 01(목) ~ 09. 24(화)
-- __[Oracle DB Cloud 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdrnd6AYPFJBt7rjHi4Ad34dC0R3hiKDY4UR5bGhw-58tDo2g/viewform)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
-  - 주최: 지티플러스
-  - 접수: 08. 22(목) ~ 09. 24(화)
-- __[인프런 워밍업 클럽 2기](https://www.inflearn.com/tag-curation/common_tag/inflearn-warmup-club)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 09. 11(수) ~ 09. 24(화)
-- __[Ahnlab iSF 2024](https://aisf.co.kr/2024/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: 안랩
-  - 일시: 09. 24(화) 10:00 ~ 17:00
-- __[lab | up > /conf/4 - Make AI Scalable with Lablup](https://festa.io/events/5923)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `AI`
-  - 주최: 래블업
-  - 일시: 09. 24(화) 12:50 ~ 17:50
 - __[개발자를 위한 필수 보고 & 커뮤니케이션 스킬 업](https://festa.io/events/5844)__
   - 분류: `오프라인(서울 서대문구)`, `무료`, `모임`
   - 주최: 한빛앤
   - 접수: 09. 02(월) ~ 09. 25(수)
+
 - __[2024 제3회 전문가네트워킹](https://ictcoc.kr/03_pro_n/pro01_view.asp?idx=124)__
   - 분류: `오프라인(서울 마포)`, `유료`, `기술일반`
   - 주최: ICT CoC
@@ -255,6 +231,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 09. 20(금) ~ 10. 05(토)
+- __[SUSC 2024 Winter 운영진 및 학교리더 모집](https://festa.io/events/6063)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: SUSC
+  - 접수: 09. 25(수) ~ 10. 05(토)
 - __[2024 당근 테크 밋업](https://tech-meetup.daangn.com/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 당근
@@ -351,6 +331,11 @@
   - 분류: `오프라인(부산 해운대구)`, `유료`, `클라우드`
   - 주최: SUSC
   - 접수: 09. 19(월) ~ 11. 01(금)
+
+- __[3주 만에 Docker & CI/CD 완성하기](https://99club-dockercicd.oopy.io/)__
+  - 분류: `온라인`, `무료`, `인프라`, `교육`
+  - 주최: 팀스파르타
+  - 접수: 10. 14(월) ~ 11. 01(금)
 
 ----------------
 
