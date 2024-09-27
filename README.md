@@ -141,31 +141,11 @@
 <br />
 
 ## 24년 09월
-- __[제37차 Tech 세미나 - Docker 활용](https://devocean.sk.com/events/view.do?id=203)__
-  - 분류: `온라인`, `무료`, `보안`, `인프라`
-  - 주최: DEVOCEAN
-  - 일시: 09. 26(수) 19:30 ~ 21:30
-
-- __[IT 인프라, 얼마나 알아야 하나요?](https://festa.io/events/6003)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: F-Lab
-  - 접수: 09. 19(목) ~ 09. 26(목)
-- __[프론트엔드 파이트 클럽 LIVE 온라인 참관 신청](https://docs.google.com/forms/d/e/1FAIpQLSfsVYcghb1v3DbtrlLIhXn3MaSWPPzww4_0OteuaRV2fA_1jg/viewform)__
-  - 분류: `오프라인(서울 마포)`, `유료`, `프론트엔드`
-  - 주최: 프론트엔드 다이빙 클럽
-  - 접수: 09. 02(월) ~ 09. 26(목)
-- __[위성영상을 활용한 선박 탐지 AI 경진대회](https://aifactory.space/task/4232/overview)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: AI Factory
-  - 접수: 09. 09(월) ~ 09. 26(목)
-- __[개발자 부부의 사이드 프로젝트 '오픈소스 모바일 청첩장' 만들기](https://event-us.kr/modu/event/90704)__
-  - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
-  - 주최: 모두의 연구소
-  - 접수: 09. 11(수) ~ 09. 26(목) 10:00
 - __[Future\<Flutter\>](https://festa.io/events/5704)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`, `모임`
   - 주최: Future\<Flutter\>
   - 접수: 08. 16(금) ~ 09. 27(금)
+  
 - __[바로 배워서 써먹는 Swift 활용 IOS 앱개발](https://festa.io/events/6022)__
   - 분류: `오프라인`, `유료`, `안드로이드`, `iOS`
   - 주최: 엘리스Lab
@@ -195,6 +175,10 @@
   - 주최: Upstage
   - 접수: 09. 26(목) ~ 10. 03(목)
 
+- __[바로 배워서 써먹는 Swift활용 IOS 앱 개발](https://docs.google.com/forms/d/e/1FAIpQLSfOBi-CTh9_gnvfOT4semzw0BE78fRUlcxYTsCl4OefG3GDEw/viewform)__
+  - 분류: `오프라인(부산)`, `무료`, `iOS`
+  - 주최: 엘리스
+  - 접수: 09. 11(수) ~ 10. 03(목)
 - __[도커·쿠버네티스로 시스템 설계까지 | 프리온보딩 BE 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_be_24)__
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 원티드
@@ -275,6 +259,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 09. 20(금) ~ 10. 20(일)
+- __[2024 카이퍼넷 API 보안 제품 해킹 대회](https://www.kuipernet.com/kr/sub/2024-kuipernet-hacking-competition.html)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: 카이퍼넷
+  - 접수: 09. 27(금) ~ 10. 20(일)
+- __[애플 아카데미 2024](https://developeracademy.postech.ac.kr/apply)__
+  - 분류: `오프라인`, `무료`, `교육`, `iOS`
+  - 주최: Apple Developer Academy
+  - 접수: 09. 27(금) ~ 10. 21(월)
 - __[멋쟁이사자처럼 클라우드 엔지니어링 2기 모집](https://www.wanted.co.kr/events/likelion-kdt-cld-2nd)__
   - 분류: `온라인`, `유료`, `클라우드`, `교육`
   - 주최: 멋쟁이사자처럼
@@ -283,6 +275,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 국모다it
   - 접수: 09. 23(월) ~ 10. 22(화)
+- __[if(kakoAI) 2024](https://if.kakao.com/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 카카오
+  - 일시: 10. 22(화) ~ 10. 24(목)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
