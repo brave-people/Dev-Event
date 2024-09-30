@@ -187,7 +187,7 @@
 - __[LLM 웹사이트 서비스 아키텍처 특강](https://docs.google.com/forms/d/e/1FAIpQLSe9CKXJblPVWjXp1-4i535SSkZVETZYrzfvEogBv8JfftYmkg/viewform)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: VecMul
-  - 접수: 09. 25(수) ~ 10. 05(토)
+  - 접수: 09. 30(월) ~ 10. 05(토)
 - __[2024 당근 테크 밋업](https://tech-meetup.daangn.com/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 당근
