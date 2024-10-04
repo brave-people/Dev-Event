@@ -127,7 +127,8 @@
               <a href="./end_event/2024/24_06.md"> 06월 </a>,
               <a href="./end_event/2024/24_07.md"> 07월 </a>,
               <a href="./end_event/2024/24_08.md"> 08월 </a>,
-              <a href="./end_event/2024/24_09.md"> 09월 </a>
+              <a href="./end_event/2024/24_09.md"> 09월 </a>,
+              <a href="./end_event/2024/24_10.md"> 10월 </a>
             </td>
         </tr>
         <tr>
@@ -141,23 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[NCP를 이용한 나만의 GitHub 만들기](https://flatcampus.liveklass.com/classes/218878)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 플랫캠퍼스
-  - 일시: 10. 01(화) 20:00 ~ 22:00
-
-- __[AI 아이디어 공모전 Upstage AI Lab 온라인 챌린지](https://megabyteschool-careersevice.oopy.io/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: Upstage
-  - 접수: 09. 26(목) ~ 10. 03(목)
-- __[바로 배워서 써먹는 Swift활용 IOS 앱 개발](https://docs.google.com/forms/d/e/1FAIpQLSfOBi-CTh9_gnvfOT4semzw0BE78fRUlcxYTsCl4OefG3GDEw/viewform)__
-  - 분류: `오프라인(부산)`, `무료`, `iOS`
-  - 주최: 엘리스
-  - 접수: 09. 11(수) ~ 10. 03(목)
 - __[도커·쿠버네티스로 시스템 설계까지 | 프리온보딩 BE 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_be_24)__
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 원티드
   - 접수: 09. 20(금) ~ 10. 05(토)
+
 - __[리액트 오픈소스 펼쳐보기 | 프리온보딩 FE 챌린지 10월](https://www.wanted.co.kr/events/pre_challenge_fe_26)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 원티드
@@ -198,6 +187,14 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 바이라인
   - 접수: 09. 30(월) ~ 10. 09(수)
+- __[Soomgo Frontend & Mobile Meetup](https://festa.io/events/5986)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
+  - 주최: 숨고
+  - 접수: 10. 04(금) ~ 10. 09(수)
+- __[글로벌 게임 개발자 컨퍼런스](https://ggdc.or.kr/overview)__
+  - 분류: `오프라인(광주 동구)`, `무료`, `기술일반`
+  - 주최: 광주광역시
+  - 접수: 10. 04(금) ~ 10. 10(목)
 - __[우아한테크코스 2025 신입생 모집](https://www.woowacourse.io/apply)__
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 우아한테크코스
@@ -278,6 +275,10 @@
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 카이퍼넷
   - 접수: 09. 27(금) ~ 10. 20(일)
+- __[원티드 리크루팅 카니발 2024 | Recruiting Carnival 2024](https://www.wanted.co.kr/events/2024_recruiting_carnival)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `커리어`, `AI`
+  - 주최: 원티드
+  - 접수: 09. 26(목) ~ 10. 21(월)
 - __[애플 아카데미 2024](https://developeracademy.postech.ac.kr/apply)__
   - 분류: `오프라인`, `무료`, `교육`, `iOS`
   - 주최: Apple Developer Academy
@@ -331,6 +332,10 @@
   - 분류: `온라인`, `무료`, `인프라`, `교육`
   - 주최: 팀스파르타
   - 접수: 10. 14(월) ~ 11. 01(금)
+- __[마일스콘: 개발자로서의 첫 걸음부터 지속가능한 개발자 삶의 이정표](https://festa.io/events/6120)__
+  - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
+  - 주최: GDG on Campus Gachon
+  - 접수: 10. 05(토) ~ 11. 05(화)
 - __[AWS 마이그레이션 점프업 세미나](https://okky.kr/articles/1516164?topic=it&page=1)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
