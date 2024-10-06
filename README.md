@@ -178,7 +178,7 @@
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
-  - 접수: 08. 08(목) ~ 10. 07(월)
+  - 접수: 08. 08(목) ~ 11. 08(금)
 - __[AI엔지니어 선배가 알려주는 AI학습/취업이야기](https://festa.io/events/6101)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 모두의 연구소
