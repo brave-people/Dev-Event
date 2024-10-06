@@ -175,10 +175,6 @@
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 금융보안원
   - 접수: 10. 04(금) ~ 10. 06(일)
-- __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 국방부
-  - 접수: 08. 08(목) ~ 10. 07(월)
 - __[AI엔지니어 선배가 알려주는 AI학습/취업이야기](https://festa.io/events/6101)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 모두의 연구소
@@ -336,6 +332,10 @@
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
   - 접수: 10. 05(토) ~ 11. 05(화)
+- __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 국방부
+  - 접수: 08. 08(목) ~ 11. 08(금)
 - __[AWS 마이그레이션 점프업 세미나](https://okky.kr/articles/1516164?topic=it&page=1)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
