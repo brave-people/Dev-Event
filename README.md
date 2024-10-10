@@ -320,6 +320,10 @@
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
   - 접수: 10. 05(토) ~ 11. 05(화)
+- __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 국방부
+  - 접수: 08. 08(목) ~ 11. 08(금)
 - __[Kotlin Compiler Plugin 맛보기 - 2024 (K2)](https://festa.io/events/6133)__
   - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
   - 주최: 성빈랜드
