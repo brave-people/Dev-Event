@@ -26,9 +26,9 @@
     <a href="https://dev-event.vercel.app/events">
       <img src="./static/display_banner/web.png?raw=true" width="21%" />
     </a>
-    <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
+    <!-- <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
       <img src="./static/display_banner/android.png?raw=true" width="21%" />
-    </a>
+    </a> -->
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
       <img src="./static/display_banner/email.png?raw=true" width="21%" />
     </a>
