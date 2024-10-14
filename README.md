@@ -142,35 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[우아한테크코스 2025 신입생 모집](https://www.woowacourse.io/apply)__
-  - 분류: `오프라인`, `온라인`, `무료`, `교육`
-  - 주최: 우아한테크코스
-  - 접수: 10. 01(화) ~ 10. 11(금)
-
-- __[DEVCON 2024](https://festa.io/events/5916)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 09. 09(월) ~ 10. 12(토)
-- __[카카오계열사 출신 인사담당자의 취업준비 A to Z](https://flatcampus.liveklass.com/classes/219934)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 플랫캠퍼스
-  - 접수: 10. 06(일) ~ 10. 12(토)
-- __[GopherCon Korea 2024](https://festa.io/events/5098)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 10. 12(토) ~ 10. 13(일)
-- __[스위프 6기 #SHOWWHATYOUGOT](https://tally.so/r/npW2jZ)__
-  - 분류: `오프라인(서울 마포)`, `무료`, `모임`
-  - 주최: 스위프
-  - 일시: 10. 03(목) ~ 10. 13(일)
-- __[유데미 작심삼십일 챌린지](https://udemy.wjtb.co.kr/event/3rd_anniversary)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 유데미 x 웅진씽크빅
-  - 일시: 09. 30(월) ~ 10. 13(일)
 - __[[코드잇 스프린트] 8주 단기 심화 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=dev&utm_medium=community&utm_content=frontend)__
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 코드잇
   - 접수: 09. 02(월) ~ 10. 14(월)
+  
 - __[Red Hat Summit: Connect 2024](https://www.redhat.com/ko/summit/connect/apac/seoul-2024?sc_cid=7015Y0000048PW3QAM)__
   - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
   - 주최: 레드햇
@@ -344,6 +320,10 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `커리어`
   - 주최: 한빛앤
   - 접수: 10. 07(월) ~ 11. 13(수)
+- __[Open Source Conference (오쏘콘)](https://festa.io/events/6160)__
+  - 분류: `오프라인(인천 연수구)`, `유료`, `모임`
+  - 주최: GDG Songdo
+  - 접수: 10. 14(월) ~ 11. 15(금)
 - __[AI 머니게임: 한국이 나아갈 길](https://gaif.edaily.co.kr/2024/kor/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 이데일리
