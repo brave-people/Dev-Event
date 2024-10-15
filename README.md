@@ -142,35 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[[코드잇 스프린트] 8주 단기 심화 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=dev&utm_medium=community&utm_content=frontend)__
-  - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
-  - 주최: 코드잇
-  - 접수: 09. 02(월) ~ 10. 14(월)
-  
-- __[Red Hat Summit: Connect 2024](https://www.redhat.com/ko/summit/connect/apac/seoul-2024?sc_cid=7015Y0000048PW3QAM)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
-  - 주최: 레드햇
-  - 접수: 09. 06(금) ~ 10. 14(월)
-- __[K-하이테크 플랫폼 리더스 포럼: AI 마스터 과정](https://k-hp.co.kr/)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: 고용노동부
-  - 접수: 10. 03(목) ~ 10. 14(월)
-- __[EOST2024, ETRI 오픈소스 테크데이 2024](https://eostday.kr)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `오픈소스`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 02(수) ~ 10. 14(월)
-- __[2024 구글 지도를 이용한 비즈니스 전략: 모빌리티](https://rsvp.withgoogle.com/events/sph-event-korea-october-2024)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: SPH
-  - 접수: 10. 03(목) ~ 10. 14(월)
-- __[판교 퇴근길 밋업 with 인프런 #08 HTTP](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-http)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 10. 10(목) ~ 10. 14(월)
 - __[오픈소스 DBMS 도입을 위한 성공적인 전략](https://stibee.com/api/v1.0/emails/share/0R6AoiGIAkx7y11nakR0pq8fznqsI5E)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 비트나인
   - 접수: 10. 03(목) ~ 10. 15(화)
+
 - __[ISEC 2024 (제18회 국제 시큐리티 콘퍼런스)](https://www.isecconference.org/2024/kor/index.html)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 더비엔
@@ -263,6 +239,10 @@
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
   - 일시: 10. 26(토) ~ 10. 27(일)
+- __[AI 시대에서 살아남는 육각형 인재가 되는 방법](https://fastcampus.co.kr/b2g_campcon)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 15(화) ~ 10. 27(일)
 - __[구름톤 딥다이브](https://deepdive.goorm.io/)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 구름
