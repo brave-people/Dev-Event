@@ -142,35 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[오픈소스 DBMS 도입을 위한 성공적인 전략](https://stibee.com/api/v1.0/emails/share/0R6AoiGIAkx7y11nakR0pq8fznqsI5E)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 비트나인
-  - 접수: 10. 03(목) ~ 10. 15(화)
-
-- __[ISEC 2024 (제18회 국제 시큐리티 콘퍼런스)](https://www.isecconference.org/2024/kor/index.html)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 더비엔
-  - 접수: 09. 06(금) ~ 10. 15(화)
-- __[업비트 D 컨퍼런스](https://udc.dunamu.com/)__
-  - 분류: `오프라인(수원)`, `무료`, `기술일반`
-  - 주최: 두나무
-  - 접수: 09. 02(월) ~ 10. 15(화)
-- __[WOOWACON 2024](https://2024.woowacon.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 우아한형제들
-  - 접수: 10. 02(수) ~ 10. 15(화)
-- __[오픈소스 DBMS 도입을 위한 성공적인 전략](https://stibee.com/api/v1.0/emails/share/0R6AoiGIAkx7y11nakR0pq8fznqsI5E)__
-  - 분류: `웨비나`, `무료`, `데이터`
-  - 주최: 비트나인
-  - 접수: 10. 11(금) ~ 10. 15(화)
-- __[비지니스 맞춤형 AI 챗봇 개발 및 서비스 이해하기](https://festa.io/events/6149)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 믹스드코드닷컴
-  - 접수: 10. 08(화) ~ 10. 16(수)
 - __[[안드로이드 컨퍼런스] 취업 뽀개기](https://event-us.kr/ted/event/90879)__
   - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
   - 주최: 테드박의 개발자행사
   - 접수: 09. 10(화) ~ 10. 17(목)
+
 - __[Ethcon KR 2024 - Day 1 Blockchain Job Clinic](https://lu.ma/xsc6981z)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Ethcon Korea
@@ -235,6 +211,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
   - 접수: 10. 10(목) ~ 10. 25(금)
+- __[코드로 관리하는 NHN Cloud with Terraform](https://www.nhncloud.com/kr/edu/attend/detail/7e539dca-a0ac-485f-90fc-b3c11add6b0e)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: NHN Cloud
+  - 접수: 10. 17(토) ~ 10. 27(일)
 - __[파이콘 한국 2024](https://2024.pycon.kr/)__
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
@@ -242,7 +222,7 @@
 - __[AI 시대에서 살아남는 육각형 인재가 되는 방법](https://fastcampus.co.kr/b2g_campcon)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
-  - 접수: 10. 15(화) ~ 10. 27(일)
+  - 접수: 10. 15(화) ~ 10. 28(일)
 - __[구름톤 딥다이브](https://deepdive.goorm.io/)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 구름
@@ -263,6 +243,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: SK
   - 접수: 10. 07(월) ~ 10. 31(목)
+- __[DatadogKRUG 2회 밋업](https://datadogkrug.vercel.app/events/2)__
+  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반`
+  - 주최: DatadogKRUG
+  - 일시: 10. 31(목) 19:30 ~ 21:00
 
 <br />
 
@@ -276,6 +260,10 @@
   - 분류: `온라인`, `무료`, `인프라`, `교육`
   - 주최: 팀스파르타
   - 접수: 10. 14(월) ~ 11. 01(금)
+- __[비영리스타트업 콘퍼런스 2024](https://event-us.kr/asannonprofitstartup/event/93209)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: 아산 비영리스타트업
+  - 접수: 10. 16(수) ~ 11. 04(월)
 - __[마일스콘: 개발자로서의 첫 걸음부터 지속가능한 개발자 삶의 이정표](https://festa.io/events/6120)__
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
@@ -308,6 +296,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 이데일리
   - 접수: 10. 08(화) ~ 11. 18(토)
+- __[Let'Swift 2024](https://festa.io/events/5772)__
+  - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
+  - 주최: Let'Swift
+  - 접수: 10. 21(월) ~ 11. 22(화)
 
 <br />
 
@@ -449,6 +441,7 @@
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 | AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
 | C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
+| Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
