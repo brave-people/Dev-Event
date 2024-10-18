@@ -142,23 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[[안드로이드 컨퍼런스] 취업 뽀개기](https://event-us.kr/ted/event/90879)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
-  - 주최: 테드박의 개발자행사
-  - 접수: 09. 10(화) ~ 10. 17(목)
-
-- __[Ethcon KR 2024 - Day 1 Blockchain Job Clinic](https://lu.ma/xsc6981z)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: Ethcon Korea
-  - 접수: 10. 03(목) ~ 10. 17(목)
-- __[스타트업 CTO가 알려주는 프론트엔드 개발자 면접 트렌드](https://flatcampus.liveklass.com/classes/220082)__
-  - 분류: `온라인`, `무료`, `커리어`, `프론트엔드`
-  - 주최: 플랫캠퍼스
-  - 접수: 10. 06(월) ~ 10. 12(토)
 - __[데이터·AI & 게임 클라이언트 협업 트랙 1기](https://www.wanted.co.kr/events/potenup_01)__
   - 분류: `온라인`, `무료`, `데이터`, `AI`, `교육`
   - 주최: JNPMEDI Tech Meetup
   - 접수: 09. 26(목) ~ 10. 18(금)
+
 - __[JNPMEDI 2nd Tech Meetup](https://festa.io/events/5987)__
   - 분류: `오프라인(인천 연수구)`, `무료`, `기술일반`
   - 주최: JNPMEDI Tech Meetup
@@ -199,6 +187,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 카카오
   - 일시: 10. 22(화) ~ 10. 24(목)
+- __[AI·빅데이터 아카데미 참가 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeoO5i4p88sosGhXJ71vpMSp_TYnmQ-tMIMzmxL_6aYKX-7Kg/viewform)__
+  - 분류: `오프라인`, `무료`, `AI`, `데이터`
+  - 주최: 고양특례시
+  - 일시: 10. 18(금) ~ 10. 24(목)
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
@@ -247,6 +239,10 @@
   - 분류: `오프라인(서울 서초)`, `유료`, `기술일반`
   - 주최: DatadogKRUG
   - 일시: 10. 31(목) 19:30 ~ 21:00
+- __[Arm Tech Symposia 2024 Seoul](https://events.arm.com/TechSymposia/seoul-landing)__
+  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
+  - 주최: ARM
+  - 접수: 10. 18(금) ~ 10. 31(목)
 
 <br />
 
