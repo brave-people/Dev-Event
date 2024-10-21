@@ -142,31 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[데이터·AI & 게임 클라이언트 협업 트랙 1기](https://www.wanted.co.kr/events/potenup_01)__
-  - 분류: `온라인`, `무료`, `데이터`, `AI`, `교육`
-  - 주최: JNPMEDI Tech Meetup
-  - 접수: 09. 26(목) ~ 10. 18(금)
-
-- __[JNPMEDI 2nd Tech Meetup](https://festa.io/events/5987)__
-  - 분류: `오프라인(인천 연수구)`, `무료`, `기술일반`
-  - 주최: JNPMEDI Tech Meetup
-  - 접수: 09. 13(금) ~ 10. 18(금)
-- __[제3회 오픈데이터포럼 해커톤](https://www.odf.or.kr/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=109714704&t=board)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 행정안전부
-  - 접수: 09. 24(화) ~ 10. 19(토)
-- __[모두의연구소 AI학교 아이펠 10기](https://www.aiffel.io/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 09. 20(금) ~ 10. 20(일)
-- __[2024 카이퍼넷 API 보안 제품 해킹 대회](https://www.kuipernet.com/kr/sub/2024-kuipernet-hacking-competition.html)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: 카이퍼넷
-  - 접수: 09. 27(금) ~ 10. 20(일)
 - __[원티드 리크루팅 카니발 2024 | Recruiting Carnival 2024](https://www.wanted.co.kr/events/2024_recruiting_carnival)__
   - 분류: `오프라인(서울 강남)`, `무료`, `커리어`, `AI`
   - 주최: 원티드
   - 접수: 09. 26(목) ~ 10. 21(월)
+
 - __[애플 아카데미 2024](https://developeracademy.postech.ac.kr/apply)__
   - 분류: `오프라인`, `무료`, `교육`, `iOS`
   - 주최: Apple Developer Academy
@@ -211,6 +191,14 @@
   - 분류: `오프라인(수원 컨벤션센터)`, `유료`, `파이썬`
   - 주최: 파이콘 한국 준비위원회
   - 일시: 10. 26(토) ~ 10. 27(일)
+- __[해커스 프론트엔드 부트캠프 1기 모집](https://www.code-c.kr/post/activity/519742)__
+  - 분류: `오프라인(수원 컨벤션센터)`, `무료`, `프론트엔드`
+  - 주최: 해커스교육그룹
+  - 접수: 10. 21(월) ~ 10. 27(일)
+- __[프론트엔드 프로젝트 캠프 : React 과정](https://festa.io/events/6244)__
+  - 분류: `오프라인(서울 강서)`, `무료`, `프론트엔드`, `교육`
+  - 주최: 스나이퍼팩토리
+  - 접수: 10. 07(월) ~ 10. 27(일)
 - __[AI 시대에서 살아남는 육각형 인재가 되는 방법](https://fastcampus.co.kr/b2g_campcon)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
@@ -264,6 +252,10 @@
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
   - 접수: 10. 05(토) ~ 11. 05(화)
+- __[FriendliAI 첫 서울 밋업 & GAISA 두 번째 Homebrew AI 포럼](https://festa.io/events/6243)__
+  - 분류: `오프라인(경기 강남)`, `무료`, `AI`
+  - 주최: 프렌들리에이아이
+  - 접수: 10. 21(월) ~ 11. 06(수)
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
@@ -276,10 +268,14 @@
   - 분류: `오프라인(경북 포항)`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 접수: 10. 10(목) ~ 11. 08(금)
+- __[개발로 비즈니스를 성공시키는 풀스택 개발자 성장 코스](https://fastcampus.co.kr/b2g_innercircle_dev)__
+  - 분류: `온라인`, `무료`, `프론트엔드`, `벡엔드`
+  - 주최: 페스트캠퍼스
+  - 접수: 10. 10(목) ~ 11. 10(일)
 - __[AWS 마이그레이션 점프업 세미나](https://okky.kr/articles/1516164?topic=it&page=1)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
-  - 접수: 10. 03(목) ~ 11. 12(수)
+  - 접수: 10. 03(목) ~ 11. 12(화)
 - __[코딩 테스트 - 제대로 공부해서 합격하는 방법](https://festa.io/events/6031)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `커리어`
   - 주최: 한빛앤
@@ -292,6 +288,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 이데일리
   - 접수: 10. 08(화) ~ 11. 18(토)
+- __[아이펠 코어과정 11기](https://www.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_bran_festa1017)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 아이펠
+  - 접수: 10. 21(월) ~ 11. 18(토)
 - __[Let'Swift 2024](https://festa.io/events/5772)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
   - 주최: Let'Swift
