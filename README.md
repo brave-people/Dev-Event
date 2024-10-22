@@ -142,27 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[원티드 리크루팅 카니발 2024 | Recruiting Carnival 2024](https://www.wanted.co.kr/events/2024_recruiting_carnival)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `커리어`, `AI`
-  - 주최: 원티드
-  - 접수: 09. 26(목) ~ 10. 21(월)
-
-- __[애플 아카데미 2024](https://developeracademy.postech.ac.kr/apply)__
-  - 분류: `오프라인`, `무료`, `교육`, `iOS`
-  - 주최: Apple Developer Academy
-  - 접수: 09. 27(금) ~ 10. 21(월)
-- __[멋쟁이사자처럼 클라우드 엔지니어링 2기 모집](https://www.wanted.co.kr/events/likelion-kdt-cld-2nd)__
-  - 분류: `온라인`, `유료`, `클라우드`, `교육`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 09. 20(금) ~ 10. 22(화)
-- __[국내 코딩 부트캠프 알아보기 모임](https://festa.io/events/6048)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 국모다it
-  - 접수: 09. 23(월) ~ 10. 22(화)
 - __[무료 LangChain 기반 LLM AI 챗봇 개발 핸즈온랩](https://festa.io/events/6150)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 믹스드코드닷컴
   - 접수: 10. 08(화) ~ 10. 23(수)
+
 - __[if(kakoAI) 2024](https://if.kakao.com/)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 카카오
@@ -171,6 +155,14 @@
   - 분류: `오프라인`, `무료`, `AI`, `데이터`
   - 주최: 고양특례시
   - 일시: 10. 18(금) ~ 10. 24(목)
+- __[치열함과 바지런함으로 고군분투한 프롬프트 엔지니어의 못다한 이야기](https://festa.io/events/6051)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: 리코멘드&JYK
+  - 접수: 10. 22(화) ~ 10. 24(목)
+- __[자연어 처리 이해 : 통계 기반부터 딥러닝까지](https://flatcampus.liveklass.com/classes/221069/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: flatcampus
+  - 접수: 10. 17(목) ~ 10. 24(목) 23:59
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
@@ -183,6 +175,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
   - 접수: 10. 10(목) ~ 10. 25(금)
+- __[백엔드 단위 테스팅코드 작성 방법](https://flatcampus.liveklass.com/classes/221355)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: flatcampus
+  - 접수: 10. 17(목) ~ 10. 25(금) 23:59
 - __[코드로 관리하는 NHN Cloud with Terraform](https://www.nhncloud.com/kr/edu/attend/detail/7e539dca-a0ac-485f-90fc-b3c11add6b0e)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: NHN Cloud
@@ -210,6 +206,10 @@
 - __[UNIVERSE 24](https://githubuniverse.com/)__
   - 분류: `오프라인(미국 캘리포니아)`, `유료`, `기술일반`
   - 주최: Github
+  - 접수: 07. 31(수) ~ 10. 30(수)
+- __[데브콘 대전 : 퇴근길 치맥 밋업](https://festa.io/events/uqsTiWouunreTDdFTiRxa8)__
+  - 분류: `오프라인(대구 유성구)`, `유료`, `모임`
+  - 주최: K-DEVCON
   - 접수: 07. 31(수) ~ 10. 30(수)
 - __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`
