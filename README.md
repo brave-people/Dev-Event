@@ -288,7 +288,7 @@
   - 분류: `오프라인(인천 연수구)`, `유료`, `모임`
   - 주최: GDG Songdo
   - 접수: 10. 14(월) ~ 11. 15(금)
-- __[AI 머니게임: 한국이 나아갈 길](https://codeit-sprint-consulting.oopy.io/)__
+- __[코드잇 CEO와 함께하는 1:1 상담](https://codeit-sprint-consulting.oopy.io/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 코드잇
   - 접수: 10. 22(화) ~ 11. 17(금)
