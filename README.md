@@ -142,27 +142,11 @@
 <br />
 
 ## 24년 10월
-- __[if(kakoAI) 2024](https://if.kakao.com/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 카카오
-  - 일시: 10. 22(화) ~ 10. 24(목)
-
-- __[AI·빅데이터 아카데미 참가 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeoO5i4p88sosGhXJ71vpMSp_TYnmQ-tMIMzmxL_6aYKX-7Kg/viewform)__
-  - 분류: `오프라인`, `무료`, `AI`, `데이터`
-  - 주최: 고양특례시
-  - 일시: 10. 18(금) ~ 10. 24(목)
-- __[치열함과 바지런함으로 고군분투한 프롬프트 엔지니어의 못다한 이야기](https://festa.io/events/6051)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: 리코멘드&JYK
-  - 접수: 10. 22(화) ~ 10. 24(목)
-- __[자연어 처리 이해 : 통계 기반부터 딥러닝까지](https://flatcampus.liveklass.com/classes/221069/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: flatcampus
-  - 접수: 10. 17(목) ~ 10. 24(목) 23:59
 - __[KWDC24](https://kwdc.dev/2024/)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `기술일반`
   - 주최: KWDC 준비위원회
   - 일시: 10. 25(금)
+
 - __[2024 빅콘테스트 개최](https://festa.io/events/5963)__
   - 분류: `오프라인`, `무료`, `AI`, `대회`
   - 주최: 한국정보통신진흥협회
@@ -207,6 +191,14 @@
   - 분류: `오프라인(대구 유성구)`, `유료`, `모임`
   - 주최: K-DEVCON
   - 접수: 07. 31(수) ~ 10. 30(수)
+- __[2024 뉴스빅데이터 해커톤](https://newsbigdata.kr/)__
+  - 분류: `온라인`, `무료`, `대회`, `빅데이터`
+  - 주최: 한국언론진흥재단
+  - 접수: 10. 16(수) ~ 10. 30(수)
+- __[Agora RTE Korea 2024 : AI 스타트업의 실시간 소통 기술(RTE) 활용](https://event-us.kr/agoraio/event/92570)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: Agora
+  - 접수: 10. 25(금) ~ 10. 30(수) 09:00
 - __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
@@ -316,11 +308,15 @@
 <br />
 
 ## 24년 12월
+- __[우아한형제들 기술이사 김민태의 데브캠프](https://fastcampus.co.kr/b2g_kdigitaltraining_frontend)__
+  - 분류: `온라인`, `유료`, `프론트엔드`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 23(수) ~ 12. 01(일)
+
 - __[Developer! Developer! Developer!](https://dddseoul.kr/)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: DDD Seoul
   - 접수: 09. 30(월) ~ 12. 06(금)
-
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
