@@ -41,105 +41,13 @@
 
 <br />
 
-## 지난 행사 기록
 
-<table>
-        <!-- <tr> -->
-            <!-- <th scope="col">-</th> -->
-            <!-- <th scope="col">-</th> -->
-            <!-- <th scope="col">-</th> -->
-            <!-- <th scope="col">-</th> -->
-        <!-- </tr> -->
-        <tr>
-            <td rowspan="5"> 이전 행사 모음 </td>
-            <td>2020년</td>
-            <td> 
-              <a href="./end_event/2020/20_08.md"> 08월 </a>,
-              <a href="./end_event/2020/20_09.md"> 09월 </a>,
-              <a href="./end_event/2020/20_10.md"> 10월 </a>,
-              <a href="./end_event/2020/20_11.md"> 11월 </a>,
-              <a href="./end_event/2020/20_12.md"> 12월 </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- <td> 종료 행사 </td> -->
-            <td>2021년</td>
-            <td>
-              <a href="./end_event/2021/21_01.md"> 01월 </a>,
-              <a href="./end_event/2021/21_02.md"> 02월 </a>,
-              <a href="./end_event/2021/21_03.md"> 03월 </a>,
-              <a href="./end_event/2021/21_04.md"> 04월 </a>,
-              <a href="./end_event/2021/21_05.md"> 05월 </a>,
-              <a href="./end_event/2021/21_06.md"> 06월 </a>,
-              <a href="./end_event/2021/21_07.md"> 07월 </a>,
-              <a href="./end_event/2021/21_08.md"> 08월 </a>,
-              <a href="./end_event/2021/21_09.md"> 09월 </a>,
-              <a href="./end_event/2021/21_10.md"> 10월 </a>,
-              <a href="./end_event/2021/21_11.md"> 11월 </a>,
-              <a href="./end_event2021/21_12.md"> 12월 </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- <td> 종료 행사 </td> -->
-            <td>2022년</td>
-            <td>
-              <a href="./end_event/2022/22_01.md"> 01월 </a>,
-              <a href="./end_event/2022/22_02.md"> 02월 </a>,
-              <a href="./end_event/2022/22_03.md"> 03월 </a>,
-              <a href="./end_event/2022/22_04.md"> 04월 </a>,
-              <a href="./end_event/2022/22_05.md"> 05월 </a>,
-              <a href="./end_event/2022/22_06.md"> 06월 </a>,
-              <a href="./end_event/2022/22_07.md"> 07월 </a>,
-              <a href="./end_event/2022/22_08.md"> 08월 </a>,
-              <a href="./end_event/2022/22_09.md"> 09월 </a>,
-              <a href="./end_event/2022/22_10.md"> 10월 </a>,
-              <a href="./end_event/2022/22_11.md"> 11월 </a>,
-              <a href="./end_event/2022/22_12.md"> 12월 </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- <td> 종료 행사 </td> -->
-            <td>2023년</td>
-            <td>
-              <a href="./end_event/2023/23_01.md"> 01월 </a>,
-              <a href="./end_event/2023/23_02.md"> 02월 </a>,
-              <a href="./end_event/2023/23_03.md"> 03월 </a>,
-              <a href="./end_event/2023/23_04.md"> 04월 </a>,
-              <a href="./end_event/2023/23_05.md"> 05월 </a>,
-              <a href="./end_event/2023/23_06.md"> 06월 </a>,
-              <a href="./end_event/2023/23_07.md"> 07월 </a>,
-              <a href="./end_event/2023/23_08.md"> 08월 </a>,
-              <a href="./end_event/2023/23_09.md"> 09월 </a>,
-              <a href="./end_event/2023/23_10.md"> 10월 </a>,
-              <a href="./end_event/2023/23_11.md"> 11월 </a>,
-              <a href="./end_event/2023/23_12.md"> 12월 </a>
-            </td>
-        </tr>
-        <tr>
-            <!-- <td> 종료 행사 </td> -->
-            <td>2024년</td>
-            <td>
-              <a href="./end_event/2024/24_01.md"> 01월 </a>,
-              <a href="./end_event/2024/24_02.md"> 02월 </a>,
-              <a href="./end_event/2024/24_03.md"> 03월 </a>,
-              <a href="./end_event/2024/24_04.md"> 04월 </a>,
-              <a href="./end_event/2024/24_05.md"> 05월 </a>,
-              <a href="./end_event/2024/24_06.md"> 06월 </a>,
-              <a href="./end_event/2024/24_07.md"> 07월 </a>,
-              <a href="./end_event/2024/24_08.md"> 08월 </a>,
-              <a href="./end_event/2024/24_09.md"> 09월 </a>,
-              <a href="./end_event/2024/24_10.md"> 10월 </a>
-            </td>
-        </tr>
-        <tr>
-          <td> 행사 녹화 다시보기 </td>
-          <td colspan="2">
-            <a href="./replay_event/replay_event.md"> 바로가기 </a>
-          </td>
-        </tr>
-</table>
+## 시선집중 👀
+
+<img src="./static/focus_banner/241026_sk.jpg?raw=true">
 
 <br />
+
 
 ## 24년 10월
 - __[KWDC24](https://kwdc.dev/2024/)__
@@ -220,7 +128,7 @@
   - 주최: ARM
   - 접수: 10. 18(금) ~ 10. 31(목)
 - __[UDC 2024](https://udc.dunamu.com/ticket/registration)__
-  - 분류: `오프라인(서울 중구)`, `온라인`, `무료`, `기술일반`
+  - 분류: `오프라인(서울 중구)`, `온라인`, `유료`, `기술일반`
   - 주최: 두나무
   - 접수: 09. 02(월) ~ 10. 31(목)
 
@@ -327,6 +235,106 @@
   - 접수: 11. 19(화) ~ 12. 30(월)
 
 ----------------
+
+<br />
+
+## 지난 행사 기록
+
+<table>
+        <!-- <tr> -->
+            <!-- <th scope="col">-</th> -->
+            <!-- <th scope="col">-</th> -->
+            <!-- <th scope="col">-</th> -->
+            <!-- <th scope="col">-</th> -->
+        <!-- </tr> -->
+        <tr>
+            <td rowspan="5"> 이전 행사 모음 </td>
+            <td>2020년</td>
+            <td> 
+              <a href="./end_event/2020/20_08.md"> 08월 </a>,
+              <a href="./end_event/2020/20_09.md"> 09월 </a>,
+              <a href="./end_event/2020/20_10.md"> 10월 </a>,
+              <a href="./end_event/2020/20_11.md"> 11월 </a>,
+              <a href="./end_event/2020/20_12.md"> 12월 </a>
+            </td>
+        </tr>
+        <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2021년</td>
+            <td>
+              <a href="./end_event/2021/21_01.md"> 01월 </a>,
+              <a href="./end_event/2021/21_02.md"> 02월 </a>,
+              <a href="./end_event/2021/21_03.md"> 03월 </a>,
+              <a href="./end_event/2021/21_04.md"> 04월 </a>,
+              <a href="./end_event/2021/21_05.md"> 05월 </a>,
+              <a href="./end_event/2021/21_06.md"> 06월 </a>,
+              <a href="./end_event/2021/21_07.md"> 07월 </a>,
+              <a href="./end_event/2021/21_08.md"> 08월 </a>,
+              <a href="./end_event/2021/21_09.md"> 09월 </a>,
+              <a href="./end_event/2021/21_10.md"> 10월 </a>,
+              <a href="./end_event/2021/21_11.md"> 11월 </a>,
+              <a href="./end_event2021/21_12.md"> 12월 </a>
+            </td>
+        </tr>
+        <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2022년</td>
+            <td>
+              <a href="./end_event/2022/22_01.md"> 01월 </a>,
+              <a href="./end_event/2022/22_02.md"> 02월 </a>,
+              <a href="./end_event/2022/22_03.md"> 03월 </a>,
+              <a href="./end_event/2022/22_04.md"> 04월 </a>,
+              <a href="./end_event/2022/22_05.md"> 05월 </a>,
+              <a href="./end_event/2022/22_06.md"> 06월 </a>,
+              <a href="./end_event/2022/22_07.md"> 07월 </a>,
+              <a href="./end_event/2022/22_08.md"> 08월 </a>,
+              <a href="./end_event/2022/22_09.md"> 09월 </a>,
+              <a href="./end_event/2022/22_10.md"> 10월 </a>,
+              <a href="./end_event/2022/22_11.md"> 11월 </a>,
+              <a href="./end_event/2022/22_12.md"> 12월 </a>
+            </td>
+        </tr>
+        <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2023년</td>
+            <td>
+              <a href="./end_event/2023/23_01.md"> 01월 </a>,
+              <a href="./end_event/2023/23_02.md"> 02월 </a>,
+              <a href="./end_event/2023/23_03.md"> 03월 </a>,
+              <a href="./end_event/2023/23_04.md"> 04월 </a>,
+              <a href="./end_event/2023/23_05.md"> 05월 </a>,
+              <a href="./end_event/2023/23_06.md"> 06월 </a>,
+              <a href="./end_event/2023/23_07.md"> 07월 </a>,
+              <a href="./end_event/2023/23_08.md"> 08월 </a>,
+              <a href="./end_event/2023/23_09.md"> 09월 </a>,
+              <a href="./end_event/2023/23_10.md"> 10월 </a>,
+              <a href="./end_event/2023/23_11.md"> 11월 </a>,
+              <a href="./end_event/2023/23_12.md"> 12월 </a>
+            </td>
+        </tr>
+        <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2024년</td>
+            <td>
+              <a href="./end_event/2024/24_01.md"> 01월 </a>,
+              <a href="./end_event/2024/24_02.md"> 02월 </a>,
+              <a href="./end_event/2024/24_03.md"> 03월 </a>,
+              <a href="./end_event/2024/24_04.md"> 04월 </a>,
+              <a href="./end_event/2024/24_05.md"> 05월 </a>,
+              <a href="./end_event/2024/24_06.md"> 06월 </a>,
+              <a href="./end_event/2024/24_07.md"> 07월 </a>,
+              <a href="./end_event/2024/24_08.md"> 08월 </a>,
+              <a href="./end_event/2024/24_09.md"> 09월 </a>,
+              <a href="./end_event/2024/24_10.md"> 10월 </a>
+            </td>
+        </tr>
+        <tr>
+          <td> 행사 녹화 다시보기 </td>
+          <td colspan="2">
+            <a href="./replay_event/replay_event.md"> 바로가기 </a>
+          </td>
+        </tr>
+</table>
 
 <br />
 
