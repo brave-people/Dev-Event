@@ -29,6 +29,9 @@
     <!-- <a href="https://play.google.com/store/apps/details?id=com.bravepeople.devevent.android.app">
       <img src="./static/display_banner/android.png?raw=true" width="21%" />
     </a> -->
+    <a href="https://www.instagram.com/dev.event.official/">
+      <img src="./static/display_banner/instagram.png?raw=true" width="21%" />
+    </a>
     <a href="https://github.com/brave-people/Dev-Event-Subscribe">
       <img src="https://github.com/brave-people/dev-event/blob/master/static/display_banner/email.png?raw=true" width="21%" />
     </a>
