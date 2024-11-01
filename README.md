@@ -57,43 +57,6 @@
 <hr />
 <br />
 
-## 24년 10월 
-- __[구름톤 딥다이브](https://deepdive.goorm.io/)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 구름
-  - 일시: 10. 08(화) ~ 10. 31(목)
-
-- __[제 8회 개방형 클라우드 플랫폼(K-PaaS) 기반 서비스 개발 아이디어 공모전](https://contest.k-paas.org/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: K-PaaS
-  - 접수: 04. 01(월) ~ 10. 31(목)
-- __[Arm Tech Symposia 2024 Seoul](https://events.arm.com/TechSymposia/seoul-landing)__
-  - 분류: `오프라인(서울)`, `무료`, `기술일반`
-  - 주최: arm
-  - 접수: 09. 30(월) ~ 10. 31(목)
-- __[SK AI SUMMIT](https://skaisummit.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: SK
-  - 접수: 10. 07(월) ~ 10. 31(목)
-- __[DatadogKRUG 2회 밋업](https://datadogkrug.vercel.app/events/2)__
-  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반`
-  - 주최: DatadogKRUG
-  - 일시: 10. 31(목) 19:30 ~ 21:00
-- __[Arm Tech Symposia 2024 Seoul](https://events.arm.com/TechSymposia/seoul-landing)__
-  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
-  - 주최: ARM
-  - 접수: 10. 18(금) ~ 10. 31(목)
-- __[UDC 2024](https://udc.dunamu.com/ticket/registration)__
-  - 분류: `오프라인(서울 중구)`, `온라인`, `유료`, `기술일반`
-  - 주최: 두나무
-  - 접수: 09. 02(월) ~ 10. 31(목)
-- __[2024 강원 메타버스 캠퍼스 2, 3차 특강](https://festa.io/events/6321)__
-  - 분류: `오프라인(강원 춘천)`, `무료`, `기술일반`
-  - 주최: 2024 강원 메타버스 캠퍼스 2, 3차 특강
-  - 접수: 10. 30(수) ~ 10. 31(목)
-
-<br />
-
 ## 24년 11월
 - __[AI Hellothon 2024](https://festa.io/events/6286)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
@@ -156,6 +119,10 @@
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 원티드
   - 접수: 10. 23(수) ~ 11. 11(월) 18:00
+- __[데이터부터 모델 평가까지, 비용 효율적인 한국어 생성형 AI 도입 전략](https://walla.my/v/RQNxXu1mzCyj8MjwEU4K)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드TEXTNET
+  - 접수: 11. 01(금) ~ 11. 11(월)
 - __[AWS 마이그레이션 점프업 세미나](https://okky.kr/articles/1516164?topic=it&page=1)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
@@ -204,10 +171,18 @@
   - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
   - 주최: 삼성전자
   - 접수: 10. 21(월) ~ 11. 22(화)
+- __[2024 Off-QA 모임](https://festa.io/events/6334)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: QA Korea Conference
+  - 접수: 11. 01(금) ~ 11. 22(화)
 - __[Let'Swift 2024](https://festa.io/events/5772)__
   - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
   - 주최: Let'Swift
   - 접수: 10. 21(월) ~ 11. 22(화)
+- __[[CJ올리브네트웍스] 클라우드 웨이브 4기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=219437)__
+  - 분류: `오프라인(인천 연수구)`, `유료`, `클라우드`
+  - 주최: CJ올리브네트웍스
+  - 접수: 10. 28(월) ~ 11. 24(목)
 - __[2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스](https://event-us.kr/bcgwweb3conference/event/93899)__
   - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
