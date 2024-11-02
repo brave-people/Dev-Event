@@ -22,7 +22,7 @@
       <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/android_v2.png?raw=true" width="15.5%" />
     </a>
         <a href="https://apps.apple.com/kr/app/%EB%8D%B0%EB%B8%8C%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%96%89%EC%82%AC-%EC%A0%95%EB%B3%B4/id6502765233">
-      <img src="https://github.com/brave-people/Dev-Event/tree/master/static/display_banner/iOS.png?raw=true" width="15.5%" />
+      <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/iOS.png?raw=true" width="15.5%" />
     </a>
     <a href="https://www.instagram.com/dev.event.official/">
       <img src="https://github.com/brave-people/Dev-Event/blob/master/static/display_banner/instagram.png?raw=true" width="15.5%" />
