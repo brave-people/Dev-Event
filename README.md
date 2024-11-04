@@ -177,6 +177,10 @@
   - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
   - 주최: Let'Swift
   - 접수: 10. 21(월) ~ 11. 22(화)
+- __[TEOConf 2024](https://www.teoconf.com)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `프론트엔드`
+  - 주최: TEOConf
+  - 일시: 11. 23(토) ~ 11. 24(일)
 - __[[CJ올리브네트웍스] 클라우드 웨이브 4기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=219437)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `클라우드`
   - 주최: CJ올리브네트웍스
