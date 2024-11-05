@@ -56,19 +56,11 @@
 <br />
 
 ## 24년 11월
-- __[비영리스타트업 콘퍼런스 2024](https://event-us.kr/asannonprofitstartup/event/93209)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 아산 비영리스타트업
-  - 접수: 10. 16(수) ~ 11. 04(월)
-
-- __[코드잇 오피스에서 모각코 어때요?](https://docs.google.com/forms/d/e/1FAIpQLSeE3UVhpzQuhGJAHtySh1qyrbF2KARCg_3R-p_lIokFXJKnwQ/viewform)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `모임`
-  - 주최: 코드잇
-  - 접수: 10. 31(목) ~ 11. 04(월)
 - __[마일스콘: 개발자로서의 첫 걸음부터 지속가능한 개발자 삶의 이정표](https://festa.io/events/6120)__
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
   - 접수: 10. 05(토) ~ 11. 05(화)
+
 - __[차년도 USG AI·데이터 문제해결 제조혁신 경진대회](https://aifactory.space/page/usg)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 울산경남지역혁신플랫폼
@@ -113,6 +105,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
   - 접수: 10. 03(목) ~ 11. 12(화)
+- __[현직 데이터 분석가 선배가 들려주는 아이펠 경험담](https://docs.google.com/forms/d/e/1FAIpQLSeU0Oqr27rb7p3FRttdeQmO2hxnJFIclIH7UVzrzViWutrP_A/viewform)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 아이펠
+  - 접수: 11. 05(화) ~ 11. 13(목)
 - __[코딩 테스트 - 제대로 공부해서 합격하는 방법](https://festa.io/events/6031)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `커리어`
   - 주최: 한빛앤
