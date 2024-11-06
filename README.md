@@ -56,31 +56,11 @@
 <br />
 
 ## 24년 11월
-- __[AI Hellothon 2024](https://festa.io/events/6286)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 엘리스
-  - 접수: 10. 21(월) ~ 11. 01(금) 17:00
-
-- __[홈서버 워크샵](https://festa.io/events/5960)__
-  - 분류: `오프라인(부산 해운대구)`, `유료`, `클라우드`
-  - 주최: SUSC
-  - 접수: 09. 19(월) ~ 11. 01(금)
-- __[3주 만에 Docker & CI/CD 완성하기](https://99club-dockercicd.oopy.io/)__
-  - 분류: `온라인`, `무료`, `인프라`, `교육`
-  - 주최: 팀스파르타
-  - 접수: 10. 14(월) ~ 11. 01(금)
-- __[비영리스타트업 콘퍼런스 2024](https://event-us.kr/asannonprofitstartup/event/93209)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 아산 비영리스타트업
-  - 접수: 10. 16(수) ~ 11. 04(월)
-- __[코드잇 오피스에서 모각코 어때요?](https://docs.google.com/forms/d/e/1FAIpQLSeE3UVhpzQuhGJAHtySh1qyrbF2KARCg_3R-p_lIokFXJKnwQ/viewform)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `모임`
-  - 주최: 코드잇
-  - 접수: 10. 31(목) ~ 11. 04(월)
 - __[마일스콘: 개발자로서의 첫 걸음부터 지속가능한 개발자 삶의 이정표](https://festa.io/events/6120)__
   - 분류: `오프라인(경기 성남)`, `유료`, `커리어`
   - 주최: GDG on Campus Gachon
   - 접수: 10. 05(토) ~ 11. 05(화)
+
 - __[차년도 USG AI·데이터 문제해결 제조혁신 경진대회](https://aifactory.space/page/usg)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 울산경남지역혁신플랫폼
@@ -125,6 +105,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `클라우드`
   - 주최: 솔트웨어
   - 접수: 10. 03(목) ~ 11. 12(화)
+- __[현직 데이터 분석가 선배가 들려주는 아이펠 경험담](https://docs.google.com/forms/d/e/1FAIpQLSeU0Oqr27rb7p3FRttdeQmO2hxnJFIclIH7UVzrzViWutrP_A/viewform)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최: 아이펠
+  - 접수: 11. 05(화) ~ 11. 13(목)
 - __[코딩 테스트 - 제대로 공부해서 합격하는 방법](https://festa.io/events/6031)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `커리어`
   - 주최: 한빛앤
@@ -181,6 +165,18 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `프론트엔드`
   - 주최: TEOConf
   - 일시: 11. 23(토) ~ 11. 24(일)
+- __[Devfest 2024 GDG Daegu](https://festa.io/events/6350)__
+  - 분류: `오프라인(대구 경북대)`, `유료`, `기술일반`
+  - 주최: GDG Daegu
+  - 접수: 11. 04(월) ~ 11. 22(금)
+- __[Open Contribution Jam 2024](https://festa.io/events/6342)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
+  - 주최: 클라우드 유랑단
+  - 접수: 11. 04(월) ~ 11. 22(금)
+- __[Devfest Cloud 2024](https://festa.io/events/6330)__
+  - 분류: `오프라인(대구 경북대)`, `유료`, `기술일반`
+  - 주최: GDG Cloud KR
+  - 접수: 11. 04(월) ~ 11. 23(토)
 - __[[CJ올리브네트웍스] 클라우드 웨이브 4기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=219437)__
   - 분류: `오프라인(인천 연수구)`, `유료`, `클라우드`
   - 주최: CJ올리브네트웍스
@@ -206,6 +202,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: DDD Seoul
   - 접수: 09. 30(월) ~ 12. 06(금)
+- __[Notion Innovators Summit Seoul 2024 | 노션 서밋 서울](https://summit.makenotion.us/)__
+  - 분류: `오프라인(서울 동대문구)`, `무료`, `기술일반`
+  - 주최: Notion
+  - 접수: 11. 04(월) ~ 12. 06(금)
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
@@ -306,7 +306,8 @@
               <a href="./end_event/2024/24_07.md"> 07월 </a>,
               <a href="./end_event/2024/24_08.md"> 08월 </a>,
               <a href="./end_event/2024/24_09.md"> 09월 </a>,
-              <a href="./end_event/2024/24_10.md"> 10월 </a>
+              <a href="./end_event/2024/24_10.md"> 10월 </a>,
+              <a href="./end_event/2024/24_11.md"> 11월 </a>
             </td>
         </tr>
         <tr>
