@@ -43,9 +43,6 @@
 
 ## 시선집중 👀
 
-<a href="https://skaisummit.com/">
-  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241026_sk.jpg?raw=true">
-</a>
 <a href="https://www.sdc-korea.com/?refer=github_dev_event">
   <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241101_samsung.jpg?raw=true">
 </a>
