@@ -207,8 +207,8 @@
   - 주최: Notion
   - 접수: 11. 04(월) ~ 12. 06(금)
 - __[FIDO Alliance 2024 Public Seminar](https://onoffmix.com/event/311743)__
-  - 분류: `오프라인`, `무료`, `기술일반`, `차세대`, `인증`, `보안`, `패스키`
-  - 주최: [FIDO Alliance](https://fidoalliance.org/), SK텔레콤
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
+  - 주최: FIDO Alliance, SK텔레콤
   - 접수: 11. 04(월) ~ 12. 09(월)
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
