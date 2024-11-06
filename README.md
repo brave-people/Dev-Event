@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-146-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-147-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -666,6 +666,7 @@
       <td align="center" valign="top" width="14.28%"><a href="http://3boku.me"><img src="https://avatars.githubusercontent.com/u/68502584?v=4?s=100" width="100px;" alt="정삼복"/><br /><sub><b>정삼복</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=3boku" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@devjeenie"><img src="https://avatars.githubusercontent.com/u/83256772?v=4?s=100" width="100px;" alt="Ha jin Park"/><br /><sub><b>Ha jin Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dev-Jeenie" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://nageune.github.io"><img src="https://avatars.githubusercontent.com/u/108459576?v=4?s=100" width="100px;" alt="Kyunghyun Kang"/><br /><sub><b>Kyunghyun Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nageune" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@chhw130"><img src="https://avatars.githubusercontent.com/u/116826162?v=4?s=100" width="100px;" alt="HyunWoo Choi"/><br /><sub><b>HyunWoo Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chhw130" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
