@@ -53,15 +53,11 @@
 <br />
 
 ## 24년 11월
-- __[FriendliAI 첫 서울 밋업 & GAISA 두 번째 Homebrew AI 포럼](https://festa.io/events/6243)__
-  - 분류: `오프라인(경기 강남)`, `무료`, `AI`
-  - 주최: 프렌들리에이아이
-  - 접수: 10. 21(월) ~ 11. 06(수)
-
 - __[제1회 국방 AI 아이디어톤](https://docs.google.com/forms/d/e/1FAIpQLSeckQya0xk38LPUPF2ghJ3nLrLqJxj2oVkaaCcm2U-BsAIVvA/viewform)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 국방부
   - 접수: 08. 08(목) ~ 11. 08(금)
+
 - __[Kotlin Compiler Plugin 맛보기 - 2024 (K2)](https://festa.io/events/6133)__
   - 분류: `오프라인(서울 강남)`, `무료`, `안드로이드`
   - 주최: 성빈랜드
@@ -146,6 +142,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
   - 접수: 10. 21(월) ~ 11. 18(토)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304324697)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 11. 07(목) ~ 11. 19(일)
 - __[AI를 쉽고 유쾌하게, 디지털 신기술 세미나](https://pkit.kr/edudetail?id=102057)__
   - 분류: `오프라인(세종)`, `무료`, `AI`
   - 주최: 세종테크노파크
