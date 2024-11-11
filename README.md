@@ -43,11 +43,27 @@
 
 ## 시선집중 👀
 
+<a href="https://event-us.kr/startupall/event/93014">
+  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_실리콘벨리.jpg?raw=true">
+</a>
+<a href="https://www.aiffel.io/">
+  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_아이펠.jpg?raw=true">
+</a>
 <a href="https://www.sdc-korea.com/?refer=github_dev_event">
   <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241101_samsung.jpg?raw=true">
 </a>
 
 > 클릭시 행사로 이동합니다.
+
+<br />
+
+## 다시보기 🎥
+<a href="https://www.youtube.com/watch?v=K38z-1kqhSc&list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy">
+  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_ifkakao2024.jpg?raw=true">
+</a>
+
+> 클릭시 다시보기 링크로 이동합니다.
+
 
 <hr />
 <br />
