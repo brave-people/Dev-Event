@@ -1338,6 +1338,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "juoklee",
+      "name": "Juok Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72849620?v=4",
+      "profile": "https://velog.io/@jubby/posts",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
