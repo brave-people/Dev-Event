@@ -390,6 +390,7 @@
 | 스마일게이트 개발캠프 | [Homepage](https://careers.smilegate.com/student/development-camp) |
 | 코드스쿼드 | [Homepage](https://codesquad.kr/) |
 | 구름톤 트레이닝(9oormthon TRAINING) | [Homepage](https://kdt.goorm.io/) |
+| 청년취업사관학교(SeSAC) | [Homepage](https://sesac.seoul.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
