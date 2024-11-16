@@ -86,7 +86,7 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 코드잇
   - 접수: 10. 22(화) ~ 11. 17(일)
-- __[판교 퇴근길 밋업 with 인프런 #09 AI 개발](https://codeit-sprint-consulting.oopy.io/)__
+- __[판교 퇴근길 밋업 with 인프런 #09 AI 개발](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8-%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-ai%EA%B0%9C%EB%B0%9C)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 코드잇
   - 접수: 10. 22(화) ~ 11. 17(일)
