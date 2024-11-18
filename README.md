@@ -69,31 +69,11 @@
 <br />
 
 ## 24년 11월
-- __[코드잇 스프린트 투어](https://festa.io/events/6332)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: 코드잇
-  - 접수: 10. 14(월) ~ 11. 15(금)
-
-- __[Open Source Conference (오쏘콘)](https://festa.io/events/6160)__
-  - 분류: `오프라인(인천 연수구)`, `유료`, `모임`
-  - 주최: GDG Songdo
-  - 접수: 10. 14(월) ~ 11. 15(금)
-- __[2024 빅콘테스트 참가기한 연장](https://www.bigcontest.or.kr)__
-  - 분류: `오프라인(서울 마포)`, `무료`, `빅데이터`
-  - 주최: 한국정보통신진흥협회
-  - 접수: 10. 28(월) ~ 11. 15(금)
-- __[코드잇 CEO와 함께하는 1:1 상담](https://codeit-sprint-consulting.oopy.io/)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 코드잇
-  - 접수: 10. 22(화) ~ 11. 17(일)
-- __[판교 퇴근길 밋업 with 인프런 #09 AI 개발](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8-%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-ai%EA%B0%9C%EB%B0%9C)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 코드잇
-  - 접수: 10. 22(화) ~ 11. 17(일)
 - __[AI 머니게임: 한국이 나아갈 길](https://gaif.edaily.co.kr/2024/kor/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 이데일리
   - 접수: 10. 08(화) ~ 11. 18(월)
+
 - __[아이펠 코어과정 11기](https://www.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_bran_festa1017)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이펠
@@ -134,6 +114,14 @@
   - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
   - 주최: Let'Swift
   - 접수: 10. 21(월) ~ 11. 22(금)
+- __[기술 문서에도 엔지니어링이 필요하다](https://tech.goorm.io/ko/2411_commit/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 11. 18(월) ~ 11. 22(금)
+- __[Flutter & UXUI Conference](https://docs.google.com/forms/d/e/1FAIpQLScsEalIIrmu5qRAgrbswY07E17lJc6hNtpI_61KMc_dRm2caQ/viewform)__
+  - 분류: `오프라인(인천 미추홀구)`, `무료`, `안드로이드`, `iOS`
+  - 주최: GDGoC
+  - 접수: 11. 18(월) ~ 11. 22(금)
 - __[TEOConf 2024](https://www.teoconf.com)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `프론트엔드`
   - 주최: TEOConf
@@ -222,6 +210,10 @@
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
+  - 접수: 11. 11(월) ~ 12. 20(목)
+- __[Devfest Busan 2024](https://festa.io/events/6403)__
+  - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
+  - 주최: GDG Busan
   - 접수: 11. 11(월) ~ 12. 20(목)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
