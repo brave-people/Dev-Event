@@ -69,27 +69,11 @@
 <br />
 
 ## 24년 11월
-- __[AI 머니게임: 한국이 나아갈 길](https://gaif.edaily.co.kr/2024/kor/)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `AI`
-  - 주최: 이데일리
-  - 접수: 10. 08(화) ~ 11. 18(월)
-
-- __[아이펠 코어과정 11기](https://www.aiffel.io/?utm_source=festa&utm_medium=board_all&utm_campaign=kdt_23_10&utm_content=m_bran_festa1017)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 아이펠
-  - 접수: 10. 21(월) ~ 11. 18(월)
-- __[Autify의 NoCode로 웹부터 모바일 앱 테스트까지!](https://www.allshowtv.com/detail.html?idx=1538)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: LG CNS
-  - 접수: 11. 08(금) ~ 11. 18(월)
-- __[코드포부산 11월 밋업데이](https://www.dxchallenge.co.kr/events/codeforbusan202411)__
-  - 분류: `오프라인(부산 해운대구)`, `무료`, `보안`
-  - 주최: DX Challenge
-  - 접수: 11. 13(수) ~ 11. 18(월)
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304324697)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 11. 07(목) ~ 11. 19(화)
+
 - __[기업에서 모셔가는 Java 개발자로 성장하는 법](https://www.inflearn.com/course/offline/%EA%B8%B0%EC%97%85%EC%97%90%EC%84%9C-%EB%AA%A8%EC%85%94%EA%B0%80%EB%8A%94-java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 인프런
@@ -166,6 +150,18 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 트레이노케이트코리아
   - 접수: 11. 12(화) ~ 11. 27(수)
+- __[현업에서 살아남기 위한 경력자의 기술 팁 | 프리온보딩 FE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_ai_7)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 11. 19(화) ~ 11. 28(목)
+- __[현업에서 살아남기 위한 경력자의 기술 팁 | 프리온보딩 FE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_fe_28)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 11. 19(화) ~ 11. 28(목)
+- __[기술과제 합격률을 높이는 예외처리와 테스트전략 | 프리온보딩 BE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_be_26)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 11. 19(화) ~ 11. 28(목)
 - __[데브콘 대전 : 한 해 마무리 (2024)](https://festa.io/events/mZLpMDBQTAQ5hhNaycp1Ne)__
   - 분류: `오프라인(대전 유성구)`, `무료`, `대회`
   - 주최: K-DEVCON
@@ -183,6 +179,10 @@
   - 주최: 패스트캠퍼스
   - 접수: 10. 23(수) ~ 12. 01(일)
 
+- __[Flag AI 시대 개발자란?](https://tally.so/r/3y0Y5B)__
+  - 분류: `온라인`, `오프라인`, `무료`, `AI`
+  - 주최: 잡플래닛
+  - 접수: 11. 19(화) ~ 12. 01(일)
 - __[애플 디벨로퍼 아카데미 | SHOWCASE 24](https://festa.io/events/6406)__
   - 분류: `오프라인(경북 포항)`, `무료`, `iOS`
   - 주최: Apple Developer Academy Korea Alumni
