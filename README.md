@@ -63,15 +63,11 @@
 <br />
 
 ## 24년 11월
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304324697)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 11. 07(목) ~ 11. 19(화)
-
 - __[기업에서 모셔가는 Java 개발자로 성장하는 법](https://www.inflearn.com/course/offline/%EA%B8%B0%EC%97%85%EC%97%90%EC%84%9C-%EB%AA%A8%EC%85%94%EA%B0%80%EB%8A%94-java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EA%B8%B0)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 인프런
   - 접수: 11. 14(목) ~ 11. 20(수)
+
 - __[GDGoC 24 11월 Open Seminar](https://festa.io/events/6419)__
   - 분류: `오프라인(서울 필동 동국대)`, `무료`, `기술일반`
   - 주최: GDSC DGU
@@ -197,6 +193,14 @@
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
   - 접수: 10. 08(화) ~ 12. 11(수)
+- __[AWS AI Practitioner 자격증 취득 후기와 꿀팁 전수](https://www.meetup.com/awskrug/events/304519465/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 20(수) ~ 12. 13(월)
+- __[AWSKRUG #AIEngineering 모임](https://www.meetup.com/awskrug/events/304519465/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 20(수) ~ 12. 14(화)
 - __[IT 사이트 프로젝트 비영리단체 DND 12기 모집](https://dnd.ac)__
   - 분류: `온라인`, `오프라인(서울 성수)`, `무료`
   - 주최: DND
