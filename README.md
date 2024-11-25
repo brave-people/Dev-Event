@@ -41,6 +41,7 @@
 <br />
 
 
+<!-- 
 ## 시선집중 👀
 
 <a href="https://www.sdc-korea.com/?refer=github_dev_event">
@@ -49,7 +50,8 @@
 
 > 클릭시 행사로 이동합니다.
 
-<br />
+<br /> 
+-->
 
 ## 다시보기 🎥
 <a href="https://www.youtube.com/watch?v=K38z-1kqhSc&list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy">
@@ -63,75 +65,11 @@
 <br />
 
 ## 24년 11월
-- __[삼성 개발자 콘퍼런스 코리아 2024 (SDC24 Korea)](https://www.sdc-korea.com/?refer=github_dev_event)__
-  - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
-  - 주최: 삼성전자
-  - 접수: 10. 21(월) ~ 11. 22(금)
-
-- __[2024 Off-QA 모임](https://festa.io/events/6334)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: QA Korea Conference
-  - 접수: 11. 01(금) ~ 11. 22(금)
-- __[Let'Swift 2024](https://festa.io/events/5772)__
-  - 분류: `오프라인(서울 광진구)`, `유료`, `iOS`
-  - 주최: Let'Swift
-  - 접수: 10. 21(월) ~ 11. 22(금)
-- __[기술 문서에도 엔지니어링이 필요하다](https://tech.goorm.io/ko/2411_commit/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 11. 18(월) ~ 11. 22(금)
-- __[Flutter & UXUI Conference](https://docs.google.com/forms/d/e/1FAIpQLScsEalIIrmu5qRAgrbswY07E17lJc6hNtpI_61KMc_dRm2caQ/viewform)__
-  - 분류: `오프라인(인천 미추홀구)`, `무료`, `안드로이드`, `iOS`
-  - 주최: GDGoC
-  - 접수: 11. 18(월) ~ 11. 22(금)
-- __[TEOConf 2024](https://www.teoconf.com)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `프론트엔드`
-  - 주최: TEOConf
-  - 일시: 11. 23(토) ~ 11. 24(일)
-- __[Devfest 2024 GDG Daegu](https://festa.io/events/6350)__
-  - 분류: `오프라인(대구 경북대)`, `유료`, `기술일반`
-  - 주최: GDG Daegu
-  - 접수: 11. 04(월) ~ 11. 22(금)
-- __[Open Contribution Jam 2024](https://festa.io/events/6342)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `클라우드`
-  - 주최: 클라우드 유랑단
-  - 접수: 11. 04(월) ~ 11. 22(금)
-- __[카운터스펠 부산](https://counterspellbusan.com/)__
-  - 분류: `오프라인(부산)`, `무료`, `대회`
-  - 주최: 카운터스펠
-  - 접수: 11. 13(수) ~ 11. 22(금)
-- __[센텀 디지털 위크 × Dev·Design 컨퍼런스](https://cendiweek.com/)__
-  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 21(목) ~ 11. 22(금)
-- __[Devfest Cloud 2024](https://festa.io/events/6330)__
-  - 분류: `오프라인(대구 경북대)`, `유료`, `기술일반`
-  - 주최: GDG Cloud KR
-  - 접수: 11. 04(월) ~ 11. 23(토)
-- __[CommUNITED: 커뮤나이티드 - 네트워킹](https://festa.io/events/6478)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `모임`
-  - 주최: CommUNITED: 커뮤나이티드
-  - 접수: 11. 21(목) ~ 11. 23(토)
-- __[[CJ올리브네트웍스] 클라우드 웨이브 4기 모집](https://dt.korchamhrd.net/bbs/bbsDetail.do?bbs_id=2268&rootMenuId=5065&menuId=5076&currentPage=1&customer_page_list=10&list_type=1&bbs_sno=219437)__
-  - 분류: `오프라인(인천 연수구)`, `유료`, `클라우드`
-  - 주최: CJ올리브네트웍스
-  - 접수: 10. 28(월) ~ 11. 24(목)
-- __[생성형 AI의 비즈니스 도입](https://festa.io/events/6411)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 11. 12(목) ~ 11. 24(목)
-- __[2025학년도  안드로이드 탐구영역](https://android-exam25.gdg.kr/)__
-  - 분류: `오프라인`, `무료`, `안드로이드`
-  - 주최: GDG Korea Android
-  - 접수: 11. 19(화) ~ 11. 24(일)
-- __[프롬프팅 고인물이 알려주는 프롬프트 엔지니어링 A to Z](https://festa.io/events/6481)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 엘리먼츠 프롬프팅
-  - 접수: 11. 22(금) ~ 11. 24(일)
 - __[2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스](https://event-us.kr/bcgwweb3conference/event/93899)__
   - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 10. 29(화) ~ 11. 26(화) 23:30
+  
 - __[Druid meet up with 오늘의집](https://www.meetup.com/druid-seoul/events/304521085/)__
   - 분류: `오프라인(서울 신논현)`, `무료`, `기술일반`
   - 주최: 오픈소스 Druid 사용자 모임
@@ -221,6 +159,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 20(수) ~ 12. 15(일)
+- __[삐약톤 : 캠퍼스 대항전](https://festa.io/events/6381)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: GDG Campus Korea
+  - 접수: 11. 25(월) ~ 12. 15(일)
 - __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
@@ -237,6 +179,15 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
   - 접수: 11. 19(화) ~ 12. 30(월)
+
+
+<br />
+
+## 25년 01월
+- __[LabConf 2025](https://www.com2us.com/gamecontest/guide)__
+  - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
+  - 주최: Coding Lab
+  - 접수: 11. 25(월) ~ 01. 10(금)
 
 ----------------
 
