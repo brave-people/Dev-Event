@@ -196,7 +196,7 @@
 <br />
 
 ## 25년 01월
-- __[LabConf 2025](https://www.com2us.com/gamecontest/guide)__
+- __[LabConf 2025](https://festa.io/events/6488)__
   - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
   - 주최: Coding Lab
   - 접수: 11. 25(월) ~ 01. 10(금)
