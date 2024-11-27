@@ -65,19 +65,11 @@
 <br />
 
 ## 24년 11월
-- __[2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스](https://event-us.kr/bcgwweb3conference/event/93899)__
-  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 29(화) ~ 11. 26(화) 23:30
-
-- __[Druid meet up with 오늘의집](https://www.meetup.com/druid-seoul/events/304521085/)__
-  - 분류: `오프라인(서울 신논현)`, `무료`, `기술일반`
-  - 주최: 오픈소스 Druid 사용자 모임
-  - 접수: 11. 22(금) ~ 11. 26(화)
 - __[한국 SAFe 커뮤니티 24년 11월 밋업](https://festa.io/events/6300)__
   - 분류: `오프라인(서울 용산)`, `유료`, `기술일반`
   - 주최: 한국 SAFe 커뮤니티
   - 접수: 10. 29(화) ~ 11. 27(수)
+
 - __[코드프레소 제 2회 Competition 사전 신청자 모집](https://competition.codepresso.io/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 코드프레소
@@ -151,6 +143,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
   - 주최: FIDO Alliance, SK텔레콤
   - 접수: 11. 04(월) ~ 12. 09(월)
+- __[2024 특별 커리어 성장 세미나 <커리어, 함께 Carry ON 💪>](https://docs.google.com/forms/d/e/1FAIpQLSc435Y4UslLoP2tnXCAe9WZySrXzCf3sgYasR5BEQ-_QVSStA/viewform)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
+  - 주최: 네이버클라우드
+  - 접수: 11. 27(수) ~ 12. 10(화)
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
@@ -175,6 +171,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
   - 주최: GDG Campus Korea
   - 접수: 11. 25(월) ~ 12. 15(일)
+- __[Kakao Tech Meet #7](https://festa.io/events/6499)__
+  - 분류: `오프라인(경기도 판교)`, `무료`, `기술알반`
+  - 주최: 카카오
+  - 접수: 11. 27(수) ~ 12. 17(화)
 - __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
