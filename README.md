@@ -65,23 +65,11 @@
 <br />
 
 ## 24년 11월
-- __[한국 SAFe 커뮤니티 24년 11월 밋업](https://festa.io/events/6300)__
-  - 분류: `오프라인(서울 용산)`, `유료`, `기술일반`
-  - 주최: 한국 SAFe 커뮤니티
-  - 접수: 10. 29(화) ~ 11. 27(수)
-
-- __[코드프레소 제 2회 Competition 사전 신청자 모집](https://competition.codepresso.io/)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 코드프레소
-  - 접수: 11. 08(금) ~ 11. 27(수)
-- __[생성형 AI 앱 개발을 위해 Azure OpenAI Service와 Azure AI Studio](https://forms.office.com/pages/responsepage.aspx?id=oyt4z26SBEqefqovbhjzTeMV0LjuxntAuMaLXBtKI1ZUOFlRRU1DWEJTN0NJRktOMkhOMlNPTUVaTS4u&route=shorturl)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 트레이노케이트코리아
-  - 접수: 11. 12(화) ~ 11. 27(수)
 - __[현업에서 살아남기 위한 경력자의 기술 팁 | 프리온보딩 FE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_ai_7)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 11. 19(화) ~ 11. 28(목)
+
 - __[현업에서 살아남기 위한 경력자의 기술 팁 | 프리온보딩 FE 챌린지 12월](https://www.wanted.co.kr/events/pre_challenge_fe_28)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 원티드
@@ -139,18 +127,26 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 11. 21(목) ~ 12. 07(토)
+- __[온라인 공유 작업실 "모각-O" (모각-땡)](https://festa.io/events/6535)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 온라인 공유 작업실 "모각O"
+  - 접수: 12. 08(일) ~ 12. 07(토)
 - __[FIDO Alliance 2024 Public Seminar](https://onoffmix.com/event/311743)__
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
   - 주최: FIDO Alliance, SK텔레콤
   - 접수: 11. 04(월) ~ 12. 09(월)
 - __[2024 특별 커리어 성장 세미나 <커리어, 함께 Carry ON 💪>](https://docs.google.com/forms/d/e/1FAIpQLSc435Y4UslLoP2tnXCAe9WZySrXzCf3sgYasR5BEQ-_QVSStA/viewform)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
+  - 분류: `오프라인(경기 성남)`, `무료`, `커리어`
   - 주최: 네이버클라우드
   - 접수: 11. 27(수) ~ 12. 10(화)
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
   - 접수: 10. 08(화) ~ 12. 11(수)
+- __[한국산업지능화협회 2024 컨퍼런스](https://festa.io/events/6536)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 루와콘텐츠그룹
+  - 접수: 11. 28(목) ~ 12. 11(수)
 - __[AWS AI Practitioner 자격증 취득 후기와 꿀팁 전수](https://www.meetup.com/awskrug/events/304519465/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: AWSKRUG
@@ -183,6 +179,10 @@
   - 분류: `기술일반`, `유료`, `오프라인(서울 역삼)`
   - 주최: SIPE
   - 접수: 11. 27(수) ~ 12. 19(목)
+- __[2024 우먼잇츠 기술 세미나 '디지털 안전과 보호 기술'](https://www.seoulwomen.or.kr/sfwf/contents/sfwf-notice.do?&schM=view&page=1&viewCount=10&id=29406&schBdcode=&schGroupCode=#none)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 서울여성가족재단
+  - 접수: 11. 28(목) ~ 12. 18(수)
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
