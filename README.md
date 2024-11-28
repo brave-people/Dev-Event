@@ -183,6 +183,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 서울여성가족재단
   - 접수: 11. 28(목) ~ 12. 18(수)
+- __[피로그래밍 22기 모집](https://pirogramming.com/recruit/)__
+  - 분류: `동아리`
+  - 주최: Pirogramming
+  - 접수: 11. 29(금) ~ 12. 06(금)
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
