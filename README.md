@@ -65,15 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[애플 디벨로퍼 아카데미 | SHOWCASE 24](https://festa.io/events/6406)__
-  - 분류: `오프라인(경북 포항)`, `무료`, `iOS`
-  - 주최: Apple Developer Academy Korea Alumni
-  - 접수: 11. 11(월) ~ 12. 04(수)
-
 - __[오픈소스 페스티벌 2024](https://onoffmix.com/event/313420)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 12. 03(화) ~ 12. 05(목)
+
 - __[제7회 테크 데이 - 함께 만들어가는 도전의 순간들](https://devocean.sk.com/events/view.do?id=206)__
   - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
   - 주최: DEVOCEAN
@@ -125,11 +121,15 @@
 - __[AWS AI Practitioner 자격증 취득 후기와 꿀팁 전수](https://www.meetup.com/awskrug/events/304519465/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 11. 20(수) ~ 12. 13(월)
+  - 접수: 11. 20(수) ~ 12. 13(금)
+- __[앞단콘 2024](https://slashpage.com/frontends)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 12. 05(목) ~ 12. 13(금)
 - __[AWSKRUG #AIEngineering 모임](https://www.meetup.com/awskrug/events/304519465/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 11. 20(수) ~ 12. 14(화)
+  - 접수: 11. 20(수) ~ 12. 14(토)
 - __[IT 사이트 프로젝트 비영리단체 DND 12기 모집](https://dnd.ac)__
   - 분류: `온라인`, `오프라인(서울 성수)`, `무료`
   - 주최: DND
