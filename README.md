@@ -65,19 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[오픈소스 페스티벌 2024](https://onoffmix.com/event/313420)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 03(화) ~ 12. 05(목)
-
-- __[제7회 테크 데이 - 함께 만들어가는 도전의 순간들](https://devocean.sk.com/events/view.do?id=206)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
-  - 주최: DEVOCEAN
-  - 접수: 11. 26(화) ~ 12. 05(목)
 - __[Developer! Developer! Developer!](https://dddseoul.kr/)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: DDD Seoul
   - 접수: 09. 30(월) ~ 12. 06(금)
+
 - __[Notion Innovators Summit Seoul 2024 | 노션 서밋 서울](https://summit.makenotion.us/)__
   - 분류: `오프라인(서울 동대문구)`, `무료`, `기술일반`
   - 주최: Notion
@@ -154,6 +146,10 @@
   - 분류: `오프라인(서울 강서)`, `무료`, `AI`, `교육`
   - 주최: 스나이퍼팩토리
   - 접수: 11. 29(금) ~ 12. 17(화)
+- __[올해의 기술 콘퍼런스, 핵심만 골라봤습니다 - LLM 편](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 우아한형제들
+  - 접수: 12. 06(금) ~ 12. 17(화)
 - __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
@@ -186,6 +182,14 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
   - 접수: 11. 19(화) ~ 12. 30(월)
+- __[[코드잇 스프린트] 100% 인턴십 벡엔드 부트캠프](https://sprint.codeit.kr/track/backend-spring?utm_source=community&utm_medium=dev&utm_content=spring)__
+  - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `벡엔드`, `교육`
+  - 주최: 코드잇 스프린트
+  - 접수: 12. 06(금) ~ 12. 30(월)
+- __[[코드잇 스프린트] 100% 인턴십 프론트엔드 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=community&utm_medium=dev&utm_content=frontend)__
+  - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `프론트엔드`, `교육`
+  - 주최: 코드잇 스프린트
+  - 접수: 12. 06(금) ~ 12. 30(월)
 
 
 <br />
