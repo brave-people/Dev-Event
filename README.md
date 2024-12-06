@@ -78,7 +78,7 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: Pirogramming
   - 접수: 11. 29(금) ~ 12. 06(금)
-- __[디프만 16기 모집](https://pirogramming.com/recruit/)__
+- __[디프만 16기 모집](https://www.depromeet.com/)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: Depromeet
   - 접수: 12. 03(화) ~ 12. 09(월)
@@ -150,7 +150,7 @@
   - 분류: `오프라인(서울 강서)`, `무료`, `AI`, `교육`
   - 주최: 스나이퍼팩토리
   - 접수: 11. 29(금) ~ 12. 17(화)
-- __[올해의 기술 콘퍼런스, 핵심만 골라봤습니다 - LLM 편](https://docs.google.com/forms/d/e/1FAIpQLSc8gd9jpQEIwteh5j-B5GlORa-8oB1Md5SgNQMGpM186M3oKA/viewform)__
+- __[올해의 기술 콘퍼런스, 핵심만 골라봤습니다 - LLM 편](http://docs.google.com/forms/d/e/1FAIpQLSds9m9rtfTpc2WEbflaTHFf9sO1pKnp2RRufYLSncrJ_Ky01A/viewform?usp=sf_link)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 우아한형제들
   - 접수: 12. 06(금) ~ 12. 17(화)
