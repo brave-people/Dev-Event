@@ -65,23 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[Developer! Developer! Developer!](https://dddseoul.kr/)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
-  - 주최: DDD Seoul
-  - 접수: 09. 30(월) ~ 12. 06(금)
-
-- __[Notion Innovators Summit Seoul 2024 | 노션 서밋 서울](https://summit.makenotion.us/)__
-  - 분류: `오프라인(서울 동대문구)`, `무료`, `기술일반`
-  - 주최: Notion
-  - 접수: 11. 04(월) ~ 12. 06(금)
-- __[피로그래밍 22기 모집](https://pirogramming.com/recruit/)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: Pirogramming
-  - 접수: 11. 29(금) ~ 12. 06(금)
 - __[디프만 16기 모집](https://www.depromeet.com/)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: Depromeet
   - 접수: 12. 03(화) ~ 12. 09(월)
+  
 - __[데브콘 서울 : 십이월엔 셀프 회고 릴레이](https://festa.io/events/6472)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: K-DEVCON
@@ -154,6 +142,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 우아한형제들
   - 접수: 12. 06(금) ~ 12. 17(화)
+- __[테스트하기 좋은 코드 작성하기](https://tech.goorm.io/ko/2412_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 12. 09(월) ~ 12. 13(금) 17:00
 - __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
@@ -166,6 +158,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 서울여성가족재단
   - 접수: 11. 28(목) ~ 12. 18(수)
+- __[Oracle DB Cloud 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdrnd6AYPFJBt7rjHi4Ad34dC0R3hiKDY4UR5bGhw-58tDo2g/viewform)__
+  - 분류: `오프라인`, `무료`, `DB`
+  - 주최: 클라우드
+  - 접수: 12. 09(월) ~ 12. 19(목)
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
@@ -174,6 +170,10 @@
   - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
   - 주최: GDG Busan
   - 접수: 11. 11(월) ~ 12. 20(목)
+- __[Devfest Busan 2024](https://festa.io/events/6602)__
+  - 분류: `오프라인(대전 서구)`, `유료`, `기술일반`
+  - 주최: GDG Daejeon
+  - 접수: 12. 09(월) ~ 12. 20(목)
 - __[2025 크래프톤 AI FELLOWSHIP PROGRAM](https://inthiswork.com/archives/170476)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 크래프톤
