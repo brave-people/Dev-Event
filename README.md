@@ -195,7 +195,6 @@
   - 주최: 코드잇 스프린트
   - 접수: 12. 06(금) ~ 12. 30(월)
 
-
 <br />
 
 ## 25년 01월
@@ -212,6 +211,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: U/CON
   - 접수: 12. 02(월) ~ 01. 17(목)
+- __[​SUSC 대학방학교류-디코데이: 대학생 개발자와 디자이너의 만남](https://event-us.kr/susc/event/96304)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
+  - 주최: SUSC
+  - 접수: 12. 06(금) ~ 01. 09(목)
 
 ----------------
 
@@ -344,6 +347,7 @@
 | SIPE | 개발자들이 함께 교류하며 성장하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
 | 9oormthon Univ | 구름과 시즌톤이 함께하는 대학생 IT연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
+| SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -673,6 +677,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@jubby/posts"><img src="https://avatars.githubusercontent.com/u/72849620?v=4?s=100" width="100px;" alt="Juok Lee"/><br /><sub><b>Juok Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=juoklee" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KNHui"><img src="https://avatars.githubusercontent.com/u/37471802?v=4?s=100" width="100px;" alt="김남희"/><br /><sub><b>김남희</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=KNHui" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://ywonchae1.github.io"><img src="https://avatars.githubusercontent.com/u/79977182?v=4?s=100" width="100px;" alt="Wonchae Yang"/><br /><sub><b>Wonchae Yang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ywonchae1" title="Code">💻</a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/syeony"><img src="https://avatars.githubusercontent.com/syeony" width="100px;" alt="Seungyeon Oh"/><br /><sub><b>Seungyeon Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=syeony" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
