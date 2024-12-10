@@ -65,31 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[디프만 16기 모집](https://www.depromeet.com/)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: Depromeet
-  - 접수: 12. 03(화) ~ 12. 09(월)
-  
-- __[데브콘 서울 : 십이월엔 셀프 회고 릴레이](https://festa.io/events/6472)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 11. 21(목) ~ 12. 07(토)
-- __[온라인 공유 작업실 "모각-O" (모각-땡)](https://festa.io/events/6535)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 온라인 공유 작업실 "모각O"
-  - 접수: 12. 08(일) ~ 12. 07(토)
-- __[판교 퇴근길 밋업 with 인프런 #10 연말회고](https://inf.run/QvTNb)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `모임`
-  - 주최: 인프런
-  - 접수: 12. 04(수) ~ 12. 08(일)
-- __[FIDO Alliance 2024 Public Seminar](https://onoffmix.com/event/311743)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `보안`
-  - 주최: FIDO Alliance, SK텔레콤
-  - 접수: 11. 04(월) ~ 12. 09(월)
 - __[2024 특별 커리어 성장 세미나 <커리어, 함께 Carry ON 💪>](https://docs.google.com/forms/d/e/1FAIpQLSc435Y4UslLoP2tnXCAe9WZySrXzCf3sgYasR5BEQ-_QVSStA/viewform)__
   - 분류: `오프라인(경기 성남)`, `무료`, `커리어`
   - 주최: 네이버클라우드
   - 접수: 11. 27(수) ~ 12. 10(화)
+
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
@@ -130,6 +110,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: 과학기술정보통신부
   - 접수: 12. 04(수) ~ 12. 15(일)
+- __[남궁성의 데브캠프 3기 추가 모집](https://fastcampus.co.kr/b2g_kdigitaltraining_frontend)__
+  - 분류: `온라인`, `무료(내일배움카드)`, `교육`, `프론트엔드`
+  - 주최: 페스트캠퍼스
+  - 접수: 12. 10(화) ~ 12. 15(일)
+- __[남궁성의 데브캠프 3기 추가 모집](https://fastcampus.co.kr/b2g_kdigitaltraining_backend)__
+  - 분류: `온라인`, `무료(내일배움카드)`, `교육`, `벡엔드`
+  - 주최: 페스트캠퍼스
+  - 접수: 12. 10(화) ~ 12. 15(일)
+- __[모두콘 2024](https://moducon.modulabs.co.kr/)__
+  - 분류: `오프라인(서울 양재)`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 12. 10(화) ~ 12. 15(일)
 - __[Kakao Tech Meet #7](https://festa.io/events/6499)__
   - 분류: `오프라인(경기도 판교)`, `무료`, `기술알반`
   - 주최: 카카오
@@ -142,6 +134,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 우아한형제들
   - 접수: 12. 06(금) ~ 12. 17(화)
+- __[오픈 클라우드 플랫폼 PUB 2025 with PlugFest](https://onoffmix.com/event/313744)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `클라우드`
+  - 주최: 개방형 클라우드 플랫폼 센터
+  - 접수: 12. 10(화) ~ 12. 17(화)
 - __[테스트하기 좋은 코드 작성하기](https://tech.goorm.io/ko/2412_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
   - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
   - 주최: 구름
@@ -170,7 +166,7 @@
   - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
   - 주최: GDG Busan
   - 접수: 11. 11(월) ~ 12. 20(목)
-- __[Devfest Busan 2024](https://festa.io/events/6602)__
+- __[Devfest Deajeon 2024](https://festa.io/events/6602)__
   - 분류: `오프라인(대전 서구)`, `유료`, `기술일반`
   - 주최: GDG Daejeon
   - 접수: 12. 09(월) ~ 12. 20(목)
