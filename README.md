@@ -65,15 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[2024 특별 커리어 성장 세미나 <커리어, 함께 Carry ON 💪>](https://docs.google.com/forms/d/e/1FAIpQLSc435Y4UslLoP2tnXCAe9WZySrXzCf3sgYasR5BEQ-_QVSStA/viewform)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `커리어`
-  - 주최: 네이버클라우드
-  - 접수: 11. 27(수) ~ 12. 10(화)
-
 - __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
   - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
   - 주최: 긱뉴스
   - 접수: 10. 08(화) ~ 12. 11(수)
+
 - __[한국산업지능화협회 2024 컨퍼런스](https://festa.io/events/6536)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 루와콘텐츠그룹
@@ -90,6 +86,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 12. 05(목) ~ 12. 13(금)
+- __[Boot off Network on :ctrl+N](https://gukmodait.framer.ai/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 12. 11(수) ~ 12. 13(금)
 - __[AWSKRUG #AIEngineering 모임](https://www.meetup.com/awskrug/events/304519465/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -146,6 +146,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
   - 접수: 11. 13(수) ~ 12. 18(수)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304877902/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 12. 11(수) ~ 12. 18(수)
 - __[SIPE Conference: 세 번째 사담콘](https://festa.io/events/6496)__
   - 분류: `기술일반`, `유료`, `오프라인(서울 역삼)`
   - 주최: SIPE
@@ -178,6 +182,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 원티드
   - 접수: 11. 11(월) ~ 12. 23(월)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/304870853/)__
+  - 분류: `온라인`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 12. 11(수) ~ 12. 25(수)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
