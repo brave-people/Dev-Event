@@ -65,23 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[GeekNews Meetup '24](https://docs.google.com/forms/d/e/1FAIpQLSfbk0QXL7vxzPPvL8eQevubrDEUpcH__76c0ryzZ7Sg2nkgDw/viewform)__
-  - 분류: `오프라인(서울 마포)`, `무료`, `기술일반`
-  - 주최: 긱뉴스
-  - 접수: 10. 08(화) ~ 12. 11(수)
-
-- __[한국산업지능화협회 2024 컨퍼런스](https://festa.io/events/6536)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 루와콘텐츠그룹
-  - 접수: 11. 28(목) ~ 12. 11(수)
-- __[Next Career Conference 2024](https://ncc.zepx.us/)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: ZEP
-  - 접수: 11. 24(일) ~ 12. 11(수)
 - __[AWS AI Practitioner 자격증 취득 후기와 꿀팁 전수](https://www.meetup.com/awskrug/events/304519465/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 11. 20(수) ~ 12. 13(금)
+
 - __[앞단콘 2024](https://slashpage.com/frontends)__
   - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
   - 주최: AWSKRUG
@@ -174,10 +162,22 @@
   - 분류: `오프라인(대전 서구)`, `유료`, `기술일반`
   - 주최: GDG Daejeon
   - 접수: 12. 09(월) ~ 12. 20(목)
+- __[개발자 커리어 우여곡절 컨퍼런스 2024](https://lu.ma/xto1pdad)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 우여곡절 컨퍼런스
+  - 접수: 12. 12(목) ~ 12. 20(목)
+- __[라이언 파트너스 데이](https://docs.google.com/forms/d/e/1FAIpQLSfOcNuiXakzpor4hvsV1proUOyzeqiEMlSrfrccx3FVcK7OKQ/viewform)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: 멋쟁이 사자처럼
+  - 접수: 12. 12(목) ~ 12. 20(목)
 - __[2025 크래프톤 AI FELLOWSHIP PROGRAM](https://inthiswork.com/archives/170476)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 크래프톤
   - 접수: 12. 04(수) ~ 12. 21(토)
+- __[AOAI톤 아이디어 경진대회 사전설명회](https://aifactory.space/task/8802/overview)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 12. 05(목) ~ 12. 22(일)
 - __[[포텐업] 게임 개발자 양성과정 1기](https://www.wanted.co.kr/events/potenup_02)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 원티드
@@ -186,6 +186,10 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 12. 11(수) ~ 12. 25(수)
+- __[루트임팩트 AI 커리어 스쿨 해커톤](https://event-us.kr/aicshackathon/event/95575)__
+  - 분류: `온라인`, `유료`, `인프라`
+  - 주최: 루트임팩트 AI 커리어 스쿨 해커톤
+  - 접수: 12. 02(월) ~ 12. 26(목)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
@@ -219,6 +223,10 @@
   - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
   - 주최: SUSC
   - 접수: 12. 06(금) ~ 01. 09(목)
+- __[NGINX Use Case 콘테스트](https://okky.kr/articles/1522205)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: NGINX Korea
+  - 접수: 12. 15(일) ~ 01. 30(목)
 
 ----------------
 
