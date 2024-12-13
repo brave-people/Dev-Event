@@ -150,6 +150,10 @@
   - 분류: `오프라인`, `무료`, `DB`
   - 주최: 클라우드
   - 접수: 12. 09(월) ~ 12. 19(목)
+- __[프리온보딩 커리어 킥오프 2024 Winter](https://www.wanted.co.kr/events/pre_kickoff_2024_winter)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 12. 04(수) ~ 12. 19(목)
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
@@ -190,6 +194,10 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: 루트임팩트 AI 커리어 스쿨 해커톤
   - 접수: 12. 02(월) ~ 12. 26(목)
+- __[RetroFest 2024: Back to the Future, 미래를 위한 돌아보기](https://festa.io/events/6631)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: Google Developer Groups on Campus
+  - 접수: 12. 13(금) ~ 12. 26(목)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
