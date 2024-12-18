@@ -65,35 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[Kakao Tech Meet #7](https://festa.io/events/6499)__
-  - 분류: `오프라인(경기도 판교)`, `무료`, `기술알반`
-  - 주최: 카카오
-  - 접수: 11. 27(수) ~ 12. 17(화)
-
-- __[한컴 AI 아카데미 과정](https://festa.io/events/6543)__
-  - 분류: `오프라인(서울 강서)`, `무료`, `AI`, `교육`
-  - 주최: 스나이퍼팩토리
-  - 접수: 11. 29(금) ~ 12. 17(화)
-- __[올해의 기술 콘퍼런스, 핵심만 골라봤습니다 - LLM 편](http://docs.google.com/forms/d/e/1FAIpQLSds9m9rtfTpc2WEbflaTHFf9sO1pKnp2RRufYLSncrJ_Ky01A/viewform?usp=sf_link)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 우아한형제들
-  - 접수: 12. 06(금) ~ 12. 17(화)
-- __[오픈 클라우드 플랫폼 PUB 2025 with PlugFest](https://onoffmix.com/event/313744)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 12. 10(화) ~ 12. 17(화)
-- __[테스트하기 좋은 코드 작성하기](https://tech.goorm.io/ko/2412_commit/)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 12. 09(월) ~ 12. 13(금) 17:00
-- __[개발자 서바이벌 연봉 게임 우승자를 공개합니다!](https://docs.google.com/forms/d/e/1FAIpQLSc55xKo915cPoKVjubOIMVNqBcNMR2drTLu3YcHMkQKWspnVg/viewform)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 코딩어게임
-  - 접수: 12. 09(월) ~ 12. 17(화)
 - __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 플로우
   - 접수: 11. 13(수) ~ 12. 18(수)
+  
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304877902/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: AWSKRUG
@@ -186,11 +162,23 @@
 <br />
 
 ## 25년 01월
+- __[AI 커리어 성공 가이드: 첫 취업과 첫 이직 | 프리온보딩 AI 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_ai_8)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
+
+- __[레거시 유지보수와 데이터 모으기 | 프리온보딩 FE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_fe_29)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
+- __[이제는 꼭 알아야 할 AWS | 프리온보딩 BE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_27)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
   - 접수: 12. 30(월) ~ 01. 09(목)
-
 - __[LabConf 2025](https://festa.io/events/6488)__
   - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
   - 주최: Coding Lab
