@@ -65,19 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 플로우
-  - 접수: 11. 13(수) ~ 12. 18(수)
-  
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304877902/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 12. 11(수) ~ 12. 18(수)
 - __[SIPE Conference: 세 번째 사담콘](https://festa.io/events/6496)__
   - 분류: `기술일반`, `유료`, `오프라인(서울 역삼)`
   - 주최: SIPE
   - 접수: 11. 27(수) ~ 12. 19(목)
+
 - __[2024 우먼잇츠 기술 세미나 '디지털 안전과 보호 기술'](https://www.seoulwomen.or.kr/sfwf/contents/sfwf-notice.do?&schM=view&page=1&viewCount=10&id=29406&schBdcode=&schGroupCode=#none)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 서울여성가족재단
@@ -183,6 +175,10 @@
   - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
   - 주최: Coding Lab
   - 접수: 11. 25(월) ~ 01. 10(금)
+- __[한컴 AI 아카데미 과정](https://sniperfactory.com/kdthancom)__
+  - 분류: `오프라인(서울 마곡)`, `무료`, `AI`
+  - 주최: 한글과컴퓨터
+  - 접수: 12. 19(목) ~ 01. 12(일)
 - __[​학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: U/CON
