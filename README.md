@@ -65,27 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[SIPE Conference: 세 번째 사담콘](https://festa.io/events/6496)__
-  - 분류: `기술일반`, `유료`, `오프라인(서울 역삼)`
-  - 주최: SIPE
-  - 접수: 11. 27(수) ~ 12. 19(목)
-
-- __[2024 우먼잇츠 기술 세미나 '디지털 안전과 보호 기술'](https://www.seoulwomen.or.kr/sfwf/contents/sfwf-notice.do?&schM=view&page=1&viewCount=10&id=29406&schBdcode=&schGroupCode=#none)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 서울여성가족재단
-  - 접수: 11. 28(목) ~ 12. 18(수)
-- __[Oracle DB Cloud 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdrnd6AYPFJBt7rjHi4Ad34dC0R3hiKDY4UR5bGhw-58tDo2g/viewform)__
-  - 분류: `오프라인`, `무료`, `DB`
-  - 주최: 클라우드
-  - 접수: 12. 09(월) ~ 12. 19(목)
-- __[프리온보딩 커리어 킥오프 2024 Winter](https://www.wanted.co.kr/events/pre_kickoff_2024_winter)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 12. 04(수) ~ 12. 19(목)
 - __[제주 웹 컨퍼런스](https://jejuweb.kr/)__
   - 분류: `오프라인(제주)`, `무료`, `커리어`
   - 주최: 제주산학융합원
   - 접수: 12. 17(화) ~ 12. 20(금)
+
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
@@ -150,6 +134,10 @@
   - 분류: `오프라인(경기 판교)`, `무료`, `AI`
   - 주최: 인프런
   - 접수: 12. 11(수) ~ 12. 31(화)
+- __[잔디 기부 캠페인](https://hanghae99.spartacodingclub.kr/campaign)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 항해
+  - 접수: 12. 16(월) ~ 12. 31(화)
 
 <br />
 
