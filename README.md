@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-152-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-153-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -65,91 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[AWS AI Practitioner 자격증 취득 후기와 꿀팁 전수](https://www.meetup.com/awskrug/events/304519465/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 20(수) ~ 12. 13(금)
+- __[제주 웹 컨퍼런스](https://jejuweb.kr/)__
+  - 분류: `오프라인(제주)`, `무료`, `커리어`
+  - 주최: 제주산학융합원
+  - 접수: 12. 17(화) ~ 12. 20(금)
 
-- __[앞단콘 2024](https://slashpage.com/frontends)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 12. 05(목) ~ 12. 13(금)
-- __[Boot off Network on :ctrl+N](https://gukmodait.framer.ai/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 12. 11(수) ~ 12. 13(금)
-- __[AWSKRUG #AIEngineering 모임](https://www.meetup.com/awskrug/events/304519465/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 20(수) ~ 12. 14(토)
-- __[IT 사이트 프로젝트 비영리단체 DND 12기 모집](https://dnd.ac)__
-  - 분류: `온라인`, `오프라인(서울 성수)`, `무료`
-  - 주최: DND
-  - 접수: 11. 18(월) ~ 12. 15(일)
-- __[AI 공모전 GALA](https://fastcampus.co.kr/gala2024)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 11. 20(수) ~ 12. 15(일)
-- __[삐약톤 : 캠퍼스 대항전](https://festa.io/events/6381)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
-  - 주최: GDG Campus Korea
-  - 접수: 11. 25(월) ~ 12. 15(일)
-- __[2024 사이버보안 최신 동향 세미나](https://event-us.kr/occevent/event/96243)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 04(수) ~ 12. 15(일)
-- __[남궁성의 데브캠프 3기 추가 모집](https://fastcampus.co.kr/b2g_kdigitaltraining_frontend)__
-  - 분류: `온라인`, `무료(내일배움카드)`, `교육`, `프론트엔드`
-  - 주최: 페스트캠퍼스
-  - 접수: 12. 10(화) ~ 12. 15(일)
-- __[남궁성의 데브캠프 3기 추가 모집](https://fastcampus.co.kr/b2g_kdigitaltraining_backend)__
-  - 분류: `온라인`, `무료(내일배움카드)`, `교육`, `벡엔드`
-  - 주최: 페스트캠퍼스
-  - 접수: 12. 10(화) ~ 12. 15(일)
-- __[모두콘 2024](https://moducon.modulabs.co.kr/)__
-  - 분류: `오프라인(서울 양재)`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 12. 10(화) ~ 12. 15(일)
-- __[Kakao Tech Meet #7](https://festa.io/events/6499)__
-  - 분류: `오프라인(경기도 판교)`, `무료`, `기술알반`
-  - 주최: 카카오
-  - 접수: 11. 27(수) ~ 12. 17(화)
-- __[한컴 AI 아카데미 과정](https://festa.io/events/6543)__
-  - 분류: `오프라인(서울 강서)`, `무료`, `AI`, `교육`
-  - 주최: 스나이퍼팩토리
-  - 접수: 11. 29(금) ~ 12. 17(화)
-- __[올해의 기술 콘퍼런스, 핵심만 골라봤습니다 - LLM 편](http://docs.google.com/forms/d/e/1FAIpQLSds9m9rtfTpc2WEbflaTHFf9sO1pKnp2RRufYLSncrJ_Ky01A/viewform?usp=sf_link)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 우아한형제들
-  - 접수: 12. 06(금) ~ 12. 17(화)
-- __[오픈 클라우드 플랫폼 PUB 2025 with PlugFest](https://onoffmix.com/event/313744)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 12. 10(화) ~ 12. 17(화)
-- __[테스트하기 좋은 코드 작성하기](https://tech.goorm.io/ko/2412_commit/?utm_source=marketingdb&utm_medium=github_dev_event&utm_campaign=commit)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 12. 09(월) ~ 12. 13(금) 17:00
-- __[AI 협업툴 업무레벨 혁신 전략](https://festa.io/events/6422)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 플로우
-  - 접수: 11. 13(수) ~ 12. 18(수)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/304877902/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 12. 11(수) ~ 12. 18(수)
-- __[SIPE Conference: 세 번째 사담콘](https://festa.io/events/6496)__
-  - 분류: `기술일반`, `유료`, `오프라인(서울 역삼)`
-  - 주최: SIPE
-  - 접수: 11. 27(수) ~ 12. 19(목)
-- __[2024 우먼잇츠 기술 세미나 '디지털 안전과 보호 기술'](https://www.seoulwomen.or.kr/sfwf/contents/sfwf-notice.do?&schM=view&page=1&viewCount=10&id=29406&schBdcode=&schGroupCode=#none)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 서울여성가족재단
-  - 접수: 11. 28(목) ~ 12. 18(수)
-- __[Oracle DB Cloud 활용하기](https://docs.google.com/forms/d/e/1FAIpQLSdrnd6AYPFJBt7rjHi4Ad34dC0R3hiKDY4UR5bGhw-58tDo2g/viewform)__
-  - 분류: `오프라인`, `무료`, `DB`
-  - 주최: 클라우드
-  - 접수: 12. 09(월) ~ 12. 19(목)
 - __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
   - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
   - 주최: GDG Songdo
@@ -178,6 +98,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 12. 05(목) ~ 12. 22(일)
+- __[스위프 7기 #SHOWWHATYOUGOT 행사 참석 신청서](https://tally.so/r/w5lJeP)__
+  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
+  - 주최: SHOWWHATYOUGOT
+  - 접수: 12. 16(월) ~ 12. 22(일)
 - __[[포텐업] 게임 개발자 양성과정 1기](https://www.wanted.co.kr/events/potenup_02)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 원티드
@@ -190,6 +114,10 @@
   - 분류: `온라인`, `유료`, `인프라`
   - 주최: 루트임팩트 AI 커리어 스쿨 해커톤
   - 접수: 12. 02(월) ~ 12. 26(목)
+- __[RetroFest 2024: Back to the Future, 미래를 위한 돌아보기](https://festa.io/events/6631)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: Google Developer Groups on Campus
+  - 접수: 12. 13(금) ~ 12. 26(목)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
@@ -202,24 +130,48 @@
   - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `프론트엔드`, `교육`
   - 주최: 코드잇 스프린트
   - 접수: 12. 06(금) ~ 12. 30(월)
+- __[AI 커리어 스쿨 (in 부산 · 울산 · 경남)](https://www.inflearn.com/course/offline/ai_career_school_2501#program)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
+  - 주최: 인프런
+  - 접수: 12. 11(수) ~ 12. 31(화)
+- __[잔디 기부 캠페인](https://hanghae99.spartacodingclub.kr/campaign)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 항해
+  - 접수: 12. 16(월) ~ 12. 31(화)
 
 <br />
 
 ## 25년 01월
+- __[AI 커리어 성공 가이드: 첫 취업과 첫 이직 | 프리온보딩 AI 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_ai_8)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
+
+- __[레거시 유지보수와 데이터 모으기 | 프리온보딩 FE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_fe_29)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
+- __[이제는 꼭 알아야 할 AWS | 프리온보딩 BE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_27)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 12. 18(수) ~ 01. 02(목)
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
   - 접수: 12. 30(월) ~ 01. 09(목)
-  
 - __[LabConf 2025](https://festa.io/events/6488)__
   - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
   - 주최: Coding Lab
   - 접수: 11. 25(월) ~ 01. 10(금)
-- __[​학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
+- __[한컴 AI 아카데미 과정](https://sniperfactory.com/kdthancom)__
+  - 분류: `오프라인(서울 마곡)`, `무료`, `AI`
+  - 주최: 한글과컴퓨터
+  - 접수: 12. 19(목) ~ 01. 12(일)
+- __[학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: U/CON
   - 접수: 12. 02(월) ~ 01. 17(목)
-- __[​SUSC 대학방학교류-디코데이: 대학생 개발자와 디자이너의 만남](https://event-us.kr/susc/event/96304)__
+- __[SUSC 대학방학교류-디코데이: 대학생 개발자와 디자이너의 만남](https://event-us.kr/susc/event/96304)__
   - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
   - 주최: SUSC
   - 접수: 12. 06(금) ~ 01. 09(목)
@@ -698,6 +650,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/KNHui"><img src="https://avatars.githubusercontent.com/u/37471802?v=4?s=100" width="100px;" alt="김남희"/><br /><sub><b>김남희</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=KNHui" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://ywonchae1.github.io"><img src="https://avatars.githubusercontent.com/u/79977182?v=4?s=100" width="100px;" alt="Wonchae Yang"/><br /><sub><b>Wonchae Yang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ywonchae1" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@fltk1004"><img src="https://avatars.githubusercontent.com/u/101008357?v=4?s=100" width="100px;" alt="syeony"/><br /><sub><b>syeony</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=syeony" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hijae"><img src="https://avatars.githubusercontent.com/u/5418545?v=4?s=100" width="100px;" alt="Hijae Song"/><br /><sub><b>Hijae Song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hijae" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
