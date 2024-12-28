@@ -65,63 +65,11 @@
 <br />
 
 ## 24년 12월
-- __[제주 웹 컨퍼런스](https://jejuweb.kr/)__
-  - 분류: `오프라인(제주)`, `무료`, `커리어`
-  - 주최: 제주산학융합원
-  - 접수: 12. 17(화) ~ 12. 20(금)
-
-- __[Devfest Incheon / Songdo 2024](https://festa.io/events/6324)__
-  - 분류: `오프라인(인천 송도)`, `유료`, `기술일반`
-  - 주최: GDG Songdo
-  - 접수: 11. 11(월) ~ 12. 20(목)
-- __[Devfest Busan 2024](https://festa.io/events/6403)__
-  - 분류: `오프라인(부산 남구)`, `유료`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 11. 11(월) ~ 12. 20(목)
-- __[Devfest Deajeon 2024](https://festa.io/events/6602)__
-  - 분류: `오프라인(대전 서구)`, `유료`, `기술일반`
-  - 주최: GDG Daejeon
-  - 접수: 12. 09(월) ~ 12. 20(목)
-- __[개발자 커리어 우여곡절 컨퍼런스 2024](https://lu.ma/xto1pdad)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 우여곡절 컨퍼런스
-  - 접수: 12. 12(목) ~ 12. 20(목)
-- __[라이언 파트너스 데이](https://docs.google.com/forms/d/e/1FAIpQLSfOcNuiXakzpor4hvsV1proUOyzeqiEMlSrfrccx3FVcK7OKQ/viewform)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: 멋쟁이 사자처럼
-  - 접수: 12. 12(목) ~ 12. 20(목)
-- __[2025 크래프톤 AI FELLOWSHIP PROGRAM](https://inthiswork.com/archives/170476)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 크래프톤
-  - 접수: 12. 04(수) ~ 12. 21(토)
-- __[AOAI톤 아이디어 경진대회 사전설명회](https://aifactory.space/task/8802/overview)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 12. 05(목) ~ 12. 22(일)
-- __[스위프 7기 #SHOWWHATYOUGOT 행사 참석 신청서](https://tally.so/r/w5lJeP)__
-  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
-  - 주최: SHOWWHATYOUGOT
-  - 접수: 12. 16(월) ~ 12. 22(일)
-- __[[포텐업] 게임 개발자 양성과정 1기](https://www.wanted.co.kr/events/potenup_02)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: 원티드
-  - 접수: 11. 11(월) ~ 12. 23(월)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/304870853/)__
-  - 분류: `온라인`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 12. 11(수) ~ 12. 25(수)
-- __[루트임팩트 AI 커리어 스쿨 해커톤](https://event-us.kr/aicshackathon/event/95575)__
-  - 분류: `온라인`, `유료`, `인프라`
-  - 주최: 루트임팩트 AI 커리어 스쿨 해커톤
-  - 접수: 12. 02(월) ~ 12. 26(목)
-- __[RetroFest 2024: Back to the Future, 미래를 위한 돌아보기](https://festa.io/events/6631)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: Google Developer Groups on Campus
-  - 접수: 12. 13(금) ~ 12. 26(목)
 - __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 컴투스
   - 접수: 11. 19(화) ~ 12. 30(월)
+
 - __[[코드잇 스프린트] 100% 인턴십 벡엔드 부트캠프](https://sprint.codeit.kr/track/backend-spring?utm_source=community&utm_medium=dev&utm_content=spring)__
   - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `벡엔드`, `교육`
   - 주최: 코드잇 스프린트
@@ -155,6 +103,10 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 원티드
   - 접수: 12. 18(수) ~ 01. 02(목)
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/305223632/)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 12. 28(토) ~ 01. 07(화)
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
@@ -175,6 +127,14 @@
   - 분류: `오프라인(서울 중구)`, `유료`, `기술일반`
   - 주최: SUSC
   - 접수: 12. 06(금) ~ 01. 09(목)
+- __[Flutter In Production Extended Seoul](https://event-us.kr/flutterseoul/event/96401)__
+  - 분류: `오프라인(서울 종로)`, `유료`, `안드로이드`, `iOS`
+  - 주최: FlutterSeoul
+  - 접수: 12. 07(토) ~ 01. 10(금)
+- __[2025 re:Connect](https://www.megazone.com/reconnect2025-apply-form/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 메가존클라우드
+  - 접수: 12. 28(토) ~ 01. 21(화)
 - __[NGINX Use Case 콘테스트](https://okky.kr/articles/1522205)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: NGINX Korea
