@@ -119,6 +119,10 @@
   - 분류: `오프라인(서울 마곡)`, `무료`, `AI`
   - 주최: 한글과컴퓨터
   - 접수: 12. 19(목) ~ 01. 12(일)
+- __[크래프톤 정글 8기 모집](https://jungle.krafton.com/?utm_source=ol1&utm_medium=github_dev_event&utm_campaign=junglepromotion8&utm_content=recruitment)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤
+  - 접수: 12. 30(월) ~ 01. 16(수)
 - __[​학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: U/CON
