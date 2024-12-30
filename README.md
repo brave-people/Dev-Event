@@ -139,6 +139,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 메가존클라우드
   - 접수: 12. 28(토) ~ 01. 21(화)
+- __[취업&커리어 콘서트 1회: AWS 편](https://eventuslegacy.azurewebsites.net/susc/event/97146)__
+  - 분류: `온라인`, `무료`, `클라우드`, `커리어`
+  - 주최: SUSC
+  - 접수: 12. 27(금) ~ 01. 24(금)
 - __[NGINX Use Case 콘테스트](https://okky.kr/articles/1522205)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: NGINX Korea
