@@ -64,31 +64,6 @@
 <hr />
 <br />
 
-## 24년 12월
-- __[컴투스 글로벌 게임개발 공모전 '컴:온' 2024](https://www.com2us.com/gamecontest/guide)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 컴투스
-  - 접수: 11. 19(화) ~ 12. 30(월)
-
-- __[[코드잇 스프린트] 100% 인턴십 벡엔드 부트캠프](https://sprint.codeit.kr/track/backend-spring?utm_source=community&utm_medium=dev&utm_content=spring)__
-  - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `벡엔드`, `교육`
-  - 주최: 코드잇 스프린트
-  - 접수: 12. 06(금) ~ 12. 30(월)
-- __[[코드잇 스프린트] 100% 인턴십 프론트엔드 부트캠프](https://sprint.codeit.kr/track/frontend?utm_source=community&utm_medium=dev&utm_content=frontend)__
-  - 분류: `온라인`, `오프라인`, `무료(내일배움카드)`, `프론트엔드`, `교육`
-  - 주최: 코드잇 스프린트
-  - 접수: 12. 06(금) ~ 12. 30(월)
-- __[AI 커리어 스쿨 (in 부산 · 울산 · 경남)](https://www.inflearn.com/course/offline/ai_career_school_2501#program)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: 인프런
-  - 접수: 12. 11(수) ~ 12. 31(화)
-- __[잔디 기부 캠페인](https://hanghae99.spartacodingclub.kr/campaign)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 항해
-  - 접수: 12. 16(월) ~ 12. 31(화)
-
-<br />
-
 ## 25년 01월
 - __[AI 커리어 성공 가이드: 첫 취업과 첫 이직 | 프리온보딩 AI 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_ai_8)__
   - 분류: `온라인`, `무료`, `AI`
@@ -107,6 +82,10 @@
   - 분류: `오프라인(서울 역삼)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 12. 28(토) ~ 01. 07(화)
+- __[생성형 AI를 활용한 콘텐츠 마케팅 자동화의 거의 모든 것](https://aifactory.space/task/8833/overview)__
+  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
+  - 주최: AIFactory
+  - 접수: 12. 30(월) ~ 01. 07(화)
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
@@ -115,10 +94,18 @@
   - 분류: `오프라인(서울 노원)`, `유료`, `기술일반`
   - 주최: Coding Lab
   - 접수: 11. 25(월) ~ 01. 10(금)
+- __[2025 새해맞이 유데미 최대 할인 & 장바구니 이벤트](https://udemy.wjtb.co.kr/event/cp_24q1)__
+  - 분류: `온라인`, `유료`, `교육`
+  - 주최: 유데미
+  - 접수: 01. 02(목) ~ 01. 10(금)
 - __[한컴 AI 아카데미 과정](https://sniperfactory.com/kdthancom)__
   - 분류: `오프라인(서울 마곡)`, `무료`, `AI`
   - 주최: 한글과컴퓨터
   - 접수: 12. 19(목) ~ 01. 12(일)
+- __[프롬프트 엔지니어링 마스터 클래스: 업무 효율 10배 끌어올리는 실전 노하우](https://event-us.kr/theori/event/97141?utm_source=devevent&utm_medium=post&utm_campaign=aci5ciz1au)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: 티오리
+  - 접수: 01. 02(목) ~ 01. 12(일)
 - __[크래프톤 정글 8기 모집](https://jungle.krafton.com/?utm_source=ol1&utm_medium=github_dev_event&utm_campaign=junglepromotion8&utm_content=recruitment)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
