@@ -65,23 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[AI 커리어 성공 가이드: 첫 취업과 첫 이직 | 프리온보딩 AI 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_ai_8)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 12. 18(수) ~ 01. 02(목)
-
-- __[레거시 유지보수와 데이터 모으기 | 프리온보딩 FE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_fe_29)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 12. 18(수) ~ 01. 02(목)
-- __[이제는 꼭 알아야 할 AWS | 프리온보딩 BE 챌린지 1월](https://www.wanted.co.kr/events/pre_challenge_be_27)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 12. 18(수) ~ 01. 02(목)
 - __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/305223632/)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 12. 28(토) ~ 01. 07(화)
+  
 - __[생성형 AI를 활용한 콘텐츠 마케팅 자동화의 거의 모든 것](https://aifactory.space/task/8833/overview)__
   - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
   - 주최: AIFactory
@@ -98,6 +86,10 @@
   - 분류: `온라인`, `유료`, `교육`
   - 주최: 유데미
   - 접수: 01. 02(목) ~ 01. 10(금)
+- __[AWSKRUG 자격증소모임 1월 16일(목) #SAA 스터디](https://www.meetup.com/awskrug/events/305373693/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(금) ~ 01. 10(금)
 - __[한컴 AI 아카데미 과정](https://sniperfactory.com/kdthancom)__
   - 분류: `오프라인(서울 마곡)`, `무료`, `AI`
   - 주최: 한글과컴퓨터
@@ -106,6 +98,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: 티오리
   - 접수: 01. 02(목) ~ 01. 12(일)
+- __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/305380704/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(금) ~ 01. 12(일)
+- __[챗 GPT 프롬프트 엔지니어링의 핵심 실무 기법](https://event-us.kr/theori/event/97141?utm_source=devevent&utm_medium=post&utm_campaign=aci5ciz1au)__
+  - 분류: `오프라인(서울 구로)`, `무료`, `AI`
+  - 주최: 산업교육연구소
+  - 접수: 01. 03(금) ~ 01. 14(월)
 - __[크래프톤 정글 8기 모집](https://jungle.krafton.com/?utm_source=ol1&utm_medium=github_dev_event&utm_campaign=junglepromotion8&utm_content=recruitment)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
@@ -126,6 +126,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 메가존클라우드
   - 접수: 12. 28(토) ~ 01. 21(화)
+- __[AWSKRUG #AIEngineering 모임](https://www.meetup.com/awskrug/events/305372486/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 01. 03(금) ~ 01. 21(화)
 - __[취업&커리어 콘서트 1회: AWS 편](https://eventuslegacy.azurewebsites.net/susc/event/97146)__
   - 분류: `온라인`, `무료`, `클라우드`, `커리어`
   - 주최: SUSC
