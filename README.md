@@ -138,6 +138,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 01. 03(금) ~ 01. 21(화)
+- __[데이터독 한국 사용자 모임 3회 밋업](https://www.inflearn.com/course/offline/datadog-meetup-20253rd)__
+  - 분류: `오프라인(경기 판교)`, `유료`, `기술일반`
+  - 주최: DatadogKRUG
+  - 접수: 01. 03(금) ~ 01. 22(수)
 - __[취업&커리어 콘서트 1회: AWS 편](https://eventuslegacy.azurewebsites.net/susc/event/97146)__
   - 분류: `온라인`, `무료`, `클라우드`, `커리어`
   - 주최: SUSC
