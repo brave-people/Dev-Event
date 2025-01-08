@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/305223632/)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 12. 28(토) ~ 01. 07(화)
-
-- __[생성형 AI를 활용한 콘텐츠 마케팅 자동화의 거의 모든 것](https://aifactory.space/task/8833/overview)__
-  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
-  - 주최: AIFactory
-  - 접수: 12. 30(월) ~ 01. 07(화)
 - __[저자가 직강하는 나혼자 C언어'](https://okky.kr/articles/1524191)__
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 이창현코딩연구소
   - 일시: 01. 08(수) 14:00 ~ 17:00
+
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
@@ -142,6 +134,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 01. 03(금) ~ 01. 21(화)
+- __[AIㆍ빅데이터 기반 주요 전략과 기술혁신 및 신시장 창출 세미나](https://okky.kr/articles/1524386)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `데이터`
+  - 주최: 산업교육연구소
+  - 접수: 01. 08(수) ~ 01. 21(화)
 - __[데이터독 한국 사용자 모임 3회 밋업](https://www.inflearn.com/course/offline/datadog-meetup-20253rd)__
   - 분류: `오프라인(경기 판교)`, `유료`, `기술일반`
   - 주최: DatadogKRUG
@@ -162,11 +158,15 @@
 <br />
 
 ## 25년 02월
+- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/305395195/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
+  - 주최: AWSKRUG
+  - 일시: 01. 08(수) ~ 02. 05(수)
+
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
   - 일시: 01. 20(월) ~ 02. 14(금)
-
 - __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
@@ -186,7 +186,7 @@
             <!-- <th scope="col">-</th> -->
         <!-- </tr> -->
         <tr>
-            <td rowspan="5"> 이전 행사 모음 </td>
+            <td rowspan="6"> 이전 행사 모음 </td>
             <td>2020년</td>
             <td> 
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
@@ -266,6 +266,13 @@
               <a href="./end_event/2024/24_10.md"> 10월 </a>,
               <a href="./end_event/2024/24_11.md"> 11월 </a>,
               <a href="./end_event/2024/24_12.md"> 12월 </a>
+            </td>
+        </tr>
+          <tr>
+            <!-- <td> 종료 행사 </td> -->
+            <td>2025년</td>
+            <td>
+              <a href="./end_event/2024/25_01.md"> 01월 </a
             </td>
         </tr>
         <tr>
