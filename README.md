@@ -65,11 +65,6 @@
 <br />
 
 ## 25년 01월
-- __[저자가 직강하는 나혼자 C언어'](https://okky.kr/articles/1524191)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 이창현코딩연구소
-  - 일시: 01. 08(수) 14:00 ~ 17:00
-
 - __[.NET Conf 2025 x Seoul](https://dotnetconf.kr/2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `.net`, `기술일반`
   - 주최: .NET Conf Korea
@@ -102,6 +97,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 01. 03(금) ~ 01. 12(일)
+- __[Automated Paper Reviewer](https://aifactory.space/task/8834/overview)__
+  - 분류: `오프라인(대전 유성구)`, `유료`, `기술일반`
+  - 주최: SPACE-S
+  - 접수: 01. 03(금) ~ 01. 13(월)
 - __[챗 GPT 프롬프트 엔지니어링의 핵심 실무 기법](https://event-us.kr/theori/event/97141?utm_source=devevent&utm_medium=post&utm_campaign=aci5ciz1au)__
   - 분류: `오프라인(서울 구로)`, `무료`, `AI`
   - 주최: 산업교육연구소
@@ -158,11 +157,19 @@
 <br />
 
 ## 25년 02월
+- __[2025 블레이버스 MVP 개발 해커톤](https://www.blaybus.com/activities/420/landing)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 주최: Blaybus
+  - 접수: 12. 31(화) ~ 02. 04(화)
+
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/305395195/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 일시: 01. 08(수) ~ 02. 05(수)
-
+- __[지피지기 릴레이 라이브](https://www.inflearn.com/tag-curation/common_tag/2025zpzglive)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 일시: 01. 08(수) ~ 02. 06(목)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
