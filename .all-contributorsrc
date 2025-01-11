@@ -1392,6 +1392,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "JANGSEYEONG",
+      "name": "seyeong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137787915?v=4",
+      "profile": "https://velog.io/@0x45c/posts",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
