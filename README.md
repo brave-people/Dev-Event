@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-154-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-155-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -649,6 +649,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@fltk1004"><img src="https://avatars.githubusercontent.com/u/101008357?v=4?s=100" width="100px;" alt="syeony"/><br /><sub><b>syeony</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=syeony" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hijae"><img src="https://avatars.githubusercontent.com/u/5418545?v=4?s=100" width="100px;" alt="Hijae Song"/><br /><sub><b>Hijae Song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hijae" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yujinverse"><img src="https://avatars.githubusercontent.com/u/112642916?v=4?s=100" width="100px;" alt="yujin kim"/><br /><sub><b>yujin kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yujinverse" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@0x45c/posts"><img src="https://avatars.githubusercontent.com/u/137787915?v=4?s=100" width="100px;" alt="seyeong"/><br /><sub><b>seyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JANGSEYEONG" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
