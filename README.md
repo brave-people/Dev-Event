@@ -65,15 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[Automated Paper Reviewer](https://aifactory.space/task/8834/overview)__
-  - 분류: `오프라인(대전 유성구)`, `유료`, `기술일반`
-  - 주최: SPACE-S
-  - 접수: 01. 03(금) ~ 01. 13(월)
-
 - __[챗 GPT 프롬프트 엔지니어링의 핵심 실무 기법](https://event-us.kr/theori/event/97141?utm_source=devevent&utm_medium=post&utm_campaign=aci5ciz1au)__
   - 분류: `오프라인(서울 구로)`, `무료`, `AI`
   - 주최: 산업교육연구소
   - 접수: 01. 03(금) ~ 01. 14(월)
+  
 - __[크래프톤 정글 8기 모집](https://jungle.krafton.com/?utm_source=ol1&utm_medium=github_dev_event&utm_campaign=junglepromotion8&utm_content=recruitment)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
@@ -151,6 +147,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인프런
   - 일시: 01. 08(수) ~ 02. 06(목)
+- __[AI SEOUL 2025](https://aiseoul2025.com/home/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: 서울특별시
+  - 일시: 01. 14(화) ~ 02. 10(월ㄴ)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
