@@ -65,15 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[챗 GPT 프롬프트 엔지니어링의 핵심 실무 기법](https://event-us.kr/theori/event/97141?utm_source=devevent&utm_medium=post&utm_campaign=aci5ciz1au)__
-  - 분류: `오프라인(서울 구로)`, `무료`, `AI`
-  - 주최: 산업교육연구소
-  - 접수: 01. 03(금) ~ 01. 14(월)
-  
 - __[크래프톤 정글 8기 모집](https://jungle.krafton.com/?utm_source=ol1&utm_medium=github_dev_event&utm_campaign=junglepromotion8&utm_content=recruitment)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤
   - 접수: 12. 30(월) ~ 01. 16(수)
+
 - __[​학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: U/CON
@@ -102,6 +98,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `데이터`
   - 주최: 산업교육연구소
   - 접수: 01. 08(수) ~ 01. 21(화)
+- __[AWSKRUG Women In Cloud - 열 두 번째 모임](https://www.meetup.com/awskrug/events/305434782/)__
+  - 분류: `오프라인(서울 성동구)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 16(목) ~ 01. 21(화)
 - __[데이터독 한국 사용자 모임 3회 밋업](https://www.inflearn.com/course/offline/datadog-meetup-20253rd)__
   - 분류: `오프라인(경기 판교)`, `유료`, `기술일반`
   - 주최: DatadogKRUG
@@ -130,7 +130,11 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: NGINX Korea
   - 접수: 12. 15(일) ~ 01. 30(목)
- 
+ - __[캠프콘과 함께하는 커리어 다짐 응원 - 알림 이벤트](https://docs.google.com/forms/d/e/1FAIpQLSe40QOjy_47Ftt4WxjqzzPfFA6mAMVjwRQ5R0ndvdrvGBWLcQ/viewform)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 패스트캠퍼스
+  - 접수: 01. 13(월) ~ 01. 31(금)
+
 <br />
 
 ## 25년 02월
