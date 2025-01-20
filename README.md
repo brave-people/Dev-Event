@@ -309,12 +309,11 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 양재동 코드랩 | [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
 | 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
 | 엘리스 | [Homepage](https://elice.io/) |
-| 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | Apple Developer Academy @ POSTECH |[Homepage](https://developeracademy.postech.ac.kr/)|
 | 삼성 청년 SW 아카데미(SSAFY) | [Homepage](https://www.ssafy.com/) |
