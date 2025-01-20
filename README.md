@@ -129,15 +129,27 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 패스트캠퍼스
   - 접수: 01. 13(월) ~ 01. 31(금)
+ - __[컨테이너부터 운영까지: 안정적 서비스 로드맵 | 프리온보딩 BE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_be_28)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 01. 20(월) ~ 01. 31(금)
+ - __[Next.js 확실히 알고 레벨업하기 | 프리온보딩 FE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_30)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 01. 20(월) ~ 01. 31(금)
 
 <br />
 
 ## 25년 02월
+- __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
+  - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
+  - 주최: 서브웨이클럽
+  - 접수: 01. 20(월) ~ 02. 03(월)
+
 - __[2025 블레이버스 MVP 개발 해커톤](https://www.blaybus.com/activities/420/landing)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최: Blaybus
   - 접수: 12. 31(화) ~ 02. 04(화)
-
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/305395195/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
