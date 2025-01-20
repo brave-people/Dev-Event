@@ -65,19 +65,6 @@
 <br />
 
 ## 25년 01월
-- __[​학생과 사회초년생들을 위한 IT 컨퍼런스 U/CON 25](https://event.u6.ai/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: U/CON
-  - 접수: 12. 02(월) ~ 01. 17(목)
-
-- __[시니어 개발자와 주니어 개발자는 어떻게 다를까](https://tech.goorm.io/ko/2501_commit/)__
-  - 분류: `오프라인(경기 판교)`, `온라인`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 01. 13(월) ~ 01. 17(금) 17:00
-- __[삼성SDS 2025 상반기 알고리즘 특강 신청서](https://docs.google.com/forms/d/e/1FAIpQLSd0tX5QV0RbXOq33z3i9nRbQrl-pLK_JdJy1ROqyT6l04GMvw/viewform)__
-  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
-  - 주최: 삼성 SDS
-  - 접수: 01. 13(월) ~ 01. 19(일)
 - __[CES 2025 리뷰 & 인사이트 콘서트](https://www.sek.co.kr/2025/CES)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 전자신문
@@ -322,12 +309,11 @@
 
 | 이름 | 링크 |
 |------------|-----------|
-| 양재동 코드랩 | [Homepage](https://www.codelabs.kr/), [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
+| 양재동 코드랩 | [Youtube](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg) |
 | 모두의 연구소 | [Homepage](https://modulabs.co.kr/) |
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
 | 엘리스 | [Homepage](https://elice.io/) |
-| 알고리즘 캠프 | [Homepage](https://algorithmcamp.oopy.io/) |
 | SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | Apple Developer Academy @ POSTECH |[Homepage](https://developeracademy.postech.ac.kr/)|
 | 삼성 청년 SW 아카데미(SSAFY) | [Homepage](https://www.ssafy.com/) |
