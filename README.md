@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[데이터독 한국 사용자 모임 3회 밋업](https://www.inflearn.com/course/offline/datadog-meetup-20253rd)__
-  - 분류: `오프라인(경기 판교)`, `유료`, `기술일반`
-  - 주최: DatadogKRUG
-  - 접수: 01. 03(금) ~ 01. 22(수)
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/305515882/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 01. 10(금) ~ 01. 22(수)
 - __[2025 Upstage Career Talk](https://www.upstage.ai/events/2025-upstage-career-talk)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 업스데이지
   - 일시: 01. 22(수) ~ 01. 23(목)
+
 - __[빅데이터 분석 자동화 서비스 개발 해커톤](https://www.blaybus.com/activities/421/landing)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 일렉서
@@ -155,6 +147,23 @@
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
   - 접수: 01. 06(월) ~ 02. 19(수)
+- __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `AI`
+  - 주최: The AI
+  - 접수: 01. 23(목) ~ 02. 26(수)
+
+<br />
+
+## 25년 03월
+- __[Ai 응용 웹/앱 개발자 부트캠프](https://festa.io/events/6740)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
+  - 주최: RocketBoost
+  - 접수: 01. 23(목) ~ 03. 24(월)
+
+- __[블록체인 엔지니어 부트캠프](https://festa.io/events/6739)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 주최: RocketBoost
+  - 접수: 01. 23(목) ~ 03. 24(월)
 
 ----------------
 
