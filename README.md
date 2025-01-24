@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[2025 Upstage Career Talk](https://www.upstage.ai/events/2025-upstage-career-talk)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 업스데이지
-  - 일시: 01. 22(수) ~ 01. 23(목)
-
-- __[빅데이터 분석 자동화 서비스 개발 해커톤](https://www.blaybus.com/activities/421/landing)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 일렉서
-  - 접수: 01. 03(금) ~ 01. 23(목)
 - __[취업&커리어 콘서트 1회: AWS 편](https://eventuslegacy.azurewebsites.net/susc/event/97146)__
   - 분류: `온라인`, `무료`, `클라우드`, `커리어`
   - 주최: SUSC
   - 접수: 12. 27(금) ~ 01. 24(금)
+
 - __[저자가 직강하는 '타입스크립트 1차 브러시업'](https://okky.kr/articles/1524745)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 이창현코딩연구소
@@ -114,11 +106,15 @@
 <br />
 
 ## 25년 02월
+- __[2025 IT 트렌드 인사이트 모임](https://event-us.kr/itcreator/event/98240)__
+  - 분류: `온라인`, `유료`, `모임`, `기술일반`
+  - 주최: 잇기
+  - 접수: 01. 23(목) ~ 02. 01(토)
+
 - __[AWS re:Invent re:Cap](https://pages.awscloud.com/aws-reinvent-recap-korea-reg.html)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 01. 22(수) ~ 02. 03(월)
-
 - __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
   - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
   - 주최: 서브웨이클럽
@@ -135,6 +131,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인프런
   - 일시: 01. 08(수) ~ 02. 06(목)
+- __[엘리스 AI 활용 웹 개발 포트폴리오 완성 프로그램](https://eli.so/sparkcamp_elice)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `AI`, 교육
+  - 주최: 엘리스트랙
+  - 접수: 01. 24(금) ~ 02. 06(목)
 - __[CloudCloud 7기 모집](https://tally.so/r/mYpoB0)__
   - 분류: `오프라인`, `유료`, `클라우드`
   - 주최: CloudCloud
@@ -143,6 +143,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
   - 주최: 서울특별시
   - 일시: 01. 14(화) ~ 02. 10(월)
+- __[이월엔 DevBloom](https://event-us.kr/kdevcon/event/98061)__
+  - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 01. 22(수) ~ 02. 11(화)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
