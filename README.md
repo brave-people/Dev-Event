@@ -118,6 +118,7 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 01. 22(수) ~ 02. 03(월)
+    
 - __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
   - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
   - 주최: 서브웨이클럽
@@ -146,10 +147,6 @@
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
   - 일시: 01. 20(월) ~ 02. 14(금)
-- __[K-DEVCON 서울: 2월엔 DevBloom](https://event-us.kr/kdevcon/event/98061)__
-  - 분류: `오프라인`, `유료`, `세미나`
-  - 주최: K-DEVCON
-  - 일시: 02. 15(토)
 - __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
