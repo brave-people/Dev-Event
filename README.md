@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-156-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-157-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 01월
-- __[2025 Upstage Career Talk](https://www.upstage.ai/events/2025-upstage-career-talk)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 업스데이지
-  - 일시: 01. 22(수) ~ 01. 23(목)
-
-- __[빅데이터 분석 자동화 서비스 개발 해커톤](https://www.blaybus.com/activities/421/landing)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 일렉서
-  - 접수: 01. 03(금) ~ 01. 23(목)
 - __[취업&커리어 콘서트 1회: AWS 편](https://eventuslegacy.azurewebsites.net/susc/event/97146)__
   - 분류: `온라인`, `무료`, `클라우드`, `커리어`
   - 주최: SUSC
   - 접수: 12. 27(금) ~ 01. 24(금)
+
 - __[저자가 직강하는 '타입스크립트 1차 브러시업'](https://okky.kr/articles/1524745)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 이창현코딩연구소
@@ -114,11 +106,15 @@
 <br />
 
 ## 25년 02월
+- __[2025 IT 트렌드 인사이트 모임](https://event-us.kr/itcreator/event/98240)__
+  - 분류: `온라인`, `유료`, `모임`, `기술일반`
+  - 주최: 잇기
+  - 접수: 01. 23(목) ~ 02. 01(토)
+
 - __[AWS re:Invent re:Cap](https://pages.awscloud.com/aws-reinvent-recap-korea-reg.html)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 01. 22(수) ~ 02. 03(월)
-    
 - __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
   - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
   - 주최: 서브웨이클럽
@@ -135,6 +131,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인프런
   - 일시: 01. 08(수) ~ 02. 06(목)
+- __[엘리스 AI 활용 웹 개발 포트폴리오 완성 프로그램](https://eli.so/sparkcamp_elice)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `AI`, 교육
+  - 주최: 엘리스트랙
+  - 접수: 01. 24(금) ~ 02. 06(목)
 - __[CloudCloud 7기 모집](https://tally.so/r/mYpoB0)__
   - 분류: `오프라인`, `유료`, `클라우드`
   - 주최: CloudCloud
@@ -143,6 +143,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
   - 주최: 서울특별시
   - 일시: 01. 14(화) ~ 02. 10(월)
+- __[이월엔 DevBloom](https://event-us.kr/kdevcon/event/98061)__
+  - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 01. 22(수) ~ 02. 11(화)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
@@ -305,7 +309,7 @@
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://www.cloudclub.kr/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
 | SIPE | 개발자들이 함께 교류하며 성장하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
-| 9oormthon Univ | 구름과 시즌톤이 함께하는 대학생 IT연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
+| 9oormthonUNIV | 카카오와 구름이 함께하는 대학생 IT 연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 | SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
 | ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
@@ -645,6 +649,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@0x45c/posts"><img src="https://avatars.githubusercontent.com/u/137787915?v=4?s=100" width="100px;" alt="seyeong"/><br /><sub><b>seyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JANGSEYEONG" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://nonmajor-be-developer.tistory.com/"><img src="https://avatars.githubusercontent.com/u/128147281?v=4?s=100" width="100px;" alt="yeonhub"/><br /><sub><b>yeonhub</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yeonhub" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dani1552"><img src="https://avatars.githubusercontent.com/u/150661115?v=4?s=100" width="100px;" alt="Daeun Kim"/><br /><sub><b>Daeun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dani1552" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
