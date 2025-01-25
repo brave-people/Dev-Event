@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-156-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-157-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -649,6 +649,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@0x45c/posts"><img src="https://avatars.githubusercontent.com/u/137787915?v=4?s=100" width="100px;" alt="seyeong"/><br /><sub><b>seyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JANGSEYEONG" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://nonmajor-be-developer.tistory.com/"><img src="https://avatars.githubusercontent.com/u/128147281?v=4?s=100" width="100px;" alt="yeonhub"/><br /><sub><b>yeonhub</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yeonhub" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dani1552"><img src="https://avatars.githubusercontent.com/u/150661115?v=4?s=100" width="100px;" alt="Daeun Kim"/><br /><sub><b>Daeun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dani1552" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
