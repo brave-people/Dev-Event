@@ -64,33 +64,12 @@
 <hr />
 <br />
 
-## 25년 01월
- - __[캠프콘과 함께하는 커리어 다짐 응원 - 알림 이벤트](https://docs.google.com/forms/d/e/1FAIpQLSe40QOjy_47Ftt4WxjqzzPfFA6mAMVjwRQ5R0ndvdrvGBWLcQ/viewform)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 패스트캠퍼스
-  - 접수: 01. 13(월) ~ 01. 31(금)
-
- - __[컨테이너부터 운영까지: 안정적 서비스 로드맵 | 프리온보딩 BE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_be_28)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 01. 20(월) ~ 01. 31(금)
- - __[Next.js 확실히 알고 레벨업하기 | 프리온보딩 FE 챌린지 2월](https://www.wanted.co.kr/events/pre_challenge_fe_30)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 01. 20(월) ~ 01. 31(금)
-
-<br />
-
 ## 25년 02월
-- __[2025 IT 트렌드 인사이트 모임](https://event-us.kr/itcreator/event/98240)__
-  - 분류: `온라인`, `유료`, `모임`, `기술일반`
-  - 주최: 잇기
-  - 접수: 01. 23(목) ~ 02. 01(토)
-
 - __[AWS re:Invent re:Cap](https://pages.awscloud.com/aws-reinvent-recap-korea-reg.html)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 01. 22(수) ~ 02. 03(월)
+
 - __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
   - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
   - 주최: 서브웨이클럽
@@ -147,6 +126,14 @@
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
   - 일시: 01. 20(월) ~ 02. 14(금)
+- __[[포텐업] 게임 개발자 양성과정 2기](https://www.wanted.co.kr/events/potenup_03)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`, `기술일반`
+  - 주최: 원티드
+  - 접수: 02. 03(월) ~ 02. 14(금)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/305916889/)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 03(월) ~ 02. 18(화)
 - __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
@@ -159,11 +146,15 @@
 <br />
 
 ## 25년 03월
+- __[『Amazon Bedrock으로 시작하는 실전 생성형 AI 개발』 출간기념 북토크](https://onoffmix.com/event/316693)__
+  - 분류: `오프라인(서울 마포)`, `무료`, `AI`
+  - 주최: 정은진
+  - 접수: 02. 03(월) ~ 03. 06(목)
+
 - __[Ai 응용 웹/앱 개발자 부트캠프](https://festa.io/events/6740)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: RocketBoost
   - 접수: 01. 23(목) ~ 03. 24(월)
-
 - __[블록체인 엔지니어 부트캠프](https://festa.io/events/6739)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
   - 주최: RocketBoost
