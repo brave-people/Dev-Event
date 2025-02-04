@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 02월
-- __[AWS re:Invent re:Cap](https://pages.awscloud.com/aws-reinvent-recap-korea-reg.html)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 01. 22(수) ~ 02. 03(월)
-
-- __[[서브웨이클럽] 첫 번째 오프라인 세미나](https://docs.google.com/forms/d/e/1FAIpQLSded3xo--7QA8LgB0ccu5_npPokOQq5o6UcM9OuA9KPbfwisg/viewform)__
-  - 분류: `오프라인(서울 신논현)`, `무료`, `모임`
-  - 주최: 서브웨이클럽
-  - 접수: 01. 20(월) ~ 02. 03(월)
 - __[2025 블레이버스 MVP 개발 해커톤](https://www.blaybus.com/activities/420/landing)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최: Blaybus
   - 접수: 12. 31(화) ~ 02. 04(화)
+
 - __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/305395195/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
@@ -122,6 +114,14 @@
   - 분류: `오프라인(서울 영등포)`, `무료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 01. 21(화) ~ 02. 12(수)
+- __[2025 Project Summit - in Busan](https://event-us.kr/ksdc/event/97735)__
+  - 분류: `오프라인(부산 남구)`, `무료`, `기술일반`
+  - 주최: KSDC (한국학생개발자클럽)
+  - 접수: 01. 12(일) ~ 02. 12(수)
+- __[SNOWFLAKE DISCOVER](https://www.snowflake.com/about/webinars/snowflake-discover-korean-202502/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: SNOWFLAKE
+  - 접수: 02. 04(화) ~ 02. 12(수)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
@@ -130,6 +130,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`, `기술일반`
   - 주최: 원티드
   - 접수: 02. 03(월) ~ 02. 14(금)
+- __[파워플랫폼과 M365를 위한 코파일럿 부트캠프 2025](https://event-us.kr/powerplatform/event/97971)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
+  - 주최: 파워 플랫폼 한국 유저 그룹
+  - 접수: 02. 04(화) ~ 02. 14(금)
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/305916889/)__
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -138,6 +142,10 @@
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
   - 접수: 01. 06(월) ~ 02. 19(수)
+- __[신세계아이앤씨 스파로스 아카데미 6기 교육생 모집 ](https://swedu.spharosacademy.com/spharos_total.html)__
+  - 분류: `오프라인(부산 벡스코)`, `무료`, `교육`
+  - 주최: 부산광역시
+  - 접수: 02. 04(화) ~ 02. 19(수)
 - __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`
   - 주최: The AI
@@ -159,6 +167,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
   - 주최: RocketBoost
   - 접수: 01. 23(목) ~ 03. 24(월)
+
+<br />
+
+## 25년 04월
+- __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: RocketBoost
+  - 접수: 02. 04(화) ~ 04. 14(월)
 
 ----------------
 
