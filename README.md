@@ -78,9 +78,9 @@
   - 분류: `오프라인(서울 성수)`, `무료`, `AI`, 교육
   - 주최: 엘리스트랙
   - 접수: 01. 24(금) ~ 02. 06(목)
-- __[CloudCloud 7기 모집](https://tally.so/r/mYpoB0)__
+- __[CloudClub 7기 모집](https://tally.so/r/mYpoB0)__
   - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: CloudCloud
+  - 주최: CloudClub
   - 일시: 01. 22(수) ~ 02. 07(금)
 - __[주니어/예비 iOS 개발자를 위한 컨퍼런스, SwiftRise](https://spartaswiftrise.oopy.io/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `iOS`
