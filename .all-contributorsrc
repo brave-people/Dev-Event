@@ -1401,6 +1401,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yeonhub",
+      "name": "yeonhub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/128147281?v=4",
+      "profile": "https://nonmajor-be-developer.tistory.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dani1552",
+      "name": "Daeun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150661115?v=4",
+      "profile": "https://github.com/dani1552",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "suhyenim",
+      "name": "Suhyen Im",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100345983?v=4",
+      "profile": "https://github.com/suhyenim",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "bandoche",
+      "name": "Jung Sang-jun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1097495?v=4",
+      "profile": "https://github.com/bandoche",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
