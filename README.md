@@ -65,19 +65,11 @@
 <br />
 
 ## 25년 02월
-- __[AWSKRUG 데이터모임](https://www.meetup.com/awskrug/events/305395195/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 일시: 01. 08(수) ~ 02. 05(수)
-
-- __[구름톤 13기 참가자 모집](https://9oormthon.goorm.io/)__
-  - 분류: `오프라인(제주)`, `유료`, `대회`
-  - 주최: 구름
-  - 접수: 01. 31(금) ~ 02. 05(수)
 - __[엘리스 AI 활용 웹 개발 포트폴리오 완성 프로그램](https://academy.elice.io/courses/723596/info)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 엘리스
   - 접수: 01. 31(금) ~ 02. 06(목)
+
 - __[지피지기 릴레이 라이브](https://www.inflearn.com/tag-curation/common_tag/2025zpzglive)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인프런
@@ -86,9 +78,9 @@
   - 분류: `오프라인(서울 성수)`, `무료`, `AI`, 교육
   - 주최: 엘리스트랙
   - 접수: 01. 24(금) ~ 02. 06(목)
-- __[CloudCloud 7기 모집](https://tally.so/r/mYpoB0)__
+- __[CloudClub 7기 모집](https://tally.so/r/mYpoB0)__
   - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: CloudCloud
+  - 주최: CloudClub
   - 일시: 01. 22(수) ~ 02. 07(금)
 - __[주니어/예비 iOS 개발자를 위한 컨퍼런스, SwiftRise](https://spartaswiftrise.oopy.io/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `iOS`
@@ -288,7 +280,8 @@
             <!-- <td> 종료 행사 </td> -->
             <td>2025년</td>
             <td>
-              <a href="./end_event/2024/25_01.md"> 01월 </a
+              <a href="./end_event/2025/25_01.md"> 01월 </a>,
+              <a href="./end_event/2025/25_02.md"> 02월 </a>
             </td>
         </tr>
         <tr>
