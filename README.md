@@ -53,6 +53,7 @@
 <br /> 
 -->
 
+<!-- 
 ## 다시보기 🎥
 <a href="https://www.youtube.com/watch?v=K38z-1kqhSc&list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy">
   <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_ifkakao2024.jpg?raw=true">
@@ -60,8 +61,9 @@
 
 > 클릭시 다시보기 링크로 이동합니다.
 
-
 <hr />
+-->
+
 <br />
 
 ## 25년 02월
@@ -150,6 +152,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 원티드
   - 접수: 02. 05(목) ~ 02. 20(목)
+- __[데이터독 한국 사용자 모임 4회 밋업 - 데브옵스 DevOps](https://inf.run/VGqP7)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `인프라`
+  - 주최: 데이터독
+  - 접수: 02. 04(수) ~ 02. 20(목)
 - __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/305987019/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
