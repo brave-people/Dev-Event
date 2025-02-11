@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-159-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-160-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -675,6 +675,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dani1552"><img src="https://avatars.githubusercontent.com/u/150661115?v=4?s=100" width="100px;" alt="Daeun Kim"/><br /><sub><b>Daeun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dani1552" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/suhyenim"><img src="https://avatars.githubusercontent.com/u/100345983?v=4?s=100" width="100px;" alt="Suhyen Im"/><br /><sub><b>Suhyen Im</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=suhyenim" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bandoche"><img src="https://avatars.githubusercontent.com/u/1097495?v=4?s=100" width="100px;" alt="Jung Sang-jun"/><br /><sub><b>Jung Sang-jun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bandoche" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lj05117"><img src="https://avatars.githubusercontent.com/u/58285947?v=4?s=100" width="100px;" alt="Jiye Lee"/><br /><sub><b>Jiye Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=lj05117" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
