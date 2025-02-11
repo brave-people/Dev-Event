@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[AI SEOUL 2025](https://aiseoul2025.com/home/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
-  - 주최: 서울특별시
-  - 일시: 01. 14(화) ~ 02. 10(월)
-
-- __[어려운 취업 시장 속에서 자신만의 생존 전략으로 살아남은 신입 개발자들의 리얼 스토리](https://ozcodingschool.com/classes/view?order_id=-1&lecture_id=21101)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 오즈코딩스쿨
-  - 접수: 01. 31(금) ~ 02. 10(월)
 - __[이월엔 DevBloom](https://event-us.kr/kdevcon/event/98061)__
   - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
   - 주최: K-DEVCON
   - 접수: 01. 22(수) ~ 02. 11(화)
+
 - __[스크래퍼 개발자 모임 1회](https://event-us.kr/m/98093/29941)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
@@ -120,10 +112,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: SUSC(대학생방학교류모임)
   - 접수: 02. 04(화) ~ 02. 14(금)
+- __[한입 FE 챌린지 4기 접수](https://cafe.naver.com/winterlood/1437)__
+  - 분류: `온라인`, `유료`, `FE`
+  - 주최: 한입스튜디오
+  - 접수: 02. 10(월) ~ 02. 15(토)
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/305916889/)__
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 03(월) ~ 02. 18(화)
+- __[유데미 한입 런치박스](https://docs.google.com/forms/d/e/1FAIpQLSczu4Eq715e4WFVsqU-4piGQkl0-Yz6iywu-YFmGkOAWM1C6A/viewform)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: Udemy
+  - 접수: 02. 11(화) ~ 02. 18(화)
 - __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
@@ -148,6 +148,14 @@
   - 분류: `오프라인(서울 성동구)`, `유료`, `인프라`
   - 주최: 데이터독
   - 접수: 02. 04(수) ~ 02. 20(목)
+- __[LangChain 러너톤: Backend AI Challenge with 테디노트](https://competition.codepresso.io/)__
+  - 분류: `오프라인`, `유료`, `인프라`
+  - 주최: 코드프레소
+  - 접수: 02. 11(화) ~ 02. 20(목)
+- __[서버개발자가 들려주는 시니어의 성장](https://tosspublic.notion.site/193714bbfde78059a874e30b4484e8b0)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 토스
+  - 접수: 02. 11(화) ~ 02. 20(목)
 - __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/305987019/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
