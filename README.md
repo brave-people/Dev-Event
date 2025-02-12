@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[이월엔 DevBloom](https://event-us.kr/kdevcon/event/98061)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `기술일반`
-  - 주최: K-DEVCON
-  - 접수: 01. 22(수) ~ 02. 11(화)
-
-- __[스크래퍼 개발자 모임 1회](https://event-us.kr/m/98093/29941)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 01. 21(화) ~ 02. 11(화)
-- __[생성형 AI를 활용한 경영 데이터 분석](https://aifactory.space/task/8880/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIFactroy
-  - 일시: 02. 11(화) 15:00 ~ 16:30
 - __[2025 어드밴텍-퀄컴 OS Forum](https://www.advantech.com/ko-kr/form/b359355a-a950-41a6-985c-34db954a0189)__
   - 분류: `오프라인(서울 영등포)`, `무료`, `기술일반`
   - 주최: 어드밴텍
   - 접수: 01. 21(화) ~ 02. 12(수)
+
 - __[2025 Project Summit - in Busan](https://event-us.kr/ksdc/event/97735)__
   - 분류: `오프라인(부산 남구)`, `무료`, `기술일반`
   - 주최: KSDC (한국학생개발자클럽)
@@ -140,6 +128,10 @@
   - 분류: `오프라인`, `무료`, `벡엔드`, `교육`
   - 주최: 페스트캠퍼스
   - 접수: 02. 06(목) ~ 02. 19(수)
+- __[신세계아이앤씨 스파로스 아카데미 6기 교육생 모집](https://swedu.spharosacademy.com/spharos_total.html)__
+  - 분류: `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `교육`
+  - 주최: 신세계아이앤씨
+  - 접수: 02. 06(목) ~ 02. 19(수)
 - __[5-7년 차 미들레벨을 위한 성공 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_6)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 원티드
@@ -156,10 +148,38 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 토스
   - 접수: 02. 11(화) ~ 02. 20(목)
+- __[Nexon Developers Conference 발표자 모집](https://ndc.nexon.com/presenter)__
+  - 분류: `오프라인`, `온라인`, `무료`, `기술일반`
+  - 주최: 넥스
+  - 접수: 02. 06(목) ~ 02. 23(일)
 - __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/305987019/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 06(목) ~ 02. 24(월)
+- __[AWSKRUG 서버리스 #serverless 모임](https://www.meetup.com/awskrug/events/306073210/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 12(수) ~ 02. 24(월)
+- __[인프런 워밍업 클럽 스터디 3기 - CS 전공지식 (운영체제, 자료구조, 알고리즘)](https://www.inflearn.com/course/offline/warmup-club-3-cs)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: 인프런
+  - 접수: 02. 11(화) ~ 02. 25(화)
+- __[인프런 워밍업 클럽 스터디 3기 - 프론트엔드 (JavaScript, React)](https://www.inflearn.com/course/offline/warmup-club-3-fe)__
+  - 분류: `온라인`, `유료`, `프론트엔드`
+  - 주최: 인프런
+  - 접수: 02. 11(화) ~ 02. 25(화)
+- __[인프런 워밍업 클럽 스터디 3기 - 풀스택 (Next.js, Supabase)](https://www.inflearn.com/course/offline/warmup-club-3-fs)__
+  - 분류: `온라인`, `유료`, `프론트엔드`
+  - 주최: 인프런
+  - 접수: 02. 11(화) ~ 02. 25(화)
+- __[인프런 워밍업 클럽 스터디 3기 - 백엔드 클린 코드, 테스트 코드 (Java, Spring Boot)](https://www.inflearn.com/course/offline/warmup-club-3-be-code)__
+  - 분류: `온라인`, `유료`, `벡엔드`
+  - 주최: 인프런
+  - 접수: 02. 11(화) ~ 02. 25(화)
+- __[인프런 워밍업 클럽 스터디 3기 - 백엔드 프로젝트 (Kotlin, Spring Boot)](https://www.inflearn.com/course/offline/warmup-club-3-be-proj)__
+  - 분류: `온라인`, `유료`, `벡엔드`
+  - 주최: 인프런
+  - 접수: 02. 11(화) ~ 02. 25(화)
 - __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`
   - 주최: The AI
