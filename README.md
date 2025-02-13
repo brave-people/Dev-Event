@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[2025 어드밴텍-퀄컴 OS Forum](https://www.advantech.com/ko-kr/form/b359355a-a950-41a6-985c-34db954a0189)__
-  - 분류: `오프라인(서울 영등포)`, `무료`, `기술일반`
-  - 주최: 어드밴텍
-  - 접수: 01. 21(화) ~ 02. 12(수)
-
-- __[2025 Project Summit - in Busan](https://event-us.kr/ksdc/event/97735)__
-  - 분류: `오프라인(부산 남구)`, `무료`, `기술일반`
-  - 주최: KSDC (한국학생개발자클럽)
-  - 접수: 01. 12(일) ~ 02. 12(수)
-- __[SNOWFLAKE DISCOVER](https://www.snowflake.com/about/webinars/snowflake-discover-korean-202502/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: SNOWFLAKE
-  - 접수: 02. 04(화) ~ 02. 12(수)
-- __[2025 앱 개발자 취업 전략 A to Z](https://nbcamp.spartacodingclub.kr/contents/ios)__
-  - 분류: `온라인`, `무료`, `iOS`
-  - 주최: 팀스파르타
-  - 접수: 02. 04(화) ~ 02. 12(수)
 - __[42Gyeongsan 3기 1차 라피신(La Piscine)](https://apply.42gyeongsan.kr/)__
   - 분류: `오프라인(경북 경산)`, `무료`, `교육`
   - 주최: (재)경산이노베이션아카데미
   - 일시: 01. 20(월) ~ 02. 14(금)
+
 - __[[포텐업] 게임 개발자 양성과정 2기](https://www.wanted.co.kr/events/potenup_03)__
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`, `기술일반`
   - 주최: 원티드
@@ -132,6 +116,14 @@
   - 분류: `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `교육`
   - 주최: 신세계아이앤씨
   - 접수: 02. 06(목) ~ 02. 19(수)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/306135602/)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 02. 13(목) ~ 02. 19(수)
+- __[광화문 IT 트렌드 크루 세미나](https://docs.google.com/forms/d/e/1FAIpQLSeW8_E6A3OrisBZAR_5eN15nRKoaUCcLWY7ePBnSyhTQ8csww/viewform)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 02. 13(목) ~ 02. 19(수)
 - __[5-7년 차 미들레벨을 위한 성공 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_6)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 원티드
@@ -160,6 +152,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 12(수) ~ 02. 24(월)
+- __[<나는 프로그래머다>정개발 님의 라이브코딩](https://event-us.kr/hanbitn/event/98781)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 한빛미디어
+  - 접수: 02. 12(수) ~ 02. 24(월)
 - __[인프런 워밍업 클럽 스터디 3기 - CS 전공지식 (운영체제, 자료구조, 알고리즘)](https://www.inflearn.com/course/offline/warmup-club-3-cs)__
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 인프런
@@ -180,6 +176,10 @@
   - 분류: `온라인`, `유료`, `벡엔드`
   - 주최: 인프런
   - 접수: 02. 11(화) ~ 02. 25(화)
+- __[토스 10주년, 10 to 100](https://toss.im/10to100)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 주최: 토스
+  - 접수: 02. 13(목) ~ 02. 25(화)
 - __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`
   - 주최: The AI
