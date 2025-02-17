@@ -184,6 +184,10 @@
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: Talk IT
   - 접수: 02. 06(목) ~ 02. 26(수)
+- __[2025년 R&Dix 5기 신규 멤버 정기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdxWiGmhG-0KsczpaV6NLua0EMVQs6dLMtEHKjgPFhC2nKStQ/viewform)__
+  - 분류: `오프라인`, `온라인`, `무료`, `모임`
+  - 주최: R&Dix
+  - 접수: 02. 16(일) ~ 02. 26(수)
 - __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/306006324/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -196,7 +200,7 @@
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 원티드
   - 접수: 02. 14(금) ~ 02. 27(목)
-
+  
 <br />
 
 ## 25년 03월
@@ -376,6 +380,7 @@
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 | SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
 | ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
+| R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
 
 
 > :arrow_double_up: [Top](#지난-행사-기록)
