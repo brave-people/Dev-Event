@@ -196,6 +196,10 @@
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: Talk IT
   - 접수: 02. 06(목) ~ 02. 26(수)
+- __[2025년 R&Dix 5기 신규 멤버 정기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdxWiGmhG-0KsczpaV6NLua0EMVQs6dLMtEHKjgPFhC2nKStQ/viewform)__
+  - 분류: `오프라인`, `온라인`, `무료`, `모임`
+  - 주최: R&Dix
+  - 접수: 02. 16(일) ~ 02. 26(수)
 - __[실전! 테스트가 이끄는 소프트웨어 품질 관리 | 프리온보딩 BE 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_29)__
   - 분류: `온라인`, `무료`, `교육`, `벡엔드`
   - 주최: 원티드
@@ -204,11 +208,7 @@
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 원티드
   - 접수: 02. 14(금) ~ 02. 27(목)
-- __[2025년 R&Dix 5기 신규 멤버 정기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdxWiGmhG-0KsczpaV6NLua0EMVQs6dLMtEHKjgPFhC2nKStQ/viewform)__
-  - 분류: `오프라인`, `온라인`, `무료`, `모임`
-  - 주최: R&Dix
-  - 접수: 02. 16(일) ~ 02. 26(수)
-
+  
 <br />
 
 ## 25년 03월
