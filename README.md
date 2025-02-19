@@ -71,7 +71,7 @@
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
   - 접수: 01. 06(월) ~ 02. 19(수)
-  
+
 - __[AWSKRUG 자격증 소모임 2월](https://www.meetup.com/awskrug/events/305582911/)__
   - 분류: `오프라인(경기 성남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -180,7 +180,7 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: BytePlus
   - 접수: 02. 05(수) ~ 02. 26(수)
-- __[체류시간 Up, 비용 DOWN! 인프라 운영 핵심 전략 공개](https://talkit.tv/main/events/3503)__
+- __[체류시간 Up, 비용 DOWN! 인프라 운영 핵심 전략 공개](https://onoffmix.com/event/317100?srsltid=AfmBOoo9z4sLP8NuC3Yu8Z0qvn_GYx6qmoq0y2MXSLBCXK3Sa1hYLdZD)__
   - 분류: `온라인`, `무료`, `인프라`
   - 주최: Talk IT
   - 접수: 02. 06(목) ~ 02. 26(수)
