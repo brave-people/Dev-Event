@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/305916889/)__
-  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 03(월) ~ 02. 18(화)
-
-- __[유데미 한입 런치박스](https://docs.google.com/forms/d/e/1FAIpQLSczu4Eq715e4WFVsqU-4piGQkl0-Yz6iywu-YFmGkOAWM1C6A/viewform)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: Udemy
-  - 접수: 02. 11(화) ~ 02. 18(화)
 - __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
   - 분류: `오프라인(서울 용산)`, `무료`, `AI`
   - 주최: 레노버
   - 접수: 01. 06(월) ~ 02. 19(수)
+  
 - __[AWSKRUG 자격증 소모임 2월](https://www.meetup.com/awskrug/events/305582911/)__
   - 분류: `오프라인(경기 성남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -212,6 +204,10 @@
   - 분류: `오프라인(서울 광화문)`, `무료`, `AI`
   - 주최: Langcon
   - 접수: 02. 18(화) ~ 02. 28(금)
+- __[K-DEVCON 고투런(Go-to-Learn) 2기 모집](https://bluepicture08.notion.site/K-DEVCON-Go-To-Learn-2-16becf714ca380f58b78edac54401608)__
+  - 분류: `오프라인`, `유료`, `AI`, `안드로이드`
+  - 주최: K-DEVCON
+  - 접수: 02. 18(화) ~ 02. 28(금)
 
 <br />
 
@@ -229,6 +225,10 @@
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 크래프톤
   - 접수: 02. 17(월) ~ 03. 13(목)
+- __[올인원 Pass! 인공지능 언어 마스터](https://seoul-ict.goorm.io/lecture/54651/2025-%EC%98%AC%EC%9D%B8%EC%9B%90-pass-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%96%B8%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%84%B0)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `교육`, `AI`
+  - 주최: 구름
+  - 접수: 02. 14(금) ~ 03. 14(금)
 - __[Ai 응용 웹/앱 개발자 부트캠프](https://festa.io/events/6740)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: RocketBoost
@@ -238,7 +238,7 @@
   - 주최: RocketBoost
   - 접수: 01. 23(목) ~ 03. 24(월)
 - __[.HACK 2025](https://dothack.io/)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: RocketBoost
   - 접수: 01. 23(목) ~ 03. 24(월)
 
