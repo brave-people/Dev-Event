@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[Lenovo TechDay'25](https://www.lenovotechevents.com/event/techday25kr/summary)__
-  - 분류: `오프라인(서울 용산)`, `무료`, `AI`
-  - 주최: 레노버
-  - 접수: 01. 06(월) ~ 02. 19(수)
-
-- __[AWSKRUG 자격증 소모임 2월](https://www.meetup.com/awskrug/events/305582911/)__
-  - 분류: `오프라인(경기 성남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 06(목) ~ 02. 19(수)
-- __[Kernel360 : 백엔드 심화 캠프](https://kernel.fastcampus.co.kr/pro_backend)__
-  - 분류: `오프라인`, `무료`, `벡엔드`, `교육`
-  - 주최: 페스트캠퍼스
-  - 접수: 02. 06(목) ~ 02. 19(수)
-- __[신세계아이앤씨 스파로스 아카데미 6기 교육생 모집](https://swedu.spharosacademy.com/spharos_total.html)__
-  - 분류: `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `교육`
-  - 주최: 신세계아이앤씨
-  - 접수: 02. 06(목) ~ 02. 19(수)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/306135602/)__
-  - 분류: `오프라인(서울 성수)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 02. 13(목) ~ 02. 19(수)
-- __[광화문 IT 트렌드 크루 세미나](https://docs.google.com/forms/d/e/1FAIpQLSeW8_E6A3OrisBZAR_5eN15nRKoaUCcLWY7ePBnSyhTQ8csww/viewform)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 02. 13(목) ~ 02. 19(수)
 - __[5-7년 차 미들레벨을 위한 성공 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_6)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 원티드
   - 접수: 02. 05(목) ~ 02. 20(목)
+
 - __[데이터독 한국 사용자 모임 4회 밋업 - 데브옵스 DevOps](https://inf.run/VGqP7)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `인프라`
   - 주최: 데이터독
@@ -111,6 +87,10 @@
 - __[Kernel360 3기 최종 발표회](https://vast-volcano-c8c.notion.site/Kernel360-3-Demo-Day-2193380589f642188e851d0dd6c65e8d)__
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`
   - 주최: 패스트캠퍼스
+  - 접수: 02. 14(금) ~ 02. 20(목)
+- __[Datadog으로 인프라 모니터링 마스터하기](https://www.datadoghq.com/ko/dg/webinars/infra-korea-2025/)__
+  - 분류: `온라인`, `무료`, `인프라`
+  - 주최: Datadog
   - 접수: 02. 14(금) ~ 02. 20(목)
 - __[Ker크라이치즈버거 X 라피 데이터 버거챗: 데이터 직무 소규모 네트워킹](https://event-us.kr/kkuru/event/98999)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임` `데이터`
@@ -217,6 +197,14 @@
   - 주최: 정은진
   - 접수: 02. 03(월) ~ 03. 06(목)
 
+- __[2025 개발자 고민상담소](https://www.wanted.co.kr/events/2025devcareer)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 02. 20(목) ~ 03. 09(일)
+- __[2025 인터넷서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1461)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `대회`, `기술일반`
+  - 주최: 한국인터넷전문가협회
+  - 접수: 02. 20(목) ~ 03. 11(화)
 - __[융복합콘텐츠 기획·제작 <합톤> 참가자 모집](https://okky.kr/articles/1527527)__
   - 분류: `오프라인(춘천)`, `무료`, `대회`, `기술일반`
   - 주최: 춘천시
