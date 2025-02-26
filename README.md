@@ -67,47 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[인프런 워밍업 클럽 스터디 3기 - CS 전공지식 (운영체제, 자료구조, 알고리즘)](https://www.inflearn.com/course/offline/warmup-club-3-cs)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 02. 11(화) ~ 02. 25(화)
-
-- __[인프런 워밍업 클럽 스터디 3기 - 프론트엔드 (JavaScript, React)](https://www.inflearn.com/course/offline/warmup-club-3-fe)__
-  - 분류: `온라인`, `유료`, `프론트엔드`
-  - 주최: 인프런
-  - 접수: 02. 11(화) ~ 02. 25(화)
-- __[인프런 워밍업 클럽 스터디 3기 - 풀스택 (Next.js, Supabase)](https://www.inflearn.com/course/offline/warmup-club-3-fs)__
-  - 분류: `온라인`, `유료`, `프론트엔드`
-  - 주최: 인프런
-  - 접수: 02. 11(화) ~ 02. 25(화)
-- __[인프런 워밍업 클럽 스터디 3기 - 백엔드 클린 코드, 테스트 코드 (Java, Spring Boot)](https://www.inflearn.com/course/offline/warmup-club-3-be-code)__
-  - 분류: `온라인`, `유료`, `벡엔드`
-  - 주최: 인프런
-  - 접수: 02. 11(화) ~ 02. 25(화)
-- __[인프런 워밍업 클럽 스터디 3기 - 백엔드 프로젝트 (Kotlin, Spring Boot)](https://www.inflearn.com/course/offline/warmup-club-3-be-proj)__
-  - 분류: `온라인`, `유료`, `벡엔드`
-  - 주최: 인프런
-  - 접수: 02. 11(화) ~ 02. 25(화)
-- __[토스 10주년, 10 to 100](https://toss.im/10to100)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
-  - 주최: 토스
-  - 접수: 02. 13(목) ~ 02. 25(화)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/306045986/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 17(월) ~ 02. 25(화)
-- __[CampCon](https://kernel.fastcampus.co.kr/campcon)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 패스트캠퍼스
-  - 접수: 02. 17(월) ~ 02. 25(화)
-- __[R1 파헤치기, Ko-R1 개발기 | K-하이테크플랫폼 X 모두의연구소 강남](https://event-us.kr/modu/event/98830)__
-  - 분류: `온라인`, `오프라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 02. 18(화) ~ 02. 25(화)
 - __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`
   - 주최: The AI
   - 접수: 01. 23(목) ~ 02. 26(수)
+
 - __[비디오 서비스와 엣지 클라우드 성공 전략의 비밀](https://talkit.tv/main/events/3503)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: BytePlus
@@ -189,6 +153,10 @@
   - 분류: `온라인 `, `무료`, `벡엔드`
   - 주최: MSAP.ai
   - 접수: 02. 19(수) ~ 03. 12(수)
+- __[WIP 2025 : 기술의 장벽을 허무는 사람들](https://team.imweb.me/53/?idx=153097353&bmode=view)__
+  - 분류: `온라인 `, `무료`, `기술일반`
+  - 주최: 아임웹
+  - 접수: 02. 26(수) ~ 03. 12(수)
 - __[크래프톤 정글 9기](https://jungle.krafton.com/apply/info)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 크래프톤
