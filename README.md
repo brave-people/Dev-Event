@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 02월
-- __[실무자를 위한 생성형 AI워크샵](https://www.newstheai.com/com/edu1.html)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `AI`
-  - 주최: The AI
-  - 접수: 01. 23(목) ~ 02. 26(수)
-
-- __[비디오 서비스와 엣지 클라우드 성공 전략의 비밀](https://talkit.tv/main/events/3503)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: BytePlus
-  - 접수: 02. 05(수) ~ 02. 26(수)
-- __[체류시간 Up, 비용 DOWN! 인프라 운영 핵심 전략 공개](https://onoffmix.com/event/317100?srsltid=AfmBOoo9z4sLP8NuC3Yu8Z0qvn_GYx6qmoq0y2MXSLBCXK3Sa1hYLdZD)__
-  - 분류: `온라인`, `무료`, `인프라`
-  - 주최: Talk IT
-  - 접수: 02. 06(목) ~ 02. 26(수)
-- __[2025년 R&Dix 5기 신규 멤버 정기 모집](https://docs.google.com/forms/d/e/1FAIpQLSdxWiGmhG-0KsczpaV6NLua0EMVQs6dLMtEHKjgPFhC2nKStQ/viewform)__
-  - 분류: `오프라인`, `온라인`, `무료`, `모임`
-  - 주최: R&Dix
-  - 접수: 02. 16(일) ~ 02. 26(수)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/306006324/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 17(월) ~ 02. 26(수)
 - __[실전! 테스트가 이끄는 소프트웨어 품질 관리 | 프리온보딩 BE 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_be_29)__
   - 분류: `온라인`, `무료`, `교육`, `벡엔드`
   - 주최: 원티드
   - 접수: 02. 14(금) ~ 02. 27(목)
+
 - __[사례 기반 자바스크립트-타입스크립트 심층 분석 | 프리온보딩 FE 챌린지 3월](https://www.wanted.co.kr/events/pre_challenge_fe_31)__
   - 분류: `온라인`, `무료`, `교육`, `프론트엔드`
   - 주최: 원티드
@@ -129,6 +109,14 @@
   - 분류: `오프라인(서울 마포)`, `무료`, `AI`
   - 주최: 정은진
   - 접수: 02. 03(월) ~ 03. 06(목)
+- __[AI 시대의 생존 전략 ; 현직 개발자가 알려주는 AI 페어프로그래밍](https://www.programmers.co.kr/pages/%EB%8D%B0%EC%BB%A4%ED%86%A13#)__
+  - 분류: `오프라인(서울 강남)`, `온라인`, `무료`, `AI`
+  - 주최: 프로그래머스
+  - 접수: 02. 03(월) ~ 03. 06(목)
+- __[커널 아카데미 : 백엔드 개발 부트캠프 탑티어 연사와 함께하는 개발자 커리어 릴레이 웨비나](https://kernel.fastcampus.co.kr/BE12%EA%B8%B0_seminar02)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 패스트캠퍼스
+  - 접수: 02. 25(화) ~ 03. 08(금)
 - __[2025 개발자 고민상담소](https://www.wanted.co.kr/events/2025devcareer)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
