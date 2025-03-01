@@ -82,7 +82,7 @@
 ## 25년 03월
 - __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306046563/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: 구글
+  - 주최: AWSKRUG
   - 접수: 02. 21(금) ~ 03. 04(화)
 
 - __[LLM이 물처럼 흐르는 서비스와 콘텐츠 만들기](https://rsvp.withgoogle.com/events/ai-llm)__
