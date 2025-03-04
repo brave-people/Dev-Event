@@ -66,19 +66,6 @@
 
 <br />
 
-## 25년 02월
-- __[Langcon2025](https://2025langcon.oopy.io/)__
-  - 분류: `오프라인(서울 광화문)`, `무료`, `AI`
-  - 주최: Langcon
-  - 접수: 02. 18(화) ~ 02. 28(금)
-
-- __[K-DEVCON 고투런(Go-to-Learn) 2기 모집](https://bluepicture08.notion.site/K-DEVCON-Go-To-Learn-2-16becf714ca380f58b78edac54401608)__
-  - 분류: `오프라인`, `유료`, `AI`, `안드로이드`
-  - 주최: K-DEVCON
-  - 접수: 02. 18(화) ~ 02. 28(금)
-
-<br />
-
 ## 25년 03월
 - __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306046563/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
@@ -121,6 +108,10 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 아이펠
   - 접수: 02. 24(월) ~ 03. 10(월)
+- __[JetBrains Executive Summit 서울](https://lu.ma/7p8khqrr)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `AI`
+  - 주최: 젯브레인
+  - 접수: 03. 04(화) ~ 03. 10(월)
 - __[2025 인터넷서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1461)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `대회`, `기술일반`
   - 주최: 한국인터넷전문가협회
@@ -137,10 +128,18 @@
   - 분류: `온라인 `, `무료`, `기술일반`
   - 주최: 아임웹
   - 접수: 02. 26(수) ~ 03. 12(수)
+- __[AWSKRUG #AIEngineering 모임 - 프롬프트 엔지니어링 핸즈온](https://www.meetup.com/awskrug/events/306528634/)__
+  - 분류: `오프라인(서울 강남) `, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 03. 04(화) ~ 03. 12(수)
 - __[크래프톤 정글 9기](https://jungle.krafton.com/apply/info)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 크래프톤
   - 접수: 02. 17(월) ~ 03. 13(목)
+- __[AWSKRUG x HUG Seoul: Terraform Night](https://www.meetup.com/awskrug/events/306490477/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 03. 04(화) ~ 03. 13(목)
 - __[올인원 Pass! 인공지능 언어 마스터](https://seoul-ict.goorm.io/lecture/54651/2025-%EC%98%AC%EC%9D%B8%EC%9B%90-pass-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%96%B8%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%84%B0)__
   - 분류: `오프라인(경기 성남)`, `무료`, `교육`, `AI`
   - 주최: 구름
@@ -328,7 +327,8 @@
             <td>2025년</td>
             <td>
               <a href="./end_event/2025/25_01.md"> 01월 </a>,
-              <a href="./end_event/2025/25_02.md"> 02월 </a>
+              <a href="./end_event/2025/25_02.md"> 02월 </a>,
+              <a href="./end_event/2025/25_03.md"> 03월 </a>
             </td>
         </tr>
         <tr>
