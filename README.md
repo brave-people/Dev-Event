@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-161-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-162-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -714,6 +714,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bandoche"><img src="https://avatars.githubusercontent.com/u/1097495?v=4?s=100" width="100px;" alt="Jung Sang-jun"/><br /><sub><b>Jung Sang-jun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bandoche" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lj05117"><img src="https://avatars.githubusercontent.com/u/58285947?v=4?s=100" width="100px;" alt="Jiye Lee"/><br /><sub><b>Jiye Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=lj05117" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/easter423"><img src="https://avatars.githubusercontent.com/u/91017333?v=4?s=100" width="100px;" alt="Gunyoung Ha"/><br /><sub><b>Gunyoung Ha</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=easter423" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tyl1996"><img src="https://avatars.githubusercontent.com/u/89068510?v=4?s=100" width="100px;" alt="Tae Yong Lee"/><br /><sub><b>Tae Yong Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tyl1996" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
