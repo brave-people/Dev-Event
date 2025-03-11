@@ -418,6 +418,7 @@
 | 코드스쿼드 | [Homepage](https://codesquad.kr/) |
 | 구름톤 트레이닝(9oormthon TRAINING) | [Homepage](https://kdt.goorm.io/) |
 | 청년취업사관학교(SeSAC) | [Homepage](https://sesac.seoul.kr/) |
+| KT AIVLE School | [Homepage](https://aivle.kt.co.kr/home/main/indexMain) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
