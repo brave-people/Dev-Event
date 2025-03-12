@@ -140,6 +140,10 @@
   - 분류: `온라인`, `무료`, `커리`
   - 주최: 원티드
   - 접수: 03. 10(월) ~ 03. 20(목)
+- __[SIPE 4기 모집](https://sipe.team/)__
+  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
+  - 주최: SIPE
+  - 접수: 03. 11(화) ~ 03. 23(일)
 - __[Ai 응용 웹/앱 개발자 부트캠프](https://festa.io/events/6740)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: RocketBoost
@@ -379,7 +383,7 @@
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
 | Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://www.cloudclub.kr/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
-| SIPE | 개발자들이 함께 교류하며 성장하는 IT 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
+| SIPE | 다양한 활동으로 함께 성장하는 현직 개발자들의 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
 | 9oormthonUNIV | 카카오와 구름이 함께하는 대학생 IT 연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 | SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
