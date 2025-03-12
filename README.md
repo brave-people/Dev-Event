@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-163-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-164-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -742,6 +742,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tyl1996"><img src="https://avatars.githubusercontent.com/u/89068510?v=4?s=100" width="100px;" alt="Tae Yong Lee"/><br /><sub><b>Tae Yong Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tyl1996" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/daehyun99"><img src="https://avatars.githubusercontent.com/u/180817502?v=4?s=100" width="100px;" alt="김대현 (Kim DaeHyun)"/><br /><sub><b>김대현 (Kim DaeHyun)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=daehyun99" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/frontman-git"><img src="https://avatars.githubusercontent.com/u/174184333?v=4?s=100" width="100px;" alt="frontman-git"/><br /><sub><b>frontman-git</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=frontman-git" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
