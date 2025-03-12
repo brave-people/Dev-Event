@@ -100,6 +100,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 고용노동부
   - 접수: 02. 26(수) ~ 03. 14(금)
+- __[Super.init(version=6)](https://event-us.kr/gdgandroid/event/99825)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
+  - 주최: GDG Korea Android
+  - 접수: 03. 05(수) ~ 03. 14(금)
 - __[S-개발자 3기 2차 교육생 모집](https://okky.kr/articles/1528190)__
   - 분류: `오프라인`, `무료`, `교육`, `보안`
   - 주최: 과학기술정보통신부
@@ -164,6 +168,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 05(수) ~ 03. 26(수)
+- __[Microsoft AI Tour Seoul: 사티아 나델라 CEO의 키노트, 라이브로 시청하기](https://event-us.kr/msftkr/event/100097/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: Microsoft Korea
+  - 접수: 03. 05(수) ~ 03. 26(수)
+- __[데브콘 대전 : 삼월엔 오픈 클래스](https://event-us.kr/kdevcon/event/100445)__
+  - 분류: `오프라인(대전 유성구)`, `무료`, `기술일반`
+  - 주최: K-DEVCON
+  - 접수: 03. 11(화) ~ 03. 28(금)
+- __[PyTorch Core Maintainer와 함께 하는 파이토치 한국 사용자 모임 컨퍼런스](https://event-us.kr/pytorchkr/event/100142)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 파이토치 한국 사용자 모임
+  - 접수: 03. 07(금) ~ 03. 29(토)
 - __[Thriving @Google](https://careersonair.withgoogle.com/events/thrive-apac-2025)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 구글
@@ -197,6 +213,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Cisco
   - 접수: 03. 11(화) ~ 04. 02(수)
+- __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 파워 플랫폼 한국 유저 그룹
+  - 접수: 02. 28(금) ~ 04. 07(월)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
