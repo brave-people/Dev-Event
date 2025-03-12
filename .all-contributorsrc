@@ -1473,6 +1473,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "frontman-git",
+      "name": "frontman-git",
+      "avatar_url": "https://avatars.githubusercontent.com/u/174184333?v=4",
+      "profile": "https://github.com/frontman-git",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
