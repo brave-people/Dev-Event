@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 03월
-- __[융복합콘텐츠 기획·제작 <합톤> 참가자 모집](https://okky.kr/articles/1527527)__
-  - 분류: `오프라인(춘천)`, `무료`, `대회`, `기술일반`
-  - 주최: 춘천시
-  - 접수: 02. 17(월) ~ 03. 12(수)
-  
-- __[클라우드 네이티브 전환, MSA 구현을 위한 필수 전략](https://www.msap.ai/general/event/msap-ai-webinar/)__
-  - 분류: `온라인 `, `무료`, `벡엔드`
-  - 주최: MSAP.ai
-  - 접수: 02. 19(수) ~ 03. 12(수)
-- __[WIP 2025 : 기술의 장벽을 허무는 사람들](https://team.imweb.me/53/?idx=153097353&bmode=view)__
-  - 분류: `온라인 `, `무료`, `기술일반`
-  - 주최: 아임웹
-  - 접수: 02. 26(수) ~ 03. 12(수)
-- __[AWSKRUG #AIEngineering 모임 - 프롬프트 엔지니어링 핸즈온](https://www.meetup.com/awskrug/events/306528634/)__
-  - 분류: `오프라인(서울 강남) `, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 04(화) ~ 03. 12(수)
 - __[크래프톤 정글 9기](https://jungle.krafton.com/apply/info)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 크래프톤
   - 접수: 02. 17(월) ~ 03. 13(목)
+
 - __[AWSKRUG x HUG Seoul: Terraform Night](https://www.meetup.com/awskrug/events/306490477/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -124,6 +108,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한이음
   - 접수: 03. 05(수) ~ 03. 18(화)
+- __[고객을 사로잡는 사용자 가이드 쓰기](https://tech.goorm.io/ko/2503_commit/)__
+  - 분류: `오프라인(경기 성남)`, `온라인` `무료`, `기술일반`
+  - 주최: 구름
+  - 일시: 03. 19(수) 19:00 ~ 20:30
 - __[Ubuntu 한국어 번역 워크샵 및 정기총회](https://event-us.kr/ubuntukr/event/99571)__
   - 분류: `오프라인(서울 서초구)`, `무료`, `오픈소스`
   - 주최: 우분투한국커뮤니티
@@ -148,10 +136,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 03. 11(화) ~ 03. 24(월)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/306697979/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 03. 13(목) ~ 03. 26(수)
 - __[Pleos 25](https://devcon.hyundaimotorgroup.com/2025)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`, `기술일반`
   - 주최: 현대자동차
-  - 접수: 02. 24(월) ~ 03. 27(금)
+  - 접수: 02. 24(월) ~ 03. 27(목)
 - __[.HACK 2025](https://dothack.io/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: RocketBoost
@@ -213,6 +205,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Cisco
   - 접수: 03. 11(화) ~ 04. 02(수)
+- __[Hello World & Build with AI in Incheon](https://gdg.community.dev/events/details/google-gdg-incheon-presents-hello-world-amp-build-with-ai-in-incheon/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: GDG Incheon
+  - 접수: 03. 13(목) ~ 04. 04(금)
 - __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
