@@ -67,39 +67,11 @@
 <br />
 
 ## 25년 03월
-- __[크래프톤 정글 9기](https://jungle.krafton.com/apply/info)__
-  - 분류: `오프라인`, `유료`, `교육`
-  - 주최: 크래프톤
-  - 접수: 02. 17(월) ~ 03. 13(목)
-
-- __[AWSKRUG x HUG Seoul: Terraform Night](https://www.meetup.com/awskrug/events/306490477/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 03. 04(화) ~ 03. 13(목)
-- __[올인원 Pass! 인공지능 언어 마스터](https://seoul-ict.goorm.io/lecture/54651/2025-%EC%98%AC%EC%9D%B8%EC%9B%90-pass-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%96%B8%EC%96%B4-%EB%A7%88%EC%8A%A4%ED%84%B0)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `교육`, `AI`
-  - 주최: 구름
-  - 접수: 02. 14(금) ~ 03. 14(금)
-- __[AI Transformation AX Academy 2기 수강생 모집](https://www.hi-kdt.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 고용노동부
-  - 접수: 02. 26(수) ~ 03. 14(금)
-- __[Super.init(version=6)](https://event-us.kr/gdgandroid/event/99825)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `안드로이드`
-  - 주최: GDG Korea Android
-  - 접수: 03. 05(수) ~ 03. 14(금)
-- __[S-개발자 3기 2차 교육생 모집](https://okky.kr/articles/1528190)__
-  - 분류: `오프라인`, `무료`, `교육`, `보안`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 25(화) ~ 03. 16(일)
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/306585292/)__
-  - 분류: `오프라인`, `무료`, `교육`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 03. 07(금) ~ 03. 16(일)
 - __[Vietnam IT Developer House](https://event-us.kr/itskorea/event/97652)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: ITS Korea
   - 접수: 01. 09(목) ~ 03. 18(화) 11:00
+  
 - __[생성형 AI 데이터 보안 & 비대면 본인확인](http://www.comtrue.com/comtrue/news_73/)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: COMTRUE Technologies
@@ -112,14 +84,18 @@
   - 분류: `오프라인(경기 성남)`, `온라인` `무료`, `기술일반`
   - 주최: 구름
   - 일시: 03. 19(수) 19:00 ~ 20:30
-- __[Ubuntu 한국어 번역 워크샵 및 정기총회](https://event-us.kr/ubuntukr/event/99571)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `오픈소스`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 02. 22(토) ~ 03. 21(금)
+- __[[1st 젝커톤] IT 동아리 젝트가 개최하는 첫 번째 해커톤](https://slashpage.com/ject/91kwev26g76jgmy46jpg)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 주최: JECT
+  - 접수: 03. 15(토) ~ 03. 18(화)
 - __[5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_1)__
   - 분류: `온라인`, `무료`, `커리`
   - 주최: 원티드
   - 접수: 03. 10(월) ~ 03. 20(목)
+- __[Ubuntu 한국어 번역 워크샵 및 정기총회](https://event-us.kr/ubuntukr/event/99571)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `오픈소스`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 02. 22(토) ~ 03. 21(금)
 - __[SIPE 4기 모집](https://sipe.team/)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: SIPE
@@ -213,6 +189,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Cisco
   - 접수: 03. 11(화) ~ 04. 02(수)
+- __[삼성SDS Brity Automation Summit 2025](https://lp.mkt-email.samsungsds.com/brityautomation_summit2025)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
+  - 주최: 삼성SDS
+  - 접수: 03. 17(월) ~ 04. 04(금)
 - __[Hello World & Build with AI in Incheon](https://gdg.community.dev/events/details/google-gdg-incheon-presents-hello-world-amp-build-with-ai-in-incheon/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: GDG Incheon
@@ -237,6 +217,14 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 10(월) ~ 04. 23(수)
+- __[[5기] K-Digital Training: 클라우드 기반 프론트엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/25072/25072-5%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 프로그래머스
+  - 접수: 03. 17(월) ~ 04. 23(수)
+- __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/25073/25073-6%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 프로그래머스
+  - 접수: 03. 17(월) ~ 04. 23(수)
 
 <br />
 
