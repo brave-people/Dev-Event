@@ -85,7 +85,7 @@
   - 주최: 구름
   - 일시: 03. 19(수) 19:00 ~ 20:30
 - __[[1st 젝커톤] IT 동아리 젝트가 개최하는 첫 번째 해커톤](https://slashpage.com/ject/91kwev26g76jgmy46jpg)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 분류: `오프라인(서울 강남)`, `유료`, `대회`
   - 주최: JECT
   - 접수: 03. 15(토) ~ 03. 18(화)
 - __[5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_1)__
@@ -96,6 +96,14 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `오픈소스`
   - 주최: 우분투한국커뮤니티
   - 접수: 02. 22(토) ~ 03. 21(금)
+- __[XRPL KOREA 블록체인 해커톤: DE-BUTHON](https://lu.ma/mx26ho82)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: XRPL KOREA
+  - 접수: 03. 18(화) ~ 03. 21(금)
+- __[COMMIT X AWS Innovate Watch Party](https://tech.goorm.io/ko/commit_aws_innovate_watch_party/?utm_source=community&utm_medium=social&utm_campaign=commit)__
+  - 분류: `오프라인(경기 판교)`, `온라인`, `무료`, `클라우드`
+  - 주최: 구름
+  - 접수: 03. 18(화) ~ 03. 21(금)
 - __[SIPE 4기 모집](https://sipe.team/)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: SIPE
@@ -112,6 +120,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 03. 11(화) ~ 03. 24(월)
+- __[2025년 3월 25일 Blazor MAUI WPF BMW밋업](https://onoffmix.com/event/318878)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: Blazor MAUI WPF
+  - 접수: 03. 18(화) ~ 03. 25(화)
 - __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/306697979/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: AWSKRUG
@@ -242,6 +254,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 02. 05(수) ~ 05. 19(월)
+- __[AI 시대를 살아가는 사람들의 이야기](https://event.wanted.co.kr/highfive2025)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 원티드
+  - 접수: 03. 18(화) ~ 05. 19(월)
 - __[Google I/O 2025](https://events.google.com/io/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Google
@@ -254,6 +270,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
   - 접수: 03. 07(금) ~ 06. 08(일)
+
+<br />
+
+## 25년 07월
+- __[QA Korea Conference](https://www.qa-korea.com/qaconference2025)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `QA`
+  - 주최 : QA Korea
+  - 일시 : 07. 05(토)
 
 <br />
 
