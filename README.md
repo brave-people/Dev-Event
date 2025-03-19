@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 03월
-- __[Vietnam IT Developer House](https://event-us.kr/itskorea/event/97652)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: ITS Korea
-  - 접수: 01. 09(목) ~ 03. 18(화) 11:00
-  
-- __[생성형 AI 데이터 보안 & 비대면 본인확인](http://www.comtrue.com/comtrue/news_73/)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: COMTRUE Technologies
-  - 접수: 02. 28(금) ~ 03. 18(화)
-- __[2025년 한이음 드림업 참여 대학생(멘티) 모집](https://www.hanium.or.kr/intranet/notice/noticeView.do?ntcAtclSn=63872)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: 한이음
-  - 접수: 03. 05(수) ~ 03. 18(화)
 - __[고객을 사로잡는 사용자 가이드 쓰기](https://tech.goorm.io/ko/2503_commit/)__
   - 분류: `오프라인(경기 성남)`, `온라인` `무료`, `기술일반`
   - 주최: 구름
   - 일시: 03. 19(수) 19:00 ~ 20:30
+
 - __[[1st 젝커톤] IT 동아리 젝트가 개최하는 첫 번째 해커톤](https://slashpage.com/ject/91kwev26g76jgmy46jpg)__
   - 분류: `오프라인(서울 강남)`, `유료`, `대회`
   - 주최: JECT
@@ -201,6 +189,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: Cisco
   - 접수: 03. 11(화) ~ 04. 02(수)
+- __[AWSKRUG #Beginner 모임](https://www.meetup.com/awskrug/events/306786188/)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 03. 19(수) ~ 04. 02(수)
 - __[삼성SDS Brity Automation Summit 2025](https://lp.mkt-email.samsungsds.com/brityautomation_summit2025)__
   - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
   - 주최: 삼성SDS
@@ -213,10 +205,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
   - 접수: 02. 28(금) ~ 04. 07(월)
+- __[강남에서 같이 프로젝트 해요! 풀스택 개발 & 클라우드 엔지니어링 과정](https://www.allforyoung.com/posts/61937)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
+  - 주최: 구름
+  - 접수: 02. 28(금) ~ 04. 07(월)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
   - 접수: 02. 04(화) ~ 04. 14(월)
+- __[Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101009)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: 하이미디어아카데미
+  - 접수: 03. 19(수) ~ 04. 18(금)
 - __[B.D.Ax한국동서발전x60Hertz 연계 데이터분석 공모전](https://2025-bda-ewp-60hz-contest.webflow.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: B.D.A
