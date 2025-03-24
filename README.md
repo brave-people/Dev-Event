@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 03월
-- __[5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_1)__
-  - 분류: `온라인`, `무료`, `커리`
-  - 주최: 원티드
-  - 접수: 03. 10(월) ~ 03. 20(목)
-
-- __[Ubuntu 한국어 번역 워크샵 및 정기총회](https://event-us.kr/ubuntukr/event/99571)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `오픈소스`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 02. 22(토) ~ 03. 21(금)
-- __[XRPL KOREA 블록체인 해커톤: DE-BUTHON](https://lu.ma/mx26ho82)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: XRPL KOREA
-  - 접수: 03. 18(화) ~ 03. 21(금)
-- __[COMMIT X AWS Innovate Watch Party](https://tech.goorm.io/ko/commit_aws_innovate_watch_party/?utm_source=community&utm_medium=social&utm_campaign=commit)__
-  - 분류: `오프라인(경기 판교)`, `온라인`, `무료`, `클라우드`
-  - 주최: 구름
-  - 접수: 03. 18(화) ~ 03. 21(금)
-- __[SIPE 4기 모집](https://sipe.team/)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: SIPE
-  - 접수: 03. 11(화) ~ 03. 23(일)
 - __[Ai 응용 웹/앱 개발자 부트캠프](https://festa.io/events/6740)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: RocketBoost
   - 접수: 01. 23(목) ~ 03. 24(월)
+
 - __[블록체인 엔지니어 부트캠프](https://festa.io/events/6739)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
   - 주최: RocketBoost
@@ -201,6 +181,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: GDG Incheon
   - 접수: 03. 13(목) ~ 04. 04(금)
+- __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
+  - 주최: AWSKRUG
+  - 접수: 03. 24(월) ~ 04. 04(화)
+- __[STDev Science Hackathon 2025](https://event.stdev.kr/dsf25)__
+  - 분류: `오프라인(대전)`, `무료`, `대회`
+  - 주최: STDev Science Hackathon
+  - 접수: 03. 24(월) ~ 04. 04(화)
 - __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
@@ -209,6 +197,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`
   - 주최: 구름
   - 접수: 03. 14(금) ~ 04. 07(월)
+- __[NLP와 LLM 실전 튜토리얼](https://okky.kr/articles/1530130)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `AI`
+  - 주최: 한빛
+  - 접수: 03. 24(월) ~ 04. 07(월)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
