@@ -67,39 +67,15 @@
 <br />
 
 ## 25년 03월
-- __[왜 내가 쓰는 GPT는 대답을 잘못할까? 생성형AI를 바라보는 관점을 바꿔보자](https://www.youtube.com/watch?v=2FJgAic0FOU)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: 한입 런치박스
-  - 일시: 03. 26(수) 12:00 ~ 12:50
-
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/306697979/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 03. 13(목) ~ 03. 26(수)
 - __[신정규 래블업 대표가 전하는 NVIDIA GTC 2025 브리핑](https://okky.kr/articles/1529976)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 래블업
   - 접수: 03. 22(토) ~ 03. 27(목)
+
 - __[Pleos 25](https://devcon.hyundaimotorgroup.com/2025)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`, `기술일반`
   - 주최: 현대자동차
   - 접수: 02. 24(월) ~ 03. 27(목)
-- __[SUSC 취업 커리어 콘서트 2회 "콴다", "토스", "당근마켓" 이직 경험을 들려준다고?! - 김수빈님](https://event-us.kr/susc/event/100108)__
-  - 분류: `온라인(ZOOM)`, `유료`, `커리어`
-  - 주최: SUSC
-  - 접수: 03. 08(토) ~ 03. 25(화)
-- __[Physical AI와 온디바이스 AI – 개발 여정과 혁신 | K-하이테크플랫폼 X 모두의연구소 강남](https://event-us.kr/modu/event/100177)__
-  - 분류: `온라인`, `오프라인`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 03. 06(목) ~ 03. 25(화)
-- __[AWSKRUG 아키텍처 #architecture 51번째 소모임](https://www.meetup.com/awskrug/events/306392698/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 03. 05(수) ~ 03. 26(수)
-- __[Microsoft AI Tour Seoul: 사티아 나델라 CEO의 키노트, 라이브로 시청하기](https://event-us.kr/msftkr/event/100097/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: Microsoft Korea
-  - 접수: 03. 05(수) ~ 03. 26(수)
 - __[2-4년차 프론트엔드를 위한 효율 UP! 소프트스킬 | 프리온보딩](https://www.wanted.co.kr/events/pre_challenge_fe_32)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: 원티드
@@ -197,6 +173,10 @@
   - 분류: `오프라인(서울 서대문구)`, `무료`, `AI`
   - 주최: 한빛
   - 접수: 03. 24(월) ~ 04. 07(월)
+- __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 03. 27(목) ~ 04. 09(수)
 - __[AWS re:Inforce 2025 무료 지원 신청](https://pulse.aws/application/XSCBDIYL?p=0)__
   - 분류: `오프라인(미국)`, `무료`, `클라우드`
   - 주최: AWS
