@@ -84,6 +84,10 @@
   - 분류: `오프라인(대전)`, `무료`, `대회`
   - 주최: STDev Science Hackathon
   - 접수: 03. 24(월) ~ 04. 04(화)
+- __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 04. 04(금) ~ 04. 06(일)
 - __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
@@ -136,10 +140,22 @@
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: OSBC
   - 접수: 04. 01(화) ~ 04. 17(목)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/306989337/)__
+  - 분류: `오프라인(서울 용산구)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 04. 04(금) ~ 04. 17(목)
+- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/306972397/)__
+  - 분류: `오프라인(서울 서초)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 04. 04(금) ~ 04. 17(목)
 - __[Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101009)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 하이미디어아카데미
   - 접수: 03. 19(수) ~ 04. 18(금)
+- __[개발자들을 위한 Snowflake X Streamlit 해커톤](https://www.snowflake.com/snowflake-streamlit-hackathon-korea/)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: Snowflake
+  - 접수: 03. 26(수) ~ 04. 18(금)
 - __[FlutterSeoul - 오픈스테이지](https://event-us.kr/flutterseoul/event/101034)__
   - 분류: `오프라인`, `무료`, `안드로이드`, `iOS`
   - 주최: FlutterSeoul
@@ -152,6 +168,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 25(화) ~ 04. 20(일)
+- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/307051845/)__
+  - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 04. 04(금) ~ 04. 21(월)
 - __[2025 핵데온 세종: 사이버보안 컨퍼런스](https://hacktheon.org/)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 국가정보원
@@ -176,6 +196,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
   - 주최: 모두의 연구소
   - 접수: 04. 03(목) ~ 04. 30(수)
+- __[부스트캠프 웹·모바일 10기 모집 알림 신청](https://form.naver.com/response/KatFZfA5lmUI7hk9Vha4eA)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 네이버 커넥트재단
+  - 접수: 02. 20(목) ~ 04. 30(수)
 
 <br />
 
