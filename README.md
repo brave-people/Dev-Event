@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-165-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-166-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 04월
-- __[삼성SDS Brity Automation Summit 2025](https://lp.mkt-email.samsungsds.com/brityautomation_summit2025)__
-  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
-  - 주최: 삼성SDS
-  - 접수: 03. 17(월) ~ 04. 04(금)
-
-- __[Hello World & Build with AI in Incheon](https://gdg.community.dev/events/details/google-gdg-incheon-presents-hello-world-amp-build-with-ai-in-incheon/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: GDG Incheon
-  - 접수: 03. 13(목) ~ 04. 04(금)
-- __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 03. 24(월) ~ 04. 04(화)
-- __[STDev Science Hackathon 2025](https://event.stdev.kr/dsf25)__
-  - 분류: `오프라인(대전)`, `무료`, `대회`
-  - 주최: STDev Science Hackathon
-  - 접수: 03. 24(월) ~ 04. 04(화)
-- __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 04. 04(금) ~ 04. 06(일)
 - __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
   - 접수: 02. 28(금) ~ 04. 07(월)
+
 - __[강남에서 같이 프로젝트 해요! 풀스택 개발 & 클라우드 엔지니어링 과정](https://www.allforyoung.com/posts/61937)__
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`
   - 주최: 구름
@@ -160,6 +140,10 @@
   - 분류: `오프라인`, `무료`, `안드로이드`, `iOS`
   - 주최: FlutterSeoul
   - 접수: 04. 01(화) ~ 04. 18(금)
+- __[AWS 인플루언서들의 아주 현실적인 DevOps 이야기](https://event-us.kr/helpfastcampus/event/102100)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `클라우드`
+  - 주최: 패스트캠퍼스
+  - 접수: 04. 24(목) ~ 04. 20(일)
 - __[B.D.Ax한국동서발전x60Hertz 연계 데이터분석 공모전](https://2025-bda-ewp-60hz-contest.webflow.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: B.D.A
@@ -176,6 +160,10 @@
   - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 04. 04(금) ~ 04. 21(월)
+- __[오픈인프라 한국 사용자 모임 5월 세미나 발표자를 모집](https://www.facebook.com/groups/openstack.kr/posts/24091328347121323/)__
+  - 분류: `오프라인`, `무료`, `인프라`
+  - 주최: 오픈인프라 한국 사용자 모임
+  - 접수: 04. 07(월) ~ 04. 21(월)
 - __[2025 핵데온 세종: 사이버보안 컨퍼런스](https://hacktheon.org/)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 국가정보원
@@ -196,6 +184,14 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: CWB Korea
   - 접수: 04. 02(수) ~ 04. 25(금)
+- __[세계 최대 보안 컨퍼런스 RSAC 2025 미리보기](https://chontv.com/event/apply/page/1114/383)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: 잇츠맨
+  - 접수: 04. 07(월) ~ 04. 25(금)
+- __[Microsoft 무료 테크 웨비나 - Copilot Studio로 맞춤형 AI Agent 구축하기](https://event-us.kr/gknedu/event/102124)__
+  - 분류: `온라인`, `무료`, `교육`, `AI`
+  - 주최: 한국글로벌널리지
+  - 접수: 04. 08(화) ~ 04. 29(화)
 - __[[사전 신청] 퇴근 후 2시간으로 완성하는 AI/LLM 서비스 개발 과정](https://llm.modulabs.co.kr/)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
   - 주최: 모두의 연구소
@@ -208,11 +204,15 @@
 <br />
 
 ## 25년 05월
+- __[2025 관광데이터 활용 공모전](https://www.2025tourapi.com/)__
+  - 분류: `온라인`, `무료`, `데이터`, `대회`
+  - 주최: 한국관광공사
+  - 접수: 04. 03(목) ~ 05. 07(수)
+
 - __[2025년 FIN:NECT 챌린지 캠페인 참가자 모집](https://eopla.net/magazines/27186)__
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 한국핀테크지원센터
   - 접수: 03. 10(월) ~ 05. 09(금)
-
 - __[개발자를 위한 고급 프롬프트 엔지니어링](https://biz.modulabs.co.kr/event/235)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의 연구소
@@ -766,6 +766,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/daehyun99"><img src="https://avatars.githubusercontent.com/u/180817502?v=4?s=100" width="100px;" alt="김대현 (Kim DaeHyun)"/><br /><sub><b>김대현 (Kim DaeHyun)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=daehyun99" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/frontman-git"><img src="https://avatars.githubusercontent.com/u/174184333?v=4?s=100" width="100px;" alt="frontman-git"/><br /><sub><b>frontman-git</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=frontman-git" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DongWooKim4343"><img src="https://avatars.githubusercontent.com/u/106728608?v=4?s=100" width="100px;" alt="DongWoo Kim"/><br /><sub><b>DongWoo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DongWooKim4343" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://zrr.kr/kWrh"><img src="https://avatars.githubusercontent.com/u/76685700?v=4?s=100" width="100px;" alt="Daehyun Kim"/><br /><sub><b>Daehyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Daehyun-Bigbread" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
