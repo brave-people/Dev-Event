@@ -168,6 +168,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 25(화) ~ 04. 20(일)
+- __[Build with AI: GDG StartUP Lab](https://event-us.kr/gdgcampuskorea/event/100657?utm_source=eventus&utm_medium=organic&utm_campaign=search-result&utm_term=Build+with+AI%3A+GDG+StartUP+Lab)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: GDG Campus Korea
+  - 접수: 03. 26(수) ~ 04. 20(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/307051845/)__
   - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -446,6 +450,7 @@
 | 청년취업사관학교(SeSAC) | [Homepage](https://sesac.seoul.kr/) |
 | KT AIVLE School | [Homepage](https://aivle.kt.co.kr/home/main/indexMain) |
 | 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
+| 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -513,6 +518,7 @@
 | AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
 | C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
+| GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
