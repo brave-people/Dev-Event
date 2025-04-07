@@ -168,6 +168,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 접수: 02. 25(화) ~ 04. 20(일)
+- __[Build with AI: GDG StartUP Lab](https://event-us.kr/gdgcampuskorea/event/100657?utm_source=eventus&utm_medium=organic&utm_campaign=search-result&utm_term=Build+with+AI%3A+GDG+StartUP+Lab)__
+  - 분류: `온라인`, `유료`, `기술일반`
+  - 주최: GDG Campus Korea
+  - 접수: 03. 26(수) ~ 04. 20(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/307051845/)__
   - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -200,10 +204,6 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 02. 20(목) ~ 04. 30(수)
-- __[Build with AI: GDG StartUP Lab](https://event-us.kr/gdgcampuskorea/event/100657?utm_source=eventus&utm_medium=organic&utm_campaign=search-result&utm_term=Build+with+AI%3A+GDG+StartUP+Lab)__
-  - 분류: `온라인`, `유료`, `기술일반`
-  - 주최: GDG Campus Korea
-  - 접수: 03. 26(수) ~ 04. 20(일)
 
 <br />
 
