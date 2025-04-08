@@ -67,26 +67,18 @@
 <br />
 
 ## 25년 04월
-- __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 02. 28(금) ~ 04. 07(월)
-
-- __[강남에서 같이 프로젝트 해요! 풀스택 개발 & 클라우드 엔지니어링 과정](https://www.allforyoung.com/posts/61937)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
-  - 주최: 구름
-  - 접수: 03. 14(금) ~ 04. 07(월)
-- __[NLP와 LLM 실전 튜토리얼](https://okky.kr/articles/1530130)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `AI`
-  - 주최: 한빛
-  - 접수: 03. 24(월) ~ 04. 07(월)
 - __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
   - 접수: 03. 27(목) ~ 04. 09(수)
+
 - __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/307037666/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
+  - 접수: 04. 01(목) ~ 04. 09(수)
+- __[Udemy 한입 런치박스 조상욱 연사](https://www.youtube.com/watch?v=hrZGRMgkic8)__
+  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
+  - 주최: Udemy 한입 런치박스
   - 접수: 04. 01(목) ~ 04. 09(수)
 - __[딥시크 분석을 통한 AI 기술개발을 위한 새로운 기회 전략 세미나](https://okky.kr/articles/1530640)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
@@ -108,6 +100,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS Cloud Club
   - 접수: 03. 31(월) ~ 04. 11(금)
+- __[THE ACADEMIC FRONTIER](https://lu.ma/yvngjopk)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
+  - 주최: LECCA Ventures
+  - 접수: 04. 08(화) ~ 04. 12(토)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
