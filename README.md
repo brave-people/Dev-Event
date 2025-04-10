@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 04월
-- __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 27(목) ~ 04. 09(수)
-
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/307037666/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 04. 01(목) ~ 04. 09(수)
-- __[Udemy 한입 런치박스 조상욱 연사](https://www.youtube.com/watch?v=hrZGRMgkic8)__
-  - 분류: `온라인`, `무료`, `안드로이드`, `iOS`
-  - 주최: Udemy 한입 런치박스
-  - 접수: 04. 01(목) ~ 04. 09(수)
 - __[딥시크 분석을 통한 AI 기술개발을 위한 새로운 기회 전략 세미나](https://okky.kr/articles/1530640)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 산업교육연구소
   - 접수: 03. 31(월) ~ 04. 10(목)
+  
 - __[2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581)__
   - 분류: `오프라인(서울 강남)`, `무료`, `커리어`
   - 주최: 메인비즈
@@ -108,10 +96,22 @@
   - 분류: `온라인`, `유료`, `교육`
   - 주최: 모두의 연구소
   - 접수: 04. 09(수) ~ 04. 12(토)
+- __[Simple Design: 25년차 개발자가 전하는 깔끔한 코드의 본질](https://www.inflearn.com/course/offline/%EC%9D%B8%ED%94%84%EB%9F%B0-simple-design-%EB%B0%8B%EC%97%85)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: 인프런
+  - 접수: 04. 08(화) ~ 04. 13(일)
+- __[청년취업사관학교 Microsoft AI 엔지니어 교육생 모집](https://aisesac.seoul.kr/mapo)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: 대한상공회의소
+  - 접수: 04. 10(목) ~ 04. 13(일)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
   - 접수: 02. 04(화) ~ 04. 14(월)
+- __[Rancher Rodeo 핸즈온 쿠버네티스 워크샵](https://more.suse.com/0008403_Cloud_Native_Rodeo_LP.html)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `인프라`
+  - 주최: SUSE
+  - 접수: 04. 10(목) ~ 04. 15(화)
 - __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/306989337/)__
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: AWSKRUG
