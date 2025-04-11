@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-166-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-167-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -144,6 +144,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: GDG Campus Korea
   - 접수: 03. 26(수) ~ 04. 20(일)
+- __[기업형 IT동아리 YAPP 26기 신규 회원 모집](https://www.yapp.co.kr)__
+  - 분류: `오프라인`, `무료`,`모임`
+  - 주최: YAPP
+  - 접수: 04. 10(목) ~ 04. 20(일)
 - __[‘바이브 코딩’에 대한 이해와 활용 실전 세미나](https://conference.etnews.com/conf_info.html?uid=381)__
   - 분류: `오프라인(서울 잠실)`, `무료`, `AI`
   - 주최: 전자신문인터넷
@@ -779,6 +783,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/frontman-git"><img src="https://avatars.githubusercontent.com/u/174184333?v=4?s=100" width="100px;" alt="frontman-git"/><br /><sub><b>frontman-git</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=frontman-git" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DongWooKim4343"><img src="https://avatars.githubusercontent.com/u/106728608?v=4?s=100" width="100px;" alt="DongWoo Kim"/><br /><sub><b>DongWoo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DongWooKim4343" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://zrr.kr/kWrh"><img src="https://avatars.githubusercontent.com/u/76685700?v=4?s=100" width="100px;" alt="Daehyun Kim"/><br /><sub><b>Daehyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Daehyun-Bigbread" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@hoyaho"><img src="https://avatars.githubusercontent.com/u/85336456?v=4?s=100" width="100px;" alt="Jeongho"/><br /><sub><b>Jeongho</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hoyahozz" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
