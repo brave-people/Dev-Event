@@ -156,6 +156,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: GDG Campus Korea
   - 접수: 03. 26(수) ~ 04. 20(일)
+- __[기업형 IT동아리 YAPP 26기 신규 회원 모집](https://www.yapp.co.kr)__
+  - 분류: `오프라인`, `무료`,`모임`
+  - 주최: YAPP
+  - 접수: 04. 10(목) ~ 04. 20(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/307051845/)__
   - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
   - 주최: AWSKRUG
