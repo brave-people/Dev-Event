@@ -67,43 +67,19 @@
 <br />
 
 ## 25년 04월
-- __[AWS re:Inforce 2025 무료 지원 신청](https://pulse.aws/application/XSCBDIYL?p=0)__
-  - 분류: `오프라인(미국)`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 03. 26(수) ~ 04. 11(금)
-
-- __[A실무자가 활용하는 Git 200% 활용하기](http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=425&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 코라이 IT 아카데미
-  - 접수: 03. 31(월) ~ 04. 11(금)
-- __[AWS Student Community Day 2025를 빛내 주실 연사자를 모집합니다!](https://tally.so/r/3y1464)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS Cloud Club
-  - 접수: 03. 31(월) ~ 04. 11(금)
-- __[THE ACADEMIC FRONTIER](https://lu.ma/yvngjopk)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
-  - 주최: LECCA Ventures
-  - 접수: 04. 08(화) ~ 04. 12(토)
-- __[모두를 위한 양자컴퓨팅 101](https://modulabs.co.kr/community/momos/169)__
-  - 분류: `온라인`, `유료`, `교육`
-  - 주최: 모두의 연구소
-  - 접수: 04. 09(수) ~ 04. 12(토)
-- __[Simple Design: 25년차 개발자가 전하는 깔끔한 코드의 본질](https://www.inflearn.com/course/offline/%EC%9D%B8%ED%94%84%EB%9F%B0-simple-design-%EB%B0%8B%EC%97%85)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 인프런
-  - 접수: 04. 08(화) ~ 04. 13(일)
-- __[청년취업사관학교 Microsoft AI 엔지니어 교육생 모집](https://aisesac.seoul.kr/mapo)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 대한상공회의소
-  - 접수: 04. 10(목) ~ 04. 13(일)
 - __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: RocketBoost
   - 접수: 02. 04(화) ~ 04. 14(월)
+
 - __[Rancher Rodeo 핸즈온 쿠버네티스 워크샵](https://more.suse.com/0008403_Cloud_Native_Rodeo_LP.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `인프라`
   - 주최: SUSE
   - 접수: 04. 10(목) ~ 04. 15(화)
+- __[비전공자의 커리어 전환기: AI 개발자로 성장하는 법](https://sprint.codeit.kr/blog/%EB%AC%B4%EB%A3%8C-%ED%8A%B9%EA%B0%95-%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EC%9D%98-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%A0%84%ED%99%98%EA%B8%B0-ai-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B2%95-51304)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 스프린트
+  - 접수: 04. 14(월) ~ 04. 15(화)
 - __[2025 4월 오픈소스 웨비나](https://event-us.kr/osbc/event/101702)__
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: OSBC
@@ -184,6 +160,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: AWSKRUG
   - 접수: 04. 11(금) ~ 04. 23(수)
+- __[AOAI Dev Day Korea 2025](https://aifactory.space/task/9135/overview)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 04. 14(월) ~ 04. 23(수)
 - __[2025 블록체인 밋업컨퍼런스(BCMC)](https://event-us.kr/bcmckisa/event/100409)__
   - 분류: `오프라인(서울 강남)`, `무료`, `블록체인`
   - 주최: 과학기술정보통신부
@@ -208,6 +188,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 02. 20(목) ~ 04. 30(수)
+- __[원티드 스터디 호스트 신청서](https://docs.google.com/forms/d/e/1FAIpQLSfTwaA6mnfGiVQOZFSvAcyjR745AN5x9aaMEtfLp0RXQHiKWg/viewform)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 원티드
+  - 접수: 04. 14(월) ~ 04. 30(수)
 
 <br />
 
