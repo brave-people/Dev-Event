@@ -168,6 +168,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `블록체인`
   - 주최: 과학기술정보통신부
   - 접수: 03. 24(월) ~ 04. 24(목)
+- __[TypeScript 백엔드 개발자 모임](https://event-us.kr/tsbackendmeetup/event/102317)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `백엔드`
+  - 주최: ts-backend-meetup.ts
+  - 접수: 04. 10(목) ~ 04. 25(금)
 - __[GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: CWB Korea
