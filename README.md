@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-166-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-168-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -67,55 +67,11 @@
 <br />
 
 ## 25년 04월
-- __[Global AI Bootcamp 2025 Seoul - Handson](https://event-us.kr/powerplatform/event/99618)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 02. 28(금) ~ 04. 07(월)
+- __[유데미 한입 런치박스](https://www.youtube.com/watch?v=-rB6gwtIaJ8)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: Udemy
+  - 일시: 04. 16(수) 12:00 ~ 13:00
 
-- __[강남에서 같이 프로젝트 해요! 풀스택 개발 & 클라우드 엔지니어링 과정](https://www.allforyoung.com/posts/61937)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
-  - 주최: 구름
-  - 접수: 03. 14(금) ~ 04. 07(월)
-- __[NLP와 LLM 실전 튜토리얼](https://okky.kr/articles/1530130)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `AI`
-  - 주최: 한빛
-  - 접수: 03. 24(월) ~ 04. 07(월)
-- __[AWSKRUG #AIEngineering Hands-on Lab](https://www.meetup.com/awskrug/events/306928642/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 27(목) ~ 04. 09(수)
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/307037666/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 04. 01(목) ~ 04. 09(수)
-- __[딥시크 분석을 통한 AI 기술개발을 위한 새로운 기회 전략 세미나](https://okky.kr/articles/1530640)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 산업교육연구소
-  - 접수: 03. 31(월) ~ 04. 10(목)
-- __[2025년 K-디지털 트레이닝 「SW 현직자 특강」(개발자의 취업 성공 A to Z)](https://event-us.kr/mainbizjob/event/101581)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `커리어`
-  - 주최: 메인비즈
-  - 접수: 03. 28(금) ~ 04. 10(목)
-- __[AWS re:Inforce 2025 무료 지원 신청](https://pulse.aws/application/XSCBDIYL?p=0)__
-  - 분류: `오프라인(미국)`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 03. 26(수) ~ 04. 11(금)
-- __[A실무자가 활용하는 Git 200% 활용하기](http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=425&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 코라이 IT 아카데미
-  - 접수: 03. 31(월) ~ 04. 11(금)
-- __[AWS Student Community Day 2025를 빛내 주실 연사자를 모집합니다!](https://tally.so/r/3y1464)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS Cloud Club
-  - 접수: 03. 31(월) ~ 04. 11(금)
-- __[UNITE SEOUL 2025](https://uniteseoul.co.kr/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: RocketBoost
-  - 접수: 02. 04(화) ~ 04. 14(월)
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/306989337/)__
-  - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 01(화) ~ 04. 17(목)
 - __[2025 4월 오픈소스 웨비나](https://event-us.kr/osbc/event/101702)__
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: OSBC
@@ -143,7 +99,7 @@
 - __[AWS 인플루언서들의 아주 현실적인 DevOps 이야기](https://event-us.kr/helpfastcampus/event/102100)__
   - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`, `클라우드`
   - 주최: 패스트캠퍼스
-  - 접수: 04. 24(목) ~ 04. 20(일)
+  - 접수: 04. 07(월) ~ 04. 20(일)
 - __[B.D.Ax한국동서발전x60Hertz 연계 데이터분석 공모전](https://2025-bda-ewp-60hz-contest.webflow.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: B.D.A
@@ -156,6 +112,18 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: GDG Campus Korea
   - 접수: 03. 26(수) ~ 04. 20(일)
+- __[기업형 IT동아리 YAPP 26기 신규 회원 모집](https://www.yapp.co.kr)__
+  - 분류: `오프라인`, `무료`,`모임`
+  - 주최: YAPP
+  - 접수: 04. 10(목) ~ 04. 20(일)
+- __[‘바이브 코딩’에 대한 이해와 활용 실전 세미나](https://conference.etnews.com/conf_info.html?uid=381)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `AI`
+  - 주최: 전자신문인터넷
+  - 접수: 04. 11(금) ~ 04. 20(일)
+- __[DDD 12기 멤버 모집공고](https://www.instagram.com/p/DITrXE8Sdp0/?img_index=1)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: DDD
+  - 접수: 04. 11(금) ~ 04. 20(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/307051845/)__
   - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -164,10 +132,18 @@
   - 분류: `오프라인`, `무료`, `인프라`
   - 주최: 오픈인프라 한국 사용자 모임
   - 접수: 04. 07(월) ~ 04. 21(월)
+- __[IT폴리오 라운지 모집](https://www.facebook.com/groups/openstack.kr/posts/24091328347121323/)__
+  - 분류: `오프라인`, `무료`, `인프라`
+  - 주최: 오픈인프라 한국 사용자 모임
+  - 접수: 04. 07(월) ~ 04. 21(월)
 - __[2025 핵데온 세종: 사이버보안 컨퍼런스](https://hacktheon.org/)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 국가정보원
   - 접수: 03. 17(월) ~ 04. 22(화)
+- __[제 1회 AFI Global Idea Challenge 공모전](https://www.ygbt.co.kr/competition/view.php?no=43170)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 오가노이드사이언스
+  - 접수: 04. 15(화) ~ 04. 22(화)
 - __[World IT Show 2025 (월드IT쇼 2025)](https://www.worlditshow.co.kr/main/main.php)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -180,6 +156,26 @@
   - 분류: `온라인`, `무료`, `벡엔드`
   - 주최: 프로그래머스
   - 접수: 03. 17(월) ~ 04. 23(수)
+- __[2025년 2차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/320906)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 개방형 클라우드 플랫폼 센터
+  - 접수: 04. 09(수) ~ 04. 23(수)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/307229812/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 04. 11(금) ~ 04. 23(수)
+- __[AOAI Dev Day Korea 2025](https://aifactory.space/task/9135/overview)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 04. 14(월) ~ 04. 23(수)
+- __[2025 블록체인 밋업컨퍼런스(BCMC)](https://event-us.kr/bcmckisa/event/100409)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `블록체인`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 24(월) ~ 04. 24(목)
+- __[TypeScript 백엔드 개발자 모임](https://event-us.kr/tsbackendmeetup/event/102317)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `백엔드`
+  - 주최: ts-backend-meetup.ts
+  - 접수: 04. 10(목) ~ 04. 25(금)
 - __[GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: CWB Korea
@@ -192,6 +188,10 @@
   - 분류: `온라인`, `무료`, `교육`, `AI`
   - 주최: 한국글로벌널리지
   - 접수: 04. 08(화) ~ 04. 29(화)
+- __[KT CLOUD: SUMMIT 2025](https://summit.ktcloud.com/)__
+  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: KT CLOUD
+  - 접수: 04. 15(화) ~ 04. 29(화)
 - __[[사전 신청] 퇴근 후 2시간으로 완성하는 AI/LLM 서비스 개발 과정](https://llm.modulabs.co.kr/)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
   - 주최: 모두의 연구소
@@ -200,15 +200,27 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 02. 20(목) ~ 04. 30(수)
+- __[원티드 스터디 호스트 신청서](https://docs.google.com/forms/d/e/1FAIpQLSfTwaA6mnfGiVQOZFSvAcyjR745AN5x9aaMEtfLp0RXQHiKWg/viewform)__
+  - 분류: `온라인`, `무료`, `모임`
+  - 주최: 원티드
+  - 접수: 04. 14(월) ~ 04. 30(수)
+- __[[데브클럽] 수료생과 온라인 커피챗](https://f-lab.notion.site/1c1b4a3c45f180fd9691ce239b4f200c)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: f lab
+  - 접수: 04. 15(화) ~ 04. 30(수)
 
 <br />
 
 ## 25년 05월
+- __[AWSKRUG #AIEngineering - MCP on AWS](https://www.meetup.com/awskrug/events/307266851/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 04. 16(수) ~ 05. 06(화)
+
 - __[2025 관광데이터 활용 공모전](https://www.2025tourapi.com/)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 한국관광공사
   - 접수: 04. 03(목) ~ 05. 07(수)
-
 - __[2025년 FIN:NECT 챌린지 캠페인 참가자 모집](https://eopla.net/magazines/27186)__
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 한국핀테크지원센터
@@ -261,6 +273,14 @@
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: 파이콘
   - 일시: 08. 15(금) ~ 08. 17(일)
+
+<br />
+
+## 25년 10월
+- __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
+  - 분류: `온라인`, `무료`, `클라우드`, `대회`
+  - 주최: K-PasaS
+  - 일시: 03. 24(월) ~ 10. 31(금)
 
 <br />
 
@@ -767,6 +787,8 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/frontman-git"><img src="https://avatars.githubusercontent.com/u/174184333?v=4?s=100" width="100px;" alt="frontman-git"/><br /><sub><b>frontman-git</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=frontman-git" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DongWooKim4343"><img src="https://avatars.githubusercontent.com/u/106728608?v=4?s=100" width="100px;" alt="DongWoo Kim"/><br /><sub><b>DongWoo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=DongWooKim4343" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://zrr.kr/kWrh"><img src="https://avatars.githubusercontent.com/u/76685700?v=4?s=100" width="100px;" alt="Daehyun Kim"/><br /><sub><b>Daehyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Daehyun-Bigbread" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@hoyaho"><img src="https://avatars.githubusercontent.com/u/85336456?v=4?s=100" width="100px;" alt="Jeongho"/><br /><sub><b>Jeongho</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hoyahozz" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/itsChrisJang"><img src="https://avatars.githubusercontent.com/u/62946867?v=4?s=100" width="100px;" alt="JUNHWAN(Chris) JANG"/><br /><sub><b>JUNHWAN(Chris) JANG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=itsChrisJang" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
