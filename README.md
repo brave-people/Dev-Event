@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 04월
-- __[2025 4월 오픈소스 웨비나](https://event-us.kr/osbc/event/101702)__
-  - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최: OSBC
-  - 접수: 04. 01(화) ~ 04. 17(목)
-  
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/306989337/)__
-  - 분류: `오프라인(서울 용산구)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 04. 04(금) ~ 04. 17(목)
-- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/306972397/)__
-  - 분류: `오프라인(서울 서초)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 04. 04(금) ~ 04. 17(목)
 - __[Cloud DX Academy 수강생 모집](https://event-us.kr/himedia1/event/101009)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 하이미디어아카데미
   - 접수: 03. 19(수) ~ 04. 18(금)
+
 - __[개발자들을 위한 Snowflake X Streamlit 해커톤](https://www.snowflake.com/snowflake-streamlit-hackathon-korea/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: Snowflake
@@ -237,6 +225,10 @@
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 한국핀테크지원센터
   - 접수: 03. 10(월) ~ 05. 09(금)
+- __[제21회 차세대 테크 리더십포럼 - "반도체 패러다임의 변화, AI와 공존하는 미래"](https://event-us.kr/naekyehs/event/102286)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`, `AI`
+  - 주최: 차세대 테크 리더십포럼
+  - 접수: 04. 18(금) ~ 05. 09(금)
 - __[개발자를 위한 고급 프롬프트 엔지니어링](https://biz.modulabs.co.kr/event/235)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의 연구소
@@ -245,6 +237,14 @@
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: 고용노동부
   - 접수: 03. 11(화) ~ 05. 15(목)
+- __[2025 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
+  - 분류: `온라인`, `무료`, `대회`, `데이터`
+  - 주최: 특허청
+  - 접수: 04. 18(금) ~ 05. 15(목)
+- __[2025 백엔드 개발 트렌드 핵심](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=10&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
+  - 분류: `오프라인(대구)`, `무료`, `교육`
+  - 주최: 코리아IT아카데미
+  - 접수: 04. 18(금) ~ 05. 15(목)
 - __[Microsoft Build 2025](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
