@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-168-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-169-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -773,6 +773,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://zrr.kr/kWrh"><img src="https://avatars.githubusercontent.com/u/76685700?v=4?s=100" width="100px;" alt="Daehyun Kim"/><br /><sub><b>Daehyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Daehyun-Bigbread" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@hoyaho"><img src="https://avatars.githubusercontent.com/u/85336456?v=4?s=100" width="100px;" alt="Jeongho"/><br /><sub><b>Jeongho</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hoyahozz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/itsChrisJang"><img src="https://avatars.githubusercontent.com/u/62946867?v=4?s=100" width="100px;" alt="JUNHWAN(Chris) JANG"/><br /><sub><b>JUNHWAN(Chris) JANG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=itsChrisJang" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://codetree.ai"><img src="https://avatars.githubusercontent.com/u/103738589?v=4?s=100" width="100px;" alt="Jaebaek(Dave) Lee"/><br /><sub><b>Jaebaek(Dave) Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jaebaek-Lee" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
