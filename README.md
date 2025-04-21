@@ -229,6 +229,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`, `AI`
   - 주최: 차세대 테크 리더십포럼
   - 접수: 04. 18(금) ~ 05. 09(금)
+- __[[AWS Korea X Codetree] 절대포기못하는 코딩 기초 챌린지](https://camp.codetree.ai/ko?utm_source=github&utm_medium=devevent&utm_campaign=ct101)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: Codetree, Powered by AWS Korea
+  - 접수: 04. 07(월) ~ 05. 11(일)
 - __[개발자를 위한 고급 프롬프트 엔지니어링](https://biz.modulabs.co.kr/event/235)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의 연구소
@@ -261,10 +265,6 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 식품의약품안전처
   - 접수: 04. 01(화) ~ 05. 30(금)
-- __[[AWS Korea X Codetree] 절대포기못하는 코딩 기초 챌린지](https://camp.codetree.ai/ko?utm_source=github&utm_medium=devevent&utm_campaign=ct101)__
-  - 분류: `온라인`, `무료`, `코딩테스트`, `챌린지`, `이벤트`
-  - 주최: Codetree, Powered by AWS Korea
-  - 접수: 04. 7(월) ~ 05. 11(일)
 
 <br />
 
