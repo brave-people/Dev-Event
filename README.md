@@ -483,6 +483,7 @@
 | KT AIVLE School | [Homepage](https://aivle.kt.co.kr/home/main/indexMain) |
 | 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
 | 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
+| 코드트리(Codetree) | [homepage](https://www.codetree.ai/ko/trail-info?utm_source=github&utm_medium=devevent) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -551,6 +552,7 @@
 | C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 | GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
+| 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
