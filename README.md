@@ -261,6 +261,10 @@
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 식품의약품안전처
   - 접수: 04. 01(화) ~ 05. 30(금)
+- __[[AWS Korea X Codetree] 절대포기못하는 코딩 기초 챌린지](https://camp.codetree.ai/ko?utm_source=github&utm_medium=devevent&utm_campaign=ct101)__
+  - 분류: `온라인`, `무료`, `코딩테스트`, `챌린지`, `이벤트`
+  - 주최: Codetree, Powered by AWS Korea
+  - 접수: 04. 7(월) ~ 05. 11(일)
 
 <br />
 
