@@ -72,35 +72,6 @@
   - 주최: B.D.A
   - 접수: 03. 08(토) ~ 04. 27(일)
 
-
-- __[World IT Show 2025 (월드IT쇼 2025)](https://www.worlditshow.co.kr/main/main.php)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 02. 10(월) ~ 04. 23(수)
-- __[[5기] K-Digital Training: 클라우드 기반 프론트엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/25072/25072-5%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 프로그래머스
-  - 접수: 03. 17(월) ~ 04. 23(수)
-- __[K-Digital Training: 클라우드 기반 백엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/25073/25073-6%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 프로그래머스
-  - 접수: 03. 17(월) ~ 04. 23(수)
-- __[2025년 2차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/320906)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 04. 09(수) ~ 04. 23(수)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/307229812/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 04. 11(금) ~ 04. 23(수)
-- __[AOAI Dev Day Korea 2025](https://aifactory.space/task/9135/overview)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 04. 14(월) ~ 04. 23(수)
-- __[2025 블록체인 밋업컨퍼런스(BCMC)](https://event-us.kr/bcmckisa/event/100409)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `블록체인`
-  - 주최: 과학기술정보통신부
-  - 접수: 03. 24(월) ~ 04. 24(목)
 - __[TypeScript 백엔드 개발자 모임](https://event-us.kr/tsbackendmeetup/event/102317)__
   - 분류: `오프라인(서울 강남)`, `유료`, `백엔드`
   - 주최: ts-backend-meetup.ts
@@ -130,9 +101,17 @@
   - 주최: 패스트캠퍼스
   - 접수: 04. 21(월) ~ 04. 27(일)
 - __[테크가 바꾸는 엔터산업 지형도](https://modulabs.co.kr/community/momos/208)__
-  - 분류: `온라인(서울 강ㅏ)`, `무료`, `기술일반`
+  - 분류: `온라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 모두의연구소
   - 접수: 04. 24(목) ~ 04. 28(월)
+- __[표준프레임워크 신규버전 v4.3 검색 기능에 활용된 AWS OpenSearch 알아보기](https://docs.google.com/forms/d/e/1FAIpQLSemCGKQ7EZpOvAVlq-VyYuF2cdGDlpQwXQNYCQgMW7mBFD8OA/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 표준프레임워크
+  - 접수: 04. 25(금) ~ 04. 28(월)
+- __[한입 런치박스 점심 세미나](https://www.youtube.com/watch?v=JhfC_QeFQ7s)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 유데미
+  - 접수: 04. 28(월) 12:00 ~ 13:00
 - __[Microsoft 무료 테크 웨비나 - Copilot Studio로 맞춤형 AI Agent 구축하기](https://event-us.kr/gknedu/event/102124)__
   - 분류: `온라인`, `무료`, `교육`, `AI`
   - 주최: 한국글로벌널리지
@@ -230,6 +209,10 @@
   - 분류: `오프라인(대구)`, `무료`, `교육`
   - 주최: 코리아IT아카데미
   - 접수: 04. 18(금) ~ 05. 15(목)
+- __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
+  - 분류: `오프라인(대구)`, `무료`, `대회`
+  - 주최: Codetree
+  - 접수: 04. 21(월) ~ 05. 16(금)
 - __[Microsoft Build 2025](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
