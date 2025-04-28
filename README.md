@@ -67,43 +67,11 @@
 <br />
 
 ## 25년 04월
-- __[B.D.Ax한국동서발전x60Hertz 연계 데이터분석 공모전](https://2025-bda-ewp-60hz-contest.webflow.io/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: B.D.A
-  - 접수: 03. 08(토) ~ 04. 27(일)
-
-- __[TypeScript 백엔드 개발자 모임](https://event-us.kr/tsbackendmeetup/event/102317)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `백엔드`
-  - 주최: ts-backend-meetup.ts
-  - 접수: 04. 10(목) ~ 04. 25(금)
-- __[GitHub Copilot Bootcamp](https://event-us.kr/cwbkr/event/101810)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `교육`
-  - 주최: CWB Korea
-  - 접수: 04. 02(수) ~ 04. 25(금)
-- __[세계 최대 보안 컨퍼런스 RSAC 2025 미리보기](https://chontv.com/event/apply/page/1114/383)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: 잇츠맨
-  - 접수: 04. 07(월) ~ 04. 25(금)
-- __[수익형 앱 런칭 동아리 CMC 17기 모집](https://linkareer.com/activity/235680)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: CMC
-  - 접수: 04. 19(토) ~ 04. 25(금)
-- __[2025 AI 트렌드 완전정복](https://event-us.kr/modu/event/102470)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 04. 23(수) ~ 04. 25(금)
-- __[모두를 위한 양자컴퓨팅 101](https://modulabs.co.kr/community/momos/169)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 모두의 연구소
-  - 접수: 04. 22(화) ~ 04. 26(토)
-- __[Kernel360 3기 : 프론트엔드 개발자 취업 세미나](https://www.allforyoung.com/posts/63720)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 패스트캠퍼스
-  - 접수: 04. 21(월) ~ 04. 27(일)
 - __[테크가 바꾸는 엔터산업 지형도](https://modulabs.co.kr/community/momos/208)__
   - 분류: `온라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 모두의연구소
   - 접수: 04. 24(목) ~ 04. 28(월)
+
 - __[표준프레임워크 신규버전 v4.3 검색 기능에 활용된 AWS OpenSearch 알아보기](https://docs.google.com/forms/d/e/1FAIpQLSemCGKQ7EZpOvAVlq-VyYuF2cdGDlpQwXQNYCQgMW7mBFD8OA/viewform)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 표준프레임워크
@@ -112,6 +80,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 유데미
   - 접수: 04. 28(월) 12:00 ~ 13:00
+- __[맞다AI가 4월 밋업: GitHub Copilot 어디까지 되는 거예요?](https://event-us.kr/matdaaiga/event/101738)__
+  - 분류: `오프라인(대구 중구)`, `무료`, `AI`
+  - 주최: 맞다AI가
+  - 접수: 04. 06(일) ~ 04. 29(화)
 - __[Microsoft 무료 테크 웨비나 - Copilot Studio로 맞춤형 AI Agent 구축하기](https://event-us.kr/gknedu/event/102124)__
   - 분류: `온라인`, `무료`, `교육`, `AI`
   - 주최: 한국글로벌널리지
@@ -128,10 +100,6 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
   - 주최: 모두의 연구소
   - 접수: 04. 03(목) ~ 04. 30(수)
-- __[부스트캠프 웹·모바일 10기 모집 알림 신청](https://form.naver.com/response/KatFZfA5lmUI7hk9Vha4eA)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 네이버 커넥트재단
-  - 접수: 02. 20(목) ~ 04. 30(수)
 - __[원티드 스터디 호스트 신청서](https://docs.google.com/forms/d/e/1FAIpQLSfTwaA6mnfGiVQOZFSvAcyjR745AN5x9aaMEtfLp0RXQHiKWg/viewform)__
   - 분류: `온라인`, `무료`, `모임`
   - 주최: 원티드
@@ -177,6 +145,10 @@
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 한국관광공사
   - 접수: 04. 03(목) ~ 05. 07(수)
+- __[실무자가 들려주는 취업 및 역량강화(이직) 세미나](http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=430&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `커리어`
+  - 주최: 코리아IT아카데미
+  - 접수: 04. 28(월) ~ 05. 08(목)
 - __[2025년 FIN:NECT 챌린지 캠페인 참가자 모집](https://eopla.net/magazines/27186)__
   - 분류: `온라인`, `무료`, `기술일반`, `대회`
   - 주최: 한국핀테크지원센터
@@ -254,6 +226,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 한국핀테크지원센터
   - 접수: 04. 23(수) ~ 06. 08(일)
+- __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 네이버 커넥트재단
+  - 접수: 05. 26(월) ~ 06. 09(월) 11:00
 
 <br />
 
