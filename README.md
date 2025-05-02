@@ -66,39 +66,6 @@
 
 <br />
 
-## 25년 04월
-- __[맞다AI가 4월 밋업: GitHub Copilot 어디까지 되는 거예요?](https://event-us.kr/matdaaiga/event/101738)__
-  - 분류: `오프라인(대구 중구)`, `무료`, `AI`
-  - 주최: 맞다AI가
-  - 접수: 04. 06(일) ~ 04. 29(화)
-
-- __[Microsoft 무료 테크 웨비나 - Copilot Studio로 맞춤형 AI Agent 구축하기](https://event-us.kr/gknedu/event/102124)__
-  - 분류: `온라인`, `무료`, `교육`, `AI`
-  - 주최: 한국글로벌널리지
-  - 접수: 04. 08(화) ~ 04. 29(화)
-- __[KT CLOUD: SUMMIT 2025](https://summit.ktcloud.com/)__
-  - 분류: `온라인`, `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: KT CLOUD
-  - 접수: 04. 15(화) ~ 04. 29(화)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307319323/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 17(목) ~ 04. 29(화)
-- __[[사전 신청] 퇴근 후 2시간으로 완성하는 AI/LLM 서비스 개발 과정](https://llm.modulabs.co.kr/)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `교육`, `AI`
-  - 주최: 모두의 연구소
-  - 접수: 04. 03(목) ~ 04. 30(수)
-- __[원티드 스터디 호스트 신청서](https://docs.google.com/forms/d/e/1FAIpQLSfTwaA6mnfGiVQOZFSvAcyjR745AN5x9aaMEtfLp0RXQHiKWg/viewform)__
-  - 분류: `온라인`, `무료`, `모임`
-  - 주최: 원티드
-  - 접수: 04. 14(월) ~ 04. 30(수)
-- __[[데브클럽] 수료생과 온라인 커피챗](https://f-lab.notion.site/1c1b4a3c45f180fd9691ce239b4f200c)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: f lab
-  - 접수: 04. 15(화) ~ 04. 30(수)
-
-<br />
-
 ## 25년 05월
 - __[AWSKRUG #AIEngineering - MCP on AWS](https://www.meetup.com/awskrug/events/307266851/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
@@ -181,10 +148,18 @@
   - 분류: `오프라인(대구)`, `무료`, `교육`
   - 주최: 코리아IT아카데미
   - 접수: 04. 18(금) ~ 05. 15(목)
+- __[2025 솔트룩스 인공지능 컨퍼런스](https://event-us.kr/saltlux/event/102089)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
+  - 주최: 솔트록스
+  - 접수: 04. 21(월) ~ 05. 15(목)
 - __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
   - 분류: `오프라인(대구)`, `무료`, `대회`
   - 주최: Codetree
   - 접수: 04. 21(월) ~ 05. 16(금)
+- __[Coding Paradigm : 바이브 코딩 2025](https://event-us.kr/hanbitn/event/103427)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `AI`
+  - 주최: 한빛+세미나
+  - 접수: 04. 29(화) ~ 05. 18(일)
 - __[Microsoft Build 2025](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
@@ -230,6 +205,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 05. 26(월) ~ 06. 09(월) 11:00
+- __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Cursor Korea
+  - 접수: 05. 02(금) ~ 06. 13(금)
 
 <br />
 
@@ -409,6 +388,7 @@
 | SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
 | ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
 | R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
+| Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 
 
 > :arrow_double_up: [Top](#지난-행사-기록)
