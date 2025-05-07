@@ -67,39 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[AWSKRUG #AIEngineering - MCP on AWS](https://www.meetup.com/awskrug/events/307266851/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 04. 16(수) ~ 05. 06(화)
-
-- __[2-4년차 백엔드를 위한 CQRS 패턴과 실시간 데이터 처리](https://www.wanted.co.kr/events/pre_challenge_be_31)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 04. 17(목) ~ 05. 06(화)
-- __[2-4년차 데이터분석가를 위한 인사이트를 전달하는 대시보드 전략](https://www.wanted.co.kr/events/pre_challenge_data_6)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 원티드
-  - 접수: 04. 17(목) ~ 05. 06(화)
-- __[2-4년차 프론트엔드를 위한 이직 챌린지](https://www.wanted.co.kr/events/pre_challenge_fe_33)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 04. 17(목) ~ 05. 06(화)
-- [프리온보딩 | 2-4년차 데이터분석가를 위한 인사이트를 전달하는 대시보드 전략](https://www.wanted.co.kr/events/pre_challenge_data_6)__
-  - 분류: `온라인`, `무료`, `데이터`
-  - 주최: 원티드
-  - 접수: 04. 16(수) ~ 05. 06(화)
-- [프리온보딩 | 2-4년차 백엔드를 위한 CQRS 패턴과 실시간 데이터 처리](https://www.wanted.co.kr/events/pre_challenge_data_6)__
-  - 분류: `온라인`, `무료`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 04. 16(수) ~ 05. 06(화)
-- [프리온보딩 |  2-4년차 프론트엔드를 위한 이직 챌린지](https://www.wanted.co.kr/events/pre_challenge_fe_33)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 04. 16(수) ~ 05. 06(화)
 - __[2025 관광데이터 활용 공모전](https://www.2025tourapi.com/)__
   - 분류: `온라인`, `무료`, `데이터`, `대회`
   - 주최: 한국관광공사
   - 접수: 04. 03(목) ~ 05. 07(수)
+
 - __[실무자가 들려주는 취업 및 역량강화(이직) 세미나](http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=430&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD)__
   - 분류: `오프라인(서울 강남)`, `무료`, `커리어`
   - 주최: 코리아IT아카데미
@@ -152,6 +124,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `교육`
   - 주최: 솔트록스
   - 접수: 04. 21(월) ~ 05. 15(목)
+- __[5-9년차 미들레벨을 위한 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_7)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 05. 07(수) ~ 05. 15(목)
 - __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
   - 분류: `오프라인(대구)`, `무료`, `대회`
   - 주최: Codetree
@@ -176,6 +152,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최:  그린라이트
   - 접수: 04. 21(월) ~ 05. 21(수)
+- __[AWS Student Community Day 2025](https://www.awscloudclubs.kr/students-community-day/2025/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 04. 29(화) ~ 05. 23(금)
 - __[Docker와 AI 에이전트: 자동화의 미래](https://docs.google.com/forms/d/e/1FAIpQLSfaUMNeAcyTyk35_bmsF9tDEuj3YF_L8Sev7VN3i0TlGoHXNg/viewform)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`, `인프라`
   - 주최: 단순소프트
