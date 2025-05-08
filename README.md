@@ -140,6 +140,10 @@
   - 분류: `오프라인(대구)`, `무료`, `대회`
   - 주최: Codetree
   - 접수: 04. 21(월) ~ 05. 16(금)
+- __[Build with AI for Everyone](https://event-us.kr/golangkorea/event/102929)__
+  - 분류: `오프라인(서울 마포구)`, `유료`, `AI`
+  - 주최: GDG Golang Korea, GDGoC Sogang
+  - 접수: 04. 21(월) ~ 05. 17(토)
 - __[Coding Paradigm : 바이브 코딩 2025](https://event-us.kr/hanbitn/event/103427)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `AI`
   - 주최: 한빛+세미나
