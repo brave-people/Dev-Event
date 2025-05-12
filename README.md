@@ -197,7 +197,7 @@
   - 주최: SPARCS, SUSC
   - 접수: 05. 05(월) ~ 05. 26(월)
 - __[Kprintf 2025 커리어 빌드업: 지금의 내가 되기까지](https://event-us.kr/gdgockonkuk/event/103357)__
-  - 분류: `오프라인(서울)`, `유료`, `모임`
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`, `커리어`
   - 주최: Google Developer Group on Campus Konkuk
   - 접수: 05. 09(금) ~ 05. 23(금)
 
@@ -222,8 +222,8 @@
   - 주최: 네이버 커넥트재단
   - 접수: 05. 26(월) ~ 06. 09(월) 11:00
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
-  - 분류: `오프라인`, `무료`, `커리어`, `기술일반`
-  - 주최: 
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Cursor Korea
   - 접수: 05. 02(금) ~ 06. 13(금)
 
 <br />
