@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[실무자가 들려주는 취업 및 역량강화(이직) 세미나](http://koreaitsecurity.co.kr/community/seminar_view.asp?seq=430&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=OLD)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `커리어`
-  - 주최: 코리아IT아카데미
-  - 접수: 04. 28(월) ~ 05. 08(목)
-  
-- __[2025년 FIN:NECT 챌린지 캠페인 참가자 모집](https://eopla.net/magazines/27186)__
-  - 분류: `온라인`, `무료`, `기술일반`, `대회`
-  - 주최: 한국핀테크지원센터
-  - 접수: 03. 10(월) ~ 05. 09(금)
-- __[제21회 차세대 테크 리더십포럼 - "반도체 패러다임의 변화, AI와 공존하는 미래"](https://event-us.kr/naekyehs/event/102286)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`, `AI`
-  - 주최: 차세대 테크 리더십포럼
-  - 접수: 04. 18(금) ~ 05. 09(금)
-- __[[AWS Korea X Codetree] 절대포기못하는 코딩 기초 챌린지](https://camp.codetree.ai/ko?utm_source=github&utm_medium=devevent&utm_campaign=ct101)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: Codetree, Powered by AWS Korea
-  - 접수: 04. 07(월) ~ 05. 11(일)
-- __[DND 해커톤 :: 퍼즐처럼 맞춰가는 1박 2일의 즐거움!](https://event-us.kr/dndacademy/event/101920)__
-  - 분류: `오프라인(서울 마포구)`, `유료`, `대회`
-  - 주최: DND
-  - 접수: 04. 23(수) ~ 05. 11(일)
 - __[스크래퍼 개발자 모임 2회](https://event-us.kr/m/102616/34245)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 04. 20(일) ~ 05. 12(월)
+
 - __[로봇 행동 제어를 위한 모방 학습](https://modulabs.co.kr/community/momos/262)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -136,6 +116,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: DT그라운드
   - 접수: 04. 22(화) ~ 05. 15(목)
+- __[5-9년차 미들레벨을 위한 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_7)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 04. 30(수) ~ 05. 15(목)
 - __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
   - 분류: `오프라인(대구)`, `무료`, `대회`
   - 주최: Codetree
@@ -168,9 +152,29 @@
   - 분류: `오프라인(서울)`, `유료`, `모임`
   - 주최: SUSC
   - 접수: 04. 19(토) ~ 05. 17(토)
+- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/307765871)__
+  - 분류: `오프라인`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 05. 12(화) ~ 05. 20(화)
+- __[ 2025 2차 <합톤(HABTHON)>](https://www.thehab.co.kr/html/center/notice.php?pmode=read&pg=1&sno=777&part=&search)__
+  - 분류: `오프라인`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 04. 22(화) ~ 05. 21(수)
+- __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
+  - 주최: AWSKRUG
+  - 접수: 05. 12(화) ~ 05. 22(목)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 12(월) ~ 05. 26(월)
 - __[Docker와 AI 에이전트: 자동화의 미래](https://docs.google.com/forms/d/e/1FAIpQLSfaUMNeAcyTyk35_bmsF9tDEuj3YF_L8Sev7VN3i0TlGoHXNg/viewform)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`, `인프라`
   - 주최: 단순소프트
+  - 접수: 04. 29(화) ~ 05. 28(수)
+- __[시스코 CISCO 보안 아카데미 3기 클래스메이트 모집](https://ciscoacademy.rapa.or.kr/ft/main.do)__
+  - 분류: `오프라인(경기 광주)`, `무료`, `인프라`, `교육`
+  - 주최: 고용노동부
   - 접수: 04. 29(화) ~ 05. 28(수)
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
@@ -201,6 +205,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 한국핀테크지원센터
   - 접수: 04. 23(수) ~ 06. 08(일)
+- __[Us:Code 해커톤 in 의성](https://script.google.com/macros/s/AKfycbzLNv3t0mTiqNuy5JpTQnqhVpeUDBRMeOgTHNko9BF_DwL6vsmYg_fJLQUG7Nes3wlS1g/exec)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: Us:Code
+  - 접수: 05. 09(금) ~ 06. 08(일)
 - __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
