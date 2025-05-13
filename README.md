@@ -229,6 +229,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 05. 26(월) ~ 06. 09(월) 11:00
+- __[K-디지털 챌린지 : 2025년 가상융합서비스 개발자 경진대회](https://www.metaversedev.kr)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 12(월) ~ 06. 12(목)
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
