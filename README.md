@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-169-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-170-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -764,6 +764,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://codetree.ai"><img src="https://avatars.githubusercontent.com/u/103738589?v=4?s=100" width="100px;" alt="Jaebaek(Dave) Lee"/><br /><sub><b>Jaebaek(Dave) Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jaebaek-Lee" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/clicelee"><img src="https://avatars.githubusercontent.com/u/131771046?v=4?s=100" width="100px;" alt="𝒄𝒍 𝒊 𝒄 𝒆"/><br /><sub><b>𝒄𝒍 𝒊 𝒄 𝒆</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=clicelee" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
