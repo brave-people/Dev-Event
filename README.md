@@ -168,6 +168,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 05. 12(화) ~ 05. 22(목)
+- __[Kprintf 2025 커리어 빌드업: 지금의 내가 되기까지](https://event-us.kr/gdgockonkuk/event/103357)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`, `커리어`
+  - 주최: Google Developer Group on Campus Konkuk
+  - 접수: 05. 09(금) ~ 05. 23(금)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -196,10 +200,6 @@
   - 분류: `오프라인(대전)`, `무료`, `모임`
   - 주최: SPARCS, SUSC
   - 접수: 05. 05(월) ~ 05. 26(월)
-- __[Kprintf 2025 커리어 빌드업: 지금의 내가 되기까지](https://event-us.kr/gdgockonkuk/event/103357)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`, `커리어`
-  - 주최: Google Developer Group on Campus Konkuk
-  - 접수: 05. 09(금) ~ 05. 23(금)
 
 <br />
 
