@@ -161,9 +161,13 @@
   - 주최: AWSKRUG
   - 접수: 05. 12(화) ~ 05. 20(화)
 - __[ 2025 2차 <합톤(HABTHON)>](https://www.thehab.co.kr/html/center/notice.php?pmode=read&pg=1&sno=777&part=&search)__
-  - 분류: `오프라인`, `유료`, `보안`
-  - 주최: AWSKRUG
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최: 춘천시 공연예술창업지원센터
   - 접수: 04. 22(화) ~ 05. 21(수)
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/307713057)__
+  - 분류: `오프라인`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 05. 13(화) ~ 05. 20(화)
 - __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
@@ -175,6 +179,10 @@
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
+  - 접수: 05. 12(월) ~ 05. 26(월)
+- __[2025 컴투스그룹 채용연계형 인턴십 GENIUS 7기](https://welcom2us.com/)__
+  - 분류: `오프라인`, `무료`, `커리어`
+  - 주최: 컴투스
   - 접수: 05. 12(월) ~ 05. 26(월)
 - __[Docker와 AI 에이전트: 자동화의 미래](https://docs.google.com/forms/d/e/1FAIpQLSfaUMNeAcyTyk35_bmsF9tDEuj3YF_L8Sev7VN3i0TlGoHXNg/viewform)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`, `인프라`
