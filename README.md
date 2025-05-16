@@ -72,34 +72,6 @@
   - 주최: 우분투한국커뮤니티
   - 접수: 04. 25(금) ~ 05. 16(금)
 
-- __[제4회 고용노동 공공데이터 활용 공모전](https://www.2025datacontest.co.kr/)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 고용노동부
-  - 접수: 03. 11(화) ~ 05. 15(목)
-- __[2025 지식재산 데이터 활용 창업 경진대회](https://plus.kipris.or.kr/portal/main/contents.do?menuNo=210180)__
-  - 분류: `온라인`, `무료`, `대회`, `데이터`
-  - 주최: 특허청
-  - 접수: 04. 18(금) ~ 05. 15(목)
-- __[2025 백엔드 개발 트렌드 핵심](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=10&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
-  - 분류: `오프라인(대구)`, `무료`, `교육`
-  - 주최: 코리아IT아카데미
-  - 접수: 04. 18(금) ~ 05. 15(목)
-- __[2025 솔트룩스 인공지능 컨퍼런스](https://event-us.kr/saltlux/event/102089)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
-  - 주최: 솔트록스
-  - 접수: 04. 21(월) ~ 05. 15(목)
-- __[5-9년차 미들레벨을 위한 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_7)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 05. 07(수) ~ 05. 15(목)
-- __[생성형 AI 활용 실무, 업무 LEVEL UP](https://event-us.kr/dtground/event/103068)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
-  - 주최: DT그라운드
-  - 접수: 04. 22(화) ~ 05. 15(목)
-- __[5-9년차 미들레벨을 위한 이직 전략 | 프리온보딩 커리어 점프](https://www.wanted.co.kr/events/pre_jump_7)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 04. 30(수) ~ 05. 15(목)
 - __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
   - 분류: `오프라인(대구)`, `무료`, `대회`
   - 주최: Codetree
@@ -208,11 +180,15 @@
 <br />
 
 ## 25년 06월
+- __[데이터야놀자 2025](https://event-us.kr/datayanolja2020/event/103874)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `데이터`
+  - 주최: 데이터야놀자
+  - 접수: 05. 13(화) ~ 06. 03(화)
+
 - __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
   - 접수: 03. 07(금) ~ 06. 08(일)
-
 - __[2025년 FIN:NECT 챌린지 참가자 모집](https://fintech.or.kr/web/board/boardContentsView.do?board_id=3&contents_id=2cce7704b5d44c9daf3e6dd5091c1349)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 한국핀테크지원센터
