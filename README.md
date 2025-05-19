@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[Ubuntu Korea Community Tea Party](https://event-us.kr/ubuntukr/event/102676)__
-  - 분류: `오프라인(서울)`, `유료`, `모임`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 04. 25(금) ~ 05. 16(금)
-
-- __[ACPC(AWS x Codetree 프로그래밍 경진대회)](https://www.codetree.ai/ko/events/acpc)__
-  - 분류: `오프라인(대구)`, `무료`, `대회`
-  - 주최: Codetree
-  - 접수: 04. 21(월) ~ 05. 16(금)
-- __[Build with AI for Everyone](https://event-us.kr/golangkorea/event/102929)__
-  - 분류: `오프라인(서울 마포구)`, `유료`, `AI`
-  - 주최: GDG Golang Korea, GDGoC Sogang
-  - 접수: 04. 21(월) ~ 05. 17(토)
-- __[Coding Paradigm : 바이브 코딩 2025](https://event-us.kr/hanbitn/event/103427)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `AI`
-  - 주최: 한빛+세미나
-  - 접수: 04. 29(화) ~ 05. 18(일)
 - __[Microsoft Build 2025](https://build.microsoft.com/en-US/home)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Microsoft
   - 접수: 02. 05(수) ~ 05. 19(월)
+
 - __[AI 시대를 살아가는 사람들의 이야기](https://event.wanted.co.kr/highfive2025)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 원티드
@@ -132,6 +116,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: GDG Seoul
   - 접수: 05. 07(수) ~ 05. 24(토)
+- __[넥슨 개발자 콘퍼런스 (NDC25)](https://ndc.nexon.com/offline)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
+  - 주최: 넥슨
+  - 접수: 05. 19(월) ~ 05. 25(일)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -201,6 +189,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
   - 접수: 05. 26(월) ~ 06. 09(월) 11:00
+- __[MSA 현실적인 해법과 전략](https://www.msap.ai/general/seminar/msap-ai-daejeon-msa-seminar/)__
+  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
+  - 주최: MSAP
+  - 접수: 05. 19(월) ~ 06. 11(수)
 - __[K-디지털 챌린지 : 2025년 가상융합서비스 개발자 경진대회](https://www.metaversedev.kr)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -209,10 +201,18 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
   - 접수: 05. 02(금) ~ 06. 13(금)
+- __[제13회 K-해커톤](http://www.k-hackathon.com/view.asp?idx=1869&boardcode=notice&go=&field=&keyword=&page=)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 02(금) ~ 06. 13(금)
 - __[제9회 디지털 헬스케어 MEDICAL HACK](https://cmit.pnuh.or.kr/cmit/medical-hack-2023.do)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
   - 접수: 05. 14(수) ~ 06. 17(화)
+- __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: CWB Korea
+  - 접수: 05. 16(금) ~ 06. 23(월)
 
 <br />
 
