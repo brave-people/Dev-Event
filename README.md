@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[Microsoft Build 2025](https://build.microsoft.com/en-US/home)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: Microsoft
-  - 접수: 02. 05(수) ~ 05. 19(월)
-
-- __[AI 시대를 살아가는 사람들의 이야기](https://event.wanted.co.kr/highfive2025)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 03. 18(화) ~ 05. 19(월)
 - __[Google I/O 2025](https://events.google.com/io/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: Google
   - 접수: 02. 11(화) ~ 05. 20(화)
+  
 - __[2025 현대오토에버 배리어프리 앱개발 콘테스트](https://www.autoeverapp.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최:  그린라이트
@@ -112,6 +104,10 @@
   - 분류: `오프라인(서울)`, `유료`, `기술일반`, `커리어`
   - 주최: Google Developer Group on Campus Konkuk
   - 접수: 05. 09(금) ~ 05. 23(금)
+- __[NVIDIA AgentIQ 해커톤](https://developer.nvidia.com/agentiq-hackathon)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 엔비디아
+  - 접수: 05. 12(월) ~ 05. 23(금)
 - __[Build with AI 2025 Seoul](https://event-us.kr/gdgseoul/event/103770)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: GDG Seoul
@@ -136,6 +132,10 @@
   - 분류: `오프라인(경기 광주)`, `무료`, `인프라`, `교육`
   - 주최: 고용노동부
   - 접수: 04. 29(화) ~ 05. 28(수)
+- __[AWSKRUG Women In Cloud - 열 두 번째 모임](https://www.meetup.com/awskrug/events/307782571/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 20(화) ~ 05. 28(수)
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -351,7 +351,8 @@
               <a href="./end_event/2025/25_01.md"> 01월 </a>,
               <a href="./end_event/2025/25_02.md"> 02월 </a>,
               <a href="./end_event/2025/25_03.md"> 03월 </a>,
-              <a href="./end_event/2025/25_04.md"> 04월 </a>
+              <a href="./end_event/2025/25_04.md"> 04월 </a>,
+              <a href="./end_event/2025/25_05.md"> 05월 </a>
             </td>
         </tr>
         <tr>
