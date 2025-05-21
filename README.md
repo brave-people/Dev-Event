@@ -67,35 +67,19 @@
 <br />
 
 ## 25년 05월
-- __[Google I/O 2025](https://events.google.com/io/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: Google
-  - 접수: 02. 11(화) ~ 05. 20(화)
-  
 - __[2025 현대오토에버 배리어프리 앱개발 콘테스트](https://www.autoeverapp.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최:  그린라이트
   - 접수: 04. 21(월) ~ 05. 21(수)
+
 - __[AWS Student Community Day 2025](https://www.awscloudclubs.kr/students-community-day/2025/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 29(화) ~ 05. 23(금)
-- __[우분투 데이: 함께 성장하는 우리, IT 네트워킹 데이](https://event-us.kr/susc/event/102468)__
-  - 분류: `오프라인(서울)`, `유료`, `모임`
-  - 주최: SUSC
-  - 접수: 04. 19(토) ~ 05. 17(토)
-- __[AWSKRUG 보안 #security 소모임](https://www.meetup.com/awskrug/events/307765871)__
-  - 분류: `오프라인`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 05. 12(화) ~ 05. 20(화)
 - __[ 2025 2차 <합톤(HABTHON)>](https://www.thehab.co.kr/html/center/notice.php?pmode=read&pg=1&sno=777&part=&search)__
   - 분류: `오프라인`, `유료`, `대회`
   - 주최: 춘천시 공연예술창업지원센터
   - 접수: 04. 22(화) ~ 05. 21(수)
-- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/307713057)__
-  - 분류: `오프라인`, `유료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 05. 13(화) ~ 05. 20(화)
 - __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
@@ -112,6 +96,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 엔비디아
   - 접수: 05. 12(월) ~ 05. 23(금)
+- __[인공지능사관학교 교육생 온라인 설명회, 2차 앵콜!](https://estbootcamp.oopy.io/aischool)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 이스트소프트
+  - 접수: 05. 21(수) ~ 05. 23(금)
 - __[Build with AI 2025 Seoul](https://event-us.kr/gdgseoul/event/103770)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: GDG Seoul
