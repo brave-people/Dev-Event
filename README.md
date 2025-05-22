@@ -209,6 +209,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
   - 접수: 05. 16(금) ~ 06. 23(월)
+- __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: TSBM - Typescript Backend Meetup
+  - 접수: 05. 19(월) ~ 06. 28(토)
 
 <br />
 
