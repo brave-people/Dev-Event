@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[2025 현대오토에버 배리어프리 앱개발 콘테스트](https://www.autoeverapp.kr/)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최:  그린라이트
-  - 접수: 04. 21(월) ~ 05. 21(수)
-
 - __[AWS Student Community Day 2025](https://www.awscloudclubs.kr/students-community-day/2025/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 29(화) ~ 05. 23(금)
-- __[ 2025 2차 <합톤(HABTHON)>](https://www.thehab.co.kr/html/center/notice.php?pmode=read&pg=1&sno=777&part=&search)__
-  - 분류: `오프라인`, `유료`, `대회`
-  - 주최: 춘천시 공연예술창업지원센터
-  - 접수: 04. 22(화) ~ 05. 21(수)
+
 - __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
@@ -128,6 +120,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 20(화) ~ 05. 28(수)
+- __[IT 사이드 프로젝트 데모데이 & 네트워킹 [스위프 웹 9기]](https://tally.so/r/nGygPZ)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 스위프
+  - 접수: 05. 22(목) ~ 05. 28(수) 20:00
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -165,6 +161,10 @@
   - 주최: 데이터야놀자
   - 접수: 05. 13(화) ~ 06. 03(화)
 
+- __[Cloud Club Conference: 클클콘](https://event-us.kr/cloudclub/event/104495)__
+  - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
+  - 주최: Cloud Club
+  - 접수: 05. 21(수) ~ 06. 04(수)
 - __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
@@ -177,6 +177,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: Us:Code
   - 접수: 05. 09(금) ~ 06. 08(일)
+- __[[성균관대 X Microsoft] 재직자를 위한 MS Azure 기반 AI모델링/데이터분석 무료교육](https://www.skkukdt.re.kr/skku_academy_2_2)__
+  - 분류: `오프라인(경기 성남))`, `무료`, `AI`
+  - 주최: 성균관대 X Microsoft
+  - 접수: 05. 22(목) ~ 06. 08(일)
 - __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
