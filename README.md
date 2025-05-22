@@ -124,6 +124,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 스위프
   - 접수: 05. 22(목) ~ 05. 28(수) 20:00
+- __[Datadog을 활용한 Frontend 성능 개선과 Business Insight 확보하기](https://www.datadoghq.com/ko/dg/webinars/uxdem-korea-2025/)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: Datadog
+  - 접수: 05. 22(목) ~ 05. 29(목)
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
