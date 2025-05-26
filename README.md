@@ -67,43 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[AWS Student Community Day 2025](https://www.awscloudclubs.kr/students-community-day/2025/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 29(화) ~ 05. 23(금)
-
-- __[AWSKRUG #데이터 소모임](https://www.meetup.com/awskrug/events/306805701/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 05. 12(화) ~ 05. 22(목)
-- __[같이 모여서 만드는 가치 있는 시간 : 가치 크루 1기 모집](https://gachi.oopy.io)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 가치
-  - 접수: 05. 18(일) ~ 05. 22(목)
-- __[Kprintf 2025 커리어 빌드업: 지금의 내가 되기까지](https://event-us.kr/gdgockonkuk/event/103357)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`, `커리어`
-  - 주최: Google Developer Group on Campus Konkuk
-  - 접수: 05. 09(금) ~ 05. 23(금)
-- __[NVIDIA AgentIQ 해커톤](https://developer.nvidia.com/agentiq-hackathon)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 엔비디아
-  - 접수: 05. 12(월) ~ 05. 23(금)
-- __[인공지능사관학교 교육생 온라인 설명회, 2차 앵콜!](https://estbootcamp.oopy.io/aischool)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 이스트소프트
-  - 접수: 05. 21(수) ~ 05. 23(금)
-- __[Build with AI 2025 Seoul](https://event-us.kr/gdgseoul/event/103770)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: GDG Seoul
-  - 접수: 05. 07(수) ~ 05. 24(토)
-- __[넥슨 개발자 콘퍼런스 (NDC25)](https://ndc.nexon.com/offline)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `기술일반`
-  - 주최: 넥슨
-  - 접수: 05. 19(월) ~ 05. 25(일)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 12(월) ~ 05. 26(월)
+
 - __[2025 컴투스그룹 채용연계형 인턴십 GENIUS 7기](https://welcom2us.com/)__
   - 분류: `오프라인`, `무료`, `커리어`
   - 주최: 컴투스
@@ -205,6 +173,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 02(금) ~ 06. 13(금)
+- __[WWDC 25](https://developer.apple.com/kr/wwdc25/)__
+  - 분류: `오프라인`, `온라인`, `무료`, `AI`
+  - 주최: CWB Korea
+  - 접수: 06. 09(월) ~ 06. 13(금)
 - __[제9회 디지털 헬스케어 MEDICAL HACK](https://cmit.pnuh.or.kr/cmit/medical-hack-2023.do)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
@@ -213,10 +185,22 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
   - 접수: 05. 16(금) ~ 06. 23(월)
+- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/308057565/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 26(월) ~ 06. 23(월)
+- __[NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: NextRise
+  - 접수: 05. 26(월) ~ 06. 25(수)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
   - 접수: 05. 19(월) ~ 06. 28(토)
+- __[2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275)__
+  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 20(화) ~ 06. 30(월)
 
 <br />
 
