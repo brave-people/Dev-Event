@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/307723887)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 12(월) ~ 05. 26(월)
-
-- __[2025 컴투스그룹 채용연계형 인턴십 GENIUS 7기](https://welcom2us.com/)__
-  - 분류: `오프라인`, `무료`, `커리어`
-  - 주최: 컴투스
-  - 접수: 05. 12(월) ~ 05. 26(월)
 - __[Docker와 AI 에이전트: 자동화의 미래](https://docs.google.com/forms/d/e/1FAIpQLSfaUMNeAcyTyk35_bmsF9tDEuj3YF_L8Sev7VN3i0TlGoHXNg/viewform)__
   - 분류: `오프라인(서울 서초)`, `무료`, `AI`, `인프라`
   - 주최: 단순소프트
   - 접수: 04. 29(화) ~ 05. 28(수)
+
 - __[시스코 CISCO 보안 아카데미 3기 클래스메이트 모집](https://ciscoacademy.rapa.or.kr/ft/main.do)__
   - 분류: `오프라인(경기 광주)`, `무료`, `인프라`, `교육`
   - 주최: 고용노동부
@@ -133,6 +125,10 @@
   - 주최: 데이터야놀자
   - 접수: 05. 13(화) ~ 06. 03(화)
 
+- __[2025 생성형 AI 활용 관광 프롬프톤](https://www.wanted.co.kr/events/knto-prompthon-2025)__
+  - 분류: `오프라인`, `온라인`, `대회`, `AI`
+  - 주최: 한국관광공사
+  - 접수: 05. 13(화) ~ 06. 04(수)
 - __[Cloud Club Conference: 클클콘](https://event-us.kr/cloudclub/event/104495)__
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: Cloud Club
@@ -165,6 +161,10 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 12(월) ~ 06. 12(목)
+- __[바이브코딩 마스터 | 실무에 진짜 통하는 AI 활용력 | 프리온보딩](https://www.wanted.co.kr/events/pre_ax_skillup_01)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 원티드
+  - 접수: 05. 22(목) ~ 06. 12(목)
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
