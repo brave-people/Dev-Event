@@ -112,10 +112,10 @@
   - 분류: `온라인`, `유료`, `기술일반`
   - 주최: 파이썬 한국 사용자 모임
   - 접수: 05. 03(토) ~ 05. 30(금)
-- __[캠퍼스 브릿지 대전](https://event-us.kr/susc/event/103725)__
-  - 분류: `오프라인(대전)`, `무료`, `모임`
-  - 주최: SPARCS, SUSC
-  - 접수: 05. 05(월) ~ 05. 26(월)
+- __[제 2회 소셜임팩트 해커톤 (2nd Social Impact Hackathon)](https://event-us.kr/next42/event/103997)__
+  - 분류: `온라인`, `유료`, `대회`
+  - 주최: NEXT 42
+  - 접수: 05. 09(금) ~ 05. 31(토)
 
 <br />
 
@@ -177,6 +177,14 @@
   - 분류: `오프라인`, `온라인`, `무료`, `AI`
   - 주최: CWB Korea
   - 접수: 06. 09(월) ~ 06. 13(금)
+- __[구글 스터디 잼 X 잇츠 스터디 - 리더 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 구글
+  - 접수: 05. 26(월) ~ 06. 15(일)
+- __[WERT TECH Summit 25](https://event-us.kr/wertintelligecne/event/100706)__
+  - 분류: `오프라인`, `온라인`, `무료`, `AI`
+  - 주최: 워트인텔리전스
+  - 접수: 04. 25(금) ~ 06. 16(월)
 - __[제9회 디지털 헬스케어 MEDICAL HACK](https://cmit.pnuh.or.kr/cmit/medical-hack-2023.do)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
@@ -209,6 +217,11 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최 : QA Korea
   - 신청 : 05. 12(월) ~ 07. 04(금)
+
+- __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 구글
+  - 접수: 07. 07(월) ~ 07. 21(월)
 
 <br />
 
