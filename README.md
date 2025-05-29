@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[Docker와 AI 에이전트: 자동화의 미래](https://docs.google.com/forms/d/e/1FAIpQLSfaUMNeAcyTyk35_bmsF9tDEuj3YF_L8Sev7VN3i0TlGoHXNg/viewform)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `AI`, `인프라`
-  - 주최: 단순소프트
-  - 접수: 04. 29(화) ~ 05. 28(수)
-
-- __[시스코 CISCO 보안 아카데미 3기 클래스메이트 모집](https://ciscoacademy.rapa.or.kr/ft/main.do)__
-  - 분류: `오프라인(경기 광주)`, `무료`, `인프라`, `교육`
-  - 주최: 고용노동부
-  - 접수: 04. 29(화) ~ 05. 28(수)
-- __[AWSKRUG Women In Cloud - 열 두 번째 모임](https://www.meetup.com/awskrug/events/307782571/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 20(화) ~ 05. 28(수)
-- __[IT 사이드 프로젝트 데모데이 & 네트워킹 [스위프 웹 9기]](https://tally.so/r/nGygPZ)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 스위프
-  - 접수: 05. 22(목) ~ 05. 28(수) 20:00
 - __[Datadog을 활용한 Frontend 성능 개선과 Business Insight 확보하기](https://www.datadoghq.com/ko/dg/webinars/uxdem-korea-2025/)__
   - 분류: `온라인`, `무료`, `프론트엔드`
   - 주최: Datadog
   - 접수: 05. 22(목) ~ 05. 29(목)
+
 - __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -133,6 +117,10 @@
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: Cloud Club
   - 접수: 05. 21(수) ~ 06. 04(수)
+- __[제23회 임베디드SW경진대회 참여자 모집](https://www.eswcontest.or.kr/main.php)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 산업통상지원부
+  - 접수: 05. 29(목) ~ 06. 04(수)
 - __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
@@ -165,6 +153,10 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 원티드
   - 접수: 05. 22(목) ~ 06. 12(목)
+- __[JavaScript 웹 리포팅 개발의 모든 것! [프론트엔드 리포팅 JS 라이브러리]](https://event-us.kr/mescius/event/103130)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
+  - 주최: 메시어스 코리아
+  - 접수: 05. 29(목) ~ 06. 12(목)
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
@@ -189,6 +181,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
   - 접수: 05. 14(수) ~ 06. 17(화)
+- __[25년도 오픈소스 컨트리뷰션 아카데미 멘티(참여형) 모집](https://www.contribution.ac/)__
+  - 분류: `온라인`, `오프라인`, `무료`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 29(목) ~ 06. 22(일)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
@@ -201,6 +197,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: NextRise
   - 접수: 05. 26(월) ~ 06. 25(수)
+- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 일시: 06. 24(수) ~ 06. 26(목)
+- __[CHANNEL DEVTALK](https://devtalk.channel.io/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 채널코퍼레이션
+  - 일시: 05. 29(목) ~ 06. 25(수)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
@@ -233,11 +237,27 @@
 
 <br />
 
+## 25년 09월
+- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 일시: 09. 23(화) ~ 09. 25(목)
+
+<br />
+
 ## 25년 10월
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
   - 일시: 03. 24(월) ~ 10. 31(금)
+
+<br />
+
+## 25년 11월
+- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 일시: 11. 25(화) ~ 11. 27(목)
 
 <br />
 
