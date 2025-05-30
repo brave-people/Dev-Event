@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 05월
-- __[Datadog을 활용한 Frontend 성능 개선과 Business Insight 확보하기](https://www.datadoghq.com/ko/dg/webinars/uxdem-korea-2025/)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: Datadog
-  - 접수: 05. 22(목) ~ 05. 29(목)
-
-- __[AWSKRUG IoT #iot 소모임](https://www.meetup.com/awskrug/events/307123672/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 05. 08(목) ~ 05. 29(목)
-- __[2025년 2차 개방형 클라우드 플랫폼 테크 엣지](https://onoffmix.com/event/320906)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 05. 14(수) ~ 04. 23(수)
 - __[2025년 식의약 공공데이터 분석 활용경진대회](https://data.mfds.go.kr/)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최: 식품의약품안전처
   - 접수: 04. 01(화) ~ 05. 30(금)
+
 - __[기업 성공 확률 예측 해커톤: 미래의 성공기업을 발굴하라!](https://dacon.io/competitions/official/236475/overview/description)__
   - 분류: `온라인`, `무료`, `대회`, `데이터`
   - 주최: DACON
@@ -121,6 +109,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 산업통상지원부
   - 접수: 05. 29(목) ~ 06. 04(수)
+- __[SSAFYnale 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSfIdi_cXQcuwNVaNTmYIgOVAXKr98VIWURPSClSELS5lX7QzA/viewform)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
+  - 주최: SSAFY
+  - 접수: 05. 06(화) ~ 06. 04(수)
 - __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
@@ -189,6 +181,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
   - 접수: 05. 16(금) ~ 06. 23(월)
+- __[Microsoft Build 2025 Recap : AX Tech 인사이트](https://thefutureinside.lgcns.com/CNSEvent/Detail/214)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: LG CNS
+  - 접수: 05. 19(월) ~ 06. 23(월)
 - __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/308057565/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -205,6 +201,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 채널코퍼레이션
   - 일시: 05. 29(목) ~ 06. 25(수)
+- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/308058088/)__
+  - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 05. 30(금) ~ 06. 16(월)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
