@@ -67,15 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[데이터야놀자 2025](https://event-us.kr/datayanolja2020/event/103874)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `데이터`
-  - 주최: 데이터야놀자
-  - 접수: 05. 13(화) ~ 06. 03(화)
-
 - __[2025 생성형 AI 활용 관광 프롬프톤](https://www.wanted.co.kr/events/knto-prompthon-2025)__
   - 분류: `오프라인`, `온라인`, `대회`, `AI`
   - 주최: 한국관광공사
   - 접수: 05. 13(화) ~ 06. 04(수)
+
 - __[Cloud Club Conference: 클클콘](https://event-us.kr/cloudclub/event/104495)__
   - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
   - 주최: Cloud Club
@@ -108,6 +104,10 @@
   - 분류: `오프라인(경기 성남))`, `무료`, `AI`
   - 주최: 성균관대 X Microsoft
   - 접수: 05. 22(목) ~ 06. 08(일)
+- __[async let Swift: WWDC25 Watch Party](https://event-us.kr/asyncswift/event/104230)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
+  - 주최: AsyncSwift
+  - 접수: 05. 1(월) ~ 06. 09(월)
 - __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
@@ -120,6 +120,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 노션
   - 접수: 06. 02(월) ~ 06. 11(수)
+- __[생성형 AI를 활용한 “똑똑한” 취업 준비 특강](https://likelion.notion.site/AI-1ff44860a4f4802094d6fd1474322307)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 06. 04(수) ~ 06. 11(수)
 - __[K-디지털 챌린지 : 2025년 가상융합서비스 개발자 경진대회](https://www.metaversedev.kr)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -217,6 +221,11 @@
 <br />
 
 ## 25년 08월
+- __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
+  - 분류: `오프라인(동국대)`, `무료`, `기술일반`
+  - 주최: KOREA IT ACADEMY
+  - 일시: 06. 04(수) ~ 08. 09(일)
+
 - __[PyCon Korea 2025](https://2025.pycon.kr/)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: 파이콘
