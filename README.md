@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[2025 생성형 AI 활용 관광 프롬프톤](https://www.wanted.co.kr/events/knto-prompthon-2025)__
-  - 분류: `오프라인`, `온라인`, `대회`, `AI`
-  - 주최: 한국관광공사
-  - 접수: 05. 13(화) ~ 06. 04(수)
-
-- __[Cloud Club Conference: 클클콘](https://event-us.kr/cloudclub/event/104495)__
-  - 분류: `오프라인(서울 용산)`, `유료`, `클라우드`
-  - 주최: Cloud Club
-  - 접수: 05. 21(수) ~ 06. 04(수)
-- __[제23회 임베디드SW경진대회 참여자 모집](https://www.eswcontest.or.kr/main.php)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 산업통상지원부
-  - 접수: 05. 29(목) ~ 06. 04(수)
-- __[SSAFYnale 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSfIdi_cXQcuwNVaNTmYIgOVAXKr98VIWURPSClSELS5lX7QzA/viewform)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
-  - 주최: SSAFY
-  - 접수: 05. 06(화) ~ 06. 04(수)
 - __[Tech, Talk, Together: 기술과 함께 자라는 우리](https://event-us.kr/iinwe/event/104971)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 아이인위
   - 접수: 05. 25(일) ~ 06. 06(금)
+
 - __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: Google
@@ -168,6 +152,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 05. 29(목) ~ 06. 22(일)
+- __[TECH FOR IMPACT LAB 2기 모집](https://techforimpact.io/lab/recruitment)__
+  - 분류: `온라인`, `오프라인`, `무료`, `모임`
+  - 주최: 카카오 Impact
+  - 접수: 06. 04(수) ~ 06. 22(일)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
