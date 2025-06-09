@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[Tech, Talk, Together: 기술과 함께 자라는 우리](https://event-us.kr/iinwe/event/104971)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 아이인위
-  - 접수: 05. 25(일) ~ 06. 06(금)
-
-- __[구글 클라우드 AI 스터디잼5](https://sites.google.com/view/2025-study-jams/h1-ai-study-jam)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: Google
-  - 접수: 03. 07(금) ~ 06. 08(일)
-- __[2025년 FIN:NECT 챌린지 참가자 모집](https://fintech.or.kr/web/board/boardContentsView.do?board_id=3&contents_id=2cce7704b5d44c9daf3e6dd5091c1349)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 한국핀테크지원센터
-  - 접수: 04. 23(수) ~ 06. 08(일)
-- __[Us:Code 해커톤 in 의성](https://script.google.com/macros/s/AKfycbzLNv3t0mTiqNuy5JpTQnqhVpeUDBRMeOgTHNko9BF_DwL6vsmYg_fJLQUG7Nes3wlS1g/exec)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: Us:Code
-  - 접수: 05. 09(금) ~ 06. 08(일)
-- __[[성균관대 X Microsoft] 재직자를 위한 MS Azure 기반 AI모델링/데이터분석 무료교육](https://www.skkukdt.re.kr/skku_academy_2_2)__
-  - 분류: `오프라인(경기 성남))`, `무료`, `AI`
-  - 주최: 성균관대 X Microsoft
-  - 접수: 05. 22(목) ~ 06. 08(일)
 - __[async let Swift: WWDC25 Watch Party](https://event-us.kr/asyncswift/event/104230)__
   - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
   - 주최: AsyncSwift
   - 접수: 05. 1(월) ~ 06. 09(월)
+
 - __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 네이버 커넥트재단
@@ -120,6 +100,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
   - 주최: 메시어스 코리아
   - 접수: 05. 29(목) ~ 06. 12(목)
+- __[MOLOCON 25](https://events.moloco.com/moloconseoul25)__
+  - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
+  - 주최: 몰로코
+  - 접수: 06. 09(월) ~ 06. 12(목)
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
@@ -136,6 +120,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 접수: 05. 26(월) ~ 06. 15(일)
+- __[스프링캠프 2025](https://www.inflearn.com/course/offline/%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%84-2025#program)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `벡엔드`
+  - 주최: 스프링캠프
+  - 접수: 06. 09(월) ~ 06. 15(일)
 - __[WERT TECH Summit 25](https://event-us.kr/wertintelligecne/event/100706)__
   - 분류: `오프라인`, `온라인`, `무료`, `AI`
   - 주최: 워트인텔리전스
@@ -144,6 +132,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
   - 접수: 05. 14(수) ~ 06. 17(화)
+- __[[무료] 5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_2)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 06. 09(월) ~ 06. 19(목)
 - __[세미나: 실패 없는 MSA, 성공으로 가는 실전 전략](https://www.msap.ai/general/notice/msa-strategy/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `벡엔드`
   - 주최: 엠에스에이피닷에이아이
@@ -205,6 +197,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 접수: 07. 07(월) ~ 07. 21(월)
+- __[2025년 충청권 사이버보안 경진대회 참가자 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
+  - 분류: `온라인`, `오프라인`, `무료`, `보안`
+  - 주최: 한국보건산업진흥원
+  - 접수: 06. 09(월) ~ 07. 23(수)
 
 <br />
 
