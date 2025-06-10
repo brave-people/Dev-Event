@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-172-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-173-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -757,6 +757,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/clicelee"><img src="https://avatars.githubusercontent.com/u/131771046?v=4?s=100" width="100px;" alt="𝒄𝒍 𝒊 𝒄 𝒆"/><br /><sub><b>𝒄𝒍 𝒊 𝒄 𝒆</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=clicelee" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ubinquitous"><img src="https://avatars.githubusercontent.com/u/102154880?v=4?s=100" width="100px;" alt="우빈"/><br /><sub><b>우빈</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Ubinquitous" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/8471919"><img src="https://avatars.githubusercontent.com/u/27190776?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=8471919" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kimdonggu42"><img src="https://avatars.githubusercontent.com/u/115632555?v=4?s=100" width="100px;" alt="김동구 Donggu Kim"/><br /><sub><b>김동구 Donggu Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimdonggu42" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
