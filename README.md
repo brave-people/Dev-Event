@@ -184,6 +184,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 05. 20(화) ~ 06. 30(월)
+- [구름톤 14기 모집](https://9oormthon.goorm.io/?utm_source=community&utm_medium=dev_event_github&utm_campaign=goormthon&utm_content=viral&utm_term=6th)
+  - 분류: `오프라인`, `해커톤`
+  - 주최: 구름
+  - 접수: 06. 09(월) ~ 06. 22(일)
 
 <br />
 
