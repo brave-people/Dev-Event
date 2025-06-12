@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-173-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-174-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -152,6 +152,10 @@
   - 분류: `오프라인`, `해커톤`
   - 주최: 구름
   - 접수: 06. 09(월) ~ 06. 22(일)
+- __[사이드 프로젝트 동아리 DND 13기 모집](https://dnd.ac/)__
+  - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `iOS`, `무료`
+  - 주최: DND
+  - 접수: 06. 12(목) ~ 06. 22(일)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
@@ -210,7 +214,6 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 접수: 07. 07(월) ~ 07. 21(월)
-
 - __[2025년 충청권 사이버보안 경진대회 참가자 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
   - 분류: `온라인`, `오프라인`, `무료`, `보안`
   - 주최: 한국보건산업진흥원
@@ -777,6 +780,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ubinquitous"><img src="https://avatars.githubusercontent.com/u/102154880?v=4?s=100" width="100px;" alt="우빈"/><br /><sub><b>우빈</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Ubinquitous" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/8471919"><img src="https://avatars.githubusercontent.com/u/27190776?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=8471919" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kimdonggu42"><img src="https://avatars.githubusercontent.com/u/115632555?v=4?s=100" width="100px;" alt="김동구 Donggu Kim"/><br /><sub><b>김동구 Donggu Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimdonggu42" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tteokbokki-master"><img src="https://avatars.githubusercontent.com/u/129606040?v=4?s=100" width="100px;" alt="LEE YONGJIN"/><br /><sub><b>LEE YONGJIN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tteokbokki-master" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
