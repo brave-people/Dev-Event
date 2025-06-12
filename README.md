@@ -200,11 +200,15 @@
 <br />
 
 ## 25년 07월
+- __[써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371)__
+  - 분류: `오프라인(서울)`, `무료`, `기술일반`
+  - 주최 : SUSC
+  - 접수: 05. 31(토) ~ 07. 03(목)
+
 - __[QA Korea Conference](https://www.qa-korea.com/qaconference2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최 : QA Korea
   - 신청 : 05. 12(월) ~ 07. 04(금)
-
 - __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
@@ -217,11 +221,15 @@
 <br />
 
 ## 25년 08월
+- __[UbuCon Korea 2025](https://event-us.kr/ubuntukr/event/101263)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 04. 01(화) ~ 08. 08(금)
+
 - __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: KOREA IT ACADEMY
   - 일시: 06. 04(수) ~ 08. 09(일)
-
 - __[PyCon Korea 2025](https://2025.pycon.kr/)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: 파이콘
