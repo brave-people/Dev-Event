@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[async let Swift: WWDC25 Watch Party](https://event-us.kr/asyncswift/event/104230)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `iOS`
-  - 주최: AsyncSwift
-  - 접수: 05. 1(월) ~ 06. 09(월)
-
-- __[부스트캠프 웹·모바일 10기](https://boostcamp.connect.or.kr/main_wm.html)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 네이버 커넥트재단
-  - 접수: 05. 26(월) ~ 06. 09(월) 11:00
-- __[MSA 현실적인 해법과 전략](https://www.msap.ai/general/seminar/msap-ai-daejeon-msa-seminar/)__
-  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
-  - 주최: MSAP
-  - 접수: 05. 19(월) ~ 06. 11(수)
-- __[Notion AI for Work 웨비나](https://info.notion.so/webinar/webinars-apac/introducing-notion-ai-for-work-kr)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 노션
-  - 접수: 06. 02(월) ~ 06. 11(수)
-- __[생성형 AI를 활용한 “똑똑한” 취업 준비 특강](https://likelion.notion.site/AI-1ff44860a4f4802094d6fd1474322307)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 06. 04(수) ~ 06. 11(수)
 - __[K-디지털 챌린지 : 2025년 가상융합서비스 개발자 경진대회](https://www.metaversedev.kr)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 05. 12(월) ~ 06. 12(목)
+
 - __[바이브코딩 마스터 | 실무에 진짜 통하는 AI 활용력 | 프리온보딩](https://www.wanted.co.kr/events/pre_ax_skillup_01)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 원티드
@@ -136,6 +116,10 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 06. 09(월) ~ 06. 19(목)
+- __[랭체인코리아 밋업 2025Q2](https://aifactory.space/task/9161/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 랭체인 코리아
+  - 접수: 06. 12(목) ~ 06. 19(목)
 - __[세미나: 실패 없는 MSA, 성공으로 가는 실전 전략](https://www.msap.ai/general/notice/msa-strategy/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `벡엔드`
   - 주최: 엠에스에이피닷에이아이
@@ -156,6 +140,10 @@
   - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `iOS`, `무료`
   - 주최: DND
   - 접수: 06. 12(목) ~ 06. 22(일)
+- __[사이드sLLM 파인 튜닝 현업 적용부터 Reasoning LLM 트렌드까지](https://fastcampus.co.kr/sem_mat_06)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 06. 12(목) ~ 06. 22(일)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
@@ -172,6 +160,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: NextRise
   - 접수: 05. 26(월) ~ 06. 25(수)
+- __[2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950)__
+  - 분류: `온라인`, `무료`, `교육`, `클라우드`
+  - 주최: 개방형 클라우드 플랫폼 센터
+  - 접수: 06.12(목) ~ 06. 26(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
