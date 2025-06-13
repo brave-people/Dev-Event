@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[K-디지털 챌린지 : 2025년 가상융합서비스 개발자 경진대회](https://www.metaversedev.kr)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 12(월) ~ 06. 12(목)
-
-- __[바이브코딩 마스터 | 실무에 진짜 통하는 AI 활용력 | 프리온보딩](https://www.wanted.co.kr/events/pre_ax_skillup_01)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: 원티드
-  - 접수: 05. 22(목) ~ 06. 12(목)
-- __[JavaScript 웹 리포팅 개발의 모든 것! [프론트엔드 리포팅 JS 라이브러리]](https://event-us.kr/mescius/event/103130)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `프론트엔드`
-  - 주최: 메시어스 코리아
-  - 접수: 05. 29(목) ~ 06. 12(목)
-- __[MOLOCON 25](https://events.moloco.com/moloconseoul25)__
-  - 분류: `오프라인(서울 광진구)`, `무료`, `기술일반`
-  - 주최: 몰로코
-  - 접수: 06. 09(월) ~ 06. 12(목)
 - __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Cursor Korea
   - 접수: 05. 02(금) ~ 06. 13(금)
+
 - __[제13회 K-해커톤](http://www.k-hackathon.com/view.asp?idx=1869&boardcode=notice&go=&field=&keyword=&page=)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -120,6 +104,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 랭체인 코리아
   - 접수: 06. 12(목) ~ 06. 19(목)
+- __[함께 성장하는 온라인 IT 컨퍼런스: CampCON](https://kernel.fastcampus.co.kr/campcon)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 패스트캠퍼스
+  - 접수: 06. 12(목) ~ 06. 18(수)
 - __[세미나: 실패 없는 MSA, 성공으로 가는 실전 전략](https://www.msap.ai/general/notice/msa-strategy/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `벡엔드`
   - 주최: 엠에스에이피닷에이아이
@@ -144,6 +132,10 @@
   - 분류: `오프라인(경기 판교)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 06. 12(목) ~ 06. 22(일)
+- __[부스트캠프 AI Tech X 코칭스터디](https://blog.naver.com/boostcamp_official/223888054950)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 부스트캠프
+  - 접수: 06. 12(목) ~ 06. 22(일)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
@@ -156,6 +148,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 26(월) ~ 06. 23(월)
+- __[실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것](https://fastcampus.co.kr/devcon_dday2506)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 06. 13(금) ~ 06. 24(화)
 - __[NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: NextRise
