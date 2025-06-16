@@ -184,6 +184,14 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 05. 20(화) ~ 06. 30(월)
+- __[AUSG BIGCHAT: AWSKRUG 대학생 모임 #AUSG 퍼블릭 빅챗](https://www.meetup.com/awskrug/events/308459192/)__
+  - 분류: `오프라인`, `클라우드`, `대학생`
+  - 주최: AUSG(AWSKRUG University Student Group)
+  - 접수: 06. 13(금) ~ 06. 22(월)
+- __[AUSG 9기 신규 부원 모집](https://ausg.me/apply)__
+  - 분류: `동아리`
+  - 주최: AUSG(AWSKRUG University Student Group)
+  - 접수: 06. 13(금) ~ 06. 30(월)
 
 <br />
 
