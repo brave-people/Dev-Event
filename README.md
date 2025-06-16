@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[Cursor Meetup Seoul 2025](https://www.cursorkorea.org/events/post/2025-keoseo-gongsig-opeurain-miseob-4ARSxBdBSBTjacl)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Cursor Korea
-  - 접수: 05. 02(금) ~ 06. 13(금)
-
-- __[제13회 K-해커톤](http://www.k-hackathon.com/view.asp?idx=1869&boardcode=notice&go=&field=&keyword=&page=)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 02(금) ~ 06. 13(금)
-- __[WWDC 25](https://developer.apple.com/kr/wwdc25/)__
-  - 분류: `오프라인`, `온라인`, `무료`, `AI`
-  - 주최: CWB Korea
-  - 접수: 06. 09(월) ~ 06. 13(금)
-- __[구글 스터디 잼 X 잇츠 스터디 - 리더 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글
-  - 접수: 05. 26(월) ~ 06. 15(일)
-- __[스프링캠프 2025](https://www.inflearn.com/course/offline/%EC%8A%A4%ED%94%84%EB%A7%81%EC%BA%A0%ED%94%84-2025#program)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `벡엔드`
-  - 주최: 스프링캠프
-  - 접수: 06. 09(월) ~ 06. 15(일)
-- __[WERT TECH Summit 25](https://event-us.kr/wertintelligecne/event/100706)__
-  - 분류: `오프라인`, `온라인`, `무료`, `AI`
-  - 주최: 워트인텔리전스
-  - 접수: 04. 25(금) ~ 06. 16(월)
 - __[제9회 디지털 헬스케어 MEDICAL HACK](https://cmit.pnuh.or.kr/cmit/medical-hack-2023.do)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 부산광역시
   - 접수: 05. 14(수) ~ 06. 17(화)
+
 - __[[무료] 5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_2)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
@@ -112,6 +88,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `벡엔드`
   - 주최: 엠에스에이피닷에이아이
   - 접수: 06. 02(월) ~ 06. 20(금)
+- __[[I in We x Microsoft] Tech Beyond Boundaries: 개발자 리더십의 비밀](https://event-us.kr/iinwe/event/106207)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 아이인위(I in We)
+  - 접수: 06. 12(목) ~ 06. 20(금)
 - __[25년도 오픈소스 컨트리뷰션 아카데미 멘티(참여형) 모집](https://www.contribution.ac/)__
   - 분류: `온라인`, `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -172,13 +152,13 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 티디지(TDG)
   - 일시: 06. 09(월) ~ 06. 26(목)
-- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/308058088/)__
-  - 분류: `오프라인(서울 마곡)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 05. 30(금) ~ 06. 16(월)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
+  - 접수: 05. 19(월) ~ 06. 28(토)
+- __[원티드 Career Gathering](https://www.instagram.com/official.bdaa/p/DK1j16shlnR)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: BDA
   - 접수: 05. 19(월) ~ 06. 28(토)
 - __[2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
