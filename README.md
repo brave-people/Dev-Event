@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-174-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-175-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -755,6 +755,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/8471919"><img src="https://avatars.githubusercontent.com/u/27190776?v=4?s=100" width="100px;" alt="Michael"/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=8471919" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kimdonggu42"><img src="https://avatars.githubusercontent.com/u/115632555?v=4?s=100" width="100px;" alt="김동구 Donggu Kim"/><br /><sub><b>김동구 Donggu Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kimdonggu42" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tteokbokki-master"><img src="https://avatars.githubusercontent.com/u/129606040?v=4?s=100" width="100px;" alt="LEE YONGJIN"/><br /><sub><b>LEE YONGJIN</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tteokbokki-master" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cowboysj"><img src="https://avatars.githubusercontent.com/u/108571492?v=4?s=100" width="100px;" alt="Sujin Kim"/><br /><sub><b>Sujin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=cowboysj" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
