@@ -67,15 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[제9회 디지털 헬스케어 MEDICAL HACK](https://cmit.pnuh.or.kr/cmit/medical-hack-2023.do)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 부산광역시
-  - 접수: 05. 14(수) ~ 06. 17(화)
-
 - __[[무료] 5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_2)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 06. 09(월) ~ 06. 19(목)
+
 - __[랭체인코리아 밋업 2025Q2](https://aifactory.space/task/9161/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 랭체인 코리아
@@ -144,6 +140,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 06. 17(화) ~ 06. 24(화)
+- __[신한 스퀘어브릿지 청년 해커톤](https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `대회`
+  - 주최: 신한 스퀘어브릿지
+  - 접수: 06. 11(수) ~ 06. 24(화)
 - __[NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: NextRise
@@ -152,6 +152,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 06. 17(화) ~ 06. 25(수)
+- __[AWSKRUG 아키텍처 #architecture 52번째 소모임](https://www.meetup.com/awskrug/events/308279003)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 19(목) ~ 06. 25(수)
+- __[AWSKRUG 아키텍처 #Security 소모임](https://www.meetup.com/awskrug/events/308369358)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 06. 19(목) ~ 06. 25(수)
 - __[2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950)__
   - 분류: `온라인`, `무료`, `교육`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
@@ -168,6 +176,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 티디지(TDG)
   - 일시: 06. 09(월) ~ 06. 26(목)
+- __[개발자를 위한 노코드 활용 세미나](https://event-us.kr/mescius/event/105350)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `AI`
+  - 주최: 메시어스 코리아
+  - 일시: 05. 30(금) ~ 06. 26(목)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
@@ -197,6 +209,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최 : QA Korea
   - 신청 : 05. 12(월) ~ 07. 04(금)
+- __[WWDC25의 중대 발표 내용 알아보기](https://developer.apple.com/events/view/TCSPG9PN8Y/dashboard)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최 : APPLE
+  - 신청 : 06. 19(목) ~ 07. 11(금)
 - __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
