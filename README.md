@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[[무료] 5~9년차 대상 | 1일 만에 끝내는 이직 성공 프로젝트 | 프리온보딩](https://www.wanted.co.kr/events/pre_jump_oneday_2)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 06. 09(월) ~ 06. 19(목)
-
-- __[랭체인코리아 밋업 2025Q2](https://aifactory.space/task/9161/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 랭체인 코리아
-  - 접수: 06. 12(목) ~ 06. 19(목)
-- __[함께 성장하는 온라인 IT 컨퍼런스: CampCON](https://kernel.fastcampus.co.kr/campcon)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 패스트캠퍼스
-  - 접수: 06. 12(목) ~ 06. 18(수)
-- __[세미나: 실패 없는 MSA, 성공으로 가는 실전 전략](https://www.msap.ai/general/notice/msa-strategy/)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `벡엔드`
-  - 주최: 엠에스에이피닷에이아이
-  - 접수: 06. 02(월) ~ 06. 20(금)
-- __[[I in We x Microsoft] Tech Beyond Boundaries: 개발자 리더십의 비밀](https://event-us.kr/iinwe/event/106207)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 아이인위(I in We)
-  - 접수: 06. 12(목) ~ 06. 20(금)
-- __[나의 일을 커리어로 연결하는 법](https://tech.goorm.io/2506_commit/)__
-  - 분류: `오프라인(경기 성남)`, `온라인`, `무료`, `커리어`
-  - 주최: 구름
-  - 접수: 06. 17(화) ~ 06. 20(금) 17:00
 - __[25년도 오픈소스 컨트리뷰션 아카데미 멘티(참여형) 모집](https://www.contribution.ac/)__
   - 분류: `온라인`, `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 05. 29(목) ~ 06. 22(일)
+
 - __[TECH FOR IMPACT LAB 2기 모집](https://techforimpact.io/lab/recruitment)__
   - 분류: `온라인`, `오프라인`, `무료`, `모임`
   - 주최: 카카오 Impact
@@ -120,6 +96,10 @@
   - 분류: `오프라인`, `클라우드`, `대학생`
   - 주최: AUSG
   - 접수: 06. 13(금) ~ 06. 22(월)
+- __[스위프 웹 10기: IT 직군 취업과 커리어 성장을 위한 사이드 프로젝트](https://teamswyg.notion.site/SWYP-bd5c38bcd9d648f98025b50a88720719?pvs=4)__
+  - 분류: `오프라인`, `유료`, `모임`
+  - 주최: 스위프
+  - 접수: 06. 20(금) ~ 06. 22(월)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
@@ -180,6 +160,14 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `AI`
   - 주최: 메시어스 코리아
   - 일시: 05. 30(금) ~ 06. 26(목)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/308103986/)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 06. 20(금) ~ 06. 26(금)
+- __[AWSKRUG 성수 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 06. 20(금) ~ 06. 26(금)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
