@@ -179,12 +179,16 @@
   - 접수: 06. 23(월) ~ 07. 03(목)
 - __[QA Korea Conference](https://www.qa-korea.com/qaconference2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: QA Korea
-  - 접수: 05. 12(월) ~ 07. 04(금)
+  - 주최 : QA Korea
+  - 신청 : 05. 12(월) ~ 07. 04(금)
 - __[2025 IT’s Busan Day, 부산 IT 실무자 & 커리어 탐색자 모두를 위한 커뮤니티 데이](https://onoffmix.com/event/325649)__
   - 분류: `오프라인(부산 해운대)`, `유료`, `기술일반`
   - 주최: 엘리스랩
   - 접수: 06. 23(월) ~ 07. 04(금)
+- __[2025 여름방학, 대학생 개발 스터디원 모집합니다](https://event-us.kr/susc/event/106768)__
+   - 분류: `온라인`, `무료`, `기술일반`
+   - 주최: SUSC
+   - 접수: 06. 21(토) ~ 07. 06(일)
 - __[WWDC25의 중대 발표 내용 알아보기](https://developer.apple.com/events/view/TCSPG9PN8Y/dashboard)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
