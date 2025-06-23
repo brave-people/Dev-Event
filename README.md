@@ -67,43 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[25년도 오픈소스 컨트리뷰션 아카데미 멘티(참여형) 모집](https://www.contribution.ac/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 29(목) ~ 06. 22(일)
-
-- __[TECH FOR IMPACT LAB 2기 모집](https://techforimpact.io/lab/recruitment)__
-  - 분류: `온라인`, `오프라인`, `무료`, `모임`
-  - 주최: 카카오 Impact
-  - 접수: 06. 04(수) ~ 06. 22(일)
-- __[구름톤 in JEJU 14기 모집](https://9oormthon.goorm.io)__
-  - 분류: `오프라인`, `해커톤`
-  - 주최: 구름
-  - 접수: 06. 09(월) ~ 06. 22(일)
-- __[사이드 프로젝트 동아리 DND 13기 모집](https://dnd.ac/)__
-  - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `iOS`, `무료`
-  - 주최: DND
-  - 접수: 06. 12(목) ~ 06. 22(일)
-- __[사이드sLLM 파인 튜닝 현업 적용부터 Reasoning LLM 트렌드까지](https://fastcampus.co.kr/sem_mat_06)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 06. 12(목) ~ 06. 22(일)
-- __[부스트캠프 AI Tech X 코칭스터디](https://blog.naver.com/boostcamp_official/223888054950)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 부스트캠프
-  - 접수: 06. 12(목) ~ 06. 22(일)
-- __[AUSG BIGCHAT: AWSKRUG 대학생 모임 #AUSG 퍼블릭 빅챗](https://www.meetup.com/awskrug/events/308459192/)__
-  - 분류: `오프라인`, `클라우드`, `대학생`
-  - 주최: AUSG
-  - 접수: 06. 13(금) ~ 06. 22(월)
-- __[스위프 웹 10기: IT 직군 취업과 커리어 성장을 위한 사이드 프로젝트](https://teamswyg.notion.site/SWYP-bd5c38bcd9d648f98025b50a88720719?pvs=4)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: 스위프
-  - 접수: 06. 20(금) ~ 06. 22(월)
 - __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: CWB Korea
   - 접수: 05. 16(금) ~ 06. 23(월)
+
 - __[Microsoft Build 2025 Recap : AX Tech 인사이트](https://thefutureinside.lgcns.com/CNSEvent/Detail/214)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: LG CNS
@@ -184,19 +152,39 @@
   - 분류: `동아리`
   - 주최: AUSG
   - 접수: 06. 13(금) ~ 06. 30(월)
+- __[AWSKRUG 플랫폼엔지니어링 모임 Agentic MCP for EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308274179/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 06. 23(월) ~ 06. 30(월)
+- __[KDT 한컴 NVIDIA AI ACADEMY 7기](https://eduhancom.com/)__
+  - 분류: `오프라인(경기 성남)`, `무로`, `교육`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 06. 23(월) ~ 06. 30(월)
 
 <br />
 
 ## 25년 07월
+- __[AWSKRUG 컨테이너 모임 EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308226383/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 06. 23(월) ~ 07. 01(화)
+
 - __[써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371)__
   - 분류: `오프라인(서울)`, `무료`, `기술일반`
-  - 주최 : SUSC
+  - 주최: SUSC
   - 접수: 05. 31(토) ~ 07. 03(목)
-
+- __[백엔드 개발자를 위한 NoSQL 데이터베이스 실전 클래스 | 프리온보딩](https://www.wanted.co.kr/events/pre_challenge_be_32)__
+  - 분류: `온라인`, `무료`, `벡엔드`
+  - 주최: 원티드
+  - 접수: 06. 23(월) ~ 07. 03(목)
 - __[QA Korea Conference](https://www.qa-korea.com/qaconference2025)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최 : QA Korea
-  - 신청 : 05. 12(월) ~ 07. 04(금)
+  - 주최: QA Korea
+  - 접수: 05. 12(월) ~ 07. 04(금)
+- __[2025 IT’s Busan Day, 부산 IT 실무자 & 커리어 탐색자 모두를 위한 커뮤니티 데이](https://onoffmix.com/event/325649)__
+  - 분류: `오프라인(부산 해운대)`, `유료`, `기술일반`
+  - 주최: 엘리스랩
+  - 접수: 06. 23(월) ~ 07. 04(금)
 - __[WWDC25의 중대 발표 내용 알아보기](https://developer.apple.com/events/view/TCSPG9PN8Y/dashboard)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
