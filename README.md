@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[천하제일 입코딩 대회 (with GitHub Copilot)](https://event-us.kr/cwbkr/event/104123)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: CWB Korea
-  - 접수: 05. 16(금) ~ 06. 23(월)
-
-- __[Microsoft Build 2025 Recap : AX Tech 인사이트](https://thefutureinside.lgcns.com/CNSEvent/Detail/214)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: LG CNS
-  - 접수: 05. 19(월) ~ 06. 23(월)
-- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/308057565/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 26(월) ~ 06. 23(월)
 - __[실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것](https://fastcampus.co.kr/devcon_dday2506)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 06. 13(금) ~ 06. 24(화)
+
 - __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/308325731/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -131,11 +119,15 @@
 - __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/308103986/)__
   - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
   - 주최: AWSKRUG
-  - 접수: 06. 20(금) ~ 06. 26(금)
-- __[AWSKRUG 성수 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/)__
+  - 접수: 06. 20(금) ~ 06. 26(목)
+- __[2025 오렌지플래닛 온라인 해커톤!](https://slashpage.com/orangeplanet-hackaton)__
+  - 분류: `온라인`, `오프라인`, `유료`, `대회`
+  - 주최: 오랜지플래닛
+  - 접수: 06. 12(목) ~ 06. 26(목)
+- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
-  - 접수: 06. 20(금) ~ 06. 26(금)
+  - 접수: 06. 20(금) ~ 06. 26(목)
 - __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: TSBM - Typescript Backend Meetup
@@ -158,7 +150,7 @@
   - 접수: 06. 23(월) ~ 06. 30(월)
 - __[KDT 한컴 NVIDIA AI ACADEMY 7기](https://eduhancom.com/)__
   - 분류: `오프라인(경기 성남)`, `무로`, `교육`, `AI`
-  - 주최: AWSKRUG
+  - 주최: 한컴
   - 접수: 06. 23(월) ~ 06. 30(월)
 
 <br />
@@ -169,6 +161,10 @@
   - 주최: AWSKRUG
   - 접수: 06. 23(월) ~ 07. 01(화)
 
+- __[클라우드바리스타 커뮤니티 제11차 컨퍼런스](https://webinaro.co.kr/Event/343)__
+  - 분류: `오프라인(제주)`, `유료`, `기술일반`
+  - 주최: 클라우드바리스타
+  - 접수: 06. 23(화) ~ 07. 02(수)
 - __[써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371)__
   - 분류: `오프라인(서울)`, `무료`, `기술일반`
   - 주최: SUSC
