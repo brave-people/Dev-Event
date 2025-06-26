@@ -67,39 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[실무에서 쓰는 바이브코딩: AI 중심 개발 환경 구축과 팀 협업 전략의 모든 것](https://fastcampus.co.kr/devcon_dday2506)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 06. 13(금) ~ 06. 24(화)
-
-- __[AWSKRUG DevOps 소모임](https://www.meetup.com/awskrug/events/308325731/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(화) ~ 06. 24(화)
-- __[신한 스퀘어브릿지 청년 해커톤](https://docs.google.com/forms/d/1_Vd2S6fOlYcf0KQveqNdyeeCbX5d51qLLorNE_spknA/viewform)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `대회`
-  - 주최: 신한 스퀘어브릿지
-  - 접수: 06. 11(수) ~ 06. 24(화)
-- __[NextRise 2025, Seoul](https://www.nextrise.co.kr/ko/about)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: NextRise
-  - 접수: 05. 26(월) ~ 06. 25(수)
-- __[AUSG BIGCHAT: 대학생 모임 주최 퍼블릭 빅챗](https://www.meetup.com/awskrug/events/308459192/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 06. 17(화) ~ 06. 25(수)
-- __[AWSKRUG 아키텍처 #architecture 52번째 소모임](https://www.meetup.com/awskrug/events/308279003)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 19(목) ~ 06. 25(수)
-- __[AWSKRUG 아키텍처 #Security 소모임](https://www.meetup.com/awskrug/events/308369358)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 06. 19(목) ~ 06. 25(수)
 - __[2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950)__
   - 분류: `온라인`, `무료`, `교육`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 접수: 06.12(목) ~ 06. 26(목)
+
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -165,6 +137,10 @@
   - 분류: `오프라인(제주)`, `유료`, `기술일반`
   - 주최: 클라우드바리스타
   - 접수: 06. 23(화) ~ 07. 02(수)
+- __[2025 NVIDIA GTC가 말하는 Physical AI. Jetson Meetup에서 확인하기](https://onoffmix.com/event/325883)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 올에이아이
+  - 접수: 06. 26(목) ~ 07. 02(수)
 - __[써머데이: 대학생 개발자들의 네트워킹 데이](https://event-us.kr/susc/event/105371)__
   - 분류: `오프라인(서울)`, `무료`, `기술일반`
   - 주최: SUSC
@@ -189,6 +165,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
   - 신청 : 06. 19(목) ~ 07. 11(금)
+- __[AWSKRUG 데이터 모임](https://www.meetup.com/awskrug/events/308647412)__
+  - 분류: `온라인`, `무료`, `데이터`
+  - 주최 : AWSKRUG
+  - 신청 : 06. 26(목) ~ 07. 16(수)
 - __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
