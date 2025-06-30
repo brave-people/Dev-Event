@@ -67,51 +67,11 @@
 <br />
 
 ## 25년 06월
-- __[2025년 4차 개방형 클라우드 플랫폼 테크 엣지](https://www.onoffmix.com/event/324950)__
-  - 분류: `온라인`, `무료`, `교육`, `클라우드`
-  - 주최: 개방형 클라우드 플랫폼 센터
-  - 접수: 06.12(목) ~ 06. 26(목)
-
-- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 일시: 06. 24(수) ~ 06. 26(목)
-- __[CHANNEL DEVTALK](https://devtalk.channel.io/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 채널코퍼레이션
-  - 일시: 05. 29(목) ~ 06. 25(수)
-- __[Copilot Studio로 IT 인프라 혁신의 시작을 함께하세요.](https://event-us.kr/tdg/event/105727)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 티디지(TDG)
-  - 일시: 06. 09(월) ~ 06. 26(목)
-- __[개발자를 위한 노코드 활용 세미나](https://event-us.kr/mescius/event/105350)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `AI`
-  - 주최: 메시어스 코리아
-  - 일시: 05. 30(금) ~ 06. 26(목)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/308103986/)__
-  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 06. 20(금) ~ 06. 26(목)
-- __[2025 오렌지플래닛 온라인 해커톤!](https://slashpage.com/orangeplanet-hackaton)__
-  - 분류: `온라인`, `오프라인`, `유료`, `대회`
-  - 주최: 오랜지플래닛
-  - 접수: 06. 12(목) ~ 06. 26(목)
-- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/308369358/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 06. 20(금) ~ 06. 26(목)
-- __[제2회 타입스크립트 백엔드 밋업 - TSBM](https://event-us.kr/tsbackendmeetup/event/104517)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: TSBM - Typescript Backend Meetup
-  - 접수: 05. 19(월) ~ 06. 28(토)
-- __[원티드 Career Gathering](https://www.instagram.com/official.bdaa/p/DK1j16shlnR)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: BDA
-  - 접수: 05. 19(월) ~ 06. 28(토)
 - __[2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 05. 20(화) ~ 06. 30(월)
+
 - __[AUSG 9기 신규 부원 모집](https://ausg.me/apply)__
   - 분류: `동아리`
   - 주최: AUSG
@@ -165,6 +125,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
   - 신청 : 06. 19(목) ~ 07. 11(금)
+- __[U/THON 25 고등학생 해커톤](https://event.uslash.org/)__
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최 : 유슬래시
+  - 신청 : 06. 30(월) ~ 07. 18(금)
 - __[AWSKRUG 데이터 모임](https://www.meetup.com/awskrug/events/308647412)__
   - 분류: `온라인`, `무료`, `데이터`
   - 주최 : AWSKRUG
@@ -206,6 +170,11 @@
 <br />
 
 ## 25년 10월
+- __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 금융위원회
+  - 접수: 08. 04(월) ~ 10. 14(화)
+
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
