@@ -66,27 +66,6 @@
 
 <br />
 
-## 25년 06월
-- __[2025 오픈소스 개발자대회](https://www.allforyoung.com/posts/65275)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 20(화) ~ 06. 30(월)
-
-- __[AUSG 9기 신규 부원 모집](https://ausg.me/apply)__
-  - 분류: `동아리`
-  - 주최: AUSG
-  - 접수: 06. 13(금) ~ 06. 30(월)
-- __[AWSKRUG 플랫폼엔지니어링 모임 Agentic MCP for EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308274179/)__
-  - 분류: `오프라인(서울 강남)`, `유로`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 06. 23(월) ~ 06. 30(월)
-- __[KDT 한컴 NVIDIA AI ACADEMY 7기](https://eduhancom.com/)__
-  - 분류: `오프라인(경기 성남)`, `무로`, `교육`, `AI`
-  - 주최: 한컴
-  - 접수: 06. 23(월) ~ 06. 30(월)
-
-<br />
-
 ## 25년 07월
 - __[AWSKRUG 컨테이너 모임 EKS Hands-on Lab](https://www.meetup.com/awskrug/events/308226383/)__
   - 분류: `오프라인(서울 강남)`, `유로`, `모임`
@@ -121,10 +100,22 @@
    - 분류: `온라인`, `무료`, `기술일반`
    - 주최: SUSC
    - 접수: 06. 21(토) ~ 07. 06(일)
+- __[31년차 개발자가 전하는 "AI시대, 개발자로 살아가는 법"](https://inf.run/qFdTL)__
+   - 분류: `오프라인(경기 성남)`, `유료`, `AI`
+   - 주최: 인프런
+   - 접수: 07. 01(화) ~ 07. 08(화)
 - __[WWDC25의 중대 발표 내용 알아보기](https://developer.apple.com/events/view/TCSPG9PN8Y/dashboard)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
   - 신청 : 06. 19(목) ~ 07. 11(금)
+- __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/305987019/)__
+  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 01(화) ~ 07. 14(월)
+- __[당신의 인생 수익을 퀀텀 점프시킬 AI 활용 꿀팁](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=24&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
+  - 분류: `오프라인`, `온라인`, `무료`, `AI`
+  - 주최 : 코리아IT아카데미
+  - 신청 : 07. 01(화) ~ 07. 18(금)
 - __[U/THON 25 고등학생 해커톤](https://event.uslash.org/)__
   - 분류: `오프라인`, `유료`, `대회`
   - 주최 : 유슬래시
@@ -145,11 +136,15 @@
 <br />
 
 ## 25년 08월
+- __[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing)__
+  - 분류: `오프라인(서울 강동)`, `무료`, `대회`
+  - 주최: 강동구 청년해냄센터
+  - 접수: 04. 01(화) ~ 08. 08(금)
+
 - __[UbuCon Korea 2025](https://event-us.kr/ubuntukr/event/101263)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 접수: 04. 01(화) ~ 08. 08(금)
-
 - __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: KOREA IT ACADEMY
