@@ -108,7 +108,11 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최 : APPLE
   - 신청 : 06. 19(목) ~ 07. 11(금)
-- __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/305987019/)__
+- __[2025년도 하반기 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSfzelHO4xz9CdbiBzK6_I7EZm5uEe-5JQkx7ZqGK8pVrIjTbQ/viewform)__
+  - 분류: `오프라인(서울 잠실)`, `무료`, `기술일반`
+  - 주최 : 삼성SDS
+  - 신청 : 07. 03(목) ~ 07. 11(금)
+- __[AWSKRUG #magok 마곡 소모임 아홉 번째 모임](https://www.meetup.com/awskrug/events/308767300/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 01(화) ~ 07. 14(월)
