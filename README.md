@@ -104,6 +104,10 @@
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 01(화) ~ 07. 14(월)
+- __[kakao tech bootcamp](https://kakaotechbootcamp.com/)__
+  - 분류: `오프라인`, `무료`, `교육`, `AI`, `클라우드`
+  - 주최 : 카카오
+  - 신청 : 07. 03(목) ~ 07. 17(목)
 - __[당신의 인생 수익을 퀀텀 점프시킬 AI 활용 꿀팁](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=24&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
   - 분류: `오프라인`, `온라인`, `무료`, `AI`
   - 주최 : 코리아IT아카데미
