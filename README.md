@@ -156,6 +156,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 경기도경제과학진흥원
   - 접수: 07. 01(화) ~ 07. 30(수)
+- __[취업&커리어 콘서트 3회: 파이썬 F였던 내가 개발자? - 카네기멜론대학교 로보틱스 연구원 서희찬님 편](https://event-us.kr/susc/event/107647?utm_source=mail&utm_medium=e_channel&utm_campaign=channel_newevent_open&utm_content=applynow_btn)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: SUSC
+  - 접수: 07. 06(일) ~ 07. 18(금)
 
 <br />
 
