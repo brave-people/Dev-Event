@@ -152,7 +152,7 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 스퀴즈비츠
   - 접수: 06. 26(목) ~ 07. 24(목)
-- __[2025 I/O Extended: CODE:ME - 개발자 퍼스널 브랜딩 with AI](https://event-us.kr/cppkorea/event/107339)__
+- __[2025 I/O Extended: CODE:ME - 개발자 퍼스널 브랜딩 with AI](https://event-us.kr/gdgcampuskorea/event/107563)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: GDG Campus Korea
   - 접수: 07. 09(수) ~ 07. 25(금) 23:30
