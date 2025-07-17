@@ -142,8 +142,8 @@
   - 접수: 07. 11(금) ~ 07. 21(월)
 - __[모두를 위한 생성형 AI 활용 입문 1기](https://www.boostcourse.org/ai401-term01#)__
   - 분류: `온라인`, `무료`, `AI`
-  - 주최: C++ Korea
-  - 접수: 07. 01(화) ~ 07. 25(금)
+  - 주최: 부스트코스
+  - 접수: 07. 17(목) ~ 07. 25(금)
 - __[Google I/O Extended Incheon 2025](https://www.ticketa.co/events/7)__
   - 분류: `오프라인(인하대)`, `무료`, `기술일반`
   - 주최: GDG Incheon
