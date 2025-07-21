@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 07월
-- __[kakao tech bootcamp](https://kakaotechbootcamp.com/)__
-  - 분류: `오프라인`, `무료`, `교육`, `AI`, `클라우드`
-  - 주최 : 카카오
-  - 신청 : 07. 03(목) ~ 07. 17(목)
-
-- __[취업&커리어 콘서트 3회: 파이썬 F였던 내가 개발자? - 카네기멜론대학교 로보틱스 연구원 서희찬님 편](https://event-us.kr/susc/event/107647)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: SUSC
-  - 접수: 07. 06(일) ~ 07. 18(금)
-- __[당신의 인생 수익을 퀀텀 점프시킬 AI 활용 꿀팁](http://daegu-koreaitlab.com/community/seminar_view.asp?seq=24&clkMater=&txtMenu=&GoTopage=1&selMater=&dbType=NEW)__
-  - 분류: `오프라인`, `온라인`, `무료`, `AI`
-  - 주최 : 코리아IT아카데미
-  - 신청 : 07. 01(화) ~ 07. 18(금)
-- __[U/THON 25 고등학생 해커톤](https://event.uslash.org/)__
-  - 분류: `오프라인`, `유료`, `대회`
-  - 주최 : 유슬래시
-  - 신청 : 06. 30(월) ~ 07. 18(금)
-- __[실습으로 배우는 데이터 클라우드 첫걸음](https://www.snowflake.com/events/snowflake-platform-training-korea-ascent-week/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: snowflake
-  - 접수: 07. 15(화) ~ 07. 20(일)
 - __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구글
   - 접수: 07. 07(월) ~ 07. 21(월)
+
 - __[AWSKRUG #AIEngineering - 나만의 서버리스 GenAI 앱 구축하기](https://www.meetup.com/awskrug/events/308422293/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -112,6 +92,10 @@
   - 분류: `오프라인(서울 마포)`, `무료`, `AI`
   - 주최: ICT CoC
   - 접수: 07. 15(화) ~ 07. 23(수) 11:00
+- __[2025 사이버공격방어대회(Cyber Conflict Exercise 2025) 참가자 모집](https://cce.cstec.kr/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
+  - 주최: 국가정보원
+  - 접수: 06. 30(월) ~ 07. 24(목)
 - __[2025 사이버공격방어대회(Cyber Conflict Exercise 2025) 참가자 모집](https://cce.cstec.kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: 국가정보원
@@ -140,14 +124,38 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 07. 11(금) ~ 07. 21(월)
+- __[표준프레임워크 컨트리뷰션 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdevP-bAoCRZsgwnhyL0LgwvsJmi9H5IdGers_yos0j3sPQmA/viewform)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 오픈소스개발자커뮤니티
+  - 접수: 07. 11(금) ~ 07. 21(월) 16:00
+- __[Blazor MAUI WPF BMW밋업](https://onoffmix.com/event/326652)__
+  - 분류: `오프라인(서울 광화문)`, `무료`, `기술일반`
+  - 주최: KH SYSTEMS
+  - 접수: 07. 21(월) ~ 07. 24(목)
+- __[Agent Foundry 러닝데이](https://aifactory.space/task/9185/overview)__
+  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
+  - 주최: 이노폴리스벤처협회
+  - 접수: 07. 21(월) ~ 07. 24(목)
+- __[프론트엔드 개발자를 위한 리포팅 컴포넌트](https://us06web.zoom.us/webinar/register/8017530572464/WN_GCp7ek1JRUuHO567NRSQ0g#/registration)__
+  - 분류: `온라인`, `무료`, `프론트엔드`
+  - 주최: 메시어스 코리아
+  - 접수: 07. 17(목) ~ 07. 25(금) 10:00
 - __[모두를 위한 생성형 AI 활용 입문 1기](https://www.boostcourse.org/ai401-term01#)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 부스트코스
+  - 접수: 07. 17(목) ~ 07. 25(금)
+- __[AI PLUS IN GWANGJU 2025](https://est-ai-plus.ai/)__
+  - 분류: `오프라인(국립아시아문화전당)`, `무료`, `AI`
+  - 주최: 과학기술정보통신부
   - 접수: 07. 17(목) ~ 07. 25(금)
 - __[Google I/O Extended Incheon 2025](https://www.ticketa.co/events/7)__
   - 분류: `오프라인(인하대)`, `무료`, `기술일반`
   - 주최: GDG Incheon
   - 접수: 07. 07(월) ~ 07. 26(토)
+- __[카카오클라우드 AIaaS 마스터클래스](https://sniperfactory.com/course/kdt-kakaocloud-2)__
+  - 분류: `오프라인`, `무료`, `AI`, `교육`
+  - 주최: 스나이퍼펙토리
+  - 접수: 07. 07(월) ~ 07. 27(일)
 - __[n8n 업무자동화부터 RAG까지 MCP 전문가의 트렌드 돌아보기!](https://event-us.kr/helpfastcampus/event/107945)__
   - 분류: `오프라인(인하대)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
@@ -188,6 +196,11 @@
 <br />
 
 ## 25년 08월
+- __[한국 1회 스테이블코인 해커톤](https://x.com/KaiaChain_KR/status/1946154428895224085)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: kaia korea
+  - 접수: 07. 21(월 ~ 08. 01(월)
+
 - __[AI 시대, 우리는 어떻게 글을 써야 할까? 테크니컬 라이팅 온라인 세미나 - 남정현님](https://event-us.kr/susc/event/108006)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SUSC
@@ -224,10 +237,18 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: SHARDLAB
   - 접수: 07. 14(월) ~ 08. 15(금)
+- __[제3회 네트워크 지능화를 위한 인공지능 해커톤](https://aifactory.space/task/9159/overview)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: ETRI 네트워크 해커톤
+  - 접수: 07. 14(월) ~ 08. 15(금)
 - __[PyCon Korea 2025](https://2025.pycon.kr/)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: 파이콘
   - 일시: 08. 15(금) ~ 08. 17(일)
+- __[NYPC 10주년 기념 대학생 리그](https://battle.nypc.co.kr/ko)__
+  - 분류: `오프라인(동국대)`, `무료`, `대회`
+  - 주최: 넥슨
+  - 일시: 07. 07(월) ~ 08. 18(월)
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
