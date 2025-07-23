@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 07월
-- __[구글 스터디 잼 X 잇츠 스터디 - 크루원 모집](https://rsvp.withgoogle.com/events/2025-h2-google-cloud-ai-study-jam-kr/home)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구글
-  - 접수: 07. 07(월) ~ 07. 21(월)
-
-- __[AWSKRUG #AIEngineering - 나만의 서버리스 GenAI 앱 구축하기](https://www.meetup.com/awskrug/events/308422293/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 07. 08(화) ~ 07. 22(화)
-- __[K-AI 커뮤니티 서밋 2025](https://onoffmix.com/event/325919)__
-  - 분류: `오프라인(서울 영등포)`, `무료`, `AI`
-  - 주최: K-AI 커뮤니티 서밋
-  - 접수: 07. 08(화) ~ 07. 22(화)
 - __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/308924545/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 07. 08(화) ~ 07. 23(수)
+
 - __[2025년 충청권 사이버보안 경진대회 참가자 모집](https://ccunictf.co.kr/)__
   - 분류: `온라인`, `오프라인`, `무료`, `보안`
   - 주최: 한국보건산업진흥원
@@ -120,14 +108,6 @@
   - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
   - 주최: C++ Korea
   - 접수: 07. 01(화) ~ 07. 25(금)
-- __[Microsoft Cloud & AI 부트캠프](https://www.microsoft.com/ko-kr/CloudandAIBootcamp/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 07. 11(금) ~ 07. 21(월)
-- __[표준프레임워크 컨트리뷰션 세미나](https://docs.google.com/forms/d/e/1FAIpQLSdevP-bAoCRZsgwnhyL0LgwvsJmi9H5IdGers_yos0j3sPQmA/viewform)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 오픈소스개발자커뮤니티
-  - 접수: 07. 11(금) ~ 07. 21(월) 16:00
 - __[Blazor MAUI WPF BMW밋업](https://onoffmix.com/event/326652)__
   - 분류: `오프라인(서울 광화문)`, `무료`, `기술일반`
   - 주최: KH SYSTEMS
@@ -172,6 +152,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: OKKY
   - 접수: 07. 15(화) ~ 07. 28(월)
+- __[바이브코더를 위한 상급 노하우 (ft. Claude Code, Gemini CLI)](https://fastcampus.co.kr/devcon_dday2507)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 07. 15(화) ~ 07. 28(월)
 - __[생성형 AI 입문기 : 기초에서 실전까지, 나만의 리터러시 성장기](https://www.egbiz.or.kr/sp/supportPrjDtl.do?listUrl=supportPrjCatList&bizCyclId=PD000000047640)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 경기도경제과학진흥원
@@ -192,6 +176,15 @@
   - 분류: `온라인`, `무료`, `교육`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 접수: 07. 17(목) ~ 07. 30(수)
+- __[Us:Code 청년 개발자 아카데미 모집](https://www.onoffmix.com/event/327296)__
+  - 분류: `오프라인(의성)`, `무료`, `교육`, `AI`
+  - 주최: 메이드인피플
+  - 접수: 07. 21(dnjf) ~ 07. 31(목)
+- __[ChatGPT를 활용한 엑셀 VBA 자동화 실전사례](https://aifactory.space/task/9187/overview)__
+  - 분류: `온라인`, `무료`, `교육`, `AI`
+  - 주최: 이노폴리스벤처협회
+  - 일시: 07. 31(목) 19:00 ~ 20:00
+
 
 <br />
 
@@ -199,7 +192,7 @@
 - __[한국 1회 스테이블코인 해커톤](https://x.com/KaiaChain_KR/status/1946154428895224085)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: kaia korea
-  - 접수: 07. 21(월 ~ 08. 01(월)
+  - 접수: 07. 21(월) ~ 08. 01(월)
 
 - __[AI 시대, 우리는 어떻게 글을 써야 할까? 테크니컬 라이팅 온라인 세미나 - 남정현님](https://event-us.kr/susc/event/108006)__
   - 분류: `온라인`, `무료`, `AI`
@@ -248,7 +241,7 @@
 - __[NYPC 10주년 기념 대학생 리그](https://battle.nypc.co.kr/ko)__
   - 분류: `오프라인(동국대)`, `무료`, `대회`
   - 주최: 넥슨
-  - 일시: 07. 07(월) ~ 08. 18(월)
+  - 모집: 07. 07(월) ~ 08. 18(월)
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
