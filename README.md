@@ -153,9 +153,9 @@
   - 주최: OKKY
   - 접수: 07. 15(화) ~ 07. 28(월)
 - __[바이브코더를 위한 상급 노하우 (ft. Claude Code, Gemini CLI)](https://fastcampus.co.kr/devcon_dday2507)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
-  - 접수: 07. 15(화) ~ 07. 28(월)
+  - 접수: 07. 23(수) ~ 07. 28(월)
 - __[생성형 AI 입문기 : 기초에서 실전까지, 나만의 리터러시 성장기](https://www.egbiz.or.kr/sp/supportPrjDtl.do?listUrl=supportPrjCatList&bizCyclId=PD000000047640)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 경기도경제과학진흥원
@@ -176,7 +176,7 @@
   - 분류: `온라인`, `무료`, `교육`, `클라우드`
   - 주최: 개방형 클라우드 플랫폼 센터
   - 접수: 07. 17(목) ~ 07. 30(수)
-- __[Us:Code 청년 개발자 아카데미 모집](https://www.onoffmix.com/event/327296)__
+- __[Us:Code 청년 개발자 아카데미 모집](https://gdg-daegu.github.io/developer-village/)__
   - 분류: `오프라인(의성)`, `무료`, `교육`, `AI`
   - 주최: 메이드인피플
   - 접수: 07. 21(dnjf) ~ 07. 31(목)
