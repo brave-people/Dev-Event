@@ -1590,6 +1590,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "yucori",
+      "name": "Yucori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110710238?v=4",
+      "profile": "https://github.com/yucori",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
