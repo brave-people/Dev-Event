@@ -67,75 +67,11 @@
 <br />
 
 ## 25년 07월
-- __[2025 사이버공격방어대회(Cyber Conflict Exercise 2025) 참가자 모집](https://cce.cstec.kr/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
-  - 주최: 국가정보원
-  - 접수: 06. 30(월) ~ 07. 24(목)
-
-- __[2025 사이버공격방어대회(Cyber Conflict Exercise 2025) 참가자 모집](https://cce.cstec.kr/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
-  - 주최: 국가정보원
-  - 접수: 06. 30(월) ~ 07. 24(목)
-- __[오픈소스 기여, 실전으로 배운다! – 공통컴포넌트 & 개발가이드 컨트리뷰션 세미나](https://okky.kr/articles/1538325)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 오픈플랫폼 개발자 커뮤니티
-  - 접수: 07. 10(목) ~ 07. 24(목)
-- __[DIVE 2025(제2회 글로벌 데이터 해커톤 대회)](https://www.dxchallenge.co.kr/about-1-1)__
-  - 분류: `오프라인(벡스코)`, `무료`, `대회`
-  - 주최: 부산광역시
-  - 접수: 07. 07(월) ~ 07. 24(목) 17:00
-- __[2025 Efficient AI Offline Meetup: AI 경량화 오프라인 밋업](https://event-us.kr/squeezebits/event/106831)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 스퀴즈비츠
-  - 접수: 06. 26(목) ~ 07. 24(목)
-- __[2025 I/O Extended: CODE:ME - 개발자 퍼스널 브랜딩 with AI](https://event-us.kr/gdgcampuskorea/event/107563)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: GDG Campus Korea
-  - 접수: 07. 09(수) ~ 07. 25(금) 23:30
-- __[C++ Korea 소모임](https://event-us.kr/cppkorea/event/107339)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 07. 01(화) ~ 07. 25(금)
-- __[Blazor MAUI WPF BMW밋업](https://onoffmix.com/event/326652)__
-  - 분류: `오프라인(서울 광화문)`, `무료`, `기술일반`
-  - 주최: KH SYSTEMS
-  - 접수: 07. 21(월) ~ 07. 24(목)
-- __[Agent Foundry 러닝데이](https://aifactory.space/task/9185/overview)__
-  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
-  - 주최: 이노폴리스벤처협회
-  - 접수: 07. 21(월) ~ 07. 24(목)
-- __[프론트엔드 개발자를 위한 리포팅 컴포넌트](https://us06web.zoom.us/webinar/register/8017530572464/WN_GCp7ek1JRUuHO567NRSQ0g#/registration)__
-  - 분류: `온라인`, `무료`, `프론트엔드`
-  - 주최: 메시어스 코리아
-  - 접수: 07. 17(목) ~ 07. 25(금) 10:00
-- __[모두를 위한 생성형 AI 활용 입문 1기](https://www.boostcourse.org/ai401-term01#)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 부스트코스
-  - 접수: 07. 17(목) ~ 07. 25(금)
-- __[AI PLUS IN GWANGJU 2025](https://est-ai-plus.ai/)__
-  - 분류: `오프라인(국립아시아문화전당)`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 07. 17(목) ~ 07. 25(금)
-- __[Google I/O Extended Incheon 2025](https://www.ticketa.co/events/7)__
-  - 분류: `오프라인(인하대)`, `무료`, `기술일반`
-  - 주최: GDG Incheon
-  - 접수: 07. 07(월) ~ 07. 26(토)
-- __[카카오클라우드 AIaaS 마스터클래스](https://sniperfactory.com/course/kdt-kakaocloud-2)__
-  - 분류: `오프라인`, `무료`, `AI`, `교육`
-  - 주최: 스나이퍼펙토리
-  - 접수: 07. 07(월) ~ 07. 27(일)
-- __[n8n 업무자동화부터 RAG까지 MCP 전문가의 트렌드 돌아보기!](https://event-us.kr/helpfastcampus/event/107945)__
-  - 분류: `오프라인(인하대)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 07. 09(수) ~ 07. 27(일)
-- __[포텐데이X네이버클라우드, 508 AI 포텐데이 FE 개발자 모집 중](https://bside.best/potenday)__
-  - 분류: `오프라인(인하대)`, `유료`, `대회`
-  - 주최: 비사이드
-  - 접수: 07. 07(월) ~ 07. 27(일)
 - __[AWSKRUG 서버리스 #Serverless Hands-on Lab](https://www.meetup.com/awskrug/events/308963371/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 07. 08(화) ~ 07. 28(월)
+
 - __[개발자의 문장력: 협업을 살리는 소프트 스킬의 힘](https://okky.kr/events/webinars/1537740)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: OKKY
@@ -198,6 +134,10 @@
   - 분류: `오프라인(서울 강동)`, `무료`, `기술일반`
   - 주최: 한국 오라클
   - 접수: 07. 07(월) ~ 08. 05(화)
+- __[춘천 2025 AI융합 아카데미 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdEI0mcn8cewQczfB8pkBiiwiVP6xBpIb8of6vUFeXjtT7Iyw/viewform)__
+  - 분류: `오프라인(서울 춘천)`, `무료`, `AI`
+  - 주최: 에이아이캐슬
+  - 접수: 07. 28(월) ~ 08. 05(수)
 - __[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing)__
   - 분류: `오프라인(서울 강동)`, `무료`, `대회`
   - 주최: 강동구 청년해냄센터
@@ -214,6 +154,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `교육`
   - 주최: 고용노동부
   - 일시: 07. 17(목) ~ 08. 10(월)
+- __[2025 데이터센터코리아 전시회](https://datacenterkorea.kr/visitor/guide/)__
+  - 분류: `오프라인(부산)`, `유료`, `기술일반`
+  - 주최: 부산광메쎄이상역시
+  - 접수: 07. 28(월) ~ 08. 12(화)
+- __[BUSAN INDIE WAVE CONFERENCE - Focus Session](https://okky.kr/articles/1539521)__
+  - 분류: `오프라인(부산)`, `무료`, `기술일반`
+  - 주최: 부산광역시
+  - 접수: 07. 28(월) ~ 08. 13(수)
 - __[부스트캠프 AI Tech 8기](https://apply.connect.or.kr/connect/applyDetail?annoId=20013789)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`
   - 주최: 커넥트재단
