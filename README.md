@@ -130,6 +130,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: SUSC
   - 접수: 07. 11(금) ~ 08. 02(토)
+- __[Cloud Club 8기 리쿠르팅](https://www.cloudclub.kr)__
+  - 분류: `오프라인`, `무료`, `클라우드`, `동아리`
+  - 주최: Cloud Club
+  - 일시: 07. 25(금) ~ 08. 04(월)
 - __[[개발자 밋업] Oracle Dev Day!](https://onoffmix.com/event/326545)__
   - 분류: `오프라인(서울 강동)`, `무료`, `기술일반`
   - 주최: 한국 오라클
@@ -390,7 +394,7 @@
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://umc.makeus.in/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
-| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://www.cloudclub.kr/), [Youtube](https://www.youtube.com/@c1oudc1ub), [Instagram](https://www.instagram.com/c1oudc1ub/)|
+| Cloud Club |폭 넓은 클라우드 인프라를 경험할 수 있는 IT 동아리|[공식 홈페이지](https://www.cloudclub.kr/), [Youtube](https://www.youtube.com/@cloudclub-kr), [Instagram](https://www.instagram.com/cloudclub.kr/)|
 | 피로그래밍 | 비전공자를 위한 웹프로그래밍 동아리 |[공식 홈페이지](https://pirogramming.com/),  [Instagram](https://www.instagram.com/pirogramming_official/)|
 | SIPE | 다양한 활동으로 함께 성장하는 현직 개발자들의 커뮤니티 |[공식 홈페이지](https://sipe.team/),  [Instagram](https://www.instagram.com/sipe_team/)|
 | 9oormthonUNIV | 카카오와 구름이 함께하는 대학생 IT 연합 동아리 |[공식 홈페이지](http://bit.ly/goormthon-univ), [Instagram](https://www.instagram.com/9oormthonuniv.official/)|
