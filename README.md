@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 07월
-- __[AWSKRUG 서버리스 #Serverless Hands-on Lab](https://www.meetup.com/awskrug/events/308963371/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 07. 08(화) ~ 07. 28(월)
-
-- __[개발자의 문장력: 협업을 살리는 소프트 스킬의 힘](https://okky.kr/events/webinars/1537740)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: OKKY
-  - 접수: 07. 15(화) ~ 07. 28(월)
-- __[바이브코더를 위한 상급 노하우 (ft. Claude Code, Gemini CLI)](https://fastcampus.co.kr/devcon_dday2507)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 07. 23(수) ~ 07. 28(월)
 - __[생성형 AI 입문기 : 기초에서 실전까지, 나만의 리터러시 성장기](https://www.egbiz.or.kr/sp/supportPrjDtl.do?listUrl=supportPrjCatList&bizCyclId=PD000000047640)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 경기도경제과학진흥원
   - 접수: 07. 01(화) ~ 07. 30(수)
+
 - __[개발도 영어로, 네트워킹도 영어로! 한국에서 만나는 글로벌 IT 커뮤니티](https://www.meetup.com/dev-korea/events/308860015/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: Dev Korea
@@ -154,6 +142,10 @@
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: KOREA IT ACADEMY
   - 일시: 06. 04(수) ~ 08. 09(일)
+- __[2025 I/O Extended Seoul](https://event-us.kr/gdgseoul/event/108328)__
+  - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
+  - 주최: GGDG Seoul
+  - 일시: 07. 30(수) ~ 08. 09(일)
 - __[의료 바이오 데이터 전문가 트랙](https://www.kfo.ai/course/BIODATA_ORACLE.html)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `교육`
   - 주최: 고용노동부
@@ -256,6 +248,11 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
   - 접수: 03. 31(월) ~ 12. 31(수)
+
+- __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: GEEKs
+  - 접수: 07. 29(화) ~ 12. 31(수) 23:30
 
 <br />
 
