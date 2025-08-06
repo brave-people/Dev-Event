@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 08월
-- __[[개발자 밋업] Oracle Dev Day!](https://onoffmix.com/event/326545)__
-  - 분류: `오프라인(서울 강동)`, `무료`, `기술일반`
-  - 주최: 한국 오라클
-  - 접수: 07. 07(월) ~ 08. 05(화)
-
-- __[춘천 2025 AI융합 아카데미 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdEI0mcn8cewQczfB8pkBiiwiVP6xBpIb8of6vUFeXjtT7Iyw/viewform)__
-  - 분류: `오프라인(서울 춘천)`, `무료`, `AI`
-  - 주최: 에이아이캐슬
-  - 접수: 07. 28(월) ~ 08. 05(수)
-- __[돕는 AI 컨퍼런스 2025](https://aicon.kakaoimpact.org/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
-  - 주최: 카카오임팩트
-  - 접수: 07. 28(월) ~ 08. 05(수)
-- __[Oracle Dev Day !](https://onoffmix.com/event/326545)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `클라우드`
-  - 주최: 오라클
-  - 접수: 08. 01(목) ~ 08. 05(화)
 - __[2025 춘천 AWS 딥레이서 챔피언십](https://chuncheon-deepracer.ai-castle.com/)__
   - 분류: `오프라인(춘천)`, `무료`, `대회`
   - 주최: 춘천시
   - 접수: 08. 01(목) ~ 08. 07(수)
+
 - __[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing)__
   - 분류: `오프라인(서울 강동)`, `무료`, `대회`
   - 주최: 강동구 청년해냄센터
@@ -104,6 +88,10 @@
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: GGDG Seoul
   - 일시: 07. 30(수) ~ 08. 09(일)
+- __[.NET Universe Unplugged 2025-08](https://event-us.kr/dotnetdev/event/109470)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 닷넷데브
+  - 접수: 08. 03(일) ~ 08. 11(월)
 - __[의료 바이오 데이터 전문가 트랙](https://www.kfo.ai/course/BIODATA_ORACLE.html)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `교육`
   - 주최: 고용노동부
@@ -148,12 +136,20 @@
   - 분류: `오프라인(동국대)`, `무료`, `대회`
   - 주최: 넥슨
   - 모집: 07. 07(월) ~ 08. 18(월)
+- __[2025 디지톡(Digi-talk) 토크콘서트](https://event-us.kr/dgdip/event/109632)__
+  - 분류: `오프라인(대구 수성구)`, `무료`, `기술일반`
+  - 주최: 대구디지털혁신진흥원
+  - 접수: 06. 06(수) ~ 08. 19(화)
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
   - 일시: 07. 03(목) ~ 08. 22(금)
 - __[LG 소프트웨어 개발자 컨퍼런스 대학생 코딩대회 신청자 모집](https://www.lgsdc.com/program/lgcpc.php)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`
+  - 주최: LG
+  - 접수: 07. 25(금) ~ 08. 22(금)
+- __[JPA의 사실과 오해 6기](https://event-us.kr/choyoungho/event/109477)__
+  - 분류: `오프라인(서울 서초)`, `유료(15만원)`, `벡엔드`
   - 주최: LG
   - 접수: 07. 25(금) ~ 08. 22(금)
 - __[FEConf 2025(프론트엔드 컨퍼런스)](https://2025.feconf.kr/)__
@@ -176,11 +172,15 @@
 <br />
 
 ## 25년 09월
+- __[Uracle AI Summit 2025](https://event-us.kr/uracle/event/109419)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 유라클
+  - 접수: 07. 14(월) ~ 09. 02(화)
+
 - __[KWDC25](https://www.ticketa.co/events/12)__
   - 분류: `오프라인(서울)`, `유료`, `ios`
   - 주최: 
   - 접수: 07. 10(목) ~ 09. 05(목)
-
 - __[REAL Summit 2025](https://www.realsummit2025.com/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 삼성 SDS
