@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 08월
-- __[2025 춘천 AWS 딥레이서 챔피언십](https://chuncheon-deepracer.ai-castle.com/)__
-  - 분류: `오프라인(춘천)`, `무료`, `대회`
-  - 주최: 춘천시
-  - 접수: 08. 01(목) ~ 08. 07(수)
-
-- __[2025 블레이버스 MVP 개발 해커톤: 시즌2](https://www.blaybus.com/activities/450/landing)__
-  - 분류: `오프라인(서울 강동)`, `무료`, `대회`
-  - 주최: 강동구 청년해냄센터
-  - 접수: 04. 01(화) ~ 08. 08(금)
-- __[UbuCon Korea 2025](https://event-us.kr/ubuntukr/event/101263)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: 우분투한국커뮤니티
-  - 접수: 04. 01(화) ~ 08. 08(금)
 - __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
   - 분류: `오프라인(동국대)`, `무료`, `기술일반`
   - 주최: KOREA IT ACADEMY
   - 일시: 06. 04(수) ~ 08. 09(일)
+
 - __[2025 I/O Extended Seoul](https://event-us.kr/gdgseoul/event/108328)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
   - 주최: GGDG Seoul
@@ -112,6 +100,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 토스
   - 접수: 07. 28(월) ~ 08. 13(수)
+- __[글로벌 AI 인재양성 챌린지](https://blog.naver.com/gwict2021/223959789612)__
+  - 분류: `오프라인(강원 원주)`, `무료`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 07. 14(월) ~ 08. 14(목)
 - __[부스트캠프 AI Tech 8기](https://apply.connect.or.kr/connect/applyDetail?annoId=20013789)__
   - 분류: `온라인`, `오프라인`, `무료`, `AI`
   - 주최: 커넥트재단
@@ -136,6 +128,10 @@
   - 분류: `오프라인(동국대)`, `무료`, `대회`
   - 주최: 넥슨
   - 모집: 07. 07(월) ~ 08. 18(월)
+- __[비전공자도 쉽게 배우는 LLM, 랭체인, RAG 뽀개기](https://docs.google.com/forms/d/e/1FAIpQLSdDBYyuEiOsLp0KVU9yGZ-GrhXtV3syUa1mntB47mdoRd5FFw/viewform)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: 멋지다현 채널
+  - 접수: 08. 08(금) ~ 08. 18(월) 15:00
 - __[2025 디지톡(Digi-talk) 토크콘서트](https://event-us.kr/dgdip/event/109632)__
   - 분류: `오프라인(대구 수성구)`, `무료`, `기술일반`
   - 주최: 대구디지털혁신진흥원
@@ -164,6 +160,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 06. 30(월) ~ 08. 25(월)
+- __[AWSKRUG 아키텍처 #architecture 53번째 소모임](https://www.meetup.com/awskrug/events/310365030)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 09(토) ~ 08. 28(목)
+- __[25년도 오픈소스 컨트리뷰션 아카데미 [체험형-2차] 프로젝트 멘티 모집](https://www.oss.kr/contribution_academy_notice/show/5a5c21f4-3184-44ac-99af-41e3b3f74026)__
+  - 분류: `오프라인`, `무료`, `오픈소스`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 08(금) ~ 08. 31(일)
 - __[IoTcube Conference 2025](https://fairpass.co.kr/RunEventInfo?eventcode=3131)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 4단계 BK21 컴퓨터학교육연구단
@@ -177,9 +181,13 @@
   - 주최: 유라클
   - 접수: 07. 14(월) ~ 09. 02(화)
 
+- __[AWSKRUG 컨테이너 모임 🐳 AWS SE: EKS Series #1](https://www.meetup.com/awskrug/events/310351943/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 08. 09(토) ~ 09. 04(목)
 - __[KWDC25](https://www.ticketa.co/events/12)__
   - 분류: `오프라인(서울)`, `유료`, `ios`
-  - 주최: 
+  - 주최: KWDC25
   - 접수: 07. 10(목) ~ 09. 05(목)
 - __[REAL Summit 2025](https://www.realsummit2025.com/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
