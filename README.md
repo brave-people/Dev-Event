@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 08월
-- __[[SUMMER CAMP] 무료 세미나에 초대장을 보냅니다.](http://koreaitsecurity.co.kr/landing/summer_camp.asp)__
-  - 분류: `오프라인(동국대)`, `무료`, `기술일반`
-  - 주최: KOREA IT ACADEMY
-  - 일시: 06. 04(수) ~ 08. 09(일)
-
-- __[2025 I/O Extended Seoul](https://event-us.kr/gdgseoul/event/108328)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `기술일반`
-  - 주최: GGDG Seoul
-  - 일시: 07. 30(수) ~ 08. 09(일)
-- __[.NET Universe Unplugged 2025-08](https://event-us.kr/dotnetdev/event/109470)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 닷넷데브
-  - 접수: 08. 03(일) ~ 08. 11(월)
-- __[의료 바이오 데이터 전문가 트랙](https://www.kfo.ai/course/BIODATA_ORACLE.html)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `교육`
-  - 주최: 고용노동부
-  - 일시: 07. 17(목) ~ 08. 10(월)
 - __[2025 데이터센터코리아 전시회](https://datacenterkorea.kr/visitor/guide/)__
   - 분류: `오프라인(부산)`, `유료`, `기술일반`
   - 주최: 부산광메쎄이상역시
   - 접수: 07. 28(월) ~ 08. 12(화)
+
 - __[BUSAN INDIE WAVE CONFERENCE - Focus Session](https://okky.kr/articles/1539521)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: 부산광역시
@@ -136,6 +120,14 @@
   - 분류: `오프라인(대구 수성구)`, `무료`, `기술일반`
   - 주최: 대구디지털혁신진흥원
   - 접수: 06. 06(수) ~ 08. 19(화)
+- __[IoTcube Conference 2025](https://fairpass.co.kr/RunEventInfo?eventcode=3131)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 4단계 BK21 컴퓨터학교육연구단
+  - 접수: 07. 15(화) ~ 08. 19(화)
+- __[AWSKRUG #AIEngineering - Kiro Hands-on Lab](https://www.meetup.com/awskrug/events/310381376/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 08. 12(화) ~ 08. 19(화) 19:00
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
@@ -168,10 +160,10 @@
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
   - 접수: 08. 08(금) ~ 08. 31(일)
-- __[IoTcube Conference 2025](https://fairpass.co.kr/RunEventInfo?eventcode=3131)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 4단계 BK21 컴퓨터학교육연구단
-  - 접수: 07. 15(화) ~ 08. 19(화)
+- __[완전 자율 네트워크 운영을 위한 초단기 네트워크 트래픽 예측](https://aifactory.space/task/9162/overview)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: ETRI 네트워크 해커톤
+  - 접수: 08. 01(금) ~ 08. 31(일)
 
 <br />
 
