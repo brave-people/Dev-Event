@@ -182,9 +182,9 @@
   - 주최: 루트임팩트
   - 접수: 08. 13(수) ~ 09. 09(화)
 - __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: 루트임팩트
-  - 접수: 08. 13(수) ~ 09. 09(화)
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 델
+  - 접수: 08. 04(월) ~ 09. 16(화)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
