@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 08월
-- __[2025 데이터센터코리아 전시회](https://datacenterkorea.kr/visitor/guide/)__
-  - 분류: `오프라인(부산)`, `유료`, `기술일반`
-  - 주최: 부산광메쎄이상역시
-  - 접수: 07. 28(월) ~ 08. 12(화)
-
-- __[BUSAN INDIE WAVE CONFERENCE - Focus Session](https://okky.kr/articles/1539521)__
-  - 분류: `오프라인(부산)`, `무료`, `기술일반`
-  - 주최: 부산광역시
-  - 접수: 07. 28(월) ~ 08. 13(수)
-- __[Us:Code 청년개발자 {"아카데미}" vol.2: 청년개발자들의 의성 살아보기](https://www.all-con.co.kr/view/contest/528318)__
-  - 분류: `오프라인(경북 의성)`, `무료`, `모임`
-  - 주최: 메이드인피플
-  - 접수: 08. 01(금) ~ 08. 13(수)
-- __[토스쇼핑 엔지니어링 밋업](https://toss.im/builder/to/0abb5ebcca7745e8928c44e84ca056ba)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 토스
-  - 접수: 07. 28(월) ~ 08. 13(수)
-- __[글로벌 AI 인재양성 챌린지](https://blog.naver.com/gwict2021/223959789612)__
-  - 분류: `오프라인(강원 원주)`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 07. 14(월) ~ 08. 14(목)
-- __[부스트캠프 AI Tech 8기](https://apply.connect.or.kr/connect/applyDetail?annoId=20013789)__
-  - 분류: `온라인`, `오프라인`, `무료`, `AI`
-  - 주최: 커넥트재단
-  - 접수: 07. 14(월) ~ 08. 14(목)
 - __[2025 네트워크 AI 해커톤 참가자 접수](https://aifactory.space/task/9159/overview)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: ETRI 네트워크 해커톤
   - 접수: 07. 14(월) ~ 08. 15(금)
+
 - __[아시아 개발자를 위한 Web3 부트캠프](https://www.protocolcamp.com/)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: SHARDLAB
@@ -128,6 +104,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 08. 12(화) ~ 08. 19(화) 19:00
+- __[코파일럿 에이전톤 in 서울 2025](https://onoffmix.com/event/329032)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: 마이크로소프트 코리아
+  - 접수: 08. 12(화) ~ 08. 20(수)
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
@@ -152,10 +132,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 06. 30(월) ~ 08. 25(월)
+- __[[바이브코딩 일할맛 세미나] AI 퀄리티를 극한까지 끌어올리는 실무 바이브코딩 무료 세미나!](https://docs.google.com/forms/d/e/1FAIpQLScgN6fR_oVrvKr8hoe-guqz4LVZ5ujBw8EIEkNXhTjOI3UjmQ/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트 캠퍼스
+  - 접수: 08. 15(금) ~ 08. 27(수)
 - __[AWSKRUG 아키텍처 #architecture 53번째 소모임](https://www.meetup.com/awskrug/events/310365030)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 09(토) ~ 08. 28(목)
+- __[도커 개발자 커뮤니티데이 코리아](https://www.meetup.com/docker-korea/events/308811059/)__
+  - 분류: `오프라인(서울 광화문)`, `무료`, `인프라`
+  - 주최: 도커 코리아
+  - 접수: 08. 15(금) ~ 08. 27(수)
 - __[25년도 오픈소스 컨트리뷰션 아카데미 [체험형-2차] 프로젝트 멘티 모집](https://www.oss.kr/contribution_academy_notice/show/5a5c21f4-3184-44ac-99af-41e3b3f74026)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -164,6 +152,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: ETRI 네트워크 해커톤
   - 접수: 08. 01(금) ~ 08. 31(일)
+- __[2025 서울 AI 해커톤 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeQCYiczcJLCAKhG9fsvcFUBrJbdtORDy7Tb0WiML4JtIqMOg/viewform)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 서울AI재단
+  - 접수: 08. 12(화) ~ 08. 31(일)
 
 <br />
 
@@ -185,6 +177,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 삼성 SDS
   - 접수: 07. 10(목) ~ 09. 05(목)
+- __[AI 커리어 스쿨 창업톤 L:AUNCH – 비수도권 청년 예비창업자 모집](https://slashpage.com/aics-launch)__
+  - 분류: `오프라인(대전)`, `무료`, `AI`
+  - 주최: 루트임팩트
+  - 접수: 08. 13(수) ~ 09. 09(화)
 - __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 델
