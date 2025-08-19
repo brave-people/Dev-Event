@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 08월
-- __[2025 네트워크 AI 해커톤 참가자 접수](https://aifactory.space/task/9159/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: ETRI 네트워크 해커톤
-  - 접수: 07. 14(월) ~ 08. 15(금)
-
-- __[아시아 개발자를 위한 Web3 부트캠프](https://www.protocolcamp.com/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: SHARDLAB
-  - 접수: 07. 14(월) ~ 08. 15(금)
-- __[제3회 네트워크 지능화를 위한 인공지능 해커톤](https://aifactory.space/task/9159/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: ETRI 네트워크 해커톤
-  - 접수: 07. 14(월) ~ 08. 15(금)
-- __[PyCon Korea 2025](https://2025.pycon.kr/)__
-  - 분류: `오프라인(동국대)`, `무료`, `기술일반`
-  - 주최: 파이콘
-  - 일시: 08. 15(금) ~ 08. 17(일)
-- __[NYPC 10주년 기념 대학생 리그](https://battle.nypc.co.kr/ko)__
-  - 분류: `오프라인(동국대)`, `무료`, `대회`
-  - 주최: 넥슨
-  - 모집: 07. 07(월) ~ 08. 18(월)
-- __[비전공자도 쉽게 배우는 LLM, 랭체인, RAG 뽀개기](https://docs.google.com/forms/d/e/1FAIpQLSdDBYyuEiOsLp0KVU9yGZ-GrhXtV3syUa1mntB47mdoRd5FFw/viewform)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: 멋지다현 채널
-  - 접수: 08. 08(금) ~ 08. 18(월) 15:00
 - __[2025 디지톡(Digi-talk) 토크콘서트](https://event-us.kr/dgdip/event/109632)__
   - 분류: `오프라인(대구 수성구)`, `무료`, `기술일반`
   - 주최: 대구디지털혁신진흥원
   - 접수: 06. 06(수) ~ 08. 19(화)
+
 - __[IoTcube Conference 2025](https://fairpass.co.kr/RunEventInfo?eventcode=3131)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 4단계 BK21 컴퓨터학교육연구단
@@ -108,6 +84,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: 마이크로소프트 코리아
   - 접수: 08. 12(화) ~ 08. 20(수)
+- __[글로벌 IT 마스터 16인이 릴레이로 전하는 AI 시대 생존 전략](https://event-us.kr/gridge/event/108832)__
+  - 분류: `오프라인(서울 마포)`, `유료`, `AI`
+  - 주최: 그릿지
+  - 일시: 08. 01(금) ~ 08. 21(목)
 - __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: Airflow 한국 사용자 모임
@@ -120,6 +100,10 @@
   - 분류: `오프라인(서울 서초)`, `유료(15만원)`, `벡엔드`
   - 주최: LG
   - 접수: 07. 25(금) ~ 08. 22(금)
+- __[[COMMIT] 사내 데이터, 여기에 다 ‘물어보새’요: RAG 도입과 고도화 이야기](https://tech.goorm.io/2508_commit/?utm_source=community&utm_medium=social&utm_campaign=commit)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 08. 19(화) ~ 08. 22(금)
 - __[FEConf 2025(프론트엔드 컨퍼런스)](https://2025.feconf.kr/)__
   - 분류: `오프라인(세종대학교)`, `유료`, `프론트엔드`
   - 주최: FEConf
@@ -128,6 +112,10 @@
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
   - 접수: 06. 30(월) ~ 08. 25(월)
+- __[2025 제8회 찾아가는 BIPA 테크콘](https://forms.gle/yTCSUg9Gtmmdgzc48)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 부산정보산업진흥원
+  - 접수: 08. 19(화) ~ 08. 25(월)
 - __[스크래퍼 개발자 모임 3회](https://event-us.kr/m/107196/37814)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
@@ -177,6 +165,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 삼성 SDS
   - 접수: 07. 10(목) ~ 09. 05(목)
+- __[AI Challenge Season2](https://contest.dpgtestbed.kr/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 08. 19(화) ~ 09. 05(목)
 - __[AI 커리어 스쿨 창업톤 L:AUNCH – 비수도권 청년 예비창업자 모집](https://slashpage.com/aics-launch)__
   - 분류: `오프라인(대전)`, `무료`, `AI`
   - 주최: 루트임팩트
@@ -184,6 +176,10 @@
 - __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 델
+  - 접수: 08. 04(월) ~ 09. 16(화)
+- __[LLM Agent & On-device AI Workshop 1기 모집](https://llamaacademy.kr/)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
+  - 주최: Meta Llama Academy
   - 접수: 08. 04(월) ~ 09. 16(화)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
@@ -210,6 +206,11 @@
 <br />
 
 ## 25년 11월
+- __[FOSS for All Conference 2025](https://www.facebook.com/fossforall/photos/-foss-for-all-conference-2025-%EA%B0%9C%EC%B5%9C-%EC%86%8C%EC%8B%9D%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AA%A8%EB%91%90%EC%9D%98-%EC%B6%95%EC%A0%9Cfoss-for-all-conference-20/122128934408874967/?_rdr)__
+  - 분류: `오프라인(광운대학교)`, `무료`, `기술일반`
+  - 주최: FOSS for All 
+  - 접수: 08. 19(화) ~ 11. 07(금)
+
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
