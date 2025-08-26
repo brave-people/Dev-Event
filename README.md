@@ -67,47 +67,19 @@
 <br />
 
 ## 25년 08월
-- __[🎉NE(O)RDINARY FESTIVAL🎉 CMC 데모데이에 여러분을 초대합니다!](https://neordinary25.co.kr/)__
-  - 분류: `오프라인(경기 성남)`, `유료`, `모임`
-  - 주최: NE(O)RDINARY
-  - 알사: 08. 22(금) ~ 08. 23(토)
-
-- __[FEConf 2025(프론트엔드 컨퍼런스)](https://2025.feconf.kr/)__
-  - 분류: `오프라인(세종대학교)`, `유료`, `프론트엔드`
-  - 주최: FEConf
-  - 일시: 08. 23(토) 12:50 ~ 17:40 
-- __[VS Code Dev Days | Seoul](https://event-us.kr/powerplatform/event/109244)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 06. 30(월) ~ 08. 25(월)
-- __[2025 제8회 찾아가는 BIPA 테크콘](https://forms.gle/yTCSUg9Gtmmdgzc48)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 부산정보산업진흥원
-  - 접수: 08. 19(화) ~ 08. 25(월)
-- __[스크래퍼 개발자 모임 3회](https://event-us.kr/m/107196/37814)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 06. 30(월) ~ 08. 25(월)
-- __[[바이브코딩 일할맛 세미나] AI 퀄리티를 극한까지 끌어올리는 실무 바이브코딩 무료 세미나!](https://docs.google.com/forms/d/e/1FAIpQLScgN6fR_oVrvKr8hoe-guqz4LVZ5ujBw8EIEkNXhTjOI3UjmQ/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트 캠퍼스
-  - 접수: 08. 15(금) ~ 08. 27(수)
-- __[AWSKRUG 아키텍처 #architecture 53번째 소모임](https://www.meetup.com/awskrug/events/310365030)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 09(토) ~ 08. 28(목)
-- __[2025년 8월 28일 Dot4 밋업](https://onoffmix.com/event/328596)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
-  - 주최: Blazor WPF MAUI 
-  - 접수: 08. 23(토) ~ 08. 28(목)
-- __[도커 개발자 커뮤니티데이 코리아](https://www.meetup.com/docker-korea/events/308811059/)__
-  - 분류: `오프라인(서울 광화문)`, `무료`, `인프라`
-  - 주최: 도커 코리아
-  - 접수: 08. 15(금) ~ 08. 27(수)
 - __[MLSA와 함께하는 대학생 IT 러닝 캠프](https://event-us.kr/mlsakr/event/108022)__ 
   - 분류: `오프라인(한국 마이크로소프트)`, `무료`, `기술일반`
   - 주최: MLSA Korea
-  - 접수: 07.10(목) ~ 08. 29(금)
+  - 접수: 07. 10(목) ~ 08. 29(금)
+
+- __[2025 이지랩 메이커톤 참가 모집](https://event-us.kr/1Tgns0mxZ4YZ/event/111108)__ 
+  - 분류: `오프라인(서울 중구)`, `무료`, `대회`
+  - 주최: 동국대 메이커스페이스
+  - 접수: 08. 26(화) ~ 08. 29(금)
+- __[2025 이지랩 메이커톤 참가 모집](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUtCdJNNitEJJkCimE7CvQk9UN0tQUlRCNERFVUc4NENaRklHUVBIUkVKRi4u)__ 
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 엘리스
+  - 접수: 08. 26(화) ~ 08. 29(금)
 - __[25년도 오픈소스 컨트리뷰션 아카데미 [체험형-2차] 프로젝트 멘티 모집](https://www.oss.kr/contribution_academy_notice/show/5a5c21f4-3184-44ac-99af-41e3b3f74026)__
   - 분류: `오프라인`, `무료`, `오픈소스`
   - 주최: 과학기술정보통신부
@@ -133,6 +105,10 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 인프런
   - 접수: 08. 19(화) ~ 09. 02(화)
+- __[스위프 웹 10기 데모데이 & 네트워킹 행사](https://tally.so/r/mD8Oll)__
+  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
+  - 주최: 스위프
+  - 접수: 08. 26(화) ~ 09. 03(수)
 - __[AWSKRUG 컨테이너 모임 🐳 AWS SE: EKS Series #1](https://www.meetup.com/awskrug/events/310351943/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -177,6 +153,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
   - 주최 : AWSKRUG
   - 접수 : 08. 21(목) ~ 09. 17(목)
+- __[Sui-mming Hackathon 2025](https://luma.com/rhv3wj3l)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 주최 : DSRV
+  - 접수 : 08. 26(화) ~ 09. 19(금)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
