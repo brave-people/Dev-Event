@@ -179,10 +179,9 @@
   - 접수: 08. 04(월) ~ 10. 14(화)
 
 - __[Flutter Alliance 2025](https://www.ticketa.co/events/27)__
-  - 분류: `오프라인(서울 광화문)`, `유료`, `Flutter`, `기술일반`
+  - 분류: `오프라인(서울 광화문)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
   - 일시: 10. 19(일) ~ 10. 19(일)
-
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
@@ -197,16 +196,13 @@
   - 접수: 08. 19(화) ~ 11. 07(금)
 
 - __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
-  - 분류: `오프라인`, `유료`, `Go`, `기술일반`
+  - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
   - 일시: 11. 09(일) ~ 11. 09(일)
-
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 일시: 11. 25(화) ~ 11. 27(목)
-
-  
 
 <br />
 
