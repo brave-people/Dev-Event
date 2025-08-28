@@ -76,6 +76,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `대회`
   - 주최: 동국대 메이커스페이스
   - 접수: 08. 26(화) ~ 08. 29(금)
+- __[오픈소스 데이(Open Source Day)](https://gpaseoul.kr/bbs/board.php?bo_table=side_event_KR&wr_id=33)__ 
+  - 분류: `오프라인(서울)`, `무료`, `오픈소스`
+  - 주최: 개인정보위원회
+  - 접수: 08. 26(화) ~ 08. 29(금)
 - __[2025 이지랩 메이커톤 참가 모집](https://forms.office.com/pages/responsepage.aspx?id=9PG2W0gLlkSbr_n7faXTUtCdJNNitEJJkCimE7CvQk9UN0tQUlRCNERFVUc4NENaRklHUVBIUkVKRi4u)__ 
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 엘리스
@@ -133,6 +137,10 @@
   - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
   - 주최: 연개발특구진흥재단
   - 접수: 08. 21(목) ~ 09. 09(화)
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/310659795)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 08. 28(목) ~ 09. 10(수)
 - __[[국비지원] 백엔드 개발 트랙 1기](https://www.wanted.co.kr/events/potenup_be_1)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `벡엔드`
   - 주최: 원티드
@@ -141,6 +149,10 @@
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `프론트엔드`
   - 주최: 원티드
   - 접수: 08. 23(토) ~ 09. 12(금) 13:00
+- __[한빛+ 데브그라운드 2025 with Upstage](https://event-us.kr/FKH3nHkjmPGh/event/109414)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
+  - 주최: 한빛미디어
+  - 접수: 08. 27(수) ~ 09. 15(월) 14:00
 - __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 델
