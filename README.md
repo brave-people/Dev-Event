@@ -494,8 +494,8 @@
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 | GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
-| Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup) [채팅방](https://open.kakao.com/o/gMbf0M9g) |
-| Dev Korea | [homepage](https://dev-korea.com/events) [Discord](https://discord.gg/hqzMbuXy73) |
+| Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
+| Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -760,7 +760,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JinleeJeong"><img src="https://avatars.githubusercontent.com/u/45163013?v=4?s=100" width="100px;" alt="Jinlee"/><br /><sub><b>Jinlee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JinleeJeong" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yucori"><img src="https://avatars.githubusercontent.com/u/110710238?v=4?s=100" width="100px;" alt="Yucori"/><br /><sub><b>Yucori</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yucori" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pmj-chosim"><img src="https://avatars.githubusercontent.com/u/114579651?v=4?s=100" width="100px;" alt="박민진"/><br /><sub><b>박민진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pmj-chosim" title="Code">💻</a></td>
-             <td align="center" valign="top" width="14.28%"><a href="https://github.com/florianldt"><img src="https://avatars.githubusercontent.com/u/9365651?v=4?s=100" width="100px;" alt="Florian Ludot"/><br /><sub><b>Florian Ludot</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=florianldt" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/florianldt"><img src="https://avatars.githubusercontent.com/u/9365651?v=4?s=100" width="100px;" alt="Florian Ludot"/><br /><sub><b>Florian Ludot</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=florianldt" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
