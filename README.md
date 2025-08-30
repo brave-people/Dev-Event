@@ -100,11 +100,15 @@
 <br />
 
 ## 25년 09월
+- __[Dev Korea #2: App growth strategies for taking your app to the next level](https://dev-korea.com/events/dev-korea-2-september-2025)__
+  - 분류: `오프라인(서울)`, `무료`, `모바일 앱`, `성장`, `네트워킹`
+  - 주최: Dev Korea
+  - 접수: 08. 18(월) ~ 09. 01(월)
+    
 - __[Uracle AI Summit 2025](https://event-us.kr/uracle/event/109419)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 유라클
   - 접수: 07. 14(월) ~ 09. 02(화)
-
 - __[나의 첫 인프런 챌린지 만들기 (+온라인 설명회)](https://inf.run/EtMiq)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 인프런
