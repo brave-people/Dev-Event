@@ -490,6 +490,8 @@
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 | GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
+| Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup) [채팅방](https://open.kakao.com/o/gMbf0M9g) |
+| Dev Korea | [homepage](https://dev-korea.com/events) [Discord](https://discord.gg/hqzMbuXy73) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
