@@ -67,35 +67,15 @@
 <br />
 
 ## 25년 09월
-- __[스위프 웹 10기 데모데이 & 네트워킹 행사](https://tally.so/r/mD8Oll)__
-  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
-  - 주최: 스위프
-  - 접수: 08. 26(화) ~ 09. 03(수)
-
-- __[AI 활용, 위협 및 보안 동향 - 기술 및 정책 관점에서](https://aifactory.space/task/9192/overview)__
-  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
-  - 주최: 이노폴리스벤처협회
-  - 일시: 09. 03(수) 15:30 ~ 09. 03(수) 16:30
-- __[AWSKRUG 컨테이너 모임 🐳 AWS SE: EKS Series #1](https://www.meetup.com/awskrug/events/310351943/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 08. 09(토) ~ 09. 04(목)
-- __[KWDC25](https://www.ticketa.co/events/12)__
-  - 분류: `오프라인(서울)`, `유료`, `ios`
-  - 주최: KWDC25
-  - 접수: 07. 10(목) ~ 09. 05(목)
-- __[REAL Summit 2025](https://www.realsummit2025.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 삼성 SDS
-  - 접수: 07. 10(목) ~ 09. 05(목)
-- __[AI Challenge Season2](https://contest.dpgtestbed.kr/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 19(화) ~ 09. 05(목)
 - __[if(kakao)25](https://if.kakao.com/2025)__
   - 분류: `오프라인(경기 용인)`, `무료`, `기술일반`
   - 주최: kakao
   - 접수: 08. 28(목) ~ 09. 08(월)
+
+- __[나노바나나 해커톤](https://www.kaggle.com/competitions/banana)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 구글 딥마인드
+  - 접수: 09. 05(금) ~ 09. 08(월)
 - __[AI 커리어 스쿨 창업톤 L:AUNCH – 비수도권 청년 예비창업자 모집](https://slashpage.com/aics-launch)__
   - 분류: `오프라인(대전)`, `무료`, `AI`
   - 주최: 루트임팩트
@@ -136,6 +116,10 @@
   - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
   - 주최: 한빛미디어
   - 접수: 08. 27(수) ~ 09. 15(월) 14:00
+- __[보안에 강한 MCP 서버 구축 노하우](https://fastcampus.co.kr/open_sem_mcpa2a)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: 패스트캠퍼스
+  - 접수: 09. 06(토) ~ 09. 15(월)
 - __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 델
@@ -160,6 +144,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최 : DSRV
   - 접수 : 08. 26(화) ~ 09. 19(금)
+- __[글로벌 바이오·AI·양자 융합 행사](https://www.g-bioai.com/)__
+  - 분류: `오프라인(수원컨벤션센터)`, `무료`, `AI`
+  - 주최 : 경기도
+  - 접수 : 09. 06(토) ~ 09. 21(일)
+- __[SonarQube로 배우는 코드 품질 진단과 개선](https://docs.google.com/forms/d/e/1FAIpQLSfkp-kLqcbGdavC33XjNmFym1ypzMGAukSlxVLT4qoiHxFB8w/viewform)__
+  - 분류: `오프라인(부산)`, `무료`, `기술일반`
+  - 주최 : 고용노동부
+  - 접수 : 09. 06(토) ~ 09. 21(일)
 - __[2025 국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최 : 국방부
@@ -174,6 +166,10 @@
   - 접수: 09. 03(수) ~ 09. 24(수)
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/310846780/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 09. 03(수) ~ 09. 24(수)
+- __[AWS Community Day 2025 발표 및 스폰서 모집](https://docs.google.com/forms/d/e/1FAIpQLSe7dFydNC-FJKLiFa2fvxklO3t2vbYOZru0SP4cfXvJGdBSDQ/viewform)__
+  - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 03(수) ~ 09. 24(수)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
