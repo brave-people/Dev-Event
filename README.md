@@ -142,24 +142,24 @@
   - 접수: 08. 28(목) ~ 09. 18(목) 13:00
 - __[Sui-mming Hackathon 2025](https://luma.com/rhv3wj3l)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최 : DSRV
-  - 접수 : 08. 26(화) ~ 09. 19(금)
+  - 주최: DSRV
+  - 접수: 08. 26(화) ~ 09. 19(금)
 - __[글로벌 바이오·AI·양자 융합 행사](https://www.g-bioai.com/)__
   - 분류: `오프라인(수원컨벤션센터)`, `무료`, `AI`
-  - 주최 : 경기도
-  - 접수 : 09. 06(토) ~ 09. 21(일)
+  - 주최: 경기도
+  - 접수: 09. 06(토) ~ 09. 21(일)
 - __[SonarQube로 배우는 코드 품질 진단과 개선](https://docs.google.com/forms/d/e/1FAIpQLSfkp-kLqcbGdavC33XjNmFym1ypzMGAukSlxVLT4qoiHxFB8w/viewform)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
-  - 주최 : 고용노동부
-  - 접수 : 09. 06(토) ~ 09. 21(일)
+  - 주최: 고용노동부
+  - 접수: 09. 06(토) ~ 09. 21(일)
 - __[2025 국방 AI 경진대회](https://maicon.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
-  - 주최 : 국방부
-  - 접수 : 09. 01(월) ~ 09. 21(일)
+  - 주최: 국방부
+  - 접수: 09. 01(월) ~ 09. 21(일)
 - __[오픈소스SW 라이선스 전문교육](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=561)__
   - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최 : 문화체육관광부
-  - 접수 : 09. 03(수) ~ 09. 22(월)
+  - 주최: 문화체육관광부
+  - 접수: 09. 03(수) ~ 09. 22(월)
 - __[C# 개발자 모임 - 2025년 9월 25일 Dot4 밋업](https://onoffmix.com/event/330500)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
@@ -171,7 +171,7 @@
 - __[AWS Community Day 2025 발표 및 스폰서 모집](https://docs.google.com/forms/d/e/1FAIpQLSe7dFydNC-FJKLiFa2fvxklO3t2vbYOZru0SP4cfXvJGdBSDQ/viewform)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 09. 03(수) ~ 09. 24(수)
+  - 접수: 09. 06(토) ~ 09. 24(수)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
