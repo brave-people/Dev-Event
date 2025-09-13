@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 09월
-- __[kt cloud TECH UP](https://ktcloud-techup.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
-  - 주최: kt cloud
-  - 접수: 08. 28(목) ~ 09. 11(목)
-
-- __[[국비지원] 백엔드 개발 트랙 1기](https://www.wanted.co.kr/events/potenup_be_1)__
-  - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `벡엔드`
-  - 주최: 원티드
-  - 접수: 08. 23(토) ~ 09. 12(금) 13:00
-- __[[국비지원] 프론트엔드 개발 트랙 1기](https://www.wanted.co.kr/events/potenup_fe_1)__
-  - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `프론트엔드`
-  - 주최: 원티드
-  - 접수: 08. 23(토) ~ 09. 12(금) 13:00
-- __[2025 LG유플러스 테크 컨퍼런스 '유플텍플'](https://www.careertalk.kr/event-pin/7004096)__
-  - 분류: `오프라인(서울 마곡)`, `무료`, `기술일반`
-  - 주최: LG유플러스
-  - 접수: 09. 01(월) ~ 09. 12(금)
 - __[모든 탭에 퍼지는 실시간 이벤트, SSE 1개로 끝내는 전략](https://flex.team/blog/2025/09/02/sse/)__
   - 분류: `오프라인(경기 서현)`, `무료`, `기술일반`
   - 주최: flex
   - 접수: 09. 03(수) ~ 09. 14(일)
+
 - __[한빛+ 데브그라운드 2025 with Upstage](https://event-us.kr/FKH3nHkjmPGh/event/109414)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
   - 주최: 한빛미디어
@@ -136,6 +120,14 @@
   - 분류: `오프라인`, `무료`, `대회`, `보안`
   - 주최: 이노폴리스벤처협회
   - 접수: 08. 28(목) ~ 09. 19(금)
+- __[Global AI - VS Code Dev Days](https://event-us.kr/matdaaiga/event/109910)__
+  - 분류: `오프라인(경북 경산)`, `무료`, `AI`
+  - 주최: 맞다
+  - 접수: 09. 13(토) ~ 09. 19(금)
+- __[2025 KAUPC 프로그래밍 경진대회](https://docs.google.com/forms/d/e/1FAIpQLSeYv_G6em1IGK7Ri37xW_aQBwEEABcnnr7pwUndG0su6ShDcA/viewform)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 한국항공대학교 SW중심대학사업단
+  - 접수: 09. 01(월) ~ 09. 19(금)
 - __[글로벌 바이오·AI·양자 융합 행사](https://www.g-bioai.com/)__
   - 분류: `오프라인(수원컨벤션센터)`, `무료`, `AI`
   - 주최: 경기도
@@ -180,6 +172,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 두들공방
   - 접수: 09. 08(월) ~ 09. 26(금)
+- __[AI로 슬기로운 PET 생활](http://daegu-koreaitlab.com/2025/community/seminar_view.asp?seq=38&dbType=NEW)__
+  - 분류: `오프라인(대구)`, `무료`, `AI`
+  - 주최: 코리아IT아카데미
+  - 접수: 09. 13(토) ~ 09. 26(금)
 - __[[비댁스 1day 아이디어톤] 참가 의향서](https://docs.google.com/forms/d/e/1FAIpQLSejwt3WNfcz2yEGHNUO-Z_Pe0gPgdZeYxe0hoCsdk5s13eAjA/viewform)__
   - 분류: `오프라인(부산 벡스코)`, `무료`, `대회`
   - 주최: 부산광역시
