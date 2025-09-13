@@ -184,6 +184,10 @@
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 03(수) ~ 09. 29(월)
+- __[제15회 피우다프로젝트 : (사회적 임팩트 조직의 활동을 돕는 ICT솔루션 개발)](https://docs.google.com/forms/d/e/1FAIpQLSdyEuaMLGMleGOyXUrwZqfXUHvAfE4Lkfxd67mHITgiEkphEg/viewform)__
+  - 분류: `오프라인`, `온라인`. `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 09. 01(월) ~ 09. 29(월)
 - __[2025 제주 AI 컨퍼런스](https://jejuai.kr/)__
   - 분류: `오프라인(제주시 중앙로)`, `무료`, `기술일반`
   - 주최: 제주산학융합원
