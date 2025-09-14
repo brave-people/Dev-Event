@@ -1617,6 +1617,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mandu5",
+      "name": "mandu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58925260?v=4",
+      "profile": "https://mandu5.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
