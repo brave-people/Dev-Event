@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 09월
-- __[한빛+ 데브그라운드 2025 with Upstage](https://event-us.kr/FKH3nHkjmPGh/event/109414)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `기술일반`
-  - 주최: 한빛미디어
-  - 접수: 08. 27(수) ~ 09. 15(월) 14:00
-
-- __[보안에 강한 MCP 서버 구축 노하우](https://fastcampus.co.kr/open_sem_mcpa2a)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: 패스트캠퍼스
-  - 접수: 09. 06(토) ~ 09. 15(월)
-- __[Cloud Native Korea Community Day 2025](https://kcd-korea.net/)__
-  - 분류: `오프라인(백범김구기념관)`, `유료`, `클라우드`
-  - 주최: Cloud Native Korea
-  - 접수: 09. 01(월) ~ 09. 29(월)
-- __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 델
-  - 접수: 08. 04(월) ~ 09. 16(화)
-- __[LLM Agent & On-device AI Workshop 1기 모집](https://llamaacademy.kr/)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: Meta Llama Academy
-  - 접수: 08. 04(월) ~ 09. 16(화)
 - __[AWSKRUG 데이터 모임](https://www.meetup.com/awskrug/events/310626090)__
   - 분류: `오프라인(서울 강남)`, `무료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 08. 21(목) ~ 09. 17(목)
+
 - __[안티랜섬웨어 세미나](https://www.ahtid.co.kr/event/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=167319115&t=board)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: 아티드
@@ -140,14 +120,30 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 국방부
   - 접수: 09. 01(월) ~ 09. 21(일)
+- __[한양대 MOT 직강! 스타트업 필수 AI 실무 교육](https://ablearn.kr/hyu_aid)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 한양대학교
+  - 접수: 09. 17(수) ~ 09. 21(일)
 - __[오픈소스SW 라이선스 전문교육](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=561)__
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: 문화체육관광부
   - 접수: 09. 03(수) ~ 09. 22(월)
 - __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/310882066)__
   - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최:AWSKRUG
+  - 주최: AWSKRUG
   - 접수: 09. 15(화) ~ 09. 22(월)
+- __[쿠팡 신입사원 온라인 채용설명회](https://docs.google.com/forms/d/e/1FAIpQLSegWb073JsW0yz4dCMUvlsqPu4gQ-0z_fSebNUua6R6tX9wVg/viewform)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 쿠팡
+  - 접수: 09. 17(수) ~ 09. 23(화)
+- __[Status Network Builders' Night](https://luma.com/b9jxt793)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 주최: Status Network
+  - 접수: 09. 17(수) ~ 09. 23(화)
+- __[오픈 테크넷 서밋(OpenTechnet Summit) 2025](https://www.ddaily.co.kr/seminar/view?idx=348)__
+  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반`
+  - 주최: 디지털데일리
+  - 접수: 09. 17(수) ~ 09. 23(화)
 - __[C# 개발자 모임 - 2025년 9월 25일 Dot4 밋업](https://onoffmix.com/event/330500)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
@@ -192,7 +188,7 @@
   - 분류: `오프라인(제주시 중앙로)`, `무료`, `기술일반`
   - 주최: 제주산학융합원
   - 접수: 09. 01(월) ~ 09. 30(화)
-- [국내 최고 AI 전문가들이 전하는 AI 시대, 우리의 삶과 일자리](https://ablearn.kr/gbsa_seminar)
+- __[국내 최고 AI 전문가들이 전하는 AI 시대, 우리의 삶과 일자리](https://ablearn.kr/gbsa_seminar)__
   - 분류: `오프라인(수원)`, `무료`, `AI`
   - 주최: 경기도경제과학진흥원
   - 접수: 09. 15(월) ~ 09. 30(화)
@@ -200,15 +196,19 @@
 <br />
 
 ## 25년 10월
-- [Kubestronaut과 함께하는 Community Day - Any Questions? Ask CloudBro!](https://event-us.kr/cloudbro/event/110962)
+- __[Kubestronaut과 함께하는 Community Day - Any Questions? Ask CloudBro!](https://event-us.kr/cloudbro/event/110962)__
   - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
   - 주최: CloudBro
   - 접수: 09. 08(월) ~ 10. 09(목)
 
-- [2026 우아한테크코스 신입생 모집](https://www.woowacourse.io/apply)
+- __[2026 우아한테크코스 신입생 모집](https://www.woowacourse.io/apply)__
   - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `무료`
   - 주최: 우아한형제들
   - 접수: 09. 29(월) ~ 10. 10(금)
+- __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
+  - 분류: `오프라인`, `무료`, `클라우드`
+  - 주최: AWS
+  - 접수: 09. 17(수) ~ 10. 13(월)
 - __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 금융위원회
@@ -217,6 +217,10 @@
   - 분류: `오프라인(서울 광화문)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
   - 일시: 10. 19(일) ~ 10. 19(일)
+- __[퇴근 후 밋업 : AI로 다시 만드는 커리어](https://m.jobkorea.co.kr/help/notice/view?B_No=14988)__
+  - 분류: `오프라인(서울 교대)`, `무료`, `AI`
+  - 주최: 잡코리아
+  - 접수: 09. 17(수) ~ 10. 19(일)
 - __[2025 AI·데이터 경진대회](https://www.bigcontest.or.kr/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 한국정보통신진흥협회
