@@ -217,7 +217,7 @@
   - 분류: `오프라인(국립아시아문화전당 국제 회의실)`, `무료`, `기술일반`
   - 주최: 광주광역시
   - 접수: 09. 18(목) ~ 10. 22(수)
-- __[DATADOG SUMMIT](https://www.bigcontest.or.kr/)__
+- __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 데이터독
   - 접수: 09. 18(목) ~ 10. 23(목)
