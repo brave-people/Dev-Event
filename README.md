@@ -67,55 +67,11 @@
 <br />
 
 ## 25년 09월
-- __[Sui-mming Hackathon 2025](https://luma.com/rhv3wj3l)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: DSRV
-  - 접수: 08. 26(화) ~ 09. 19(금)
-
-- __[KOSCOM AI Agent Challenge 2025](https://www.koscomai.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: KOSCOM
-  - 접수: 08. 25(월) ~ 09. 19(금)
-- __[딥테크 AI 세미나 - AI로 여는 특허 데이터 활용 사례](https://aifactory.space/task/9194/overview)__
-  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
-  - 주최: 이노폴리스벤처협회
-  - 접수: 09. 09(화) ~ 09. 19(금)
-- __[2025년 제 1회 영남권 사이버 공격 방어 대회](https://www.kospo.co.kr/sites/kospo/popup/web_pop_26.html)__
-  - 분류: `오프라인`, `무료`, `대회`, `보안`
-  - 주최: 이노폴리스벤처협회
-  - 접수: 08. 28(목) ~ 09. 19(금)
-- __[Global AI - VS Code Dev Days](https://event-us.kr/matdaaiga/event/109910)__
-  - 분류: `오프라인(경북 경산)`, `무료`, `AI`
-  - 주최: 맞다
-  - 접수: 09. 13(토) ~ 09. 19(금)
-- __[2025 KAUPC 프로그래밍 경진대회](https://docs.google.com/forms/d/e/1FAIpQLSeYv_G6em1IGK7Ri37xW_aQBwEEABcnnr7pwUndG0su6ShDcA/viewform)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 한국항공대학교 SW중심대학사업단
-  - 접수: 09. 01(월) ~ 09. 19(금)
-- __[글로벌 바이오·AI·양자 융합 행사](https://www.g-bioai.com/)__
-  - 분류: `오프라인(수원컨벤션센터)`, `무료`, `AI`
-  - 주최: 경기도
-  - 접수: 09. 06(토) ~ 09. 21(일)
-- __[SonarQube로 배우는 코드 품질 진단과 개선](https://docs.google.com/forms/d/e/1FAIpQLSfkp-kLqcbGdavC33XjNmFym1ypzMGAukSlxVLT4qoiHxFB8w/viewform)__
-  - 분류: `오프라인(부산)`, `무료`, `기술일반`
-  - 주최: 고용노동부
-  - 접수: 09. 06(토) ~ 09. 21(일)
-- __[[도메인 AI Agent 일할맛 세미나] 금융·보안 현장 통하는 진짜 Agent](https://fastcampus.co.kr/sem_mat_09)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 09. 01(월) ~ 09. 21(일)
-- __[2025 국방 AI 경진대회](https://maicon.kr/)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 국방부
-  - 접수: 09. 01(월) ~ 09. 21(일)
-- __[한양대 MOT 직강! 스타트업 필수 AI 실무 교육](https://ablearn.kr/hyu_aid)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 한양대학교
-  - 접수: 09. 17(수) ~ 09. 21(일)
 - __[오픈소스SW 라이선스 전문교육](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=561)__
   - 분류: `온라인`, `무료`, `오픈소스`
   - 주최: 문화체육관광부
   - 접수: 09. 03(수) ~ 09. 22(월)
+
 - __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/310882066)__
   - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
   - 주최: AWSKRUG
@@ -164,6 +120,10 @@
   - 분류: `오프라인(부산 벡스코)`, `무료`, `대회`
   - 주최: 부산광역시
   - 접수: 09. 01(월) ~ 09. 28(일)
+- __[스위프 웹 11기](https://swyp.im/web)__
+  - 분류: `온라인`, `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `모임`
+  - 주최: 스위프
+  - 접수: 09. 22(월) ~ 09. 28(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -193,6 +153,10 @@
   - 주최: CloudBro
   - 접수: 09. 08(월) ~ 10. 09(목)
 
+- __[AI_TOP_100](https://aitop100.org/)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 카카오임팩트
+  - 접수: 09. 24(수) ~ 10. 10(금)
 - __[2026 우아한테크코스 신입생 모집](https://www.woowacourse.io/apply)__
   - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `무료`
   - 주최: 우아한형제들
