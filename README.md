@@ -205,8 +205,8 @@
 <br />
 
 ## 25년 11월
-- __[FOSS for All Conference 2025](https://www.facebook.com/fossforall/photos/-foss-for-all-conference-2025-%EA%B0%9C%EC%B5%9C-%EC%86%8C%EC%8B%9D%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AA%A8%EB%91%90%EC%9D%98-%EC%B6%95%EC%A0%9Cfoss-for-all-conference-20/122128934408874967/?_rdr)__
-  - 분류: `오프라인(광운대학교)`, `무료`, `기술일반`
+- __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
+  - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
   - 접수: 08. 19(화) ~ 11. 07(금)
 
