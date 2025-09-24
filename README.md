@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 09월
-- __[오픈소스SW 라이선스 전문교육](https://www.olis.or.kr/consulting/openswStudyDetail.do?seq=561)__
-  - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최: 문화체육관광부
-  - 접수: 09. 03(수) ~ 09. 22(월)
-
-- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/310882066)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 09. 15(화) ~ 09. 22(월)
-- __[쿠팡 신입사원 온라인 채용설명회](https://docs.google.com/forms/d/e/1FAIpQLSegWb073JsW0yz4dCMUvlsqPu4gQ-0z_fSebNUua6R6tX9wVg/viewform)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 쿠팡
-  - 접수: 09. 17(수) ~ 09. 23(화)
-- __[Status Network Builders' Night](https://luma.com/b9jxt793)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
-  - 주최: Status Network
-  - 접수: 09. 17(수) ~ 09. 23(화)
-- __[오픈 테크넷 서밋(OpenTechnet Summit) 2025](https://www.ddaily.co.kr/seminar/view?idx=348)__
-  - 분류: `오프라인(서울 서초)`, `유료`, `기술일반`
-  - 주최: 디지털데일리
-  - 접수: 09. 17(수) ~ 09. 23(화)
 - __[C# 개발자 모임 - 2025년 9월 25일 Dot4 밋업](https://onoffmix.com/event/330500)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
   - 접수: 09. 03(수) ~ 09. 24(수)
+
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/310846780/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: AWSKRUG
@@ -136,6 +116,10 @@
   - 분류: `온라인`. `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 09. 12(금) ~ 09. 29(월)
+- __[생성형 AI와 과학을 위한 AI](https://aifactory.space/task/9200/overview)__
+  - 분류: `오프라인(대전 유성구)`, `무료`, `AI`
+  - 주최: 이노폴리스벤처협회
+  - 접수: 09. 24(수) ~ 09. 29(월)
 - __[2025 제주 AI 컨퍼런스](https://jejuai.kr/)__
   - 분류: `오프라인(제주시 중앙로)`, `무료`, `기술일반`
   - 주최: 제주산학융합원
@@ -161,14 +145,26 @@
   - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `무료`
   - 주최: 우아한형제들
   - 접수: 09. 29(월) ~ 10. 10(금)
+- __[우아콘 2025](https://2025.woowacon.com/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 우아한형제들
+  - 접수: 09. 23(화) ~ 10. 10(금)
 - __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 09. 17(수) ~ 10. 13(월)
+- __[개발자에서 리더로: 테크 리드를 위한 멘토링 과정](https://goor.me/ZSB7w)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 09. 24(수) ~ 10. 13(월) 17:00
 - __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 금융위원회
   - 접수: 08. 04(월) ~ 10. 14(화)
+- __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 42경산
+  - 접수: 09. 24(수) ~ 10. 18(토)
 - __[Flutter Alliance 2025](https://www.ticketa.co/events/27)__
   - 분류: `오프라인(서울 광화문)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
