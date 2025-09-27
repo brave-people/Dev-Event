@@ -67,43 +67,19 @@
 <br />
 
 ## 25년 09월
-- __[C# 개발자 모임 - 2025년 9월 25일 Dot4 밋업](https://onoffmix.com/event/330500)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 09. 03(수) ~ 09. 24(수)
-
-- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/310846780/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 09. 03(수) ~ 09. 24(수)
-- __[AWS Community Day 2025 발표 및 스폰서 모집](https://docs.google.com/forms/d/e/1FAIpQLSe7dFydNC-FJKLiFa2fvxklO3t2vbYOZru0SP4cfXvJGdBSDQ/viewform)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 09. 06(토) ~ 09. 24(수)
-- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 일시: 09. 23(화) ~ 09. 25(목)
-- __[2025 인공지능 페스타 (AI Festa 2025)](https://aifesta.kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 2025 인공지능 페스타
-  - 접수: 08. 04(월) ~ 09. 25(목)
-- __[두들공방 정기 콘테스트 세모콘](https://medici-edu.co.kr/education/?idx=83)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 두들공방
-  - 접수: 09. 08(월) ~ 09. 26(금)
-- __[AI로 슬기로운 PET 생활](http://daegu-koreaitlab.com/2025/community/seminar_view.asp?seq=38&dbType=NEW)__
-  - 분류: `오프라인(대구)`, `무료`, `AI`
-  - 주최: 코리아IT아카데미
-  - 접수: 09. 13(토) ~ 09. 26(금)
 - __[[비댁스 1day 아이디어톤] 참가 의향서](https://docs.google.com/forms/d/e/1FAIpQLSejwt3WNfcz2yEGHNUO-Z_Pe0gPgdZeYxe0hoCsdk5s13eAjA/viewform)__
   - 분류: `오프라인(부산 벡스코)`, `무료`, `대회`
   - 주최: 부산광역시
   - 접수: 09. 01(월) ~ 09. 28(일)
+
 - __[스위프 웹 11기](https://swyp.im/web)__
   - 분류: `온라인`, `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `모임`
   - 주최: 스위프
   - 접수: 09. 22(월) ~ 09. 28(일)
+- __[에브리AI (EveryAI) 1기, 스터디 리더(선생님) 모집](https://docs.google.com/forms/d/e/1FAIpQLSdtNltBviEz9r0FQusIW6wmR2JmemDOFtfHOvg3F6jhvOVz2w/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 메타코드
+  - 접수: 09. 26(금) ~ 09. 28(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -149,6 +125,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 우아한형제들
   - 접수: 09. 23(화) ~ 10. 10(금)
+- __[Google Hardware Hackathon 2025](https://docs.google.com/forms/d/e/1FAIpQLSd3QnxhQtwPRwp1E8tZrw05UbajXvho-_noSooDNOgSPWO7lQ/viewform)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
+  - 주최: 우아한형제들
+  - 접수: 09. 27(xh) ~ 10. 12(일)
 - __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -157,10 +137,18 @@
   - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
   - 주최: 구름
   - 접수: 09. 24(수) ~ 10. 13(월) 17:00
+- __[LangGraph를 활용한AI Agent 시스템 구축](https://docs.google.com/forms/d/e/1FAIpQLSeKjYhmuurdYA4hsaRhrqOWDIJVLdPQznlmAeH5uMI1nb6Okg/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 대구광역시
+  - 접수: 09. 27(토) ~ 10. 13(월)
 - __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 금융위원회
   - 접수: 08. 04(월) ~ 10. 14(화)
+- __[코레일 해커톤 | 내일路(로) 해커톤 2025](https://onoffmix.com/event/331207)__
+  - 분류: `오프라인(대전)`, `무료`, `대회`
+  - 주최: 한국철도공사
+  - 접수: 09. 23(화) ~ 10. 14(화)
 - __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 42경산
@@ -196,6 +184,10 @@
 - __[Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 구글
+  - 일시: 09. 15(월) ~ 10. 31(금)
+- __[K-DEVCON 2025](https://googlechromeai2025.devpost.com/)__
+  - 분류: `오프라인(서울 광화문)`, `무료`,`기술일반`
+  - 주최:  K-DEVCON
   - 일시: 09. 15(월) ~ 10. 31(금)
 
 <br />
