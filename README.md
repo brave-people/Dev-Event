@@ -205,7 +205,7 @@
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
   - 접수: 08. 19(화) ~ 11. 07(금)
-
+  
 - __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
