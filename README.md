@@ -108,11 +108,15 @@
 <br />
 
 ## 25년 10월
+- __[개발 실무를 위한 고농축 바이브코딩 (Cursor AI, Figma)](https://inf.run/3j8im)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 인프런
+  - 접수: 09. 24(수) ~ 10. 01(수)
+
 - __[Kubestronaut과 함께하는 Community Day - Any Questions? Ask CloudBro!](https://event-us.kr/cloudbro/event/110962)__
   - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
   - 주최: CloudBro
   - 접수: 09. 08(월) ~ 10. 09(목)
-
 - __[AI_TOP_100](https://aitop100.org/)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 카카오임팩트
@@ -127,8 +131,8 @@
   - 접수: 09. 23(화) ~ 10. 10(금)
 - __[Google Hardware Hackathon 2025](https://docs.google.com/forms/d/e/1FAIpQLSd3QnxhQtwPRwp1E8tZrw05UbajXvho-_noSooDNOgSPWO7lQ/viewform)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: 우아한형제들
-  - 접수: 09. 27(xh) ~ 10. 12(일)
+  - 주최: Google
+  - 접수: 09. 27(토) ~ 10. 12(일)
 - __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -146,6 +150,10 @@
   - 주최: 금융위원회
   - 접수: 08. 04(월) ~ 10. 14(화)
 - __[코레일 해커톤 | 내일路(로) 해커톤 2025](https://onoffmix.com/event/331207)__
+  - 분류: `오프라인(대전)`, `무료`, `대회`
+  - 주최: 한국철도공사
+  - 접수: 09. 23(화) ~ 10. 14(화)
+- __[2025 원티드 AX 컨퍼런스ㅣ요즘 개발자들의 AI 사용법](https://www.wanted.co.kr/events/axcon)__
   - 분류: `오프라인(대전)`, `무료`, `대회`
   - 주최: 한국철도공사
   - 접수: 09. 23(화) ~ 10. 14(화)
@@ -185,10 +193,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 구글
   - 일시: 09. 15(월) ~ 10. 31(금)
-- __[K-DEVCON 2025](https://googlechromeai2025.devpost.com/)__
+- __[K-DEVCON 2025](https://www.ticketa.co/events/33)__
   - 분류: `오프라인(서울 광화문)`, `무료`,`기술일반`
-  - 주최:  K-DEVCON
-  - 일시: 09. 15(월) ~ 10. 31(금)
+  - 주최: K-DEVCON
+  - 일시: 09. 27(토) ~ 10. 31(금)
 
 <br />
 
