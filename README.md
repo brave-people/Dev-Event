@@ -201,14 +201,11 @@
 <br />
 
 ## 25년 11월
-- __[K-DEVCON 2025](https://www.ticketa.co/events/33)__
-  - 분류: `오프라인(서울 광화문)`, `유료`, `기술일반`
-  - 주최: K-DEVCON 
-  - 일시: 11. 01(토)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
   - 접수: 08. 19(화) ~ 11. 07(금)
+  
 - __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
