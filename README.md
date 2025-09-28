@@ -157,6 +157,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 09. 27(토) ~ 10. 15(수)
+- __[Dev Korea #3: with PostHog](https://dev-korea.com/events/dev-korea-3-october-2025)__
+  - 분류: `오프라인`, `무료`, `PostHog`, `프로덕트`, `애널리틱스`
+  - 주최: Dev Korea
+  - 접수: 09. 28(토) ~ 10. 16(수)
 - __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 42경산
