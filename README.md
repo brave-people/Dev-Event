@@ -145,6 +145,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 09. 27(토) ~ 10. 15(수)
+- __[Dev Korea #3: with PostHog](https://dev-korea.com/events/dev-korea-3-october-2025)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 09. 28(토) ~ 10. 16(수)
 - __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
