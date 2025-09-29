@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 09월
-- __[[비댁스 1day 아이디어톤] 참가 의향서](https://docs.google.com/forms/d/e/1FAIpQLSejwt3WNfcz2yEGHNUO-Z_Pe0gPgdZeYxe0hoCsdk5s13eAjA/viewform)__
-  - 분류: `오프라인(부산 벡스코)`, `무료`, `대회`
-  - 주최: 부산광역시
-  - 접수: 09. 01(월) ~ 09. 28(일)
-
-- __[스위프 웹 11기](https://swyp.im/web)__
-  - 분류: `온라인`, `오프라인`, `무료`, `프론트엔드`, `벡엔드`, `모임`
-  - 주최: 스위프
-  - 접수: 09. 22(월) ~ 09. 28(일)
-- __[에브리AI (EveryAI) 1기, 스터디 리더(선생님) 모집](https://docs.google.com/forms/d/e/1FAIpQLSdtNltBviEz9r0FQusIW6wmR2JmemDOFtfHOvg3F6jhvOVz2w/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 메타코드
-  - 접수: 09. 26(금) ~ 09. 28(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 03(수) ~ 09. 29(월)
+
 - __[제15회 피우다프로젝트 : (사회적 임팩트 조직의 활동을 돕는 ICT솔루션 개발)](https://docs.google.com/forms/d/e/1FAIpQLSdyEuaMLGMleGOyXUrwZqfXUHvAfE4Lkfxd67mHITgiEkphEg/viewform)__
   - 분류: `오프라인`, `온라인`. `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -157,6 +145,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 원티드
   - 접수: 09. 27(토) ~ 10. 15(수)
+- __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 09. 29(월) ~ 10. 15(수)
 - __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 42경산
@@ -169,10 +161,18 @@
   - 분류: `오프라인(서울 교대)`, `무료`, `AI`
   - 주최: 잡코리아
   - 접수: 09. 17(수) ~ 10. 19(일)
+- __[오픈소스 테크데이 2025](https://ostday.kr)__
+  - 분류: `오프라인(서울 양재)`, `무료`, `기술일반`
+  - 주최: ETRI
+  - 일시: 10. 21(화) 10:00 ~ 17:00
 - __[글로벌 게임 개발자 컨퍼런스](https://www.ggdc.or.kr/overview)__
   - 분류: `오프라인(국립아시아문화전당 국제 회의실)`, `무료`, `기술일반`
   - 주최: 광주광역시
   - 접수: 09. 18(목) ~ 10. 22(수)
+- __[1st NAMUHX Hackathon 참가](https://docs.google.com/forms/d/e/1FAIpQLSd1b7K1f87vXOVijGNskmF5pxUeZ84YW7KhX4Cj28uUlXRX_w/viewform)__
+  - 분류: `오프라인(워커힐호텔)`, `무료`, `대회`
+  - 주최: SK인텔릭스
+  - 접수: 09. 22(월) ~ 10. 22(수)
 - __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 데이터독
