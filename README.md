@@ -215,7 +215,7 @@
 ## 25년 12월
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
-  - 주최: 네이버 클라우드
+  - 주최: GDG 인천
   - 접수: 10. 03(금) ~ 12. 05(금)
 
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
