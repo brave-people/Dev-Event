@@ -67,31 +67,19 @@
 <br />
 
 ## 25년 10월
-- __[Kubestronaut과 함께하는 Community Day - Any Questions? Ask CloudBro!](https://event-us.kr/cloudbro/event/110962)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `인프라`
-  - 주최: CloudBro
-  - 접수: 09. 08(월) ~ 10. 09(목)
-
-- __[AI_TOP_100](https://aitop100.org/)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 카카오임팩트
-  - 접수: 09. 24(수) ~ 10. 10(금)
-- __[2026 우아한테크코스 신입생 모집](https://www.woowacourse.io/apply)__
-  - 분류: `온라인`, `오프라인`, `프론트`, `백엔드`, `안드로이드`, `무료`
-  - 주최: 우아한형제들
-  - 접수: 09. 29(월) ~ 10. 10(금)
-- __[우아콘 2025](https://2025.woowacon.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 우아한형제들
-  - 접수: 09. 23(화) ~ 10. 10(금)
 - __[Google Hardware Hackathon 2025](https://docs.google.com/forms/d/e/1FAIpQLSd3QnxhQtwPRwp1E8tZrw05UbajXvho-_noSooDNOgSPWO7lQ/viewform)__
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최: Google
   - 접수: 09. 27(토) ~ 10. 12(일)
+
 - __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 09. 17(수) ~ 10. 13(월)
+- __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557/)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: AWS
+  - 접수: 10. 11(토) ~ 10. 13(월)
 - __[개발자에서 리더로: 테크 리드를 위한 멘토링 과정](https://goor.me/ZSB7w)__
   - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
   - 주최: 구름
@@ -140,10 +128,22 @@
   - 분류: `오프라인(제주)`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 10. 03(금) ~ 10. 19(일)
+- __[AWSKRUG IoT #iot 소모임 "Kiro Learn by Playing](https://www.meetup.com/awskrug/events/311321362/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 19(일)
+- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/311317681/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 20(월)
 - __[오픈소스 테크데이 2025](https://ostday.kr)__
   - 분류: `오프라인(서울 양재)`, `무료`, `기술일반`
   - 주최: ETRI
   - 일시: 10. 21(화) 10:00 ~ 17:00
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/311337307/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 21(화)
 - __[글로벌 게임 개발자 컨퍼런스](https://www.ggdc.or.kr/overview)__
   - 분류: `오프라인(국립아시아문화전당 국제 회의실)`, `무료`, `기술일반`
   - 주최: 광주광역시
@@ -176,6 +176,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 네이버
   - 접수: 10. 27(월) ~ 10. 28(화)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/311319232/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 28(화)
+- __[수익형 앱 런칭 동아리 CMC 18기 모집](https://cmc.makeus.in/apply)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: CMC
+  - 접수: 10. 20(월) ~ 10. 29(수)
+- __[AWSKRUG 컨테이너 #Container 모임](https://www.meetup.com/awskrug/events/311219342/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 29(수)
 - __[채널콘 2025 - AI: REAL CASES ONLY](https://channel.io/ko/blog/articles/channelcon2025-c716a069)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 채널콘
@@ -188,6 +200,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 구글
   - 일시: 09. 15(월) ~ 10. 31(금)
+- __[SK TECH SUMMIT](https://www.skaisummit.com/)__
+  - 분류: `온라인`, `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: SK
+  - 일시: 10. 01(수) ~ 10. 31(금)
 
 <br />
 
@@ -205,6 +221,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
   - 일시: 11. 09(일) ~ 11. 09(일)
+- __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: DMK GLOBAL
+  - 일시: 10. 11(토) ~ 11. 09(일)
 - __[[2025 컴포즈 마법사] 안정성과 리컴포지션 최적화의 공식을 소개합니다](https://www.ticketa.co/events/34)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 지성빈
@@ -345,7 +365,8 @@
               <a href="./end_event/2025/25_06.md"> 06월 </a>,
               <a href="./end_event/2025/25_07.md"> 07월 </a>,
               <a href="./end_event/2025/25_08.md"> 08월 </a>,
-              <a href="./end_event/2025/25_09.md"> 09월 </a>
+              <a href="./end_event/2025/25_09.md"> 09월 </a>,
+              <a href="./end_event/2025/25_10.md"> 10월 </a>
             </td>
         </tr>
         <tr>
