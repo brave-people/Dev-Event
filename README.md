@@ -67,15 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[Google Hardware Hackathon 2025](https://docs.google.com/forms/d/e/1FAIpQLSd3QnxhQtwPRwp1E8tZrw05UbajXvho-_noSooDNOgSPWO7lQ/viewform)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: Google
-  - 접수: 09. 27(토) ~ 10. 12(일)
-
 - __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 09. 17(수) ~ 10. 13(월)
+
 - __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557/)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: AWS
@@ -152,6 +148,10 @@
   - 분류: `오프라인(워커힐호텔)`, `무료`, `대회`
   - 주최: SK인텔릭스
   - 접수: 09. 22(월) ~ 10. 22(수)
+- __[패스트캠퍼스 '일할맛' 10월 자율주행 세미나 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdwBTL8-MNpqMp2_qMTJ5J2yyapcw3WJCXkJnmctn2Yy_hLag/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 13(월) ~ 10. 22(수)
 - __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 데이터독
@@ -160,6 +160,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `밋업`
   - 주최: Airflow 한국 사용자 모임
   - 접수: 09. 18(목) ~ 10. 21(화)
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/332460)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 10. 13(월) ~ 10. 23(목)
 - __[2025 AI·데이터 경진대회](https://www.bigcontest.or.kr/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 한국정보통신진흥협회
@@ -217,6 +221,10 @@
   - 주최: K-DEVCON
   - 일시: 09. 27(토) ~ 11. 01(토)
 
+- __[AWS Community Day 2025 - AI로 혁신하는 최신 클라우드 기술 배우기](https://event-us.kr/awskrug/event/111847)__
+  - 분류: `오프라인(서울 강남)`, `유료`,`기술일반`
+  - 주최: K-DEVCON
+  - 접수: 10. 13(월) ~ 11. 03(월)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
@@ -241,6 +249,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 일시: 11. 25(화) ~ 11. 27(목)
+- __[2025년 새싹(SeSAC) 해커톤 참가자 접수](https://sesac.seoul.kr/system/bbs/notice/detail.do?bbsSeq=11011&currentMenuId=900005001&parentSeq=)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 새싹
+  - 접수: 09. 30(화) ~ 11. 07(금)
 
 <br />
 
