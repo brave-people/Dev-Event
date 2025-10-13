@@ -132,6 +132,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 10. 11(토) ~ 10. 20(월)
+- __[Seoul iOS Meetup [October Edition]](https://www.meetup.com/seoul-ios-meetup/events/311474315)__
+  - 분류: `오프라인`, `무료`, `iOS`, `AI`
+  - 주최: Seoul iOS Meetup
+  - 접수: 10. 10(토) ~ 10. 20(수)
 - __[오픈소스 테크데이 2025](https://ostday.kr)__
   - 분류: `오프라인(서울 양재)`, `무료`, `기술일반`
   - 주최: ETRI
