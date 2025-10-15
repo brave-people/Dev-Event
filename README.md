@@ -67,47 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[Games on AWS](https://aws.amazon.com/ko/events/industry-week/games-on-aws/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 09. 17(수) ~ 10. 13(월)
-
-- __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557/)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: AWS
-  - 접수: 10. 11(토) ~ 10. 13(월)
-- __[개발자에서 리더로: 테크 리드를 위한 멘토링 과정](https://goor.me/ZSB7w)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 09. 24(수) ~ 10. 13(월) 17:00
-- __[LangGraph를 활용한AI Agent 시스템 구축](https://docs.google.com/forms/d/e/1FAIpQLSeKjYhmuurdYA4hsaRhrqOWDIJVLdPQznlmAeH5uMI1nb6Okg/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 대구광역시
-  - 접수: 09. 27(토) ~ 10. 13(월)
-- __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 금융위원회
-  - 접수: 08. 04(월) ~ 10. 14(화)
-- __[코레일 해커톤 | 내일路(로) 해커톤 2025](https://onoffmix.com/event/331207)__
-  - 분류: `오프라인(대전)`, `무료`, `대회`
-  - 주최: 한국철도공사
-  - 접수: 09. 23(화) ~ 10. 14(화)
-- __[2025 원티드 AX 컨퍼런스ㅣ요즘 개발자들의 AI 사용법](https://www.wanted.co.kr/events/axcon)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 원티드
-  - 접수: 09. 27(토) ~ 10. 15(수)
-- __[90분 만에 끝내는 바이브코딩 프로토타입 & MVP 제작](https://fastcampus.co.kr/open_sem_vibeplaybook)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 09. 27(토) ~ 10. 15(수)
 - __[Dev Korea #3: with PostHog](https://dev-korea.com/events/dev-korea-3-october-2025)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Dev Korea
   - 접수: 09. 28(토) ~ 10. 16(수)
-- __[AWSKRUG #AIEngineering - 해커톤 수상자들이 밝히는 Q Developer 활용 비법](https://www.meetup.com/awskrug/events/311164557)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 09. 29(월) ~ 10. 15(수)
+
 - __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 42경산
@@ -124,6 +88,10 @@
   - 분류: `오프라인(제주)`, `무료`, `교육`
   - 주최: 이스트소프트
   - 접수: 10. 03(금) ~ 10. 19(일)
+- __[한양대 MOT에서 배우는 취준생 필수 생성형 AI 실무 교육](https://www.meetup.com/awskrug/events/311321362/)__
+  - 분류: `오프라인(서울)`, `무료`, `AI`
+  - 주최: 한양대
+  - 접수: 09. 22(월) ~ 10. 19(일)
 - __[AWSKRUG IoT #iot 소모임 "Kiro Learn by Playing](https://www.meetup.com/awskrug/events/311321362/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -227,7 +195,7 @@
 
 - __[AWS Community Day 2025 - AI로 혁신하는 최신 클라우드 기술 배우기](https://event-us.kr/awskrug/event/111847)__
   - 분류: `오프라인(서울 강남)`, `유료`,`기술일반`
-  - 주최: K-DEVCON
+  - 주최: AWSKRUG
   - 접수: 10. 13(월) ~ 11. 03(월)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
@@ -237,6 +205,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
   - 일시: 11. 09(일) ~ 11. 09(일)
+- __[SSAFY 15기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=&p_tabseq=226504&p_seq=165&p_pageno=)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 삼성전자
+  - 일시: 10. 27(월) ~ 11. 10(월)
 - __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: DMK GLOBAL
@@ -249,6 +221,10 @@
   - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
   - 주최: 서울특별시
   - 접수: 09. 09(화) ~ 11. 11(화)
+- __[딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회](https://aifactory.space/task/9197/overview)__
+  - 분류: `오프라인`, `무료`, `대회`, `AI`
+  - 주최: 국립과학수사연구원
+  - 일시: 10. 23(목) ~ 11. 20(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
