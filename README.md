@@ -67,15 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[Dev Korea #3: with PostHog](https://dev-korea.com/events/dev-korea-3-october-2025)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 09. 28(토) ~ 10. 16(수)
-
 - __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 42경산
   - 접수: 09. 24(수) ~ 10. 18(토)
+
 - __[Flutter Alliance 2025](https://www.ticketa.co/events/27)__
   - 분류: `오프라인(서울 광화문)`, `유료`, `안드로이드`, `iOS`
   - 주최: Flutter Seoul
@@ -124,6 +120,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 10. 13(월) ~ 10. 22(수)
+- __[런웨이 알레프 & 나노 바나나로 배우는 AI 콘텐츠 제작](https://www.inflearn.com/challenge/live-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%9F%B0%EC%9B%A8%EC%9D%B4-%EC%95%8C%EB%A0%88%ED%94%84-amp)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 인프런
+  - 접수: 10. 15(수) ~ 10. 22(목)
 - __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 데이터독
@@ -132,6 +132,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `밋업`
   - 주최: Airflow 한국 사용자 모임
   - 접수: 09. 18(목) ~ 10. 21(화)
+- __[바닥부터 시작하는 n8n 21일 챌린지 DAY 1, 2](https://fastcampus.co.kr/seminar_online_n8nchallenge)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 17(금) ~ 10. 21(화)
 - __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/332460)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
@@ -194,9 +198,13 @@
   - 일시: 09. 27(토) ~ 11. 01(토)
 
 - __[AWS Community Day 2025 - AI로 혁신하는 최신 클라우드 기술 배우기](https://event-us.kr/awskrug/event/111847)__
-  - 분류: `오프라인(서울 강남)`, `유료`,`기술일반`
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 10. 13(월) ~ 11. 03(월)
+- __[GenCon](https://gencon2025.fastcampus.co.kr/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 17(금) ~ 11. 05(수)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
@@ -208,7 +216,7 @@
 - __[SSAFY 15기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=&p_tabseq=226504&p_seq=165&p_pageno=)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 삼성전자
-  - 일시: 10. 27(월) ~ 11. 10(월)
+  - 접수: 10. 27(월) ~ 11. 10(월)
 - __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: DMK GLOBAL
@@ -221,6 +229,10 @@
   - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
   - 주최: 서울특별시
   - 접수: 09. 09(화) ~ 11. 11(화)
+- __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 화성시
+  - 접수: 10. 17(금) ~ 11. 16(일)
 - __[딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회](https://aifactory.space/task/9197/overview)__
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
@@ -242,6 +254,10 @@
   - 주최: GDG 인천
   - 접수: 10. 03(금) ~ 12. 05(금)
 
+- __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
+  - 분류: `오프라인(이화여대)`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 10. 17(금) ~ 12. 12(금)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
