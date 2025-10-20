@@ -67,43 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[42경산 라피신 모집](https://www.42gyeongsan.kr/ko/main.do#)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 42경산
-  - 접수: 09. 24(수) ~ 10. 18(토)
-
-- __[Flutter Alliance 2025](https://www.ticketa.co/events/27)__
-  - 분류: `오프라인(서울 광화문)`, `유료`, `안드로이드`, `iOS`
-  - 주최: Flutter Seoul
-  - 일시: 10. 19(일) ~ 10. 19(일)
-- __[퇴근 후 밋업 : AI로 다시 만드는 커리어](https://m.jobkorea.co.kr/help/notice/view?B_No=14988)__
-  - 분류: `오프라인(서울 교대)`, `무료`, `AI`
-  - 주최: 잡코리아
-  - 접수: 09. 17(수) ~ 10. 19(일)
-- __[제주 오르미캠프 1기 교육생 모집](https://estfamily.career.greetinghr.com/ko/oreumi-camp)__
-  - 분류: `오프라인(제주)`, `무료`, `교육`
-  - 주최: 이스트소프트
-  - 접수: 10. 03(금) ~ 10. 19(일)
-- __[한양대 MOT에서 배우는 취준생 필수 생성형 AI 실무 교육](https://ablearn.kr/hyu_aid)__
-  - 분류: `오프라인(서울)`, `무료`, `AI`
-  - 주최: 한양대
-  - 접수: 09. 22(월) ~ 10. 19(일)
-- __[AWSKRUG IoT #iot 소모임 "Kiro Learn by Playing](https://www.meetup.com/awskrug/events/311321362/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 10. 11(토) ~ 10. 19(일)
-- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/311317681/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 10. 11(토) ~ 10. 20(월)
-- __[Seoul iOS Meetup [October Edition]](https://www.meetup.com/seoul-ios-meetup/events/311474315)__
-  - 분류: `오프라인`, `무료`, `iOS`, `AI`
-  - 주최: Seoul iOS Meetup
-  - 접수: 10. 10(토) ~ 10. 20(수)
 - __[오픈소스 테크데이 2025](https://ostday.kr)__
   - 분류: `오프라인(서울 양재)`, `무료`, `기술일반`
   - 주최: ETRI
   - 일시: 10. 21(화) 10:00 ~ 17:00
+
 - __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/311337307/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -156,6 +124,14 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `기술일반`
   - 주최: KSUG
   - 접수: 10. 08(수) ~ 10. 24(금)
+- __[GGDC 2025 글로벌게임개발자컨퍼런스](https://ggdc.or.kr/)__
+  - 분류: `오프라인(광주 동구)`, `an료`, `기술일반`
+  - 주최: GGDC
+  - 접수: 10. 23(목) ~ 10. 24(금)
+- __[Red Hat Summit: Connect 2025](https://www.redhat.com/ko/summit/connect/apac/seoul-2025)__
+  - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
+  - 주최: 레드헷
+  - 접수: 10. 20(월) ~ 10. 27(월)
 - __[네이버: DAN 25](https://dan.naver.com/25)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 네이버
@@ -229,6 +205,14 @@
   - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
   - 주최: 서울특별시
   - 접수: 09. 09(화) ~ 11. 11(화)
+- __[2025 한이음 드림업 엑스포 AI 아이디어톤](https://linkareer.com/activity/275327)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 한이음 드림업
+  - 접수: 10. 02(목) ~ 11. 12(수)
+- __[Oracle Dev Day!](https://onoffmix.com/event/332356)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 한국 오라클
+  - 접수: 10. 20(월) ~ 11. 12(수)
 - __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 화성시
@@ -237,6 +221,10 @@
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
   - 일시: 10. 23(목) ~ 11. 20(목)
+- __[Let'Swift 2025 : Ember to Stars](https://letswift.kr/2025/)__
+  - 분류: `오프라인`, `유료`, `iOS`
+  - 주최: Let'Swift
+  - 일시: 09. 29(월) ~ 11. 23(일)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
