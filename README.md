@@ -125,7 +125,7 @@
   - 주최: KSUG
   - 접수: 10. 08(수) ~ 10. 24(금)
 - __[GGDC 2025 글로벌게임개발자컨퍼런스](https://ggdc.or.kr/)__
-  - 분류: `오프라인(광주 동구)`, `an료`, `기술일반`
+  - 분류: `오프라인(광주 동구)`, `무료`, `기술일반`
   - 주최: GGDC
   - 접수: 10. 23(목) ~ 10. 24(금)
 - __[Red Hat Summit: Connect 2025](https://www.redhat.com/ko/summit/connect/apac/seoul-2025)__
