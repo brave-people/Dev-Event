@@ -67,43 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[글로벌 게임 개발자 컨퍼런스](https://www.ggdc.or.kr/overview)__
-  - 분류: `오프라인(국립아시아문화전당 국제 회의실)`, `무료`, `기술일반`
-  - 주최: 광주광역시
-  - 접수: 09. 18(목) ~ 10. 22(수)
-
-- __[1st NAMUHX Hackathon 참가](https://docs.google.com/forms/d/e/1FAIpQLSd1b7K1f87vXOVijGNskmF5pxUeZ84YW7KhX4Cj28uUlXRX_w/viewform)__
-  - 분류: `오프라인(워커힐호텔)`, `무료`, `대회`
-  - 주최: SK인텔릭스
-  - 접수: 09. 22(월) ~ 10. 22(수)
-- __[패스트캠퍼스 '일할맛' 10월 자율주행 세미나 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdwBTL8-MNpqMp2_qMTJ5J2yyapcw3WJCXkJnmctn2Yy_hLag/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 10. 13(월) ~ 10. 22(수)
-- __[런웨이 알레프 & 나노 바나나로 배우는 AI 콘텐츠 제작](https://www.inflearn.com/challenge/live-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%9F%B0%EC%9B%A8%EC%9D%B4-%EC%95%8C%EB%A0%88%ED%94%84-amp)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 인프런
-  - 접수: 10. 15(수) ~ 10. 22(목)
-- __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
-  - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
-  - 주최: 데이터독
-  - 접수: 09. 18(목) ~ 10. 23(목)
-- __[Airflow 한국 사용자 모임 4회 밋업](https://www.meetup.com/korea-apache-airflow-user-group/events/310886570/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `밋업`
-  - 주최: Airflow 한국 사용자 모임
-  - 접수: 09. 18(목) ~ 10. 21(화)
-- __[바닥부터 시작하는 n8n 21일 챌린지 DAY 1, 2](https://fastcampus.co.kr/seminar_online_n8nchallenge)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 10. 17(금) ~ 10. 21(화)
-- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/332460)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 10. 13(월) ~ 10. 23(목)
 - __[2025 AI·데이터 경진대회](https://www.bigcontest.or.kr/)__
   - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
   - 주최: 한국정보통신진흥협회
   - 접수: 09. 03(수) ~ 10. 24(금)
+
 - __[2025 제 3회 DX 포럼](https://www.dxchallenge.co.kr/events/2025-dxforum3)__
   - 분류: `오프라인(부산)`, `무료`, `기술일반`
   - 주최: 부산광역시, 부산테크노파크
@@ -156,6 +124,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 구름
   - 일시: 10. 24(금) 19:00 ~ 20:30
+- __[2025 전자정부표준프레임워크 컨트리뷰션 개발자 평가](https://docs.google.com/forms/d/e/1FAIpQLSfXF789D4FNcuWxx3GDNKgpfEQ3GWWzp6o372UpQ_CRGfWS4w/viewform)__
+  - 분류: `온라인`, `무료`, `오픈소스`
+  - 주최: 표준프레임워크 오픈커뮤니티
+  - 접수: 10. 24(월) ~ 10. 30(목)
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
@@ -168,6 +140,10 @@
   - 분류: `온라인`, `오프라인(서울 코엑스)`, `무료`, `AI`
   - 주최: SK
   - 일시: 10. 01(수) ~ 10. 31(금)
+- __[JNPMEDI 3rd Tech Meetup: AI-Driven Development](https://docs.google.com/forms/d/e/1FAIpQLSc4vcG7IH4H-JdlEdh0_fN1vecSRYU7bLi_JPQcS0CZVwKKpA/viewform)__
+  - 분류: `오프라인(인천 연수구)`, `무료`, `AI`
+  - 주최: JNPMEDI
+  - 접수: 10. 24(금) ~ 10. 31(금) 18:00
 
 <br />
 
