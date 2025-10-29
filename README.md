@@ -164,7 +164,7 @@
 - __[Convo AI World Korea – 실시간 대화형 AI의 미래를 탐구하다](https://luma.com/9b94gwpi)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: Agora
-  - 접수: 10. 29(tn) ~ 11. 10(월)
+  - 접수: 10. 29(수) ~ 11. 10(월)
 - __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: DMK GLOBAL
