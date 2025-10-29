@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[Red Hat Summit: Connect 2025](https://www.redhat.com/ko/summit/connect/apac/seoul-2025)__
-  - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
-  - 주최: 레드헷
-  - 접수: 10. 20(월) ~ 10. 27(월)
-
-- __[네이버: DAN 25](https://dan.naver.com/25)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 네이버
-  - 접수: 10. 27(월) ~ 10. 28(화)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/311319232/)__
-  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 10. 11(토) ~ 10. 28(화)
-- __[AI 와 스테이블코인: 공공 금융 패러다임의 전환](https://aifactory.space/task/9229/overview)__
-  - 분류: `오프라인(대선 유성구)`, `무로`, `AI`
-  - 주최: 이노폴리스벤처협회
-  - 접수: 10. 22(수) ~ 10. 28(화)
 - __[수익형 앱 런칭 동아리 CMC 18기 모집](https://cmc.makeus.in/apply)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: CMC
   - 접수: 10. 20(월) ~ 10. 29(수)
+
 - __[AWSKRUG 컨테이너 #Container 모임](https://www.meetup.com/awskrug/events/311219342/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: AWSKRUG
@@ -124,6 +108,10 @@
   - 분류: `오프라인(인천 연수구)`, `무료`, `AI`
   - 주최: JNPMEDI
   - 접수: 10. 24(금) ~ 10. 31(금) 18:00
+- __[2025 DevFest: 모(여서) 각(자) 코(딩하기) - 개발자는 커밋으로 살찐다](https://event-us.kr/gdgcampuskorea/event/113994)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: GDG Campus Korea
+  - 접수: 10. 16(목) ~ 10. 31(금)
 
 <br />
 
@@ -145,6 +133,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 패스트캠퍼스
   - 접수: 10. 17(금) ~ 11. 05(수)
+- __[AI가 내 코드를 대체할까 두렵나요? JetBrains AI의 Cheuk Ting Ho에게 직접 듣는 '대체되지 않는 개발자'로 살아남는 법](https://www.meetup.com/seoul-pyladies-meetup/events/311673141/)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `AI`
+  - 주최: Pyladies Seoul
+  - 접수: 10. 17(금) ~ 11. 06(목)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
@@ -153,6 +145,14 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: Blaybus
   - 접수: 10. 22(수) ~ 11. 07(금)
+- __[2025년 새싹(SeSAC) 해커톤 참가자 접수](https://sesac.seoul.kr/system/bbs/notice/detail.do?bbsSeq=11011&currentMenuId=900005001&parentSeq=)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 새싹
+  - 접수: 09. 30(화) ~ 11. 07(금)
+- __[스프린트 투 이매진 컵 2026 - 대학생 창업자를 위한 AI 에이전트 파워업 워크숍](https://event-us.kr/imaginecup/event/113450)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `대회`
+  - 주최: 스프린트 투 이매진 컵
+  - 접수: 10. 29(수) ~ 11. 07(금)
 - __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: Golang Korea
@@ -161,6 +161,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 삼성전자
   - 접수: 10. 27(월) ~ 11. 10(월)
+- __[Convo AI World Korea – 실시간 대화형 AI의 미래를 탐구하다](https://luma.com/9b94gwpi)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: Agora
+  - 접수: 10. 29(tn) ~ 11. 10(월)
 - __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: DMK GLOBAL
@@ -205,10 +209,10 @@
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 일시: 11. 25(화) ~ 11. 27(목)
-- __[2025년 새싹(SeSAC) 해커톤 참가자 접수](https://sesac.seoul.kr/system/bbs/notice/detail.do?bbsSeq=11011&currentMenuId=900005001&parentSeq=)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 새싹
-  - 접수: 09. 30(화) ~ 11. 07(금)
+- __[liftIO 2025](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: liftIO
+  - 일시: 10. 29(수) ~ 11. 27(목)
 
 <br />
 
