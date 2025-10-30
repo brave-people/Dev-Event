@@ -205,6 +205,10 @@
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Let'Swift
   - 일시: 09. 29(월) ~ 11. 23(일)
+- __[MiniDebConf Busan 2025](https://busan2025.mini.debconf.org/)__
+  - 분류: `오프라인(부산 국립부경대학교)`, `무료`, `기술일반`
+  - 주최: The Debian Project (데비안)
+  - 일시: 11. 22(토) ~ 11. 23(일)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
