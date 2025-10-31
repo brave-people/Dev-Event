@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 10월
-- __[수익형 앱 런칭 동아리 CMC 18기 모집](https://cmc.makeus.in/apply)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: CMC
-  - 접수: 10. 20(월) ~ 10. 29(수)
-
-- __[AWSKRUG 컨테이너 #Container 모임](https://www.meetup.com/awskrug/events/311219342/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: AWSKRUG
-  - 접수: 10. 11(토) ~ 10. 29(수)
-- __[채널콘 2025 - AI: REAL CASES ONLY](https://channel.io/ko/blog/articles/channelcon2025-c716a069)__
-  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
-  - 주최: 채널콘
-  - 접수: 09. 24(수) ~ 10. 29(수)
-- __[AI 시대, 무엇을 맡기고 무엇을 지켜야 하는가](https://tech.goorm.io/2510_commit/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 구름
-  - 일시: 10. 24(금) 19:00 ~ 20:30
-- __[2025 전자정부표준프레임워크 컨트리뷰션 개발자 평가](https://docs.google.com/forms/d/e/1FAIpQLSfXF789D4FNcuWxx3GDNKgpfEQ3GWWzp6o372UpQ_CRGfWS4w/viewform)__
-  - 분류: `온라인`, `무료`, `오픈소스`
-  - 주최: 표준프레임워크 오픈커뮤니티
-  - 접수: 10. 24(월) ~ 10. 30(목)
-- __[모두를 위한 Full stack 오픈소스 언어모델 KORMo 개발일지](https://aifactory.space/task/9234/overview)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: AIFactory
-  - 일시: 10. 30(목) 19:30 ~ 20:30
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
   - 일시: 03. 24(월) ~ 10. 31(금)
+
 - __[Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 구글
@@ -169,10 +145,14 @@
   - 분류: `오프라인(서울)`, `유료`, `기술일반`
   - 주최: DMK GLOBAL
   - 일시: 10. 11(토) ~ 11. 09(일)
-- __[[2025 컴포즈 마법사] 안정성과 리컴포지션 최적화의 공식을 소개합니다](https://www.ticketa.co/events/34)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 지성빈
-  - 접수: 10. 03(금) ~ 11. 14(금)
+- __[Convo AI World Korea – 실시간 대화형 AI의 미래를 탐구하다](https://luma.com/9b94gwpi)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: Agora
+  - 접수: 10. 31(금) ~ 11. 10(월)
+- __[디지털 혁신 챌린지 해커톤 2025](https://onoffmix.com/event/333477)__
+  - 분류: `오프라인(부산 남구)`, `무료`, `대회`
+  - 주최: BNK 금융그룹
+  - 접수: 10. 31(금) ~ 11. 11(화)
 - __[AI 서밋 서울 앤 엑스포 2025](https://www.aisummit.co.kr/)__
   - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
   - 주최: 서울특별시
@@ -185,6 +165,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: 한국 오라클
   - 접수: 10. 20(월) ~ 11. 12(수)
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/311742206/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 10. 31(금) ~ 11. 12(수)
+- __[[2025 컴포즈 마법사] 안정성과 리컴포지션 최적화의 공식을 소개합니다](https://www.ticketa.co/events/34)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 지성빈
+  - 접수: 10. 03(금) ~ 11. 14(금)
 - __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 화성시
@@ -201,10 +189,18 @@
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
   - 일시: 10. 23(목) ~ 11. 20(목)
+- __[The Debian Project](https://busan2025.mini.debconf.org/)__
+  - 분류: `오프라인(부경대)`, `무료`, `기술일반`
+  - 주최: The Debian Project
+  - 일시: 11. 22(토) ~ 11. 23(일)
 - __[Let'Swift 2025 : Ember to Stars](https://letswift.kr/2025/)__
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Let'Swift
   - 일시: 09. 29(월) ~ 11. 23(일)
+- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
+  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 10. 31(금) ~ 11. 25(화)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
