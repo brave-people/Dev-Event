@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-181-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-182-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -743,6 +743,7 @@
       <td align="center" valign="top" width="14.28%"><a href="http://florianldt.com"><img src="https://avatars.githubusercontent.com/u/9365651?v=4?s=100" width="100px;" alt="Florian Ludot"/><br /><sub><b>Florian Ludot</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=florianldt" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mandu5.vercel.app/"><img src="https://avatars.githubusercontent.com/u/58925260?v=4?s=100" width="100px;" alt="mandu"/><br /><sub><b>mandu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mandu5" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://hyunolike.tistory.com/"><img src="https://avatars.githubusercontent.com/u/61215550?v=4?s=100" width="100px;" alt="장현호 Hyunho Jang"/><br /><sub><b>장현호 Hyunho Jang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyunolike" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://jmkim.kr"><img src="https://avatars.githubusercontent.com/u/3622008?v=4?s=100" width="100px;" alt="Jongmin Kim"/><br /><sub><b>Jongmin Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jmkim" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
