@@ -66,41 +66,12 @@
 
 <br />
 
-## 25년 10월
-- __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
-  - 분류: `온라인`, `무료`, `클라우드`, `대회`
-  - 주최: K-PasaS
-  - 일시: 03. 24(월) ~ 10. 31(금)
-
-- __[Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 구글
-  - 일시: 09. 15(월) ~ 10. 31(금)
-- __[SK TECH SUMMIT](https://www.skaisummit.com/)__
-  - 분류: `온라인`, `오프라인(서울 코엑스)`, `무료`, `AI`
-  - 주최: SK
-  - 일시: 10. 01(수) ~ 10. 31(금)
-- __[JNPMEDI 3rd Tech Meetup: AI-Driven Development](https://docs.google.com/forms/d/e/1FAIpQLSc4vcG7IH4H-JdlEdh0_fN1vecSRYU7bLi_JPQcS0CZVwKKpA/viewform)__
-  - 분류: `오프라인(인천 연수구)`, `무료`, `AI`
-  - 주최: JNPMEDI
-  - 접수: 10. 24(금) ~ 10. 31(금) 18:00
-- __[2025 DevFest: 모(여서) 각(자) 코(딩하기) - 개발자는 커밋으로 살찐다](https://event-us.kr/gdgcampuskorea/event/113994)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: GDG Campus Korea
-  - 접수: 10. 16(목) ~ 10. 31(금)
-
-<br />
-
 ## 25년 11월
-- __[K-DEVCON 2025](https://www.ticketa.co/events/33)__
-  - 분류: `오프라인(서울 광화문)`, `유료`,`기술일반`
-  - 주최: K-DEVCON
-  - 일시: 09. 27(토) ~ 11. 01(토)
-
 - __[AWS Community Day 2025 - AI로 혁신하는 최신 클라우드 기술 배우기](https://event-us.kr/awskrug/event/111847)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 10. 13(월) ~ 11. 03(월)
+
 - __[AWSKRUG #AIEngineering - Amazon OpenSearch 검색과 벡터 이야기](https://www.meetup.com/awskrug/events/311628454/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -109,6 +80,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 패스트캠퍼스
   - 접수: 10. 17(금) ~ 11. 05(수)
+- __[KHU' DATA DATATHON](https://khudata3rd2025.vercel.app/intro)__
+  - 분류: `오프라인`, `유료`, `대회`
+  - 주최: 경희대학교 중앙동아리 KHUDA
+  - 접수: 10. 13(월) ~ 11. 05(수)
 - __[AI가 내 코드를 대체할까 두렵나요? JetBrains AI의 Cheuk Ting Ho에게 직접 듣는 '대체되지 않는 개발자'로 살아남는 법](https://www.meetup.com/seoul-pyladies-meetup/events/311673141/)__
   - 분류: `오프라인(서울 중구)`, `유료`, `AI`
   - 주최: Pyladies Seoul
@@ -197,10 +172,18 @@
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Let'Swift
   - 일시: 09. 29(월) ~ 11. 23(일)
+- __[DevFest Busan 2025 - 모두를 위한 Gemini 활용하기!](https://event-us.kr/gdgbusan/event/113077)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: GDG Busan
+  - 일시: 09. 21(일) ~ 11. 23(일)
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 10. 31(금) ~ 11. 25(화)
+- __[.NET Conf 2025@ Seoul](https://www.onoffmix.com/event/331906)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: .NET Conf
+  - 접수: 11. 03(월) ~ 11. 26(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
