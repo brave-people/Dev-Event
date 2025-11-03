@@ -204,7 +204,10 @@
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
   - 주최: GDG 인천
   - 접수: 10. 03(금) ~ 12. 05(금)
-
+- __[TeoConf2025](https://www.teoconf.com)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `기술일반`, `컨퍼런스`
+  - 주최: TEOConf
+  - 일시: 12. 06(토) ~ 12. 07(일)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -454,7 +457,7 @@
 | React Korea | [facebook](https://www.facebook.com/groups/react.ko/) |
 | Kaggle Korea | [facebook](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) |
 | 파이토치 한국 사용자 모임 | [homepage](https://pytorch.kr/), [facebook](https://www.facebook.com/groups/PyTorchKR/) |
-| 걸스인텍 코리아(Girls in Tech Korea) | [homepage](https://korea.girlsintech.org/), [instagram](https://www.instagram.com/girlsintechkorea/), [youtube](https://youtube.com/@girlsintech-korea6470) |
+| 아이인위 | [instagram](https://www.instagram.com/iinwetech), [linkedin](https://www.linkedin.com/company/i-in-we-tech-beyond-boundaries/) |
 | OKKY (Java,Spring) | [homepage](https://okky.kr/) |
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
