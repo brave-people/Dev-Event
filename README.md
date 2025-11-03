@@ -80,7 +80,7 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 패스트캠퍼스
   - 접수: 10. 17(금) ~ 11. 05(수)
-- __[KHU' DATA DATATHON](https://khudata3rd2025.vercel.app/intro)__
+- __[KHU' DATA DATATHON](https://khudata3rd2025.vercel.app)__
   - 분류: `오프라인`, `유료`, `대회`
   - 주최: 경희대학교 중앙동아리 KHUDA
   - 접수: 10. 13(월) ~ 11. 05(수)
