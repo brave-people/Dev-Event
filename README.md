@@ -189,9 +189,9 @@
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
   - 일시: 10. 23(목) ~ 11. 20(목)
-- __[The Debian Project](https://busan2025.mini.debconf.org/)__
-  - 분류: `오프라인(부경대)`, `무료`, `기술일반`
-  - 주최: The Debian Project
+- __[MiniDebConf Busan 2025](https://busan2025.mini.debconf.org/)__
+  - 분류: `오프라인(부산 국립부경대학교)`, `무료`, `기술일반`
+  - 주최: The Debian Project (데비안)
   - 일시: 11. 22(토) ~ 11. 23(일)
 - __[Let'Swift 2025 : Ember to Stars](https://letswift.kr/2025/)__
   - 분류: `오프라인`, `유료`, `iOS`
