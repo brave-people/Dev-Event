@@ -325,7 +325,8 @@
               <a href="./end_event/2025/25_07.md"> 07월 </a>,
               <a href="./end_event/2025/25_08.md"> 08월 </a>,
               <a href="./end_event/2025/25_09.md"> 09월 </a>,
-              <a href="./end_event/2025/25_10.md"> 10월 </a>
+              <a href="./end_event/2025/25_10.md"> 10월 </a>,
+              <a href="./end_event/2025/25_11.md"> 11월 </a>
             </td>
         </tr>
         <tr>
