@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[GenCon](https://gencon2025.fastcampus.co.kr/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 패스트캠퍼스
-  - 접수: 10. 17(금) ~ 11. 05(수)
-  
-- __[KHU' DATA DATATHON](https://khudata3rd2025.vercel.app)__
-  - 분류: `오프라인`, `유료`, `대회`
-  - 주최: 경희대학교 중앙동아리 KHUDA
-  - 접수: 10. 13(월) ~ 11. 05(수)
-- __[AI가 내 코드를 대체할까 두렵나요? JetBrains AI의 Cheuk Ting Ho에게 직접 듣는 '대체되지 않는 개발자'로 살아남는 법](https://www.meetup.com/seoul-pyladies-meetup/events/311673141/)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `AI`
-  - 주최: Pyladies Seoul
-  - 접수: 10. 17(금) ~ 11. 06(목)
 - __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
   - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
   - 접수: 08. 19(화) ~ 11. 07(금)
+
 - __[MVP 아이디어 기획 | 혁신 창업 아이디어 발굴 공모전](https://www.blaybus.com/activities/527/landing)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: Blaybus
@@ -116,6 +104,10 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: Agora
   - 접수: 10. 31(금) ~ 11. 10(월)
+- __[COMMIT × Figma: From Idea to Reality](https://tech.goorm.io/2025_commit_figma/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 11. 07(금) ~ 11. 10(월) 17:00
 - __[디지털 혁신 챌린지 해커톤 2025](https://onoffmix.com/event/333477)__
   - 분류: `오프라인(부산 남구)`, `무료`, `대회`
   - 주최: BNK 금융그룹
@@ -140,6 +132,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 지성빈
   - 접수: 10. 03(금) ~ 11. 14(금)
+- __[Game Night 2025: Melt into Bespin](https://www.bespinglobal.com/google_event/game-night-2025-melt-into-bespin/)__
+  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
+  - 주최: 지성빈
+  - 접수: 11. 07(금) ~ 11. 14(금)
 - __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 화성시
@@ -164,6 +160,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 토스
   - 접수: 11. 05(수) ~ 11. 17(월)
+- __[연말, 코드를 선물하세요. | 2025 UGG톤 ](https://broken-steel-385.notion.site/2025-UGG-Thon-2a21c70d67ef80abbe5bead6254e246b)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: UMC · 9oormthonUNIV · GDGoC SWU
+  - 접수: 11. 07(금) ~ 11. 20(목)
 - __[딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회](https://aifactory.space/task/9197/overview)__
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
