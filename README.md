@@ -67,51 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
-  - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
-  - 주최: FOSS for All 
-  - 접수: 08. 19(화) ~ 11. 07(금)
-
-- __[MVP 아이디어 기획 | 혁신 창업 아이디어 발굴 공모전](https://www.blaybus.com/activities/527/landing)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: Blaybus
-  - 접수: 10. 22(수) ~ 11. 07(금)
-- __[2025년 새싹(SeSAC) 해커톤 참가자 접수](https://sesac.seoul.kr/system/bbs/notice/detail.do?bbsSeq=11011&currentMenuId=900005001&parentSeq=)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 새싹
-  - 접수: 09. 30(화) ~ 11. 07(금)
-- __[스프린트 투 이매진 컵 2026 - 대학생 창업자를 위한 AI 에이전트 파워업 워크숍](https://event-us.kr/imaginecup/event/113450)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `대회`
-  - 주최: 스프린트 투 이매진 컵
-  - 접수: 10. 29(수) ~ 11. 07(금)
-- __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: Golang Korea
-  - 일시: 11. 09(일) ~ 11. 09(일)
-- __[SSAFY 15기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=&p_tabseq=226504&p_seq=165&p_pageno=)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 삼성전자
-  - 접수: 10. 27(월) ~ 11. 10(월)
-- __[Convo AI World Korea – 실시간 대화형 AI의 미래를 탐구하다](https://luma.com/9b94gwpi)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: Agora
-  - 접수: 10. 29(수) ~ 11. 10(월)
-- __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
-  - 분류: `오프라인(서울)`, `유료`, `기술일반`
-  - 주최: DMK GLOBAL
-  - 일시: 10. 11(토) ~ 11. 09(일)
-- __[Convo AI World Korea – 실시간 대화형 AI의 미래를 탐구하다](https://luma.com/9b94gwpi)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: Agora
-  - 접수: 10. 31(금) ~ 11. 10(월)
-- __[COMMIT × Figma: From Idea to Reality](https://tech.goorm.io/2025_commit_figma/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 11. 07(금) ~ 11. 10(월) 17:00
 - __[디지털 혁신 챌린지 해커톤 2025](https://onoffmix.com/event/333477)__
   - 분류: `오프라인(부산 남구)`, `무료`, `대회`
   - 주최: BNK 금융그룹
   - 접수: 10. 31(금) ~ 11. 11(화)
+
 - __[AI 서밋 서울 앤 엑스포 2025](https://www.aisummit.co.kr/)__
   - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
   - 주최: 서울특별시
@@ -136,6 +96,10 @@
   - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
   - 주최: 지성빈
   - 접수: 11. 07(금) ~ 11. 14(금)
+- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
+  - 주최: flex
+  - 일시: 11. 15(토) 13:30 ~ 15:00
 - __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 화성시
@@ -168,6 +132,10 @@
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: 국립과학수사연구원
   - 일시: 10. 23(목) ~ 11. 20(목)
+- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
+  - 주최: flex
+  - 일시: 11. 22(토) 13:30 ~ 15:00
 - __[MiniDebConf Busan 2025](https://busan2025.mini.debconf.org/)__
   - 분류: `오프라인(부산 국립부경대학교)`, `무료`, `기술일반`
   - 주최: The Debian Project (데비안)
@@ -176,14 +144,22 @@
   - 분류: `오프라인`, `유료`, `iOS`
   - 주최: Let'Swift
   - 일시: 09. 29(월) ~ 11. 23(일)
-- __[스크래퍼 개발자 모임 4회](https://event-us.kr/scraper/event/115709)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 11. 02(화) ~ 11. 24(월)
 - __[DevFest Busan 2025 - 모두를 위한 Gemini 활용하기!](https://event-us.kr/gdgbusan/event/113077)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: GDG Busan
   - 접수: 09. 21(일) ~ 11. 23(일)
+- __[스크래퍼 개발자 모임 4회](https://event-us.kr/scraper/event/115709)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 스크래퍼 개발자 모임
+  - 접수: 11. 02(화) ~ 11. 24(월)
+- __[[n8n Korea 온라인 밋업 #4] 팀을 위한 자동화 4탄](https://infograb.notion.site/29ba508f92238161a77dc56c009b1d85)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: n8n
+  - 접수: 11. 02(화) ~ 11. 24(월)
+- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
+  - 주최: flex
+  - 일시: 11. 25(토) 19:00 ~ 21:00
 - __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -204,6 +180,11 @@
 <br />
 
 ## 25년 12월
+- __[2026 크래프톤 정글 통합 설명회](https://jungle.krafton.com/news/41)__
+  - 분류: `오프라인`, `온라인`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 11. 11(화) ~ 12. 04(목)
+
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
   - 주최: GDG 인천
@@ -226,6 +207,22 @@
   - 접수: 07. 29(화) ~ 12. 31(수) 23:30
 
 <br />
+
+
+## 26년 01월
+- __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 12. 29(월) ~ 01. 18(일)
+
+- __[크래프톤 Game Lab 5기](https://jungle.krafton.com/schedule/gamelab)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 12. 29(월) ~ 01. 18(일)
+- __[크래프톤 정글 Tech Lab 3기](https://jungle.krafton.com/schedule/gametechlab)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 12. 29(월) ~ 01. 18(일)
 
 ----------------
 
