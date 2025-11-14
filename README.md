@@ -176,7 +176,7 @@
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 11. 11(화) ~ 12. 04(목)
-
+  
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
   - 주최: GDG 인천
@@ -185,6 +185,10 @@
   - 분류: `오프라인(서울 성수)`, `무료`, `기술일반`, `컨퍼런스`
   - 주최: TEOConf
   - 일시: 12. 06(토) ~ 12. 07(일)
+- __[Seoul iOS Meetup [December Edition]](https://www.meetup.com/seoul-ios-meetup/events/311958563)__
+  - 분류: `오프라인`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 11. 13(목) ~ 12. 08(월)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
