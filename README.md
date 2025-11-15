@@ -67,31 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[2025 한이음 드림업 엑스포 AI 아이디어톤](https://linkareer.com/activity/275327)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 한이음 드림업
-  - 접수: 10. 02(목) ~ 11. 12(수)
-  
-- __[Oracle Dev Day!](https://onoffmix.com/event/332356)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 한국 오라클
-  - 접수: 10. 20(월) ~ 11. 12(수)
-- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/311742206/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 10. 31(금) ~ 11. 12(수)
-- __[[2025 컴포즈 마법사] 안정성과 리컴포지션 최적화의 공식을 소개합니다](https://www.ticketa.co/events/34)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 지성빈
-  - 접수: 10. 03(금) ~ 11. 14(금)
-- __[Game Night 2025: Melt into Bespin](https://www.bespinglobal.com/google_event/game-night-2025-melt-into-bespin/)__
-  - 분류: `오프라인(부산 해운대)`, `무료`, `기술일반`
-  - 주최: 지성빈
-  - 접수: 11. 07(금) ~ 11. 14(금)
 - __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
   - 주최: flex
   - 일시: 11. 15(토) 13:30 ~ 15:00
+  
 - __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 화성시
@@ -116,6 +96,14 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 토스
   - 접수: 11. 05(수) ~ 11. 17(월)
+- __[2025 디지털 이노베이션 인사이트](https://tech-day.kr)__
+  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 15(목) ~ 11. 17(월)
+- __[AI로 일 잘하는 개발자가 되는 첫걸음: 온라인 설명회](https://tech-day.kr)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 커리어리
+  - 접수: 11. 15(목) ~ 11. 17(월)
 - __[연말, 코드를 선물하세요. | 2025 UGG톤 ](https://broken-steel-385.notion.site/2025-UGG-Thon-2a21c70d67ef80abbe5bead6254e246b)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: UMC · 9oormthonUNIV · GDGoC SWU
@@ -148,6 +136,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: n8n
   - 접수: 11. 02(화) ~ 11. 24(월)
+- __[AWSKRUG #AIEngineering - 최신 AWS Agentic AI로 리뷰 관리 자동화 개발!](https://www.meetup.com/awskrug/events/311988291)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 11. 15(토) ~ 11. 15(화)
 - __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
   - 주최: flex
@@ -167,7 +159,19 @@
 - __[liftIO 2025](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: liftIO
-  - 일시: 10. 29(수) ~ 11. 27(목)
+  - 접수: 10. 29(수) ~ 11. 27(목)
+- __[AWSKRUG 아키텍처 #architecture 54번째 소모임](https://www.meetup.com/awskrug/events/311852046)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 15(토) ~ 11. 27(목)
+- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/311940440/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 11. 15(토) ~ 11. 27(목)
+- __[토스 Learner's High 서버2기](https://toss.im/builder/to/3fc438f50a3c4f8f86700b4b952ad22e)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: 토스
+  - 접수: 11. 15(토) ~ 11. 30(일)
 
 <br />
 
@@ -206,11 +210,15 @@
 
 
 ## 26년 01월
+- __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
+  - 주최: GNP
+  - 접수: 10. 01(수) ~ 01. 10(토)
+
 - __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 12. 29(월) ~ 01. 18(일)
-
 - __[크래프톤 Game Lab 5기](https://jungle.krafton.com/schedule/gamelab)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
