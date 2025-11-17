@@ -67,35 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
-  - 주최: flex
-  - 일시: 11. 15(토) 13:30 ~ 15:00
-  
-- __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: 화성시
-  - 접수: 10. 17(금) ~ 11. 16(일)
-- __[CONNECT ON: 테크와 나를 잇다](https://form.naver.com/response/4hZpKZwC9EbZ6BwtTEqllQ)__
-  - 분류: `온라인`, `무료`, `AI`, `교육`
-  - 주최: 네이버 커넥트재단
-  - 접수: 10. 22(수) ~ 11. 16(일)
-- __[AI NoCode·MCP Hackathon SEASON 2](https://hackathon.dpgtestbed.kr/)__
-  - 분류: `오프라인`, `무료`, `AI`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 10. 27(월) ~ 11. 16(일)
-- __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 3기](https://swyp.im/mobile)__
-  - 분류: `오프라인`, `유료`, `모임`
-  - 주최: 스위프
-  - 접수: 11. 05(수) ~ 11. 16(일)
-- __[대모산개발단 & 박정기님의 AI 자동화 찐입문부터 시스템 설계까지](https://fastcampus.co.kr/sem_mat_11)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 11. 05(수) ~ 11. 16(일)
 - __[토스 검색조직 데이터 직군 웨비나](https://toss.im/builder/to/51de6ed33e964c9d8b529d365ad0bd07)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 토스
   - 접수: 11. 05(수) ~ 11. 17(월)
+  
 - __[2025 디지털 이노베이션 인사이트](https://tech-day.kr)__
   - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
   - 주최: 과학기술정보통신부
@@ -104,6 +80,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 커리어리
   - 접수: 11. 15(목) ~ 11. 17(월)
+- __[Samsung Tech Conference 사전등록](https://stckorea.com)__
+    - 분류: `온라인`, `무료`, `AI`
+    - 주최: 삼성
+    - 접수: 11. 06(목) ~ 11. 20(목)
 - __[연말, 코드를 선물하세요. | 2025 UGG톤 ](https://broken-steel-385.notion.site/2025-UGG-Thon-2a21c70d67ef80abbe5bead6254e246b)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: UMC · 9oormthonUNIV · GDGoC SWU
@@ -136,6 +116,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: n8n
   - 접수: 11. 02(화) ~ 11. 24(월)
+- __[11월의 패스워드 : n8n 초보자를 위한 업무 자동화 활용법](https://www.pathfinder.camp/event-details/pathword11)__
+    - 분류: `온라인`, `유료`, `AI`
+    - 주최: 패스파인더
+    - 접수: 11. 17(월) ~ 11. 24(월) 18:00
 - __[AWSKRUG #AIEngineering - 최신 AWS Agentic AI로 리뷰 관리 자동화 개발!](https://www.meetup.com/awskrug/events/311988291)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
@@ -168,10 +152,18 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: AWSKRUG
   - 접수: 11. 15(토) ~ 11. 27(목)
+- __[[라이브 코딩] Gemini CLI로 앱 만들기](https://event-us.kr/hanbitn/event/116430)__
+    - 분류: `온라인`, `유료`, `AI`
+    - 주최: 한빛+ 세미나
+    - 접수: 11. 11(화) ~ 11. 27(목) 08:00
 - __[토스 Learner's High 서버2기](https://toss.im/builder/to/3fc438f50a3c4f8f86700b4b952ad22e)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 토스
   - 접수: 11. 15(토) ~ 11. 30(일)
+- __[GDG Devfest Cloud x Seoul 2025](https://event-us.kr/gdgseoul/event/116702)__
+    - 분류: `오프라인(서울 마포)`, `유료`, `모임`
+    - 주최: GDG Seoul, GDG Cloud Korea
+    - 접수: 11. 14(금) ~ 11. 30(일)
 
 <br />
 
