@@ -173,7 +173,7 @@
   - 주최: 크래프톤 정글
   - 접수: 11. 11(화) ~ 12. 04(목)
 - __[DDD Seoul 2025](https://www.ticketa.co/events/46)__
-  - 분류: `오프라인(서울 광화문)`, `유료`, `Microsoft`, `AI`, `기술일반`
+  - 분류: `오프라인(서울 광화문)`, `유료`, `AI`, `기술일반`
   - 주최: DDD Seoul 커뮤니티
   - 접수: 11. 18(화) ~ 12. 04(목)
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
