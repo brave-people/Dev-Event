@@ -758,6 +758,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://hansololiviakim.com"><img src="https://avatars.githubusercontent.com/u/84097192?v=4?s=100" width="100px;" alt="Hansol Olivia Kim"/><br /><sub><b>Hansol Olivia Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hansololiviakim" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tae0y"><img src="https://avatars.githubusercontent.com/u/20028607?v=4?s=100" width="100px;" alt="박태영"/><br /><sub><b>박태영</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tae0y" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zero-1016"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Jihyeong"/><br /><sub><b>Jihyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Zero-1016" title="Code">💻</a></td>
     </tr>
   </tbody>
