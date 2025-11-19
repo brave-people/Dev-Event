@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[토스 검색조직 데이터 직군 웨비나](https://toss.im/builder/to/51de6ed33e964c9d8b529d365ad0bd07)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 토스
-  - 접수: 11. 05(수) ~ 11. 17(월)
-  
-- __[2025 디지털 이노베이션 인사이트](https://tech-day.kr)__
-  - 분류: `오프라인(서울 용산)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 15(목) ~ 11. 17(월)
-- __[AI로 일 잘하는 개발자가 되는 첫걸음: 온라인 설명회](https://ai-academy.careerly.co.kr/)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 커리어리
-  - 접수: 11. 15(목) ~ 11. 17(월)
 - __[Samsung Tech Conference 사전등록](https://stckorea.com)__
     - 분류: `온라인`, `무료`, `AI`
     - 주최: 삼성
     - 접수: 11. 06(목) ~ 11. 20(목)
+
 - __[연말, 코드를 선물하세요. | 2025 UGG톤 ](https://broken-steel-385.notion.site/2025-UGG-Thon-2a21c70d67ef80abbe5bead6254e246b)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: UMC · 9oormthonUNIV · GDGoC SWU
@@ -120,6 +108,10 @@
     - 분류: `온라인`, `유료`, `AI`
     - 주최: 패스파인더
     - 접수: 11. 17(월) ~ 11. 24(월) 18:00
+- __[The Future with AX | Forum](https://docs.google.com/forms/d/e/1FAIpQLSenAeg04XLo-zYq--yDCa9sWrl_hLQ1IBMM2BEWCpZJ5GtqMw/viewform)__
+    - 분류: `오프라인(충남창업마루나비)`, `무료`, `AI`
+    - 주최: 충남창조경제혁신센터
+    - 접수: 11. 19(수) ~ 11. 24(월)
 - __[AWSKRUG #AIEngineering - 최신 AWS Agentic AI로 리뷰 관리 자동화 개발!](https://www.meetup.com/awskrug/events/311988291)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
@@ -151,6 +143,10 @@
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/311940440/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: AWSKRUG
+  - 접수: 11. 15(토) ~ 11. 27(목)
+- __[스위프 웹 11기 데모데이 & 네트워킹 행사](https://tally.so/r/ODDDYY)__
+  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
+  - 주최: 스위프
   - 접수: 11. 15(토) ~ 11. 27(목)
 - __[[라이브 코딩] Gemini CLI로 앱 만들기](https://event-us.kr/hanbitn/event/116430)__
     - 분류: `온라인`, `유료`, `AI`
@@ -192,6 +188,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 13(목) ~ 12. 08(월)
+- __[2025 AI 대전환 오픈 세미나](https://fastcampus.co.kr/open_seminar_251210)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 11. 19(수) ~ 12. 09(화)
 - __[Dev Korea #5 with Supabase](https://dev-korea.com/events/dev-korea-5-december-2025)__
   - 분류: `오프라인`, `무료`, `Supabase`
   - 주최: Dev Korea
