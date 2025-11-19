@@ -192,6 +192,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 13(목) ~ 12. 08(월)
+- __[Dev Korea #5 with Supabase](https://dev-korea.com/events/dev-korea-5-december-2025)__
+  - 분류: `오프라인`, `무료`, `Supabase`
+  - 주최: Dev Korea
+  - 접수: 11. 19(수) ~ 12. 10(수)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
