@@ -110,8 +110,8 @@
     - 접수: 11. 17(월) ~ 11. 24(월) 18:00
 - __[The Future with AX | Forum](https://docs.google.com/forms/d/e/1FAIpQLSenAeg04XLo-zYq--yDCa9sWrl_hLQ1IBMM2BEWCpZJ5GtqMw/viewform)__
     - 분류: `오프라인(충남창업마루나비)`, `무료`, `AI`
-    - 주최: 패스파인더
-    - 접수: 11. 17(월) ~ 11. 24(월) 18:00
+    - 주최: 충남창조경제혁신센터
+    - 접수: 11. 19(수) ~ 11. 24(월)
 - __[AWSKRUG #AIEngineering - 최신 AWS Agentic AI로 리뷰 관리 자동화 개발!](https://www.meetup.com/awskrug/events/311988291)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
