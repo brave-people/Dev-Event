@@ -172,7 +172,10 @@
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 11. 11(화) ~ 12. 04(목)
-  
+- __[DDD Seoul 2025](https://www.ticketa.co/events/46)__
+  - 분류: `오프라인(서울 광화문)`, `유료`, `AI`, `기술일반`
+  - 주최: DDD Seoul 커뮤니티
+  - 접수: 11. 18(화) ~ 12. 04(목)
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
   - 주최: GDG 인천
@@ -756,6 +759,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://hansololiviakim.com"><img src="https://avatars.githubusercontent.com/u/84097192?v=4?s=100" width="100px;" alt="Hansol Olivia Kim"/><br /><sub><b>Hansol Olivia Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hansololiviakim" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tae0y"><img src="https://avatars.githubusercontent.com/u/20028607?v=4?s=100" width="100px;" alt="박태영"/><br /><sub><b>박태영</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tae0y" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zero-1016"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Jihyeong"/><br /><sub><b>Jihyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Zero-1016" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
