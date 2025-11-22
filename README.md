@@ -67,23 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[Samsung Tech Conference 사전등록](https://stckorea.com)__
-    - 분류: `온라인`, `무료`, `AI`
-    - 주최: 삼성
-    - 접수: 11. 06(목) ~ 11. 20(목)
-
-- __[연말, 코드를 선물하세요. | 2025 UGG톤 ](https://broken-steel-385.notion.site/2025-UGG-Thon-2a21c70d67ef80abbe5bead6254e246b)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: UMC · 9oormthonUNIV · GDGoC SWU
-  - 접수: 11. 07(금) ~ 11. 20(목)
-- __[딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회](https://aifactory.space/task/9197/overview)__
-  - 분류: `오프라인`, `무료`, `대회`, `AI`
-  - 주최: 국립과학수사연구원
-  - 일시: 10. 23(목) ~ 11. 20(목)
 - __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
   - 주최: flex
   - 일시: 11. 22(토) 13:30 ~ 15:00
+  
 - __[MiniDebConf Busan 2025](https://busan2025.mini.debconf.org/)__
   - 분류: `오프라인(부산 국립부경대학교)`, `무료`, `기술일반`
   - 주최: The Debian Project (데비안)
@@ -96,6 +84,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: GDG Busan
   - 접수: 09. 21(일) ~ 11. 23(일)
+- __[AWSKRUG 자격증소모임 11월 24일(월) AWS 공부를 위한 #바이브코딩](https://www.meetup.com/awskrug/events/312042386)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 22(토) ~ 11. 23(일)
 - __[스크래퍼 개발자 모임 4회](https://event-us.kr/scraper/event/115709)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
@@ -112,10 +104,6 @@
     - 분류: `오프라인(충남창업마루나비)`, `무료`, `AI`
     - 주최: 충남창조경제혁신센터
     - 접수: 11. 19(수) ~ 11. 24(월)
-- __[AWSKRUG #AIEngineering - 최신 AWS Agentic AI로 리뷰 관리 자동화 개발!](https://www.meetup.com/awskrug/events/311988291)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 11. 15(토) ~ 11. 15(화)
 - __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
   - 주최: flex
@@ -124,10 +112,18 @@
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 10. 31(금) ~ 11. 25(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임 - 44회차](https://www.meetup.com/awskrug/events/312032809)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 22(토) ~ 11. 26(목)
 - __[.NET Conf 2025@ Seoul](https://www.onoffmix.com/event/331906)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: .NET Conf
   - 접수: 11. 03(월) ~ 11. 26(목)
+- __[AWSKRUG 아키텍처 #architecture 54번째 소모임](https://www.meetup.com/awskrug/events/311852046)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 11. 22(토) ~ 11. 26(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
