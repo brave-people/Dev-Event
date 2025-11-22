@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-184-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-186-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -148,6 +148,10 @@
     - 분류: `온라인`, `유료`, `AI`
     - 주최: 한빛+ 세미나
     - 접수: 11. 11(화) ~ 11. 27(목) 08:00
+- __[제1회 PyAI 심포지움](https://event-us.kr/pythonkorea/event/115716)__
+    - 분류: `오프라인(서울 광화문)`, `유료`, `모임`
+    - 주최: 파이썬 한국 사용자 모임
+    - 접수: 11. 11(화) ~ 11. 29(토)
 - __[토스 Learner's High 서버2기](https://toss.im/builder/to/3fc438f50a3c4f8f86700b4b952ad22e)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 토스
@@ -188,6 +192,10 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 19(수) ~ 12. 09(화)
+- __[Dev Korea #5 with Supabase](https://dev-korea.com/events/dev-korea-5-december-2025)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 11. 19(수) ~ 12. 10(수)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -756,6 +764,7 @@
       <td align="center" valign="top" width="14.28%"><a href="http://hansololiviakim.com"><img src="https://avatars.githubusercontent.com/u/84097192?v=4?s=100" width="100px;" alt="Hansol Olivia Kim"/><br /><sub><b>Hansol Olivia Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hansololiviakim" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tae0y"><img src="https://avatars.githubusercontent.com/u/20028607?v=4?s=100" width="100px;" alt="박태영"/><br /><sub><b>박태영</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tae0y" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zero-1016"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Jihyeong"/><br /><sub><b>Jihyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Zero-1016" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/youn7054a"><img src="https://avatars.githubusercontent.com/u/67139013?v=4?s=100" width="100px;" alt="bumjin"/><br /><sub><b>bumjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=youn7054a" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
