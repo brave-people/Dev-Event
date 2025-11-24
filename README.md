@@ -124,6 +124,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 11. 22(토) ~ 11. 26(목)
+- __[AI가 코드를 짜는 시대, 나는 뭘 배워야 할까?](https://docs.google.com/forms/d/e/1FAIpQLSca8jt29GOYzSr4m-69bp5C8WpwdSWcZewlOFajF6BpePxRhQ/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 코드잇
+  - 접수: 11. 24(월) ~ 11. 26(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -164,6 +168,15 @@
 <br />
 
 ## 25년 12월
+- __[2026 SW 산업전망 컨퍼런스](https://onoffmix.com/event/334136)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 24(월) ~ 12. 02(화)
+
+- __[2025 코리아 테크 페스티벌](https://srome.keit.re.kr/srome/biz/info/rndFrutFairOccsGuid/retrieveRndFrutFairMainView.do?prgmId=XPG407110000)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: 산업통산부
+  - 접수: 11. 24(월) ~ 12. 02(화)
 - __[2026 크래프톤 정글 통합 설명회](https://jungle.krafton.com/news/41)__
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
