@@ -67,55 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
-  - 주최: flex
-  - 일시: 11. 22(토) 13:30 ~ 15:00
-  
-- __[MiniDebConf Busan 2025](https://busan2025.mini.debconf.org/)__
-  - 분류: `오프라인(부산 국립부경대학교)`, `무료`, `기술일반`
-  - 주최: The Debian Project (데비안)
-  - 일시: 11. 22(토) ~ 11. 23(일)
-- __[Let'Swift 2025 : Ember to Stars](https://letswift.kr/2025/)__
-  - 분류: `오프라인`, `유료`, `iOS`
-  - 주최: Let'Swift
-  - 일시: 09. 29(월) ~ 11. 23(일)
-- __[DevFest Busan 2025 - 모두를 위한 Gemini 활용하기!](https://event-us.kr/gdgbusan/event/113077)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: GDG Busan
-  - 접수: 09. 21(일) ~ 11. 23(일)
-- __[AWSKRUG 자격증소모임 11월 24일(월) AWS 공부를 위한 #바이브코딩](https://www.meetup.com/awskrug/events/312042386)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 22(토) ~ 11. 23(일)
-- __[스크래퍼 개발자 모임 4회](https://event-us.kr/scraper/event/115709)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 11. 02(화) ~ 11. 24(월)
-- __[[n8n Korea 온라인 밋업 #4] 팀을 위한 자동화 4탄](https://infograb.notion.site/29ba508f92238161a77dc56c009b1d85)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: n8n
-  - 접수: 11. 02(화) ~ 11. 24(월)
-- __[11월의 패스워드 : n8n 초보자를 위한 업무 자동화 활용법](https://www.pathfinder.camp/event-details/pathword11)__
-    - 분류: `온라인`, `유료`, `AI`
-    - 주최: 패스파인더
-    - 접수: 11. 17(월) ~ 11. 24(월) 18:00
-- __[The Future with AX | Forum](https://docs.google.com/forms/d/e/1FAIpQLSenAeg04XLo-zYq--yDCa9sWrl_hLQ1IBMM2BEWCpZJ5GtqMw/viewform)__
-    - 분류: `오프라인(충남창업마루나비)`, `무료`, `AI`
-    - 주최: 충남창조경제혁신센터
-    - 접수: 11. 19(수) ~ 11. 24(월)
-- __[쌓이기만 하는 기술 부채, 도대체 언제 갚나요?](https://flex.team/blog/2025/11/06/technical-debt/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `벡엔드`
-  - 주최: flex
-  - 일시: 11. 25(토) 19:00 ~ 21:00
-- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/310846929/)__
-  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 10. 31(금) ~ 11. 25(화)
 - __[AWSKRUG 구로디지털 #gudi 소모임 - 44회차](https://www.meetup.com/awskrug/events/312032809)__
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 11. 22(토) ~ 11. 26(목)
+
 - __[.NET Conf 2025@ Seoul](https://www.onoffmix.com/event/331906)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: .NET Conf
@@ -128,6 +84,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 코드잇
   - 접수: 11. 24(월) ~ 11. 26(목)
+- __[표준프레임워크 템플릿 & K-PaaS 콜라보 세미나! with 카카오클라우드](https://docs.google.com/forms/d/e/1FAIpQLSfk52N8LcqT0DikOf017TuwjT4wlSEkgZ3JKn9cAaSnz0rwew/viewform)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: NIA한국지능정보사회진흥원
+  - 접수: 11. 26(수) ~ 11. 27(목)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
@@ -201,6 +161,10 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 13(목) ~ 12. 08(월)
+- __[Google Cloud Fundamentals: Core Infrastructure](https://docs.google.com/forms/d/e/1FAIpQLSdda36OFqhXAqx_-7CE2NS5xgnIHMcvj3JIs1_NjtlERRYIdg/viewform)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 구글 클라우드
+  - 접수: 11. 26(수) ~ 12. 08(월)
 - __[2025 AI 대전환 오픈 세미나](https://fastcampus.co.kr/open_seminar_251210)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
