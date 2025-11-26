@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-186-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-187-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -746,6 +746,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tae0y"><img src="https://avatars.githubusercontent.com/u/20028607?v=4?s=100" width="100px;" alt="박태영"/><br /><sub><b>박태영</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=tae0y" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zero-1016"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Jihyeong"/><br /><sub><b>Jihyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Zero-1016" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/youn7054a"><img src="https://avatars.githubusercontent.com/u/67139013?v=4?s=100" width="100px;" alt="bumjin"/><br /><sub><b>bumjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=youn7054a" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kyungseopk1m"><img src="https://avatars.githubusercontent.com/u/101553623?v=4?s=100" width="100px;" alt="kyungseopk1m"/><br /><sub><b>kyungseopk1m</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kyungseopk1m" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
