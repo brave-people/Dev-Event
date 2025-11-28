@@ -67,55 +67,11 @@
 <br />
 
 ## 25년 11월
-- __[AWSKRUG 구로디지털 #gudi 소모임 - 44회차](https://www.meetup.com/awskrug/events/312032809)__
-  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 22(토) ~ 11. 26(목)
-
-- __[.NET Conf 2025@ Seoul](https://www.onoffmix.com/event/331906)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
-  - 주최: .NET Conf
-  - 접수: 11. 03(월) ~ 11. 26(목)
-- __[AWSKRUG 아키텍처 #architecture 54번째 소모임](https://www.meetup.com/awskrug/events/311852046)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 22(토) ~ 11. 26(목)
-- __[AI가 코드를 짜는 시대, 나는 뭘 배워야 할까?](https://docs.google.com/forms/d/e/1FAIpQLSca8jt29GOYzSr4m-69bp5C8WpwdSWcZewlOFajF6BpePxRhQ/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 코드잇
-  - 접수: 11. 24(월) ~ 11. 26(목)
-- __[표준프레임워크 템플릿 & K-PaaS 콜라보 세미나! with 카카오클라우드](https://docs.google.com/forms/d/e/1FAIpQLSfk52N8LcqT0DikOf017TuwjT4wlSEkgZ3JKn9cAaSnz0rwew/viewform)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: NIA한국지능정보사회진흥원
-  - 접수: 11. 26(수) ~ 11. 27(목)
-- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 일시: 11. 25(화) ~ 11. 27(목)
-- __[liftIO 2025](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: liftIO
-  - 접수: 10. 29(수) ~ 11. 27(목)
-- __[AWSKRUG 아키텍처 #architecture 54번째 소모임](https://www.meetup.com/awskrug/events/311852046)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 15(토) ~ 11. 27(목)
-- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/311940440/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 11. 15(토) ~ 11. 27(목)
-- __[스위프 웹 11기 데모데이 & 네트워킹 행사](https://tally.so/r/ODDDYY)__
-  - 분류: `오프라인(서울 선릉)`, `무료`, `모임`
-  - 주최: 스위프
-  - 접수: 11. 15(토) ~ 11. 27(목)
-- __[[라이브 코딩] Gemini CLI로 앱 만들기](https://event-us.kr/hanbitn/event/116430)__
-    - 분류: `온라인`, `유료`, `AI`
-    - 주최: 한빛+ 세미나
-    - 접수: 11. 11(화) ~ 11. 27(목) 08:00
 - __[제1회 PyAI 심포지움](https://event-us.kr/pythonkorea/event/115716)__
     - 분류: `오프라인(서울 광화문)`, `유료`, `모임`
     - 주최: 파이썬 한국 사용자 모임
     - 접수: 11. 11(화) ~ 11. 29(토)
+
 - __[토스 Learner's High 서버2기](https://toss.im/builder/to/3fc438f50a3c4f8f86700b4b952ad22e)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: 토스
@@ -137,6 +93,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 산업통산부
   - 접수: 11. 24(월) ~ 12. 02(화)
+- __[제10회 대한민국 소프트웨어 대전, 소프트웨이브 2025](https://www.k-softwave.com/main.asp)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: 전자신문사
+  - 접수: 11. 29(토) ~ 12. 02(화)
 - __[2026 크래프톤 정글 통합 설명회](https://jungle.krafton.com/news/41)__
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
@@ -169,10 +129,18 @@
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 19(수) ~ 12. 09(화)
+- __[AI Native 회사의 일하는 방식으로 보는 일의 미래](https://inf.run/vKhCq)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 인프런
+  - 접수: 12. 01(월) ~ 12. 09(월)
 - __[Dev Korea #5 with Supabase](https://dev-korea.com/events/dev-korea-5-december-2025)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: Dev Korea
   - 접수: 11. 19(수) ~ 12. 10(수)
+- __[#AWSKRUG 와 함께 하는 AI IDE #Kiro Launch Party + 송년회](https://www.meetup.com/awskrug/events/312206508/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 11. 29(토) ~ 12. 10(수)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
