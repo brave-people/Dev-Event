@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-187-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-188-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -66,23 +66,6 @@
 
 <br />
 
-## 25년 11월
-- __[제1회 PyAI 심포지움](https://event-us.kr/pythonkorea/event/115716)__
-    - 분류: `오프라인(서울 광화문)`, `유료`, `모임`
-    - 주최: 파이썬 한국 사용자 모임
-    - 접수: 11. 11(화) ~ 11. 29(토)
-
-- __[토스 Learner's High 서버2기](https://toss.im/builder/to/3fc438f50a3c4f8f86700b4b952ad22e)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: 토스
-  - 접수: 11. 15(토) ~ 11. 30(일)
-- __[GDG Devfest Cloud x Seoul 2025](https://event-us.kr/gdgseoul/event/116702)__
-    - 분류: `오프라인(서울 마포)`, `유료`, `모임`
-    - 주최: GDG Seoul, GDG Cloud Korea
-    - 접수: 11. 14(금) ~ 11. 30(일)
-
-<br />
-
 ## 25년 12월
 - __[2026 SW 산업전망 컨퍼런스](https://onoffmix.com/event/334136)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
@@ -141,10 +124,22 @@
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: AWSKRUG
   - 접수: 11. 29(토) ~ 12. 10(수)
+- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/312163589/)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 12. 01(월) ~ 12. 10(수)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 10. 17(금) ~ 12. 12(금)
+- __[2025년 K-PaaS 베타테스터 모집](https://k-paas.or.kr/about/noticeView/1513)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: K-PaaS
+  - 접수: 12. 01(월) ~ 12. 14(일)
+- __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: Instruct.KR
+  - 접수: 12. 01(월) ~ 12. 19(금)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
@@ -183,6 +178,16 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 12. 29(월) ~ 01. 18(일)
+
+<br />
+
+## 26년 06월
+- __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: STK 스마트테크 코리아
+  - 일시: 06. 10(수) ~ 06. 12(금)
+
+
 
 ----------------
 
@@ -444,6 +449,7 @@
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
 | Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
 | Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
+| ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -719,6 +725,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zero-1016"><img src="https://avatars.githubusercontent.com/u/115636461?v=4?s=100" width="100px;" alt="Jihyeong"/><br /><sub><b>Jihyeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Zero-1016" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/youn7054a"><img src="https://avatars.githubusercontent.com/u/67139013?v=4?s=100" width="100px;" alt="bumjin"/><br /><sub><b>bumjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=youn7054a" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kyungseopk1m"><img src="https://avatars.githubusercontent.com/u/101553623?v=4?s=100" width="100px;" alt="kyungseopk1m"/><br /><sub><b>kyungseopk1m</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kyungseopk1m" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/hyewon4052"><img src="https://avatars.githubusercontent.com/u/129272496?v=4?s=100" width="100px;" alt="혜원"/><br /><sub><b>혜원</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyewon4052" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
