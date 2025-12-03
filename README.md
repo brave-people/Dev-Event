@@ -67,27 +67,19 @@
 <br />
 
 ## 25년 12월
-- __[2026 SW 산업전망 컨퍼런스](https://onoffmix.com/event/334136)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: 과학기술정보통신부
-  - 접수: 11. 24(월) ~ 12. 02(화)
-
-- __[2025 코리아 테크 페스티벌](https://srome.keit.re.kr/srome/biz/info/rndFrutFairOccsGuid/retrieveRndFrutFairMainView.do?prgmId=XPG407110000)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: 산업통산부
-  - 접수: 11. 24(월) ~ 12. 02(화)
-- __[제10회 대한민국 소프트웨어 대전, 소프트웨이브 2025](https://www.k-softwave.com/main.asp)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: 전자신문사
-  - 접수: 11. 29(토) ~ 12. 02(화)
 - __[2026 크래프톤 정글 통합 설명회](https://jungle.krafton.com/news/41)__
   - 분류: `오프라인`, `온라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 11. 11(화) ~ 12. 04(목)
+
 - __[DDD Seoul 2025](https://www.ticketa.co/events/46)__
   - 분류: `오프라인(서울 광화문)`, `유료`, `AI`, `기술일반`
   - 주최: DDD Seoul 커뮤니티
   - 접수: 11. 18(화) ~ 12. 04(목)
+- __[SFS2025 스마트 미래사회 컨퍼런스](https://event-us.kr/kidis/event/117616)__
+  - 분류: `오프라인(서울 영등포)`, `유료`, `기술일반`
+  - 주최: 한국데이터정보사회연구소(KIDIS)
+  - 접수: 11. 28(금) ~ 12. 04(목)
 - __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
   - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
   - 주최: GDG 인천
@@ -104,10 +96,18 @@
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 13(목) ~ 12. 08(월)
+- __[부산빅데이터 혁신센터 성과보고회 & DX 포럼](https://www.dxchallenge.co.kr/events/2025-4thforum)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: DX CHALLENGE
+  - 접수: 12. 03(수) ~ 12. 08(월)
 - __[Google Cloud Fundamentals: Core Infrastructure](https://docs.google.com/forms/d/e/1FAIpQLSdda36OFqhXAqx_-7CE2NS5xgnIHMcvj3JIs1_NjtlERRYIdg/viewform)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 구글 클라우드
   - 접수: 11. 26(수) ~ 12. 08(월)
+- __[RAG 프로젝트는 왜 실패하는가?: RAG를 잘 다루고 싶은 엔지니어를 위한 패널 토크](https://tech.goorm.io/2512_commit/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 12. 03(수) ~ 12. 08(월)
 - __[2025 AI 대전환 오픈 세미나](https://fastcampus.co.kr/open_seminar_251210)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
@@ -132,6 +132,10 @@
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 10. 17(금) ~ 12. 12(금)
+- __[AWSKRUG 성수 #seongsu 소모임 - re:Invent reCap](https://www.meetup.com/awskrug/events/312163589/)__
+  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 12. 03(수) ~ 12. 10(수)
 - __[2025년 K-PaaS 베타테스터 모집](https://k-paas.or.kr/about/noticeView/1513)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
@@ -299,7 +303,8 @@
               <a href="./end_event/2025/25_08.md"> 08월 </a>,
               <a href="./end_event/2025/25_09.md"> 09월 </a>,
               <a href="./end_event/2025/25_10.md"> 10월 </a>,
-              <a href="./end_event/2025/25_11.md"> 11월 </a>
+              <a href="./end_event/2025/25_11.md"> 11월 </a>,
+              <a href="./end_event/2025/25_12.md"> 12월 </a>
             </td>
         </tr>
         <tr>
