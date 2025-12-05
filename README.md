@@ -67,27 +67,11 @@
 <br />
 
 ## 25년 12월
-- __[2026 크래프톤 정글 통합 설명회](https://jungle.krafton.com/news/41)__
-  - 분류: `오프라인`, `온라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 11. 11(화) ~ 12. 04(목)
-
-- __[DDD Seoul 2025](https://www.ticketa.co/events/46)__
-  - 분류: `오프라인(서울 광화문)`, `유료`, `AI`, `기술일반`
-  - 주최: DDD Seoul 커뮤니티
-  - 접수: 11. 18(화) ~ 12. 04(목)
-- __[SFS2025 스마트 미래사회 컨퍼런스](https://event-us.kr/kidis/event/117616)__
-  - 분류: `오프라인(서울 영등포)`, `유료`, `기술일반`
-  - 주최: 한국데이터정보사회연구소(KIDIS)
-  - 접수: 11. 28(금) ~ 12. 04(목)
-- __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
-  - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
-  - 주최: GDG 인천
-  - 접수: 10. 03(금) ~ 12. 05(금)
 - __[DND 14기 모집](https://dnd.ac)__
   - 분류: `오프라인(서울 강남)`, `온라인`, `무료`, `모임`
   - 주최: DND
   - 접수: 11. 17(월) ~ 12. 07(일)
+
 - __[TeoConf2025](https://www.teoconf.com)__
   - 분류: `오프라인(서울 성수)`, `무료`, `기술일반`, `컨퍼런스`
   - 주최: TEOConf
@@ -155,7 +139,7 @@
 - __[앱잼 컨퍼런스 Moment:um 2025](https://www.instagram.com/p/DRhNJYvkpvl/?igsh=bjg0eG84bWQ1cXRl)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 앱잼
-  - 접수: 12. 01(월) ~ 12. 19(금)
+  - 접수: 11. 26(수) ~ 12. 19(금)
 - __[[Seoul MUG Online: AI Skills] - MongoDB AI Skills 교육](https://event-us.kr/m/116765/47398)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: MongoDB, I in We
@@ -188,6 +172,15 @@
   - 접수: 12. 29(월) ~ 01. 18(일)
 
 <br />
+
+## 26년 02월
+- __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://jungle.krafton.com/schedule/gametechlab)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 12. 29(월) ~ 01. 18(일)
+
+<br />
+
 
 ## 26년 06월
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
