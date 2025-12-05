@@ -174,10 +174,10 @@
 <br />
 
 ## 26년 02월
-- __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://jungle.krafton.com/schedule/gametechlab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
+- __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://kernel.fastcampus.co.kr/up_seminar)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 11. 21(금) ~ 02. 06(금)
 
 <br />
 
