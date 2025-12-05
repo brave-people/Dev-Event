@@ -156,6 +156,11 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 앱잼
   - 접수: 12. 01(월) ~ 12. 19(금)
+- __[[Seoul MUG Online: AI Skills] - MongoDB AI Skills 교육](https://event-us.kr/m/116765/47398)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: MongoDB, I in We
+  - 접수: 12. 01(월) ~ 12. 20(토)
+
 
 <br />
 
