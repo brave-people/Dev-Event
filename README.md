@@ -155,7 +155,7 @@
 - __[앱잼 컨퍼런스 Moment:um 2025](https://www.instagram.com/p/DRhNJYvkpvl/?igsh=bjg0eG84bWQ1cXRl)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 앱잼
-  - 접수: 12. 01(월) ~ 12. 19(금)
+  - 접수: 11. 26(수) ~ 12. 19(금)
 
 <br />
 
