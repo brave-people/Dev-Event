@@ -67,19 +67,11 @@
 <br />
 
 ## 25년 12월
-- __[DND 14기 모집](https://dnd.ac)__
-  - 분류: `오프라인(서울 강남)`, `온라인`, `무료`, `모임`
-  - 주최: DND
-  - 접수: 11. 17(월) ~ 12. 07(일)
-
-- __[TeoConf2025](https://www.teoconf.com)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `기술일반`, `컨퍼런스`
-  - 주최: TEOConf
-  - 일시: 12. 06(토) ~ 12. 07(일)
 - __[Seoul iOS Meetup [December Edition]](https://www.meetup.com/seoul-ios-meetup/events/311958563)__
   - 분류: `오프라인`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 11. 13(목) ~ 12. 08(월)
+
 - __[부산빅데이터 혁신센터 성과보고회 & DX 포럼](https://www.dxchallenge.co.kr/events/2025-4thforum)__
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: DX CHALLENGE
@@ -120,10 +112,18 @@
   - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 12. 03(수) ~ 12. 10(수)
+- __[Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3)__
+  - 분류: `오브라인`, `무료`, `대회`, `AI`
+  - 주최: 구글
+  - 일시: 12. 05(금) ~ 12. 12(금)
 - __[2025년 K-PaaS 베타테스터 모집](https://k-paas.or.kr/about/noticeView/1513)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
   - 접수: 12. 01(월) ~ 12. 14(일)
+- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/312349295/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 12. 08(월) ~ 12. 18(목)
 - __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: Instruct.KR
@@ -170,6 +170,14 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
   - 접수: 12. 29(월) ~ 01. 18(일)
+- __[AI Co-Scientist Challenge Korea - Track 1](https://aifactory.space/task/9235/overview)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 12. 10(수) ~ 01. 18(일)
+- __[AI Co-Scientist Challenge Korea - Track 2](https://aifactory.space/task/9237/overview)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 12. 10(수) ~ 01. 18(일)
 
 <br />
 
