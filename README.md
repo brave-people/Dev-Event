@@ -67,51 +67,11 @@
 <br />
 
 ## 25년 12월
-- __[Seoul iOS Meetup [December Edition]](https://www.meetup.com/seoul-ios-meetup/events/311958563)__
-  - 분류: `오프라인`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 11. 13(목) ~ 12. 08(월)
-
-- __[부산빅데이터 혁신센터 성과보고회 & DX 포럼](https://www.dxchallenge.co.kr/events/2025-4thforum)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: DX CHALLENGE
-  - 접수: 12. 03(수) ~ 12. 08(월)
-- __[Google Cloud Fundamentals: Core Infrastructure](https://docs.google.com/forms/d/e/1FAIpQLSdda36OFqhXAqx_-7CE2NS5xgnIHMcvj3JIs1_NjtlERRYIdg/viewform)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 구글 클라우드
-  - 접수: 11. 26(수) ~ 12. 08(월)
-- __[RAG 프로젝트는 왜 실패하는가?: RAG를 잘 다루고 싶은 엔지니어를 위한 패널 토크](https://tech.goorm.io/2512_commit/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 12. 03(수) ~ 12. 08(월)
-- __[2025 AI 대전환 오픈 세미나](https://fastcampus.co.kr/open_seminar_251210)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 11. 19(수) ~ 12. 09(화)
-- __[AI Native 회사의 일하는 방식으로 보는 일의 미래](https://inf.run/vKhCq)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: 인프런
-  - 접수: 12. 01(월) ~ 12. 09(월)
-- __[Dev Korea #5 with Supabase](https://dev-korea.com/events/dev-korea-5-december-2025)__
-  - 분류: `오프라인`, `무료`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 11. 19(수) ~ 12. 10(수)
-- __[#AWSKRUG 와 함께 하는 AI IDE #Kiro Launch Party + 송년회](https://www.meetup.com/awskrug/events/312206508/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 11. 29(토) ~ 12. 10(수)
-- __[AWSKRUG 성수 #seongsu 소모임](https://www.meetup.com/awskrug/events/312163589/)__
-  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 12. 01(월) ~ 12. 10(수)
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
   - 접수: 10. 17(금) ~ 12. 12(금)
-- __[AWSKRUG 성수 #seongsu 소모임 - re:Invent reCap](https://www.meetup.com/awskrug/events/312163589/)__
-  - 분류: `오프라인(서울 성수)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 12. 03(수) ~ 12. 10(수)
+
 - __[Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3)__
   - 분류: `오브라인`, `무료`, `대회`, `AI`
   - 주최: 구글
@@ -120,6 +80,10 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: K-PaaS
   - 접수: 12. 01(월) ~ 12. 14(일)
+- __[2026 NAVER AI CHALLENGE](https://recruit.navercorp.com/rcrt/view.do?annoId=30004232&lang=ko)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 네이버
+  - 접수: 12. 10(수) ~ 12. 16(화) 11:00
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/312349295/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
@@ -128,6 +92,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: Instruct.KR
   - 접수: 12. 01(월) ~ 12. 19(금)
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/335604)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 12. 12(금) ~ 12. 18(목)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
@@ -144,6 +112,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: MongoDB, I in We
   - 접수: 12. 01(월) ~ 12. 20(토)
+- __[DevFest Pangyo x Go 2025: BANANA-MAS](https://www.ticketa.co/events/67)__
+  - 분류: `오프라인(경기 판교)`, `유료`, `모임`
+  - 주최: DevFest Pangyo
+  - 접수: 12. 01(월) ~ 12. 22(월)
 
 <br />
 
@@ -178,6 +150,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 12. 10(수) ~ 01. 18(일)
+- __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
+  - 분류: `온라인(대구 동구)`, `무료`, `대회`
+  - 주최: FlutterSeoul
+  - 접수: 12. 08(월) ~ 01. 23(금)
 
 <br />
 
