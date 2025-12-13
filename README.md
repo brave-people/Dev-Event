@@ -66,7 +66,7 @@
 
 <br />
 
-## 25년 12월
+## `25년 12월`
 - __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
   - 분류: `오프라인(이화여대)`, `무료`, `AI`
   - 주최: 모두의연구소
@@ -120,7 +120,7 @@
 <br />
 
 
-## 26년 01월
+## `26년 01월`
 - __[SIPE 5기 모집](https://sipe.team/)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
   - 주최: SIPE
@@ -157,7 +157,7 @@
 
 <br />
 
-## 26년 02월
+## `26년 02월`
 - __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://kernel.fastcampus.co.kr/up_seminar)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
@@ -165,13 +165,11 @@
 
 <br />
 
-
-## 26년 06월
+## `26년 06월`
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
   - 일시: 06. 10(수) ~ 06. 12(금)
-
 
 
 ----------------
@@ -364,6 +362,7 @@
 | 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
 | 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
 | 코드트리(Codetree) | [homepage](https://www.codetree.ai/ko/trail-info?utm_source=github&utm_medium=devevent) |
+| ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -435,7 +434,6 @@
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
 | Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
 | Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
-| ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
