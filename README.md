@@ -88,22 +88,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 12. 08(월) ~ 12. 18(목)
-- __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: Instruct.KR
-  - 접수: 12. 01(월) ~ 12. 19(금)
 - __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/335604)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
   - 접수: 12. 12(금) ~ 12. 18(목)
-- __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 네이버 클라우드
-  - 접수: 03. 31(월) ~ 12. 31(수)
-- __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: GEEKs
-  - 접수: 07. 29(화) ~ 12. 31(수) 23:30
+- __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: Instruct.KR
+  - 접수: 12. 01(월) ~ 12. 19(금)
 - __[앱잼 컨퍼런스 Moment:um 2025](https://www.instagram.com/p/DRhNJYvkpvl/?igsh=bjg0eG84bWQ1cXRl)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 앱잼
@@ -116,6 +108,18 @@
   - 분류: `오프라인(경기 판교)`, `유료`, `모임`
   - 주최: DevFest Pangyo
   - 접수: 12. 01(월) ~ 12. 22(월)
+- __[아이펠 AI 리서처 과정](https://aiffel.io/airesearcher)__
+  - 분류: `온라인`, `유료`, `교육`, `AI`
+  - 주최: 아이펠
+  - 접수: 12. 01(월) ~ 12. 28(일)
+- __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: 네이버 클라우드
+  - 접수: 03. 31(월) ~ 12. 31(수)
+- __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: GEEKs
+  - 접수: 07. 29(화) ~ 12. 31(수) 23:30
 
 <br />
 
@@ -325,6 +329,7 @@
 | ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
 | R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
+| ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 
 
 > :arrow_double_up: [Top](#지난-행사-기록)
@@ -362,7 +367,6 @@
 | 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
 | 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
 | 코드트리(Codetree) | [homepage](https://www.codetree.ai/ko/trail-info?utm_source=github&utm_medium=devevent) |
-| ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
