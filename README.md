@@ -109,7 +109,7 @@
   - 주최: Kotlin User Groups Seoul
   - 접수: 12. 01(월) ~ 12. 20(토)
 - __[실무형 사이드 프로젝트, 스위프 웹 12기](https://swyp.im/web)__
-  - 분류: `오프라인`, `무료`, `안드로이드`
+  - 분류: `오프라인`, `무료`, `모임`
   - 주최: 스위프
   - 접수: 12. 16(화) ~ 12. 21(일)
 - __[DevFest Pangyo x Go 2025: BANANA-MAS](https://www.ticketa.co/events/67)__
