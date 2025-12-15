@@ -104,6 +104,14 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: MongoDB, I in We
   - 접수: 12. 01(월) ~ 12. 20(토)
+- __[Kotlin Multiplatform Meetup](https://www.ticketa.co/events/66)__
+  - 분류: `오프라인(서울 송파)`, `무료`, `안드로이드`
+  - 주최: Kotlin User Groups Seoul
+  - 접수: 12. 01(월) ~ 12. 20(토)
+- __[실무형 사이드 프로젝트, 스위프 웹 12기](https://swyp.im/web)__
+  - 분류: `오프라인`, `무료`, `안드로이드`
+  - 주최: 스위프
+  - 접수: 12. 16(화) ~ 12. 21(일)
 - __[DevFest Pangyo x Go 2025: BANANA-MAS](https://www.ticketa.co/events/67)__
   - 분류: `오프라인(경기 판교)`, `유료`, `모임`
   - 주최: DevFest Pangyo
@@ -158,6 +166,10 @@
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
   - 접수: 12. 08(월) ~ 01. 23(금)
+- __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
+  - 분류: `온랄인`, `무료`, `커리어`
+  - 주최: 두나무
+  - 접수: 12. 15(월) ~ 01. 30(금)
 
 <br />
 
