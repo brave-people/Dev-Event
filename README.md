@@ -67,35 +67,11 @@
 <br />
 
 ## `25년 12월`
-- __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
-  - 분류: `오프라인(이화여대)`, `무료`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 10. 17(금) ~ 12. 12(금)
-
-- __[Google DeepMind - Vibe Code with Gemini 3 Pro in AI Studio](https://www.kaggle.com/competitions/gemini-3)__
-  - 분류: `오브라인`, `무료`, `대회`, `AI`
-  - 주최: 구글
-  - 일시: 12. 05(금) ~ 12. 12(금)
-- __[2025년 K-PaaS 베타테스터 모집](https://k-paas.or.kr/about/noticeView/1513)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: K-PaaS
-  - 접수: 12. 01(월) ~ 12. 14(일)
-- __[2026 NAVER AI CHALLENGE](https://recruit.navercorp.com/rcrt/view.do?annoId=30004232&lang=ko)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 네이버
-  - 접수: 12. 10(수) ~ 12. 16(화) 11:00
-- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/312349295/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 12. 08(월) ~ 12. 18(목)
-- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/335604)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 12. 12(금) ~ 12. 18(목)
 - __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: Instruct.KR
   - 접수: 12. 01(월) ~ 12. 19(금)
+
 - __[앱잼 컨퍼런스 Moment:um 2025](https://www.instagram.com/p/DRhNJYvkpvl/?igsh=bjg0eG84bWQ1cXRl)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 앱잼
@@ -116,6 +92,14 @@
   - 분류: `오프라인(경기 판교)`, `유료`, `모임`
   - 주최: DevFest Pangyo
   - 접수: 12. 01(월) ~ 12. 22(월)
+- __[[젬파이밋업 12월] 37회차 밋업 - 게임 개발자 크리스마스 파티 에디션](https://event-us.kr/zempie/event/118245)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: 젬파이
+  - 접수: 12. 11(목) ~ 12. 22(월)
+- __[빌더스 리그(Builders League)](https://buildersleague.goorm.io/)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 구름
+  - 접수: 12. 01(월) ~ 12. 28(일)
 - __[아이펠 AI 리서처 과정](https://aiffel.io/airesearcher)__
   - 분류: `온라인`, `유료`, `교육`, `AI`
   - 주최: 아이펠
@@ -138,6 +122,10 @@
   - 주최: SIPE
   - 접수: 12. 14(일) ~ 01. 05(월)
 
+- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/312497695/)__
+  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 12. 19(금) ~ 01. 08(목)
 - __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: GNP
@@ -167,7 +155,7 @@
   - 주최: FlutterSeoul
   - 접수: 12. 08(월) ~ 01. 23(금)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
-  - 분류: `온랄인`, `무료`, `커리어`
+  - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
   - 접수: 12. 15(월) ~ 01. 30(금)
 
