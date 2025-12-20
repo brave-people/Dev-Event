@@ -146,10 +146,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 12. 10(수) ~ 01. 18(일)
-- __[AI Co-Scientist Challenge Korea - Track 2](https://aifactory.space/task/9237/overview)__
+- __[kakao MCP Player 10](https://b.kakao.com/views/PlayMCP/MCP_Player_10)__
   - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 10(수) ~ 01. 18(일)
+  - 주최: 카카오
+  - 접수: 12. 19(금) ~ 01. 18(일)
 - __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
