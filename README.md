@@ -67,31 +67,11 @@
 <br />
 
 ## `25년 12월`
-- __[Instruct.KR 2025 12월 Meetup - Agents](https://luma.com/sj78l1dz)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: Instruct.KR
-  - 접수: 12. 01(월) ~ 12. 19(금)
-
-- __[앱잼 컨퍼런스 Moment:um 2025](https://www.instagram.com/p/DRhNJYvkpvl/?igsh=bjg0eG84bWQ1cXRl)__
-  - 분류: `오프라인`, `유료`, `기술일반`
-  - 주최: 앱잼
-  - 접수: 11. 26(수) ~ 12. 19(금)
-- __[[Seoul MUG Online: AI Skills] - MongoDB AI Skills 교육](https://event-us.kr/m/116765/47398)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: MongoDB, I in We
-  - 접수: 12. 01(월) ~ 12. 20(토)
-- __[Kotlin Multiplatform Meetup](https://www.ticketa.co/events/66)__
-  - 분류: `오프라인(서울 송파)`, `무료`, `안드로이드`
-  - 주최: Kotlin User Groups Seoul
-  - 접수: 12. 01(월) ~ 12. 20(토)
-- __[실무형 사이드 프로젝트, 스위프 웹 12기](https://swyp.im/web)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 스위프
-  - 접수: 12. 16(화) ~ 12. 21(일)
 - __[DevFest Pangyo x Go 2025: BANANA-MAS](https://www.ticketa.co/events/67)__
   - 분류: `오프라인(경기 판교)`, `유료`, `모임`
   - 주최: DevFest Pangyo
   - 접수: 12. 01(월) ~ 12. 22(월)
+
 - __[[젬파이밋업 12월] 37회차 밋업 - 게임 개발자 크리스마스 파티 에디션](https://event-us.kr/zempie/event/118245)__
   - 분류: `오프라인(서울 강남)`, `무료`, `모임`
   - 주최: 젬파이
@@ -126,6 +106,10 @@
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 12. 19(금) ~ 01. 08(목)
+- __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
+  - 분류: `온라인`, `유료`, `오픈소스`
+  - 주최: 오픈소스 기여모임
+  - 접수: 01. 10(토) ~ 01. 25(일)
 - __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: GNP
@@ -146,10 +130,22 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 12. 10(수) ~ 01. 18(일)
+- __[AI Co-Scientist Challenge Korea - Track 2](https://aifactory.space/task/9237/overview)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 12. 10(수) ~ 01. 18(일)
 - __[kakao MCP Player 10](https://b.kakao.com/views/PlayMCP/MCP_Player_10)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 카카오
   - 접수: 12. 19(금) ~ 01. 18(일)
+- __[KB IT’s Your Life 7기](https://inthiswork.com/archives/285573)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 국민은행
+  - 접수: 12. 22(월) ~ 01. 19(월)
+- __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 그로메트릭
+  - 접수: 12. 05(금) ~ 01. 20(화)
 - __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
