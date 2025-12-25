@@ -76,7 +76,7 @@
   - 분류: `온라인`, `유료`, `교육`, `AI`
   - 주최: 아이펠
   - 접수: 12. 01(월) ~ 12. 28(일)
-- __[AI 개발 웨비나 신청폼](https://docs.google.com/forms/d/e/1FAIpQLSe0U4qtuO_Z1FzIKD7LpBMq-JTqjvoRbTFeug7Vew88uEgPcA/viewform)__
+- __[AI 개발 웨비나](https://docs.google.com/forms/d/e/1FAIpQLSe0U4qtuO_Z1FzIKD7LpBMq-JTqjvoRbTFeug7Vew88uEgPcA/viewform)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: F-Lab
   - 접수: 12. 25(목) ~ 12. 28(일)
