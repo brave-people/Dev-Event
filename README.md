@@ -67,23 +67,19 @@
 <br />
 
 ## `25년 12월`
-- __[DevFest Pangyo x Go 2025: BANANA-MAS](https://www.ticketa.co/events/67)__
-  - 분류: `오프라인(경기 판교)`, `유료`, `모임`
-  - 주최: DevFest Pangyo
-  - 접수: 12. 01(월) ~ 12. 22(월)
-
-- __[[젬파이밋업 12월] 37회차 밋업 - 게임 개발자 크리스마스 파티 에디션](https://event-us.kr/zempie/event/118245)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: 젬파이
-  - 접수: 12. 11(목) ~ 12. 22(월)
 - __[빌더스 리그(Builders League)](https://buildersleague.goorm.io/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 구름
   - 접수: 12. 01(월) ~ 12. 28(일)
+
 - __[아이펠 AI 리서처 과정](https://aiffel.io/airesearcher)__
   - 분류: `온라인`, `유료`, `교육`, `AI`
   - 주최: 아이펠
   - 접수: 12. 01(월) ~ 12. 28(일)
+- __[AI 개발 웨비나 신청폼](https://docs.google.com/forms/d/e/1FAIpQLSe0U4qtuO_Z1FzIKD7LpBMq-JTqjvoRbTFeug7Vew88uEgPcA/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: F-Lab
+  - 접수: 12. 25(목) ~ 12. 28(일)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
@@ -142,6 +138,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 국민은행
   - 접수: 12. 22(월) ~ 01. 19(월)
+- __[​OpenAI 콕스웨이브 해커톤: 멀티 에이전트 워크플로우](https://luma.com/23tmqe8f)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: OpenAI, Coxwave
+  - 접수: 12. 25(목) ~ 01. 19(월)
 - __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 그로메트릭
