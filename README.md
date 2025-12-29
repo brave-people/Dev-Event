@@ -67,23 +67,11 @@
 <br />
 
 ## `25년 12월`
-- __[빌더스 리그(Builders League)](https://buildersleague.goorm.io/)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 구름
-  - 접수: 12. 01(월) ~ 12. 28(일)
-
-- __[아이펠 AI 리서처 과정](https://aiffel.io/airesearcher)__
-  - 분류: `온라인`, `유료`, `교육`, `AI`
-  - 주최: 아이펠
-  - 접수: 12. 01(월) ~ 12. 28(일)
-- __[AI 개발 웨비나](https://docs.google.com/forms/d/e/1FAIpQLSe0U4qtuO_Z1FzIKD7LpBMq-JTqjvoRbTFeug7Vew88uEgPcA/viewform)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: F-Lab
-  - 접수: 12. 25(목) ~ 12. 28(일)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
   - 접수: 03. 31(월) ~ 12. 31(수)
+
 - __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GEEKs
@@ -102,14 +90,18 @@
   - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 12. 19(금) ~ 01. 08(목)
-- __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
-  - 분류: `온라인`, `유료`, `오픈소스`
-  - 주최: 오픈소스 기여모임
-  - 접수: 01. 10(토) ~ 01. 25(일)
+- __[최신 기술 반영 AI 에이전트 개발 트랙](https://event.wanted.co.kr/potenup_ai_3)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: 원티드
+  - 접수: 11. 24(월) ~ 01. 09(금)
 - __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: GNP
   - 접수: 10. 01(수) ~ 01. 10(토)
+- __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
+  - 분류: `오프라인`, `유료`, `교육`
+  - 주최: 원티드
+  - 접수: 12. 01(월) ~ 01. 16(금)
 - __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
@@ -139,17 +131,25 @@
   - 주최: 국민은행
   - 접수: 12. 22(월) ~ 01. 19(월)
 - __[​OpenAI 콕스웨이브 해커톤: 멀티 에이전트 워크플로우](https://luma.com/23tmqe8f)__
-  - 분류: `온라인`, `무료`, `대회`
+  - 분류: `오프라인`, `무료`, `대회`
   - 주최: OpenAI, Coxwave
   - 접수: 12. 25(목) ~ 01. 19(월)
 - __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 그로메트릭
   - 접수: 12. 05(금) ~ 01. 20(화)
+- __[AWS Community Builders Day 2026](https://event-us.kr/awskrug/event/118695)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWS
+  - 접수: 12. 29(월) ~ 01. 21(수)
 - __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
   - 접수: 12. 08(월) ~ 01. 23(금)
+- __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
+  - 분류: `온라인`, `유료`, `오픈소스`
+  - 주최: 오픈소스 기여모임
+  - 접수: 01. 10(토) ~ 01. 25(일)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
