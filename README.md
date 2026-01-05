@@ -92,6 +92,10 @@
   - 분류: `온라인`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 02(금) ~ 01. 12(월)
+- __[AWSKRUG 데브옵스 #DevOps 소모임 20번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/312675440/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 05(월) ~ 01. 13(화)
 - __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 원티드
@@ -144,10 +148,18 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 그로메트릭
   - 접수: 12. 05(금) ~ 01. 20(화)
+- __[AWSKRUG #Beginner 모임 - AWS Network 기초 이론과 Hands-on Lab](https://www.meetup.com/awskrug/events/312677101/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 05(월) ~ 01. 20(화)
 - __[AWS Community Builders Day 2026](https://event-us.kr/awskrug/event/118695)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWS
   - 접수: 12. 29(월) ~ 01. 21(수)
+- __[2026 AI시대 인간지능 컨퍼런스](https://smartstore.naver.com/lolomall/products/12906921285?NaPm=ct%3D1je6pvt9c%7Cci%3Dshopn%7Ctr%3Dmktlnk%7Chk%3D63e74e6a3628b36d2b8304f6046daea0b03a45cf%7Ctrx%3Dundefined)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 여행가J
+  - 접수: 12. 08(월) ~ 01. 23(금)
 - __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
@@ -160,6 +172,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: OWASP Seoul Chapter
   - 접수: 01. 02(금) ~ 01. 26(월)
+- __[AWSKRUG - AWS 테크에반젤리스트와 함께 레벨업! (온라인) - Amazon Bedrock과 RAG 이론 및 실습](https://www.meetup.com/awskrug/events/312711596/)__
+  - 분류: `온라인`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 05(월) ~ 01. 26(월)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
@@ -168,10 +184,23 @@
 <br />
 
 ## `26년 02월`
+- __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: 데일리시큐
+  - 접수: 11. 21(금) ~ 02. 06(금)
+
 - __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://kernel.fastcampus.co.kr/up_seminar)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+
+<br />
+
+## `26년 05월`
+- __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
+  - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
+  - 주최: 원티드
+  - 일시: 01. 05(월) ~ 05. 11(월)
 
 <br />
 
