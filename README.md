@@ -66,20 +66,6 @@
 
 <br />
 
-## `25년 12월`
-- __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: 네이버 클라우드
-  - 접수: 03. 31(월) ~ 12. 31(수)
-
-- __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: GEEKs
-  - 접수: 07. 29(화) ~ 12. 31(수) 23:30
-
-<br />
-
-
 ## `26년 01월`
 - __[SIPE 5기 모집](https://sipe.team/)__
   - 분류: `오프라인`, `유료`, `모임`, `기술일반`
@@ -98,10 +84,30 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: GNP
   - 접수: 10. 01(수) ~ 01. 10(토)
+- __[Web3 OPEN CONFERENCE 2026](https://luma.com/tjz78tv2)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: MimboGamegroup
+  - 접수: 01. 02(금) ~ 01. 11(일)
+- __[AWSKRUG Women In Cloud - 17th](https://www.meetup.com/awskrug/events/312651730/)__
+  - 분류: `온라인`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 02(금) ~ 01. 12(월)
 - __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 원티드
   - 접수: 12. 01(월) ~ 01. 16(금)
+- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AI SEOUL 2026
+  - 접수: 12. 01(월) ~ 01. 16(금)
+- __[2026 Fast Builderthon : AI 해커톤 모집](https://fastcampus.co.kr/builderthon2026)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 01. 02(금) ~ 01. 16(금)
+- __[Microsoft AI Community 밋업 '야~ 겨울이다'](https://event-us.kr/aiplayground/event/118827)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
+  - 주최: AI 놀이터
+  - 접수: 01. 02(금) ~ 01. 17(토)
 - __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
@@ -150,6 +156,10 @@
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
   - 접수: 01. 10(토) ~ 01. 25(일)
+- __[OWASP Seoul Chapter 1월 세미나: AI 보안의 현재 — 실제 사례로 보는 위협과 방어](https://www.meetup.com/owasp-seoul/events/312560748)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: OWASP Seoul Chapter
+  - 접수: 01. 02(금) ~ 01. 26(월)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
