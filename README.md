@@ -67,23 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[SIPE 5기 모집](https://sipe.team/)__
-  - 분류: `오프라인`, `유료`, `모임`, `기술일반`
-  - 주최: SIPE
-  - 접수: 12. 14(일) ~ 01. 05(월)
-
-- __[AWSKRUG #magok 마곡 소모임](https://www.meetup.com/awskrug/events/312497695/)__
-  - 분류: `오프라인(경기 마곡)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 12. 19(금) ~ 01. 08(목)
-- __[최신 기술 반영 AI 에이전트 개발 트랙](https://event.wanted.co.kr/potenup_ai_3)__
-  - 분류: `오프라인`, `유료`, `교육`
-  - 주최: 원티드
-  - 접수: 11. 24(월) ~ 01. 09(금)
 - __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인(서울 강남)`, `유료`, `모임`
   - 주최: GNP
   - 접수: 10. 01(수) ~ 01. 10(토)
+
 - __[Web3 OPEN CONFERENCE 2026](https://luma.com/tjz78tv2)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: MimboGamegroup
@@ -92,6 +80,10 @@
   - 분류: `온라인`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 02(금) ~ 01. 12(월)
+- __[AWSKRUG Women In Cloud (온라인) ⚡️한국에서 글로벌 테크 기업으로, 1년 후 다시 써보는 해외취업 전략](https://www.meetup.com/awskrug/events/312651730/)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: AWSKRUG
+  - 접수: 01. 10(토) ~ 01. 12(월)
 - __[AWSKRUG 데브옵스 #DevOps 소모임 20번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/312675440/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -112,6 +104,10 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: AI 놀이터
   - 접수: 01. 02(금) ~ 01. 17(토)
+- __[AWSKRUG Women In Cloud (온라인) ⚡️그래도 가고 싶다면 <해외취업 전략 - 캐나다>](https://www.meetup.com/awskrug/events/312726488/)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: AWSKRUG
+  - 접수: 01. 10(토) ~ 01. 17(토)
 - __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 크래프톤 정글
@@ -156,6 +152,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWS
   - 접수: 12. 29(월) ~ 01. 21(수)
+- __[바이브 코딩 AI 프로젝트 실전 특강](https://event-us.kr/hanbitn/event/118798)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 한빛+
+  - 접수: 01. 05(월) ~ 01. 21(수) 23:00
 - __[2026 AI시대 인간지능 컨퍼런스](https://smartstore.naver.com/lolomall/products/12906921285?NaPm=ct%3D1je6pvt9c%7Cci%3Dshopn%7Ctr%3Dmktlnk%7Chk%3D63e74e6a3628b36d2b8304f6046daea0b03a45cf%7Ctrx%3Dundefined)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 여행가J
@@ -180,6 +180,11 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
   - 접수: 12. 15(월) ~ 01. 30(금)
+- __[매경미디어 x 앤스로픽 'News to Action' AI 해커톤](https://docs.google.com/forms/d/e/1FAIpQLSenXRHKVWd2WfDqecVNVTH7uWD0VJkynknE0GRSTXFpkDau_A/viewform)__
+  - 분류: `오프라인(서울 충무로역)`, `무료`, `대회`
+  - 주최: 매경미디어 x 앤스로픽
+  - 접수: 01. 10(월) ~ 01. 30(금)
+
 
 <br />
 
@@ -189,6 +194,10 @@
   - 주최: 데일리시큐
   - 접수: 11. 21(금) ~ 02. 06(금)
 
+- __[NetApp INSIGHT Xtra Seoul 2026](https://www.netapp.com/insight/xtra/seoul/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
+  - 주최: NetApp INSIGHT Xtra
+  - 접수: 11. 21(금) ~ 02. 06(금)
 - __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://kernel.fastcampus.co.kr/up_seminar)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
