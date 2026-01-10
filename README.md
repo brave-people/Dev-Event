@@ -164,6 +164,10 @@
   - 분류: `오프라인(대구 동구)`, `무료`, `대회`
   - 주최: FlutterSeoul
   - 접수: 12. 08(월) ~ 01. 23(금)
+- __[AI Builders Meetup: Skillthon](https://docs.google.com/forms/d/e/1FAIpQLSe7FLZH_lr8VfnDuhLXXlpHEFIHV-QFoA1kFEdpuD6HI-6I2g/viewform)__
+  - 분류: `오프라인(대구 동구)`, `무료`, `대회`
+  - 주최: Team Attention
+  - 접수: 01. 10(토) ~ 01. 23(금)
 - __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
