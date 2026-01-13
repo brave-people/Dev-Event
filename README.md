@@ -67,27 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[GNP 2026 - 각종 분야 개발자들을 모으는 한 개의 행사](https://event-us.kr/gnp/event/109102)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `모임`
-  - 주최: GNP
-  - 접수: 10. 01(수) ~ 01. 10(토)
-
-- __[Web3 OPEN CONFERENCE 2026](https://luma.com/tjz78tv2)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: MimboGamegroup
-  - 접수: 01. 02(금) ~ 01. 11(일)
-- __[AWSKRUG Women In Cloud - 17th](https://www.meetup.com/awskrug/events/312651730/)__
-  - 분류: `온라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 02(금) ~ 01. 12(월)
-- __[AWSKRUG Women In Cloud (온라인) ⚡️한국에서 글로벌 테크 기업으로, 1년 후 다시 써보는 해외취업 전략](https://www.meetup.com/awskrug/events/312651730/)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: AWSKRUG
-  - 접수: 01. 10(토) ~ 01. 12(월)
 - __[AWSKRUG 데브옵스 #DevOps 소모임 20번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/312675440/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 05(월) ~ 01. 13(화)
+
 - __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 원티드
@@ -100,6 +84,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 01. 02(금) ~ 01. 16(금)
+- __[6주완성 : 멋쟁이사자처럼](https://likelion.net/onboarding)__
+  - 분류: `온라인`, `유료`, `교육`
+  - 주최: 멋쟁이사자처럼
+  - 접수: 01. 13(화) ~ 01. 16(금) 14:00
+- __[AI 이후, 실리콘밸리 개발자는 어떻게 일하고 있는가](https://tech.goorm.io/2601_commit/)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 01. 13(화) ~ 01. 16(금) 17:00
 - __[Microsoft AI Community 밋업 '야~ 겨울이다'](https://event-us.kr/aiplayground/event/118827)__
   - 분류: `오프라인(서울 종로)`, `무료`, `AI`
   - 주최: AI 놀이터
@@ -156,6 +148,14 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 한빛+
   - 접수: 01. 05(월) ~ 01. 21(수) 23:00
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/336832)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 01. 13(화) ~ 01. 21(수) 23:00
+- __[스위프 앱 3기 데모데이 & 네트워킹 행사](https://tally.so/r/dW0E5V)__
+  - 분류: `오프라인(서울 선릉)`, `유료`, `모임`
+  - 주최: 스위프
+  - 접수: 01. 13(화) ~ 01. 22(목)
 - __[2026 AI시대 인간지능 컨퍼런스](https://smartstore.naver.com/lolomall/products/12906921285?NaPm=ct%3D1je6pvt9c%7Cci%3Dshopn%7Ctr%3Dmktlnk%7Chk%3D63e74e6a3628b36d2b8304f6046daea0b03a45cf%7Ctrx%3Dundefined)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 여행가J
@@ -168,6 +168,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `대회`
   - 주최: Team Attention
   - 접수: 01. 10(토) ~ 01. 23(금)
+- __[DRIFT 26](https://event-us.kr/teendev/event/119348)__
+  - 분류: `오프라인(서울 마포)`, `유료`, `모임`
+  - 주최: Teendev
+  - 접수: 01. 12(월) ~ 01. 23(금) 18:00
 - __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
@@ -188,16 +192,23 @@
   - 분류: `오프라인(서울 충무로역)`, `무료`, `대회`
   - 주최: 매경미디어 x 앤스로픽
   - 접수: 01. 10(월) ~ 01. 30(금)
-
+- __[2026년 ICT 한이음 드림업 신규 멘토 모집](https://okky.kr/articles/1550078)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: 한이음
+  - 접수: 01. 05(월) ~ 01. 31(토)
 
 <br />
 
 ## `26년 02월`
+- __[2026 GDGoC KR HACKATHON: ONE WAVE](https://gdgoc-onewave-hackathon.notion.site/2026-GDGoC-KR-HACKATHON-ONE-WAVE-2d8900cdbb1a80b79803ed6b941b2679)__
+  - 분류: `온라인`, `무료`, `보안`
+  - 주최: Google Developer Group
+  - 접수: 01. 13(화) ~ 02. 01(일)
+
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
   - 접수: 11. 21(금) ~ 02. 06(금)
-
 - __[NetApp INSIGHT Xtra Seoul 2026](https://www.netapp.com/insight/xtra/seoul/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: NetApp INSIGHT Xtra
@@ -206,6 +217,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+- __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: HyphenCon
+  - 접수: 01. 13(월) ~ 02. 13(금)
 
 <br />
 
