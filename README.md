@@ -196,7 +196,7 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 한이음
   - 접수: 01. 05(월) ~ 01. 31(토)
-- __[AWSKRUG - AUSG Public BIGCHAT - 01.26(월)](https://www.meetup.com/awskrug/events/312711596/)__
+- __[AWSKRUG - AUSG Public BIGCHAT - 01.26(월)](https://www.meetup.com/awskrug/events/312827814)__
   - 분류: `오프라인`, `유료`, `클라우드`
   - 주최: AWSKRUG AUSG
   - 접수: 01. 11(일) ~ 01. 22(목)
