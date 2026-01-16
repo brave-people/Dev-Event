@@ -67,15 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[AWSKRUG 데브옵스 #DevOps 소모임 20번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/312675440/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 13(화)
-
 - __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
   - 분류: `오프라인`, `유료`, `교육`
   - 주최: 원티드
   - 접수: 12. 01(월) ~ 01. 16(금)
+
 - __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AI SEOUL 2026
@@ -172,10 +168,18 @@
   - 분류: `오프라인(서울 마포)`, `유료`, `모임`
   - 주최: Teendev
   - 접수: 01. 12(월) ~ 01. 23(금) 18:00
+- __[제 23회 BOAZ 빅데이터 컨퍼런스](https://event-us.kr/boaz/event/119509)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: BOAZ
+  - 접수: 01. 16(금) ~ 01. 23(금) 23:30
 - __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
   - 접수: 01. 10(토) ~ 01. 25(일)
+- __[IT 연합동아리 Cloud Club 9기 모집](https://docs.google.com/forms/d/e/1FAIpQLSffxOpp39h9Qc7wOfMlMebiMW6F7PhF7zrcwyenY62Ylo_SxQ/viewform)__
+  - 분류: `온라인`, `오프라인` `무료`, `모임`
+  - 주최: Cloud Club
+  - 접수: 01. 12(월) ~ 01. 25(일)
 - __[OWASP Seoul Chapter 1월 세미나: AI 보안의 현재 — 실제 사례로 보는 위협과 방어](https://www.meetup.com/owasp-seoul/events/312560748)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: OWASP Seoul Chapter
@@ -184,6 +188,14 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 05(월) ~ 01. 26(월)
+- __[AUSG Public BIGCHAT](https://www.meetup.com/awskrug/events/312827814)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 01. 05(월) ~ 01. 26(월)
+- __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 01. 16(금) ~ 01. 28(수)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
@@ -217,6 +229,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+- __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 13(월) ~ 02. 11(수)
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: HyphenCon
