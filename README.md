@@ -409,7 +409,7 @@
 | R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 | ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
-
+| KUSITMS | 비전을 가지고 성장하는 한국대학생 IT경영학회                      | [공식 홈페이지](https://www.kusitms.com/), [instagram](https://www.instagram.com/kusitms_official/)  |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
