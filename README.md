@@ -152,6 +152,10 @@
   - 분류: `오프라인(서울 선릉)`, `유료`, `모임`
   - 주최: 스위프
   - 접수: 01. 13(화) ~ 01. 22(목)
+- __[AWSKRUG - AUSG Public BIGCHAT](https://www.meetup.com/awskrug/events/312827814)__
+  - 분류: `오프라인`, `유료`, `클라우드`
+  - 주최: AWSKRUG AUSG
+  - 접수: 01. 11(일) ~ 01. 22(목)
 - __[2026 AI시대 인간지능 컨퍼런스](https://smartstore.naver.com/lolomall/products/12906921285?NaPm=ct%3D1je6pvt9c%7Cci%3Dshopn%7Ctr%3Dmktlnk%7Chk%3D63e74e6a3628b36d2b8304f6046daea0b03a45cf%7Ctrx%3Dundefined)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 여행가J
