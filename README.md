@@ -229,6 +229,19 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 01. 12(월) ~ 02. 11(수)
+
+<br />
+
+## `26년 03월`
+- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 02. 13(금) ~ 03. 12(목)
+
 - __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
