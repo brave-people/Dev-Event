@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-189-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-190-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -794,6 +794,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kyungseopk1m"><img src="https://avatars.githubusercontent.com/u/101553623?v=4?s=100" width="100px;" alt="kyungseopk1m"/><br /><sub><b>kyungseopk1m</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kyungseopk1m" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hyewon4052"><img src="https://avatars.githubusercontent.com/u/129272496?v=4?s=100" width="100px;" alt="혜원"/><br /><sub><b>혜원</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyewon4052" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pkjdev"><img src="https://avatars.githubusercontent.com/u/217580173?v=4?s=100" width="100px;" alt="pkjdev"/><br /><sub><b>pkjdev</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pkjdev" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/psm1st"><img src="https://avatars.githubusercontent.com/u/145013061?v=4?s=100" width="100px;" alt="Sumin"/><br /><sub><b>Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=psm1st" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
