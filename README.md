@@ -67,71 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
-  - 분류: `오프라인`, `유료`, `교육`
-  - 주최: 원티드
-  - 접수: 12. 01(월) ~ 01. 16(금)
-
-- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AI SEOUL 2026
-  - 접수: 12. 01(월) ~ 01. 16(금)
-- __[2026 Fast Builderthon : AI 해커톤 모집](https://fastcampus.co.kr/builderthon2026)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 01. 02(금) ~ 01. 16(금)
-- __[6주완성 : 멋쟁이사자처럼](https://likelion.net/onboarding)__
-  - 분류: `온라인`, `유료`, `교육`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 01. 13(화) ~ 01. 16(금) 14:00
-- __[AI 이후, 실리콘밸리 개발자는 어떻게 일하고 있는가](https://tech.goorm.io/2601_commit/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 01. 13(화) ~ 01. 16(금) 17:00
-- __[Microsoft AI Community 밋업 '야~ 겨울이다'](https://event-us.kr/aiplayground/event/118827)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: AI 놀이터
-  - 접수: 01. 02(금) ~ 01. 17(토)
-- __[AWSKRUG Women In Cloud (온라인) ⚡️그래도 가고 싶다면 <해외취업 전략 - 캐나다>](https://www.meetup.com/awskrug/events/312726488/)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: AWSKRUG
-  - 접수: 01. 10(토) ~ 01. 17(토)
-- __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[크래프톤 Game Lab 5기](https://jungle.krafton.com/schedule/gamelab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[크래프톤 정글 Tech Lab 3기](https://jungle.krafton.com/schedule/gametechlab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[AI Co-Scientist Challenge Korea - Track 1](https://aifactory.space/task/9235/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 10(수) ~ 01. 18(일)
-- __[AI Co-Scientist Challenge Korea - Track 2](https://aifactory.space/task/9237/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 10(수) ~ 01. 18(일)
-- __[kakao MCP Player 10](https://b.kakao.com/views/PlayMCP/MCP_Player_10)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 카카오
-  - 접수: 12. 19(금) ~ 01. 18(일)
-- __[KB IT’s Your Life 7기](https://inthiswork.com/archives/285573)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 국민은행
-  - 접수: 12. 22(월) ~ 01. 19(월)
-- __[​OpenAI 콕스웨이브 해커톤: 멀티 에이전트 워크플로우](https://luma.com/23tmqe8f)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: OpenAI, Coxwave
-  - 접수: 12. 25(목) ~ 01. 19(월)
 - __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 그로메트릭
   - 접수: 12. 05(금) ~ 01. 20(화)
+
 - __[AWSKRUG #Beginner 모임 - AWS Network 기초 이론과 Hands-on Lab](https://www.meetup.com/awskrug/events/312677101/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
   - 주최: AWSKRUG
@@ -200,6 +140,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 01. 16(금) ~ 01. 28(수)
+- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: 서울특별시
+  - 일시: 01. 20(화) ~ 01. 29(목)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
