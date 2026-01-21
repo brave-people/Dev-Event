@@ -67,19 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 그로메트릭
-  - 접수: 12. 05(금) ~ 01. 20(화)
-
-- __[AWSKRUG #Beginner 모임 - AWS Network 기초 이론과 Hands-on Lab](https://www.meetup.com/awskrug/events/312677101/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 20(화)
 - __[AWS Community Builders Day 2026](https://event-us.kr/awskrug/event/118695)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWS
   - 접수: 12. 29(월) ~ 01. 21(수)
+
 - __[바이브 코딩 AI 프로젝트 실전 특강](https://event-us.kr/hanbitn/event/118798)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 한빛+
@@ -156,6 +148,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 한이음
   - 접수: 01. 05(월) ~ 01. 31(토)
+- __[성장과 상금은 누구의 것? 인프런 3주 '서바이벌' 챌린지 : All or Nothing!](https://inf.run/a4R1Q)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: 인프런
+  - 접수: 01. 21(수) ~ 01. 31(토)
 
 <br />
 
@@ -165,6 +161,10 @@
   - 주최: Google Developer Group
   - 접수: 01. 13(화) ~ 02. 01(일)
 
+- __[2주 만에 끝내는 이력서 완성 코드](https://event.wanted.co.kr/career_kickoff_u10_1)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 01. 19(월) ~ 02. 02(월)
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
@@ -181,6 +181,10 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 01. 12(월) ~ 02. 11(수)
+- __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
+  - 분류: `오프라인(서울 부산)`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 01. 20(화) ~ 02. 20(금) 17:00
 
 <br />
 
