@@ -124,15 +124,23 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 인프런
   - 접수: 01. 21(수) ~ 01. 31(토)
+- __[FOSS for All 1월 밋업](http://ticketa.co/event/foss-for-all-1weol-miseob-ajhehljc/l/r2GVtxyk)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: FOSS for All
+  - 접수: 01. 24(토) ~ 01. 31(토)
 
 <br />
 
 ## `26년 02월`
+- __[Upstage AI Ambassador](https://edu.upstage.ai/course/ambassador-program-2?utm_campaign=AI+Ambassador+2%EA%B8%B0)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 업스테이지
+  - 접수: 01. 24(토) ~ 02. 01(일)
+
 - __[2026 GDGoC KR HACKATHON: ONE WAVE](https://gdgoc-onewave-hackathon.notion.site/2026-GDGoC-KR-HACKATHON-ONE-WAVE-2d8900cdbb1a80b79803ed6b941b2679)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: Google Developer Group
   - 접수: 01. 13(화) ~ 02. 01(일)
-
 - __[2주 만에 끝내는 이력서 완성 코드](https://event.wanted.co.kr/career_kickoff_u10_1)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
@@ -462,6 +470,7 @@
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
 | Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
 | Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
+| FOSS for All | [homepage](https://fossforall.org/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
