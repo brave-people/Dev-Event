@@ -67,51 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[AWS Community Builders Day 2026](https://event-us.kr/awskrug/event/118695)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWS
-  - 접수: 12. 29(월) ~ 01. 21(수)
-
-- __[바이브 코딩 AI 프로젝트 실전 특강](https://event-us.kr/hanbitn/event/118798)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: 한빛+
-  - 접수: 01. 05(월) ~ 01. 21(수) 23:00
-- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/336832)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 01. 13(화) ~ 01. 21(수) 23:00
-- __[스위프 앱 3기 데모데이 & 네트워킹 행사](https://tally.so/r/dW0E5V)__
-  - 분류: `오프라인(서울 선릉)`, `유료`, `모임`
-  - 주최: 스위프
-  - 접수: 01. 13(화) ~ 01. 22(목)
-- __[AWSKRUG - AUSG Public BIGCHAT](https://www.meetup.com/awskrug/events/312827814)__
-  - 분류: `오프라인`, `유료`, `클라우드`
-  - 주최: AWSKRUG AUSG
-  - 접수: 01. 11(일) ~ 01. 22(목)
-- __[2026 AI시대 인간지능 컨퍼런스](https://smartstore.naver.com/lolomall/products/12906921285?NaPm=ct%3D1je6pvt9c%7Cci%3Dshopn%7Ctr%3Dmktlnk%7Chk%3D63e74e6a3628b36d2b8304f6046daea0b03a45cf%7Ctrx%3Dundefined)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 여행가J
-  - 접수: 12. 08(월) ~ 01. 23(금)
-- __[Flutter Seoul 오픈스테이지 (대구편)](https://event-us.kr/flutterseoul/event/118042)__
-  - 분류: `오프라인(대구 동구)`, `무료`, `대회`
-  - 주최: FlutterSeoul
-  - 접수: 12. 08(월) ~ 01. 23(금)
-- __[AI Builders Meetup: Skillthon](https://docs.google.com/forms/d/e/1FAIpQLSe7FLZH_lr8VfnDuhLXXlpHEFIHV-QFoA1kFEdpuD6HI-6I2g/viewform)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `대회`
-  - 주최: Team Attention
-  - 접수: 01. 10(토) ~ 01. 23(금)
-- __[DRIFT 26](https://event-us.kr/teendev/event/119348)__
-  - 분류: `오프라인(서울 마포)`, `유료`, `모임`
-  - 주최: Teendev
-  - 접수: 01. 12(월) ~ 01. 23(금) 18:00
-- __[제 23회 BOAZ 빅데이터 컨퍼런스](https://event-us.kr/boaz/event/119509)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
-  - 주최: BOAZ
-  - 접수: 01. 16(금) ~ 01. 23(금) 23:30
 - __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
   - 접수: 01. 10(토) ~ 01. 25(일)
+
 - __[IT 연합동아리 Cloud Club 9기 모집](https://docs.google.com/forms/d/e/1FAIpQLSffxOpp39h9Qc7wOfMlMebiMW6F7PhF7zrcwyenY62Ylo_SxQ/viewform)__
   - 분류: `온라인`, `오프라인` `무료`, `모임`
   - 주최: Cloud Club
@@ -128,12 +88,24 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
   - 접수: 01. 05(월) ~ 01. 26(월)
+- __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 01. 24(토) ~ 01. 26(월)
+- __[AWSKRUG 데이터 #Data 소모임 68번째 밋업 - re:Invent reCap for Data](https://www.meetup.com/awskrug/events/312943302/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
+  - 주최: AWSKRUG
+  - 접수: 01. 24(토) ~ 01. 27(화)
 - __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
   - 주최: AWSKRUG
   - 접수: 01. 16(금) ~ 01. 28(수)
 - __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: 서울특별시
+  - 일시: 01. 20(화) ~ 01. 29(목)
+- __[바이브 코딩의 한계, 컨텍스트·프롬프트를 넘어 SDD로: Spec-Kit 실전 가이드](https://www.genon.ai/resources/events/genonair-260129)__
+  - 분류: `온라인`, `무료`, `AI`
   - 주최: 서울특별시
   - 일시: 01. 20(화) ~ 01. 29(목)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
@@ -316,24 +288,32 @@
               <a href="./end_event/2024/24_12.md"> 12월 </a>
             </td>
         </tr>
-          <tr>
-            <!-- <td> 종료 행사 </td> -->
-            <td>2025년</td>
-            <td>
-              <a href="./end_event/2025/25_01.md"> 01월 </a>,
-              <a href="./end_event/2025/25_02.md"> 02월 </a>,
-              <a href="./end_event/2025/25_03.md"> 03월 </a>,
-              <a href="./end_event/2025/25_04.md"> 04월 </a>,
-              <a href="./end_event/2025/25_05.md"> 05월 </a>,
-              <a href="./end_event/2025/25_06.md"> 06월 </a>,
-              <a href="./end_event/2025/25_07.md"> 07월 </a>,
-              <a href="./end_event/2025/25_08.md"> 08월 </a>,
-              <a href="./end_event/2025/25_09.md"> 09월 </a>,
-              <a href="./end_event/2025/25_10.md"> 10월 </a>,
-              <a href="./end_event/2025/25_11.md"> 11월 </a>,
-              <a href="./end_event/2025/25_12.md"> 12월 </a>
-            </td>
+        <tr>
+          <!-- <td> 종료 행사 </td> -->
+          <td>2025년</td>
+          <td>
+            <a href="./end_event/2025/25_01.md"> 01월 </a>,
+            <a href="./end_event/2025/25_02.md"> 02월 </a>,
+            <a href="./end_event/2025/25_03.md"> 03월 </a>,
+            <a href="./end_event/2025/25_04.md"> 04월 </a>,
+            <a href="./end_event/2025/25_05.md"> 05월 </a>,
+            <a href="./end_event/2025/25_06.md"> 06월 </a>,
+            <a href="./end_event/2025/25_07.md"> 07월 </a>,
+            <a href="./end_event/2025/25_08.md"> 08월 </a>,
+            <a href="./end_event/2025/25_09.md"> 09월 </a>,
+            <a href="./end_event/2025/25_10.md"> 10월 </a>,
+            <a href="./end_event/2025/25_11.md"> 11월 </a>,
+            <a href="./end_event/2025/25_12.md"> 12월 </a>
+          </td>
         </tr>
+        <tr>
+          <!-- <td> 종료 행사 </td> -->
+          <td>2026년</td>
+          <td>
+            <a href="./end_event/2026/26_01.md"> 01월 </a>
+          </td>
+        </tr>
+        
         <tr>
           <td> 행사 녹화 다시보기 </td>
           <td colspan="2">
