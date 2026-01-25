@@ -321,7 +321,6 @@
             <a href="./end_event/2026/26_01.md"> 01월 </a>
           </td>
         </tr>
-        
         <tr>
           <td> 행사 녹화 다시보기 </td>
           <td colspan="2">
