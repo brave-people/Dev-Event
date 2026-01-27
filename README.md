@@ -67,35 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
-  - 분류: `온라인`, `유료`, `오픈소스`
-  - 주최: 오픈소스 기여모임
-  - 접수: 01. 10(토) ~ 01. 25(일)
-
-- __[IT 연합동아리 Cloud Club 9기 모집](https://docs.google.com/forms/d/e/1FAIpQLSffxOpp39h9Qc7wOfMlMebiMW6F7PhF7zrcwyenY62Ylo_SxQ/viewform)__
-  - 분류: `온라인`, `오프라인` `무료`, `모임`
-  - 주최: Cloud Club
-  - 접수: 01. 12(월) ~ 01. 25(일)
-- __[OWASP Seoul Chapter 1월 세미나: AI 보안의 현재 — 실제 사례로 보는 위협과 방어](https://www.meetup.com/owasp-seoul/events/312560748)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: OWASP Seoul Chapter
-  - 접수: 01. 02(금) ~ 01. 26(월)
-- __[AWSKRUG - AWS 테크에반젤리스트와 함께 레벨업! (온라인) - Amazon Bedrock과 RAG 이론 및 실습](https://www.meetup.com/awskrug/events/312711596/)__
-  - 분류: `온라인`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 26(월)
-- __[AUSG Public BIGCHAT](https://www.meetup.com/awskrug/events/312827814)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 26(월)
-- __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/?eventOrigin=group_events_list)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 01. 24(토) ~ 01. 26(월)
 - __[AWSKRUG 데이터 #Data 소모임 68번째 밋업 - re:Invent reCap for Data](https://www.meetup.com/awskrug/events/312943302/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
   - 주최: AWSKRUG
   - 접수: 01. 24(토) ~ 01. 27(화)
+
 - __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
   - 주최: AWSKRUG
@@ -145,6 +121,14 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 01. 19(월) ~ 02. 02(월)
+- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/312987455/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 01. 27(화) ~ 02. 04(수)
+- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/313046924/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 01. 27(화) ~ 02. 04(수)
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
@@ -161,6 +145,18 @@
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 01. 12(월) ~ 02. 11(수)
+- __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 13(월) ~ 02. 11(수)
+- __[피싱·스캠 예방을 위한 서비스 개발 경진대회](https://dacon.io/competitions/official/236666/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 데이터유니버스
+  - 접수: 01. 27(화) ~ 02. 11(수)
+- __[AWSKRUG 인천 지역 소모임 2월 11일 - 첫 인천 소모임](https://www.meetup.com/awskrug/events/313058396/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(인천 연수)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 01. 27(화) ~ 02. 11(수)
 - __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -174,10 +170,6 @@
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목)
 
-- __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 01. 13(월) ~ 02. 11(수)
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: HyphenCon
@@ -186,6 +178,11 @@
 <br />
 
 ## `26년 05월`
+- __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
+  - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
+  - 주최: AI EXPO
+  - 일시: 01. 27(화) ~ 05. 08(금)
+
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
