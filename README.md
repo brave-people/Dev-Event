@@ -67,19 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[AWSKRUG 데이터 #Data 소모임 68번째 밋업 - re:Invent reCap for Data](https://www.meetup.com/awskrug/events/312943302/?eventOrigin=group_events_list)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `데이터`
-  - 주최: AWSKRUG
-  - 접수: 01. 24(토) ~ 01. 27(화)
-
-- __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 01. 16(금) ~ 01. 28(수)
 - __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
   - 주최: 서울특별시
   - 일시: 01. 20(화) ~ 01. 29(목)
+
 - __[바이브 코딩의 한계, 컨텍스트·프롬프트를 넘어 SDD로: Spec-Kit 실전 가이드](https://www.genon.ai/resources/events/genonair-260129)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 서울특별시
@@ -129,6 +121,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 01. 27(화) ~ 02. 04(수)
+- __[AI 에이전트 기반 워크플로 + 데이터 기반 DevOps 가치 증명](https://insight.infograb.net/event/detail/2f0a508f-9223-80cc-9e4b-d8d83ebfcd51/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인포그랩
+  - 접수: 01. 29(목) ~ 02. 06(금)
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
@@ -141,6 +137,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+- __[[COMMIT WORKSHOP] 코딩은 몰라도 업무 자동화는 하고 싶어 참가 신청서](https://docs.google.com/forms/d/e/1FAIpQLScI-sik-Q0Ne6A0daj_gchoiaVJAf5Tk7r3A5oGXpfn90Nu4w/formResponse)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 01. 29(목) ~ 02. 06(금)
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -157,10 +157,18 @@
   - 분류: `오프라인(인천 연수)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 27(화) ~ 02. 11(수)
+- __[Global AgentCamp 2026 서울](https://event-us.kr/globalaikr/event/119691)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `교육`
+  - 주최: GlobalAI Korea
+  - 접수: 01. 29(목) ~ 02. 19(목)
 - __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 01. 20(화) ~ 02. 20(금) 17:00
+- __[Seoul MongoDB User Group Meetup #2](https://www.meetup.com/mongodb-usergroup-seoul/events/313060611)__
+  - 분류: `오프라인(서울 부산)`, `무료`, `교육`
+  - 주최: Seoul MongoDB User Group
+  - 접수: 01. 29(목) ~ 02. 24(화)
 
 <br />
 
