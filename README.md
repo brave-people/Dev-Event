@@ -198,7 +198,7 @@
             <!-- <th scope="col">-</th> -->
         <!-- </tr> -->
         <tr>
-            <td rowspan="6"> 이전 행사 모음 </td>
+            <td rowspan="7"> 이전 행사 모음 </td>
             <td>2020년</td>
             <td> 
               <a href="./end_event/2020/20_08.md"> 08월 </a>,
@@ -302,10 +302,10 @@
           <!-- <td> 종료 행사 </td> -->
           <td>2026년</td>
           <td>
-            <a href="./end_event/2026/26_01.md"> 01월 </a>
+            <a href="./end_event/2026/26_01.md"> 01월 </a>,
+            <a href="./end_event/2026/26_02.md"> 02월 </a>
           </td>
         </tr>
-        
         <tr>
           <td> 행사 녹화 다시보기 </td>
           <td colspan="2">
