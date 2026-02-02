@@ -66,53 +66,12 @@
 
 <br />
 
-## `26년 01월`
-- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
-  - 주최: 서울특별시
-  - 일시: 01. 20(화) ~ 01. 29(목)
-
-- __[바이브 코딩의 한계, 컨텍스트·프롬프트를 넘어 SDD로: Spec-Kit 실전 가이드](https://www.genon.ai/resources/events/genonair-260129)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 서울특별시
-  - 일시: 01. 20(화) ~ 01. 29(목)
-- __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 두나무
-  - 접수: 12. 15(월) ~ 01. 30(금)
-- __[매경미디어 x 앤스로픽 'News to Action' AI 해커톤](https://docs.google.com/forms/d/e/1FAIpQLSenXRHKVWd2WfDqecVNVTH7uWD0VJkynknE0GRSTXFpkDau_A/viewform)__
-  - 분류: `오프라인(서울 충무로역)`, `무료`, `대회`
-  - 주최: 매경미디어 x 앤스로픽
-  - 접수: 01. 10(월) ~ 01. 30(금)
-- __[2026년 ICT 한이음 드림업 신규 멘토 모집](https://okky.kr/articles/1550078)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 한이음
-  - 접수: 01. 05(월) ~ 01. 31(토)
-- __[성장과 상금은 누구의 것? 인프런 3주 '서바이벌' 챌린지 : All or Nothing!](https://inf.run/a4R1Q)__
-  - 분류: `오프라인`, `무료`, `모임`
-  - 주최: 인프런
-  - 접수: 01. 21(수) ~ 01. 31(토)
-- __[FOSS for All 1월 밋업](http://ticketa.co/event/foss-for-all-1weol-miseob-ajhehljc/l/r2GVtxyk)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
-  - 주최: FOSS for All
-  - 접수: 01. 24(토) ~ 01. 31(토)
-
-<br />
-
 ## `26년 02월`
-- __[Upstage AI Ambassador](https://edu.upstage.ai/course/ambassador-program-2?utm_campaign=AI+Ambassador+2%EA%B8%B0)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 업스테이지
-  - 접수: 01. 24(토) ~ 02. 01(일)
-
-- __[2026 GDGoC KR HACKATHON: ONE WAVE](https://gdgoc-onewave-hackathon.notion.site/2026-GDGoC-KR-HACKATHON-ONE-WAVE-2d8900cdbb1a80b79803ed6b941b2679)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: Google Developer Group
-  - 접수: 01. 13(화) ~ 02. 01(일)
 - __[2주 만에 끝내는 이력서 완성 코드](https://event.wanted.co.kr/career_kickoff_u10_1)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 01. 19(월) ~ 02. 02(월)
+  
 - __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/312987455/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
@@ -141,6 +100,10 @@
   - 분류: `오프라인(경기 판교)`, `무료`, `AI`
   - 주최: 구름
   - 접수: 01. 29(목) ~ 02. 06(금)
+- __[[시니어 개발자는 어떻게 문제를 바라보는가 : 문제를 바라보는 시야와 결정의 순간들](https://tech.goorm.io/2602_commit/)__
+  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
+  - 주최: 구름
+  - 접수: 02. 02(월) ~ 02. 06(금) 17:00
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -157,10 +120,22 @@
   - 분류: `오프라인(인천 연수)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 27(화) ~ 02. 11(수)
+- __[2026-02 Kiro 한국 사용자 모임](https://www.meetup.com/awskrug/events/313058396/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 센터필드)`, `유료`, `클라우드`
+  - 주최: Kiro 한국 사용자 모임
+  - 접수: 01. 27(화) ~ 02. 11(수)
+- __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 4기](https://swyp.im/mobile)__
+  - 분류: `오프라인`, `온라인`, `유료`, `모임`
+  - 주최: 스위프
+  - 접수: 02. 02(월) ~ 02. 15(목)
 - __[Global AgentCamp 2026 서울](https://event-us.kr/globalaikr/event/119691)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: GlobalAI Korea
   - 접수: 01. 29(목) ~ 02. 19(목)
+- __[카카오, AI 앰배서더 ‘KANANA 429’](https://b.kakao.com/views/KANANA429)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 카카오
+  - 접수: 02. 02(월) ~ 02. 19(목) 12:00
 - __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -169,6 +144,10 @@
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: Seoul MongoDB User Group
   - 접수: 01. 29(목) ~ 02. 24(화)
+- __[맞다AI가 2월 밋업 - AI 실전 구축 : 바로 쓰는 AI 기술](https://ticketa.co/event/ij8k9l62)__
+  - 분류: `오프라인(대구)`, `유료`, `AI`
+  - 주최: 맞다AI가
+  - 접수: 01. 29(목) ~ 02. 25(수)
 
 <br />
 
