@@ -71,7 +71,7 @@
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 원티드
   - 접수: 01. 19(월) ~ 02. 02(월)
-  
+
 - __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/312987455/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
   - 주최: AWSKRUG
@@ -120,8 +120,8 @@
   - 분류: `오프라인(인천 연수)`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 27(화) ~ 02. 11(수)
-- __[2026-02 Kiro 한국 사용자 모임](https://www.meetup.com/awskrug/events/313058396/?eventOrigin=group_events_list)__
-  - 분류: `오프라인(서울 센터필드)`, `유료`, `클라우드`
+- __[2026-02 Kiro 한국 사용자 모임](https://luma.com/99ms90s6)__
+  - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
   - 주최: Kiro 한국 사용자 모임
   - 접수: 01. 27(화) ~ 02. 11(수)
 - __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 4기](https://swyp.im/mobile)__
@@ -148,15 +148,31 @@
   - 분류: `오프라인(대구)`, `유료`, `AI`
   - 주최: 맞다AI가
   - 접수: 01. 29(목) ~ 02. 25(수)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/313184195/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 02. 04(수) ~ 02. 25(수)
+- __[Boarding Now: Start Your Career with SAP](https://keystonellc.kr/sap/2026/0226_Kickstart_Your_Global_Career/0226_Kickstart%20Your%20Global%20Career_eDM.html/)__
+  - 분류: `오프라인(서울 을지로)`, `무로`, `커리어`
+  - 주최: SAP Korea
+  - 접수: 02. 04(수) ~ 02. 26(목)
+- __[Aimers 8기 : 모델 경량화 온라인 해커톤](https://dacon.io/competitions/official/236673/overview/description)__
+  - 분류: `온라인`, `무로`, `대회`
+  - 주최: LG Aimers
+  - 접수: 02. 04(수) ~ 02. 26(목)
 
 <br />
 
 ## `26년 03월`
+- __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: DAKER
+  - 접수: 02. 04(수) ~ 03. 09(월)
+
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목)
-
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: HyphenCon
