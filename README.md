@@ -67,23 +67,11 @@
 <br />
 
 ## `26년 02월`
-- __[2주 만에 끝내는 이력서 완성 코드](https://event.wanted.co.kr/career_kickoff_u10_1)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 원티드
-  - 접수: 01. 19(월) ~ 02. 02(월)
-
-- __[AWSKRUG 프론트엔드 #frontend 소모임](https://www.meetup.com/awskrug/events/312987455/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `프론트엔드`
-  - 주최: AWSKRUG
-  - 접수: 01. 27(화) ~ 02. 04(수)
-- __[AWSKRUG 게임테크 #gametech 소모임](https://www.meetup.com/awskrug/events/313046924/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 01. 27(화) ~ 02. 04(수)
 - __[AI 에이전트 기반 워크플로 + 데이터 기반 DevOps 가치 증명](https://insight.infograb.net/event/detail/2f0a508f-9223-80cc-9e4b-d8d83ebfcd51/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인포그랩
   - 접수: 01. 29(목) ~ 02. 06(금)
+
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
@@ -128,6 +116,10 @@
   - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
   - 주최: Kiro 한국 사용자 모임
   - 접수: 01. 27(화) ~ 02. 11(수)
+- __[AI·SW마에스트로 제17기 연수생 모집 - 서울센터](https://www.swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091&utm_medium=paid&utm_source=ig&utm_id=6897885106491_v2_s02&utm_content=6897888148491&utm_term=6897888148291&utm_campaign=6897885106491)__
+  - 분류: `오프라인(서울)`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 01. 12(월) ~ 02. 11(수) 17:00
 - __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 4기](https://swyp.im/mobile)__
   - 분류: `오프라인`, `온라인`, `유료`, `모임`
   - 주최: 스위프
@@ -140,6 +132,10 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 카카오
   - 접수: 02. 02(월) ~ 02. 19(목) 12:00
+- __[C++ Korea 소모임](https://event-us.kr/cppkorea/event/119611)__
+  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
+  - 주최: C++ Korea
+  - 접수: 01. 20(화) ~ 02. 20(금)
 - __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
@@ -168,19 +164,39 @@
 <br />
 
 ## `26년 03월`
+- __[AI 기반 민원 서비스 혁신 시나리오 및 개발 방법 공모전](https://plus.gov.kr/ideaContest/)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `AI`
+  - 주최: 행정안전부
+  - 접수: 02. 09(월) ~ 03. 06(금)
+
 - __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
   - 접수: 02. 04(수) ~ 03. 09(월)
-
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목)
+- __[2026 블록체인 밋업 컨퍼런스(2026 BlockChain Meetup Conference)](https://event-us.kr/bcmckisa/event/119309)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
+  - 주최: BCMC
+  - 접수: 02. 13(금) ~ 03. 12(목)
+- __[AI·SW마에스트로 제17기 연수생 모집 - 부산센터](https://www.swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091&utm_medium=paid&utm_source=ig&utm_id=6897885106491_v2_s02&utm_content=6897888148491&utm_term=6897888148291&utm_campaign=6897885106491)__
+  - 분류: `오프라인(부산)`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 02. 13(금) ~ 03. 12(목) 17:00
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: HyphenCon
   - 접수: 01. 13(월) ~ 02. 13(금)
+
+<br />
+
+## `26년 04월`
+- __[2026 월드IT쇼](https://www.worlditshow.co.kr/introduce/01.php)__
+  - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
+  - 주최: 과학기술정보통신부
+  - 일시: 02. 06(금) ~ 04. 21(화)
 
 <br />
 
@@ -194,6 +210,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
   - 일시: 01. 05(월) ~ 05. 11(월)
+- __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
+  - 분류: `온라인`, `무료`, `기술일반`
+  - 주최: 인텔리제이
+  - 일시: 02. 06(금) ~ 05. 25(월)
 
 <br />
 
