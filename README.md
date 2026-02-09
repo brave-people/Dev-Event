@@ -160,6 +160,10 @@
   - 분류: `온라인`, `무로`, `대회`
   - 주최: LG Aimers
   - 접수: 02. 04(수) ~ 02. 26(목)
+- __[The Ignition 2026 :: YHHS X Hashed](https://luma.com/ldy5ozkj)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
+  - 주최: YHHS, Hashed
+  - 일시: 02. 27(금)
 
 <br />
 
