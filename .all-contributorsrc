@@ -1734,6 +1734,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "minpeter",
+      "name": "Woonggi Min",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62207008?v=4",
+      "profile": "http://minpeter.uk",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
