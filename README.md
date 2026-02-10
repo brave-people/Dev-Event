@@ -104,7 +104,7 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: GlobalAI Korea
   - 접수: 01. 29(목) ~ 02. 19(목)
-- __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313275296/)__
+- __[AWSKRUG - AWS 테크에반젤리스트와 함께 레벨업! (온라인) - Amazon Bedrock 지식베이스로 완전 관리형 RAG 활용하기](https://www.meetup.com/awskrug/events/313275296/)__
   - 분류: `온라인`, `무로`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 20(화) ~ 02. 19(목)
@@ -149,7 +149,7 @@
   - 주최: LG Aimers
   - 접수: 02. 04(수) ~ 02. 26(목)
 - __[오픈소스 기여모임 10th 밋업](https://ticketa.co/event/05vfzggy)__
-  - 분류: `일반 기술`, `유료`, `오픈 소스`, `밋업`
+  - 분류: `오프라인(서강대)`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
   - 접수: 02. 08(일) ~ 02. 27(금)
 - __[The Ignition 2026 :: YHHS X Hashed](https://luma.com/ldy5ozkj)__
