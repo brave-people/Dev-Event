@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-192-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-193-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -164,6 +164,10 @@
   - 분류: `일반 기술`, `유료`, `오픈 소스`, `밋업`
   - 주최: 오픈소스 기여모임
   - 접수: 02. 08(일) ~ 02. 27(금)
+- __[The Ignition 2026 :: YHHS X Hashed](https://luma.com/ldy5ozkj)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
+  - 주최: YHHS, Hashed
+  - 접수: 02. 10(화) ~ 02. 27(금)
 
 <br />
 
@@ -781,6 +785,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/psm1st"><img src="https://avatars.githubusercontent.com/u/145013061?v=4?s=100" width="100px;" alt="Sumin"/><br /><sub><b>Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=psm1st" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rockernun"><img src="https://avatars.githubusercontent.com/u/114344042?v=4?s=100" width="100px;" alt="Rockernun"/><br /><sub><b>Rockernun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Rockernun" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TaySung"><img src="https://avatars.githubusercontent.com/u/215241300?v=4?s=100" width="100px;" alt="Tay"/><br /><sub><b>Tay</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=TaySung" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://minpeter.uk"><img src="https://avatars.githubusercontent.com/u/62207008?v=4?s=100" width="100px;" alt="Woonggi Min"/><br /><sub><b>Woonggi Min</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minpeter" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
