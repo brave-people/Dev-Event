@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 02월`
-- __[AI 에이전트 기반 워크플로 + 데이터 기반 DevOps 가치 증명](https://insight.infograb.net/event/detail/2f0a508f-9223-80cc-9e4b-d8d83ebfcd51/)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 인포그랩
-  - 접수: 01. 29(목) ~ 02. 06(금)
-
-- __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
-  - 분류: `온라인`, `무료`, `보안`
-  - 주최: 데일리시큐
-  - 접수: 11. 21(금) ~ 02. 06(금)
-- __[NetApp INSIGHT Xtra Seoul 2026](https://www.netapp.com/insight/xtra/seoul/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `보안`
-  - 주최: NetApp INSIGHT Xtra
-  - 접수: 11. 21(금) ~ 02. 06(금)
-- __[AI로 업무 효율 2배 높이는 실무 AI/LLM 인사이트 LIVE](https://kernel.fastcampus.co.kr/up_seminar)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 11. 21(금) ~ 02. 06(금)
-- __[[COMMIT WORKSHOP] 코딩은 몰라도 업무 자동화는 하고 싶어 참가 신청서](https://docs.google.com/forms/d/e/1FAIpQLScI-sik-Q0Ne6A0daj_gchoiaVJAf5Tk7r3A5oGXpfn90Nu4w/formResponse)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 01. 29(목) ~ 02. 06(금)
-- __[[시니어 개발자는 어떻게 문제를 바라보는가 : 문제를 바라보는 시야와 결정의 순간들](https://tech.goorm.io/2602_commit/)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `기술일반`
-  - 주최: 구름
-  - 접수: 02. 02(월) ~ 02. 06(금) 17:00
-- __[[LAB 활동 공유회] 모두의 NeurIPS: 저자들과 함께하는 연구수다](https://biz.modulabs.co.kr/event/387)__
-   - 분류: '오프라인(서울 강남)', '무료', 'AI'
-   - 주최: 모두의연구소
-   - 접수: 01. 30(금) ~ 02. 09(월)
 - __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 01. 12(월) ~ 02. 11(수)
+  
 - __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
@@ -124,10 +96,18 @@
   - 분류: `오프라인`, `온라인`, `유료`, `모임`
   - 주최: 스위프
   - 접수: 02. 02(월) ~ 02. 15(목)
+- __[글로벌 파워 플랫폼 & 에이전트 부트캠프 2026 (Global Power Platform & Agent Bootcamp)](https://event-us.kr/powerplatform/event/118104)__
+  - 분류: `오프라인(서울 종로)`, `유료`, `AI`
+  - 주최: 파워 플랫폼 한국 유저 그룹
+  - 접수: 02. 10(화) ~ 02. 15(목)
 - __[Global AgentCamp 2026 서울](https://event-us.kr/globalaikr/event/119691)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: GlobalAI Korea
   - 접수: 01. 29(목) ~ 02. 19(목)
+- __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313275296/)__
+  - 분류: `온라인`, `무로`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 02. 20(화) ~ 02. 19(목)
 - __[카카오, AI 앰배서더 ‘KANANA 429’](https://b.kakao.com/views/KANANA429)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 카카오
@@ -140,6 +120,14 @@
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 01. 20(화) ~ 02. 20(금) 17:00
+- __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313093617/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 02. 10(화) ~ 02. 25(수)
+- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/313291366/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 02. 10(화) ~ 02. 25(수)
 - __[Seoul MongoDB User Group Meetup #2](https://www.meetup.com/mongodb-usergroup-seoul/events/313060611)__
   - 분류: `오프라인(서울 부산)`, `무료`, `교육`
   - 주최: Seoul MongoDB User Group
@@ -194,7 +182,7 @@
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목) 17:00
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
-  - 분류: `온라인`, `무료`, `AI`
+  - 분류: `온라인`, `유료`, `AI`
   - 주최: HyphenCon
   - 접수: 01. 13(월) ~ 02. 13(금)
 
