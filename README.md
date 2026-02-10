@@ -163,7 +163,7 @@
 - __[The Ignition 2026 :: YHHS X Hashed](https://luma.com/ldy5ozkj)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
   - 주최: YHHS, Hashed
-  - 일시: 02. 27(금)
+  - 접수: 02. 10(화) ~ 02. 27(금)
 
 <br />
 
