@@ -156,7 +156,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
   - 주최: YHHS, Hashed
   - 접수: 02. 10(화) ~ 02. 27(금)
-
+- __[Gemini 3 서울 해커톤](https://cerebralvalley.ai/e/gemini-3-seoul-hackathon?tab=guest-list)__
+  - 분류: `오프라인(서울)`, `무료`, `AI`, `해커톤`
+  - 주최: Cerebral Valley, Google DeepMind
+  - 일시: 02. 28(토) 09:00 ~ 22:00
 <br />
 
 ## `26년 03월`
