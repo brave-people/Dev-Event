@@ -67,35 +67,11 @@
 <br />
 
 ## `26년 02월`
-- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: AI·SW마에스트로
-  - 접수: 01. 12(월) ~ 02. 11(수)
-  
-- __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 01. 13(월) ~ 02. 11(수)
-- __[피싱·스캠 예방을 위한 서비스 개발 경진대회](https://dacon.io/competitions/official/236666/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 데이터유니버스
-  - 접수: 01. 27(화) ~ 02. 11(수)
-- __[AWSKRUG 인천 지역 소모임 2월 11일 - 첫 인천 소모임](https://www.meetup.com/awskrug/events/313058396/?eventOrigin=group_events_list)__
-  - 분류: `오프라인(인천 연수)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 27(화) ~ 02. 11(수)
-- __[2026-02 Kiro 한국 사용자 모임](https://luma.com/99ms90s6)__
-  - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
-  - 주최: Kiro 한국 사용자 모임
-  - 접수: 01. 27(화) ~ 02. 11(수)
-- __[AI·SW마에스트로 제17기 연수생 모집 - 서울센터](https://www.swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091&utm_medium=paid&utm_source=ig&utm_id=6897885106491_v2_s02&utm_content=6897888148491&utm_term=6897888148291&utm_campaign=6897885106491)__
-  - 분류: `오프라인(서울)`, `무료`, `교육`
-  - 주최: AI·SW마에스트로
-  - 접수: 01. 12(월) ~ 02. 11(수) 17:00
 - __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 4기](https://swyp.im/mobile)__
   - 분류: `오프라인`, `온라인`, `유료`, `모임`
   - 주최: 스위프
   - 접수: 02. 02(월) ~ 02. 15(목)
+
 - __[글로벌 파워 플랫폼 & 에이전트 부트캠프 2026 (Global Power Platform & Agent Bootcamp)](https://event-us.kr/powerplatform/event/118104)__
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: 파워 플랫폼 한국 유저 그룹
@@ -156,15 +132,24 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
   - 주최: YHHS, Hashed
   - 접수: 02. 10(화) ~ 02. 27(금)
+- __[Gemini 3 서울 해커톤](https://cerebralvalley.ai/e/gemini-3-seoul-hackathon?tab=guest-list)__
+  - 분류: `오프라인(서울)`, `무료`, `AI`, `대회`
+  - 주최: 구글
+  - 접수: 02. 10(화) ~ 02. 27(금)
+
 
 <br />
 
 ## `26년 03월`
+- __[커스텀 평가 체계로 LLM 서비스 평가 기준 만들기](https://discuss.pytorch.kr/t/llm/8985)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 파이토치 한국 사용자 모임
+  - 접수: 02. 13(월) ~ 03. 04(수)
+
 - __[AI 기반 민원 서비스 혁신 시나리오 및 개발 방법 공모전](https://plus.gov.kr/ideaContest/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 행정안전부
   - 접수: 02. 09(월) ~ 03. 06(금)
-
 - __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
