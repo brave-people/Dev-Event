@@ -67,19 +67,11 @@
 <br />
 
 ## `26년 02월`
-- __[실제 유저가 쓰는 앱을 함께 만드는 실무형 사이드 프로젝트, 스위프 앱 4기](https://swyp.im/mobile)__
-  - 분류: `오프라인`, `온라인`, `유료`, `모임`
-  - 주최: 스위프
-  - 접수: 02. 02(월) ~ 02. 15(목)
-
-- __[글로벌 파워 플랫폼 & 에이전트 부트캠프 2026 (Global Power Platform & Agent Bootcamp)](https://event-us.kr/powerplatform/event/118104)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 02. 10(화) ~ 02. 15(목)
 - __[Global AgentCamp 2026 서울](https://event-us.kr/globalaikr/event/119691)__
   - 분류: `오프라인(서울 종로)`, `무료`, `교육`
   - 주최: GlobalAI Korea
   - 접수: 01. 29(목) ~ 02. 19(목)
+
 - __[AWSKRUG - AWS 테크에반젤리스트와 함께 레벨업! (온라인) - Amazon Bedrock 지식베이스로 완전 관리형 RAG 활용하기](https://www.meetup.com/awskrug/events/313275296/)__
   - 분류: `온라인`, `무로`, `인프라`
   - 주최: AWSKRUG
@@ -116,6 +108,18 @@
   - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 04(수) ~ 02. 25(수)
+- __[C# 개발자 모임: Dot4 밋업](https://www.onoffmix.com/event/338248)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 02. 19(목) ~ 02. 25(수)
+- __[AWSKRUG 아키텍처 #architecture 55번째 소모임](https://www.meetup.com/awskrug/events/313095295)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 02. 19(목) ~ 02. 25(수)
+- __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313184195)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 02. 19(목) ~ 02. 25(수)
 - __[Boarding Now: Start Your Career with SAP](https://keystonellc.kr/sap/2026/0226_Kickstart_Your_Global_Career/0226_Kickstart%20Your%20Global%20Career_eDM.html/)__
   - 분류: `오프라인(서울 을지로)`, `무로`, `커리어`
   - 주최: SAP Korea
@@ -174,6 +178,19 @@
   - 분류: `온라인`, `유료`, `AI`
   - 주최: HyphenCon
   - 접수: 01. 13(월) ~ 02. 13(금)
+
+<br />
+
+## `26년 03월`
+- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/313202272/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 19(목) ~ 03. 03(화)
+
+- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/313352636/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 19(목) ~ 03. 18(수)
 
 <br />
 
