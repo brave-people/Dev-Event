@@ -116,6 +116,10 @@
   - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 04(수) ~ 02. 25(수)
+- __[Apache Airflow 5th Meetup](https://www.meetup.com/korea-apache-airflow-user-group/events/312798089/)__
+  - 분류: `오프라인(서울 홍대)`, `유로`, `엔지니어링`, '오픈소스'
+  - 주최: Airflow 한국 사용자 모임
+  - 접수: 02. 04(수) ~ 02. 26(목)
 - __[Boarding Now: Start Your Career with SAP](https://keystonellc.kr/sap/2026/0226_Kickstart_Your_Global_Career/0226_Kickstart%20Your%20Global%20Career_eDM.html/)__
   - 분류: `오프라인(서울 을지로)`, `무로`, `커리어`
   - 주최: SAP Korea
