@@ -108,6 +108,10 @@
   - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 04(수) ~ 02. 25(수)
+- __[Apache Airflow 5th Meetup](https://www.meetup.com/korea-apache-airflow-user-group/events/312798089/)__
+  - 분류: `오프라인(서울 홍대)`, `유로`, `기술일반`, '오픈소스'
+  - 주최: Airflow 한국 사용자 모임
+  - 접수: 02. 04(수) ~ 02. 26(목)
 - __[C# 개발자 모임: Dot4 밋업](https://www.onoffmix.com/event/338248)__
   - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
   - 주최: C# 개발자 모임
