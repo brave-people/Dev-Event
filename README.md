@@ -67,31 +67,11 @@
 <br />
 
 ## `26년 02월`
-- __[Global AgentCamp 2026 서울](https://event-us.kr/globalaikr/event/119691)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `교육`
-  - 주최: GlobalAI Korea
-  - 접수: 01. 29(목) ~ 02. 19(목)
-
-- __[AWSKRUG - AWS 테크에반젤리스트와 함께 레벨업! (온라인) - Amazon Bedrock 지식베이스로 완전 관리형 RAG 활용하기](https://www.meetup.com/awskrug/events/313275296/)__
-  - 분류: `온라인`, `무로`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 20(화) ~ 02. 19(목)
-- __[카카오, AI 앰배서더 ‘KANANA 429’](https://b.kakao.com/views/KANANA429)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 카카오
-  - 접수: 02. 02(월) ~ 02. 19(목) 12:00
-- __[C++ Korea 소모임](https://event-us.kr/cppkorea/event/119611)__
-  - 분류: `오프라인(서울 서초)`, `무료`, `기술일반`
-  - 주최: C++ Korea
-  - 접수: 01. 20(화) ~ 02. 20(금)
-- __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
-  - 분류: `오프라인(서울 부산)`, `무료`, `교육`
-  - 주최: AI·SW마에스트로
-  - 접수: 01. 20(화) ~ 02. 20(금) 17:00
 - __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313093617/)__
   - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 10(화) ~ 02. 25(수)
+
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/313291366/)__
   - 분류: `오프라인(서울 강남)`, `유로`, `보안`
   - 주최: AWSKRUG
@@ -154,6 +134,14 @@
   - 주최: 파이토치 한국 사용자 모임
   - 접수: 02. 13(월) ~ 03. 04(수)
 
+- __[AWSKRUG #AIEngineering 소모임 - 쉽고 빠르게 알아보는 Bedrock AgentCore의 주요기능](https://www.meetup.com/awskrug/events/313428635/)__
+  - 분류: `오프라인(서울 강남)`, `무유료료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 02. 23(월) ~ 03. 04(수)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/313338531/)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 23(월) ~ 03. 05(목)
 - __[AI 기반 민원 서비스 혁신 시나리오 및 개발 방법 공모전](https://plus.gov.kr/ideaContest/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 행정안전부
@@ -178,10 +166,10 @@
   - 분류: `오프라인(부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목) 17:00
-- __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
-  - 분류: `온라인`, `유료`, `AI`
-  - 주최: HyphenCon
-  - 접수: 01. 13(월) ~ 02. 13(금)
+- __[AAWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 02. 23(월) ~ 03. 17(화)
 
 <br />
 
