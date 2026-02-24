@@ -135,7 +135,7 @@
   - 접수: 02. 13(월) ~ 03. 04(수)
 
 - __[AWSKRUG #AIEngineering 소모임 - 쉽고 빠르게 알아보는 Bedrock AgentCore의 주요기능](https://www.meetup.com/awskrug/events/313428635/)__
-  - 분류: `오프라인(서울 강남)`, `무유료료`, `AI`
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
   - 접수: 02. 23(월) ~ 03. 04(수)
 - __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/313338531/)__
@@ -150,6 +150,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
   - 접수: 02. 04(수) ~ 03. 09(월)
+- __[월AI_TOP_100 (CAMPUS)](https://aitop100.org/)__
+  - 분류: `온라인`, `무료`, `AI`. `대회`
+  - 주최: 카카오임팩트
+  - 접수: 03. 06(금) ~ 03. 10(화)
 - __[2026 백엔드 개발자 취업 전략 설명회](https://inf.run/9zmtr)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 인프런
@@ -166,6 +170,18 @@
   - 분류: `오프라인(부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목) 17:00
+- __[kt cloud 풀스택](https://ktcloud-techup.com/fullstack)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: KT CLOUD
+  - 접수: 02. 05(목) ~ 03. 13(금)
+- __[kt cloud 프론트엔드](https://ktcloud-techup.com/frontend)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: KT CLOUD
+  - 접수: 02. 05(목) ~ 03. 13(금)
+- __[kt cloud 백엔드](https://ktcloud-techup.com/backend)__
+  - 분류: `온라인`, `무료`, `교육`
+  - 주최: KT CLOUD
+  - 접수: 02. 05(목) ~ 03. 13(금)
 - __[AAWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
