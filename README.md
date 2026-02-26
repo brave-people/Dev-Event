@@ -170,6 +170,10 @@
   - 분류: `오프라인(부산)`, `무료`, `교육`
   - 주최: AI·SW마에스트로
   - 접수: 02. 13(금) ~ 03. 12(목) 17:00
+- __[Dev Korea #7: 서버리스로 AI 기반 제품을 효율적으로 개발하고 배포하는 방법](https://dev-korea.com/ko/events/dev-korea-7-march-2026)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 02. 25(수) ~ 03. 12(목) 19:00
 - __[kt cloud 풀스택](https://ktcloud-techup.com/fullstack)__
   - 분류: `온라인`, `무료`, `교육`
   - 주최: KT CLOUD
