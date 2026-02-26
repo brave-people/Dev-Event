@@ -68,12 +68,12 @@
 
 ## `26년 02월`
 - __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313093617/)__
-  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 10(화) ~ 02. 25(수)
 
 - __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/313291366/)__
-  - 분류: `오프라인(서울 강남)`, `유로`, `보안`
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 02. 10(화) ~ 02. 25(수)
 - __[Seoul MongoDB User Group Meetup #2](https://www.meetup.com/mongodb-usergroup-seoul/events/313060611)__
@@ -85,11 +85,11 @@
   - 주최: 맞다AI가
   - 접수: 01. 29(목) ~ 02. 25(수)
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/313184195/)__
-  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
   - 주최: AWSKRUG
   - 접수: 02. 04(수) ~ 02. 25(수)
 - __[Apache Airflow 5th Meetup](https://www.meetup.com/korea-apache-airflow-user-group/events/312798089/)__
-  - 분류: `오프라인(서울 홍대)`, `유로`, `기술일반`, '오픈소스'
+  - 분류: `오프라인(서울 홍대)`, `유료`, `기술일반`, `오픈소스`
   - 주최: Airflow 한국 사용자 모임
   - 접수: 02. 04(수) ~ 02. 26(목)
 - __[C# 개발자 모임: Dot4 밋업](https://www.onoffmix.com/event/338248)__
@@ -105,11 +105,11 @@
   - 주최: AWSKRUG
   - 접수: 02. 19(목) ~ 02. 25(수)
 - __[Boarding Now: Start Your Career with SAP](https://keystonellc.kr/sap/2026/0226_Kickstart_Your_Global_Career/0226_Kickstart%20Your%20Global%20Career_eDM.html/)__
-  - 분류: `오프라인(서울 을지로)`, `무로`, `커리어`
+  - 분류: `오프라인(서울 을지로)`, `무료`, `커리어`
   - 주최: SAP Korea
   - 접수: 02. 04(수) ~ 02. 26(목)
 - __[Aimers 8기 : 모델 경량화 온라인 해커톤](https://dacon.io/competitions/official/236673/overview/description)__
-  - 분류: `온라인`, `무로`, `대회`
+  - 분류: `온라인`, `무료`, `대회`
   - 주최: LG Aimers
   - 접수: 02. 04(수) ~ 02. 26(목)
 - __[오픈소스 기여모임 10th 밋업](https://ticketa.co/event/05vfzggy)__
@@ -151,7 +151,7 @@
   - 주최: DAKER
   - 접수: 02. 04(수) ~ 03. 09(월)
 - __[월AI_TOP_100 (CAMPUS)](https://aitop100.org/)__
-  - 분류: `온라인`, `무료`, `AI`. `대회`
+  - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 카카오임팩트
   - 접수: 03. 06(금) ~ 03. 10(화)
 - __[2026 백엔드 개발자 취업 전략 설명회](https://inf.run/9zmtr)__
