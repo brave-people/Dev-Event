@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-195-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-196-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -794,6 +794,7 @@
       <td align="center" valign="top" width="14.28%"><a href="http://minpeter.uk"><img src="https://avatars.githubusercontent.com/u/62207008?v=4?s=100" width="100px;" alt="Woonggi Min"/><br /><sub><b>Woonggi Min</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minpeter" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Han5991"><img src="https://avatars.githubusercontent.com/u/73056306?v=4?s=100" width="100px;" alt="sangwook"/><br /><sub><b>sangwook</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Han5991" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/queryjin"><img src="https://avatars.githubusercontent.com/u/219763262?v=4?s=100" width="100px;" alt="queryjin"/><br /><sub><b>queryjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=queryjin" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JUNGBOGEON"><img src="https://avatars.githubusercontent.com/u/102535904?v=4?s=100" width="100px;" alt="Bogeon Jung"/><br /><sub><b>Bogeon Jung</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JUNGBOGEON" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
