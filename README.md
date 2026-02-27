@@ -66,68 +66,6 @@
 
 <br />
 
-## `26년 02월`
-- __[AWSKRUG 자격증 소모임 2월 26일 SAA 자격증 취득!](https://www.meetup.com/awskrug/events/313093617/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 10(화) ~ 02. 25(수)
-
-- __[AWSKRUG 보안 #Security 소모임](https://www.meetup.com/awskrug/events/313291366/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 02. 10(화) ~ 02. 25(수)
-- __[Seoul MongoDB User Group Meetup #2](https://www.meetup.com/mongodb-usergroup-seoul/events/313060611)__
-  - 분류: `오프라인(서울 부산)`, `무료`, `교육`
-  - 주최: Seoul MongoDB User Group
-  - 접수: 01. 29(목) ~ 02. 24(화)
-- __[맞다AI가 2월 밋업 - AI 실전 구축 : 바로 쓰는 AI 기술](https://ticketa.co/event/ij8k9l62)__
-  - 분류: `오프라인(대구)`, `유료`, `AI`
-  - 주최: 맞다AI가
-  - 접수: 01. 29(목) ~ 02. 25(수)
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/313184195/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 02. 04(수) ~ 02. 25(수)
-- __[Apache Airflow 5th Meetup](https://www.meetup.com/korea-apache-airflow-user-group/events/312798089/)__
-  - 분류: `오프라인(서울 홍대)`, `유료`, `기술일반`, `오픈소스`
-  - 주최: Airflow 한국 사용자 모임
-  - 접수: 02. 04(수) ~ 02. 26(목)
-- __[C# 개발자 모임: Dot4 밋업](https://www.onoffmix.com/event/338248)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 02. 19(목) ~ 02. 25(수)
-- __[AWSKRUG 아키텍처 #architecture 55번째 소모임](https://www.meetup.com/awskrug/events/313095295)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 02. 19(목) ~ 02. 25(수)
-- __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313184195)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 02. 19(목) ~ 02. 25(수)
-- __[Boarding Now: Start Your Career with SAP](https://keystonellc.kr/sap/2026/0226_Kickstart_Your_Global_Career/0226_Kickstart%20Your%20Global%20Career_eDM.html/)__
-  - 분류: `오프라인(서울 을지로)`, `무료`, `커리어`
-  - 주최: SAP Korea
-  - 접수: 02. 04(수) ~ 02. 26(목)
-- __[Aimers 8기 : 모델 경량화 온라인 해커톤](https://dacon.io/competitions/official/236673/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: LG Aimers
-  - 접수: 02. 04(수) ~ 02. 26(목)
-- __[오픈소스 기여모임 10th 밋업](https://ticketa.co/event/05vfzggy)__
-  - 분류: `오프라인(서강대)`, `유료`, `오픈소스`
-  - 주최: 오픈소스 기여모임
-  - 접수: 02. 08(일) ~ 02. 27(금)
-- __[The Ignition 2026 :: YHHS X Hashed](https://luma.com/ldy5ozkj)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`, `모임`
-  - 주최: YHHS, Hashed
-  - 접수: 02. 10(화) ~ 02. 27(금)
-- __[Gemini 3 서울 해커톤](https://cerebralvalley.ai/e/gemini-3-seoul-hackathon?tab=guest-list)__
-  - 분류: `오프라인(서울)`, `무료`, `AI`, `대회`
-  - 주최: 구글
-  - 접수: 02. 10(화) ~ 02. 27(금)
-
-
-<br />
-
 ## `26년 03월`
 - __[커스텀 평가 체계로 LLM 서비스 평가 기준 만들기](https://discuss.pytorch.kr/t/llm/8985)__
   - 분류: `온라인`, `무료`, `AI`
@@ -146,6 +84,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 행정안전부
   - 접수: 02. 09(월) ~ 03. 06(금)
+- __[OpenAI Codex Community Meetup - Korea](https://luma.com/hdwrnztq)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
+  - 주최: OpenAI Codex Community Meetup
+  - 접수: 02. 28(토) ~ 03. 06(금)
 - __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
@@ -154,6 +96,10 @@
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 카카오임팩트
   - 접수: 03. 06(금) ~ 03. 10(화)
+- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/313475105)__
+  - 분류: `오프라인(경기 판교)`, `유료`,  `모임`
+  - 주최: AWSKRUG
+  - 접수: 02. 28(토) ~ 03. 10(화)
 - __[2026 백엔드 개발자 취업 전략 설명회](https://inf.run/9zmtr)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 인프런
@@ -186,10 +132,22 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: KT CLOUD
   - 접수: 02. 05(목) ~ 03. 13(금)
-- __[AAWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
+- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 23(월) ~ 03. 17(화)
+- __[2026-03 Kiro 한국 사용자 모임](https://luma.com/4scwh5tv)__
+  - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
+  - 주최: Kiro 한국 사용자 모임
+  - 접수: 02. 28(토) ~ 03. 18(수)
+- __[제22회 차세대 테크 리더십포럼 - 'Physical AI 시대: 로봇과 인공지능이 만드는 일상의 혁신'](https://event-us.kr/naekyehs/event/120945)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
+  - 주최: 한국공학한림원 차세대공학리더 YEHS
+  - 접수: 02. 28(토) ~ 03. 20(금) 12:00
+- __[카카오테크 부트캠프](https://kakaotechbootcamp.com/)__
+  - 분류: `오프라인(경기)`, `유료`, `AI`
+  - 주최: 카카오
+  - 접수: 02. 26(목) ~ 03. 22(일)
 
 <br />
 
