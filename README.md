@@ -88,6 +88,10 @@
   - 분류: `오프라인(서울 성수)`, `무료`, `AI`
   - 주최: OpenAI Codex Community Meetup
   - 접수: 02. 28(토) ~ 03. 06(금)
+- __[THE Hackathon](https://thehackathon.org/)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: THE Hackathon
+  - 접수: 02. 28(토) ~ 03. 06(금)
 - __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: DAKER
