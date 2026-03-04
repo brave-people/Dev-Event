@@ -80,6 +80,10 @@
   - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 23(월) ~ 03. 05(목)
+- __[2026년 개발자 채용시장의 현실 : '레거시'에서 기회를 찾는 법](https://inf.run/TDwwm)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 인프런
+  - 접수: 02. 25(수) ~ 03. 05(목)
 - __[AI 기반 민원 서비스 혁신 시나리오 및 개발 방법 공모전](https://plus.gov.kr/ideaContest/)__
   - 분류: `오프라인(서울 중구)`, `무료`, `AI`
   - 주최: 행정안전부
@@ -165,14 +169,31 @@
   - 주최: AWSKRUG
   - 접수: 02. 19(목) ~ 03. 03(화)
 
+- __[Vibe Everything — AI Agent 밋업](https://www.rocketpunch.com/event/jsnrpnY24Q)__
+  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
+  - 주최: 로켓펀치
+  - 접수: 03. 04(수) ~ 03. 12(목)
 - __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/313352636/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 19(목) ~ 03. 18(수)
+- __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: 이노베이션아카데미
+  - 접수: 03. 04(수) ~ 03. 23(월)
+- __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/121503)__
+  - 분류: `오프라인(서울 종로)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 02. 15(수) ~ 03. 28(토)
 
 <br />
 
 ## `26년 04월`
+- __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
+  - 주최: Cisco
+  - 일시: 02. 06(금) ~ 04. 21(화)
+
 - __[2026 월드IT쇼](https://www.worlditshow.co.kr/introduce/01.php)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
