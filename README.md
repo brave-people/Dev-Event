@@ -178,7 +178,7 @@
   - 주최: AWSKRUG
   - 접수: 02. 19(목) ~ 03. 18(수)
 - __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
 - __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/121503)__
