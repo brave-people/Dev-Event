@@ -169,9 +169,9 @@
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
 
-- __[C사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
+- __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
-  - 주최: 프랄즈마
+  - 주최: 프라즈마
   - 접수: 03. 07(토) ~ 04. 07(화)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
