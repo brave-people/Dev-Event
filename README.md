@@ -67,15 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[월간 해커톤: 바이브 코딩 개선 AI 아이디어 공모전](https://daker.ai/public/hackathons/vibe-coding-improvement-ai-idea-competition)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: DAKER
-  - 접수: 02. 04(수) ~ 03. 09(월)
-
 - __[월AI_TOP_100 (CAMPUS)](https://aitop100.org/)__
   - 분류: `온라인`, `무료`, `AI`, `대회`
   - 주최: 카카오임팩트
   - 접수: 03. 06(금) ~ 03. 10(화)
+
 - __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/313475105)__
   - 분류: `오프라인(경기 판교)`, `유료`,  `모임`
   - 주최: AWSKRUG
@@ -124,9 +120,17 @@
   - 분류: `온라인`, `무료`, `교육`
   - 주최: KT CLOUD
   - 접수: 02. 05(목) ~ 03. 13(금)
+- __[kMoAI-ADK 개발기: AI 코딩 에이전트를 통제와 자율의 균형 속에 두는 길](https://tech.goorm.io/2603_commit/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 03. 10(화) ~ 03. 13(금)
 - __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
+  - 접수: 02. 23(월) ~ 03. 17(화)
+- __[2026 Samsung Convergence SW Academy 모집](https://linkareer.com/activity/307318)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 삼성
   - 접수: 02. 23(월) ~ 03. 17(화)
 - __[2026-03 Kiro 한국 사용자 모임](https://luma.com/4scwh5tv)__
   - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
@@ -136,6 +140,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 19(목) ~ 03. 18(수)
+- __[K-DEVCON 3월 DevB∞st 밋업](https://ticketa.co/event/gy6ybl8f)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: K-DEVCON
+  - 접수: 03. 10(화) ~ 03. 18(수)
 - __[Zero100 글로벌 바이브코딩 빌더톤 in 서울](https://luma.com/pb000fua)__
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: Women in Vibe Coding
@@ -148,27 +156,47 @@
   - 분류: `오프라인(경기)`, `유료`, `교육`, `AI`, `클라우드`
   - 주최: 카카오
   - 접수: 02. 26(목) ~ 03. 22(일)
+- __[한화비전 Vision’s Edge Device Academy 4기](https://www.vedacademy.co.kr/)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 한화비전
+  - 접수: 03. 10(화) ~ 03. 22(일)
 - __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/339234)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 03. 10(화) ~ 03. 31(화)
 - __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/121503)__
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 02. 15(수) ~ 03. 28(토)
+- __[Global AI AgentCamp 2026 in Daegu](https://ticketa.co/event/8gaujr23)__
+  - 분류: `오프라인(경북대)`, `유료`, `AI`
+  - 주최: AgentCamp
+  - 접수: 03. 10(화) ~ 03. 28(토)
 - __[오픈소스 컨트리뷰션 아카데미 멘토단 모집](https://oss.kr/pages/10/4453)__
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 02. 24(화) ~ 03. 29(일)
+- __[[COSMOS] 4주 만에 내 아이디어가 서비스가 됩니다](https://cossmoss.vercel.app/#about)__
+  - 분류: `오프라인`, `무료`, `AI`
+  - 주최: 코스모스
+  - 접수: 03. 10(화) ~ 03. 31(화)
 
 <br />
 
 ## `26년 04월`
+- __[26년 오픈소스 컨트리뷰션 아카데미 [체험형] 멘티 모집](https://www.oss.kr/pages/10/4459?page=1&pageSize=10&searchKeyword=&searchType=)__
+  - 분류: `오프라인(서울)`, `무료`, `대회`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 10(화) ~ 04. 01(수)
+
 - __[2026 인터넷서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
-
 - __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: 프라즈마
