@@ -67,67 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[월AI_TOP_100 (CAMPUS)](https://aitop100.org/)__
-  - 분류: `온라인`, `무료`, `AI`, `대회`
-  - 주최: 카카오임팩트
-  - 접수: 03. 06(금) ~ 03. 10(화)
-
-- __[AWSKRUG 판교 #pangyo 소모임](https://www.meetup.com/awskrug/events/313475105)__
-  - 분류: `오프라인(경기 판교)`, `유료`,  `모임`
-  - 주최: AWSKRUG
-  - 접수: 02. 28(토) ~ 03. 10(화)
-- __[2026 백엔드 개발자 취업 전략 설명회](https://inf.run/9zmtr)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: 인프런
-  - 접수: 02. 12(목) ~ 03. 11(수)
-- __[[멋쟁이사자처럼] 취업 현피 Day](https://docs.google.com/forms/d/e/1FAIpQLScnV-QNERiZfe3dVbHVloNAm0F0B8A6Ac_sziSpWZ4KijXBbw/viewform)__
-  - 분류: `오프라인(서울)`, `무료`, `커리어`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 03. 07(토) ~ 03. 11(수)
-- __[SK네트웍스 Family AI 캠프](https://networks-aicamp.io/program)__
-  - 분류: `오프라인(서울 독산)`, `무료`, `AI`
-  - 주최: SK네트웍스
-  - 접수: 03. 07(토) ~ 03. 11(수)
-- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: AI·SW마에스트로
-  - 접수: 02. 13(금) ~ 03. 12(목)
-- __[2026 블록체인 밋업 컨퍼런스(2026 BlockChain Meetup Conference)](https://event-us.kr/bcmckisa/event/119309)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `교육`
-  - 주최: BCMC
-  - 접수: 02. 13(금) ~ 03. 12(목)
-- __[AI·SW마에스트로 제17기 연수생 모집 - 부산센터](https://www.swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091&utm_medium=paid&utm_source=ig&utm_id=6897885106491_v2_s02&utm_content=6897888148491&utm_term=6897888148291&utm_campaign=6897885106491)__
-  - 분류: `오프라인(부산)`, `무료`, `교육`
-  - 주최: AI·SW마에스트로
-  - 접수: 02. 13(금) ~ 03. 12(목) 17:00
-- __[Dev Korea #7: 서버리스로 AI 기반 제품을 효율적으로 개발하고 배포하는 방법](https://dev-korea.com/ko/events/dev-korea-7-march-2026)__
-  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 02. 25(수) ~ 03. 12(목) 19:00
-- __[Vibe Everything — AI Agent 밋업](https://www.rocketpunch.com/event/jsnrpnY24Q)__
-  - 분류: `오프라인(서울 성수)`, `무료`, `AI`
-  - 주최: 로켓펀치
-  - 접수: 03. 04(수) ~ 03. 12(목)
-- __[kt cloud 풀스택](https://ktcloud-techup.com/fullstack)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: KT CLOUD
-  - 접수: 02. 05(목) ~ 03. 13(금)
-- __[kt cloud 프론트엔드](https://ktcloud-techup.com/frontend)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: KT CLOUD
-  - 접수: 02. 05(목) ~ 03. 13(금)
-- __[kt cloud 백엔드](https://ktcloud-techup.com/backend)__
-  - 분류: `온라인`, `무료`, `교육`
-  - 주최: KT CLOUD
-  - 접수: 02. 05(목) ~ 03. 13(금)
-- __[kMoAI-ADK 개발기: AI 코딩 에이전트를 통제와 자율의 균형 속에 두는 길](https://tech.goorm.io/2603_commit/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 03. 10(화) ~ 03. 13(금)
 - __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 02. 23(월) ~ 03. 17(화)
+
 - __[2026 Samsung Convergence SW Academy 모집](https://linkareer.com/activity/307318)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 삼성
@@ -152,6 +96,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 한국공학한림원 차세대공학리더 YEHS
   - 접수: 02. 28(토) ~ 03. 20(금) 12:00
+- __[Flutter Incheon Monthly Meetup](https://ticketa.co/event/nv2atyow)__
+  - 분류: `오프라인(인천 연수구)`, `무료`, `iOS`, `안드로이드`
+  - 주최: Flutter Incheon
+  - 접수: 03. 14(토) ~ 03. 20(금) 12:00
 - __[카카오테크 부트캠프](https://kakaotechbootcamp.com/)__
   - 분류: `오프라인(경기)`, `유료`, `교육`, `AI`, `클라우드`
   - 주최: 카카오
@@ -164,10 +112,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
-- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/339234)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: C# 개발자 모임
-  - 접수: 03. 10(화) ~ 03. 31(화)
+- __[TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
+  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
+  - 주최: TypeScript Backend Meetup
+  - 접수: 03. 14(토) ~ 03. 26(목)
 - __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/121503)__
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -176,6 +124,14 @@
   - 분류: `오프라인(경북대)`, `유료`, `AI`
   - 주최: AgentCamp
   - 접수: 03. 10(화) ~ 03. 28(토)
+- __[Build with AI & Hello World in Incheon 컨퍼런스](https://ticketa.co/event/8gaujr23)__
+  - 분류: `오프라인(인하대)`, `유료`, `AI`
+  - 주최: GDG 인천
+  - 접수: 03. 10(화) ~ 03. 28(토)
+- __[Ralphthon @SF sponsored by OpenAI](https://luma.com/kxoq82yq)__
+  - 분류: `오프라인(센프란시스코)`, `무료`, `대회`
+  - 주최: Team Attention
+  - 접수: 03. 14(토) ~ 03. 29(일)
 - __[오픈소스 컨트리뷰션 아카데미 멘토단 모집](https://oss.kr/pages/10/4453)__
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -187,6 +143,10 @@
 - __[[COSMOS] 4주 만에 내 아이디어가 서비스가 됩니다](https://cossmoss.vercel.app/#about)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 코스모스
+  - 접수: 03. 10(화) ~ 03. 31(화)
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/339234)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
   - 접수: 03. 10(화) ~ 03. 31(화)
 
 <br />
