@@ -96,6 +96,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 한국공학한림원 차세대공학리더 YEHS
   - 접수: 02. 28(토) ~ 03. 20(금) 12:00
+- __[Oracle Academy와 함께하는 Oracle Dev Day](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x957012abcd)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
+  - 주최: 오라클
+  - 접수: 03. 16(월) ~ 03. 20(금)
 - __[Flutter Incheon Monthly Meetup](https://ticketa.co/event/nv2atyow)__
   - 분류: `오프라인(인천 연수구)`, `무료`, `iOS`, `안드로이드`
   - 주최: Flutter Incheon
@@ -112,6 +116,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
+- __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 한빛앤
+  - 접수: 03. 16(월) ~ 03. 24(화)
 - __[TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: TypeScript Backend Meetup
@@ -173,6 +181,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
+- __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://linkareer.com/activity/236168)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 싸피
+  - 일시: 04. 28(화) ~ 05. 12(월)
 
 <br />
 
