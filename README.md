@@ -185,10 +185,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 과학기술정보통신부
   - 일시: 02. 06(금) ~ 04. 21(화)
-- __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://linkareer.com/activity/236168)__
+- __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://www.ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1*1rntetw*_gcl_au*MjkyMDA5OTQyLjE3NzM2NjUyODE.)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 싸피
-  - 일시: 04. 28(화) ~ 05. 12(월)
+  - 접수: 03. 16(월) ~ 04. 30(목)
 
 <br />
 
