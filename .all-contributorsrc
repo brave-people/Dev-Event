@@ -1770,6 +1770,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "da-in",
+      "name": "Choi Da-in",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66757141?v=4",
+      "profile": "https://github.com/da-in",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
