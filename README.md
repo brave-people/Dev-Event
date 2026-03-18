@@ -67,31 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업](https://www.meetup.com/awskrug/events/313352636/?eventOrigin=group_events_list)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 23(월) ~ 03. 17(화)
-
-- __[2026 Samsung Convergence SW Academy 모집](https://linkareer.com/activity/307318)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 삼성
-  - 접수: 02. 23(월) ~ 03. 17(화)
-- __[2026-03 Kiro 한국 사용자 모임](https://luma.com/4scwh5tv)__
-  - 분류: `오프라인(서울 센터필드)`, `유료`, `AI`
-  - 주최: Kiro 한국 사용자 모임
-  - 접수: 02. 28(토) ~ 03. 18(수)
-- __[AWSKRUG 데브옵스 #DevOps 소모임 21번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/313352636/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 02. 19(목) ~ 03. 18(수)
-- __[K-DEVCON 3월 DevB∞st 밋업](https://ticketa.co/event/gy6ybl8f)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: K-DEVCON
-  - 접수: 03. 10(화) ~ 03. 18(수)
 - __[Zero100 글로벌 바이브코딩 빌더톤 in 서울](https://luma.com/pb000fua)__
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: Women in Vibe Coding
   - 접수: 03. 07(토) ~ 03. 19(목)
+
 - __[제22회 차세대 테크 리더십포럼 - 'Physical AI 시대: 로봇과 인공지능이 만드는 일상의 혁신'](https://event-us.kr/naekyehs/event/120945)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 한국공학한림원 차세대공학리더 YEHS
@@ -124,6 +104,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 한빛앤
   - 접수: 03. 16(월) ~ 03. 24(화)
+- __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 메가존클라우드
+  - 접수: 03. 19(목) ~ 03. 26(목)
 - __[TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
   - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
   - 주최: TypeScript Backend Meetup
@@ -169,14 +153,34 @@
   - 주최: 과학기술정보통신부
   - 접수: 03. 10(화) ~ 04. 01(수)
 
+- __[바이브코딩 공모전](http://koreaitac.com/2025/landing/vibe_coding.asp)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 코리아 IT  아카데미
+  - 접수: 03. 16(월) ~ 04. 03(금)
 - __[2026 인터넷서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1512)__
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
+- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/313714446/)__
+  - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 03. 19(목) ~ 04. 06(월)
 - __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: 프라즈마
   - 접수: 03. 07(토) ~ 04. 07(화)
+- __[AWSKRUG #AIEngineering 소모임 - AWS 환경에서 비디오 인텔리전스 구현하기](https://www.meetup.com/awskrug/events/313831600/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 03. 19(목) ~ 04. 08(수)
+- __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313678685)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 03. 19(목) ~ 04. 14(화)
+- __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/313809952/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 03. 19(목) ~ 04. 14(화)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
@@ -202,6 +206,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
   - 일시: 01. 05(월) ~ 05. 11(월)
+- __[제5회 고용노동 공공데이터·AI 활용 공모전](https://www.2026datacontest.co.kr/)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 고용노동부
+  - 일시: 03. 16(월) ~ 05. 14(목)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
