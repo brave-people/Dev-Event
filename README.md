@@ -103,7 +103,7 @@
 - __[인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)](https://www.pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1)__
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: 패스파인더
-  - 접수: 03. 21(토) ~ 03. 23(월)
+  - 접수: 03. 21(토) ~ 03. 24(화) 16:00
 - __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 한빛앤
@@ -198,7 +198,7 @@
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 14(화)
 - __[２０２６ Build with AI Golang Korea](https://ticketa.co/event/871axvkx)__
-  - 분류: `오프라인(서울 구로)`, `유료`, `AI`, `핸즈온`
+  - 분류: `오프라인(서울 구로)`, `유료`, `AI`
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
