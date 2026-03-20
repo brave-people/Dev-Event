@@ -197,6 +197,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 14(화)
+- __[２０２６ Build with AI Golang Korea](https://ticketa.co/event/871axvkx)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `AI`, `핸즈온`
+  - 주최: GDG Golang Korea
+  - 접수: 03. 18(수) ~ 04. 15(수)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
