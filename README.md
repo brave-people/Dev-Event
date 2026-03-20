@@ -100,9 +100,17 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
+- __[인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)](https://www.pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1)__
+  - 분류: `오프라인`, `유료`, `AI`
+  - 주최: 패스파인더
+  - 접수: 03. 21(토) ~ 03. 23(월)
 - __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 한빛앤
+  - 접수: 03. 16(월) ~ 03. 24(화)
+- __[Wanted AI Tech Night](https://event.wanted.co.kr/WATN)__
+  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
+  - 주최: 원티드
   - 접수: 03. 16(월) ~ 03. 24(화)
 - __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
   - 분류: `온라인`, `무료`, `대회`
@@ -132,6 +140,10 @@
   - 분류: `오프라인(서울)`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 02. 24(화) ~ 03. 29(일)
+- __[Claude Code 실전 활용 밋업 - AI 코딩의 새로운 패러다임](https://www.rocketpunch.com/event/8V7auSHYUe)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
+  - 주최: 내러티브
+  - 접수: 03. 21(토) ~ 03. 29(일)
 - __[모두의 AI Agent: 실험 과정을 듣다](https://biz.modulabs.co.kr/event/425)__
   - 분류: `오프라인(서울 강남)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
@@ -161,6 +173,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
+- __[SNOWFLAKE Hackathon 2026](https://www.snowflake.com/snowflake-hackathon-2026-korea/)__
+  - 분류: `오프라인`, `무료`, `대회`, `AI`
+  - 주최: snowflake
+  - 접수: 03. 17(화) ~ 04. 05(일)
 - __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/313714446/)__
   - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -222,6 +238,14 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
   - 일시: 06. 10(수) ~ 06. 12(금)
+
+<br />
+
+## `26년 09월`
+- __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
+  - 분류: `오프라인`, `무료`, `기술일반`
+  - 주최: mongodb
+  - 접수: 03. 21(토) ~ 09. 01(화)
 
 
 ----------------
