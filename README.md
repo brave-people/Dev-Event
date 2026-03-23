@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[Zero100 글로벌 바이브코딩 빌더톤 in 서울](https://luma.com/pb000fua)__
-  - 분류: `오프라인(서울)`, `무료`, `대회`
-  - 주최: Women in Vibe Coding
-  - 접수: 03. 07(토) ~ 03. 19(목)
-
-- __[제22회 차세대 테크 리더십포럼 - 'Physical AI 시대: 로봇과 인공지능이 만드는 일상의 혁신'](https://event-us.kr/naekyehs/event/120945)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
-  - 주최: 한국공학한림원 차세대공학리더 YEHS
-  - 접수: 02. 28(토) ~ 03. 20(금) 12:00
-- __[Oracle Academy와 함께하는 Oracle Dev Day](https://eventreg.oracle.com/profile/web/index.cfm?PKwebID=0x957012abcd)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `클라우드`
-  - 주최: 오라클
-  - 접수: 03. 16(월) ~ 03. 20(금)
-- __[Flutter Incheon Monthly Meetup](https://ticketa.co/event/nv2atyow)__
-  - 분류: `오프라인(인천 연수구)`, `무료`, `iOS`, `안드로이드`
-  - 주최: Flutter Incheon
-  - 접수: 03. 14(토) ~ 03. 20(금) 12:00
-- __[만우절에 진심인 개발자들의 축제, '딸깍톤' 참가 모집](https://ttalkkakthon.vibecodingclub.kr/)__
-  - 분류: `오프라인(숭실대)`, `해커톤`, `AI`, `네트워킹`
-  - 주최: 바이브 코딩 클럽
-  - 접수: 03. 14(토) ~ 03. 20(금)
-- __[카카오테크 부트캠프](https://kakaotechbootcamp.com/)__
-  - 분류: `오프라인(경기)`, `유료`, `교육`, `AI`, `클라우드`
-  - 주최: 카카오
-  - 접수: 02. 26(목) ~ 03. 22(일)
-- __[한화비전 Vision’s Edge Device Academy 4기](https://www.vedacademy.co.kr/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 한화비전
-  - 접수: 03. 10(화) ~ 03. 22(일)
 - __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 이노베이션아카데미
   - 접수: 03. 04(수) ~ 03. 23(월)
+
 - __[인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)](https://www.pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1)__
   - 분류: `오프라인`, `유료`, `AI`
   - 주최: 패스파인더
@@ -112,6 +84,10 @@
   - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
   - 주최: 원티드
   - 접수: 03. 16(월) ~ 03. 24(화)
+- __[Microsoft Startup Connection 2026](https://msevents.microsoft.com/event?id=20263385430908)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: 마이크로소프트
+  - 접수: 03. 19(목) ~ 03. 26(목)
 - __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 메가존클라우드
@@ -148,6 +124,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
   - 접수: 03. 11(수) ~ 03. 30(월)
+- __[AWSKRUG 아키텍처 #architecture x 플랫폼엔지니어링 #PlatformEngineering](https://www.meetup.com/awskrug/events/313714237/?eventOrigin=group_events_list)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 03. 23(화) ~ 03. 31(화)
 - __[[COSMOS] 4주 만에 내 아이디어가 서비스가 됩니다](https://cossmoss.vercel.app/#about)__
   - 분류: `오프라인`, `무료`, `AI`
   - 주최: 코스모스
@@ -173,6 +153,10 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
+- __[STACK-UP 서울 코딩 연합 동아리 부트캠프 멤버모집](https://receptive-timpani-972.notion.site/STACK-UP-5-35e8c015421b83acb87d81477dbcab2d)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`
+  - 주최: STACK-UP
+  - 접수: 03. 03(화) ~ 04. 03(금)
 - __[SNOWFLAKE Hackathon 2026](https://www.snowflake.com/snowflake-hackathon-2026-korea/)__
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: snowflake
@@ -189,6 +173,14 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 08(수)
+- __[AI Agent Night — OpenClaw 핸즈온 워크숍](https://www.rocketpunch.com/event/qpEDqb19Ey)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
+  - 주최: 내러티브
+  - 접수: 03. 23(월) ~ 04. 08(수)
+- __[AI Agent Night — Claude Code(클로드 코드) 실전 바이브 코딩](https://www.rocketpunch.com/event/jXv3f6Ri5f)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
+  - 주최: 내러티브
+  - 접수: 03. 23(월) ~ 04. 09(목)
 - __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313678685)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
