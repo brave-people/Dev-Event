@@ -169,6 +169,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 내러티브
   - 접수: 03. 23(월) ~ 04. 09(목)
+- __[Build with AI 2026 - GDG Korea Android](https://ticketa.co/event/6jmbrcab)__
+  - 분류: `오프라인(서울 성동구)`, `유료`, `AI`
+  - 주최: GDG Korea Android
+  - 접수: 03. 25(수) ~ 04. 10(금)
+- __[Grafana & Friends Seoul #1: AI 시대의 SRE와 모니터링](https://ticketa.co/event/dtdi6msi)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
+  - 주최: Grafana & Friends Seoul
+  - 접수: 03. 25(수) ~ 04. 10(금)
 - __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313678685)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -185,6 +193,10 @@
   - 분류: `오프라인(서울 구로)`, `유료`, `AI`
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
+- __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
+  - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
+  - 주최: Microsoft 커뮤니티 이벤트
+  - 접수: 03. 25(수) ~ 04. 20(월)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
@@ -205,11 +217,15 @@
 <br />
 
 ## `26년 05월`
+- __[Ubuntu 26.04 LTS Release Party & InstallFest @Daejeon](https://ticketa.co/event/taitwvzz)__
+  - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
+  - 주최: 우분투한국커뮤니티
+  - 일시: 03. 25(수) ~ 05. 01(금)
+
 - __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
   - 일시: 01. 27(화) ~ 05. 08(금)
-
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
