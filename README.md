@@ -67,27 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[코디세이캠퍼스 AI 올인원 1기 모집](https://codysseycampus.kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 이노베이션아카데미
-  - 접수: 03. 04(수) ~ 03. 23(월)
-
-- __[인공지능 활용(AI-assisted) 뮤직 프로듀싱의 실제: 워크숍 Part.2 (SUNO 기반)](https://www.pathfinder.camp/event-details/12wol-ui-paeseuwodeu-1-1)__
-  - 분류: `오프라인`, `유료`, `AI`
-  - 주최: 패스파인더
-  - 접수: 03. 21(토) ~ 03. 24(화) 16:00
-- __[월간 AX: 3월 | AI 에이전트 마스터클래스](https://event-us.kr/FKH3nHkjmPGh/event/122301)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 한빛앤
-  - 접수: 03. 16(월) ~ 03. 24(화)
-- __[Wanted AI Tech Night](https://event.wanted.co.kr/WATN)__
-  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
-  - 주최: 원티드
-  - 접수: 03. 16(월) ~ 03. 24(화)
 - __[Microsoft Startup Connection 2026](https://msevents.microsoft.com/event?id=20263385430908)__
   - 분류: `오프라인(서울 강남)`, `무료`, `AI`
   - 주최: 마이크로소프트
   - 접수: 03. 19(목) ~ 03. 26(목)
+
 - __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 메가존클라우드
@@ -165,6 +149,10 @@
   - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 06(월)
+- __[Agentic Workflow 2026: AI 에이전트 주도 개발 실전 컨퍼런스](https://www.devmento.co.kr/seminas/agentic2026.html)__
+  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
+  - 주최: DevMento
+  - 접수: 03. 25(수) ~ 04. 07(화)
 - __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: 프라즈마
@@ -189,6 +177,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 14(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/awskrug/events/313880043)__
+  - 분류: `오프라인(서울 구로)`, `유료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 03. 25(수) ~ 04. 15(목)
 - __[２０２６ Build with AI Golang Korea](https://ticketa.co/event/871axvkx)__
   - 분류: `오프라인(서울 구로)`, `유료`, `AI`
   - 주최: GDG Golang Korea
