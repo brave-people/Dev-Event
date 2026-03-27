@@ -67,23 +67,11 @@
 <br />
 
 ## `26년 03월`
-- __[Microsoft Startup Connection 2026](https://msevents.microsoft.com/event?id=20263385430908)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 마이크로소프트
-  - 접수: 03. 19(목) ~ 03. 26(목)
-
-- __[Type비즈니스 리더를 위한 Agent Hackathon](https://events.teams.microsoft.com/event/b1532464-68b5-4997-825d-bc3430d621a3@97f42f55-f1db-4804-b1eb-08db083efd4f)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 메가존클라우드
-  - 접수: 03. 19(목) ~ 03. 26(목)
-- __[TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
-  - 분류: `오프라인(서울 역삼)`, `유료`, `기술일반`
-  - 주최: TypeScript Backend Meetup
-  - 접수: 03. 14(토) ~ 03. 26(목)
 - __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/121503)__
   - 분류: `오프라인(서울 종로)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 02. 15(수) ~ 03. 28(토)
+  
 - __[Global AI AgentCamp 2026 in Daegu](https://ticketa.co/event/8gaujr23)__
   - 분류: `오프라인(경북대)`, `유료`, `AI`
   - 주최: AgentCamp
@@ -92,6 +80,10 @@
   - 분류: `오프라인(인하대)`, `유료`, `AI`
   - 주최: GDG 인천
   - 접수: 03. 10(화) ~ 03. 28(토)
+- __[우분투한국커뮤니티 2026년 정기총회 & 3월 밋업](https://ticketa.co/event/g5ksilrk)__
+  - 분류: `오프라인(서울 서초구)`, `유료`, `모임`
+  - 주최: 우분투한국커뮤니티
+  - 접수: 03. 28(토) ~ 03. 28(토)
 - __[Ralphthon @SF sponsored by OpenAI](https://luma.com/kxoq82yq)__
   - 분류: `오프라인(센프란시스코)`, `무료`, `대회`
   - 주최: Team Attention
@@ -108,6 +100,10 @@
   - 분류: `오프라인(서울 강남)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
   - 접수: 03. 11(수) ~ 03. 30(월)
+- __[BESPIN AI Partners Day 2026 - AI의 역설, 생산성 이면의 IT가 해결해야 할 4가지 전략](https://event-us.kr/bespinglobalkorea/event/121981)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `AI`
+  - 주최: Bespin Global Korea
+  - 접수: 03. 06(목) ~ 03. 30(월)
 - __[AWSKRUG 아키텍처 #architecture x 플랫폼엔지니어링 #PlatformEngineering](https://www.meetup.com/awskrug/events/313714237/?eventOrigin=group_events_list)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
@@ -137,10 +133,18 @@
   - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
   - 주최: 한국인터넷전문가협회
   - 접수: 03. 07(토) ~ 04. 01(수)
+- __[10 Years of Let'Swift](https://ticketa.co/event/kng8hpzs)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `iOS`, `모임`
+  - 주최: Let'Swift
+  - 접수: 03. 28(토) ~ 04. 01(수)
 - __[STACK-UP 서울 코딩 연합 동아리 부트캠프 멤버모집](https://receptive-timpani-972.notion.site/STACK-UP-5-35e8c015421b83acb87d81477dbcab2d)__
   - 분류: `오프라인(서울)`, `무료`, `모임`
   - 주최: STACK-UP
   - 접수: 03. 03(화) ~ 04. 03(금)
+- __[404, Off the Record - Editorium Meetup](https://event-us.kr/editorium/event/122853)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`
+  - 주최: Editorium
+  - 접수: 03. 21(토) ~ 04. 04(토)
 - __[SNOWFLAKE Hackathon 2026](https://www.snowflake.com/snowflake-hackathon-2026-korea/)__
   - 분류: `오프라인`, `무료`, `대회`, `AI`
   - 주최: snowflake
@@ -165,6 +169,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 내러티브
   - 접수: 03. 23(월) ~ 04. 08(수)
+- __[우아한형제들 웹프론트개발그룹 밋업 — AI 시대, 웹 프론트는 어떻게 살아가는가](https://fe.woowahan.com/surveys/web-frontend-ai-meetup)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `모임`, `AI`
+  - 주최: 우아한형제들 웹프론트개발그룹
+  - 접수: 03. 28(토) ~ 04. 08(수)
 - __[AI Agent Night — Claude Code(클로드 코드) 실전 바이브 코딩](https://www.rocketpunch.com/event/jXv3f6Ri5f)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
   - 주최: 내러티브
@@ -209,6 +217,18 @@
   - 분류: `오프라인(서울)`, `무료`, `기술일반`
   - 주최: Dev Korea
   - 접수: 03. 20(금) ~ 04. 23(목) 19:00
+- __[BytePlus AI Day Korea](https://www.rocketpunch.com/event/ARNj09DPdv)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
+  - 주최: BytePlus
+  - 접수: 03. 28(토) ~ 04. 23(목)
+- __[인공지능 챔피언 대회](https://ai-champion.or.kr/)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 27(금) ~ 04. 24(금)
+- __[전국민 AI 경진대회 - AI 에듀톤](https://aichallenge4all.or.kr/competitions/ai-education)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 03. 28(토) ~ '26. 04월 중
 - __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://www.ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1*1rntetw*_gcl_au*MjkyMDA5OTQyLjE3NzM2NjUyODE.)__
   - 분류: `오프라인`, `무료`, `교육`
   - 주최: 싸피
@@ -238,6 +258,10 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
   - 일시: 02. 06(금) ~ 05. 25(월)
+- __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 11(월) ~ 08. 31(월)
 
 <br />
 
