@@ -202,7 +202,7 @@
   - 주최: GDG Golang Korea
   - 접수: 03. 18(수) ~ 04. 15(수)
 - __[F.A.I.L 2026 (First Attempt In Learning)](https://event-us.kr/kdf/event/122063)__
-  - 분류: `오프라인(서울 강동구)`, `유료`, `경험`, `네트워킹` 
+  - 분류: `오프라인(서울 강동구)`, `유료`, `네트워킹` 
   - 주최: 한국개발자포럼
   - 접수: 03. 08(일) ~ 04. 16(목)
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
