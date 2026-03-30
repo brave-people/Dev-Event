@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-197-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-198-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -845,6 +845,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/da-in"><img src="https://avatars.githubusercontent.com/u/66757141?v=4?s=100" width="100px;" alt="Choi Da-in"/><br /><sub><b>Choi Da-in</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=da-in" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://yunjisang.me"><img src="https://avatars.githubusercontent.com/u/106881184?v=4?s=100" width="100px;" alt="Yun Jisang"/><br /><sub><b>Yun Jisang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=balhyo-younjisang" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
