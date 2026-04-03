@@ -213,6 +213,10 @@
   - 분류: `오프라인(서울 강동구)`, `유료`, `네트워킹` 
   - 주최: 한국개발자포럼
   - 접수: 03. 08(일) ~ 04. 16(목)
+- __[에이전트 기반 코딩 with Xcode & Gemini](https://www.meetup.com/seoul-ios-meetup/events/314103311)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`, `모임`
+  - 주최: Seoul iOS Meetup
+  - 접수: 04. 03(금) ~ 04. 16(목)
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: Microsoft 커뮤니티 이벤트
