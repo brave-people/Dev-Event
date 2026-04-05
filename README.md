@@ -148,6 +148,18 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`, `모임`
   - 주최: Seoul iOS Meetup
   - 접수: 04. 03(금) ~ 04. 16(목)
+- __[AWSKRUG 데브옵스 #DevOps 소모임 22번째 밋업](https://www.meetup.com/awskrug/events/314014265/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 04. 05(일) ~ 04. 16(목)
+- __[Seoul | Claude Code FDE Night](https://luma.com/j06jbiks)__
+  - 분류: `오프라인(서울 양재역)`, `무료`, `AI`
+  - 주최: Claude Community Events
+  - 접수: 04. 05(일) ~ 04. 17(금)
+- __[Buidl Hack 2026: Final Pitch](https://luma.com/BuidlHack2026_FinalPitch)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`
+  - 주최: BAS / Ludium
+  - 접수: 04. 05(일) ~ 04. 18(토)
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/dyaiayw5)__
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: Microsoft 커뮤니티 이벤트
