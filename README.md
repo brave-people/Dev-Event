@@ -67,59 +67,11 @@
 <br />
 
 ## `26년 04월`
-- __[SNOWFLAKE Hackathon 2026](https://www.snowflake.com/snowflake-hackathon-2026-korea/)__
-  - 분류: `오프라인`, `무료`, `대회`, `AI`
-  - 주최: snowflake
-  - 접수: 03. 17(화) ~ 04. 05(일)
-
-- __[localhost:web3 Open Lounge #1](https://luma.com/d6xzrnyk)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
-  - 주최: localhost:web3
-  - 접수: 03. 28(토) ~ 04. 05(일)
-- __[AWSKRUG #을지로 소모임](https://www.meetup.com/awskrug/events/313714446/)__
-  - 분류: `오프라인(서울 을지로)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 19(목) ~ 04. 06(월)
-- __[Agentic Workflow 2026: AI 에이전트 주도 개발 실전 컨퍼런스](https://www.devmento.co.kr/seminas/agentic2026.html)__
-  - 분류: `오프라인(서울 잠실)`, `유료`, `AI`
-  - 주최: DevMento
-  - 접수: 03. 25(수) ~ 04. 07(화)
-- __[사이버 보안 컨퍼런스 [.HACK 2026]](https://dothack.io/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
-  - 주최: 프라즈마
-  - 접수: 03. 07(토) ~ 04. 07(화)
-- __[AWSKRUG #AIEngineering 소모임 - AWS 환경에서 비디오 인텔리전스 구현하기](https://www.meetup.com/awskrug/events/313831600/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 03. 19(목) ~ 04. 08(수)
-- __[AI Agent Night — OpenClaw 핸즈온 워크숍](https://www.rocketpunch.com/event/qpEDqb19Ey)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
-  - 주최: 내러티브
-  - 접수: 03. 23(월) ~ 04. 08(수)
-- __[우아한형제들 웹프론트개발그룹 밋업 — AI 시대, 웹 프론트는 어떻게 살아가는가](https://fe.woowahan.com/surveys/web-frontend-ai-meetup)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `모임`, `AI`
-  - 주최: 우아한형제들 웹프론트개발그룹
-  - 접수: 03. 28(토) ~ 04. 08(수)
-- __[AI Agent Night — Claude Code(클로드 코드) 실전 바이브 코딩](https://www.rocketpunch.com/event/jXv3f6Ri5f)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `AI`
-  - 주최: 내러티브
-  - 접수: 03. 23(월) ~ 04. 09(목)
-- __[코드를 짜는 AI 말고, 일하는 AI 이야기](https://luma.com/64ztqype)__
-  - 분류: `오프라인(서울)`, `무료`, `AI`
-  - 주최: Pseudo Lab
-  - 접수: 04. 05(일) ~ 04. 09(목)
-- __[Build with AI 2026 - GDG Korea Android](https://ticketa.co/event/6jmbrcab)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `AI`
-  - 주최: GDG Korea Android
-  - 접수: 03. 25(수) ~ 04. 10(금)
-- __[Grafana & Friends Seoul #1: AI 시대의 SRE와 모니터링](https://ticketa.co/event/dtdi6msi)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: Grafana & Friends Seoul
-  - 접수: 03. 25(수) ~ 04. 10(금)
 - __[AWSKRUG 아키텍처 #PlatformEngineering 플랫폼엔지니어링 소모임](https://www.meetup.com/awskrug/events/313678685)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 03. 19(목) ~ 04. 14(화)
+  
 - __[AWSKRUG 서버리스 #Serverless 모임](https://www.meetup.com/awskrug/events/313809952/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
@@ -168,6 +120,14 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
   - 접수: 04. 05(일) ~ 04. 21(화)
+- __[IT직무프리뷰 — AI/머신러닝 엔지니어편](https://www.checkin-gwanak.or.kr/core/?cid=58&role=programvopn&pSeq=1185&tab=)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 관악청년청
+  - 접수: 04. 07(화) ~ 04. 21(화)
+- __[일상을 지키는 디지털 정보보호 세미나 '온앤安'](https://www.notion.so/3348c2a6385f801ebb24d2d8cad6a8d5)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `보안`
+  - 주최: 한국인터넷진흥원
+  - 접수: 04. 09(목) ~ 04. 21(화)
 - __[Cisco Connect 2026 Korea](https://www.cisco.com/site/kr/ko/learn/events/cisco-connect/index.html)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `보안`
   - 주최: Cisco
@@ -216,6 +176,10 @@
   - 분류: `오프라인(서울 강서구)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 05(일) ~ 04. 28(화)
+- __[AWSKRUG 보안 #Security 소모임: Terraform 시크릿 관리 실습](https://www.meetup.com/awskrug/events/314209332/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
+  - 주최: AWSKRUG
+  - 접수: 04. 11(금) ~ 04. 29(수)
 - __[전국민 AI 경진대회 - AI 에듀톤](https://aichallenge4all.or.kr/competitions/ai-education)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -241,6 +205,10 @@
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
   - 일시: 01. 27(화) ~ 05. 08(금)
+- __[미쳐라, 만들어라, 증명하라: Build with AI Hackathon 2026 in Daejeon](https://ticketa.co/event/rshxbzui)__
+  - 분류: `오프라인(대전 유성구)`, `유료`, `대회`, `AI`
+  - 주최: GDG Daejeon
+  - 접수: 04. 11(금) ~ 05. 08(금)
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
