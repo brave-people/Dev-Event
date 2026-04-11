@@ -196,6 +196,14 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 03. 27(금) ~ 04. 24(금)
+- __[Flutter Seoul Meetup 바이브코딩 해커톤](https://ticketa.co/event/ycbz77ae)__
+  - 분류: `오프라인(경기 성남시)`, `유료`, `모임`, `AI`
+  - 주최: Flutter Seoul
+  - 접수: 04. 11(금) ~ 04. 24(금)
+- __[Build with AI x GDG Busan 2026 - AI Hackathon](https://ticketa.co/event/6u6vfsn9)__
+  - 분류: `오프라인(부산 해운대구)`, `유료`, `대회`, `AI`
+  - 주최: GDG Busan
+  - 접수: 04. 11(금) ~ 04. 24(금)
 - __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 고용노동부
