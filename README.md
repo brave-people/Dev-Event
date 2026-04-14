@@ -175,7 +175,7 @@
 - __[The 2nd OmOCon Seoul with Hashed](https://luma.com/0c78q15u)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: OmOCon
-  - 일시: 04. 25(토) 12:00 ~ 18:00
+  - 접수: 04. 14(화) ~ 04. 25(토)
 - __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 고용노동부
@@ -236,7 +236,7 @@
 - __[Hermes Agent Community Meetup @ Seoul](https://luma.com/1cwwvh0p)__
   - 분류: `오프라인(서울)`, `무료`, `AI`
   - 주최: Instruct.KR / Team Attention
-  - 일시: 05. 09(토) 14:00 ~ 18:00
+  - 접수: 04. 14(화) ~ 05. 08(금)
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
