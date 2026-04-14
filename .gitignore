@@ -95,3 +95,7 @@ Backup of *.doc*
 *.~vsd*
 
 .idea
+
+.omc
+.playwright-mcp
+.pptx
