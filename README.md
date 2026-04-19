@@ -71,7 +71,7 @@
   - 분류: `오프라인(서울 종로)`, `무료`, `기술일반`
   - 주최: Microsoft 커뮤니티 이벤트
   - 접수: 03. 25(수) ~ 04. 20(월)
-  
+
 - __[AWSKRUG IoT 소모임 "Strands Agents 시작하기" Hands-on Lab](https://www.meetup.com/awskrug/events/314038823/)__
   - 분류: `오프라인(서울 강남)`, `유료`, `AI`
   - 주최: AWSKRUG
@@ -168,7 +168,7 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `보안`
   - 주최: AWSKRUG
   - 접수: 04. 11(금) ~ 04. 29(수)
-- __[[웨비나] AI Safety의 격차를 만드는 데이터](https://tally.so/r/44oeOO)__
+- __[[웨비나] AI Safety의 격차를 만드는 데이터](https://event-us.kr/selectstar/event/124315)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 셀렉트스타
   - 접수: 04. 18(금) ~ 04. 29(수)
