@@ -245,9 +245,9 @@
   - 주최: Instruct.KR / Team Attention
   - 접수: 04. 14(화) ~ 05. 08(금)
 - __[파이콘 부산 2026 (PyCon Busan 2026)](https://event-us.kr/pythonkorea/event/122855)__
-  - 분류: `오프라인(서울)`, `무료`, `AI`
-  - 주최: Instruct.KR / Team Attention
-  - 접수: 04. 14(화) ~ 05. 08(금)
+  - 분류: `오프라인(부산 해운대구)`, `무료`, `기술일반`
+  - 주최: 파이콘
+  - 접수: 04. 06(월) ~ 05. 08(금)
 - __[OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
   - 주최: Narrative (내러티브)
