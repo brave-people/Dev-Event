@@ -192,7 +192,7 @@
   - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
   - 주최: 우분투한국커뮤니티
   - 일시: 03. 25(수) ~ 05. 01(금)
-- __[2026 Build with AI: Hands-on Campus](https://event-us.kr/m/122871/51697)__
+- __[2026 Build with AI: Hands-on Campus](https://event-us.kr/m/122871/53061)__
   - 분류: `오프라인(서울 서강대)`, `유료`, `기술일반`, `AI`
   - 주최: GDG Campus Korea
   - 일시: 03. 26(목) ~ 05. 03(일)
