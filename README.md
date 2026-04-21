@@ -128,6 +128,10 @@
   - 분류: `오프라인(부산 해운대구)`, `유료`, `대회`, `AI`
   - 주최: GDG Busan
   - 접수: 04. 11(금) ~ 04. 24(금)
+- __[SF x KR : AI Native GTM Meetup](https://luma.com/8w9eo0qy)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
+  - 주최: Delta Society / Beyond Product
+  - 접수: 04. 20(월) ~ 04. 24(금)
 - __[The 2nd OmOCon Seoul with Hashed](https://luma.com/0c78q15u)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: OmOCon
@@ -136,6 +140,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 04. 18(금) ~ 04. 25(토)
+- __[Seoul | Claude Bloom × AB180](https://luma.com/haoh7sla)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `AI`
+  - 주최: Cliwant
+  - 접수: 04. 20(월) ~ 04. 25(토)
 - __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 고용노동부
