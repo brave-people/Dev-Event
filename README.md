@@ -67,7 +67,7 @@
 <br />
 
 ## `26년 04월`
-- __[AI를 제품에 적용한다는 것 — Goorm Commit](https://tech.goorm.io/2604_commit/)__
+- __[[4월 COMMIT] AI를 제품에 적용한다는 것: 생성형 AI 시대, 설계와 운영](https://tech.goorm.io/2604_commit/)__
   - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `AI`
   - 주최: 구름
   - 접수: 04. 10(목) ~ 04. 17(금)
@@ -241,6 +241,10 @@
   - 주최: GDG Daejeon
   - 접수: 04. 11(금) ~ 05. 08(금)
 - __[Hermes Agent Community Meetup @ Seoul](https://luma.com/1cwwvh0p)__
+  - 분류: `오프라인(서울)`, `무료`, `AI`
+  - 주최: Instruct.KR / Team Attention
+  - 접수: 04. 14(화) ~ 05. 08(금)
+- __[파이콘 부산 2026 (PyCon Busan 2026)](https://event-us.kr/pythonkorea/event/122855)__
   - 분류: `오프라인(서울)`, `무료`, `AI`
   - 주최: Instruct.KR / Team Attention
   - 접수: 04. 14(화) ~ 05. 08(금)
