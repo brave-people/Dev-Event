@@ -1797,6 +1797,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "brainbackdoor",
+      "name": "LeeDongGyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29951288?v=4",
+      "profile": "https://brainbackdoor.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
