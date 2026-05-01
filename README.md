@@ -92,6 +92,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`, `AI`
   - 주최: AWSKRUG
   - 접수: 05. 01(금) ~ 05. 04(월)
+- __[SOLANA 글로벌 온라인 해커톤: 프론티어](https://www.rocketpunch.com/event/eJRHiRWWwe)__
+  - 분류: `온라인`, `무료`, `대회`, `블록체인`
+  - 주최: Superteam Korea
+  - 접수: 04. 06(월) ~ 05. 05(화)
 - __[2026 관광데이터 활용 공모전](https://api.visitkorea.or.kr/#/cntSearchDetail?no=1)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 한국관광공사
