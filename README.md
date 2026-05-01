@@ -67,87 +67,7 @@
 <br />
 
 ## `26년 04월`
-- __[The 2nd OmOCon Seoul with Hashed](https://luma.com/0c78q15u)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `AI`
-  - 주최: OmOCon
-  - 접수: 04. 14(화) ~ 04. 25(토)
 
-- __[AWSKRUG 자격증 소모임: SAP 자격증 취득!](https://www.meetup.com/awskrug/events/314325528/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 18(금) ~ 04. 25(토)
-- __[Seoul | Claude Bloom × AB180](https://luma.com/haoh7sla)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `모임`, `AI`
-  - 주최: Cliwant
-  - 접수: 04. 20(월) ~ 04. 25(토)
-- __[HRD 미래산업인재혁신박람회 AI 아이디어 챌린지](https://xn--hrd-5b7m58oe6hhrj.kr/ideachallenge)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 고용노동부
-  - 접수: 03. 30(월) ~ 04. 26(일)
-- __[CMUX x AIM 해커톤](https://luma.com/zun4wf73)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `대회`, `AI`
-  - 주최: Manaflow / AI Nexus
-  - 접수: 04. 14(화) ~ 04. 26(일)
-- __[Built with Opus 4.7: a Claude Code hackathon](https://cerebralvalley.ai/e/built-with-4-7-hackathon)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: Cerebral Valley & Anthropic
-  - 접수: 04. 18(금) ~ 04. 26(일)
-- __[모두의 LLM Security: 논문 소개부터 최신 사례까지](https://biz.modulabs.co.kr/event/433)__
-  - 분류: `오프라인`, `무료`, `보안`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 04. 09(목) ~ 04. 27(월)
-- __[AWSKRUG #magok 마곡 소모임 (4월 28일)](https://www.meetup.com/awskrug/events/314064008/)__
-  - 분류: `오프라인(서울 강서구)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 04. 05(일) ~ 04. 28(화)
-- __[Seoul MongoDB User Group Meetup #3](https://www.meetup.com/mongodb-usergroup-seoul/events/314210138/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
-  - 주최: MongoDB 한국 사용자 모임
-  - 접수: 04. 10(금) ~ 04. 28(화)
-- __[2026 AI서비스 트렌드 컨퍼런스](https://www.kipfa.or.kr/Seminar/SeminarReView.aspx?eduSeqNo=1513)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
-  - 주최: 한국인터넷전문가협회
-  - 접수: 04. 18(금) ~ 04. 28(화)
-- __[CHANNEL DEVMEETUP](https://luma.com/4u5dq8o7)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
-  - 주최: 채널톡
-  - 접수: 04. 21(월) ~ 04. 28(화)
-- __[1인 개발자의 수익형 서비스 생존기 : 코드 한 줄보다 중요한 실패 확률을 낮추는 전략!](https://open.kakao.com/o/gusM0Oqi)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 블러Bler
-  - 접수: 04. 21(월) ~ 04. 28(화)
-- __[Apple 디벨로퍼 아카데미 로드쇼 인 서울](https://ticketa.co/event/ipxihpei)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`
-  - 주최: Apple Developer Academy
-  - 접수: 04. 24(목) ~ 04. 28(화)
-- __[AWSKRUG 보안 #Security 소모임: Terraform 시크릿 관리 실습](https://www.meetup.com/awskrug/events/314209332/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `보안`
-  - 주최: AWSKRUG
-  - 접수: 04. 11(금) ~ 04. 29(수)
-- __[[웨비나] AI Safety의 격차를 만드는 데이터](https://event-us.kr/selectstar/event/124315)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 셀렉트스타
-  - 접수: 04. 18(금) ~ 04. 29(수)
-- __[Apple 디벨로퍼 아카데미 로드쇼 인 부산](https://ticketa.co/event/nzsib6wn)__
-  - 분류: `오프라인(부산 해운대구)`, `무료`, `세미나`
-  - 주최: Apple Developer Academy
-  - 접수: 04. 24(목) ~ 04. 29(수)
-- __[Pangyo | Claude Code for Developers](https://luma.com/tzobcks8)__
-  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `AI`
-  - 주최: Claude Community Events
-  - 접수: 04. 14(화) ~ 04. 30(목)
-- __[TSBM 4월 (TypeScript Backend Meetup)](https://ticketa.co/event/u7t27m6f)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `기술일반`
-  - 주최: TypeScript Backend Meetup
-  - 접수: 04. 24(목) ~ 04. 30(목)
-- __[전국민 AI 경진대회 - AI 에듀톤](https://aichallenge4all.or.kr/competitions/ai-education)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 03. 28(토) ~ '26. 04월 중
-- __[삼성 청년 SW / AI 아카데미 SSAFY 14기 모집](https://www.ssafy.com/ksp/jsp/swp/apply/swpApplyProcess.jsp?_gl=1*1rntetw*_gcl_au*MjkyMDA5OTQyLjE3NzM2NjUyODE.)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 싸피
-  - 접수: 03. 16(월) ~ 04. 30(목)
 
 <br />
 
@@ -168,6 +88,10 @@
   - 분류: `오프라인(서울 가로수길)`, `무료`, `세미나`, `AI`
   - 주최: 그란데클립
   - 접수: 04. 20(월) ~ 05. 03(일)
+- __[AWSKRUG #AIEngineering 소모임 - 와글와글 AI Coding](https://www.meetup.com/awskrug/events/314414230/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 05. 01(금) ~ 05. 04(월)
 - __[2026 관광데이터 활용 공모전](https://api.visitkorea.or.kr/#/cntSearchDetail?no=1)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 한국관광공사
@@ -176,6 +100,18 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
   - 접수: 04. 08(수) ~ 05. 06(수) 18:00
+- __[Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오전 세션](https://ticketa.co/event/8h16iumh)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`
+  - 주최: Apple Developer Academy
+  - 접수: 05. 01(금) ~ 05. 06(수)
+- __[Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오후 세션](https://ticketa.co/event/mauqdg4j)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`
+  - 주최: Apple Developer Academy
+  - 접수: 05. 01(금) ~ 05. 06(수)
+- __[2026 판교 퇴근길 밋업 2회차](https://event-us.kr/iqnnhuzl/event/124199)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `기술일반`
+  - 주최: 퇴근길 밋업
+  - 접수: 04. 14(화) ~ 05. 07(목)
 - __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
@@ -192,6 +128,10 @@
   - 분류: `오프라인(부산 해운대구)`, `무료`, `기술일반`
   - 주최: 파이콘
   - 접수: 04. 06(월) ~ 05. 08(금)
+- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임](https://www.meetup.com/awskrug/events/314521612/)__
+  - 분류: `온라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 05. 09(토)
 - __[OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
   - 주최: Narrative (내러티브)
@@ -200,6 +140,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: 코워크위더스
   - 접수: 04. 27(월) ~ 05. 10(일)
+- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/314517171/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 01(금) ~ 05. 10(일)
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
@@ -228,10 +172,18 @@
   - 분류: `오프라인`, `유료`, `세미나`, `기술일반`
   - 주최: GDG on Campus Konkuk
   - 접수: 05. 01(금) ~ 05. 15(금)
+- __[SK텔레콤 AI 세미나](https://event-us.kr/khpseminar/event/123681)__
+  - 분류: `오프라인(경기 성남시 분당)`, `무료`, `세미나`, `AI`
+  - 주최: SK텔레콤
+  - 접수: 04. 20(월) ~ 05. 15(금)
 - __[제16회 글로벌 피우다프로젝트 (한국·일본 노인돌봄 ICT솔루션 개발)](https://ictcocpiuda.imweb.me/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: ICT콤플렉스 피우다프로젝트
   - 접수: 04. 01(수) ~ 05. 17(일)
+- __[생성형 AI 보안과 정보보호 컨퍼런스](https://cometrue.ai/index.php/con_260519/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `보안`, `AI`
+  - 주최: 컴트루테크놀로지
+  - 일시: 05. 19(화)
 - __[AWS Summit Seoul 2026](https://aws.amazon.com/ko/events/summits/seoul/)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `클라우드`
   - 주최: AWS
@@ -244,6 +196,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 04. 20(월) ~ 05. 25(월)
+- __[GAME AiCON Seoul 2026](https://onoffmix.com/event/339468)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
+  - 주최: 오프너디오씨
+  - 일시: 05. 26(화) ~ 05. 28(목)
 
 
 <br />
@@ -252,6 +208,10 @@
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
+  - 일시: 06. 10(수) ~ 06. 12(금)
+- __[2026 인공지능 & 빅데이터쇼](https://smarttechkorea.com/aibigdatashow)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`, `기술일반`
+  - 주최: 한국AI산업협회 / AI타임즈
   - 일시: 06. 10(수) ~ 06. 12(금)
 - __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
@@ -265,6 +225,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
   - 접수: 08. 15(토) ~ 08. 17(월)
+- __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
+  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
+  - 주최: Ubuntu Korea Community / Debian Korea
+  - 일시: 08. 29(토)
 
 - __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
@@ -400,7 +364,8 @@
             <a href="./end_event/2026/26_01.md"> 01월 </a>,
             <a href="./end_event/2026/26_02.md"> 02월 </a>,
             <a href="./end_event/2026/26_03.md"> 03월 </a>,
-            <a href="./end_event/2026/26_04.md"> 04월 </a>
+            <a href="./end_event/2026/26_04.md"> 04월 </a>,
+            <a href="./end_event/2026/26_05.md"> 05월 </a>
           </td>
         </tr>
         <tr>
