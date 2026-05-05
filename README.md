@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-201-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-202-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -818,6 +818,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://jmo.kr"><img src="https://avatars.githubusercontent.com/u/82754696?v=4?s=100" width="100px;" alt="전민오"/><br /><sub><b>전민오</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jbj338033" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://brainbackdoor.com/"><img src="https://avatars.githubusercontent.com/u/29951288?v=4?s=100" width="100px;" alt="LeeDongGyu"/><br /><sub><b>LeeDongGyu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=brainbackdoor" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://turtle-hwan.tistory.com/"><img src="https://avatars.githubusercontent.com/u/67897841?v=4?s=100" width="100px;" alt="Jihwan Kim"/><br /><sub><b>Jihwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Turtle-Hwan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kangkyunghyun"><img src="https://avatars.githubusercontent.com/u/108459576?v=4?s=100" width="100px;" alt="강경현"/><br /><sub><b>강경현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kangkyunghyun" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
