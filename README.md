@@ -218,6 +218,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`, `기술일반`
   - 주최: 한국AI산업협회 / AI타임즈
   - 일시: 06. 10(수) ~ 06. 12(금)
+- __[The Turing Test Hackathon 2026 — Phase 2. AI Awakening Hackathon](https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail)__
+  - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
+  - 주최: Mantle / Bybit / Byreal / BGA
+  - 접수: 05. 01(목) ~ 06. 15(월)
 - __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: AsiaSTA
