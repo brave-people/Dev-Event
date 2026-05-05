@@ -72,34 +72,11 @@
 <br />
 
 ## `26년 05월`
-- __[Ubuntu 26.04 LTS Release Party & InstallFest @Daejeon](https://ticketa.co/event/taitwvzz)__
-  - 분류: `오프라인(대전 중구)`, `무료`, `기술일반`
-  - 주최: 우분투한국커뮤니티
-  - 일시: 03. 25(수) ~ 05. 01(금)
-- __[2026 블록체인 밋업데이 (2회차)](https://event-us.kr/2026bcmd/event/124319)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`
-  - 주최: 2026 BCMD
-  - 접수: 04. 20(월) ~ 05. 01(금)
-- __[2026 Build with AI: Hands-on Campus](https://event-us.kr/m/122871/53061)__
-  - 분류: `오프라인(서울 서강대)`, `유료`, `기술일반`, `AI`
-  - 주최: GDG Campus Korea
-  - 일시: 03. 26(목) ~ 05. 03(일)
-- __[그란데클립 AX Meetup#1 - AI가 바꾸는 현장과 새로운 역할](https://luma.com/frfrdwde)__
-  - 분류: `오프라인(서울 가로수길)`, `무료`, `세미나`, `AI`
-  - 주최: 그란데클립
-  - 접수: 04. 20(월) ~ 05. 03(일)
-- __[AWSKRUG #AIEngineering 소모임 - 와글와글 AI Coding](https://www.meetup.com/awskrug/events/314414230/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 05. 01(금) ~ 05. 04(월)
-- __[SOLANA 글로벌 온라인 해커톤: 프론티어](https://www.rocketpunch.com/event/eJRHiRWWwe)__
-  - 분류: `온라인`, `무료`, `대회`, `블록체인`
-  - 주최: Superteam Korea
-  - 접수: 04. 06(월) ~ 05. 05(화)
 - __[2026 관광데이터 활용 공모전](https://api.visitkorea.or.kr/#/cntSearchDetail?no=1)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 한국관광공사
   - 접수: 03. 30(월) ~ 05. 06(수)
+  
 - __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업 참여팀 모집 공고](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부
@@ -116,6 +93,10 @@
   - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `기술일반`
   - 주최: 퇴근길 밋업
   - 접수: 04. 14(화) ~ 05. 07(목)
+- __[2026 LG AI Tech CONNECT - AI Product](https://docs.google.com/forms/d/e/1FAIpQLSduA3cBHtGwLYSGNCHk-iYDXtIyXmg6kwrIEJYG-CWbR4B4JA/viewform)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: LG AI연구원
+  - 접수: 04. 27(월) ~ 05. 07(목)
 - __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
   - 주최: AI EXPO
@@ -148,6 +129,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 01(금) ~ 05. 10(일)
+- __[​Build with AI 2026: DUYUTHON](https://forms.gle/JVaJn3tXvq57XtFt5)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
+  - 주최: GDGOC (Google Developer Groups On Campus)
+  - 접수: 05. 04(월) ~ 05. 10(일)
 - __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
   - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
   - 주최: 원티드
@@ -204,6 +189,10 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 04. 20(월) ~ 05. 25(월)
+- __[2026년 5월 Dot4 meetup](https://ticketa.co/event/qpye8cf5)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dot4
+  - 접수: 05. 05(화) ~ 05. 27(수)
 - __[GAME AiCON Seoul 2026](https://onoffmix.com/event/339468)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 오프너디오씨
@@ -212,6 +201,10 @@
   - 분류: `오프라인(서울 영등포구)`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: 한국디지털인증협회
   - 일시: 05. 01(금) ~ 05. 31(일)
+- __[Codex Community 부산 미니 랄프톤 - Build with Codex Goal](https://luma.com/luuilxvp)__
+  - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
+  - 주최: Codex Ambassador
+  - 접수: 05. 05(화) ~ 05. 29(수)
 
 
 <br />
