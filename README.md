@@ -185,6 +185,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 04. 14(화) ~ 05. 20(수)
+- __[Seoul iOS Meetup [May 2026]](https://luma.com/ebg1nvg1?utm_source=ghde)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`
+  - 주최: Seoul iOS Meetup
+  - 접수: 05. 06(수) ~ 05. 20(수)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
