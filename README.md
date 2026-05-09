@@ -72,51 +72,11 @@
 <br />
 
 ## `26년 05월`
-- __[2026 관광데이터 활용 공모전](https://api.visitkorea.or.kr/#/cntSearchDetail?no=1)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 한국관광공사
-  - 접수: 03. 30(월) ~ 05. 06(수)
-  
-- __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업 참여팀 모집 공고](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 04. 08(수) ~ 05. 06(수) 18:00
-- __[Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오전 세션](https://ticketa.co/event/8h16iumh)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`
-  - 주최: Apple Developer Academy
-  - 접수: 05. 01(금) ~ 05. 06(수)
-- __[Apple 디벨로퍼 아카데미 로드쇼 인 서울 @ 역삼, 오후 세션](https://ticketa.co/event/mauqdg4j)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`
-  - 주최: Apple Developer Academy
-  - 접수: 05. 01(금) ~ 05. 06(수)
-- __[2026 판교 퇴근길 밋업 2회차](https://event-us.kr/iqnnhuzl/event/124199)__
-  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `기술일반`
-  - 주최: 퇴근길 밋업
-  - 접수: 04. 14(화) ~ 05. 07(목)
-- __[2026 LG AI Tech CONNECT - AI Product](https://docs.google.com/forms/d/e/1FAIpQLSduA3cBHtGwLYSGNCHk-iYDXtIyXmg6kwrIEJYG-CWbR4B4JA/viewform)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: LG AI연구원
-  - 접수: 04. 27(월) ~ 05. 07(목)
-- __[국내 최대 규모의 인공지능 전문 전시회, AI EXPO KOREA 2026](https://onoffmix.com/event/336585)__
-  - 분류: `오프라인(서울 코엑스)`, `유료`, `AI`
-  - 주최: AI EXPO
-  - 일시: 01. 27(화) ~ 05. 08(금)
-- __[미쳐라, 만들어라, 증명하라: Build with AI Hackathon 2026 in Daejeon](https://ticketa.co/event/rshxbzui)__
-  - 분류: `오프라인(대전 유성구)`, `유료`, `대회`, `AI`
-  - 주최: GDG Daejeon
-  - 접수: 04. 11(금) ~ 05. 08(금)
-- __[Hermes Agent Community Meetup @ Seoul](https://luma.com/1cwwvh0p)__
-  - 분류: `오프라인(서울)`, `무료`, `AI`
-  - 주최: Instruct.KR / Team Attention
-  - 접수: 04. 14(화) ~ 05. 08(금)
-- __[파이콘 부산 2026 (PyCon Busan 2026)](https://event-us.kr/pythonkorea/event/122855)__
-  - 분류: `오프라인(부산 해운대구)`, `무료`, `기술일반`
-  - 주최: 파이콘
-  - 접수: 04. 06(월) ~ 05. 08(금)
 - __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임](https://www.meetup.com/awskrug/events/314521612/)__
   - 분류: `온라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 05. 09(토)
+
 - __[OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
   - 주최: Narrative (내러티브)
@@ -157,6 +117,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 성남시
   - 접수: 04. 20(월) ~ 05. 13(수)
+- __[코드프레소 [AX 실전] : 원데이 특강 시리즈](https://luma.com/ai9yfq4w)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 코드프레소 × AXMOS
+  - 일시: 05. 13(수) ~ 05. 23(토)
 - __[제5회 고용노동 공공데이터·AI 활용 공모전](https://www.2026datacontest.co.kr/)__
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 고용노동부
@@ -173,6 +137,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: ICT콤플렉스 피우다프로젝트
   - 접수: 04. 01(수) ~ 05. 17(일)
+- __[AWSKRUG 보안 #Security 소모임 Security Night](https://www.meetup.com/awskrug/events/314639723/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `보안`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 09(토) ~ 05. 17(일)
 - __[Dev Korea #8 with Salmon](https://dev-korea.com/events/dev-korea-8-may-2026)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
   - 주최: Dev Korea
@@ -193,6 +161,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 05. 06(수) ~ 05. 20(수)
+- __[2026 관광데이터 활용 공모전 (생성형 AI 활용 관광 프롬프톤 부문)](https://api.visitkorea.or.kr/#/cntSearchDetail?no=2)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 한국관광공사
+  - 접수: 05. 07(목) ~ 05. 20(수)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
@@ -201,10 +173,18 @@
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 04. 20(월) ~ 05. 25(월)
+- __[AWSKRUG #container EKS & Container Deep Dive Night](https://www.meetup.com/awskrug/events/314686543/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 09(토) ~ 05. 26(화)
 - __[2026년 5월 Dot4 meetup](https://ticketa.co/event/qpye8cf5)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
   - 주최: Dot4
   - 접수: 05. 05(화) ~ 05. 27(수)
+- __[Kiro 한국 사용자 모임 (2026-05)](https://www.meetup.com/awskrug/events/314655727/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 09(토) ~ 05. 27(수)
 - __[GAME AiCON Seoul 2026](https://onoffmix.com/event/339468)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 오프너디오씨
@@ -262,6 +242,10 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: mongodb
   - 접수: 03. 21(토) ~ 09. 01(화)
+- __[제24회 임베디드SW경진대회](https://www.wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 산업통상자원부 / 임베디드SW·System산업협회
+  - 접수: 05. 06(수) ~ 09. 03(수)
 
 
 ----------------
