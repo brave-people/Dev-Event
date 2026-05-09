@@ -157,7 +157,7 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `클라우드`
   - 주최: AWS
   - 접수: 04. 14(화) ~ 05. 20(수)
-- __[Seoul iOS Meetup [May 2026]](https://luma.com/ebg1nvg1?utm_source=ghde)__
+- __[Seoul iOS Meetup [May 2026]](https://luma.com/ebg1nvg1)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`
   - 주최: Seoul iOS Meetup
   - 접수: 05. 06(수) ~ 05. 20(수)
@@ -169,7 +169,7 @@
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
   - 일시: 02. 06(금) ~ 05. 25(월)
-- __[스크래퍼 개발자 모임 5회](https://luma.com/cf9nsaef?utm_source=ghde)__
+- __[스크래퍼 개발자 모임 5회](https://luma.com/cf9nsaef)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
   - 접수: 04. 20(월) ~ 05. 25(월)
