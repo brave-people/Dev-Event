@@ -1,0 +1,79 @@
+Copyright (c) 2019-2026 고언약 (Eonyak Ko) and Dev-Event contributors.
+All Rights Reserved.
+
+================================================================================
+Dev-Event Proprietary License
+================================================================================
+
+This repository ("Dev-Event") and all of its contents — including but not
+limited to the curated list of developer events, event metadata, descriptions,
+schedules, images, code, and any other materials (collectively, the "Content")
+— are the intellectual property of the copyright holders. All rights are
+reserved.
+
+--------------------------------------------------------------------------------
+1. Permitted Uses
+--------------------------------------------------------------------------------
+
+Without prior written permission, you may:
+
+  (a) View and read the Content through GitHub or its rendered pages for
+      personal, non-commercial informational purposes.
+  (b) Share a hyperlink to this repository or to individual events.
+  (c) Submit contributions (e.g., pull requests adding new events) under the
+      understanding that submitted contributions become part of the Content
+      and are governed by this License.
+
+--------------------------------------------------------------------------------
+2. Prohibited Uses
+--------------------------------------------------------------------------------
+
+The following uses are STRICTLY PROHIBITED without prior, explicit, written
+permission from the copyright holders:
+
+  (a) Reproducing, copying, redistributing, mirroring, or republishing the
+      Content, in whole or in part, in any form or medium.
+  (b) Using the Content, in whole or in part, as training data, fine-tuning
+      data, evaluation data, embedding source, or any other input to
+      machine-learning models, large language models (LLMs), recommendation
+      systems, or any other artificial intelligence systems — whether for
+      personal, academic, research, or commercial purposes.
+  (c) Scraping, crawling, or otherwise programmatically extracting the
+      Content for the purposes described in (b).
+  (d) Creating derivative works, datasets, or compilations from the Content.
+  (e) Any commercial use of the Content.
+
+--------------------------------------------------------------------------------
+3. No Implied License
+--------------------------------------------------------------------------------
+
+Nothing in this repository, including the public visibility of the source
+on GitHub, shall be construed as granting any license or right to use the
+Content beyond what is expressly permitted in Section 1.
+
+--------------------------------------------------------------------------------
+4. Requesting Permission
+--------------------------------------------------------------------------------
+
+To request permission for any use not covered in Section 1, please contact:
+
+  eonyak.ko@webtoonscorp.com
+
+Permission, if granted, will be provided in writing and may include specific
+terms, attribution requirements, and usage limitations.
+
+--------------------------------------------------------------------------------
+5. Disclaimer
+--------------------------------------------------------------------------------
+
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM THE USE OF THE CONTENT.
+
+--------------------------------------------------------------------------------
+6. Enforcement
+--------------------------------------------------------------------------------
+
+Violations of this License may result in takedown requests (including DMCA
+notices), removal of access, and any other legal remedies available under
+applicable law.
