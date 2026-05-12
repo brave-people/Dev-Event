@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 05월`
-- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임](https://www.meetup.com/awskrug/events/314521612/)__
-  - 분류: `온라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 일시: 05. 09(토)
-
-- __[OpenAI GPT-5.4 & Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
-  - 주최: Narrative (내러티브)
-  - 접수: 04. 18(금) ~ 05. 10(일)
-- __[Vibe Coding HACKATHON](https://agent-era.ai)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
-  - 주최: 코워크위더스
-  - 접수: 04. 27(월) ~ 05. 10(일)
-- __[AWSKRUG 네트워크 #network 소모임](https://www.meetup.com/awskrug/events/314517171/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 01(금) ~ 05. 10(일)
-- __[​Build with AI 2026: DUYUTHON](https://forms.gle/JVaJn3tXvq57XtFt5)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
-  - 주최: GDGOC (Google Developer Groups On Campus)
-  - 접수: 05. 04(월) ~ 05. 10(일)
-- __[HIGHFIVE 2026](https://event.wanted.co.kr/preopen_highfive2026)__
-  - 분류: `오프라인(서울 코엑스)`, `유료`, `기술일반`
-  - 주최: 원티드
-  - 일시: 01. 05(월) ~ 05. 11(월)
-- __[넥슨 패스트 트랙 해커톤 '2026 메커톤'](https://maplestoryworlds.career.greetinghr.com/ko/home)__
-  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `대회`, `기술일반`
-  - 주최: 넥슨코리아
-  - 접수: 04. 24(목) ~ 05. 11(월)
 - __[CloudBro 1주년 행사](https://ticketa.co/event/dttikon7)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: CloudBro
   - 접수: 04. 24(목) ~ 05. 12(화)
+  
 - __[현대오토에버 모빌리티 SW 스쿨 4기](https://edu.rapa.or.kr/recruitment/428)__
   - 분류: `오프라인(서울 금천구)`, `무료`, `교육`
   - 주최: 현대오토에버 / 한국전파진흥협회
