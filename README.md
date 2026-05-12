@@ -66,11 +66,6 @@
 
 <br />
 
-## `26년 04월`
-
-
-<br />
-
 ## `26년 05월`
 - __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임](https://www.meetup.com/awskrug/events/314521612/)__
   - 분류: `온라인`, `무료`, `모임`, `클라우드`
@@ -117,6 +112,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 성남시
   - 접수: 04. 20(월) ~ 05. 13(수)
+- __[딱 1시간 투자로 외주 개발 확실하게 활용하기](https://event-us.kr/devsquare/event/124335)__
+  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
+  - 주최: 데브스퀘어
+  - 접수: 05. 04(월) ~ 05. 13(수)
 - __[코드프레소 [AX 실전] : 원데이 특강 시리즈](https://luma.com/ai9yfq4w)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 코드프레소 × AXMOS
@@ -125,6 +124,14 @@
   - 분류: `오프라인`, `무료`, `대회`
   - 주최: 고용노동부
   - 일시: 03. 16(월) ~ 05. 14(목)
+- __[LG CNS AM Inspire Camp 5기](https://event-us.kr/axcamp/event/121831)__
+  - 분류: `오프라인(서울 중구)`, `유료`, `교육`
+  - 주최: LG CNS / 위랩스페이스
+  - 접수: 03. 04(수) ~ 05. 14(목)
+- __[2026 Efficient AI Offline Meetup](https://event-us.kr/squeezebits/event/124421)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
+  - 주최: 스퀴즈비츠 SqueezeBits
+  - 접수: 04. 21(화) ~ 05. 14(목)
 - __[Kprintf 2026](https://ticketa.co/event/sgiqj99g)__
   - 분류: `오프라인`, `유료`, `세미나`, `기술일반`
   - 주최: GDG on Campus Konkuk
@@ -165,6 +172,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국관광공사
   - 접수: 05. 07(목) ~ 05. 20(수)
+- __[일상을 지키는 디지털 정보보호 무료 세미나](https://fastcampus.co.kr/gysan_security_infra)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `보안`
+  - 주최: 패스트캠퍼스
+  - 접수: 05. 12(화) ~ 05. 20(수)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
@@ -177,6 +188,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 09(토) ~ 05. 26(화)
+- __[월간 해커톤 : 10분 안에 중독시켜라 - 웹 미니게임 챌린지](https://daker.ai/public/hackathons/monthly-hackathon-web-minigame-challenge)__
+  - 분류: `온라인`, `무료`, `대회`, `기술일반`
+  - 주최: DACON
+  - 접수: 05. 04(월) ~ 05. 26(화)
 - __[2026년 5월 Dot4 meetup](https://ticketa.co/event/qpye8cf5)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
   - 주최: Dot4
@@ -202,6 +217,10 @@
 <br />
 
 ## `26년 06월`
+- __[데이터야놀자 2026](https://event-us.kr/datayanolja2020/event/124270)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `데이터`, `AI`
+  - 주최: 데이터야놀자
+  - 접수: 05. 06(수) ~ 06. 02(화)
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
@@ -210,6 +229,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`, `기술일반`
   - 주최: 한국AI산업협회 / AI타임즈
   - 일시: 06. 10(수) ~ 06. 12(금)
+- __[JB금융그룹 Fin:AI Challenge](https://daker.ai/public/hackathons/jb-fin-ai-challenge)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: JB금융그룹 / 데이콘
+  - 접수: 05. 11(월) ~ 06. 12(금)
 - __[The Turing Test Hackathon 2026 — Phase 2. AI Awakening Hackathon](https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail)__
   - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: Mantle / Bybit / Byreal / BGA
@@ -218,6 +241,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: AsiaSTA
   - 접수: 04. 24(목) ~ 06. 18(목)
+- __[NextRise 2026, Seoul](https://www.nextrise.co.kr/ko)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
+  - 주최: 한국산업은행 / 한국무역협회 / 벤처기업협회 / 한국벤처캐피탈협회
+  - 일시: 06. 18(목) ~ 06. 19(금)
 
 <br />
 
