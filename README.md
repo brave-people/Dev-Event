@@ -120,6 +120,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `보안`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 09(토) ~ 05. 17(일)
+- __[멋사 클라우드 엔지니어링 7기 설명회 - AWS·DevOps 커리어 시작하기](https://www.rocketpunch.com/event/iOVlW3GlEr)__
+  - 분류: `오프라인(서울 성동구)`, `온라인`, `무료`, `세미나`, `클라우드`
+  - 주최: 내러티브 / 멋쟁이사자처럼
+  - 접수: 05. 16 ~ 05. 17(일)
 - __[Dev Korea #8 with Salmon](https://dev-korea.com/events/dev-korea-8-may-2026)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
   - 주최: Dev Korea
@@ -148,6 +152,10 @@
   - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `보안`
   - 주최: 패스트캠퍼스
   - 접수: 05. 12(화) ~ 05. 20(수)
+- __[AI Agent 개발 실전 세미나 - 나만의 AI Agent 만들기](https://www.rocketpunch.com/event/JFXFMmBVfo)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 접수: 05. 16(토) ~ 05. 20(수)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
@@ -176,14 +184,22 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 오프너디오씨
   - 일시: 05. 26(화) ~ 05. 28(목)
+- __[Codex Community 부산 미니 랄프톤 - Build with Codex Goal](https://luma.com/luuilxvp)__
+  - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
+  - 주최: Codex Ambassador
+  - 접수: 05. 05(화) ~ 05. 29(금)
+- __[Beauty x AI Builders Meetup — AI 에이전트 시대, 뷰티 서비스를 다시 상상하다](https://www.rocketpunch.com/event/wLXO4XRrXO)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: 내러티브
+  - 접수: 05. 16(토) ~ 05. 29(금)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: 내러티브
+  - 접수: 05. 16(토) ~ 05. 30(토)
 - __[2026 블록체인 & AI 해커톤](https://opendid.org/hackathon/2026/)__
   - 분류: `오프라인(서울 영등포구)`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: 한국디지털인증협회
   - 일시: 05. 01(금) ~ 05. 31(일)
-- __[Codex Community 부산 미니 랄프톤 - Build with Codex Goal](https://luma.com/luuilxvp)__
-  - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
-  - 주최: Codex Ambassador
-  - 접수: 05. 05(화) ~ 05. 29(수)
 
 
 <br />
