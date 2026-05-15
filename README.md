@@ -196,6 +196,18 @@
   - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
   - 주최: Codex Ambassador
   - 접수: 05. 05(화) ~ 05. 29(수)
+- __[맨틀 AI 서울 해커하우스 : Mantle AI Hacker House in Seoul](https://www.rocketpunch.com/event/lA16A0Ghwd)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`, `블록체인`
+  - 주최: Mantle
+  - 일시: 05. 30(토)
+- __[Beauty x AI Builders Meetup — AI 에이전트 시대, 뷰티 서비스를 다시 상상하다](https://www.rocketpunch.com/event/wLXO4XRrXO)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: 내러티브
+  - 일시: 05. 30(토)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: 내러티브
+  - 일시: 05. 31(일)
 
 
 <br />
