@@ -67,55 +67,11 @@
 <br />
 
 ## `26년 05월`
-- __[CloudBro 1주년 행사](https://ticketa.co/event/dttikon7)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: CloudBro
-  - 접수: 04. 24(목) ~ 05. 12(화)
-  
-- __[현대오토에버 모빌리티 SW 스쿨 4기](https://edu.rapa.or.kr/recruitment/428)__
-  - 분류: `오프라인(서울 금천구)`, `무료`, `교육`
-  - 주최: 현대오토에버 / 한국전파진흥협회
-  - 접수: 04. 13(월) ~ 05. 12(화)
-- __[당근 커뮤니티 라이브톡 팟캐스트](https://docs.google.com/forms/d/e/1FAIpQLSdKTbQt14-CpM7Zxp69QhnPBi62_MV1-GW3G9QmXBg_eUwIBQ/viewform)__
-  - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 당근
-  - 접수: 05. 06(수) ~ 05. 12(화)
-- __[2026 성남시 공공데이터 활용 시각화 경진대회](https://www.wevity.com/?c=find&s=1&gub=1&cidx=20&gbn=viewok&gp=1&ix=105710)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 성남시
-  - 접수: 04. 20(월) ~ 05. 13(수)
-- __[딱 1시간 투자로 외주 개발 확실하게 활용하기](https://event-us.kr/devsquare/event/124335)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: 데브스퀘어
-  - 접수: 05. 04(월) ~ 05. 13(수)
-- __[코드프레소 [AX 실전] : 원데이 특강 시리즈](https://luma.com/ai9yfq4w)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: 코드프레소 × AXMOS
-  - 일시: 05. 13(수) ~ 05. 23(토)
-- __[제5회 고용노동 공공데이터·AI 활용 공모전](https://www.2026datacontest.co.kr/)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 고용노동부
-  - 일시: 03. 16(월) ~ 05. 14(목)
-- __[LG CNS AM Inspire Camp 5기](https://event-us.kr/axcamp/event/121831)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `교육`
-  - 주최: LG CNS / 위랩스페이스
-  - 접수: 03. 04(수) ~ 05. 14(목)
-- __[2026 Efficient AI Offline Meetup](https://event-us.kr/squeezebits/event/124421)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
-  - 주최: 스퀴즈비츠 SqueezeBits
-  - 접수: 04. 21(화) ~ 05. 14(목)
-- __[Kprintf 2026](https://ticketa.co/event/sgiqj99g)__
-  - 분류: `오프라인`, `유료`, `세미나`, `기술일반`
-  - 주최: GDG on Campus Konkuk
-  - 접수: 05. 01(금) ~ 05. 15(금)
-- __[SK텔레콤 AI 세미나](https://event-us.kr/khpseminar/event/123681)__
-  - 분류: `오프라인(경기 성남시 분당)`, `무료`, `세미나`, `AI`
-  - 주최: SK텔레콤
-  - 접수: 04. 20(월) ~ 05. 15(금)
 - __[제16회 글로벌 피우다프로젝트 (한국·일본 노인돌봄 ICT솔루션 개발)](https://ictcocpiuda.imweb.me/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: ICT콤플렉스 피우다프로젝트
   - 접수: 04. 01(수) ~ 05. 17(일)
+
 - __[AWSKRUG 보안 #Security 소모임 Security Night](https://www.meetup.com/awskrug/events/314639723/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `보안`, `클라우드`
   - 주최: AWSKRUG
@@ -172,6 +128,14 @@
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: DACON
   - 접수: 05. 04(월) ~ 05. 26(화)
+- __[우먼잇츠 AX 세미나 5월 프로그램](https://seoulwomen.or.kr/sfwf/contents/sfwf-worklifebalance.do?schOpt3=care&schM=view&act=UPDATE&page=1&viewCount=10&id=31058&schBdcode&schGroupCode)__
+  - 분류: `오프라인(서울 동작구)`, `무료`, `세미나`, `AI`
+  - 주최: 서울시여성가족재단
+  - 접수: 05. 14(목) ~ 05. 26(화)
+- __[[MUG x GDG] 하루 만에 끝내는 로컬 RAG 프로토타이핑](https://www.meetup.com/mongodb-usergroup-seoul/events/314765122/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Seoul MongoDB User Group / GDG Korea
+  - 접수: 05. 16(토) ~ 05. 26(화)
 - __[2026년 5월 Dot4 meetup](https://ticketa.co/event/qpye8cf5)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
   - 주최: Dot4
@@ -209,6 +173,11 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `데이터`, `AI`
   - 주최: 데이터야놀자
   - 접수: 05. 06(수) ~ 06. 02(화)
+
+- __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국IT여성기업인협회
+  - 접수: 05. 16(토) ~ 06. 10(수)
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
@@ -241,11 +210,11 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
   - 접수: 08. 15(토) ~ 08. 17(월)
+
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
   - 일시: 08. 29(토)
-
 - __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -257,6 +226,7 @@
   - 분류: `오프라인`, `무료`, `기술일반`
   - 주최: mongodb
   - 접수: 03. 21(토) ~ 09. 01(화)
+  
 - __[제24회 임베디드SW경진대회](https://www.wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 산업통상자원부 / 임베디드SW·System산업협회
