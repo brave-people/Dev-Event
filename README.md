@@ -67,23 +67,11 @@
 <br />
 
 ## `26년 05월`
-- __[제16회 글로벌 피우다프로젝트 (한국·일본 노인돌봄 ICT솔루션 개발)](https://ictcocpiuda.imweb.me/)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: ICT콤플렉스 피우다프로젝트
-  - 접수: 04. 01(수) ~ 05. 17(일)
-
-- __[AWSKRUG 보안 #Security 소모임 Security Night](https://www.meetup.com/awskrug/events/314639723/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `보안`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 09(토) ~ 05. 17(일)
-- __[멋사 클라우드 엔지니어링 7기 설명회 - AWS·DevOps 커리어 시작하기](https://www.rocketpunch.com/event/iOVlW3GlEr)__
-  - 분류: `오프라인(서울 성동구)`, `온라인`, `무료`, `세미나`, `클라우드`
-  - 주최: 내러티브 / 멋쟁이사자처럼
-  - 접수: 05. 16 ~ 05. 17(일)
 - __[Dev Korea #8 with Salmon](https://dev-korea.com/events/dev-korea-8-may-2026)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
   - 주최: Dev Korea
   - 접수: 05. 03(일) ~ 05. 18(월)
+  
 - __[모두의 금융 AI: 에이전트부터 ICLR 2026까지](https://biz.modulabs.co.kr/event/437)__
   - 분류: `오프라인(서울 강남구)`, `무료`,`세미나`, `AI`
   - 주최: 모두의연구소
@@ -112,6 +100,14 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
   - 접수: 05. 16(토) ~ 05. 20(수)
+- __[Google Cloud Next '26 Recap Webinar with MegazoneSoft](https://www.megazonesoft.com/260521_next-26-recap-webinar/)__
+  - 분류: `온라인`, `무료`, `세미나`, `클라우드`
+  - 주최: MegazoneSoft
+  - 접수: 05. 18(월) ~ 05. 21(목)
+- __[COMMIT — 속도가 이해를 추월할 때: AI 시대의 인지 부채](https://tech.goorm.io/2605_commit/)__
+  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `기술일반`
+  - 주최: Goorm
+  - 접수: 05. 18(월) ~ 05. 22(금)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
@@ -144,6 +140,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 09(토) ~ 05. 27(수)
+- __[GitHub After Dark - Seoul](https://github.registration.goldcast.io/events/6dc10b2c-f650-48b2-b3c7-aa66937e774c)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
+  - 주최: GitHub / Microsoft Korea
+  - 접수: 05. 18(월)  ~ 05. 27(수)
 - __[GAME AiCON Seoul 2026](https://onoffmix.com/event/339468)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 오프너디오씨
@@ -169,6 +169,10 @@
 <br />
 
 ## `26년 06월`
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/314830108/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 18(월) ~ 06. 01(월)
 - __[데이터야놀자 2026](https://event-us.kr/datayanolja2020/event/124270)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `데이터`, `AI`
   - 주최: 데이터야놀자
@@ -190,6 +194,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: JB금융그룹 / 데이콘
   - 접수: 05. 11(월) ~ 06. 12(금)
+- __[(Open UP) '26년도 오픈소스 컨트리뷰션 아카데미 [참여형] 멘티 모집(~6.14)](https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 05. 12(화) ~ 06. 14(일) 23:59
 - __[The Turing Test Hackathon 2026 — Phase 2. AI Awakening Hackathon](https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail)__
   - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: Mantle / Bybit / Byreal / BGA
@@ -202,6 +210,10 @@
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: 한국산업은행 / 한국무역협회 / 벤처기업협회 / 한국벤처캐피탈협회
   - 일시: 06. 18(목) ~ 06. 19(금)
+- __[Microsoft Build //localhost:Daegu](https://ticketa.co/event/yjp015vu)__
+  - 분류: `오프라인(대구)`, `무료`, `세미나`, `기술일반`
+  - 주최: Microsoft
+  - 접수: 05. 18(월) ~ 06. 23(화)
 
 <br />
 
