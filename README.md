@@ -167,6 +167,15 @@
 
 
 <br />
+- __[AI 아지트 1기 멤버십 - 1개월 몰입형 AI 라운지](https://www.rocketpunch.com/event/ExhVJFzWmS)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `세미나`, `AI`
+  - 주최: 솔프클럽
+  - 일시: 05. 18(월) ~ 06. 12(금)
+- __[맨틀 AI 서울 해커하우스 : Mantle AI Hacker House in Seoul](https://www.rocketpunch.com/event/lA16A0Ghwd)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`, `AI`
+  - 주최: Mantle
+  - 일시: 05. 30(토)
+
 
 ## `26년 06월`
 - __[데이터야놀자 2026](https://event-us.kr/datayanolja2020/event/124270)__
@@ -232,6 +241,15 @@
   - 주최: 산업통상자원부 / 임베디드SW·System산업협회
   - 접수: 05. 06(수) ~ 09. 03(수)
 
+
+
+## `26년 07월`
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 10(금)
+
+<br />
 
 ----------------
 
