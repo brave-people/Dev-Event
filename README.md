@@ -160,13 +160,15 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
   - 주최: 내러티브
   - 접수: 05. 16(토) ~ 05. 30(토)
+- __[맨틀 AI 서울 해커하우스 : Mantle AI Hacker House in Seoul](https://www.rocketpunch.com/event/lA16A0Ghwd)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`, `AI`
+  - 주최: Mantle
+  - 접수: 05. 18(월) ~ 05. 29(금)
 - __[2026 블록체인 & AI 해커톤](https://opendid.org/hackathon/2026/)__
   - 분류: `오프라인(서울 영등포구)`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: 한국디지털인증협회
   - 일시: 05. 01(금) ~ 05. 31(일)
 
-
-<br />
 
 ## `26년 06월`
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/314830108/)__
@@ -232,6 +234,7 @@
   - 주최: 과학기술정보통신부
   - 접수: 05. 11(월) ~ 08. 31(월)
 
+<br />
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
@@ -244,6 +247,8 @@
   - 주최: 산업통상자원부 / 임베디드SW·System산업협회
   - 접수: 05. 06(수) ~ 09. 03(수)
 
+
+<br />
 
 ----------------
 
