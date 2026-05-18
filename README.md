@@ -222,6 +222,7 @@
   - 주최: 과학기술정보통신부
   - 접수: 05. 11(월) ~ 08. 31(월)
 
+<br />
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
