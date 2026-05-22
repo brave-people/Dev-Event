@@ -67,51 +67,11 @@
 <br />
 
 ## `26년 05월`
-- __[Dev Korea #8 with Salmon](https://dev-korea.com/events/dev-korea-8-may-2026)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`
-  - 주최: Dev Korea
-  - 접수: 05. 03(일) ~ 05. 18(월)
-  
-- __[모두의 금융 AI: 에이전트부터 ICLR 2026까지](https://biz.modulabs.co.kr/event/437)__
-  - 분류: `오프라인(서울 강남구)`, `무료`,`세미나`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 05. 06(수) ~ 05. 18(월)
-- __[생성형 AI 보안과 정보보호 컨퍼런스](https://cometrue.ai/index.php/con_260519/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `보안`, `AI`
-  - 주최: 컴트루테크놀로지
-  - 일시: 05. 19(화)
-- __[AWS Summit Seoul 2026](https://aws.amazon.com/ko/events/summits/seoul/)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `클라우드`
-  - 주최: AWS
-  - 접수: 04. 14(화) ~ 05. 20(수)
-- __[Seoul iOS Meetup [May 2026]](https://luma.com/ebg1nvg1)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `iOS`
-  - 주최: Seoul iOS Meetup
-  - 접수: 05. 06(수) ~ 05. 20(수)
-- __[2026 관광데이터 활용 공모전 (생성형 AI 활용 관광 프롬프톤 부문)](https://api.visitkorea.or.kr/#/cntSearchDetail?no=2)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 한국관광공사
-  - 접수: 05. 07(목) ~ 05. 20(수)
-- __[일상을 지키는 디지털 정보보호 무료 세미나](https://fastcampus.co.kr/gysan_security_infra)__
-  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `보안`
-  - 주최: 패스트캠퍼스
-  - 접수: 05. 12(화) ~ 05. 20(수)
-- __[AI Agent 개발 실전 세미나 - 나만의 AI Agent 만들기](https://www.rocketpunch.com/event/JFXFMmBVfo)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `AI`
-  - 주최: 내러티브
-  - 접수: 05. 16(토) ~ 05. 20(수)
-- __[Google Cloud Next '26 Recap Webinar with MegazoneSoft](https://www.megazonesoft.com/260521_next-26-recap-webinar/)__
-  - 분류: `온라인`, `무료`, `세미나`, `클라우드`
-  - 주최: MegazoneSoft
-  - 접수: 05. 18(월) ~ 05. 21(목)
-- __[COMMIT — 속도가 이해를 추월할 때: AI 시대의 인지 부채](https://tech.goorm.io/2605_commit/)__
-  - 분류: `오프라인(경기 성남시 판교)`, `무료`, `세미나`, `기술일반`
-  - 주최: Goorm
-  - 접수: 05. 18(월) ~ 05. 22(금)
 - __[IntelliJ IDEA Conf 2026](https://lp.jetbrains.com/intellij-idea-conf-2026/)__
   - 분류: `온라인`, `무료`, `기술일반`
   - 주최: 인텔리제이
   - 일시: 02. 06(금) ~ 05. 25(월)
+  
 - __[스크래퍼 개발자 모임 5회](https://luma.com/cf9nsaef)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: 스크래퍼 개발자 모임
@@ -144,10 +104,18 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
   - 주최: GitHub / Microsoft Korea
   - 접수: 05. 18(월)  ~ 05. 27(수)
+- __[Google Cloud Fundamentals : Core Infrastructure](https://www.megazonesoft.com/gcp_fundamentals_core_infra_20260504/)__
+  - 분류: `온라인`, `무료`, `세미나`, `클라우드`
+  - 주최: MegazoneSoft
+  - 접수: 05. 23(토) ~ 05. 27(수)
 - __[GAME AiCON Seoul 2026](https://onoffmix.com/event/339468)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 오프너디오씨
   - 일시: 05. 26(화) ~ 05. 28(목)
+- __[스프링캠프 2026](https://ticketa.co/event/tufmarzt)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
+  - 주최: KSUG
+  - 접수: 05. 23(토) ~ 05. 28(수)
 - __[Codex Community 부산 미니 랄프톤 - Build with Codex Goal](https://luma.com/luuilxvp)__
   - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
   - 주최: Codex Ambassador
@@ -168,6 +136,10 @@
   - 분류: `오프라인(서울 영등포구)`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: 한국디지털인증협회
   - 일시: 05. 01(금) ~ 05. 31(일)
+- __[천하제일 입코딩 대회](https://ticketa.co/event/z49uyhx8)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `대회`, `AI`
+  - 주최: Microsoft / GitHub
+  - 접수: 05. 23(토) ~ 05. 31(일)
 
 
 ## `26년 06월`
@@ -184,6 +156,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국IT여성기업인협회
   - 접수: 05. 16(토) ~ 06. 10(수)
+- __[AWSKRUG 구로디지털 #gudi 소모임 - 06월 11일 (목)](https://www.meetup.com/awskrug/events/314907229/)__
+  - 분류: `오프라인(서울 구로구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 05. 23(토) ~ 06. 11(목)
 - __[STK 스마트테크 코리아](https://smarttechkorea.com/Main)__
   - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
   - 주최: STK 스마트테크 코리아
