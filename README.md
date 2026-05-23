@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](/static/banner/260523_banner.jpg)
+![img](/static/banner/260523_banner_v2.jpg)
 
 </div>
 
@@ -35,7 +35,7 @@
     </a>
 </p>
 
-> 배너 클릭시 연관 링크로 이동합니다.
+> 🌐 배너 클릭시 연관 링크로 이동합니다.
 
 <hr />
 <br />
