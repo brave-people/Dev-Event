@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
-![img](https://github.com/brave-people/Dev-Event/blob/master/static/title-v3-lg.png?raw=true)
+![img](/static/banner/260523_banner.jpg)
 
 </div>
 
@@ -827,6 +827,6 @@
 
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrave-people%2FDev-Event%2F&count_bg=%232DB400&title_bg=%23443731&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.sh/github.com/brave-people/Dev-Event.svg?style=flat-square&color=2db400&labelColor=443731&label=visit)](https://hits.sh/github.com/brave-people/Dev-Event/)
 
 </div>
