@@ -185,6 +185,10 @@
   - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: Mantle / Bybit / Byreal / BGA
   - 접수: 05. 01(목) ~ 06. 15(월)
+- __[Dev Korea #9](https://dev-korea.com/events/dev-korea-9-june-2026)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 05. 23(토) ~ 06. 17(수)
 - __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: AsiaSTA
