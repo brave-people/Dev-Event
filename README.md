@@ -170,7 +170,7 @@
   - 접수: 05. 29(금) ~ 06. 29(월)
 - __[AUSG Public BIGCHAT](https://www.meetup.com/ko-KR/awskrug/events/315039832)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG AUAG
+  - 주최: AWSKRUG AUSG
   - 접수: 06. 02(화) ~ 06. 18(목)
 
 <br />
