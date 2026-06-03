@@ -66,42 +66,6 @@
 
 <br />
 
-## `26년 05월`
-- __[Codex Community 부산 미니 랄프톤 - Build with Codex Goal](https://luma.com/luuilxvp)__
-  - 분류: `오프라인(부산 북구)`, `무료`, `대회`, `AI`
-  - 주최: Codex Ambassador
-  - 접수: 05. 05(화) ~ 05. 29(금)
-  
-- __[Beauty x AI Builders Meetup — AI 에이전트 시대, 뷰티 서비스를 다시 상상하다](https://www.rocketpunch.com/event/wLXO4XRrXO)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
-  - 주최: 내러티브
-  - 접수: 05. 16(토) ~ 05. 29(금)
-- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
-  - 주최: 내러티브
-  - 접수: 05. 16(토) ~ 05. 30(토)
-- __[KUSITMS 33기 Meet-up Exhibition](https://event-us.kr/kusitsm/event/126748)__
-  - 분류: `오프라인(서울 마포구)`, `무료`, `모임`
-  - 주최: 한국대학생IT경영학회 KUSITMS
-  - 접수: 05. 24(일) ~ 05. 30(토)
-- __[맨틀 AI 서울 해커하우스 : Mantle AI Hacker House in Seoul](https://www.rocketpunch.com/event/lA16A0Ghwd)__
-  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`, `AI`
-  - 주최: Mantle
-  - 접수: 05. 18(월) ~ 05. 29(금)
-- __[2026 블록체인 & AI 해커톤](https://opendid.org/hackathon/2026/)__
-  - 분류: `오프라인(서울 영등포구)`, `무료`, `대회`, `블록체인`, `AI`
-  - 주최: 한국디지털인증협회
-  - 일시: 05. 01(금) ~ 05. 31(일)
-- __[천하제일 입코딩 대회](https://ticketa.co/event/z49uyhx8)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `대회`, `AI`
-  - 주최: Microsoft / GitHub
-  - 접수: 05. 23(토) ~ 05. 31(일)
-- __[삼성전자 협력회사 채용관 — AI 반도체 시대의 커리어 기회](https://www.rocketpunch.com/event/258y9oMGIK)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: 로켓펀치
-  - 일시: 05. 20(수) ~ 06. 30(화)
-
-
 ## `26년 06월`
 - __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/314830108/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
@@ -136,6 +100,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: JB금융그룹 / 데이콘
   - 접수: 05. 11(월) ~ 06. 12(금)
+- __[스프링캠프 2026](https://ticketa.co/event/tufmarzt)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
+  - 주최: KSUG
+  - 접수: 06. 01(월) ~ 06. 12(금)
 - __[(Open UP) '26년도 오픈소스 컨트리뷰션 아카데미 [참여형] 멘티 모집(~6.14)](https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -188,10 +156,26 @@
   - 분류: `오프라인(대구)`, `무료`, `세미나`, `기술일반`
   - 주최: Microsoft
   - 접수: 05. 18(월) ~ 06. 23(화)
+- __[AWSKRUG #magok 마곡 소모임 (6월 23일)](https://www.meetup.com/awskrug/events/315050299/)__
+  - 분류: `오프라인(서울 강서구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 01(월) ~ 06. 23(화)
+- __[DIVE 2026](https://www.dxchallenge.co.kr/dive-2026)__
+  - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
+  - 주최: 부산광역시 / 부산테크노파크
+  - 접수: 06. 01(월) ~ 06. 24(수)
 - __[제10회 디지털 헬스케어 MEDICAL HACK 2026](https://cmit.pnuh.or.kr/cmit/notice/medical-hack.do?mode=view&articleNo=76171&article.offset=0&articleLimit=10)__
   - 분류: `오프라인(부산)`, `무료`, `대회`
   - 주최: 부산대학교병원 CMIT
   - 접수: 05. 29(금) ~ 06. 29(월)
+
+<br />
+
+## `26년 07월`
+- __[2026 코드게이트 AI 스타트업 해커톤](https://eduhancom.com/codegate)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
+  - 주최: 사단법인 코드게이트보안포럼
+  - 접수: 05. 20(수) ~ 07. 08(수)
 
 <br />
 
