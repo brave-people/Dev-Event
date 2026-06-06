@@ -67,15 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/314830108/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 18(월) ~ 06. 01(월)
-  
-- __[데이터야놀자 2026](https://event-us.kr/datayanolja2020/event/124270)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `데이터`, `AI`
-  - 주최: 데이터야놀자
-  - 접수: 05. 06(수) ~ 06. 02(화)
+- __[천하제일 입코딩 대회](https://ticketa.co/event/z49uyhx8)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `대회`, `AI`
+  - 주최: Microsoft
+  - 접수: 06. 06(토) ~ 06. 08(월)
+
 - __[2026년 차세대 ICT여성리더 육성 - 협업 프로젝트 지원 사업](http://www.kibwa.org/board/board_view?code=notice&no=1194)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국IT여성기업인협회
@@ -84,6 +80,10 @@
   - 분류: `오프라인(서울 용산구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 05. 29(금) ~ 06. 10(수)
+- __[🌊 After Tech Club: vol 1. WWDC26 Recap](https://ticketa.co/event/qihrrgnk)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `기술일반`
+  - 주최: After Tech Club
+  - 접수: 06. 06(토) ~ 06. 10(수) 18:00
 - __[AWSKRUG 구로디지털 #gudi 소모임 - 06월 11일 (목)](https://www.meetup.com/awskrug/events/314907229/)__
   - 분류: `오프라인(서울 구로구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -120,6 +120,14 @@
   - 분류: `오프라인(서울 성동구)`, `유료`, `대회`, `AI`
   - 주최: AX Arena
   - 접수: 04. 30(목) ~ 06. 15(월)
+- __[Google Cloud Fundamentals: Core Infrastructure](https://www.megazonesoft.com/gcp_fundamentals_core_infra_20260616/)__
+  - 분류: `온라인`, `무료`, `세미나`, `클라우드`
+  - 주최: 메가존소프트
+  - 접수: 06. 06(토) ~ 06. 16(화)
+- __[AWSKRUG #Beginner 모임 (6월 16일)](https://www.meetup.com/awskrug/events/315099275/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 06(토) ~ 06. 16(화)
 - __[Dev Korea #9](https://dev-korea.com/events/dev-korea-9-june-2026)__
   - 분류: `오프라인(서울)`, `무료`, `모임`, `기술일반`
   - 주최: Dev Korea
@@ -148,6 +156,14 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 펜타클
   - 접수: 04. 20(월) ~ 06. 19(금)
+- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 6월 20일(토)](https://www.meetup.com/awskrug/events/315068090/)__
+  - 분류: `온라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 06(토) ~ 06. 20(토)
+- __[AWSKRUG Women In Cloud 20th: 코드보다 먼저 바꿔야 할 것 — AI 시대 말하기의 과학](https://www.meetup.com/awskrug/events/315082322/)__
+  - 분류: `온라인`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG Women In Cloud
+  - 접수: 06. 06(토) ~ 06. 20(토)
 - __[AWSKRUG 데이터 #Data 소모임 69번째 밋업 - 6월 24일(수)](https://www.meetup.com/awskrug/events/314931400/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -156,6 +172,10 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 코드트리
   - 일시: 05. 06(수) ~ 06. 22(월)
+- __[AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 6월 25일 (목)](https://www.meetup.com/awskrug/events/315069046/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 06(토) ~ 06. 22(월) 23:59
 - __[Microsoft Build //localhost:Daegu](https://ticketa.co/event/yjp015vu)__
   - 분류: `오프라인(대구)`, `무료`, `세미나`, `기술일반`
   - 주최: Microsoft
@@ -168,6 +188,14 @@
   - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
   - 접수: 06. 01(월) ~ 06. 24(수)
+- __[Microsoft Build //localhost:Seoul](https://ticketa.co/event/m8adkbnl)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
+  - 주최: Dot4 / Microsoft
+  - 접수: 06. 06(토) ~ 06. 25(목)
+- __[Let's make a programming language. AST](https://pvs-studio.com/en/webinar/30/)__
+  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
+  - 주최: PVS-Studio
+  - 접수: 06. 06(토) ~ 06. 26(금)
 - __[제10회 디지털 헬스케어 MEDICAL HACK 2026](https://cmit.pnuh.or.kr/cmit/notice/medical-hack.do?mode=view&articleNo=76171&article.offset=0&articleLimit=10)__
   - 분류: `오프라인(부산)`, `무료`, `대회`
   - 주최: 부산대학교병원 CMIT
@@ -214,6 +242,14 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 산업통상자원부 / 임베디드SW·System산업협회
   - 접수: 05. 06(수) ~ 09. 03(수)
+
+<br />
+
+## `26년 10월`
+- __[MapleStory Worlds 글로벌 개발 콘테스트 2026](https://maplestoryworlds.nexon.com/events/ko/2026globalcontest)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 넥슨코리아
+  - 접수: 06. 04(목) ~ 10. 07(수)
 
 <br />
 
@@ -339,7 +375,8 @@
             <a href="./end_event/2026/26_02.md"> 02월 </a>,
             <a href="./end_event/2026/26_03.md"> 03월 </a>,
             <a href="./end_event/2026/26_04.md"> 04월 </a>,
-            <a href="./end_event/2026/26_05.md"> 05월 </a>
+            <a href="./end_event/2026/26_05.md"> 05월 </a>,
+            <a href="./end_event/2026/26_06.md"> 06월 </a>
           </td>
         </tr>
         <tr>
