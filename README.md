@@ -206,6 +206,19 @@
   - 일시: 05. 20(수) ~ 06. 30(화)
 
 <br />
+- __[Sentient Reasoning Arena — AI 에이전트 추론 리더보드 챌린지](https://www.rocketpunch.com/event/nN9JLuRdbi)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 로켓펀치
+  - 일시: 06. 02(화) ~ 06. 30(화)
+- __[Rocketpunch at Network School — 말레이시아 한 달 살기 신청](https://www.rocketpunch.com/event/6olOYNWsOR)__
+  - 분류: `온라인`, `무료`, `세미나`, `블록체인`, `AI`
+  - 주최: 로켓펀치
+  - 일시: 06. 06(토) ~ 06. 30(화)
+- __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
+  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 주최: 테이블메이트
+  - 일시: 06. 26(금)
+
 
 ## `26년 07월`
 - __[2026 코드게이트 AI 스타트업 해커톤](https://eduhancom.com/codegate)__
@@ -214,6 +227,15 @@
   - 접수: 05. 20(수) ~ 07. 08(수)
 
 <br />
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 10(금)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 11(토)
+
 
 ## `26년 08월`
 - __[PyCon Korea 2026](https://2026.pycon.kr)__
