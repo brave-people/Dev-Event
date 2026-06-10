@@ -212,6 +212,18 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 로켓펀치
   - 일시: 05. 20(수) ~ 06. 30(화)
+- __[Sentient Reasoning Arena — AI 에이전트 추론 리더보드 챌린지](https://www.rocketpunch.com/event/nN9JLuRdbi)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 로켓펀치
+  - 일시: 06. 02(화) ~ 06. 30(화)
+- __[Rocketpunch at Network School — 말레이시아 한 달 살기 신청](https://www.rocketpunch.com/event/6olOYNWsOR)__
+  - 분류: `온라인`, `무료`, `세미나`, `블록체인`, `AI`
+  - 주최: 로켓펀치
+  - 일시: 06. 06(토) ~ 06. 30(화)
+- __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
+  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 주최: 테이블메이트
+  - 접수: 06. 10(수) ~ 06. 25(목)
 
 <br />
 
@@ -220,6 +232,11 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: 사단법인 코드게이트보안포럼
   - 접수: 05. 20(수) ~ 07. 08(수)
+  
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 접수: 06. 10(수) ~ 07. 09(목)
 - __[Unite Seoul 2026](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: Unity
