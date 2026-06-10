@@ -217,7 +217,7 @@
 - __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
   - 분류: `오프라인`, `무료`, `모임`, `AI`
   - 주최: 테이블메이트
-  - 일시: 06. 26(금)
+  - 접수: 06. 10(수) ~ 06. 25(목)
 
 
 ## `26년 07월`
@@ -230,11 +230,7 @@
 - __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
-  - 일시: 07. 10(금)
-- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
-  - 분류: `오프라인`, `무료`, `세미나`, `AI`
-  - 주최: 내러티브
-  - 일시: 07. 11(토)
+  - 접수: 06. 10(수) ~ 07. 09(목)
 
 
 ## `26년 08월`
