@@ -100,6 +100,14 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: KSUG
   - 접수: 06. 01(월) ~ 06. 12(금)
+- __[Build 2026 Recap and Hands on lab](https://event-us.kr/kaag/event/125832)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
+  - 주최: K2AI
+  - 접수: 05. 21(목) ~ 06. 12(금) 23:30
+- __[Build //localhost Seoul(Power Platform)](https://event-us.kr/powerplatform/event/126291)__
+  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
+  - 주최: 파워 플랫폼 한국 유저 그룹
+  - 접수: 05. 15(금) ~ 06. 12(금) 23:30
 - __[(Open UP) '26년도 오픈소스 컨트리뷰션 아카데미 [참여형] 멘티 모집(~6.14)](https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
@@ -144,6 +152,10 @@
   - 분류: `오프라인(서울 광진구)`, `무료`, `대회`
   - 주최: SK인텔릭스
   - 접수: 05. 26(화) ~ 06. 17(수)
+- __[JetBrains GameDev Meetup Korea 2026](https://event-us.kr/tangunsoft/event/125617)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`
+  - 주최: 단군소프트
+  - 접수: 05. 08(금) ~ 06. 17(수) 13:00
 - __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: AsiaSTA
@@ -192,6 +204,10 @@
   - 분류: `오프라인(서울 강서구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 06. 01(월) ~ 06. 23(화)
+- __[AI Agent Challenge](https://boostcamp-wm.notion.site/AI-Agent-Challenge-35ab9dd86abe809db232f9d2f5e3f521)__
+  - 분류: `온라인`, `오프라인(경기 성남시)`, `무료`, `세미나`, `AI`
+  - 주최: 네이버 커넥트재단
+  - 접수: 06. 12(금) ~ 06. 23(화)
 - __[DIVE 2026](https://www.dxchallenge.co.kr/dive-2026)__
   - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
@@ -237,6 +253,10 @@
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
   - 접수: 06. 10(수) ~ 07. 09(목)
+- __[NYPC 2026](https://new.nypc.co.kr/ko/)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 넥슨코리아
+  - 접수: 06. 04(목) ~ 07. 19(일) 22:00
 - __[Unite Seoul 2026](https://uniteseoul.co.kr/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: Unity
@@ -245,6 +265,10 @@
 <br />
 
 ## `26년 08월`
+- __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 대전정보문화산업진흥원
+  - 접수: 06. 12(금) ~ 08. 04(화)
 - __[2026 사이버 가디언즈 CMX 대회](https://cyberguardians-cmx.kr/)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부
