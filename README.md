@@ -176,6 +176,10 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
   - 주최: Dot4 / Microsoft
   - 접수: 06. 06(토) ~ 06. 25(목)
+- __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
+  - 분류: `오프라인`, `무료`, `모임`, `AI`
+  - 주최: 테이블메이트
+  - 접수: 06. 10(수) ~ 06. 25(목)
 - __[Let's make a programming language. AST](https://pvs-studio.com/en/webinar/30/)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: PVS-Studio
@@ -196,10 +200,10 @@
   - 분류: `온라인`, `무료`, `세미나`, `블록체인`, `AI`
   - 주최: 로켓펀치
   - 일시: 06. 06(토) ~ 06. 30(화)
-- __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
-  - 분류: `오프라인`, `무료`, `모임`, `AI`
-  - 주최: 테이블메이트
-  - 접수: 06. 10(수) ~ 06. 25(목)
+- __[AWS Student Community Day 2026](https://event-us.kr/asbg/event/126886)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `컨퍼런스`, `AWS`
+  - 주최: AWS Student Builder Groups(ASBG)
+  - 접수: 06. 05(금) ~ 06. 30(화)
 
 <br />
 
