@@ -200,6 +200,10 @@
 <br />
 
 ## `26년 07월`
+- __[Hugging Face Seoul Meetup](https://luma.com/xej0o2jr)__
+  - 분류: `오프라인`, `무료`, `오픈소스`, `AI`
+  - 주최: Hugging Face KREW
+  - 접수: 06. 10(금) ~ 06. 30(수)
 - __[SUSC 여름방학 교류활동 참가자 모집](https://forms.gle/Jp5or1t1tohCerdX8)__
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
