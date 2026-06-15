@@ -231,6 +231,15 @@
   - 접수: 06. 12(금) ~ 07. 21(화)
 
 <br />
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 11(토)
+- __[AXIS 2026 (Asia eXperience & Innovation Summit)](https://www.rocketpunch.com/event/T42oNQmVqq)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 한국능률협회컨설팅
+  - 일시: 07. 14(화) ~ 07. 16(목)
+
 
 ## `26년 08월`
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
