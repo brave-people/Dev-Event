@@ -67,19 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[(Open UP) '26년도 오픈소스 컨트리뷰션 아카데미 [참여형] 멘티 모집(~6.14)](https://oss.kr/pages/10/4511?page=1&pageSize=10&searchKeyword=&searchType=)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 05. 12(화) ~ 06. 14(일) 23:59
-  
-- __[DND 15기 모집](https://dnd.ac/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `동아리`
-  - 주최: DND
-  - 접수: 06. 01(월) ~ 06. 14(일) 23:59
 - __[The Turing Test Hackathon 2026 — Phase 2. AI Awakening Hackathon](https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail)__
   - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
   - 주최: Mantle / Bybit / Byreal / BGA
   - 접수: 05. 01(목) ~ 06. 15(월)
+  
 - __[제1회 기업 실전 AX Arena](https://event-us.kr/axarena/event/125135)__
   - 분류: `오프라인(서울 성동구)`, `유료`, `대회`, `AI`
   - 주최: AX Arena
@@ -221,6 +213,10 @@
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
   - 접수: 06. 10(수) ~ 07. 09(목)
+- __[[무료 Live] 비개발자 출신 기획자가 현장에서 AX를 만들고 있는 이야기](https://www.inflearn.com/challenge/free-live-a-story-of)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 인프런
+  - 접수: 06. 12(금) ~ 07. 09(목) 18:30
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
