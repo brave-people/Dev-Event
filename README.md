@@ -204,11 +204,11 @@
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
   - 접수: 06. 11(목) ~ 07. 01(수)
+  
 - __[2026 코드게이트 AI 스타트업 해커톤](https://eduhancom.com/codegate)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: 사단법인 코드게이트보안포럼
   - 접수: 05. 20(수) ~ 07. 08(수)
-  
 - __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
@@ -229,12 +229,6 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`
   - 주최: AWS / 코드트리
   - 접수: 06. 12(금) ~ 07. 21(화)
-
-<br />
-- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
-  - 분류: `오프라인`, `무료`, `세미나`, `AI`
-  - 주최: 내러티브
-  - 일시: 07. 11(토)
 - __[AXIS 2026 (Asia eXperience & Innovation Summit)](https://www.rocketpunch.com/event/T42oNQmVqq)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 한국능률협회컨설팅
