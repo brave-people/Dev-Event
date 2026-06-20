@@ -220,7 +220,7 @@
 - __[Hugging Face Seoul Meetup](https://luma.com/xej0o2jr)__
   - 분류: `오프라인`, `무료`, `오픈소스`, `AI`
   - 주최: Hugging Face KREW
-  - 일시: 07.11(토)
+  - 접수: 06. 20(토) ~ 07. 10(금)
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
