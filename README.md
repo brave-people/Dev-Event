@@ -168,11 +168,11 @@
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
   - 접수: 06. 11(목) ~ 07. 01(수)
+  
 - __[2026 코드게이트 AI 스타트업 해커톤](https://eduhancom.com/codegate)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: 사단법인 코드게이트보안포럼
   - 접수: 05. 20(수) ~ 07. 08(수)
-  
 - __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 내러티브
@@ -189,6 +189,10 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `AI`
   - 주최: 구름
   - 접수: 06. 16(화) ~ 07. 14(화)
+- __[Hugging Face Seoul Meetup](https://luma.com/xej0o2jr)__
+  - 분류: `오프라인`, `무료`, `오픈소스`, `AI`
+  - 주최: Hugging Face KREW
+  - 접수: 06. 20(토) ~ 07. 10(금)
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
@@ -201,8 +205,11 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`
   - 주최: AWS / 코드트리
   - 접수: 06. 12(금) ~ 07. 21(화)
+- __[AXIS 2026 (Asia eXperience & Innovation Summit)](https://www.rocketpunch.com/event/T42oNQmVqq)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 한국능률협회컨설팅
+  - 일시: 07. 14(화) ~ 07. 16(목)
 
-<br />
 
 ## `26년 08월`
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
