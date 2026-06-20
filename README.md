@@ -67,51 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[The Turing Test Hackathon 2026 — Phase 2. AI Awakening Hackathon](https://dorahacks.io/hackathon/mantleturingtesthackathon2026/detail)__
-  - 분류: `온라인`, `무료`, `대회`, `블록체인`, `AI`
-  - 주최: Mantle / Bybit / Byreal / BGA
-  - 접수: 05. 01(목) ~ 06. 15(월)
-  
-- __[제1회 기업 실전 AX Arena](https://event-us.kr/axarena/event/125135)__
-  - 분류: `오프라인(서울 성동구)`, `유료`, `대회`, `AI`
-  - 주최: AX Arena
-  - 접수: 04. 30(목) ~ 06. 15(월)
-- __[AWSKRUG 데브옵스 #DevOps 소모임 23번째 밋업 - 6월 17일 (수)](https://www.meetup.com/awskrug/events/312616848/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 08(월) ~ 06. 15(월)
-- __[Google Cloud Fundamentals: Core Infrastructure](https://www.megazonesoft.com/gcp_fundamentals_core_infra_20260616/)__
-  - 분류: `온라인`, `무료`, `세미나`, `클라우드`
-  - 주최: 메가존소프트
-  - 접수: 06. 06(토) ~ 06. 16(화)
-- __[AWSKRUG #Beginner 모임 (6월 16일)](https://www.meetup.com/awskrug/events/315099275/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 06(토) ~ 06. 16(화)
-- __[기업 AI를 위한 온톨로지 기반 지식체계 설계·활용 실전 워크숍](https://conference.etnews.com/conf_info.html?uid=494)__
-  - 분류: `오프라인(서울 서초구)`, `유료`, `세미나`, `AI`
-  - 주최: 전자신문인터넷
-  - 접수: 06. 09(화) ~ 06. 17(수)
-- __[Dev Korea #9](https://dev-korea.com/events/dev-korea-9-june-2026)__
-  - 분류: `오프라인(서울)`, `무료`, `모임`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 05. 23(토) ~ 06. 17(수)
-- __[AWSKRUG #AIEngineering 소모임 - 터미널부터 엣지까지 (6월 22일)](https://www.meetup.com/awskrug/events/315009322/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 29(금) ~ 06. 17(수)
-- __[2nd 나무엑스 Hackathon](https://event-us.kr/skintellixhackathon/event/125194)__
-  - 분류: `오프라인(서울 광진구)`, `무료`, `대회`
-  - 주최: SK인텔릭스
-  - 접수: 05. 26(화) ~ 06. 17(수)
-- __[JetBrains GameDev Meetup Korea 2026](https://event-us.kr/tangunsoft/event/125617)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`
-  - 주최: 단군소프트
-  - 접수: 05. 08(금) ~ 06. 17(수) 13:00
 - __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: AsiaSTA
   - 접수: 04. 24(목) ~ 06. 18(목)
+
 - __[AUSG Public BIGCHAT](https://www.meetup.com/ko-KR/awskrug/events/315039832)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG AUSG
@@ -160,6 +120,10 @@
   - 분류: `온라인`, `오프라인(경기 성남시)`, `무료`, `세미나`, `AI`
   - 주최: 네이버 커넥트재단
   - 접수: 06. 12(금) ~ 06. 23(화)
+- __[2026 공공 AI 박람회 및 제9회 전자정부의 날 기념식](https://kpaix.kr/page/Invitation)__
+  - 분류: `오프라인(경기 고양시)`, `무료`, `세미나`, `AI`
+  - 주최: 행정안전부
+  - 일시: 06. 23(화) ~ 06. 24(수)
 - __[DIVE 2026](https://www.dxchallenge.co.kr/dive-2026)__
   - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
@@ -217,6 +181,14 @@
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 인프런
   - 접수: 06. 12(금) ~ 07. 09(목) 18:30
+- __[AWSKRUG 서버리스 #Serverless 소모임 (7월 14일)](https://www.meetup.com/awskrug/events/315222389/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 18(목) ~ 07. 10(금) 19:00
+- __[구름 AI 캠퍼스 Prism](https://aicampus.goorm.io/)__
+  - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `AI`
+  - 주최: 구름
+  - 접수: 06. 16(화) ~ 07. 14(화)
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
