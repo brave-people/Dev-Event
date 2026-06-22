@@ -166,6 +166,11 @@
   - 접수: 06. 05(금) ~ 06. 30(화)
 
 <br />
+- __[2026 ZER01NE Company Builder 현대자동차 사내스타트업 사외멤버 모집](https://www.rocketpunch.com/event/dvXPY9sqsS)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: ZER01NE CB 2026
+  - 일시: 06. 15(월) ~ 06. 25(목)
+
 
 ## `26년 07월`
 - __[SUSC 여름방학 교류활동 참가자 모집](https://forms.gle/Jp5or1t1tohCerdX8)__
@@ -213,6 +218,18 @@
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 한국능률협회컨설팅
   - 일시: 07. 14(화) ~ 07. 16(목)
+- __[(사업가X인플루언서) 프라이빗 네트워킹 '더 라운드 테이블'에 초대합니다.](https://www.rocketpunch.com/event/75g8nGpTMy)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: 러닝스푼즈 / synex.ai
+  - 일시: 07. 04(토)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 11(토)
+- __[2026 코드게이트 AI 스타트업 해커톤](https://www.rocketpunch.com/event/k39h586AOs)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`, `보안`
+  - 주최: 한컴이노스트림
+  - 일시: 07. 21(화) ~ 07. 23(목)
 
 
 ## `26년 08월`
