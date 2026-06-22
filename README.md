@@ -67,43 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[2026 AsiaSTA QA Conference](https://ticketa.co/event/smu6uxm5)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
-  - 주최: AsiaSTA
-  - 접수: 04. 24(목) ~ 06. 18(목)
-
-- __[AUSG Public BIGCHAT](https://www.meetup.com/ko-KR/awskrug/events/315039832)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG AUSG
-  - 접수: 06. 02(화) ~ 06. 18(목)
-- __[NextRise 2026, Seoul](https://www.nextrise.co.kr/ko)__
-  - 분류: `오프라인(서울 코엑스)`, `무료`, `기술일반`
-  - 주최: 한국산업은행 / 한국무역협회 / 벤처기업협회 / 한국벤처캐피탈협회
-  - 일시: 06. 18(목) ~ 06. 19(금)
-- __[2026년 산림 공공데이터·AI 활용 창업경진대회](https://event-us.kr/Pentacle/event/124637)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 펜타클
-  - 접수: 04. 20(월) ~ 06. 19(금)
-- __[2026 블록체인 밋업데이 (9회차)](https://event-us.kr/2026bcmd/event/124375)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `모임`, `블록체인`
-  - 주최: 한국인터넷진흥원
-  - 접수: 05. 18(월) ~ 06. 19(금) 18:00
-- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 6월 20일(토)](https://www.meetup.com/awskrug/events/315068090/)__
-  - 분류: `온라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 06(토) ~ 06. 20(토)
-- __[AWSKRUG Women In Cloud 20th: 코드보다 먼저 바꿔야 할 것 — AI 시대 말하기의 과학](https://www.meetup.com/awskrug/events/315082322/)__
-  - 분류: `온라인`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG Women In Cloud
-  - 접수: 06. 06(토) ~ 06. 20(토)
-- __[AWSKRUG 데이터 #Data 소모임 69번째 밋업 - 6월 24일(수)](https://www.meetup.com/awskrug/events/314931400/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 05. 27(수) ~ 06. 21(일)
 - __[코드트리 청약 통장 챌린지 (무료 이용 이벤트)](https://www.codetree.ai/ko/no-free-lunch-2026)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 코드트리
   - 일시: 05. 06(수) ~ 06. 22(월)
+
 - __[AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 6월 25일 (목)](https://www.meetup.com/awskrug/events/315069046/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -136,6 +104,10 @@
   - 분류: `오프라인`, `무료`, `모임`, `AI`
   - 주최: 테이블메이트
   - 접수: 06. 10(수) ~ 06. 25(목)
+- __[AWSKRUG Women In Cloud 21th(온라인) | 주니어 여성엔지니어의 AWS SHE Builders&ABW 후기](https://www.meetup.com/awskrug/events/315352674/)__
+  - 분류: `온라인`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG Women In Cloud
+  - 접수: 06. 22(월) ~ 06. 25(목)
 - __[Let's make a programming language. AST](https://pvs-studio.com/en/webinar/30/)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: PVS-Studio
@@ -172,7 +144,18 @@
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
   - 접수: 06. 11(목) ~ 07. 01(수)
-  
+- __[AI팩토리 역량 강화 세미나 2026](https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 제조AI 솔루션 개발 지원센터 (KETI·KAIST)
+  - 일시: 07. 02(목)
+- __[기상·기후 AI 해커톤 경진대회 2026](https://weatherhackathon.kr/)__
+  - 분류: `온라인`, `오프라인(충남 천안)`, `무료`, `대회`, `AI`
+  - 주최: 기상청 기상기후인재개발원
+  - 접수: 06. 08(월) ~ 07. 03(금) 18:00
+- __[ICML Happy Hour 🍺🍕 Liner x VESSL AI: Research to Scale](https://luma.com/2js3bisk)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Liner / VESSL AI
+  - 접수: 06. 22(월) ~ 07. 08(수)
 - __[2026 코드게이트 AI 스타트업 해커톤](https://eduhancom.com/codegate)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: 사단법인 코드게이트보안포럼
@@ -197,6 +180,10 @@
   - 분류: `오프라인`, `무료`, `오픈소스`, `AI`
   - 주최: Hugging Face KREW
   - 접수: 06. 20(토) ~ 07. 10(금)
+- __[2026 오픈소스 개발자대회](https://www.oss.kr/pages/2)__
+  - 분류: `온라인`, `무료`, `대회`, `기술일반`
+  - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국오픈소스협회
+  - 접수: 06. 15(월) ~ 07. 17(금)
 - __[NYPC 2026](https://new.nypc.co.kr/ko/)__
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
