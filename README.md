@@ -143,7 +143,7 @@
 - __[TSBM - TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
   - 분류: `오프라인(서울 서초구)`, `유료`, `모임`, `기술일반`
   - 주최: TSBM
-  - 일시: 06. 26(금)
+  - 일시: 06. 26(금) 19:30 ~ 22:00
 - __[제10회 디지털 헬스케어 MEDICAL HACK 2026](https://cmit.pnuh.or.kr/cmit/notice/medical-hack.do?mode=view&articleNo=76171&article.offset=0&articleLimit=10)__
   - 분류: `오프라인(부산)`, `무료`, `대회`
   - 주최: 부산대학교병원 CMIT
