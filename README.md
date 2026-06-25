@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[코드트리 청약 통장 챌린지 (무료 이용 이벤트)](https://www.codetree.ai/ko/no-free-lunch-2026)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 코드트리
-  - 일시: 05. 06(수) ~ 06. 22(월)
-
-- __[AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 6월 25일 (목)](https://www.meetup.com/awskrug/events/315069046/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 06(토) ~ 06. 22(월) 23:59
-- __[Microsoft Build //localhost:Daegu](https://ticketa.co/event/yjp015vu)__
-  - 분류: `오프라인(대구)`, `무료`, `세미나`, `기술일반`
-  - 주최: Microsoft
-  - 접수: 05. 18(월) ~ 06. 23(화)
-- __[AWSKRUG #magok 마곡 소모임 (6월 23일)](https://www.meetup.com/awskrug/events/315050299/)__
-  - 분류: `오프라인(서울 강서구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 06. 01(월) ~ 06. 23(화)
-- __[AI Agent Challenge](https://boostcamp-wm.notion.site/AI-Agent-Challenge-35ab9dd86abe809db232f9d2f5e3f521)__
-  - 분류: `온라인`, `오프라인(경기 성남시)`, `무료`, `세미나`, `AI`
-  - 주최: 네이버 커넥트재단
-  - 접수: 06. 12(금) ~ 06. 23(화)
-- __[2026 공공 AI 박람회 및 제9회 전자정부의 날 기념식](https://kpaix.kr/page/Invitation)__
-  - 분류: `오프라인(경기 고양시)`, `무료`, `세미나`, `AI`
-  - 주최: 행정안전부
-  - 일시: 06. 23(화) ~ 06. 24(수)
-- __[DIVE 2026](https://www.dxchallenge.co.kr/dive-2026)__
-  - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
-  - 주최: 부산광역시 / 부산테크노파크
-  - 접수: 06. 01(월) ~ 06. 24(수)
 - __[Microsoft Build //localhost:Seoul](https://ticketa.co/event/m8adkbnl)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
   - 주최: Dot4 / Microsoft
   - 접수: 06. 06(토) ~ 06. 25(목)
+  
 - __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
   - 분류: `오프라인`, `무료`, `모임`, `AI`
   - 주최: 테이블메이트
@@ -144,6 +116,10 @@
   - 분류: `온라인`, `오프라인(제주)`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원
   - 접수: 06. 10(수) ~ 06. 30(화) 14:00
+- __[월간 AX: 6월](https://event-us.kr/FKH3nHkjmPGh/event/127632)__
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `세미나`, `AI`
+  - 주최: 한빛미디어
+  - 접수: 06. 05(금) ~ 06. 30(화) 16:00
 
 <br />
 
@@ -152,6 +128,10 @@
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
   - 접수: 06. 11(목) ~ 07. 01(수)
+- __[AWSKRUG 플랫폼엔지니어링 모임 - 7월 2일(목)](https://www.meetup.com/awskrug/events/315380582/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 06. 25(목) ~ 07. 01(수)
 - __[AI팩토리 역량 강화 세미나 2026](https://xai.kaist.ac.kr/AI-Factory-Capability-Seminar/2026/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 제조AI 솔루션 개발 지원센터 (KETI·KAIST)
@@ -160,6 +140,10 @@
   - 분류: `온라인`, `오프라인(충남 천안)`, `무료`, `대회`, `AI`
   - 주최: 기상청 기상기후인재개발원
   - 접수: 06. 08(월) ~ 07. 03(금) 18:00
+- __[FOSS for All 7월 Unconference](https://ticketa.co/event/zbj22eqq)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `오픈소스`
+  - 주최: FOSS for All
+  - 접수: 06. 25(목) ~ 07. 05(일)
 - __[ICML Happy Hour 🍺🍕 Liner x VESSL AI: Research to Scale](https://luma.com/2js3bisk)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: Liner / VESSL AI
@@ -176,6 +160,10 @@
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 인프런
   - 접수: 06. 12(금) ~ 07. 09(목) 18:30
+- __[AX 인재전쟁 2026](https://hackathon.jocodingax.ai/)__
+  - 분류: `온라인`, `오프라인(서울)`, `무료`, `대회`, `AI`
+  - 주최: 조코딩AX파트너스
+  - 접수: 06. 23(화) ~ 07. 10(금)
 - __[[현업 개발자들의 지식 공유 & 네트워킹 컨퍼런스] SIPE 다섯 번째 사담콘](https://event-us.kr/sipe/event/128290)__
   - 분류: `오프라인(서울 마포)`, `유료`, `기술일반`
   - 주최: SIPE
@@ -231,6 +219,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
   - 접수: 08. 15(토) ~ 08. 17(월)
+- __[AI Summit Seoul & Expo 2026](https://www.aisummit.co.kr/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
+  - 주최: AI Summit
+  - 일시: 08. 19(수) ~ 08. 21(금)
 
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
