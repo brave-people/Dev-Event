@@ -67,39 +67,11 @@
 <br />
 
 ## `26년 06월`
-- __[Microsoft Build //localhost:Seoul](https://ticketa.co/event/m8adkbnl)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
-  - 주최: Dot4 / Microsoft
-  - 접수: 06. 06(토) ~ 06. 25(목)
-  
-- __[[매일경제X네이버 해피빈] 솔트룩스 이경일 대표님과 프라이빗 저녁식사](https://www.rocketpunch.com/event/fDKPI1TUwR)__
-  - 분류: `오프라인`, `무료`, `모임`, `AI`
-  - 주최: 테이블메이트
-  - 접수: 06. 10(수) ~ 06. 25(목)
-- __[AWSKRUG Women In Cloud 21th(온라인) | 주니어 여성엔지니어의 AWS SHE Builders&ABW 후기](https://www.meetup.com/awskrug/events/315352674/)__
-  - 분류: `온라인`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG Women In Cloud
-  - 접수: 06. 22(월) ~ 06. 25(목)
-- __[Let's make a programming language. AST](https://pvs-studio.com/en/webinar/30/)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: PVS-Studio
-  - 접수: 06. 06(토) ~ 06. 26(금)
-- __[TSBM - TypeScript Backend Meetup](https://github.com/ts-backend-meetup-ts/meetup)__
-  - 분류: `오프라인(서울 서초구)`, `유료`, `모임`, `기술일반`
-  - 주최: TSBM
-  - 일시: 06. 26(금) 19:30 ~ 22:00
-- __[제10회 디지털 헬스케어 MEDICAL HACK 2026](https://cmit.pnuh.or.kr/cmit/notice/medical-hack.do?mode=view&articleNo=76171&article.offset=0&articleLimit=10)__
-  - 분류: `오프라인(부산)`, `무료`, `대회`
-  - 주최: 부산대학교병원 CMIT
-  - 접수: 05. 29(금) ~ 06. 29(월)
-- __[모두의 CVPR: Faculty와 함께하는 연구 트렌드와 논문](https://biz.modulabs.co.kr/event/480)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: 모두의연구소
-  - 접수: 06. 17(수) ~ 06. 29(월)
 - __[삼성전자 협력회사 채용관 — AI 반도체 시대의 커리어 기회](https://www.rocketpunch.com/event/258y9oMGIK)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 로켓펀치
   - 일시: 05. 20(수) ~ 06. 30(화)
+  
 - __[Sentient Reasoning Arena — AI 에이전트 추론 리더보드 챌린지](https://www.rocketpunch.com/event/nN9JLuRdbi)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 로켓펀치
@@ -180,6 +152,10 @@
   - 분류: `오프라인`, `무료`, `오픈소스`, `AI`
   - 주최: Hugging Face KREW
   - 접수: 06. 20(토) ~ 07. 10(금)
+- __[One-Punch 랄프톤 in Busan](https://www.allforyoung.com/posts/83827)__
+  - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
+  - 주최: 부산정보산업진흥원
+  - 접수: 06. 29(월) ~ 07. 14(화) 17:00
 - __[2026 오픈소스 개발자대회](https://www.oss.kr/pages/2)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: 과학기술정보통신부 / 정보통신산업진흥원 / 한국오픈소스협회
@@ -200,6 +176,10 @@
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 한국능률협회컨설팅
   - 일시: 07. 14(화) ~ 07. 16(목)
+- __[맞다AI가 7월 밋업 - 하네스 엔지니어링의 모든 것](https://ticketa.co/event/j6qfe3id)__
+  - 분류: `오프라인(대구)`, `무료`, `모임`, `AI`
+  - 주최: 맞다AI가
+  - 접수: 06. 29(월) ~ 07. 22(수) 19:00
 
 
 ## `26년 08월`
@@ -215,6 +195,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
   - 주최: 한국정보보호산업협회 (KISIA)
   - 접수: 06. 01(월) ~ 08. 05(수)
+- __[자율주행모빌리티산업전(AME) 2026 컨퍼런스](https://am-expo.co.kr/sub-5-1)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
+  - 주최: 코엑스(COEX)
+  - 접수: 06. 22(월) ~ 08. 14(금)
 - __[PyCon Korea 2026](https://2026.pycon.kr)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
@@ -245,6 +229,14 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 산업통상자원부 / 임베디드SW·System산업협회
   - 접수: 05. 06(수) ~ 09. 03(수)
+- __[2026년 제5회 QA 코리아 컨퍼런스](https://ticketa.co/event/26hfzu4p)__
+  - 분류: `온라인`, `유료`, `세미나`, `기술일반`
+  - 주최: QA Korea
+  - 접수: 07. 01(수) ~ 09. 05(토)
+- __[2026 Big Data 활용 대회](https://www.allforyoung.com/posts/83834)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 부산광역시 / 부산테크노파크
+  - 접수: 06. 25(목) ~ 09. 18(금) 17:00
 
 <br />
 
