@@ -66,40 +66,12 @@
 
 <br />
 
-## `26년 06월`
-- __[삼성전자 협력회사 채용관 — AI 반도체 시대의 커리어 기회](https://www.rocketpunch.com/event/258y9oMGIK)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: 로켓펀치
-  - 일시: 05. 20(수) ~ 06. 30(화)
-  
-- __[Sentient Reasoning Arena — AI 에이전트 추론 리더보드 챌린지](https://www.rocketpunch.com/event/nN9JLuRdbi)__
-  - 분류: `오프라인`, `무료`, `세미나`, `AI`
-  - 주최: 로켓펀치
-  - 일시: 06. 02(화) ~ 06. 30(화)
-- __[Rocketpunch at Network School — 말레이시아 한 달 살기 신청](https://www.rocketpunch.com/event/6olOYNWsOR)__
-  - 분류: `온라인`, `무료`, `세미나`, `블록체인`, `AI`
-  - 주최: 로켓펀치
-  - 일시: 06. 06(토) ~ 06. 30(화)
-- __[AWS Student Community Day 2026](https://event-us.kr/asbg/event/126886)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `컨퍼런스`, `AWS`
-  - 주최: AWS Student Builder Groups(ASBG)
-  - 접수: 06. 05(금) ~ 06. 30(화)
-- __[2026 호남IS해커톤](https://honam-is-hackathon.com/)__
-  - 분류: `온라인`, `오프라인(제주)`, `무료`, `대회`, `AI`
-  - 주최: 과학기술정보통신부 / 정보통신산업진흥원
-  - 접수: 06. 10(수) ~ 06. 30(화) 14:00
-- __[월간 AX: 6월](https://event-us.kr/FKH3nHkjmPGh/event/127632)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `세미나`, `AI`
-  - 주최: 한빛미디어
-  - 접수: 06. 05(금) ~ 06. 30(화) 16:00
-
-<br />
-
 ## `26년 07월`
 - __[SUSC 여름방학 교류활동 참가자 모집](https://forms.gle/Jp5or1t1tohCerdX8)__
   - 분류: `온라인`, `무료`, `스터디`
   - 주최: SUSC
   - 접수: 06. 11(목) ~ 07. 01(수)
+  
 - __[AWSKRUG 플랫폼엔지니어링 모임 - 7월 2일(목)](https://www.meetup.com/awskrug/events/315380582/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -116,6 +88,10 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `오픈소스`
   - 주최: FOSS for All
   - 접수: 06. 25(목) ~ 07. 05(일)
+- __[크래프톤 정글 하반기 모집 (SW-AI Lab 13기 · Game Lab 6기 · Game Tech Lab 4기)](https://jungle.krafton.com/schedule/all)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `교육`
+  - 주최: 크래프톤 정글
+  - 접수: 06. 08(월) ~ 07. 05(일)
 - __[ICML Happy Hour 🍺🍕 Liner x VESSL AI: Research to Scale](https://luma.com/2js3bisk)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: Liner / VESSL AI
@@ -132,6 +108,10 @@
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 인프런
   - 접수: 06. 12(금) ~ 07. 09(목) 18:30
+- __[Qwen Meetup Seoul #3 - Agent AI](https://luma.com/pd7uf8d8)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Qwen (알리바바 클라우드)
+  - 접수: 07. 01(수) ~ 07. 09(목)
 - __[AX 인재전쟁 2026](https://hackathon.jocodingax.ai/)__
   - 분류: `온라인`, `오프라인(서울)`, `무료`, `대회`, `AI`
   - 주최: 조코딩AX파트너스
@@ -180,9 +160,17 @@
   - 분류: `오프라인(대구)`, `무료`, `모임`, `AI`
   - 주최: 맞다AI가
   - 접수: 06. 29(월) ~ 07. 22(수) 19:00
+- __[AI 챌린지 해](https://connect.or.kr/ai-hae)__
+  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
+  - 주최: 네이버 커넥트재단
+  - 접수: 06. 08(월) ~ 07. 24(금)
 
 
 ## `26년 08월`
+- __[[KB국민은행] 제8회 FUTURE FINANCE A.I. CHALLENGE](https://www.allforyoung.com/posts/83891)__
+  - 분류: `온라인`, `오프라인(서울 서대문구)`, `무료`, `대회`, `AI`
+  - 주최: KB국민은행
+  - 접수: 07. 06(월) ~ 08. 03(월) 16:00
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대전정보문화산업진흥원
@@ -371,7 +359,8 @@
             <a href="./end_event/2026/26_03.md"> 03월 </a>,
             <a href="./end_event/2026/26_04.md"> 04월 </a>,
             <a href="./end_event/2026/26_05.md"> 05월 </a>,
-            <a href="./end_event/2026/26_06.md"> 06월 </a>
+            <a href="./end_event/2026/26_06.md"> 06월 </a>,
+            <a href="./end_event/2026/26_07.md"> 07월 </a>
           </td>
         </tr>
         <tr>
