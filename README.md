@@ -156,6 +156,30 @@
   - 분류: `오프라인(서울 마포구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: CloudBro Community
   - 접수: 07. 03(금) ~ 07. 25(토) 10:00
+- __[Open AGI Builders Day at ICML](https://www.rocketpunch.com/event/Wei7HtwOby)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 로켓펀치
+  - 일시: 07. 09(목)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 07. 11(토)
+- __[성과 내는 에이전트 운영 및 평가 시스템 구축 전략 및 사례 ](https://www.rocketpunch.com/event/LAG9BenD0o)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 모자이크넷
+  - 일시: 07. 14(화)
+- __[한국 기업을 위한 미국 B2B 진출 전략: Clayboy Labs와 함께하는 실전 GTM 세션](https://www.rocketpunch.com/event/hetXL5z83d)__
+  - 분류: `오프라인`, `무료`, `세미나`, `기술일반`
+  - 주최: 로켓펀치
+  - 일시: 07. 17(금)
+- __[하네스 부터 자동화 루프 설계까지 에이전틱 엔지니어링 핸즈온 : AI 주도 개발 A-Z](https://www.rocketpunch.com/event/lROAEQtTgE)__
+  - 분류: `오프라인`, `무료`, `세미나`, `블록체인`, `AI`
+  - 주최: 모자이크넷
+  - 일시: 07. 20(월)
+- __[2026 코드게이트 AI 스타트업 해커톤](https://www.rocketpunch.com/event/k39h586AOs)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`, `보안`
+  - 주최: 한컴이노스트림
+  - 일시: 07. 21(화) ~ 07. 23(목)
 
 
 ## `26년 08월`
@@ -225,6 +249,15 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
   - 접수: 06. 04(목) ~ 10. 07(수)
+
+<br />
+
+
+## `26년 06월`
+- __[Rocketpunch Creator Challenge: Verified, Not Anonymous](https://www.rocketpunch.com/event/sZFPyU44FC)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: 로켓펀치
+  - 일시: 06. 26(금) ~ 07. 31(금)
 
 <br />
 
