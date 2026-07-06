@@ -140,6 +140,10 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`
   - 주최: AWS / 코드트리
   - 접수: 06. 12(금) ~ 07. 21(화)
+- __[Dot4 7월 meetup](https://ticketa.co/event/fsdukhi4)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dot4
+  - 접수: 07. 06(월) ~ 07. 21(화) 12:08
 - __[AXIS 2026 (Asia eXperience & Innovation Summit)](https://www.rocketpunch.com/event/T42oNQmVqq)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 한국능률협회컨설팅
