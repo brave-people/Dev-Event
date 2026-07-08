@@ -191,6 +191,7 @@
   - 분류: `온라인`, `오프라인(서울 서대문구)`, `무료`, `대회`, `AI`
   - 주최: KB국민은행
   - 접수: 07. 06(월) ~ 08. 03(월) 16:00
+  
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대전정보문화산업진흥원
@@ -219,7 +220,10 @@
   - 분류: `오프라인(대구)`, `유료`, `대회`, `AI`
   - 주최: 맞다AI가
   - 접수: 07. 07(화) ~ 08. 22(토) 09:00
-
+- __[제5회 너드콘 - AI와 현업노하우](https://nerd.aviss.kr/archive/5)__
+  - 분류: `오프라인(서울)`, `유료`, `세미나`, `AI`
+  - 주최: 너드콘
+  - 접수: 07. 07(화) ~ 08. 22(토) 14:00
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
