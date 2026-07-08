@@ -67,6 +67,11 @@
 <br />
 
 ## `26년 07월`
+- __[NIPA 지원사업 건설기계 데이터 기반 AI 융합 전문가 무료교육 모집](https://crowdacademyofc.imweb.me/ai-expert)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `교육`, `AI`
+  - 주최: 크라우드아카데미
+  - 접수: 06. 29(월) 14:00 ~ 07. 19(일)
+    
 - __[ICML Happy Hour 🍺🍕 Liner x VESSL AI: Research to Scale](https://luma.com/2js3bisk)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: Liner / VESSL AI
