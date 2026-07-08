@@ -1851,6 +1851,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "crowdacademy-manager",
+      "name": "crowdacademy-manager",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301247116?v=4",
+      "profile": "https://github.com/crowdacademy-manager",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
