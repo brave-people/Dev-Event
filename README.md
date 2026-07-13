@@ -80,6 +80,10 @@
   - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
   - 주최: 부산정보산업진흥원
   - 접수: 06. 29(월) ~ 07. 14(화) 17:00
+- __[AWSKRUG 서버리스 #Serverless 소모임 (7월 14일)](https://www.meetup.com/awskrug/events/315222389/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 13(월) ~ 07. 14(화) 19:00
 - __[[무료 라이브] 백엔드는 하나다 — Node.js와 .NET Core를 동시에 만들어봅니다](https://okky.kr/articles/1560073)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 이창현코딩연구소
@@ -92,6 +96,10 @@
   - 분류: `오프라인(서울 성동구)`, `무료`, `대회`, `AI`
   - 주최: 크래프톤 / 올리브영
   - 접수: 07. 08(수) ~ 07. 17(금)
+- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 7월 18일(토)](https://www.meetup.com/awskrug/events/315649011/)__
+  - 분류: `온라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 13(월) ~ 07. 18(토) 10:00
 - __[NIPA 지원사업 건설기계 데이터 기반 AI 융합 전문가 무료교육 모집](https://crowdacademyofc.imweb.me/ai-expert)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `교육`, `AI`
   - 주최: 크라우드아카데미
@@ -132,6 +140,14 @@
   - 분류: `오프라인(서울 강서구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 11(토) ~ 07. 21(화) 19:00
+- __[AWSKRUG 보안 #Security 소모임 /w Beaver Dam - 7월 21일 (화)](https://www.meetup.com/awskrug/events/315639045/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 13(월) ~ 07. 21(화) 19:00
+- __[시니어와 AI 기술, 우리의 미래를 보다](https://event-us.kr/nccf/event/129466)__
+  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`
+  - 주최: NC문화재단
+  - 접수: 06. 29(월) ~ 07. 21(화) 21:00
 - __[AXIS 2026 (Asia eXperience & Innovation Summit)](https://www.rocketpunch.com/event/T42oNQmVqq)__
   - 분류: `오프라인`, `무료`, `세미나`, `AI`
   - 주최: 한국능률협회컨설팅
@@ -144,6 +160,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 11(토) ~ 07. 22(수) 19:00
+- __[Let's make a programming language. Variables](https://pvs-studio.com/en/webinar/31/)__
+  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
+  - 주최: PVS-Studio
+  - 일시: 07. 23(목) 21:00
 - __[AWSKRUG 데브옵스 #DevOps 소모임 24번째 밋업 (7월 23일)](https://www.meetup.com/awskrug/events/315596174/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -152,6 +172,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 11(토) ~ 07. 23(목) 19:00
+- __[Apple 디벨로퍼 아카데미 - 아이디어 플레이그라운드 @ 올리브영N 성수](https://developeracademy.postech.ac.kr/event/ideaplayground)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `기술일반`
+  - 주최: Apple Developer Academy @ POSTECH
+  - 일시: 07. 24(금)
 - __[AI 챌린지 해](https://connect.or.kr/ai-hae)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 네이버 커넥트재단
@@ -164,6 +188,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: GDG Korea Android
   - 접수: 07. 09(목) ~ 07. 25(토)
+- __[K-DEVCON x C++ Korea - DEVCORE | THE LEGEND : Beyond the code](https://ticketa.co/event/f5dgdhms)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
+  - 주최: K-DEVCON / C++ Korea
+  - 접수: 07. 13(월) ~ 07. 29(화) 09:00
 - __[AWSKRUG #부산 지역 소모임 7월 30일 (목) With BIPA](https://www.meetup.com/awskrug/events/315581938/)__
   - 분류: `오프라인(부산)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -192,6 +220,14 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `기술일반`
   - 주최: 한국정보보호산업협회 (KISIA)
   - 접수: 06. 01(월) ~ 08. 05(수)
+- __[제4회 인공지능(AI) 신약개발 경진대회 (4th JUMP AI) 예선](https://daker.ai/public/hackathons/4th-jump-ai-agentic-drug-challenge)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 보건복지부 / 한국보건산업진흥원 / 고려대학교의과대학 / 한국제약바이오협회
+  - 접수: 06. 29(월) ~ 08. 07(금) 16:00
+- __[지그재그 세미나 5회 - 온톨로지로 만나는 휴먼 네트워킹](https://event-us.kr/zigzag/event/129917)__
+  - 분류: `오프라인(서울 성동구)`, `유료`, `세미나`, `AI`
+  - 주최: 지그재그
+  - 접수: 07. 06(월) ~ 08. 07(금) 23:00
 - __[NAN 2026 - NHN Game × AI Hackathon](https://nan2026.nhn.com/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `대회`, `AI`
   - 주최: NHN
@@ -241,6 +277,10 @@
   - 분류: `온라인`, `유료`, `세미나`, `기술일반`
   - 주최: QA Korea
   - 접수: 07. 01(수) ~ 09. 05(토)
+- __[2026 금융 AI Challenge](https://daker.ai/public/hackathons/2026-finance-ai-challenge)__
+  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
+  - 주최: 금융보안원
+  - 접수: 07. 13(월) ~ 09. 07(월) 10:00
 - __[2026 Big Data 활용 대회](https://www.allforyoung.com/posts/83834)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
