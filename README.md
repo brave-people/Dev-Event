@@ -175,11 +175,15 @@
 
 
 ## `26년 08월`
+- __[K-DEVCON x C++ Korea - DEVCORE | THE LEGEND : Beyond the code](https://ticketa.co/event/f5dgdhms)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `세미나`, `기술일반`
+  - 주최: K-DEVCON / C++ KOREA
+  - 접수: 07. 13(월) ~ 07. 29(수) 09:00
+  
 - __[[KB국민은행] 제8회 FUTURE FINANCE A.I. CHALLENGE](https://www.allforyoung.com/posts/83891)__
   - 분류: `온라인`, `오프라인(서울 서대문구)`, `무료`, `대회`, `AI`
   - 주최: KB국민은행
   - 접수: 07. 06(월) ~ 08. 03(월) 16:00
-  
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대전정보문화산업진흥원
