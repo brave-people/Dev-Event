@@ -37,6 +37,8 @@
 
 > 🌐 배너 클릭시 연관 링크로 이동합니다.
 
+> 📱 **매주 놓치기 쉬운 마감 임박 행사, 인스타에서 카드로 먼저 챙기세요** → [**@dev.event.official 팔로우**](https://www.instagram.com/dev.event.official/)
+
 <hr />
 <br />
 
@@ -116,10 +118,6 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`
   - 주최: AWS / 코드트리
   - 접수: 06. 12(금) ~ 07. 21(화)
-- __[Dot4 7월 meetup](https://ticketa.co/event/fsdukhi4)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
-  - 주최: Dot4
-  - 접수: 07. 06(월) ~ 07. 21(화) 12:08
 - __[우먼잇츠 AX 세미나 7월 프로그램 : AI시대의 문제 해결 역량](https://www.seoulwomen.or.kr/sfwf/contents/sfwf-event.do?schM=view&id=31236)__
   - 분류: `오프라인(서울 동작구)`, `무료`, `세미나`, `AI`
   - 주최: 서울시여성가족재단
@@ -132,6 +130,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 13(월) ~ 07. 21(화) 19:00
+- __[Kickoff & Tech Session: Google Cloud X Solana AI Agentic Hackathon](https://luma.com/gcp-solana-tech-session)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`, `블록체인`
+  - 주최: Four Pillars / Google Cloud / Solana
+  - 접수: 07. 20(월) ~ 07. 21(화) 19:00
 - __[시니어와 AI 기술, 우리의 미래를 보다](https://event-us.kr/nccf/event/129466)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`
   - 주최: NC문화재단
@@ -168,6 +170,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 네이버 커넥트재단
   - 접수: 06. 08(월) ~ 07. 24(금)
+- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 7월 25일(토)](https://www.meetup.com/awskrug/events/315744192/)__
+  - 분류: `온라인`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 07. 20(월) ~ 07. 25(토) 10:00
 - __[AX 시대를 위한 AWS AI 활용 전략: 서버리스 아키텍처와 AI 보안 실전 가이드](https://ticketa.co/event/4abv3eo7)__
   - 분류: `오프라인(서울 마포구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: CloudBro Community
@@ -184,6 +190,10 @@
   - 분류: `온라인`, `오프라인(충북 청주시)`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부 / 세종테크노파크
   - 접수: 07. 16(목) ~ 07. 26(일) 13:15
+- __[Dot4 7월 meetup](https://ticketa.co/event/fsdukhi4)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dot4
+  - 접수: 07. 06(월) ~ 07. 28(화) 13:30
 - __[K-DEVCON x C++ Korea - DEVCORE | THE LEGEND : Beyond the code](https://ticketa.co/event/f5dgdhms)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: K-DEVCON / C++ Korea
@@ -236,6 +246,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: KT
   - 접수: 07. 07(화) ~ 08. 10(월)
+- __[멀티 에이전트 워크샵 with GitHub Copilot](https://ticketa.co/event/c99wxzdg)__
+  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`, `클라우드`
+  - 주최: Microsoft 커뮤니티 이벤트
+  - 접수: 07. 17(금) ~ 08. 14(금) 10:00
 - __[자율주행모빌리티산업전(AME) 2026 컨퍼런스](https://am-expo.co.kr/sub-5-1)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
   - 주최: 코엑스(COEX)
