@@ -130,10 +130,6 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 13(월) ~ 07. 21(화) 19:00
-- __[Kickoff & Tech Session: Google Cloud X Solana AI Agentic Hackathon](https://luma.com/gcp-solana-tech-session)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`, `블록체인`
-  - 주최: Four Pillars / Google Cloud / Solana
-  - 접수: 07. 20(월) ~ 07. 21(화) 19:00
 - __[시니어와 AI 기술, 우리의 미래를 보다](https://event-us.kr/nccf/event/129466)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`
   - 주최: NC문화재단
@@ -173,7 +169,7 @@
 - __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 7월 25일(토)](https://www.meetup.com/awskrug/events/315744192/)__
   - 분류: `온라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
-  - 접수: 07. 20(월) ~ 07. 25(토) 10:00
+  - 접수: 07. 22(수) ~ 07. 25(토) 10:00
 - __[AX 시대를 위한 AWS AI 활용 전략: 서버리스 아키텍처와 AI 보안 실전 가이드](https://ticketa.co/event/4abv3eo7)__
   - 분류: `오프라인(서울 마포구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: CloudBro Community
@@ -210,6 +206,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 07(화) ~ 07. 30(목) 19:00
+- __[GIWA GASOK — Web3 빌더 성장 지원 프로그램](https://giwa.io/gasok)__
+  - 분류: `온라인`, `무료`, `대회`, `블록체인`
+  - 주최: GIWA
+  - 접수: 07. 22(수) ~ 07. 31(금)
 
 
 ## `26년 08월`
@@ -274,6 +274,10 @@
   - 분류: `오프라인(서울)`, `유료`, `세미나`, `AI`
   - 주최: 너드콘
   - 접수: 07. 07(화) ~ 08. 22(토) 14:00
+- __[Snowflake World Tour 2026 – 서울](https://www.snowflake.com/ko/world-tour/seoul/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `클라우드`
+  - 주최: Snowflake
+  - 접수: 07. 22(수) ~ 08. 27(목) 08:00
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
