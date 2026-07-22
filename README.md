@@ -210,6 +210,18 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 07(화) ~ 07. 30(목) 19:00
+- __[[Google Cloud X Solana] AI 에이전틱 해커톤 (~8/3)](https://www.rocketpunch.com/event/76I5aVzEu8)__
+  - 분류: `오프라인`, `무료`, `대회`, `블록체인`, `AI`, `클라우드`
+  - 주최: 슈퍼팀 코리아
+  - 일시: 07. 17(금) ~ 08. 03(월)
+- __[[KTCS 2026 CX(챗봇) 아카데미] 5일만에 완성하는 AI 업무 비서](https://www.rocketpunch.com/event/Xfb3Trfazc)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 알파코
+  - 일시: 07. 20(월) ~ 07. 24(금)
+- __[2026 코드게이트 AI 스타트업 해커톤](https://www.rocketpunch.com/event/k39h586AOs)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`, `보안`
+  - 주최: 한컴이노스트림
+  - 일시: 07. 21(화) ~ 07. 23(목)
 
 
 ## `26년 08월`
@@ -284,6 +296,23 @@
   - 접수: 05. 11(월) ~ 08. 31(월)
 
 <br />
+- __[｢알파코｣ SK hynix 하인슈타인 AI챌린지 & 플레이]](https://www.rocketpunch.com/event/8jgtC773CZ)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 알파코
+  - 일시: 08. 01(토)
+- __[2026 AI SPARK in Yonsei](https://www.rocketpunch.com/event/wzOlIQ62n1)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: CREAI+IT
+  - 일시: 08. 01(토)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 08. 01(토)
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 08. 12(수)
+
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
@@ -318,9 +347,23 @@
 
 <br />
 
+
+## `26년 06월`
+- __[Rocketpunch Creator Challenge: Verified, Not Anonymous](https://www.rocketpunch.com/event/sZFPyU44FC)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: 로켓펀치
+  - 일시: 06. 26(금) ~ 07. 31(금)
+
+<br />
+
 ----------------
 
 <br />
+- __[월드스마트시티엑스포(WSCE) 2026 Awards 참여 기업 공모](https://www.rocketpunch.com/event/IAB6vRha2Y)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: WSCE 2026 운영사무국
+  - 일시: 06. 29(월) ~ 07. 24(금)
+
 
 ## 지난 행사 기록
 
