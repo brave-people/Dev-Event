@@ -202,8 +202,8 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: Snowflake
   - 접수: 07. 22(수) ~ 08. 27(목) 08:00
-- __[UbuCon Korea X MiniDebConf Korea 2026](https://ticketa.co/event/7fm5o8fo)__
-  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `기술일반`
+- __[UbuCon Korea X MiniDebConf Korea 2026](https://2026.ubuntu-kr.org/ko/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
   - 일시: 08. 29(토)
 - __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
