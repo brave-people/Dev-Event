@@ -186,6 +186,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
   - 접수: 08. 15(토) ~ 08. 17(월)
+- __[Qwen Meetup Seoul #4 (Dev Korea #13)](https://dev-korea.com/events/dev-korea-13-august-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Dev Korea / Qwen
+  - 접수: 07. 27(월) ~ 08. 19(수)
 - __[2026 금융권 공동채용 박람회](https://financejobfair.co.kr/info/info_01)__
   - 분류: `오프라인(서울 중구)`, `무료`, `세미나`
   - 주최: 은행연합회 등 금융권 82개사
