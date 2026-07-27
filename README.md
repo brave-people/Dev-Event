@@ -170,6 +170,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: KT
   - 접수: 07. 07(화) ~ 08. 10(월)
+- __[Dev Korea #12](https://dev-korea.com/events/dev-korea-12-august-2026)__
+  - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 07. 20(월) ~ 08. 11(화)
 - __[멀티 에이전트 워크샵 with GitHub Copilot](https://ticketa.co/event/c99wxzdg)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: Microsoft 커뮤니티 이벤트
