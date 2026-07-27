@@ -172,7 +172,7 @@
 - **[Dev Korea #12](https://dev-korea.com/events/dev-korea-12-august-2026)**
   - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
   - 주최: Dev Korea
-  - 접수: 07. 20(월) ~ 08. 11(화) 19:15
+  - 접수: 07. 20(월) ~ 08. 11(화)
 - **[멀티 에이전트 워크샵 with GitHub Copilot](https://ticketa.co/event/c99wxzdg)**
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -188,7 +188,7 @@
 - **[Qwen Meetup Seoul #4 (Dev Korea #13)](https://dev-korea.com/events/dev-korea-13-august-2026)**
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: Dev Korea / Qwen
-  - 접수: 07. 27(월) ~ 08. 19(수) 19:15
+  - 접수: 07. 27(월) ~ 08. 19(수)
 - **[2026 금융권 공동채용 박람회](https://financejobfair.co.kr/info/info_01)**
   - 분류: `오프라인(서울 중구)`, `무료`, `세미나`
   - 주최: 은행연합회 등 금융권 82개사
