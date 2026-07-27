@@ -126,6 +126,10 @@
   - 분류: `온라인`, `무료`, `대회`, `블록체인`
   - 주최: GIWA
   - 접수: 07. 22(수) ~ 07. 31(금)
+- __[코드프레소 [AX 실전] : 비개발자 AI 입문 5기](https://www.rocketpunch.com/event/y6tbqnew0e)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 코드프레소 / WomenInVibeCoding
+  - 일시: 07. 25(토) ~ 08. 01(토)
 
 
 ## `26년 08월`
@@ -212,6 +216,19 @@
   - 접수: 05. 11(월) ~ 08. 31(월)
 
 <br />
+- __[｢알파코｣ SK hynix 하인슈타인 AI챌린지 & 플레이]](https://www.rocketpunch.com/event/8jgtC773CZ)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 알파코
+  - 일시: 08. 01(토)
+- __[OpenAI Codex Builders Meetup — OpenClaw · Hermes 실전 활용](https://www.rocketpunch.com/event/MOwYYHZ1a6)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 08. 01(토)
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 08. 12(수)
+
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
@@ -243,6 +260,15 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
   - 접수: 06. 04(목) ~ 10. 07(수)
+
+<br />
+
+
+## `26년 06월`
+- __[Rocketpunch Creator Challenge: Verified, Not Anonymous](https://www.rocketpunch.com/event/sZFPyU44FC)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: 로켓펀치
+  - 일시: 06. 26(금) ~ 07. 31(금)
 
 <br />
 
