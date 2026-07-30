@@ -98,14 +98,22 @@
 
 ## `26년 08월`
 - __[2026 AI SPARK in Yonsei](https://www.rocketpunch.com/event/wzOlIQ62n1)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
   - 주최: CREAI+IT
   - 일시: 08. 01(토)
   
+- __[코드프레소 [AX 실전] : 비개발자 AI 입문 5기](https://www.rocketpunch.com/event/y6tbqnew0e)__
+  - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 코드프레소 / WomenInVibeCoding
+  - 일시: 07. 25(토) ~ 08. 01(토)
 - __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 1일(토)](https://www.meetup.com/awskrug/events/315828955/)__
   - 분류: `온라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 07. 28(화) ~ 08. 01(토) 10:00
+- __[Snowflake CoCo CLI Hackathon 2026](https://hack2skill.com/event/cococlihack/)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`, `클라우드`
+  - 주최: Snowflake / Hack2skill
+  - 접수: 06. 15(월) ~ 08. 02(일)
 - __[[Google Cloud X Solana] AI 에이전틱 해커톤](https://www.rocketpunch.com/event/76I5aVzEu8)__
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`, `AI`, `블록체인`, `클라우드`
   - 주최: 슈퍼팀 코리아
