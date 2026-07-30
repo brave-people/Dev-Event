@@ -101,6 +101,7 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: CREAI+IT
   - 일시: 08. 01(토)
+  
 - __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 1일(토)](https://www.meetup.com/awskrug/events/315828955/)__
   - 분류: `온라인`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
@@ -113,7 +114,6 @@
   - 분류: `온라인`, `오프라인(서울 서대문구)`, `무료`, `대회`, `AI`
   - 주최: KB국민은행
   - 접수: 07. 06(월) ~ 08. 03(월) 16:00
-  
 - __[2026년 물류데이터·AI 활용 및 분석 아이디어 공모전](https://www.dicia.or.kr/sub.do?menuIdx=MENU_000000000000056&contentSubMode=view&nttIdx=6qE90w62B1miq4AigeY%2bKyYhx%2fXypYchsFAqnyPCFFs%3d)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대전정보문화산업진흥원
@@ -146,6 +146,10 @@
   - 분류: `오프라인`, `무료`, `교육`, `AI`
   - 주최: KT
   - 접수: 07. 07(화) ~ 08. 10(월)
+- __[Dev Korea #12](https://dev-korea.com/events/dev-korea-12-august-2026)__
+  - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 07. 20(월) ~ 08. 11(화)
 - __[멀티 에이전트 워크샵 with GitHub Copilot](https://ticketa.co/event/c99wxzdg)__
   - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`, `클라우드`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -166,6 +170,10 @@
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
   - 접수: 08. 15(토) ~ 08. 17(월)
+- __[Qwen Meetup Seoul #4 (Dev Korea #13)](https://dev-korea.com/events/dev-korea-13-august-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Dev Korea / Qwen
+  - 접수: 07. 27(월) ~ 08. 19(수)
 - __[[NIPA] 2026년도 SaaS 전환지원센터 제6회 세미나 - AI SaaS 도입, 어떻게 활용하고 통제할 것인가?](https://kcloud.or.kr/board/read.php?M2_IDX=25869&B_IDX=178743)__
   - 분류: `오프라인(대구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: 정보통신산업진흥원(NIPA) / SaaS 전환지원센터
