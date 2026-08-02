@@ -160,7 +160,7 @@
   - 접수: 07. 27(월) ~ 08. 19(수)
 - __[Let's make a programming language. Functions](https://pvs-studio.com/en/webinar/32/)__
   - 분류: `온라인`, `무료`, `기술일반`
-  - 주최: 은행연합회 등 금융권 82개사
+  - 주최: pvs studio
   - 접수: 08. 04(화) ~ 08. 19(수)
 - __[2026 금융권 공동채용 박람회](https://financejobfair.co.kr/info/info_01)__
   - 분류: `오프라인(서울 중구)`, `무료`, `세미나`
