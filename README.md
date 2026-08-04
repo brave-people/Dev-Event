@@ -114,6 +114,10 @@
   - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
   - 주최: Dev Korea
   - 접수: 07. 20(월) ~ 08. 11(화)
+- __[2026 사이버공격방어대회 (CCE)](https://cce.cstec.kr/)__
+  - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`, `기술일반`
+  - 주최: 국가정보원 / 국가보안기술연구소
+  - 접수: 07. 24(금) ~ 08. 12(수) 23:59
 - __[AWSKRUG #AIEngineering 소모임 - OpenClaw on AWS Workshop [8월 20일]](https://www.meetup.com/awskrug/events/315786451/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
   - 주최: AWSKRUG
@@ -231,6 +235,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 금융보안원
   - 접수: 07. 13(월) ~ 09. 07(월) 10:00
+- __[JNPMEDI Tech Meetup 2026](https://tech-meetup.jnpmedi.com/2026)__
+  - 분류: `오프라인(인천)`, `무료`, `세미나`, `AI`
+  - 주최: 제이앤피메디
+  - 접수: 08. 05(수) ~ 09. 11(금)
 - __[2026 Big Data 활용 대회](https://www.allforyoung.com/posts/83834)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
@@ -451,6 +459,7 @@
 | 프로그래머스 데브코스 | [Homepage](https://school.programmers.co.kr/learn/KDT) |
 | 카카오테크 부트캠프 | [Homepage](https://ktb.goorm.io/) |
 | 코드트리(Codetree) | [homepage](https://www.codetree.ai/ko/trail-info?utm_source=github&utm_medium=devevent) |
+| SKALA | [homepage](https://www.2026skala.co.kr/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
