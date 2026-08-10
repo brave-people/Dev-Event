@@ -212,6 +212,19 @@
   - 접수: 05. 11(월) ~ 08. 31(월)
 
 <br />
+- __[SpaceX 밋업: Starlink와 xAI까지 함께 보는 우주 인프라의 미래](https://www.rocketpunch.com/event/evx8Yo8jus)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 내러티브
+  - 일시: 08. 12(수)
+- __[Open AGI 빌더스 데이 at KDD](https://www.rocketpunch.com/event/8A2KPAjh3O)__
+  - 분류: `오프라인`, `무료`, `모임`, `블록체인`, `AI`
+  - 주최: Sentient Labs
+  - 일시: 08. 13(목)
+- __[[용인시산업진흥원] 2026년 용인 오픈이노베이션 교류회 3회차(바이오·헬스케어)](https://www.rocketpunch.com/event/dorjqKAbk8)__
+  - 분류: `오프라인`, `무료`, `세미나`, `AI`
+  - 주최: 주식회사 알파브라더스
+  - 일시: 08. 19(수)
+
 
 ## `26년 09월`
 - __[MongoDB .local Seoul](https://www.mongodb.com/ko-kr/events/mongodb-local/seoul)__
