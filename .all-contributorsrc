@@ -1860,6 +1860,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "seplease",
+      "name": "Sieun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80445374?v=4",
+      "profile": "https://github.com/seplease",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
