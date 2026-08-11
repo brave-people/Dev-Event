@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-206-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-207-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -856,6 +856,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jwaminju"><img src="https://avatars.githubusercontent.com/u/49024958?v=4?s=100" width="100px;" alt="wony617"/><br /><sub><b>wony617</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Jwaminju" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://mabyoungg.tistory.com"><img src="https://avatars.githubusercontent.com/u/131260371?v=4?s=100" width="100px;" alt="mabyoungg"/><br /><sub><b>mabyoungg</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mabyoungg" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/crowdacademy-manager"><img src="https://avatars.githubusercontent.com/u/301247116?v=4?s=100" width="100px;" alt="crowdacademy-manager"/><br /><sub><b>crowdacademy-manager</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=crowdacademy-manager" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/seplease"><img src="https://avatars.githubusercontent.com/u/80445374?v=4?s=100" width="100px;" alt="Sieun Kim"/><br /><sub><b>Sieun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seplease" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
