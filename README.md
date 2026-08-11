@@ -210,6 +210,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
   - 주최: Grafana & Friends Seoul
   - 접수: 08. 03(월) ~ 08. 30(일) 13:00
+- __[AUSGCON 2026](https://2026.ausg.me/)__
+  - `오프라인(서울)`, `유료`, `컨퍼런스`, `클라우드`
+  - 주최: AUSG
+  - 접수: 08. 05(수) ~ 08. 30(일)
 - __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
