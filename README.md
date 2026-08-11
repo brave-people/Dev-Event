@@ -86,6 +86,10 @@
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`, `기술일반`
   - 주최: 국가정보원 / 국가보안기술연구소
   - 접수: 07. 24(금) ~ 08. 12(수) 23:59
+- __[Open AGI 빌더스 데이 at KDD](https://www.rocketpunch.com/event/8A2KPAjh3O)__
+  - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
+  - 주최: Sentient Labs
+  - 일시: 08. 13(목)
 - __[x402 on XRPL: AI Builders Night Korea](https://luma.com/r5zuc03f)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`, `블록체인`
   - 주최: t54 Labs / Catalyze / XRPL Korea
@@ -214,6 +218,10 @@
   - `오프라인(서울)`, `유료`, `컨퍼런스`, `클라우드`
   - 주최: AUSG
   - 접수: 08. 05(수) ~ 08. 30(일)
+- __[AUSGCON 2026 CHALLENGE: Dive into Tech, Jump into Future](https://2026.ausg.me/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `클라우드`
+  - 주최: AUSG / AWSKRUG
+  - 접수: 08. 05(수) 09:00 ~ 08. 30(일) 23:30
 - __[2026 공공기관 AI 혁신 챌린지 (Gov-AI Innovation 2026)](https://aichallenge4all.or.kr/competitions/public-ai)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
