@@ -309,7 +309,7 @@
               <a href="./end_event/2021/21_09.md"> 09월 </a>,
               <a href="./end_event/2021/21_10.md"> 10월 </a>,
               <a href="./end_event/2021/21_11.md"> 11월 </a>,
-              <a href="./end_event2021/21_12.md"> 12월 </a>
+              <a href="./end_event/2021/21_12.md"> 12월 </a>
             </td>
         </tr>
         <tr>
@@ -413,7 +413,7 @@
 | 이름 | 활동                                            | 링크 |
 |------------|-----------------------------------------------|-----------|
 | DDD | 개발자와 디자이너가 함께하는 사이드 프로젝트                      | [facebook](https://www.facebook.com/dddstudy/), [Notion](https://www.notion.so/dddset/DDD-7b73ca41b67c4658b292a4662581ee01)  |
-| 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
+| 한이음 | 대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/business/ict/mainOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리                              | [teamnexters.com](http://teamnexters.com/) |
 | YAPP | 대학생 연합 기업형 IT 동아리                             | [yapp.co.kr](http://yapp.co.kr/), [instagram](https://www.instagram.com/about.yapp/) |
 | Mash-Up | 성장의 즐거움을 아는 친구들                               | [mash-up.kr](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
@@ -421,10 +421,10 @@
 | DND | 개발자와 디자이너라면 누구나 참여할 수 있는 IT 비영리단체                    | [dnd.ac](https://dnd.ac/) |
 | SOPT | 대학생 연합 IT벤처 창업 동아리                            | [sopt.org](https://www.sopt.org/) |
 | 멋쟁이사자처럼 | 대학생 연합 동아리                                    | [likelion.net](https://likelion.net/), [facebook](https://www.facebook.com/likelion.net/) |
-| Google Developer Student <br /> Clubs Korea | Google Developers 에서 후원하는 대학생 개발자 동아리         | [DSC](https://developers.google.com/community/dsc), [DSC Korea](https://sites.google.com/view/dsckr/home), [facebook](https://www.facebook.com/dsckorea) |
+| GDG on Campus Korea <br /> (구 GDSC Korea) | Google Developers 에서 후원하는 대학생 개발자 동아리         | [GDG on Campus](https://sites.google.com/view/gdeveloperskorea/gdg-on-campus) |
 | 디프만 | 디자이너와 프로그래머가 만났을 때                            | [depromeet.com](https://www.depromeet.com/) |
 | 프로그라피 | 세상에 필요한 IT서비스를 만드는 모임                         | [공식 홈페이지](http://prography.org/), [facebook](https://www.facebook.com/thePrography/)|
-| CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://www.ceos.or.kr/) |
+| CEOS | 신촌 연합 IT 창업 동아리                               | [공식 홈페이지](https://ceos-sinchon.com/) |
 | Central MakeUs Challenge(CMC) | 수익형 앱 런칭 동아리                                  | [공식 홈페이지](https://cmc.makeus.in/), [instagram](https://www.instagram.com/makeus_challenge/) |
 | University MakeUs Challenge(UMC) | 대학교 연합 앱런칭 동아리                                | [공식 홈페이지](https://umc.makeus.in/), [instagram](https://www.instagram.com/uni_makeus_challenge/) |
 | XREAL | 세계 최고의 메타버스 학회, XREAL                          | [공식 홈페이지](https://www.xreal.info/), [instagram](https://www.instagram.com/xreal_snu/) |
@@ -435,7 +435,6 @@
 | BOAZ | 국내 최초 빅데이터 동아리 |[공식 홈페이지](https://www.bigdataboaz.com/), [Instagram](https://www.instagram.com/boaz_bigdata/)|
 | SUSC | 대학연합개발자동아리 | [공식 홈페이지](https://www.susc.kr/), [Instagram](https://www.instagram.com/susc_kr/), [Youtube](https://www.youtube.com/@SUSCkr) |
 | ADA | 소프트웨어마이스터고 IT연합동아리 | [Instagram](https://www.instagram.com/gbsw_ada/) |
-| R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 | ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 | KUSITMS | 비전을 가지고 성장하는 한국대학생 IT경영학회                      | [공식 홈페이지](https://www.kusitms.com/), [instagram](https://www.instagram.com/kusitms_official/)  |
@@ -453,7 +452,6 @@
 | CCCR 아카데미 | [Homepage](https://www.cccr-edu.or.kr/main/index.jsp) |
 | 인공지능혁신학교 AIFFEL  | [Homepage](https://aiffel.io/) |
 | 엘리스 | [Homepage](https://elice.io/) |
-| SW사관학교 정글(카이스트) | [Homepage](https://swjungle.net/) |
 | Apple Developer Academy @ POSTECH |[Homepage](https://developeracademy.postech.ac.kr/)|
 | 삼성 청년 SW 아카데미(SSAFY) | [Homepage](https://www.ssafy.com/) |
 | 크래프톤 정글 | [Homepage](https://jungle.krafton.com/) |
@@ -462,7 +460,6 @@
 | 42 GYEONGSAN | [Homepage](https://42gyeongsan.kr/) |
 | 카카오 테크 캠퍼스 | [Homepage](https://www.kakaotechcampus.com/user/index.do/) |
 | 메타버스 아카데미 | [Homepage](https://mtvs.kr) |
-| 모두의 연구소: 풀잎스쿨 | [Homepage](https://modulabs.co.kr/apply-flip/) |
 | 우아한테크코스 | [Homepage](https://woowacourse.github.io) |
 | 우아한테크캠프 | [Homepage](https://techblog.woowahan.com/?s=우아한테크캠프) |
 | Kernel360 | [Homepage](https://kernel360.co.kr/) |
@@ -495,7 +492,7 @@
 | IT인프라 엔지니어 그룹 | [facebook](https://www.facebook.com/groups/InfraEngineer/) |
 | GDG DevFest Seoul | [facebook](https://www.facebook.com/devfest.seoul.2019/) |
 | OSS 개발자 포럼 | [facebook](https://www.facebook.com/groups/ossdevforum) |
-| 오픈 인프라 | [oidc.co.kr](http://oidc.co.kr/) |
+| 오픈 인프라 | [openinfra-kr.org](https://openinfra-kr.org/) |
 | SK 개발자 모임 | [thub.sk.com](https://thub.sk.com/) |
 | FinOps Korea | [facebook](https://www.facebook.com/groups/finops.community1) |
 | 스사모(한국 스파크 사용자 모임) | [facebook](https://www.facebook.com/groups/sparkkoreauser/) |
@@ -514,7 +511,7 @@
 | 게임 서버 개발자 모임 | [facebook](https://www.facebook.com/groups/207844736374114/) |
 | Kubernetes Korea | [facebook](https://www.facebook.com/groups/k8skr/) |
 | PostgreSQL Korea | [facebook](https://www.facebook.com/groups/postgres.kr), [github](https://github.com/PostgreSQL-Korea) |
-| 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/), [homepage](http://www.lug.or.kr/home/) |
+| 한국 리눅스 사용자 그룹 | [facebook](https://www.facebook.com/groups/korelnxuser/) |
 | Korea Elasticsearch User Group | [facebook](https://www.facebook.com/groups/elasticsearch.kr/), [github](https://github.com/eskrug) |
 | Kotlin Korea | [facebook](https://www.facebook.com/groups/kotlinkr/), [homepage](http://kotlin.kr/) |
 | 구글 Flutter 한국 사용자 그룹 | [facebook](https://www.facebook.com/groups/flutterkorea/) |
@@ -526,7 +523,7 @@
 | 남궁성의 코드초보 스터디 (Java,C) | [homepage](https://cafe.naver.com/javachobostudy) |
 | 우분투 한국 커뮤니티 | [homepage](https://ubuntu-kr.org), [facebook](https://www.facebook.com/groups/ubuntu.ko) |
 | 안드로이드개발 | [facebook](https://www.facebook.com/groups/androidcode/) |
-| 닷넷데브 | [homepage](https://www.dotnetconf.kr/history) |
+| 닷넷데브 | [homepage](https://dotnetdev.kr/) |
 | GraphQL Korea | [facebook](https://www.facebook.com/groups/graphql.kr) |
 | AGI KR | [facebook](https://www.facebook.com/groups/agikr) |
 | Google Study Jams in Korea | [facebook](https://www.facebook.com/groups/studyjamkorea/) |
@@ -535,10 +532,9 @@
 | 스위프트 코딩클럽 | [discord](https://discord.com/invite/w4T2zgvbPv) |
 | Kubernetes Korea Group | [facebook](https://www.facebook.com/groups/k8skr/?locale=ko_KR) |
 | NLP Korea | [facebook](https://www.facebook.com/groups/ainlp/?locale=ko_KR) |
-| 음성 오픈데이터셋 아카이브 SODA | [notion](https://soda.oopy.io/) |
 | 리눅스 커널 스터디 그룹 iamroot | [homepage](http://www.iamroot.org/xe/) |
 | Flutter Seoul | [discord](https://www.flutter-seoul.com) |
-| AI Link | [homepage](https://ailink.oopy.io/), [채팅방](https://open.kakao.com/o/g60UZDQf) |
+| AI Link | [채팅방](https://open.kakao.com/o/g60UZDQf) |
 | 걸스인텍 버클업 | [채팅방](https://open.kakao.com/o/gIbidm9d) |
 | AsyncSwift | [discord](https://discord.gg/VeERbm3VKC), [homepage](https://asyncswift.org/) |
 | C++ Korea | [discord](https://discord.gg/87SNegGZue), [facebook](https://fb.com/groups/cppkorea/), [Github](https://github.com/CppKorea) |
@@ -631,7 +627,7 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt="Zetta (hogyun.yu)"/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/chengxxi"><img src="https://avatars.githubusercontent.com/u/71359467?v=4?s=100" width="100px;" alt="Seunghee Han"/><br /><sub><b>Seunghee Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chengxxi" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt="Suzie Oh"/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ohsuz"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt="Suzie Oh"/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ydh0213"><img src="https://avatars.githubusercontent.com/u/8025481?v=4?s=100" width="100px;" alt="Daehyun Yoon"/><br /><sub><b>Daehyun Yoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ydh0213" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/skmn3"><img src="https://avatars.githubusercontent.com/u/81291090?v=4?s=100" width="100px;" alt="Sangjin"/><br /><sub><b>Sangjin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=skmn3" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bangu4.tistory.com/"><img src="https://avatars.githubusercontent.com/u/26866859?v=4?s=100" width="100px;" alt="Bang Jihoon"/><br /><sub><b>Bang Jihoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=bangbangu4" title="Code">💻</a></td>
@@ -689,7 +685,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jessi68"><img src="https://avatars.githubusercontent.com/u/47855517?v=4?s=100" width="100px;" alt="jessi68"/><br /><sub><b>jessi68</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jessi68" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://hyesungoh.xyz"><img src="https://avatars.githubusercontent.com/u/26461307?v=4?s=100" width="100px;" alt="hyesung oh"/><br /><sub><b>hyesung oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyesungoh" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://velog.io/@hojin9622"><img src="https://avatars.githubusercontent.com/u/57439651?v=4?s=100" width="100px;" alt="이호진"/><br /><sub><b>이호진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=HoJin9622" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://about.mele.kr"><img src="https://avatars.githubusercontent.com/u/76844285?v=4?s=100" width="100px;" alt="Me1e"/><br /><sub><b>Me1e</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Me1e" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Me1e"><img src="https://avatars.githubusercontent.com/u/76844285?v=4?s=100" width="100px;" alt="Me1e"/><br /><sub><b>Me1e</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Me1e" title="Code">💻</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://minny27.tistory.com/"><img src="https://avatars.githubusercontent.com/u/68800789?v=4?s=100" width="100px;" alt="Will"/><br /><sub><b>Will</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Minny27" title="Code">💻</a></td>
@@ -715,14 +711,14 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/soonki-98"><img src="https://avatars.githubusercontent.com/u/63432381?v=4?s=100" width="100px;" alt="순기로운생활"/><br /><sub><b>순기로운생활</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=soonki-98" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.youtube.com/c/todaycode"><img src="https://avatars.githubusercontent.com/u/1324021?v=4?s=100" width="100px;" alt="Joeun Park"/><br /><sub><b>Joeun Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=corazzon" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://zpxlffjrm.github.io"><img src="https://avatars.githubusercontent.com/u/53068121?v=4?s=100" width="100px;" alt="chanyoung song"/><br /><sub><b>chanyoung song</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zpxlffjrm" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.ggingmin.com/"><img src="https://avatars.githubusercontent.com/u/24824279?v=4?s=100" width="100px;" alt="KYEONGMIN CHO"/><br /><sub><b>KYEONGMIN CHO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ggingmin" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ggingmin"><img src="https://avatars.githubusercontent.com/u/24824279?v=4?s=100" width="100px;" alt="KYEONGMIN CHO"/><br /><sub><b>KYEONGMIN CHO</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ggingmin" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/jphan32/"><img src="https://avatars.githubusercontent.com/u/7111986?v=4?s=100" width="100px;" alt="Sangjoon Han"/><br /><sub><b>Sangjoon Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jphan32" title="Code">💻</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://knight2995.github.io"><img src="https://avatars.githubusercontent.com/u/7499764?v=4?s=100" width="100px;" alt="DongHyun Kim"/><br /><sub><b>DongHyun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=knight2995" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dgh06175"><img src="https://avatars.githubusercontent.com/u/77305722?v=4?s=100" width="100px;" alt="이상현"/><br /><sub><b>이상현</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dgh06175" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hanlee55"><img src="https://avatars.githubusercontent.com/u/76910100?v=4?s=100" width="100px;" alt="Han Lee &#124; 이한결"/><br /><sub><b>Han Lee &#124; 이한결</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hanlee55" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://blog.huni.kr/"><img src="https://avatars.githubusercontent.com/u/13290706?v=4?s=100" width="100px;" alt="PENEKhun"/><br /><sub><b>PENEKhun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PENEKhun" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/PENEKhun"><img src="https://avatars.githubusercontent.com/u/13290706?v=4?s=100" width="100px;" alt="PENEKhun"/><br /><sub><b>PENEKhun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=PENEKhun" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@junhopportunity"><img src="https://avatars.githubusercontent.com/u/89464762?v=4?s=100" width="100px;" alt="JunHo Kim"/><br /><sub><b>JunHo Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JunhOpportunity" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/0525hhgus"><img src="https://avatars.githubusercontent.com/u/47289574?v=4?s=100" width="100px;" alt="Hyeonseo Yun"/><br /><sub><b>Hyeonseo Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=0525hhgus" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://qiita.com/Dreamwalker"><img src="https://avatars.githubusercontent.com/u/19484515?v=4?s=100" width="100px;" alt="Dreamwalker"/><br /><sub><b>Dreamwalker</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JAICHANGPARK" title="Code">💻</a></td>
@@ -761,13 +757,13 @@
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@choo121600"><img src="https://avatars.githubusercontent.com/u/54111883?v=4?s=100" width="100px;" alt="Yeonguk"/><br /><sub><b>Yeonguk</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=choo121600" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/minjj0905"><img src="https://avatars.githubusercontent.com/u/55120738?v=4?s=100" width="100px;" alt="KIM MIN JEONG"/><br /><sub><b>KIM MIN JEONG</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=minjj0905" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pcsoyeon"><img src="https://avatars.githubusercontent.com/u/59593430?v=4?s=100" width="100px;" alt="소연"/><br /><sub><b>소연</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pcsoyeon" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://seokhun.dev"><img src="https://avatars.githubusercontent.com/u/63833290?v=4?s=100" width="100px;" alt="SeokHun"/><br /><sub><b>SeokHun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=SeokhunEom" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SeokhunEom"><img src="https://avatars.githubusercontent.com/u/63833290?v=4?s=100" width="100px;" alt="SeokHun"/><br /><sub><b>SeokHun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=SeokhunEom" title="Code">💻</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://solution-is-here.tistory.com"><img src="https://avatars.githubusercontent.com/u/104314593?v=4?s=100" width="100px;" alt="Yongjun Hong"/><br /><sub><b>Yongjun Hong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=YongGoose" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/morningB"><img src="https://avatars.githubusercontent.com/u/114423035?v=4?s=100" width="100px;" alt="Joowon_Yun"/><br /><sub><b>Joowon_Yun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=morningB" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://blog.guesung.site"><img src="https://avatars.githubusercontent.com/u/62178788?v=4?s=100" width="100px;" alt="Kuesung Park"/><br /><sub><b>Kuesung Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=guesung" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://3boku.me"><img src="https://avatars.githubusercontent.com/u/68502584?v=4?s=100" width="100px;" alt="정삼복"/><br /><sub><b>정삼복</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=3boku" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/guesung"><img src="https://avatars.githubusercontent.com/u/62178788?v=4?s=100" width="100px;" alt="Kuesung Park"/><br /><sub><b>Kuesung Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=guesung" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/3boku"><img src="https://avatars.githubusercontent.com/u/68502584?v=4?s=100" width="100px;" alt="정삼복"/><br /><sub><b>정삼복</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=3boku" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@devjeenie"><img src="https://avatars.githubusercontent.com/u/83256772?v=4?s=100" width="100px;" alt="Ha jin Park"/><br /><sub><b>Ha jin Park</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dev-Jeenie" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://nageune.github.io"><img src="https://avatars.githubusercontent.com/u/108459576?v=4?s=100" width="100px;" alt="Kyunghyun Kang"/><br /><sub><b>Kyunghyun Kang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nageune" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://velog.io/@chhw130"><img src="https://avatars.githubusercontent.com/u/116826162?v=4?s=100" width="100px;" alt="HyunWoo Choi"/><br /><sub><b>HyunWoo Choi</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chhw130" title="Code">💻</a></td>
@@ -837,7 +833,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/da-in"><img src="https://avatars.githubusercontent.com/u/66757141?v=4?s=100" width="100px;" alt="Choi Da-in"/><br /><sub><b>Choi Da-in</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=da-in" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://yunjisang.me"><img src="https://avatars.githubusercontent.com/u/106881184?v=4?s=100" width="100px;" alt="Yun Jisang"/><br /><sub><b>Yun Jisang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=balhyo-younjisang" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/balhyo-younjisang"><img src="https://avatars.githubusercontent.com/u/106881184?v=4?s=100" width="100px;" alt="Yun Jisang"/><br /><sub><b>Yun Jisang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=balhyo-younjisang" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jmo.kr"><img src="https://avatars.githubusercontent.com/u/82754696?v=4?s=100" width="100px;" alt="전민오"/><br /><sub><b>전민오</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jbj338033" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://brainbackdoor.com/"><img src="https://avatars.githubusercontent.com/u/29951288?v=4?s=100" width="100px;" alt="LeeDongGyu"/><br /><sub><b>LeeDongGyu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=brainbackdoor" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://turtle-hwan.tistory.com/"><img src="https://avatars.githubusercontent.com/u/67897841?v=4?s=100" width="100px;" alt="Jihwan Kim"/><br /><sub><b>Jihwan Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Turtle-Hwan" title="Code">💻</a></td>
