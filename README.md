@@ -263,6 +263,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
   - 접수: 06. 25(목) ~ 09. 18(금) 17:00
+- __[Build for the Real World (BUIDL CTC 2026 Fall)](https://buidl.creditcoin.org/)__
+  - 분류: `온라인`, `대회`, `블록체인`, `Web3`
+  - 주최: Creditcoin
+  - 접수: 08. 13(목) ~ 09. 06(일)
 
 <br />
 
