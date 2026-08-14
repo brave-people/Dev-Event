@@ -130,6 +130,14 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: Codex Community Korea
   - 접수: 08. 08(토) ~ 08. 16(일)
+- __[[네트워킹] 개인 툴에서 조직 표준으로: 시리즈 D CTO의 3단계 AI 개발 토대 구축법](https://event-us.kr/findy/event/131589)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Findy Korea
+  - 접수: 07. 31(금) 11:30 ~ 08. 17(월) 23:30
+- __[처음 만나는 믹스패널 MCP: 대화로 시작하는 데이터 분석](https://event-us.kr/mfitlab/event/131854)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 마켓핏랩 솔루션즈
+  - 접수: 08. 04(화) 11:00 ~ 08. 17(월) 23:30
 - __[PyCon Korea 2026](https://2026.pycon.kr)__
   - 분류: `오프라인`, `유료`, `기술일반`
   - 주최: 파이콘 코리아
@@ -154,6 +162,10 @@
   - 분류: `오프라인(서울 중구)`, `무료`, `세미나`
   - 주최: 은행연합회 등 금융권 82개사
   - 일시: 08. 19(수) ~ 08. 20(목)
+- __[[AI로 세상을 바꾸다] 제4회 부산 너디너리 페스티벌](https://event-us.kr/neordinaryfestival/event/132023)__
+  - 분류: `오프라인(부산)`, `유료`, `모임`, `AI`
+  - 주최: 너디너리
+  - 접수: 08. 05(수) 10:00 ~ 08. 20(목) 18:00
 - __[Qwen AI Build Day in Seoul with TFM](https://luma.com/y5zmk4mo)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: TFM / Alibaba Cloud Korea
@@ -178,6 +190,14 @@
   - 분류: `오프라인(부산)`, `유료`, `세미나`, `기술일반`
   - 주최: GDG Busan
   - 접수: 07. 09(목) ~ 08. 22(토) 14:00
+- __[vLLM.KR Community Meetup 2026/08](https://event-us.kr/pytorchkr/event/132012)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: PyTorchKR
+  - 접수: 08. 05(수) 11:30 ~ 08. 23(일) 00:00
+- __[AWSKRUG 인천 지역 #incheon 소모임 - 08월 24일 (월)](https://www.meetup.com/awskrug/events/316081735/)__
+  - 분류: `오프라인(인천)`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 12(수) ~ 08. 24(월) 19:00
 - __[마케터를 위한 AX 실전: 아는 만큼 누리는 API와 MCP, 지표 정의부터 대시보드 자동화까지](https://biz.modulabs.co.kr/event/491)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
@@ -186,6 +206,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
   - 주최: Kiro 한국 사용자 모임 / AWSKRUG
   - 접수: 08. 10(월) ~ 08. 25(화) 10:00
+- __[AWSKRUG 보안 #Security 소모임 - 8월 27일 (목)](https://www.meetup.com/awskrug/events/316081956/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 12(수) ~ 08. 25(화) 23:59
 - __[비용 통제부터 사내 에이전트까지, 멀티 AI 운영 전략 웨비나](https://event-us.kr/webinar/event/131559)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 몬드리안에이아이
@@ -198,6 +222,14 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `대회`, `AI`
   - 주최: GDG Campus Korea
   - 접수: 08. 05(수) ~ 08. 26(수) 23:30
+- __[개발자 생존 토크쇼: AI Agent로 만드는 나의 첫 비즈니스](https://www.pathfinder.camp/event-details/survival-talkshow)__
+  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
+  - 주최: 패스파인더
+  - 접수: 08. 10(월) ~ 08. 26(수) 23:50
+- __[OpenAI Game Builders Seoul](https://openaigame2026.com/)__
+  - 분류: `온라인`, `오프라인(서울)`, `무료`, `대회`, `AI`
+  - 주최: OpenAI / 컴투스홀딩스
+  - 접수: 08. 04(화) ~ 08. 26(수)
 - __[Snowflake World Tour 2026 – 서울](https://www.snowflake.com/ko/world-tour/seoul/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: Snowflake
@@ -206,6 +238,10 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `기술일반`
   - 주최: DOT4 커뮤니티
   - 접수: 08. 07(금) ~ 08. 27(목)
+- __[AWSKRUG #부산 지역 소모임 - 8월 28일 (금)](https://www.meetup.com/awskrug/events/316079433/)__
+  - 분류: `오프라인(부산)`, `무료`, `모임`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 08. 12(수) ~ 08. 28(금) 19:00
 - __[UbuCon Korea X MiniDebConf Korea 2026](https://2026.ubuntu-kr.org/ko/)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: Ubuntu Korea Community / Debian Korea
@@ -226,6 +262,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 과학기술정보통신부
   - 접수: 05. 11(월) ~ 08. 31(월)
+- __[KCD x Ceph x OpenInfra Day Korea 2026](https://community2.cncf.io/events/details/cncf-kcd-south-korea-presents-kcd-x-ceph-x-openinfra-day-korea-2026/)__
+  - 분류: `오프라인(서울 용산구)`, `유료`, `세미나`, `클라우드`
+  - 주최: Kubernetes Korea Group / Korea Ceph User Group / OpenInfra Korea User Group
+  - 접수: 07. 01(수) ~ 08. 31(월)
 
 <br />
 
@@ -235,14 +275,14 @@
   - 주최: mongodb
   - 접수: 03. 21(토) ~ 09. 01(화)
   
-- __[제24회 임베디드SW경진대회](https://www.wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 산업통상자원부 / 임베디드SW·System산업협회
-  - 접수: 05. 06(수) ~ 09. 03(수)
 - __[AWSKRUG 구로디지털 #gudi 소모임 - 09월 03일 (목)](https://www.meetup.com/awskrug/events/315946905/)__
   - 분류: `오프라인(서울 동작구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 03(월) ~ 09. 03(목) 19:00
+- __[제24회 임베디드SW경진대회](https://www.wevity.com/index.php?c=find&s=1&gbn=viewok&gp=1&ix=107135)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: 산업통상자원부 / 임베디드SW·System산업협회
+  - 접수: 05. 06(수) ~ 09. 03(목)
 - __[2026년 제5회 QA 코리아 컨퍼런스](https://ticketa.co/event/26hfzu4p)__
   - 분류: `온라인`, `유료`, `세미나`, `기술일반`
   - 주최: QA Korea
@@ -251,6 +291,10 @@
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 금융보안원
   - 접수: 07. 13(월) ~ 09. 07(월) 10:00
+- __[(서울)AI와 Digital Engineering으로 완성하는 Mission-Critical Software 개발 전략 세미나](https://event-us.kr/mdsit/event/131366)__
+  - 분류: `오프라인(서울 서초구)`, `무료`, `세미나`, `기술일반`
+  - 주최: MDS인텔리전스
+  - 접수: 07. 28(화) 07:00 ~ 09. 07(월) 23:30
 - __[AWSKRUG #partner 소모임 1번째 - AWSKRUG x Ambassadors Meetup - 9월 10일 (목)](https://www.meetup.com/awskrug/events/316051935/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
