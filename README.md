@@ -247,6 +247,10 @@
   - 분류: `온라인`, `유료`, `세미나`, `기술일반`
   - 주최: QA Korea
   - 접수: 07. 01(수) ~ 09. 05(토)
+- __[Build for the Real World (BUIDL CTC 2026 Fall)](https://buidl.creditcoin.org/)__
+  - 분류: `온라인`, `대회`, `블록체인`, `Web3`
+  - 주최: Creditcoin
+  - 접수: 08. 13(목) ~ 09. 06(일)
 - __[2026 금융 AI Challenge](https://daker.ai/public/hackathons/2026-finance-ai-challenge)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 금융보안원
@@ -263,10 +267,6 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
   - 접수: 06. 25(목) ~ 09. 18(금) 17:00
-- __[Build for the Real World (BUIDL CTC 2026 Fall)](https://buidl.creditcoin.org/)__
-  - 분류: `온라인`, `대회`, `블록체인`, `Web3`
-  - 주최: Creditcoin
-  - 접수: 08. 13(목) ~ 09. 06(일)
 
 <br />
 
