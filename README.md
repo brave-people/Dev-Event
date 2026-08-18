@@ -69,83 +69,15 @@
 <br />
 
 ## `26년 08월`
-- __[NAN 2026 - NHN Game × AI Hackathon](https://nan2026.nhn.com/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `대회`, `AI`
-  - 주최: NHN
-  - 접수: 07. 10(금) ~ 08. 10(월)
-  
-- __[KT AIVLE School(에이블스쿨) 10기 AI 개발자/DX 컨설턴트 교육생 모집](https://aivle.kt.co.kr/home/main/applyMain?mcd=MC00000051)__
-  - 분류: `오프라인`, `무료`, `교육`, `AI`
-  - 주최: KT
-  - 접수: 07. 07(화) ~ 08. 10(월)
-- __[Dev Korea #12](https://dev-korea.com/events/dev-korea-12-august-2026)__
-  - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 07. 20(월) ~ 08. 11(화)
-- __[2026 사이버공격방어대회 (CCE)](https://cce.cstec.kr/)__
-  - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `대회`, `기술일반`
-  - 주최: 국가정보원 / 국가보안기술연구소
-  - 접수: 07. 24(금) ~ 08. 12(수) 23:59
-- __[Open AGI 빌더스 데이 at KDD](https://www.rocketpunch.com/event/8A2KPAjh3O)__
-  - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
-  - 주최: Sentient Labs
-  - 일시: 08. 13(목)
-- __[x402 on XRPL: AI Builders Night Korea](https://luma.com/r5zuc03f)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`, `블록체인`
-  - 주최: t54 Labs / Catalyze / XRPL Korea
-  - 접수: 08. 08(토) ~ 08. 13(목)
-- __[AWSKRUG #AIEngineering 소모임 - OpenClaw on AWS Workshop [8월 20일]](https://www.meetup.com/awskrug/events/315786451/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 08. 03(월) ~ 08. 14(금) 09:00
-- __[멀티 에이전트 워크샵 with GitHub Copilot](https://ticketa.co/event/c99wxzdg)__
-  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`, `클라우드`
-  - 주최: Microsoft 커뮤니티 이벤트
-  - 접수: 07. 17(금) ~ 08. 14(금) 10:00
-- __[자율주행모빌리티산업전(AME) 2026 컨퍼런스](https://am-expo.co.kr/sub-5-1)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
-  - 주최: 코엑스(COEX)
-  - 접수: 06. 22(월) ~ 08. 14(금)
-- __[제3회 풍력발전량 예측 AI 경진대회 - BARAM 2026](https://dacon.io/competitions/official/236727/overview/)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
-  - 주최: 한국동서발전 / GS E&R / 태백가덕산풍력발전
-  - 접수: 06. 12(금) ~ 08. 14(금)
-- __[mobilgene 26](https://event-us.kr/hyundaiautoever/event/130543)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `세미나`, `기술일반`
-  - 주최: 현대오토에버
-  - 접수: 07. 29(수) ~ 08. 15(토) 00:00
-- __[AWSKRUG 집현전 #jiphyeonjeon 온라인 소모임 - 8월 15일(토)](https://www.meetup.com/awskrug/events/316053582/)__
-  - 분류: `온라인`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 10(월) ~ 08. 15(토) 10:00
-- __[KotlinConf Extended South Korea](https://ticketa.co/event/ic97nj1c)__
-  - 분류: `오프라인(서울 서대문구)`, `유료`, `세미나`, `기술일반`
-  - 주최: Kotlin User Groups Seoul
-  - 접수: 07. 26(일) ~ 08. 15(토) 22:00
-- __[AWSKRUG 데브옵스 #DevOps 소모임 25번째 밋업 - 8월 19일 (수)](https://www.meetup.com/awskrug/events/315941240/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 03(월) ~ 08. 16(일)
-- __[Codex Community Hackathon - Seoul for Students](https://codex-community-korea.skysplit.chatgpt.site/hackathon/seoul-2026)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
-  - 주최: Codex Community Korea
-  - 접수: 08. 08(토) ~ 08. 16(일)
-- __[PyCon Korea 2026](https://2026.pycon.kr)__
-  - 분류: `오프라인(서울 중구)`, `유료`, `세미나`, `기술일반`
-  - 주최: 파이콘 코리아
-  - 일시: 08. 15(토) ~ 08. 17(월)
-- __[[네트워킹] 개인 툴에서 조직 표준으로: 시리즈 D CTO의 3단계 AI 개발 토대 구축법](https://event-us.kr/findy/event/131589)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: Findy Korea
-  - 접수: 07. 31(금) 11:30 ~ 08. 17(월) 23:30
-- __[처음 만나는 믹스패널 MCP: 대화로 시작하는 데이터 분석](https://event-us.kr/mfitlab/event/131854)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 마켓핏랩 솔루션즈
-  - 접수: 08. 04(화) 11:00 ~ 08. 17(월) 23:30
 - __[[NIPA] 2026년도 SaaS 전환지원센터 제6회 세미나 - AI SaaS 도입, 어떻게 활용하고 통제할 것인가?](https://kcloud.or.kr/board/read.php?M2_IDX=25869&B_IDX=178743)__
   - 분류: `오프라인(대구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: 정보통신산업진흥원(NIPA) / SaaS 전환지원센터
   - 접수: 07. 28(화) ~ 08. 18(화)
+  
+- __[[부산·무료] Claude Code로 만드는 AI 서비스 l 실습 세미나](https://event-us.kr/elicelab/event/131987)__
+  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
+  - 주최: 엘리스랩
+  - 접수: 08. 04(화) 18:00 ~ 08. 19(수) 14:00
 - __[AX Meetup #3 - AX의 다음 챕터](https://luma.com/og0pgr5v)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 그란데클립
@@ -166,6 +98,10 @@
   - 분류: `오프라인(부산)`, `유료`, `모임`, `AI`
   - 주최: 너디너리
   - 접수: 08. 05(수) 10:00 ~ 08. 20(목) 18:00
+- __[Loop:Talk - 빅테크 멘토님들과 함께하는 오프라인 개발자 밋업!](https://event-us.kr/loopers/event/131848)__
+  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
+  - 주최: 루퍼스
+  - 접수: 08. 03(월) ~ 08. 20(목) 23:59
 - __[Qwen AI Build Day in Seoul with TFM](https://luma.com/y5zmk4mo)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: TFM / Alibaba Cloud Korea
@@ -178,6 +114,14 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
   - 주최: 채널톡
   - 접수: 08. 10(월) ~ 08. 21(금) 17:00
+- __[2026 블록체인 밋업데이 (18회차)](https://event-us.kr/2026bcmd/event/129776)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `블록체인`
+  - 주최: 과학기술정보통신부 / 한국인터넷진흥원(KISA)
+  - 접수: 07. 20(월) ~ 08. 21(금) 18:00
+- __[Demo Day: Google Cloud X Solana AI Agentic Hackathon](https://luma.com/gcp-solana-demo-day)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`, `블록체인`
+  - 주최: Google Cloud / Solana Foundation
+  - 접수: 08. 18(화) ~ 08. 21(금)
 - __[맞다톤 | 바이브 코딩으로 하루 만에 AI 서비스 MVP 완성](https://ticketa.co/event/jxxdbwmn)__
   - 분류: `오프라인(대구)`, `유료`, `대회`, `AI`
   - 주최: 맞다AI가
@@ -190,18 +134,34 @@
   - 분류: `오프라인(부산)`, `유료`, `세미나`, `기술일반`
   - 주최: GDG Busan
   - 접수: 07. 09(목) ~ 08. 22(토) 14:00
+- __[Deepest AI Night](https://luma.com/umxl3zao)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
+  - 주최: Deepest
+  - 접수: 08. 18(화) ~ 08. 22(토)
 - __[vLLM.KR Community Meetup 2026/08](https://event-us.kr/pytorchkr/event/132012)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: PyTorchKR
   - 접수: 08. 05(수) 11:30 ~ 08. 23(일) 00:00
+- __[[웨비나] VS Code에서 임베디드 개발, 어디까지 가능할까?](https://event-us.kr/iar/event/131852)__
+  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
+  - 주최: IAR Systems Korea
+  - 접수: 08. 06(목) ~ 08. 24(월) 17:00
 - __[AWSKRUG 인천 지역 #incheon 소모임 - 08월 24일 (월)](https://www.meetup.com/awskrug/events/316081735/)__
   - 분류: `오프라인(인천)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 12(수) ~ 08. 24(월) 19:00
+- __[[온앤안 무료 세미나] 현직 화이트해커가 밝히는 실전 보안 트렌드 & 커리어 로드맵](https://event-us.kr/day1com/event/132713)__
+  - 분류: `오프라인(경기 수원)`, `무료`, `세미나`, `기술일반`
+  - 주최: 온앤安
+  - 접수: 08. 14(금) ~ 08. 24(월) 22:30
 - __[마케터를 위한 AX 실전: 아는 만큼 누리는 API와 MCP, 지표 정의부터 대시보드 자동화까지](https://biz.modulabs.co.kr/event/491)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
   - 일시: 08. 25(화)
+- __[&lt;Do it! 바이브 코딩 + 커서 AI&gt; 무료 온라인 저자 강연](https://event-us.kr/easyspub/event/132152)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 이지스퍼블리싱
+  - 접수: 08. 06(목) ~ 08. 25(화) 08:00
 - __[Kiro 한국 사용자 모임 (2026-08)](https://luma.com/jjd10nb6)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`
   - 주최: Kiro 한국 사용자 모임 / AWSKRUG
@@ -303,14 +263,38 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 08. 10(월) ~ 09. 08(화) 18:00
+- __[부산 AI·블록체인 아카데미 제2기](https://busandigitalasset.kr/)__
+  - 분류: `오프라인(부산)`, `유료`, `세미나`, `AI`, `블록체인`
+  - 주최: 부산일보 / 비온미디어 / 안암145
+  - 접수: 08. 18(화) ~ 09. 08(화)
+- __[AI WORLD 2026 : AI Shift – The New Economy](https://www.ai-world.kr/)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `AI`
+  - 주최: 파이낸셜뉴스 / 과학기술정보통신부
+  - 접수: 08. 18(화) ~ 09. 09(수)
 - __[JNPMEDI Tech Meetup 2026](https://tech-meetup.jnpmedi.com/2026)__
   - 분류: `오프라인(인천)`, `무료`, `세미나`, `AI`
   - 주최: 제이앤피메디
   - 접수: 08. 05(수) ~ 09. 11(금)
+- __[NextTech Student Challenge - 미래 기술을 경험하는 가장 빠른 방법](https://ticketa.co/event/y87tyxmj)__
+  - 분류: `오프라인(대구)`, `유료`, `세미나`, `기술일반`
+  - 주최: 맞다AI가
+  - 접수: 08. 14(금) ~ 09. 15(화)
 - __[2026 Big Data 활용 대회](https://www.allforyoung.com/posts/83834)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
   - 접수: 06. 25(목) ~ 09. 18(금) 17:00
+- __[딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회](https://dacon.io/competitions/official/236749/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수)
+- __[블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회](https://dacon.io/competitions/official/236753/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수)
+- __[나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회](https://dacon.io/competitions/official/236754/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수)
 
 <br />
 
