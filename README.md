@@ -359,6 +359,10 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `클라우드`
   - 주최: Docker User Group Korea
   - 접수: 08. 17(월) ~ 09. 16(수) 00:00
+- __[원티드 AI Championship 2026](https://event.wanted.co.kr/ai-championship/2026)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 원티드랩
+  - 접수: 08. 24(월) ~ 09. 18(금)
 - __[2026 Big Data 활용 대회](https://www.allforyoung.com/posts/83834)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 부산광역시 / 부산테크노파크
