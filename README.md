@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-208-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-209-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -938,6 +938,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/crowdacademy-manager"><img src="https://avatars.githubusercontent.com/u/301247116?v=4?s=100" width="100px;" alt="crowdacademy-manager"/><br /><sub><b>crowdacademy-manager</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=crowdacademy-manager" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/seplease"><img src="https://avatars.githubusercontent.com/u/80445374?v=4?s=100" width="100px;" alt="Sieun Kim"/><br /><sub><b>Sieun Kim</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=seplease" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nomad2569"><img src="https://avatars.githubusercontent.com/u/58652871?v=4?s=100" width="100px;" alt="nomad"/><br /><sub><b>nomad</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nomad2569" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbp-jack"><img src="https://avatars.githubusercontent.com/u/149581532?v=4?s=100" width="100px;" alt="Nero"/><br /><sub><b>Nero</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dbp-jack" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
