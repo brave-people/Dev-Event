@@ -1878,6 +1878,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dbp-jack",
+      "name": "\bNero",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149581532?v=4",
+      "profile": "https://github.com/dbp-jack",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
