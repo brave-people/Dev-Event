@@ -74,43 +74,11 @@
 <br />
 
 ## `26년 09월`
-- __[Vibe Dive Online Webinar](https://ticketa.co/event/6hsfup2t)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: GDG Incheon
-  - 일시: 09. 04(금) 20:00
-  
-- __[AWSKRUG 네트워크 #network 소모임 - (9월 8일)](https://www.meetup.com/awskrug/events/316307770/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 31(월) ~ 09. 04(금) 16:00
-- __[n8n Seoul Meetup 3rd - After-Work Networking](https://event-us.kr/datapopcorn/event/133004)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: 데이터팝콘
-  - 접수: 08. 21(금) ~ 09. 04(금) 18:00
-- __[OpenAI DevDay Exchange 2026 - 서울](https://events.openai.com/devdayexchange2026/)__
-  - 분류: `오프라인(서울)`, `무료`, `세미나`, `AI`
-  - 주최: OpenAI
-  - 접수: 08. 19(수) ~ 09. 04(금)
-- __[Agent Field Trip 2026: Incheon](https://ticketa.co/event/xnhamniu)__
-  - 분류: `오프라인(인천)`, `유료`, `대회`, `AI`
-  - 주최: GDG Incheon
-  - 접수: 08. 03(월) ~ 09. 05(토) 11:59
-- __[2026년 제5회 QA 코리아 컨퍼런스](https://ticketa.co/event/26hfzu4p)__
-  - 분류: `온라인`, `유료`, `세미나`, `기술일반`
-  - 주최: QA Korea
-  - 접수: 07. 01(수) ~ 09. 05(토)
-- __[Build for the Real World (BUIDL CTC 2026 Fall)](https://buidl.creditcoin.org/)__
-  - 분류: `온라인`, `대회`, `블록체인`, `Web3`
-  - 주최: Creditcoin
-  - 접수: 08. 13(목) ~ 09. 06(일)
-- __[[IT동아리 젝트] 5기 모집](https://event-us.kr/ject/event/133407)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `동아리`, `기술일반`
-  - 주최: 젝트
-  - 접수: 08. 22(토) 12:00 ~ 09. 06(일) 23:59
 - __[2026 금융 AI Challenge](https://daker.ai/public/hackathons/2026-finance-ai-challenge)__
   - 분류: `온라인`, `오프라인`, `무료`, `대회`, `AI`
   - 주최: 금융보안원
   - 접수: 07. 13(월) ~ 09. 07(월) 10:00
+  
 - __[2026 넥토리얼 For Game Programmer](https://nexon-tutorial.com/)__
   - 분류: `온라인`, `오프라인`, `무료`, `교육`, `기술일반`
   - 주최: 넥슨코리아
@@ -159,6 +127,10 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
   - 주최: Agentic AI Foundation(AAIF)
   - 일시: 09. 09(수) 18:30 ~ 09. 09(수) 21:30
+- __[SAP Connect Day for Busan : AI 시대, 기업 경쟁력의 새로운 기준](https://keystonellc.kr/sap/2026/0909_SAP_Connect_Day_for_Busan/0909_SAP_Connect_Day_for_Busan_eDM.html)__
+  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`, `클라우드`
+  - 주최: SAP Korea
+  - 접수: 08. 26(수) ~ 09. 09(수) 10:00
 - __[The Ghost in the Machine : AI Agent 시대, 보이지 않는 Machine Identity를 어떻게 통제할 것인가?](https://event-us.kr/itsman/event/132376)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 잇츠맨
@@ -179,6 +151,10 @@
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 토스증권
   - 일시: 09. 10(목) 19:00 ~ 09. 10(목) 21:00
+- __[Modern Work Conference Seoul 2026](https://ticketa.co/event/796zfanx)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `AI`
+  - 주최: Modern Work Community
+  - 접수: 08. 31(월) 22:00 ~ 09. 11(금) 12:00
 - __[AI Product Frontiers: AI 시대, 최전선에서 방향을 만드는 사람들](https://tech.channel.io/kr/articles/ai-product-frontiers-fba8c7be)__
   - 분류: `온라인`, `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 채널코퍼레이션
@@ -203,6 +179,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 03(목) ~ 09. 12(토)
+- __[Astra Commons: Korea](https://luma.com/s2uzy2ge)__
+  - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
+  - 주최: Codex Community Korea
+  - 일시: 09. 13(일) 14:00 ~ 09. 13(일) 23:00
 - __[[웨비나]다양한 AWS・IT기술 정보를 발신하는 "IAM클라쓰DAY#04"](https://event-us.kr/classmethod/event/133986)__
   - 분류: `온라인`, `무료`, `세미나`, `클라우드`
   - 주최: 클래스메소드코리아
@@ -227,10 +207,18 @@
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 도브러너
   - 접수: 08. 24(월) ~ 09. 16(수) 14:00
+- __[원펀치 랄프톤 in Busan 시즌 2](https://event-us.kr/pathfinder/event/134629)__
+  - 분류: `오프라인(부산)`, `무료`, `대회`, `AI`
+  - 주최: 패스파인더
+  - 접수: 09. 04(금) ~ 09. 16(수) 23:59
 - __[우주에서의 AI 활용 - Beyond Earth Observation | "AI for Science/Engineering" Series](https://luma.com/jpmm44n1)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소 / 리벨리온
   - 일시: 09. 17(목) 19:00 ~ 09. 17(목) 20:30
+- __[포스트 미토스 시대, AI 공격에 맞서는 보안의 골든타임 전략](https://event-us.kr/itsman/event/133700)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 잇츠맨 / F5
+  - 접수: 08. 26(수) ~ 09. 17(목) 14:00
 - __[GDGoC Gachon Tech MeetUp: AI에이전트 활용 노하우](https://event-us.kr/gdgocgachon/event/133845)__
   - 분류: `오프라인(경기 성남)`, `유료`, `모임`, `AI`
   - 주최: GDGoC Gachon
@@ -239,6 +227,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
   - 주최: 한국 리눅스 커널 개발자 모임
   - 접수: 08. 19(수) ~ 09. 17(목) 19:00
+- __[AI, Now on AZ3 - 메가존소프트 X 알리바바 클라우드 AI 세미나](https://event-us.kr/seminar0918/event/133302)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`, `클라우드`
+  - 주최: 메가존소프트 / Alibaba Cloud Korea
+  - 일시: 09. 18(금) 13:00 ~ 09. 18(금) 15:30
 - __[lab | up > /conf/6](https://event-us.kr/lablup/event/133741)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 래블업
@@ -251,6 +243,10 @@
   - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `블록체인`
   - 주최: 과학기술정보통신부 / 한국인터넷진흥원(KISA)
   - 접수: 08. 18(화) ~ 09. 18(금) 18:00
+- __[2026 서울 AI 로봇쇼 피지컬 AI 포럼](https://event-us.kr/seoulairobotshow/event/134390)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 서울특별시 / 서울경제진흥원(SBA)
+  - 접수: 09. 04(금) ~ 09. 18(금) 23:30
 - __[원티드 AI Championship 2026](https://event.wanted.co.kr/ai-championship/2026)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 원티드랩
@@ -275,30 +271,38 @@
   - 분류: `온라인`, `오프라인(서울 서초구)`, `무료`, `대회`, `AI`
   - 주최: 산업통상부 / 한국산업기술진흥원(KIAT) / 한국조선해양플랜트협회
   - 접수: 08. 24(월) 12:00 ~ 09. 21(월) 18:00
+- __[AWSKRUG #AIEngineering 소모임 - AWS 인프라와 AI 워크로드의 통합 모니터링 [9월 29일]](https://www.meetup.com/awskrug/events/316405144/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 09. 07(월) ~ 09. 22(화) 09:00
 - __[KVCache Meetup Korea](https://event-us.kr/pytorchkr/event/133718)__
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
   - 주최: PyTorchKR / XCENA
   - 접수: 08. 26(수) ~ 09. 25(금) 23:30
+- __[Midnight Korea Hackathon 2026](https://luma.com/2pnv2fwk)__
+  - 분류: `온라인`, `무료`, `대회`, `블록체인`
+  - 주최: Midnight Korea
+  - 접수: 09. 01(화) ~ 09. 27(일)
 - __[Ethereum Korea One Genesis - Build Beyond the Narrative](https://luma.com/0a4zc5a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`
   - 주최: Ethereum Collective Korea / Nonce Classic
   - 일시: 09. 29(화) 13:00 ~ 09. 29(화) 20:00
+- __[딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회](https://dacon.io/competitions/official/236749/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수) 10:00
+- __[블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회](https://dacon.io/competitions/official/236753/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수) 10:00
+- __[나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회](https://dacon.io/competitions/official/236754/overview/description)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 행정안전부 / 한국지능정보사회진흥원
+  - 접수: 08. 18(화) ~ 09. 30(수) 10:00
 - __[Microsoft Fabric 실전 원데이 워크숍: Fabric Analyst in a Day](https://event-us.kr/hso/event/132278)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `클라우드`
   - 주최: HSO Korea
   - 접수: 08. 24(월) ~ 09. 30(수) 23:30
-- __[딥보이스 범죄 대응을 위한 AI 탐지 모델 경진대회](https://dacon.io/competitions/official/236749/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 행정안전부 / 한국지능정보사회진흥원
-  - 접수: 08. 18(화) ~ 09. 30(수)
-- __[블랙박스 영상 기반 지능형 고의사고 분석 모델 AI 경진대회](https://dacon.io/competitions/official/236753/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 행정안전부 / 한국지능정보사회진흥원
-  - 접수: 08. 18(화) ~ 09. 30(수)
-- __[나라장터 자체입찰 공고 법령 위반사항 모니터링 AI 경진대회](https://dacon.io/competitions/official/236754/overview/description)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 행정안전부 / 한국지능정보사회진흥원
-  - 접수: 08. 18(화) ~ 09. 30(수)
 
 <br />
 
@@ -315,6 +319,14 @@
   - 분류: `온라인`, `무료`, `대회`
   - 주최: 넥슨코리아
   - 접수: 06. 04(목) ~ 10. 07(수)
+- __[[웅진x에스원] 보안에서 재해복구까지, 멈추지 않는 비즈니스를 위한 클라우드 운영 전략](https://event-us.kr/woongjin/event/134801)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `세미나`, `클라우드`
+  - 주최: 웅진 / 에스원
+  - 접수: 09. 07(월) 16:00 ~ 10. 09(금) 00:00
+- __[Chat With Your Data in a Day: 하루만에 끝내는 Microsoft 통합 분석 환경](https://event-us.kr/hso/event/132381)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`, `클라우드`
+  - 주최: HSO Korea
+  - 접수: 08. 10(월) ~ 10. 13(화) 00:00
 - __[GitHub Copilot Dev Days | Busan](https://ticketa.co/event/d4fha6wt)__
   - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
   - 주최: 맞다AI가
@@ -323,6 +335,10 @@
   - 분류: `오프라인(대구)`, `무료`, `세미나`, `AI`
   - 주최: 맞다AI가
   - 일시: 10. 17(토) 12:00 ~ 10. 17(토) 18:00
+- __[데이터안심구역 경진대회](https://event-us.kr/eventdatasafetyzone/event/134171)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 과학기술정보통신부 / 한국데이터산업진흥원(Kdata)
+  - 접수: 09. 01(화) ~ 10. 22(목) 18:00
 - __[GitHub Copilot Dev Days | Seoul](https://ticketa.co/event/xzch6c1g)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -331,6 +347,14 @@
   - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트
   - 접수: 09. 01(화) ~ 10. 31(토) 00:00
+
+<br />
+
+## `26년 12월`
+- __[SK AX 상생아카데미](https://partner.skala.co.kr/front/main.html)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `세미나`, `AI`, `기술일반`
+  - 주최: SK AX
+  - 접수: 09. 07(월) ~ 12. 31(목) 23:59
 
 <br />
 
