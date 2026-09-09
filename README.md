@@ -78,7 +78,7 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
   - 주최: Agentic AI Foundation(AAIF)
   - 일시: 09. 09(수) 18:30 ~ 09. 09(수) 21:30
-  
+
 - __[SAP Connect Day for Busan : AI 시대, 기업 경쟁력의 새로운 기준](https://keystonellc.kr/sap/2026/0909_SAP_Connect_Day_for_Busan/0909_SAP_Connect_Day_for_Busan_eDM.html)__
   - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: SAP Korea
@@ -363,7 +363,7 @@
 <br />
 
 ## `26년 12월`
-- __[SK AX 상생아카데미](https://partner.skala.co.kr/front/main.html)__
+- __[SK AX 상생아카데미](https://partner.skala.co.kr)__
   - 분류: `오프라인(경기 성남)`, `무료`, `세미나`, `AI`, `기술일반`
   - 주최: SK AX
   - 접수: 09. 07(월) ~ 12. 31(목) 23:59
