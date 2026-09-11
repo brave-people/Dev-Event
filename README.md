@@ -255,6 +255,10 @@
   - 분류: `온라인`, `오프라인(경기 용인)`, `무료`, `세미나`, `AI`, `기술일반`
   - 주최: 카카오
   - 접수: 09. 07(월) ~ 09. 28(월) 12:00
+- __[Accessibility, live (Dev Korea #15)](https://dev-korea.com/events/dev-korea-15-september-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 09. 05(토) ~ 09. 28(월)
 - __[Ethereum Korea One Genesis - Build Beyond the Narrative](https://luma.com/0a4zc5a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`
   - 주최: Ethereum Collective Korea / Nonce Classic
