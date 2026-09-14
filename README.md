@@ -187,6 +187,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 09. 07(월) ~ 09. 22(화) 09:00
+- __[SoftBank Hackathon 2026 in Korea](https://www.allforyoung.com/posts/86209)__
+  - 분류: `오프라인(서울)`, `오프라인(부산)`, `무료`, `대회`, `클라우드`
+  - 주최: 소프트뱅크 / KOREC / Progate
+  - 접수: 08. 17(월) ~ 09. 22(화) 23:59
 - __[Toss Infra Day](https://toss.im/builder/to/aad14fa6ffbd420993d9566d3a8a87bf)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
   - 주최: 토스
@@ -203,14 +207,14 @@
   - 분류: `온라인`, `오프라인(경기 용인)`, `무료`, `세미나`, `AI`, `기술일반`
   - 주최: 카카오
   - 접수: 09. 07(월) ~ 09. 28(월) 12:00
-- __[Accessibility, live (Dev Korea #15)](https://dev-korea.com/events/dev-korea-15-september-2026)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`, `기술일반`
-  - 주최: Dev Korea
-  - 접수: 09. 05(토) ~ 09. 28(월)
 - __[[부산·무료] 바이브코딩을 활용한 웹서비스 제작과 품질 검증](https://event-us.kr/elicelab/event/135055)__
   - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
   - 주최: 엘리스랩 / 고용노동부 / 한국산업인력공단
   - 접수: 09. 10(목) 12:00 ~ 09. 28(월) 14:00
+- __[Accessibility, live (Dev Korea #15)](https://dev-korea.com/events/dev-korea-15-september-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`, `기술일반`
+  - 주최: Dev Korea
+  - 접수: 09. 05(토) ~ 09. 28(월)
 - __[Ethereum Korea One Genesis - Build Beyond the Narrative](https://luma.com/0a4zc5a6)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `블록체인`
   - 주최: Ethereum Collective Korea / Nonce Classic
@@ -247,6 +251,7 @@
   - 분류: `오프라인(서울 용산구)`, `무료`, `대회`, `AI`
   - 주최: 국가과학기술연구회(NST) / 국가과학기술연구센터(NAIS)
   - 일시: 09. 30(수) ~ 10. 01(목)
+  
 - __[GitHub Copilot Dev Days | Pohang](https://ticketa.co/event/izi3e7pl)__
   - 분류: `오프라인(경북 포항)`, `무료`, `세미나`, `AI`
   - 주최: 맞다AI가
@@ -323,6 +328,7 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: 드로이드나이츠
   - 접수: 09. 14(월) 13:00 ~ 11. 01(일) 23:59
+
 - __[Intel AI Summit Seoul 2026](https://event-us.kr/intelseminar/event/131490)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 인텔코리아
