@@ -68,11 +68,6 @@
 
 <br />
 
-## `26년 08월`
-
-
-<br />
-
 ## `26년 09월`
 - __[Toss Infra Day](https://toss.im/builder/to/aad14fa6ffbd420993d9566d3a8a87bf)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
@@ -477,7 +472,8 @@
             <a href="./end_event/2026/26_05.md"> 05월 </a>,
             <a href="./end_event/2026/26_06.md"> 06월 </a>,
             <a href="./end_event/2026/26_07.md"> 07월 </a>,
-            <a href="./end_event/2026/26_08.md"> 08월 </a>
+            <a href="./end_event/2026/26_08.md"> 08월 </a>,
+            <a href="./end_event/2026/26_09.md"> 09월 </a>
           </td>
         </tr>
         <tr>
