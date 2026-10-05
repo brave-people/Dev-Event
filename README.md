@@ -222,6 +222,10 @@
   - 분류: `오프라인(서울 마포구)`, `유료`, `세미나`, `클라우드`
   - 주최: CloudBro Community
   - 접수: 09. 17(목) 18:00 ~ 10. 17(토) 10:00
+- __[𑁍 Single Thread Yoga - AI 빌더들을 위한 요가 𑁍](https://ticketa.co/event/ekl3gw4m)__
+  - `오프라인(서울)`, `유료`, `모임`, `AI`
+  - 주최: Project Single Thread
+  - 접수: 10. 05(월) ~ 10. 17(토)
 - __[2026 AI 농산물 가격예측 해커톤](https://hackathon.imaginationgroup.co.kr/nongnet)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국농수산식품유통공사(aT) / 상상력집단
