@@ -640,6 +640,7 @@
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 | ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
 | KUSITMS | 비전을 가지고 성장하는 한국대학생 IT경영학회                      | [공식 홈페이지](https://www.kusitms.com/), [instagram](https://www.instagram.com/kusitms_official/)  |
+| HSPACE | 보안·IT 학습과 연구, 프로젝트 및 동아리 활동 지원 | [공식 홈페이지](https://hspace.io/), [Instagram](https://www.instagram.com/hspace_official/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -746,7 +747,6 @@
 | Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
 | Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
 | FOSS for All | [homepage](https://fossforall.org/) |
-| HSPACE | [homepage](https://hspace.io/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
