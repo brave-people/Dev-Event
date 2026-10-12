@@ -746,6 +746,7 @@
 | Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
 | Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
 | FOSS for All | [homepage](https://fossforall.org/) |
+| HSPACE | [homepage](https://hspace.io/) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
