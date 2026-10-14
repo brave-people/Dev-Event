@@ -69,43 +69,15 @@
 <br />
 
 ## `26년 10월`
-- __[OpenSearch Project - Seoul Meetup](https://www.meetup.com/opensearch-project-seoul/events/316379129/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
-  - 주최: OpenSearch Project - Seoul
-  - 일시: 10. 13(화) 19:30 ~ 10. 13(화) 21:00
-  
-- __[[Seoul] Google Agentic AI Night](https://luma.com/m5go7n2c)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: Beyond the Vibes Community
-  - 일시: 10. 13(화) 19:00 ~ 10. 13(화) 22:00
-- __[Chat With Your Data in a Day: 하루만에 끝내는 Microsoft 통합 분석 환경](https://event-us.kr/hso/event/132381)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`, `클라우드`
-  - 주최: HSO Korea
-  - 접수: 08. 10(월) ~ 10. 13(화) 00:00
-- __[2026 고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤](https://www.국민참여고용서비스발굴온라인해커톤.com)__
-  - 분류: `온라인`, `오프라인(서울)`, `무료`, `대회`, `AI`
-  - 주최: 고용노동부 / 한국고용정보원
-  - 접수: 09. 21(월) ~ 10. 13(화) 18:00
-- __[2026 우연한식탁 MVP 개발 해커톤](https://event-us.kr/blaybus/event/136364)__
-  - 분류: `온라인`, `무료`, `대회`, `기술일반`
-  - 주최: 와썹하우스(우연한 식탁) / 블레이버스
-  - 접수: 09. 30(수) ~ 10. 13(화) 23:30
-- __[우아콘 2026 (WOOWACON 2026)](https://woowacon.com/)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `기술일반`
-  - 주최: 우아한형제들
-  - 접수: 09. 22(화) 09:00 ~ 10. 13(화) 23:59
 - __[Build with Gemini Seoul - All Builders Day](https://cloud.google.com/events/intl/ko-kr/build-with-gemini-seoul/all-builders-day)__
   - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `AI`, `클라우드`
   - 주최: Google Cloud
   - 일시: 10. 14(수) 09:00 ~ 10. 14(수) 18:00
+  
 - __[Replit x OpenAI x AWS x Gold House Ventures Hackathon](https://partiful.com/e/PVm8Ehw7QwzympSfwkB3)__
   - 분류: `오프라인(서울)`, `무료`, `대회`, `AI`
   - 주최: Replit / OpenAI / AWS / Gold House Ventures
   - 일시: 10. 14(수) 13:00 ~ 10. 14(수) 19:00
-- __[GitHub Copilot Dev Days (Seoul)](https://event-us.kr/powerplatform/event/136275)__
-  - 분류: `오프라인(서울 종로구)`, `유료`, `세미나`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 10. 01(목) ~ 10. 14(수) 00:00
 - __[[Nota on AIr #02] AI PC에서 로컬 LLM을 더 가볍고, 더 쉽게 사용하기](https://www.kr.nota.ai/ytlive)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 노타(Nota AI) / 래블업(Lablup)
@@ -154,6 +126,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: AI Builders / Daytona
   - 접수: 10. 11(일) ~ 10. 17(토) 12:00
+- __[DevDay Exchange Community: Suwon](https://luma.com/4liixtsf)__
+  - 분류: `오프라인(경기 수원)`, `무료`, `모임`, `AI`
+  - 주최: Codex Ambassadors (최원준·한서우)
+  - 접수: 10. 14(수) ~ 10. 17(토) 23:59
 - __[2026 AI 농산물 가격예측 해커톤](https://hackathon.imaginationgroup.co.kr/nongnet)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국농수산식품유통공사(aT) / 상상력집단
@@ -202,6 +178,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소 / 리벨리온
   - 접수: 10. 02(금) 21:30 ~ 10. 21(수) 15:00
+- __[AI 에이전트의 ERP·레거시 연동과 멀티에이전트 협업 실전 세미나](https://event-us.kr/datanet/event/137419)__
+  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `AI`
+  - 주최: 데브멘토
+  - 접수: 10. 13(화) 10:00 ~ 10. 21(수) 22:00
 - __[[엠클라우드브리지] Microsoft 기반 Enterprise AI의 새로운 표준, Ai 365 Unified AI Platform 세미나](https://event-us.kr/mcloudbridge/event/135564)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: 엠클라우드브리지 / Microsoft
@@ -214,6 +194,10 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `AI`, `기술일반`
   - 주최: COMMIT/CO
   - 일시: 10. 22(목) 14:00 ~ 10. 22(목) 16:00
+- __[AWSKRUG #AIEngineering 소모임 - 문서를 이해하는 실전 AI 에이전트 [10월 27일]](https://www.meetup.com/awskrug/events/316967026/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `클라우드`
+  - 주최: AWSKRUG
+  - 접수: 10. 14(수) ~ 10. 22(목) 09:00
 - __[[무료 웨비나] AI 시대의 인프라 경제학 - 오라클 리눅스, OLVM으로 IT TCO 최적화하기](https://event-us.kr/cloudnetworks/event/136635)__
   - 분류: `온라인`, `무료`, `세미나`, `클라우드`
   - 주최: 클라우드네트웍스 / 한국오라클
@@ -230,6 +214,10 @@
   - 분류: `오프라인(서울 송파구)`, `유료`, `세미나`, `기술일반`
   - 주최: 프론트엔드개발그룹(FEDG)
   - 접수: 10. 01(목) 11:00 ~ 10. 22(목) 23:59
+- __[AutoRAG Meetup](https://luma.com/wlmnk9mo)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Markr · 브레인크루
+  - 접수: 10. 14(수) ~ 10. 22(목) 23:59
 - __[GGDC 2026 (글로벌 게임 개발자 컨퍼런스)](https://ggdc.or.kr/)__
   - 분류: `오프라인(광주)`, `무료`, `세미나`, `기술일반`
   - 주최: 전남광주통합특별시 / 광주정보문화산업진흥원
@@ -306,6 +294,10 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `세미나`, `기술일반`
   - 주최: 한국인터넷진흥원(KISA) 한국인터넷정보센터
   - 접수: 10. 05(월) 09:00 ~ 10. 28(수) 23:59
+- __[AI: Clarity amongst hype, uncertainty, and instability (Dev Korea #18)](https://dev-korea.com/events/ai-clarity-october-2026)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
+  - 주최: Dev Korea
+  - 일시: 10. 29(목) 18:30 ~ 10. 29(목) 21:00
 - __[MongoDB User Group Seoul Meetup #6 OCT 2026](https://www.meetup.com/mongodb-usergroup-seoul/events/316356394/)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `모임`, `AI`
   - 주최: Seoul MongoDB User Group
@@ -334,6 +326,10 @@
   - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `블록체인`, `AI`
   - 주최: 과학기술정보통신부 / 한국인터넷진흥원(KISA)
   - 접수: 09. 28(월) ~ 10. 30(금) 18:00
+- __[AWSKRUG 주니어 #junior 밋업 - 11월 5일 (목)](https://www.meetup.com/awskrug/events/316937476/)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 10. 14(수) ~ 10. 30(금)
 - __[GitHub Copilot Dev Days | Jeju](https://ticketa.co/event/ql1tygi5)__
   - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트
@@ -375,6 +371,10 @@
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 엑셈
   - 접수: 09. 29(화) ~ 11. 04(수) 18:00
+- __[2026 Edge AI Day](https://event-us.kr/advantechkr/event/137034)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 어드밴텍
+  - 접수: 10. 12(월) ~ 11. 05(목) 18:00
 - __[bitcoin++ Seoul, privacy edition](https://btcpp.dev/seoul)__
   - 분류: `오프라인(서울 중구)`, `유료`, `세미나`, `블록체인`
   - 주최: bitcoin++
@@ -399,10 +399,18 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: Flutter Seoul
   - 접수: 09. 01(화) 21:00 ~ 11. 07(토) 09:00
+- __[[SK텔레콤] FLY AI Challenger 10기 모집](https://www.skttechacademy.com/notice/15)__
+  - 분류: `오프라인(서울)`, `무료`, `교육`, `AI`
+  - 주최: SK텔레콤
+  - 접수: 10. 14(수) ~ 11. 08(일)
 - __[NVIDIA AI Day Seoul 2026](https://www.nvidia.com/ko-kr/ai-days/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: NVIDIA
-  - 일시: 11. 09(월) ~ 11. 10(화) 18:00
+  - 일시: 11. 09(월) 10:00 ~ 11. 10(화) 18:00
+- __[openKcloud DevDay 2026 "모두를 위한 AI, 관측에서 서비스까지 AI로 연결되는 클라우드"](https://event-us.kr/openkcloud/event/137324)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `클라우드`, `AI`
+  - 주최: OpenKcloud 커뮤니티
+  - 접수: 10. 12(월) ~ 11. 10(화) 11:00
 - __[국부펀드 KIC, AI 에이전트 공모전](https://daker.ai/public/hackathons/kic-ai-agent-competition)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 한국투자공사(KIC)
