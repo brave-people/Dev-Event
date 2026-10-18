@@ -69,79 +69,11 @@
 <br />
 
 ## `26년 10월`
-- __[Build with Gemini Seoul - All Builders Day](https://cloud.google.com/events/intl/ko-kr/build-with-gemini-seoul/all-builders-day)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `AI`, `클라우드`
-  - 주최: Google Cloud
-  - 일시: 10. 14(수) 09:00 ~ 10. 14(수) 18:00
-  
-- __[Replit x OpenAI x AWS x Gold House Ventures Hackathon](https://partiful.com/e/PVm8Ehw7QwzympSfwkB3)__
-  - 분류: `오프라인(서울)`, `무료`, `대회`, `AI`
-  - 주최: Replit / OpenAI / AWS / Gold House Ventures
-  - 일시: 10. 14(수) 13:00 ~ 10. 14(수) 19:00
-- __[[Nota on AIr #02] AI PC에서 로컬 LLM을 더 가볍고, 더 쉽게 사용하기](https://www.kr.nota.ai/ytlive)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 노타(Nota AI) / 래블업(Lablup)
-  - 접수: 09. 28(월) 15:30 ~ 10. 14(수) 19:30
-- __[Bu:net 인사이트 포럼 — NEXT PROCESS](https://ticketa.co/event/xf3lr3a0)__
-  - 분류: `오프라인(부산)`, `무료`, `세미나`, `기술일반`
-  - 주최: 부산정보산업진흥원(BIPA) / 부산글로벌게임센터
-  - 접수: 10. 08(목) ~ 10. 14(수)
-- __[AWSKRUG 구로디지털 #gudi 소모임 - 10월 15일 (목)](https://www.meetup.com/awskrug/events/316565592/)__
-  - 분류: `오프라인(서울 영등포구)`, `유료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 09. 17(목) ~ 10. 15(목) 19:00
-- __[스위프 웹 15기 데모데이 & 네트워킹 행사](https://event-us.kr/swypim/event/137050)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
-  - 주최: 스위프 (SWYP)
-  - 접수: 10. 08(목) ~ 10. 15(목) 23:30
-- __[2026 KoMaP AI 경진대회](https://komap.ai/front/competition2026)__
-  - 분류: `온라인`, `오프라인(경기 고양)`, `무료`, `대회`, `AI`
-  - 주최: 산업통상부 / 한국산업기술진흥원 / 한국전자통신연구원 / 한국재료연구원
-  - 접수: 09. 03(목) ~ 10. 15(목) 23:59
-- __[GitHub Copilot Dev Days | Busan](https://ticketa.co/event/d4fha6wt)__
-  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
-  - 주최: 맞다AI가
-  - 접수: 08. 21(금) 22:52 ~ 10. 16(금) 14:00
-- __[2026 블록체인 밋업데이 (26회차)](https://event-us.kr/2026bcmd/event/129791)__
-  - 분류: `오프라인(서울 송파구)`, `무료`, `세미나`, `블록체인`
-  - 주최: 과학기술정보통신부 / 한국인터넷진흥원(KISA)
-  - 접수: 09. 14(월) ~ 10. 16(금) 18:00
-- __[개발자 무료 오프라인 밋업! Tech:Talk Ep.2](https://event-us.kr/loopers/event/136682)__
-  - 분류: `오프라인`, `무료`, `모임`, `기술일반`
-  - 주최: 루퍼스
-  - 접수: 10. 02(금) ~ 10. 16(금) 23:59
-- __[GitHub Copilot Dev Days | Daegu](https://ticketa.co/event/rfl8sqa9)__
-  - 분류: `오프라인(대구)`, `무료`, `세미나`, `AI`
-  - 주최: 맞다AI가
-  - 일시: 10. 17(토) 12:00 ~ 10. 17(토) 18:00
-- __[YUMITHON — 맛집 검색부터 예약까지, 헤이유미 MCP로 만드는 새로운 앱·서비스](https://luma.com/2guk5d34)__
-  - 분류: `오프라인(서울 중구)`, `무료`, `대회`, `AI`
-  - 주최: 헤이유미 (주식회사 하이드미플리즈)
-  - 일시: 10. 17(토) 10:00 ~ 10. 17(토) 18:00
-- __[CloudBro Ship to Production 시즌3 [Final Demo Day]](https://ticketa.co/event/t8kiwngp)__
-  - 분류: `오프라인(서울 마포구)`, `유료`, `세미나`, `클라우드`
-  - 주최: CloudBro Community
-  - 접수: 09. 17(목) 18:00 ~ 10. 17(토) 10:00
-- __[Daytona HackSprint Seoul 해커톤](https://event-us.kr/aibuildersglobal/event/137263)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
-  - 주최: AI Builders / Daytona
-  - 접수: 10. 11(일) ~ 10. 17(토) 12:00
-- __[DevDay Exchange Community: Suwon](https://luma.com/4liixtsf)__
-  - 분류: `오프라인(경기 수원)`, `무료`, `모임`, `AI`
-  - 주최: Codex Ambassadors (최원준·한서우)
-  - 접수: 10. 14(수) ~ 10. 17(토) 23:59
-- __[2026 AI 농산물 가격예측 해커톤](https://hackathon.imaginationgroup.co.kr/nongnet)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 한국농수산식품유통공사(aT) / 상상력집단
-  - 접수: 09. 07(월) ~ 10. 18(일) 23:59
-- __[AWSKRUG 프론트엔드 #frontend 소모임 10월 21일(수)](https://www.meetup.com/awskrug/events/316824282/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `기술일반`
-  - 주최: AWSKRUG
-  - 접수: 10. 05(월) ~ 10. 18(일) 23:59
 - __[합성 미세구조 기반 재료 물성 예측 AI 경진대회](https://daker.ai/public/hackathons/synthetic-microstructure-property-prediction-ai)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 데이콘
   - 접수: 09. 29(화) 10:00 ~ 10. 19(월) 10:00
+  
 - __[혼자 일하는 AI를 넘어, 함께 일하는 AI 팀 만들기](https://event-us.kr/FKH3nHkjmPGh/event/136964)__
   - 분류: `오프라인(서울 서대문구)`, `유료`, `세미나`, `AI`
   - 주최: 한빛미디어
@@ -374,6 +306,10 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `AI`, `기술일반`
   - 주최: AWSKRUG
   - 접수: 10. 14(수) ~ 10. 30(금)
+- __[Hello World AI 해커톤 — 개인전, 하루 안에 배포까지](https://hackon.kr/e/1a32b615)__
+  - 분류: `오프라인`, `무료`, `대회`, `AI`
+  - 주최: HACK:ON
+  - 일시: 10. 31(토) 13:00
 - __[GitHub Copilot Dev Days | Jeju](https://ticketa.co/event/ql1tygi5)__
   - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트
