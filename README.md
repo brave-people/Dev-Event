@@ -338,7 +338,7 @@
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: 드로이드나이츠
   - 접수: 09. 14(월) 13:00 ~ 11. 01(일) 23:59
-- __[올리브영 테크 컨퍼런스 2026 define:OMNI](https://oliveyoung.tech/conf/2026/)__
+- __[올리브영 테크 컨퍼런스 2026 define:OMNI](https://oliveyoung.tech/conf/2026/?utm_source=dev-event&utm_medium=referral&utm_campaign=define_omni_2026)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `기술일반`
   - 주최: CJ 올리브영
   - 접수: 10. 15(목) 12:00 ~ 11. 01(일) 23:59
