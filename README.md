@@ -341,7 +341,7 @@
 - __[올리브영 테크 컨퍼런스 2026 define:OMNI](https://oliveyoung.tech/conf/2026/?utm_source=dev-event&utm_medium=referral&utm_campaign=define_omni_2026)__
   - 분류: `오프라인(서울 성동구)`, `무료`, `세미나`, `기술일반`
   - 주최: CJ 올리브영
-  - 접수: 10. 15(목) 12:00 ~ 11. 01(일) 23:59
+  - 접수: 10. 20(화) ~ 11. 01(일) 23:59
 
 - __[쿵야 IP를 활용한 로블록스(Roblox) 게임 콘텐츠 제작 공모전](https://www.wevity.com/?c=find&s=1&gbn=view&ix=110895)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
