@@ -363,10 +363,10 @@
   - 분류: `오프라인(서울)`, `무료`, `교육`, `AI`
   - 주최: SK텔레콤
   - 접수: 10. 14(수) ~ 11. 08(일)
-- __[[1회차] RL과 VLA로 만나는 Physical AI - 로봇 제어 기초](https://modulabs.co.kr/community/momos/620)__
+- __[RL과 VLA로 만나는 Physical AI 교육 (1~4회차)](https://modulabs.co.kr/community/momos/620)__
   - 분류: `오프라인(경기 안산)`, `무료`, `교육`, `AI`
   - 주최: 모두의연구소 · 한국공학대학교 로봇직업교육센터
-  - 접수: 10. 08(목) ~ 11. 08(일)
+  - 접수: 10. 08(목) ~ 11. 29(목)
 - __[NVIDIA AI Day Seoul 2026](https://www.nvidia.com/ko-kr/ai-days/)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: NVIDIA
