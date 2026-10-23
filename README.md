@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-210-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-211-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -1047,6 +1047,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/nomad2569"><img src="https://avatars.githubusercontent.com/u/58652871?v=4?s=100" width="100px;" alt="nomad"/><br /><sub><b>nomad</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=nomad2569" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dbp-jack"><img src="https://avatars.githubusercontent.com/u/149581532?v=4?s=100" width="100px;" alt="Nero"/><br /><sub><b>Nero</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=dbp-jack" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sungho-pk42ac"><img src="https://avatars.githubusercontent.com/u/205304160?v=4?s=100" width="100px;" alt="pk42ac"/><br /><sub><b>pk42ac</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Sungho-pk42ac" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://soulee.dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4?s=100" width="100px;" alt="Soul Lee"/><br /><sub><b>Soul Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=soulee-dev" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
