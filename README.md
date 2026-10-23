@@ -250,6 +250,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `대회`, `AI`
   - 주최: HACK:ON
   - 일시: 10. 31(토) 13:00
+- __[Hacktoberfest Seoul 2026](https://events.mlh.com/events/15353-hacktoberfest-meetup-seoul-x-hacktoberfest-korea)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
+  - 주최: MLH / Hacktoberfest Korea
+  - 일시: 10. 31(토) 12:30 ~ 10. 31(토) 18:00
 - __[GitHub Copilot Dev Days | Jeju](https://ticketa.co/event/ql1tygi5)__
   - 분류: `오프라인(제주)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트
