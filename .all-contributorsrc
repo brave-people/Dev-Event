@@ -1896,6 +1896,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "soulee-dev",
+      "name": "Soul Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12353597?v=4",
+      "profile": "https://soulee.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
