@@ -219,9 +219,9 @@
   - 주최: 비트코인센터서울 / DIYbitcoin
   - 접수: 10. 18(일) 19:30 ~ 11. 10(화) 19:00
 - __[From Vulnerability Research to Vulnerability Engineering (Dev Korea #19)](https://dev-korea.com/events/vulnerability-engineering-november-2026)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `기술일반`, `AI`
   - 주최: Dev Korea
-  - 일시: 11. 11(수) 18:30 ~ 11. 11(수) 21:00
+  - 접수: 10. 20(화) ~ 11. 11(수)
 - __[Furiosa Developer Meetup](https://luma.com/1kshcws3)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 퓨리오사AI(FuriosaAI)
