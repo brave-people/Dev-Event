@@ -158,7 +158,7 @@
   - 분류: `오프라인(서울 마포구)`, `무료`, `대회`, `AI`
   - 주최: HACK:ON
   - 접수: 11. 09(월) ~ 11. 16(월)
-- __[사이프(SIPE) 6기 모집](https://sipe.team/recruit?utm_source=devevent&utm_medium=community&utm_campaign=6th_recruit)__
+- __[사이프(SIPE) 6기 모집](https://sipe.team/recruit)__
   - 분류: `오프라인(서울)`, `유료`, `동아리`, `기술일반`, `커뮤니티`, `네트워킹`
   - 주최: 사이프(SIPE)
   - 접수: 11. 02(월) ~ 11. 16(월)
