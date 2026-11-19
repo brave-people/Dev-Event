@@ -69,62 +69,10 @@
 <br />
 
 ## `26년 11월`
-- __[ServiceNow AI 플랫폼의 미래: 사람과 AI 에이전트, 계정 권한과 자산의 워크플로우 통합 경험](https://event-us.kr/itsman/event/137846)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`, `기술일반`
-  - 주최: 잇츠맨 / ServiceNow
-  - 접수: 10. 17(토) ~ 11. 17(화) 14:00
-- __[2026 현장문제 AX 업무혁신 아이디어 해커톤](https://www.blaybus.com/program/1148/landing)__
-  - 분류: `오프라인(충남 천안)`, `무료`, `대회`, `AI`
-  - 주최: 중소벤처기업진흥공단 · 충청남도 · 천안시 · 아산시 · 충남테크노파크
-  - 접수: 10. 30(금) ~ 11. 17(화) 23:59
-- __[SLASH Live Ep. 2 - iPhone Duo 대응기](https://toss.im/builder/to/f478d459ab4d4480a37798912f788c10)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: 토스
-  - 일시: 11. 18(수) 19:00 ~ 11. 18(수) 20:30
-- __[클라우드바리스타 커뮤니티 제12차 컨퍼런스 "멀티 클라우드가 실현하는 초연결 AI 컴퓨팅 인프라의 미래"](https://event-us.kr/kaci/event/139541)__
-  - 분류: `온라인`, `오프라인(서울 서초구)`, `무료`, `세미나`, `클라우드`, `AI`
-  - 주최: Cloud-Barista 커뮤니티
-  - 접수: 11. 05(목) ~ 11. 18(수) 12:00
-- __[PyTorch Day Korea 2026](https://pytorchday.kr/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
-  - 주최: 파이토치 한국 사용자 모임(PyTorch Korea User Group)
-  - 접수: 10. 16(금) 09:30 ~ 11. 18(수) 12:00
-- __[[LG U+ RTK 웨비나] 피지컬 AI 시대, 정확한 위치가 경쟁력입니다](https://event-us.kr/lgupluswebinar/event/137697)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`
-  - 주최: LG유플러스 / Quectel
-  - 접수: 10. 21(수) ~ 11. 18(수) 18:00
-- __[Apache Airflow & Magpie Asia Meetup](https://event-us.kr/airflowkrug/event/136699)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `기술일반`
-  - 주최: Apache Airflow 한국 사용자 모임
-  - 접수: 10. 10(토) ~ 11. 18(수) 23:59
-- __[DevFest GDG Busan X Elice Lab 2026 - Builder Day](https://ticketa.co/event/fb7a0c8t)__
-  - 분류: `오프라인(부산)`, `무료`, `세미나`, `AI`
-  - 주최: GDG Busan · Elice Lab
-  - 접수: 10. 20(화) ~ 11. 19(목) 14:00
-- __[AWS Community Day Seoul 2026 - AI 에이전트 시대의 클라우드 운영 배우기](https://cday2026.awskr.org/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `클라우드`, `AI`
-  - 주최: AWS한국사용자모임(AWSKRUG)
-  - 접수: 10. 19(월) ~ 11. 19(목) 18:00
-- __[Techive 아홉번째 발표: AI에 시키고, 내가 직접 만든다!](https://event-us.kr/techive/event/137668)__
-  - 분류: `오프라인(광주)`, `무료`, `세미나`, `AI`
-  - 주최: Techive / 광주과학기술원(GIST)
-  - 접수: 10. 15(목) ~ 11. 19(목) 23:30
-- __[[세종테크노파크] 사이버 공격과 위협의 이해 (온라인 무료 교육)](https://forms.gle/VZNsYY1KgkS5n2B8A)__
-  - 분류: `온라인`, `무료`, `교육`, `기술일반`
-  - 주최: 세종테크노파크 (충청 정보보호클러스터)
-  - 접수: 10. 29(목) ~ 11. 19(목) 23:59
-- __[[세종테크노파크] 확장형 탐지 및 대응 솔루션(XDR) (온라인 무료 교육)](https://forms.gle/Tjjvk9Fe18NYnnvk6)__
-  - 분류: `온라인`, `무료`, `교육`, `기술일반`
-  - 주최: 세종테크노파크 (충청 정보보호클러스터)
-  - 접수: 10. 29(목) ~ 11. 19(목) 23:59
 - __[SHOWCASE26](https://developeracademy.postech.ac.kr/showcase26)__
   - 분류: `오프라인(경북 포항)`, `무료`, `세미나`, `기술일반`
   - 주최: Apple Developer Academy @ POSTECH
   - 일시: 11. 20(금) 13:30 ~ 11. 20(금) 17:30
-- __[제주 AI·빅데이터 활용 AI Agent 개발 챌린지](https://daker.ai/public/hackathons/jeju-ai-bigdata-agent-challenge)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: 제주테크노파크
-  - 접수: 10. 26(월) 10:00 ~ 11. 20(금) 10:00
 - __[클라우드 네이티브 커뮤니티 밋업 in 대구](https://ticketa.co/event/o2k0l625)__
   - 분류: `오프라인(대구)`, `무료`, `모임`, `클라우드`
   - 주최: CNCD (Cloud Native Daegu)
@@ -153,6 +101,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 성평등가족부
   - 접수: 11. 02(월) ~ 11. 20(금) 18:00
+- __[NAVER Connect Robotics Cup 2026 결승전 현장 관람](https://form.naver.com/response/38PbnPPGCJT)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `대회`, `AI`
+  - 주최: 네이버 커넥트재단
+  - 접수: 11. 18(수) 12:33 ~ 11. 20(금) 23:30
 - __[2026 사회보장 데이터를 활용한 AI 혁신 아이디어 경진대회](https://wma.co.kr/ax)__
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 대구가톨릭대학교 · 한국사회보장정보원
@@ -185,6 +137,10 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`
   - 주최: Kotlin User Groups Seoul
   - 접수: 11. 04(수) 09:00 ~ 11. 22(일) 23:59
+- __[[GDGoC Konkuk] Open Session 11/24](https://ticketa.co/event/dtx8yph8)__
+  - 분류: `오프라인(서울 광진구)`, `무료`, `세미나`, `기술일반`
+  - 주최: GDGoC Konkuk (건국대학교 GDG on Campus)
+  - 접수: 11. 19(목) ~ 11. 22(일) 23:59
 - __[[GenAI Lab 핸즈온] 안전하고 경제적인 AI 운영 — LLM Gateway 직접 설치해보기](https://home.nxavis.com/promotion/field/genailab26)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: AWS · NDS
@@ -221,6 +177,10 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`, `AI`
   - 주최: ClickHouse · 올리브영 · 넥스트클라우드
   - 일시: 11. 25(수) 18:30 ~ 11. 25(수) 21:30
+- __[AAIF Daegu: Agentic AI Night](https://ticketa.co/event/7kjyovcp)__
+  - 분류: `오프라인(대구)`, `무료`, `모임`, `AI`
+  - 주최: Agentic AI Foundation 커뮤니티 · 맞다AI가
+  - 일시: 11. 25(수) 18:00 ~ 11. 25(수) 21:30
 - __[.NET Conf 2026 @Seoul](https://ticketa.co/event/zry4rrhh)__
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
   - 주최: Dot4
@@ -261,18 +221,22 @@
   - 분류: `오프라인(서울 마포구)`, `유료`, `대회`, `AI`
   - 주최: GDG Campus Korea
   - 접수: 10. 30(금) ~ 11. 27(금) 18:00
+- __[비주얼 코딩 | AI로 만드는 시대, 설계는 누가 하는가?](https://event-us.kr/pulse9/event/140379)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
+  - 주최: AI 에이전트 길드
+  - 접수: 11. 18(수) ~ 11. 27(금) 18:00
 - __[OWASP Korea Day](https://event-us.kr/owasp/event/133675)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: OWASP Seoul Chapter
   - 접수: 09. 14(월) ~ 11. 27(금) 23:30
-- __[TripPups AI Game Hackathon 2026](https://hackon.kr/e/d0c8a7e5)__
-  - 분류: `온라인`, `무료`, `대회`, `AI`
-  - 주최: Trip-Pups
-  - 일시: 10. 26(월) ~ 11. 28(토) 23:59
 - __[DevFest GDG Daejeon 2026](https://ticketa.co/event/qk6gq7et)__
   - 분류: `오프라인(대전)`, `유료`, `세미나`, `AI`
   - 주최: GDG Daejeon
   - 접수: 10. 29(목) ~ 11. 28(토) 10:00
+- __[DevFest Cloud x Pangyo 2026](https://event-us.kr/gdgcloudkr/event/140493)__
+  - 분류: `오프라인(경기 성남)`, `유료`, `대회`, `AI`, `클라우드`
+  - 주최: GDG Cloud Korea · GDG Pangyo
+  - 접수: 11. 17(화) ~ 11. 28(토) 13:00
 - __[(강북3기/AI핵심) 풀스택 AI 실무 프로젝트 과정](https://sesac.seoul.kr/sesac/course/offline/courseDetail.do?crsSn=1479)__
   - 분류: `오프라인(서울 강북구)`, `무료`, `교육`, `AI`
   - 주최: 서울경제진흥원(SBA) · 청년취업사관학교 새싹(SeSAC) 강북캠퍼스
@@ -293,6 +257,10 @@
   - 분류: `오프라인(서울 마포구)`, `무료`, `대회`, `AI`
   - 주최: 창업진흥원 · 현대건설 · SVC Seoul
   - 접수: 11. 10(화) ~ 11. 29(일) 23:59
+- __[2026 INNO-CODER AI HACKATHON](https://forms.gle/csx3ieajaqKMWgKh6)__
+  - 분류: `오프라인(울산)`, `무료`, `대회`, `AI`
+  - 주최: (재)운당나눔재단 · (재)울산창조경제혁신센터
+  - 접수: 11. 16(월) ~ 11. 29(일) 23:59
 - __[[토스페이먼츠] 2026 GEO 그로스 살롱 웨비나: 글로벌 진출 초기 챙겨야 할 GEO 전략](https://tosspayments.recatch.cc/workflows/ykowxqffrm)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 토스페이먼츠
@@ -305,6 +273,10 @@
   - 분류: `오프라인(대구)`, `무료`, `대회`, `AI`
   - 주최: 대구정책연구원 · 대구광역시 창의도시재생지원센터
   - 접수: 11. 06(금) ~ 11. 30(월) 18:00
+- __[2026 오픈소스 페스티벌](https://event-us.kr/SWTECH/event/140603)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 과학기술정보통신부 · 정보통신산업진흥원(NIPA)
+  - 접수: 11. 19(목) ~ 11. 30(월) 18:00
 - __[루프플레이 | 개발자를 위한 실전 스터디 & 네트워킹](https://event-us.kr/loopers/event/138756)__
   - 분류: `온라인`, `무료`, `동아리`, `기술일반`
   - 주최: 루퍼스
@@ -313,6 +285,10 @@
 <br />
 
 ## `26년 12월`
+- __[Devin Meetup Seoul](https://luma.com/qg5xt98w)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `모임`, `AI`
+  - 주최: Devin (Cognition)
+  - 일시: 12. 01(화) 18:30
 - __[[kt cloud 웨비나] 클라우드 운영, 보이는 만큼 달라지다](https://event-us.kr/ktcloud/event/139954)__
   - 분류: `온라인`, `무료`, `세미나`, `클라우드`
   - 주최: kt cloud
@@ -366,14 +342,26 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft MVP 커뮤니티
   - 접수: 11. 10(화) 11:00 ~ 12. 06(일) 10:00
+- __[AI와 함께 앱 출시부터 운영·수익화까지! 6주 만에 팀으로 완성하는 프로젝트 [스위프 앱 8기]](https://event-us.kr/swypim/event/140684)__
+  - 분류: `오프라인`, `온라인`, `유료`, `모임`, `AI`
+  - 주최: 스위프 (SWYP)
+  - 접수: 11. 20(금) ~ 12. 06(일) 23:30
 - __[모두콘 2026: Deeper in AI](https://service.modulabs.co.kr/r/moducon-github)__
-  - 분류: `오프라인(서울 서대문구)`, `무료`, `컨퍼런스`, `AI`
+  - 분류: `오프라인(서울 서대문구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
   - 접수: 11. 06(금) 20:00 ~ 12. 07(월) 12:00
 - __[우리 회사 AI 에이전트, 도입 전에 직접 만들어보세요 | Agent in a Day](https://event-us.kr/hso/event/138582)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: HSO
   - 접수: 10. 26(월) ~ 12. 07(월) 23:30
+- __[제25회 산기협 AX혁신포럼 | AI 대전환 시대: Agentic AI에서 Physical AI까지](https://event-us.kr/koita3460/event/139852)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 한국산업기술진흥협회(KOITA)
+  - 접수: 11. 10(화) 12:00 ~ 12. 09(수) 23:30
+- __[THE PIONEERS | 팀스파르타 제품조직 AX 세미나](https://event-us.kr/teamspartaproduct/event/140423)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 팀스파르타
+  - 접수: 11. 19(목) ~ 12. 10(목) 23:59
 - __[Capture, Explain, Defend — AI Cybersecurity Hackathon](https://luma.com/aisecurityseoul)__
   - 분류: `오프라인(서울)`, `무료`, `대회`, `AI`
   - 주최: AI Builders · GMI Cloud · F5 · NVIDIA
@@ -386,6 +374,10 @@
   - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
   - 주최: AI Builders · Base44 · Global Startup Center
   - 일시: 12. 12(토) 14:00 ~ 12. 12(토) 17:00
+- __[TripPups AI Game Hackathon 2026](https://hackon.kr/e/d0c8a7e5)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: Trip-Pups
+  - 일시: 10. 26(월) ~ 12. 12(토) 23:59
 - __[DEVFEST INCHEON 2026](https://ticketa.co/event/8dedugs6)__
   - 분류: `오프라인(인천)`, `유료`, `세미나`, `AI`
   - 주최: GDG Incheon
