@@ -1,5 +1,7 @@
 ![img](./static/banner.jpg)
 
+> 행사 다시보기는 [Dev-Event-Replay](https://github.com/brave-people/Dev-Event-Replay) 저장소로 옮겼습니다. 이 페이지는 2023년 8월 이후 갱신하지 않습니다.
+
 <br />
 <br />
 

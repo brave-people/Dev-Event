@@ -55,16 +55,14 @@
 <br /> 
 -->
 
-<!-- 
 ## 다시보기 🎥
-<a href="https://www.youtube.com/watch?v=K38z-1kqhSc&list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy">
-  <img src="https://github.com/brave-people/dev-event/blob/master/static/focus_banner/241111_ifkakao2024.jpg?raw=true">
+<a href="https://github.com/brave-people/Dev-Event-Replay">
+  <img src="./static/focus_banner/261121_replay.png" alt="Dev-Event-Replay 개발자 행사 다시보기">
 </a>
 
-> 클릭시 다시보기 링크로 이동합니다.
+> 클릭시 Dev-Event-Replay 저장소로 이동합니다.
 
 <hr />
--->
 
 <br />
 
@@ -535,7 +533,7 @@
         <tr>
           <td> 행사 녹화 다시보기 </td>
           <td colspan="2">
-            <a href="./replay_event/replay_event.md"> 바로가기 </a>
+            <a href="https://github.com/brave-people/Dev-Event-Replay"> 바로가기 </a>
           </td>
         </tr>
 </table>
