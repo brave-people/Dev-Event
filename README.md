@@ -296,6 +296,10 @@
   - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `AI`
   - 주최: Microsoft 커뮤니티 이벤트 (한국마이크로소프트 DevRel)
   - 접수: 11. 16(월) ~ 12. 04(금) 23:59
+- __[Dify Studio 서울 워크숍: Dify New Agent로 나만의 AI 에이전트 직접 만들기](https://luma.com/9nt6qguj)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: Dify
+  - 일시: 12. 05(토) 13:30 ~ 12. 05(토) 17:00
 - __[Hack the Audience 2026: Creator-to-CEO Hackathon](https://extriver.com/event1)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: Extriver Partners
