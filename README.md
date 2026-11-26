@@ -67,82 +67,10 @@
 <br />
 
 ## `26년 11월`
-- __[스크래퍼 개발자 모임 6회](https://event-us.kr/scraper/event/139732)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 11. 09(월) ~ 11. 23(월) 23:30
-- __[FOSS for All Conference 2026](https://2026.fossforall.org/)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
-  - 주최: FOSS for All
-  - 접수: 10. 06(화) 10:00 ~ 11. 23(월) 23:59
-- __[3rd vLLM Korea Meetup](https://event-us.kr/vllmkr/event/137780)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `AI`
-  - 주최: vLLM Korea · 리벨리온 · 스퀴즈비츠
-  - 접수: 11. 03(화) 14:00 ~ 11. 23(월) 23:59
-- __[2026 AI 정보보호 세미나 | AI 시대, 사이버 위협과 보안 이야기](https://event-us.kr/day1ax/event/139802)__
-  - 분류: `온라인`, `오프라인(경기 수원)`, `무료`, `세미나`, `기술일반`
-  - 주최: 온앤安
-  - 접수: 11. 09(월) ~ 11. 23(월) 23:59
-- __[AI in class, AI at work (Dev Korea #20)](https://dev-korea.com/events/ai-in-class-november-2026)__
-  - 분류: `오프라인(서울 용산구)`, `무료`, `모임`, `AI`
-  - 주최: Dev Korea · 서울특별시교육청
-  - 일시: 11. 24(화) 18:30 ~ 11. 24(화) 22:00
-- __[AI 시안으로 개발자와 협업하기](https://event-us.kr/proofer/event/140027)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 프루퍼(proofer)
-  - 접수: 11. 12(목) 09:00 ~ 11. 24(화) 19:00
-- __[2026 AI-Powered V&V Tools — 슈어소프트테크 웨비나](https://onoffmix.com/event/353238)__
-  - 분류: `온라인`, `무료`, `세미나`, `기술일반`, `AI`
-  - 주최: 슈어소프트테크
-  - 접수: 11. 23(월) ~ 11. 24(화) 23:59
-- __[Builders Lounge 11월 모임: AI 개발 시대, 기획의 중요성](https://luma.com/b4s042ch)__
-  - 분류: `온라인`, `무료`, `모임`, `AI`
-  - 주최: Builders Lounge
-  - 일시: 11. 25(수) 13:00 ~ 11. 25(수) 15:00
-- __[ClickHouse x OliveYoung x NxtCloud 서울 밋업](https://luma.com/clickh-gb3i)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`, `AI`
-  - 주최: ClickHouse · 올리브영 · 넥스트클라우드
-  - 일시: 11. 25(수) 18:30 ~ 11. 25(수) 21:30
-- __[AAIF Daegu: Agentic AI Night](https://ticketa.co/event/7kjyovcp)__
-  - 분류: `오프라인(대구)`, `무료`, `모임`, `AI`
-  - 주최: Agentic AI Foundation 커뮤니티 · 맞다AI가
-  - 일시: 11. 25(수) 18:00 ~ 11. 25(수) 21:30
-- __[.NET Conf 2026 @Seoul](https://ticketa.co/event/zry4rrhh)__
-  - 분류: `오프라인(서울 종로구)`, `무료`, `세미나`, `기술일반`
-  - 주최: Dot4
-  - 접수: 10. 27(화) ~ 11. 25(수) 23:00
-- __[제5회 코드포코리아 시빅테크 컨퍼런스 '다시' 시빅해킹](https://ticketa.co/event/73aey7ic)__
-  - 분류: `오프라인(서울 영등포구)`, `무료`, `세미나`, `기술일반`
-  - 주최: 코드포코리아 · 하자센터 · 빠띠 · 전국미디어센터협의회
-  - 접수: 11. 09(월) ~ 11. 25(수) 23:30
-- __[2027 ChatGPT 도입 전략 세미나](https://event.imaginationgroup.co.kr/seminar/12/)__
-  - 분류: `오프라인(서울 서초구)`, `무료`, `세미나`, `AI`
-  - 주최: 한국AI기술협회 · 상상력집단
-  - 접수: 11. 10(화) ~ 11. 25(수) 23:59
-- __[잡코리아 프로덕트 컨퍼런스 | 흩어진 경계, 흔들리는 기준](https://www.jobkorea.co.kr/goodjob/Tip/View?News_No=22687)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`
-  - 주최: 잡코리아(웍스피어)
-  - 접수: 11. 05(목) ~ 11. 25(수)
-- __[2026 청강 CK GAME SUMMIT — AI와 게임 산업의 미래 생태계를 논하다](https://ck-game-summit-2026.vercel.app/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `세미나`, `AI`
-  - 주최: 청강문화산업대학교 게임콘텐츠스쿨
-  - 접수: 11. 23(월) ~ 11. 25(수) 23:59
-- __[[AI허브 안심존] Hands-On 데이터분석 : 미개방 데이터 체험](https://onoffmix.com/event/353083)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `세미나`, `AI`
-  - 주최: 과학기술정보통신부 · 한국지능정보사회진흥원(NIA) AI허브 안심존
-  - 접수: 11. 09(월) ~ 11. 25(수)
-- __[생산성부터 보안, AI 까지 다루는 12주 릴레이 웨비나!](https://www.rocketpunch.com/event?eventId=cZlwtO40G0)__
-  - 분류: `온라인`, `무료`, `세미나`, `AI`, `클라우드`
-  - 주최: 디모아 / Microsoft
-  - 일시: 09. 10(목) 14:00 ~ 11. 26(목) 15:00
 - __[AWSKRUG 커넥트 #connect 소모임 - 유럽 소버린 AI 및 AI 에이전트 기반 K8s 플랫폼 엔지니어링 (11월 26일)](https://www.meetup.com/awskrug/events/317199460/)__
   - 분류: `오프라인(서울 서초구)`, `유료`, `모임`, `클라우드`
   - 주최: AWSKRUG
   - 일시: 11. 26(목) 19:00 ~ 11. 26(목) 21:10
-- __[AWSKRUG 인천 지역 #incheon 소모임 - 11월 26일 (목)](https://www.meetup.com/awskrug/events/317378266/)__
-  - 분류: `오프라인(인천)`, `무료`, `모임`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 11. 11(수) ~ 11. 26(목) 19:30
 - __[Codex Community Meetup: Seoul](https://luma.com/ek6u1wis)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: Codex Community Korea · Oracle Korea
@@ -159,14 +87,14 @@
   - 분류: `오프라인(서울 마포구)`, `유료`, `대회`, `AI`
   - 주최: GDG Campus Korea
   - 접수: 10. 30(금) ~ 11. 27(금) 18:00
-- __[비주얼 코딩 | AI로 만드는 시대, 설계는 누가 하는가?](https://event-us.kr/pulse9/event/140379)__
-  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
-  - 주최: AI 에이전트 길드
-  - 접수: 11. 18(수) ~ 11. 27(금) 18:00
 - __[OWASP Korea Day](https://event-us.kr/owasp/event/133675)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: OWASP Seoul Chapter
   - 접수: 09. 14(월) ~ 11. 27(금) 23:30
+- __[영원톤 2026](https://luma.com/xcqt808i)__
+  - 분류: `오프라인(부산)`, `무료`, `대회`, `기술일반`
+  - 주최: 경성대학교 멋쟁이사자처럼 · 창원대학교 멋쟁이사자처럼
+  - 접수: 11. 26(목) ~ 11. 27(금)
 - __[DevFest GDG Daejeon 2026](https://ticketa.co/event/qk6gq7et)__
   - 분류: `오프라인(대전)`, `유료`, `세미나`, `AI`
   - 주최: GDG Daejeon
@@ -175,6 +103,10 @@
   - 분류: `오프라인(경기 성남)`, `유료`, `대회`, `AI`, `클라우드`
   - 주최: GDG Cloud Korea · GDG Pangyo
   - 접수: 11. 17(화) ~ 11. 28(토) 13:00
+- __[비주얼 코딩 | AI로 만드는 시대, 설계는 누가 하는가?](https://event-us.kr/pulse9/event/140379)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `AI`
+  - 주최: AI 에이전트 길드
+  - 접수: 11. 18(수) 09:00 ~ 11. 28(토) 18:00
 - __[(강북3기/AI핵심) 풀스택 AI 실무 프로젝트 과정](https://sesac.seoul.kr/sesac/course/offline/courseDetail.do?crsSn=1479)__
   - 분류: `오프라인(서울 강북구)`, `무료`, `교육`, `AI`
   - 주최: 서울경제진흥원(SBA) · 청년취업사관학교 새싹(SeSAC) 강북캠퍼스
@@ -247,6 +179,10 @@
   - 분류: `오프라인(서울 강남구)`, `온라인`, `무료`, `대회`, `AI`
   - 주최: 스마일게이트 오렌지플래닛
   - 접수: 11. 17(화) ~ 12. 01(화)
+- __[실감미디어와 콘텐츠 국제 컨퍼런스 2027 (IMC 2027)](https://iimc2027.com/)__
+  - 분류: `오프라인(서울 마포구)`, `무료`, `세미나`, `AI`
+  - 주최: 중앙대학교 실감미디어혁신융합대학사업단 · 가상융합대학
+  - 접수: 11. 24(화) 12:00 ~ 12. 02(수) 12:00
 - __[[kt cloud 웨비나] 클라우드 운영, 보이는 만큼 달라지다](https://event-us.kr/ktcloud/event/139954)__
   - 분류: `온라인`, `무료`, `세미나`, `클라우드`
   - 주최: kt cloud
@@ -259,6 +195,10 @@
   - 분류: `오프라인(서울 용산구)`, `무료`, `세미나`, `기술일반`
   - 주최: 과학기술정보통신부 (주관 한국인터넷진흥원 · 한국디지털문서플랫폼협회 · 한국전자서명포럼)
   - 접수: 10. 26(월) ~ 12. 02(수) 18:00
+- __[22회 보안잇 오프모임 | 보안 리더가 말하는 일 잘하는 실무자](https://event-us.kr/officekeeper/event/141013)__
+  - 분류: `오프라인(경기 성남)`, `무료`, `모임`, `기술일반`
+  - 주최: 오피스키퍼(지란지교소프트)
+  - 접수: 11. 24(화) ~ 12. 02(수) 23:30
 - __[사이드테이블 네트워킹](https://event-us.kr/mdocieyn/event/140156)__
   - 분류: `오프라인(서울 마포구)`, `무료`, `모임`, `기술일반`
   - 주최: 사이드 테이블
@@ -275,6 +215,10 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: BC카드
   - 접수: 11. 09(월) ~ 12. 03(목)
+- __[제1회 리로그 라이트톤(Rilog Writhon)](https://ticketa.co/event/pis88one)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
+  - 주최: 리로그(Rilog.)
+  - 접수: 11. 25(수) 15:00 ~ 12. 03(목) 23:59
 - __[Nucoders 2nd Demoday: 누코더스 데모데이](https://luma.com/reuf8z4u)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `AI`
   - 주최: 누코드(Nucode)
@@ -288,6 +232,10 @@
   - 분류: `오프라인(서울 관악구)`, `무료`, `대회`, `기술일반`
   - 주최: 현대모비스
   - 접수: 11. 09(월) ~ 12. 04(금) 17:00
+- __[THE PIONEERS | 팀스파르타 제품조직 AX 세미나](https://event-us.kr/teamspartaproduct/event/140423)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
+  - 주최: 팀스파르타
+  - 접수: 11. 19(목) ~ 12. 04(금) 23:30
 - __[DevFest Android in Korea 2026 - AI 디톡스](https://ticketa.co/event/034124ot)__
   - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
   - 주최: GDG Korea Android
@@ -298,8 +246,12 @@
   - 접수: 11. 16(월) ~ 12. 04(금) 23:59
 - __[Dify Studio 서울 워크숍: Dify New Agent로 나만의 AI 에이전트 직접 만들기](https://luma.com/9nt6qguj)__
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: Dify
+  - 주최: Dify (LangGenius)
   - 일시: 12. 05(토) 13:30 ~ 12. 05(토) 17:00
+- __[Codex Community Hackathon – Suwon](https://luma.com/hwl5f9xx)__
+  - 분류: `오프라인(경기 수원)`, `무료`, `대회`, `AI`
+  - 주최: Codex Community
+  - 일시: 12. 05(토) 12:00 ~ 12. 05(토) 19:00
 - __[Hack the Audience 2026: Creator-to-CEO Hackathon](https://extriver.com/event1)__
   - 분류: `온라인`, `무료`, `대회`, `기술일반`
   - 주최: Extriver Partners
@@ -316,10 +268,22 @@
   - 분류: `오프라인`, `온라인`, `유료`, `모임`, `AI`
   - 주최: 스위프 (SWYP)
   - 접수: 11. 20(금) ~ 12. 06(일) 23:30
+- __[2026 제5회 대국민 K-water AI 경진대회](https://hackathon.imaginationgroup.co.kr/kwater/)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 한국수자원공사(K-water연구원) · 운영 상상력집단
+  - 접수: 11. 20(금) 10:00 ~ 12. 06(일) 23:59
+- __[AI 활용 전력설비 정비 및 안전지원 서비스 아이디어 공모전 (한전KPS)](https://form.naver.com/response/C0grjmTXx4W)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 한전KPS
+  - 접수: 11. 23(월) ~ 12. 06(일) 23:59
 - __[모두콘 2026: Deeper in AI](https://service.modulabs.co.kr/r/moducon-github)__
   - 분류: `오프라인(서울 서대문구)`, `무료`, `세미나`, `AI`
   - 주최: 모두의연구소
   - 접수: 11. 06(금) 20:00 ~ 12. 07(월) 12:00
+- __[Google Cloud Fundamentals: Vertex AI for Machine Learning Practitioners](https://www.megazonesoft.com/gcp-fundamentals_20261208/)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`, `클라우드`
+  - 주최: 메가존소프트
+  - 접수: 11. 26(목) 13:00 ~ 12. 07(월) 18:00
 - __[우리 회사 AI 에이전트, 도입 전에 직접 만들어보세요 | Agent in a Day](https://event-us.kr/hso/event/138582)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: HSO
@@ -336,6 +300,10 @@
   - 분류: `오프라인(포항)`, `무료`, `교육`, `기술일반`
   - 주최: Apple Developer Academy @ POSTECH
   - 접수: 05. 14(목) 09:00 ~ 12. 09(수) 13:00
+- __[대구광역시 남구 AI 행정혁신 경진대회](https://kubic.kmu.ac.kr/bbs/kubic2025/2441/241917/artclView.do)__
+  - 분류: `오프라인(대구)`, `무료`, `대회`, `AI`
+  - 주최: 대구광역시 남구청 · 계명대학교 창업지원단
+  - 접수: 11. 23(월) ~ 12. 09(수) 18:00
 - __[제25회 산기협 AX혁신포럼 | AI 대전환 시대: Agentic AI에서 Physical AI까지](https://event-us.kr/koita3460/event/139852)__
   - 분류: `온라인`, `무료`, `세미나`, `AI`
   - 주최: 한국산업기술진흥협회(KOITA)
@@ -352,6 +320,10 @@
   - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
   - 주최: DAY1 AX (데이원컴퍼니)
   - 일시: 12. 10(목) 16:00 ~ 12. 10(목) 18:30
+- __[AWSKRUG 자격증 #Cert 소모임 - AI Business Strategist 취득 스터디 (12월 10일)](https://www.meetup.com/awskrug/events/317578872/)__
+  - 분류: `오프라인(서울 강남구)`, `무료`, `모임`, `클라우드`, `AI`
+  - 주최: AWSKRUG
+  - 일시: 12. 10(목) 19:00 ~ 12. 10(목) 21:00
 - __[[잇츠맨 웨비나] 텔레메트리 기반 수집부터 AI 연계까지, 실제 구축 사례로 보는 인프라 장애 대응 전략](https://onoffmix.com/event/353826)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 잇츠맨 · 바이텍씨스템
@@ -360,10 +332,10 @@
   - 분류: `오프라인(서울 마포구)`, `무료`, `세미나`, `기술일반`
   - 주최: (사)한국시각장애인연합회 · 한국장애인소비자평가원
   - 접수: 11. 23(월) ~ 12. 10(목) 23:30
-- __[THE PIONEERS | 팀스파르타 제품조직 AX 세미나](https://event-us.kr/teamspartaproduct/event/140423)__
-  - 분류: `오프라인(서울 강남구)`, `무료`, `세미나`, `AI`
-  - 주최: 팀스파르타
-  - 접수: 11. 19(목) ~ 12. 10(목) 23:59
+- __[AI·공공데이터·정보공개 대국민 혁신 아이디어 공모전 (국토안전관리원)](https://bigtori.kalis.or.kr/contest/ai-idea-contest)__
+  - 분류: `온라인`, `무료`, `대회`, `AI`
+  - 주최: 국토안전관리원
+  - 접수: 11. 23(월) ~ 12. 10(목) 23:59
 - __[Capture, Explain, Defend — AI Cybersecurity Hackathon](https://luma.com/aisecurityseoul)__
   - 분류: `오프라인(서울)`, `무료`, `대회`, `AI`
   - 주최: AI Builders · GMI Cloud · F5 · NVIDIA
@@ -376,6 +348,14 @@
   - 분류: `온라인`, `무료`, `대회`, `AI`
   - 주최: 세종사이버대학교 AI학과
   - 접수: 10. 06(화) ~ 12. 11(금)
+- __[『AI 엔지니어를 위한 트랜스포머』 출간 기념 북토크 - AI 현업 동향부터 AI 모델 공부법까지](https://event-us.kr/FKH3nHkjmPGh/event/141057)__
+  - 분류: `오프라인(서울 서대문구)`, `유료`, `세미나`, `AI`
+  - 주최: 한빛미디어
+  - 접수: 11. 25(수) 12:30 ~ 12. 11(금) 23:59
+- __[LISAthon-ADAPT 2026 (Attack & Defense Arena for Platform Threats)](https://schlisa.org/)__
+  - 분류: `온라인`, `오프라인(충남 아산)`, `무료`, `대회`, `기술일반`
+  - 주최: 순천향대학교 시스템보안연구실(LISA)
+  - 접수: 11. 26(목) ~ 12. 11(금) 23:59
 - __[Vibe Coders Jam Session: feat. Base44](https://luma.com/Base44seoul1211)__
   - 분류: `오프라인(서울)`, `무료`, `모임`, `AI`
   - 주최: AI Builders · Base44 · Global Startup Center
@@ -388,6 +368,10 @@
   - 분류: `오프라인(인천)`, `유료`, `세미나`, `AI`
   - 주최: GDG Incheon
   - 접수: 10. 09(금) 09:00 ~ 12. 12(토) 02:10
+- __[2026 DevFest Golang Korea](https://ticketa.co/event/60xmmfiu)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `세미나`, `기술일반`
+  - 주최: GDG Golang Korea
+  - 접수: 11. 10(화) 20:00 ~ 12. 12(토) 20:38
 - __[아이펠 AI 리서처 20기 (AI 논문 연구 심화 부트캠프)](https://aiffel.io/airesearcher)__
   - 분류: `온라인`, `유료`, `교육`, `AI`
   - 주최: 모두의연구소 (아이펠)
@@ -404,10 +388,26 @@
   - 분류: `오프라인(서울 서초구)`, `무료`, `모임`, `기술일반`, `AI`
   - 주최: Seoul MongoDB User Group
   - 일시: 12. 15(화) 19:00 ~ 12. 15(화) 21:30
+- __[[잇츠맨 웨비나] 프론티어 AI 공격의 실체를 목격하라 — PHP2Shell을 포함한 실제 프론티어 AI 공격사례 분석과 대응 전략](https://onoffmix.com/event/354073)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 잇츠맨 · F5
+  - 접수: 11. 26(목) ~ 12. 15(화) 14:00
+- __[AAIF Daegu: AI Agent Show & Tell](https://luma.com/3if5rscd)__
+  - 분류: `온라인`, `무료`, `모임`, `AI`
+  - 주최: Agentic AI Foundation 커뮤니티 · 맞다AI가
+  - 일시: 12. 16(수) 19:00 ~ 12. 16(수) 20:00
+- __[[잇츠맨 웨비나] [Recap+] AI 혁신을 가속하는 보안 설계 — 안전한 AI 사용부터 AI 애플리케이션 보호까지](https://onoffmix.com/event/354077)__
+  - 분류: `온라인`, `무료`, `세미나`, `AI`
+  - 주최: 잇츠맨 · 팔로알토 네트웍스
+  - 접수: 11. 26(목) ~ 12. 16(수) 14:00
 - __[[잇츠맨 웨비나] PostgreSQL for the Enterprise — 안정성, 관리, 기술지원을 어떻게 확보할 것인가?](https://onoffmix.com/event/353825)__
   - 분류: `온라인`, `무료`, `세미나`, `기술일반`
   - 주최: 잇츠맨 · 인젠트
   - 접수: 11. 23(월) ~ 12. 17(목) 14:00
+- __[[LOOP:CLUB] IT 현직자의 연말 네트워킹 파티](https://event-us.kr/loopers/event/141098)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `모임`, `기술일반`
+  - 주최: 루퍼스
+  - 접수: 11. 24(화) ~ 12. 18(금) 18:00
 - __[2026 HAI(하이)! - Hecto AI x Wallet Service Challenge](https://daker.ai/public/hackathons/2026-hai-hecto-ai-challenge)__
   - 분류: `온라인`, `무료`, `대회`, `AI`, `블록체인`
   - 주최: 헥토(Hecto)
@@ -739,6 +739,10 @@
 
 ## Contributors ✨
 
+<details>
+<summary><b>함께 만든 사람들 펼쳐 보기</b></summary>
+<br />
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -1026,6 +1030,8 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+</details>
 
 > 저장소에 기여해주신 분들입니다. 모든 분께 감사드립니다 :) PR 환영합니다!
 
