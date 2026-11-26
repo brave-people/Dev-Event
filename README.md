@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-213-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-214-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -1022,6 +1022,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://soulee.dev"><img src="https://avatars.githubusercontent.com/u/12353597?v=4&size=100" width="100px" height="100px" alt="Soul Lee"/><br /><sub><b>Soul Lee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=soulee-dev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jinnyng"><img src="https://avatars.githubusercontent.com/u/139188214?v=4&size=100" width="100px" height="100px" alt="Park Jin Yeong"/><br /><sub><b>Park Jin Yeong</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=jinnyng" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/accidentable"><img src="https://avatars.githubusercontent.com/u/112837078?v=4&size=100" width="100px" height="100px" alt="accidentable"/><br /><sub><b>accidentable</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=accidentable" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kiana-Ding"><img src="https://avatars.githubusercontent.com/u/320804801?v=4&size=100" width="100px" height="100px" alt="Kiana-Ding"/><br /><sub><b>Kiana-Ding</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Kiana-Ding" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
